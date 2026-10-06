@@ -15,15 +15,15 @@ The sources describe historical political and administrative changes. The Three 
 
 ## Foodways
 
- The historical account explains that the Kipchaks and Qanqlis were famous for distilling *khara-airag*, described as black kumis, and that they were called Kharachin by the Mongols. The source presents this as an explanation of the name’s history rather than as a documented Kharchin food tradition.
+The historical account explains that the Kipchaks and Qanqlis were famous for distilling *khara-airag*, described as black kumis, and that they were called Kharachin by the Mongols. The source presents this as an explanation of the name’s history rather than as a documented Kharchin food tradition.
 
 ## Oral tradition & literature
 
- The historical material records the origin and changing use of the term Kharchin.
+The historical material records the origin and changing use of the term Kharchin.
 
 ## Language & religion
 
- The source gives Mongolian and Chinese forms of the group’s name: ᠬᠠᠷᠠᠴᠢᠨ, Харчин, qaračin, and 喀喇沁部.
+The source gives Mongolian and Chinese forms of the group’s name: ᠬᠠᠷᠠᠴᠢᠨ, Харчин, qaračin, and 喀喇沁部.
 
 ## Sources & further reading
 

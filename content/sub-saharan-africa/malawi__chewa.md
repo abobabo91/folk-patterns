@@ -17,15 +17,15 @@ The Chewa are a Bantu ethnic group primarily found in Malawi and Zambia, with sm
 
 ### Clothing & dress
 
- They do record special tattoo marks called *mphini*, which distinguished the Chewa from their neighbours during the period described as colonial time.
+They do record special tattoo marks called *mphini*, which distinguished the Chewa from their neighbours during the period described as colonial time.
 
 ### Architecture
 
- They mention village headmen, regional chiefs and Paramount Chiefs.
+They mention village headmen, regional chiefs and Paramount Chiefs.
 
 ### Ceramics, metalwork & everyday objects
 
- The language source gives lexical examples including *katúndu*, meaning “possessions” or “luggage, furniture,”.
+The language source gives lexical examples including *katúndu*, meaning “possessions” or “luggage, furniture,”.
 
 ### Jewelry & body adornment
 
@@ -45,7 +45,7 @@ The sources describe initiation into adulthood as the principal named Chewa ritu
 
 ## Foodways
 
- The language source includes *chímanga* for “maize” and *mowa* for “beer” as lexical examples.
+The language source includes *chímanga* for “maize” and *mowa* for “beer” as lexical examples.
 
 ## Oral tradition & literature
 

@@ -37,25 +37,25 @@ Log cabins began to be used by Negidals in the late 18th century. Their floors w
 
 ### Ceramics, metalwork & everyday objects
 
- They do document birch bark utensils, fur blankets, boats, skis, dog sleds, reindeer sleds and travois. The travois was called *kelchi* and was generally used for dragging large prey. Both Upper and Lower Negidals used dog sleds; Upper Negidals also used reindeer sleds and sometimes rode on the backs of reindeer. Boats and skis were additional traditional means of transportation.
+They do document birch bark utensils, fur blankets, boats, skis, dog sleds, reindeer sleds and travois. The travois was called *kelchi* and was generally used for dragging large prey. Both Upper and Lower Negidals used dog sleds; Upper Negidals also used reindeer sleds and sometimes rode on the backs of reindeer. Boats and skis were additional traditional means of transportation.
 
 ## Music & performance
 
- They mention a Negidal folk music resource among the external links to the Wikipedia article, but provide no account of its instruments, repertoire, performers or occasions. No UNESCO Intangible Cultural Heritage inscription is supplied for the Negidals.
+No UNESCO Intangible Cultural Heritage inscription is supplied for the Negidals.
 
 ## Festivals & rituals
 
- Religious information is limited to the statement that Negidals are officially considered Orthodox Christians while preserving animistic beliefs and shamanism.
+Religious information is limited to the statement that Negidals are officially considered Orthodox Christians while preserving animistic beliefs and shamanism.
 
 The sources do record historical and seasonal practices connected with subsistence. Negidals fished in winter and summer and hunted marine mammals, primarily seals, with harpoons. Upper Negidals used reindeer herding exclusively as a means of transport. Their housing, clothing and travel arrangements varied between seasons and between Upper and Lower Negidals.
 
 ## Foodways
 
- They state that Negidals traditionally relied primarily on fishing and hunting, and that marine mammals, especially seals, were hunted with harpoons. The sources also record the later adoption of farming from Russian settlers in the late 19th century. Farming was actively introduced in Soviet kolkhozes and, after the fall of the Soviet Union, remained mostly in the form of gardens.
+They state that Negidals traditionally relied primarily on fishing and hunting, and that marine mammals, especially seals, were hunted with harpoons. The sources also record the later adoption of farming from Russian settlers in the late 19th century. Farming was actively introduced in Soviet kolkhozes and, after the fall of the Soviet Union, remained mostly in the form of gardens.
 
 ## Oral tradition & literature
 
- They state that the Amgun River served as a link connecting isolated Negidal settlements and that ancient Negidals preserved economic and cultural traditions while living in the region. No contemporary literary revival or preservation project is described.
+They state that the Amgun River served as a link connecting isolated Negidal settlements and that ancient Negidals preserved economic and cultural traditions while living in the region. No contemporary literary revival or preservation project is described.
 
 ## Language & religion
 

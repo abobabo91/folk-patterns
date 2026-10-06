@@ -31,7 +31,7 @@ The sources name *firalubia* as a lively dance performed after a Fur wedding. Fo
 
 ## Festivals & rituals
 
- They do describe a wedding sequence. In a Fur marriage, the groom’s father goes to the bride’s father and asks for permission for his son to marry. The bride’s father does not answer immediately and asks the village for its opinion. If everyone approves, he accepts. The whole village gathers for the announcement, and preparations are made.
+They do describe a wedding sequence. In a Fur marriage, the groom’s father goes to the bride’s father and asks for permission for his son to marry. The bride’s father does not answer immediately and asks the village for its opinion. If everyone approves, he accepts. The whole village gathers for the announcement, and preparations are made.
 
 The marriage begins in the groom’s house. The Imam recites words from the Quran while the groom and bride hold hands. After the wedding, the family and guests have lunch, followed by *firalubia*. The bride and groom are then taken to the bride’s house and given food while everyone offers congratulations, expressed as *mabrouk* in Arabic.
 
@@ -68,4 +68,3 @@ The Fur are Muslims and are nominally Sunni Muslims following the Maliki school 
 - Bariwarig Tooduo, *Modifiers in the Fur Language of the Sudan*.
 - [Fur people](https://en.wikipedia.org/wiki/Fur_people)
 - [Fur language](https://en.wikipedia.org/wiki/Fur_language)
-- UNESCO Intangible Cultural Heritage: no inscriptions for this country were provided in the sources used.

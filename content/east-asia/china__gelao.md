@@ -21,7 +21,7 @@ Gelao men’s traditional suit consists of a jacket fastened up the side and lon
 
 ### Ceramics, metalwork & everyday objects
 
- They mention that the Gelao people are said to have invented their own words for tea, fireworks, copper, and iron.
+They mention that the Gelao people are said to have invented their own words for tea, fireworks, copper, and iron.
 
 ## Music & performance
 
@@ -29,11 +29,11 @@ The Gelao make a two-stringed fiddle with a body made from a cow horn, called th
 
 ## Festivals & rituals
 
- The Gelao people are described as mainly practicing Taoism, with a small but significant Buddhist minority.
+The Gelao people are described as mainly practicing Taoism, with a small but significant Buddhist minority.
 
 ## Foodways
 
- They mention tea only in connection with the claim that the Gelao people invented their own word for it.
+They mention tea only in connection with the claim that the Gelao people invented their own word for it.
 
 ## Oral tradition & literature
 

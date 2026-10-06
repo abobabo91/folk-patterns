@@ -17,7 +17,7 @@ The Eora are an Aboriginal Australian people of the coastal area of what is now 
 
 ### Clothing & dress
 
- They do record a colonial encounter in which a sailor dropped his pants, clarifying to the Eora that the visitors were not ghosts and revealing the misunderstanding surrounding the newcomers’ sex. The sources also mention scarring on women’s temples, which Governor Phillip incorrectly interpreted as evidence of mistreatment of women; the marks were traces of mourning practices. This is the only bodily appearance or dress-related practice described in the supplied material.
+They do record a colonial encounter in which a sailor dropped his pants, clarifying to the Eora that the visitors were not ghosts and revealing the misunderstanding surrounding the newcomers’ sex. The sources also mention scarring on women’s temples, which Governor Phillip incorrectly interpreted as evidence of mistreatment of women; the marks were traces of mourning practices. This is the only bodily appearance or dress-related practice described in the supplied material.
 
 ### Architecture
 
@@ -25,11 +25,11 @@ Eora people made extensive use of rock shelters. Many of these shelters were lat
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe bark canoes, used for close-to-shore navigation, fishing, cooking and eating in bays and harbours. Eora people used nets for catching mullet, lines for fish, burley and spears from rock ledges, and rock shelters as places connected with subsistence. The language sources preserve words for tools and objects associated with Aboriginal languages, including *wamarang* and *bumarit*, combined in the English word boomerang, and *wamara*, associated with the English word woomera.
+They do describe bark canoes, used for close-to-shore navigation, fishing, cooking and eating in bays and harbours. Eora people used nets for catching mullet, lines for fish, burley and spears from rock ledges, and rock shelters as places connected with subsistence. The language sources preserve words for tools and objects associated with Aboriginal languages, including *wamarang* and *bumarit*, combined in the English word boomerang, and *wamara*, associated with the English word woomera.
 
 ## Jewelry & body adornment
 
- They do mention scarring on women’s temples as a mourning practice. No materials, techniques, ritual sequence or adornment terminology beyond this observation are given.
+They do mention scarring on women’s temples as a mourning practice. No materials, techniques, ritual sequence or adornment terminology beyond this observation are given.
 
 ## Music & performance
 
@@ -39,11 +39,11 @@ The sources also describe later public uses of reconstructed or revived language
 
 ## Dance & theatre
 
- They mention *corroboree* as an English word derived from a Darug or possibly Tharawal-language form, *garabara*. The material does not provide a description of the performance, its choreography, its social setting or its relationship to Eora ceremonial life.
+They mention *corroboree* as an English word derived from a Darug or possibly Tharawal-language form, *garabara*. The material does not provide a description of the performance, its choreography, its social setting or its relationship to Eora ceremonial life.
 
 ## Festivals & rituals
 
- They do provide information about mourning, conflict and several colonial-era social practices. Scarring on women’s temples was connected with mourning. Formal battles used to settle inter-clan grievances were limited in time: they began late in the afternoon and ceased shortly after twilight.
+They do provide information about mourning, conflict and several colonial-era social practices. Scarring on women’s temples was connected with mourning. Formal battles used to settle inter-clan grievances were limited in time: they began late in the afternoon and ceased shortly after twilight.
 
 Eora subsistence followed seasonal patterns. Summer foods included oysters, netted mullet, fish caught on a line, and larger fish taken with burley and speared from rock ledges. As summer ended, turtle feasting was described as a prized occasion. Winter activities included foraging for and hunting possum, echidna, fruit bats, wallaby and kangaroo. These seasonal food practices are the only recurring calendar-related traditions described in the supplied sources.
 
@@ -57,7 +57,7 @@ Wetland management was important, and the Queenscliff, Curl Curl and Dee Why lag
 
 ## Oral tradition & literature
 
- One Eora song has survived through the performance of Bennelong and Yemmerrawanne in London in 1793, its transcription by Edward Jones, and its publication in 1811.
+One Eora song has survived through the performance of Bennelong and Yemmerrawanne in London in 1793, its transcription by Edward Jones, and its publication in 1811.
 
 Language documentation is central to the recorded preservation effort. William Dawes recorded the traditional tongue of the elder people of Sydney from Patyegarang, and his notebooks became a major source for later reconstruction. Other wordlists and notebooks were compiled by First Fleeters and later contributors, including David Collins, John Hunter, Philip Gidley King, Daniel Southwell, Watkin Tench, David Blackburn, Henry Fulton, Daniel Paine and James Bowman.
 

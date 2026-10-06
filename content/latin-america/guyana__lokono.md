@@ -1,0 +1,38 @@
+---
+title: "Lokono"
+subtitle: "Guyana"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Lokono, also called Arawak, are an Indigenous people from the northern coastal regions of South America. Approximately 10,000 Lokono live primarily along the coasts and rivers of Guyana, with smaller numbers in Venezuela, Suriname, and French Guiana. Their language, Lokono, is an Arawakan language and the eponymous language of the Arawakan language family. The Arawakan languages may have developed in the Orinoco River Valley and spread as speakers migrated. Lokono communities historically occupied coastal and river-valley areas of what is now Guyana, Suriname, French Guiana, Barbados, and parts of Trinidad. Their history includes resistance to European colonization, alliances and trading relationships with European powers, agrarian life, fishing, salt mining, lumber work, migrant labor, and efforts to maintain the Lokono language.
+
+## Music & performance
+
+The sources describe Lokono religious practices involving spirits found in nature. Spiritual healers could communicate with these spirits, cure people, and offer advice. In the 18th century, Jeptha, identified as Lokono, assisted by two boys, translated the Bible and German hymns into Lokono.
+
+## Festivals & rituals
+
+Lokono have their own Indigenous religion and respected spirits found in nature. Spiritual healers communicated with these spirits, cured people, and offered advice. Oswald Hussein, a Lokono sculptor, incorporates “rituals, spirits and animals held sacred by his culture” into his art.
+
+## Foodways
+
+They state that the Arawak name refers to cassava root, also known as manioc, which is described as a main crop food and a popular staple for millions of people in South America, Asia, and Africa. The sources also state that inalienably possessed Lokono nouns include common nouns such as food selections.
+
+## Oral tradition & literature
+
+The Lokono language has been documented in linguistic and religious works. In 1989, John Peter Bennett, also identified as John P. Bennett and as Arawak, wrote *An Arawak-English Dictionary*. In the 18th century, Jeptha and two boys translated the Bible and German hymns into Lokono.
+
+## Language & religion
+
+Lokono, also called Arawak, is an Arawakan language spoken by Lokono Indigenous peoples in eastern Venezuela, Colombia, Guyana, Trinidad and Tobago, Suriname, and French Guiana. It is also called *Lokono Dian*, meaning “people’s talk” or “the people’s speech.” Other names listed by the sources include Arowak, Aruák, Aluwakatongo, Arawák, Arahuaco, Aruak, Arawac, Araguaco, Aruaqui, Arwuak, Arrowukas, Arahuacos, Locono, and Luccumi. Lokono is an active–stative language and is critically endangered. Approximately 2,500 speakers remain, including fluent and semi-fluent speakers, and the percentage of living fluent speakers with active knowledge is estimated at 5% of the ethnic population. The language’s decline is associated with reduced transmission from older speakers to children, who are taught the official languages of their countries. Lokono has an alphabetical system similar to the Roman Alphabet, with minor changes and new additions. Lokono have their own Indigenous religion and respect spirits found in nature; spiritual healers communicate with these spirits, cure people, and offer advice.
+
+## Sources & further reading
+
+- Willem J. Pet, *A Grammar Sketch and Lexicon of Arawak (Lokono Dian)*, SIL International, 2011.
+- John Peter Bennett, *An Arawak-English Dictionary*, 1989.
+- [Lokono](https://en.wikipedia.org/wiki/Lokono)
+- [Lokono language](https://en.wikipedia.org/wiki/Lokono_language)
+- No UNESCO Intangible Cultural Heritage inscription for this group is included in the supplied sources.

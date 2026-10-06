@@ -27,11 +27,11 @@ The sources describe Baloch women in Afghanistan as wearing *Za Asteen Guptan*, 
 
 ### Architecture
 
- Ibn Khordadbeh’s description of Makran, as summarized in the source material, says that Baloch houses were made of wood.
+Ibn Khordadbeh’s description of Makran, as summarized in the source material, says that Baloch houses were made of wood.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention local jewelers making gold brooches in different shapes and sizes, and describe heavy gold earrings fastened with gold chains. The sources also mention camel ownership, breeding, and camel-riding competitions in Nimroz province.
+They mention local jewelers making gold brooches in different shapes and sizes, and describe heavy gold earrings fastened with gold chains. The sources also mention camel ownership, breeding, and camel-riding competitions in Nimroz province.
 
 ### Jewelry & body adornment
 

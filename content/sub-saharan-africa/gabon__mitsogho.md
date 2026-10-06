@@ -21,7 +21,7 @@ The principal named structure in the sources is the *ebanza*, a ritual hut used 
 
 ### Ceramics, metalwork & everyday objects
 
- They state that Mitsogho people became known for iron and cloth manufacturing, and that the ebanza contains musical instruments, furnishings, and implements used in ritual.
+They state that Mitsogho people became known for iron and cloth manufacturing, and that the ebanza contains musical instruments, furnishings, and implements used in ritual.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ Initiates may consume a sizeable dose of powder made by grinding the root bark o
 
 ## Foodways
 
- They state only that members of the community practice slash-and-burn agriculture, hunting, and fishing, and that iboga is regarded in Mitsogho culture as the food of the gods and is consumed by initiates in Bwiti practice.
+They state only that members of the community practice slash-and-burn agriculture, hunting, and fishing, and that iboga is regarded in Mitsogho culture as the food of the gods and is consumed by initiates in Bwiti practice.
 
 ## Oral tradition & literature
 

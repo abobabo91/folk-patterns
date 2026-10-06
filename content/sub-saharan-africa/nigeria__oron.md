@@ -21,7 +21,7 @@ The sources describe Oron clothing as loin skirts and gowns decorated with beads
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe *Ekpu Oro*, carved wooden ancestral figures found in the Oron Museum and other museums. These figures summarized personal and social experiences, embodied spiritual beliefs and cultural history, and served as vessels for the spirits of the dead.
+They do describe *Ekpu Oro*, carved wooden ancestral figures found in the Oron Museum and other museums. These figures summarized personal and social experiences, embodied spiritual beliefs and cultural history, and served as vessels for the spirits of the dead.
 
 ### Jewelry & body adornment
 
@@ -29,21 +29,17 @@ The sources mention beads known as *Ngwa* as part of Oron clothing and state tha
 
 ## Music & performance
 
- They do mention *Mbok*, an art-form of wrestling associated with Abang Okpo, and describe wrestling as having been part of Oron life, but they do not classify it as music or provide information about accompanying instruments, songs, or performance occasions.
-
-## Dance & theatre
-
- They mention the Enwang masquerade *Etok Udo Ekang* in an account of conflict at Nsidung, but provide no description of its form, movement, costume, or performance setting.
+They do mention *Mbok*, an art-form of wrestling associated with Abang Okpo, and describe wrestling as having been part of Oron life, but they do not classify it as music or provide information about accompanying instruments, songs, or performance occasions.
 
 ## Festivals & rituals
 
- They do document several ritual and religious practices. *Ekpu Oro* ancestral figures were connected with the spirits of the dead and influenced the daily, religious, and social lives of the living. The sources also mention funeral rites for deceased old people in Oron traditional society and state that circumcision was a widespread and fundamental practice.
+They do document several ritual and religious practices. *Ekpu Oro* ancestral figures were connected with the spirits of the dead and influenced the daily, religious, and social lives of the living. The sources also mention funeral rites for deceased old people in Oron traditional society and state that circumcision was a widespread and fundamental practice.
 
 The sources describe the establishment of shrines and ritual places during migration histories. The Ubodung group established the principal shrine *Olughu Obuoho*, while the Esu Oro groups took a juju vowing to aid one another in times of trouble. The source also records *Anantigha* as an Enwang deity located at the Efut beach. No detailed birth, coming-of-age, wedding, or funeral sequence is provided.
 
 ## Foodways
 
- They mention fishing villages and shell fishing in migration accounts.
+They mention fishing villages and shell fishing in migration accounts.
 
 ## Oral tradition & literature
 

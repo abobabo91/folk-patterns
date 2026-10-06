@@ -21,11 +21,11 @@ Before contact with Europeans, Oneida clothing was made from natural materials, 
 
 ### Architecture
 
- They state that sacred dances were performed privately in longhouses, but provide no architectural description of those buildings.
+They state that sacred dances were performed privately in longhouses, but provide no architectural description of those buildings.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention wampum, strings of symbolic shell beads used in formal speech and diplomacy, and the Oneida Stone as a long-standing symbol of the Nation.
+They mention wampum, strings of symbolic shell beads used in formal speech and diplomacy, and the Oneida Stone as a long-standing symbol of the Nation.
 
 ### Jewelry & body adornment
 

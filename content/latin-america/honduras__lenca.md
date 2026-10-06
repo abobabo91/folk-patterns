@@ -17,7 +17,7 @@ The Lenca are an Indigenous people from present-day southwest Honduras and easte
 
 ### Clothing & dress
 
- They state that commoner Lencas historically paid tribute in honey and cotton cloaks. The sources also mention cotton among the crops cultivated by Lenca communities and identify cotton cloaks in the historical social order.
+They state that commoner Lencas historically paid tribute in honey and cotton cloaks. The sources also mention cotton among the crops cultivated by Lenca communities and identify cotton cloaks in the historical social order.
 
 ### Architecture
 
@@ -33,7 +33,7 @@ The pieces are usually dark orange or brick-colored, and visitors can watch demo
 
 ## Music & performance
 
- They do document performance within the annual Guancasco ceremony. Guancasco is held by neighboring communities, usually two, to establish reciprocal obligations and confirm peace and friendship. Processions, elaborate exchanges of greetings, and folk dancing are performed for the statue of the patron saint of the town.
+They do document performance within the annual Guancasco ceremony. Guancasco is held by neighboring communities, usually two, to establish reciprocal obligations and confirm peace and friendship. Processions, elaborate exchanges of greetings, and folk dancing are performed for the statue of the patron saint of the town.
 
 The ceremony takes many forms and includes Catholic representations as well as traditional customs and representations. Towns in central and western Honduras, including Yamaranguila, La Campa, and La Paz, host annual celebrations, as do towns in eastern El Salvador south of Honduras, including Lolotique, Yucuaiquin, and Guatajiagua.
 
@@ -59,7 +59,7 @@ Lenca communities traditionally expect all members to participate in communal ef
 
 ## Oral tradition & literature
 
- They do document a continuing interest in language preservation. In the case of Salvadoran Lenca, Consuelo Roque and Mario Salvador Hernández wrote a learning primer titled *Poton piau, nuestra lengua Potón*. In 2017, Alan R. King and James Morrow published *Kotik molka niwamal*, described as a compilation of Lenca words from communities still existing and as opening the possibility of recovering a significant part of the language.
+They do document a continuing interest in language preservation. In the case of Salvadoran Lenca, Consuelo Roque and Mario Salvador Hernández wrote a learning primer titled *Poton piau, nuestra lengua Potón*. In 2017, Alan R. King and James Morrow published *Kotik molka niwamal*, described as a compilation of Lenca words from communities still existing and as opening the possibility of recovering a significant part of the language.
 
 A 2002 novel by Roberto Castillo, *La guerra mortal de los sentidos*, chronicles the adventures of the “Searcher for the Lenca Language.” The sources also mention programs and dictionaries intended to revitalize the Lenca language and culture and rehabilitation projects in El Salvador intended to prevent the extinction of Salvadoran Lenca.
 

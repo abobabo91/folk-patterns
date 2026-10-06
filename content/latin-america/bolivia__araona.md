@@ -13,15 +13,15 @@ The Araona are an ethnic group in Bolivia who live in the headwaters of the Manu
 
 ### Architecture
 
- They state only that surviving Araona established themselves in various settlements between the Manorimi and Monopare Rivers and that a permanent settlement was created in 1965.
+They state only that surviving Araona established themselves in various settlements between the Manorimi and Monopare Rivers and that a permanent settlement was created in 1965.
 
 ## Festivals & rituals
 
- The historical sources mention Franciscan missionaries, Protestant Evangelical activists, and missionaries from SIL International.
+The historical sources mention Franciscan missionaries, Protestant Evangelical activists, and missionaries from SIL International.
 
 ## Oral tradition & literature
 
- They state that the Araona language has a dictionary and that portions of the Bible have been translated into Araona.
+They state that the Araona language has a dictionary and that portions of the Bible have been translated into Araona.
 
 ## Language & religion
 

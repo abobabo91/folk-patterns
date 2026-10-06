@@ -13,15 +13,15 @@ Fārsīwān is a contemporary designation for Persian-speaking communities in Af
 
 ### Architecture
 
- They do associate Farsiwan historically with urban centers and areas of agricultural development.
+They do associate Farsiwan historically with urban centers and areas of agricultural development.
 
 ## Festivals & rituals
 
- They state that Farsiwan communities have historically been distinguished from the majority of Tajiks by their adherence to Shia Islam.
+They state that Farsiwan communities have historically been distinguished from the majority of Tajiks by their adherence to Shia Islam.
 
 ## Oral tradition & literature
 
- They do record historical writing about the group and its designation, including *Account of the Kingdom of Cabul*, *Hayat-i Afghani*, and the study *Suba of Kabul Under the Mughals*.
+They do record historical writing about the group and its designation, including *Account of the Kingdom of Cabul*, *Hayat-i Afghani*, and the study *Suba of Kabul Under the Mughals*.
 
 ## Language & religion
 

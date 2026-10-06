@@ -21,19 +21,19 @@ Yahgan settlements were temporary but often reused. The sources describe small d
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention canoes, small fires set in boats, rock shelters, and the use of common tools in the context of the Fuegians taken to England by the crew of HMS Beagle.
+They do mention canoes, small fires set in boats, rock shelters, and the use of common tools in the context of the Fuegians taken to England by the crew of HMS Beagle.
 
 ## Music & performance
 
- The Yahgan language article notes the existence of words connected with voice, language, uttered words, speech, cries, and sounds. It also records several bird names that may reproduce calls or other nonvocal behaviour, together with imitative cries and sound words. These linguistic observations do not provide evidence for a documented musical repertoire or performance tradition.
+The Yahgan language article notes the existence of words connected with voice, language, uttered words, speech, cries, and sounds. It also records several bird names that may reproduce calls or other nonvocal behaviour, together with imitative cries and sound words. These linguistic observations do not provide evidence for a documented musical repertoire or performance tradition.
 
 ## Dance & theatre
 
- The Wikipedia material describes highly animated imitative behaviour among speakers in the late nineteenth century.
+The Wikipedia material describes highly animated imitative behaviour among speakers in the late nineteenth century.
 
 ## Festivals & rituals
 
- They do record missionary activity in Tierra del Fuego and the establishment of a mission in 1871 by Thomas Bridges and George Lewis. In the 1920s, some Yahgan were resettled on Keppel Island in the Falkland Islands by Anglican missionaries in an attempt to preserve the group.
+They do record missionary activity in Tierra del Fuego and the establishment of a mission in 1871 by Thomas Bridges and George Lewis. In the 1920s, some Yahgan were resettled on Keppel Island in the Falkland Islands by Anglican missionaries in an attempt to preserve the group.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ Yahgan subsistence centred on marine and coastal resources. The men hunted sea l
 
 ## Oral tradition & literature
 
- They do document an extensive linguistic record created through missionary and scholarly work. Thomas Bridges compiled a grammar and a 30,000-word Yahgan-English dictionary after learning the language on Keppel Island. His son Lucas Bridges also learned Yahgan and wrote about the period in his 1948 book *Uttermost Part of the Earth*. The sources describe later efforts to preserve the language, including a planned educational curriculum, a language nest in the community of Bahía Mejillones near Puerto Williams, and publication of a concise and illustrated dictionary. The Yahgan language has no remaining native speakers following the death of Cristina Calderón.
+They do document an extensive linguistic record created through missionary and scholarly work. Thomas Bridges compiled a grammar and a 30,000-word Yahgan-English dictionary after learning the language on Keppel Island. His son Lucas Bridges also learned Yahgan and wrote about the period in his 1948 book *Uttermost Part of the Earth*. The sources describe later efforts to preserve the language, including a planned educational curriculum, a language nest in the community of Bahía Mejillones near Puerto Williams, and publication of a concise and illustrated dictionary. The Yahgan language has no remaining native speakers following the death of Cristina Calderón.
 
 ## Language & religion
 

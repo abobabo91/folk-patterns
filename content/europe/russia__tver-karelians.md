@@ -11,11 +11,11 @@ Tver Karelians are a Karelian people inhabiting regions of Tver, Saint Petersbur
 
 ## Festivals & rituals
 
-The sources describe migration connected with war, taxation, forced religious conversion, and the Treaty of Stolbovo in 1617, but they do not document an annual festival calendar, seasonal celebrations, life-cycle rites, weddings, funerals, or named Tver Karelian rituals. They state that loss of religion to atheism was among the factors associated with a decrease in national identity during the twentieth century.
+The sources describe migration connected with war, taxation, forced religious conversion, and the Treaty of Stolbovo in 1617. They state that loss of religion to atheism was among the factors associated with a decrease in national identity during the twentieth century.
 
 ## Oral tradition & literature
 
- They identify “Babkin tradition” as inter-generational cultural knowledge connected with traditional craftsmanship.
+They identify “Babkin tradition” as inter-generational cultural knowledge connected with traditional craftsmanship.
 
 ## Language & religion
 
@@ -24,4 +24,3 @@ The Tver Karelian dialect is described as distinct from other languages and dial
 ## Sources & further reading
 
 - [“Tver Karelians,” Wikipedia](https://en.wikipedia.org/wiki/Tver_Karelians)
-- The sources used do not provide books, named scholars, documentation projects, UNESCO Intangible Cultural Heritage inscriptions, or museum collection records for Tver Karelians.

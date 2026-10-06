@@ -13,7 +13,7 @@ The Lun Bawang are an indigenous ethnic group of Central Northern Borneo. They l
 
 ### Textile & pattern traditions
 
- They do describe clothing, beadwork and ornaments below.
+They do describe clothing, beadwork and ornaments below.
 
 ### Clothing & dress
 
@@ -23,7 +23,7 @@ Women wore *pata* on the head, *beret* on the waist and *bane* around the neck. 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention the *pelepet*, a long machete tied to the waist, and hollow bamboo stalks used to store pickled meat and fish.
+They mention the *pelepet*, a long machete tied to the waist, and hollow bamboo stalks used to store pickled meat and fish.
 
 ### Jewelry & body adornment
 
@@ -33,7 +33,7 @@ The documented forms of body adornment are *bane*, worn around the neck, and *gi
 
 The sources name *ngiup suling*, described as a bamboo musical-instrument band. It is presented as part of the programme of Irau Aco Lun Bawang, an annual festival in Lawas, Sarawak.
 
-The sources also mention the Lun Bawang language’s oral character and record *some Lun Bawang Spirit Chants* in the bibliography of the Lun Bawang language article. No other named song genres, instruments or musical traditions are documented in the supplied sources.
+The sources also mention the Lun Bawang language’s oral character and record *some Lun Bawang Spirit Chants* in the bibliography of the Lun Bawang language article.
 
 ## Dance & theatre
 

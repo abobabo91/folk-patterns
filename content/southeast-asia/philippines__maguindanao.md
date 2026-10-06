@@ -13,7 +13,7 @@ The Maguindanaon are an Austronesian ethnic group from the Philippines and part 
 
 ### Clothing & dress
 
- The sources do mention ceremonial swords and armaments in connection with Maguindanao metalwork and the **Sagayan** dance, whose performers depict fierce warriors carrying shields with shell noisemakers and double-bladed swords.
+The sources do mention ceremonial swords and armaments in connection with Maguindanao metalwork and the **Sagayan** dance, whose performers depict fierce warriors carrying shields with shell noisemakers and double-bladed swords.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ The sources describe the historical Sultanates of Maguindanao and Buayan, includ
 
 ### Ceramics, metalwork & everyday objects
 
-Maguindanaons have historically been renowned as metalworkers. They produced wavy-bladed *keris* ceremonial swords and other weapons, as well as gongs. In the **Sagayan** dance, performers carry shields with shell noisemakers in one hand and a double-bladed sword in the other. The sources also mention a magical boat in the legend of Mamalu and Tabunaway, said to cross the river under the brothers’ command and carry goods between them. No Maguindanao ceramics or additional household objects are documented in the sources.
+Maguindanaons have historically been renowned as metalworkers. They produced wavy-bladed *keris* ceremonial swords and other weapons, as well as gongs. In the **Sagayan** dance, performers carry shields with shell noisemakers in one hand and a double-bladed sword in the other. The sources also mention a magical boat in the legend of Mamalu and Tabunaway, said to cross the river under the brothers’ command and carry goods between them.
 
 ### Jewelry & body adornment
 
- In the folktale of Lagya Kudarat, a princess throws a ring and handkerchief to Kudarat after he accidentally causes a *sipa* to fall before her window.
+In the folktale of Lagya Kudarat, a princess throws a ring and handkerchief to Kudarat after he accidentally causes a *sipa* to fall before her window.
 
 ## Music & performance
 
@@ -41,13 +41,13 @@ The **Sagayan** dance is associated with the Maguindanaons and depicts the steps
 
 ## Festivals & rituals
 
- They identify Islam as the religion of most Maguindanaons and describe Arabic as the liturgical language of Islam among madrasah-educated Maguindanaons.
+They identify Islam as the religion of most Maguindanaons and describe Arabic as the liturgical language of Islam among madrasah-educated Maguindanaons.
 
 The legend of Mamalu and Tabunaway presents a foundational religious division between the brothers’ followers. When the missionary Sharif Kabungsuwan arrived, Tabunaway embraced Islam while Mamalu retained old beliefs. To maintain peace, Mamalu settled in the mountains and Tabunaway remained in the lowlands along the Pulangi. The story presents the lowland Muslims led by Tabunaway as the Maguindanaon and the highland animists of Mamalu as the Teduray.
 
 ## Foodways
 
- They mention goods being exchanged between Mamalu and Tabunaway by means of a magical boat.
+They mention goods being exchanged between Mamalu and Tabunaway by means of a magical boat.
 
 ## Oral tradition & literature
 

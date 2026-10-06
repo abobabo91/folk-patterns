@@ -29,7 +29,7 @@ Samoan village house lots contain clusters of houses or huts, with each house lo
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden and plant-based objects connected with work and music, including the *pate*, a hollowed-out log drum, and the *fala*, a rolled-up mat beaten with sticks. The sources also mention tools used in tattooing: a short piece of bamboo or light wood, tortoiseshell, a small bone comb, and a small mallet. The *pate* may be carved with tribal references or designs.
+They do describe wooden and plant-based objects connected with work and music, including the *pate*, a hollowed-out log drum, and the *fala*, a rolled-up mat beaten with sticks. The sources also mention tools used in tattooing: a short piece of bamboo or light wood, tortoiseshell, a small bone comb, and a small mallet. The *pate* may be carved with tribal references or designs.
 
 ### Jewelry & body adornment
 
@@ -51,7 +51,7 @@ The *Taualuga* is a celebratory *siva* and a center of Samoan culture. Tradition
 
 ## Festivals & rituals
 
- They do describe ceremonies and life-cycle events. Marriage is a village event involving two ceremonies and a feast. The bride and groom first go through the village to a district judge, who conducts a civil ceremony. They then gather in a church for a religious ceremony. Families provide food from throughout the village, and after the wedding the newlyweds choose which side of the family they will live with.
+They do describe ceremonies and life-cycle events. Marriage is a village event involving two ceremonies and a feast. The bride and groom first go through the village to a district judge, who conducts a civil ceremony. They then gather in a church for a religious ceremony. Families provide food from throughout the village, and after the wedding the newlyweds choose which side of the family they will live with.
 
 Funerals begin almost immediately after a member of the extended family dies. Choirs are directed to the mourner’s land. The deceased is bathed, dressed in white, and placed on woven mats. The funeral takes place less than 24-hours later, and at least one family member remains with the deceased during those 24-hours. A feast concludes the event, with food served to mourners and those who helped with the burial.
 

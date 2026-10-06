@@ -17,7 +17,7 @@ Huave families live in homes with thatched roofs.
 
 ## Music & performance
 
- They do record that, as of 2011, Radio Ikoots in San Mateo del Mar was broadcasting in Huave.
+They do record that, as of 2011, Radio Ikoots in San Mateo del Mar was broadcasting in Huave.
 
 ## Festivals & rituals
 
@@ -29,7 +29,7 @@ Many Huave people work as fishermen and agriculturalists, and Huave communities 
 
 ## Oral tradition & literature
 
- They mention *Cuentos Huaves III*, published by the Instituto Lingüístico de Verano, as the source of a passage used as a text sample in the description of Huave. Universities in different countries have also carried out fieldwork and revitalization projects in Huave communities.
+They mention *Cuentos Huaves III*, published by the Instituto Lingüístico de Verano, as the source of a passage used as a text sample in the description of Huave. Universities in different countries have also carried out fieldwork and revitalization projects in Huave communities.
 
 ## Language & religion
 

@@ -19,35 +19,35 @@ The Kaingang are an Indigenous Brazilian ethnic group living in the southern Bra
 
 ### Clothing & dress
 
- They do document painting or marking the face and body: *kamé* people use parallel straight lines and zigzags, while *kanhru* people use dots and concentric circles.
+They do document painting or marking the face and body: *kamé* people use parallel straight lines and zigzags, while *kanhru* people use dots and concentric circles.
 
 ### Architecture
 
- They state that Kaingang groups have a crucial relation with the land where they were born and where their ancestors were buried.
+They state that Kaingang groups have a crucial relation with the land where they were born and where their ancestors were buried.
 
 ### Ceramics, metalwork & everyday objects
 
- The Wikipedia account mentions two barrels full of fuel in connection with a 2006 confrontation at a small hydro plant, but does not present them as culturally distinctive objects.
+The Wikipedia account mentions two barrels full of fuel in connection with a 2006 confrontation at a small hydro plant, but does not present them as culturally distinctive objects.
 
 ### Jewelry & body adornment
 
- They document face and body marking associated with the two exogamic groups: *kamé* marking uses lines and zigzags, while *kanhru* marking uses dots and concentric circles. The markings are patrilineal; when a child’s father is not Kaingang, the child receives the marking from the maternal grandfather.
+They document face and body marking associated with the two exogamic groups: *kamé* marking uses lines and zigzags, while *kanhru* marking uses dots and concentric circles. The markings are patrilineal; when a child’s father is not Kaingang, the child receives the marking from the maternal grandfather.
 
 ## Music & performance
 
- They mention no musical tradition, dance accompaniment, or ceremonial repertoire.
+They mention no musical tradition, dance accompaniment, or ceremonial repertoire.
 
 ## Festivals & rituals
 
- They do state that Kaingang groups have a crucial relation with the land where they were born and their ancestors were buried. The sources also describe *kamé* and *kanhru* as the two originating halves of the world in Kaingang worldview, associated respectively with nature and humanity.
+They do state that Kaingang groups have a crucial relation with the land where they were born and their ancestors were buried. The sources also describe *kamé* and *kanhru* as the two originating halves of the world in Kaingang worldview, associated respectively with nature and humanity.
 
 ## Foodways
 
- The Kaingang language source gives *rãgró*, “to plant,” and examples translated as “He planted beans” and “We planted beans,”.
+The Kaingang language source gives *rãgró*, “to plant,” and examples translated as “He planted beans” and “We planted beans,”.
 
 ## Oral tradition & literature
 
- They state that dictionaries and grammars are available for Kaingang and that a Kaingang Bible, a dictionary, and other publications have been published.
+They state that dictionaries and grammars are available for Kaingang and that a Kaingang Bible, a dictionary, and other publications have been published.
 
 ## Language & religion
 

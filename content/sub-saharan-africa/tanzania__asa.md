@@ -1,0 +1,25 @@
+---
+title: "Asa"
+subtitle: "Tanzania"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Assa are an ethnic group based on the Maasai Steppe in Manyara Region, Tanzania. In 1999, they were estimated to number around 300 individuals, after the eastern Assa were assimilated into the Maasai. The Assa once spoke Aasáx, also rendered Aasá, Aasax, Aramanik, Asak, Asax, Assa, and Asá. Asa was probably an Afroasiatic language and is usually classified as Cushitic, most closely related to Kw'adza. The language is extinct, and ethnic Assa in northern Tanzania remember only a few words overheard from their elders. Little is known about the language; recorded material probably consists of Aasa lexical words used in a register of Maasai, similar to the mixed language Mbugu.
+
+## Language & religion
+
+Asa, also known as Aasá or Aasax, was formerly spoken by the Asa people of Tanzania. The language is extinct, and none of the ethnic Assa remembered in northern Tanzania ever used it themselves. Asa is usually classified as Cushitic and is most closely related to Kw'adza, although it might have retained a non-Cushitic layer from an earlier language shift. The Aramanik, or Laramanik, people once spoke Asa but shifted to Nandi, as opposed to Maasai.
+
+The language is known from two vocabulary lists from 1904 and 1928 and a collection by W. C. Winter from 1974. Recorded examples include *jira* ‘big’, *širaʔa* ‘bird’, *ʔita* ‘louse’, *saʔaka* ‘blood’, *farit* ‘bone’, *hadoŋ* ‘horn’, *seʔemuk* ‘hair’, *sogok* ‘head’, *ilat* ‘eye’, *afok* ‘mouth’, *šeferank* ‘tongue’, *isank* ‘breast’, *monok* ‘heart’, *maʔa* ‘water’, *hajat* ‘sand’, and *deʔok* ‘stone’. Verbal forms include *wat-* ‘to drink’, *ʔag-* ‘to eat’, *ʔat-* ‘to lie’, *ga-* ‘to die’, and *gas-* ‘to kill’. Known loanwords include *samak* ‘three’ and *mut* ‘five’ from Datooga, and *kite* ‘dog’ from Chaga.
+
+## Sources & further reading
+
+- Christopher Ehret, *The Historical Reconstruction of Southern Cushitic phonology and vocabulary*, Kölner Beiträge zur Afrikanistik, Vol. 5, Dietrich Reimer, 1980.
+- Sara Petrollino and Maarten Mous, “Recollecting Words and Expressions in Aasá, a Dead Language in Tanzania,” *Anthropological Linguistics* 52 (2), 206–216, 2010.
+- Christopher Winter, “Language Shift among the Aasáx, a Hunter-Gatherer Tribe in Tanzania,” *Sprache und Geschichte in Afrika* 1, 175–204, 1979.
+- Aasax basic lexicon at the Global Lexicostatistical Database.
+- [Asa people](https://en.wikipedia.org/wiki/Asa_people)
+- [Asa language](https://en.wikipedia.org/wiki/Asa_language)

@@ -17,7 +17,7 @@ Many Dendi houses have rectangular forms, mud construction and corrugated tin ro
 
 ## Music & performance
 
- They do describe religious activity involving Islamic prayers and ceremonies of spirit possession. Some communities have imams who teach Islamic philosophy, while Islamic marabouts, described as holy men, perform the main prayers and also act as healers.
+They do describe religious activity involving Islamic prayers and ceremonies of spirit possession. Some communities have imams who teach Islamic philosophy, while Islamic marabouts, described as holy men, perform the main prayers and also act as healers.
 
 ## Dance & theatre
 
@@ -37,7 +37,7 @@ The sources describe gendered economic activities connected with food production
 
 ## Oral tradition & literature
 
- The sources mention Islamic philosophy as a subject taught by some imams.
+The sources mention Islamic philosophy as a subject taught by some imams.
 
 ## Language & religion
 

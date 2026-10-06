@@ -17,15 +17,15 @@ The traditional Makaa house is a rectangular structure made from mud bricks held
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify axes and machetes as tools used to clear fields, traps as the primary hunting tool, and firearms as increasingly used for hunting.
+They do identify axes and machetes as tools used to clear fields, traps as the primary hunting tool, and firearms as increasingly used for hunting.
 
 ## Music & performance
 
- They describe oral traditions concerning the migration of Makaa-Njem-speaking peoples and their encounters with Baka nomads. According to these traditions, migrants moving deeper into the rain forest enlisted the Baka as guides through force or diplomacy. These accounts include the founding of settlements such as Bung-Ngwang, described as meaning “bathing area in the Nyong River,” and Mess'a Mena, described as meaning “crossroads.” These settlements were later renamed Abong-Mbang and Messaména.
+They describe oral traditions concerning the migration of Makaa-Njem-speaking peoples and their encounters with Baka nomads. According to these traditions, migrants moving deeper into the rain forest enlisted the Baka as guides through force or diplomacy. These accounts include the founding of settlements such as Bung-Ngwang, described as meaning “bathing area in the Nyong River,” and Mess'a Mena, described as meaning “crossroads.” These settlements were later renamed Abong-Mbang and Messaména.
 
 ## Festivals & rituals
 
- They state that the vast majority of Makaa practice at least nominal Christianity, divided fairly evenly between Catholicism and Protestantism. Vestiges of native animism persist, especially in traditional medicine, and folk superstitions including belief in witchcraft also remain.
+They state that the vast majority of Makaa practice at least nominal Christianity, divided fairly evenly between Catholicism and Protestantism. Vestiges of native animism persist, especially in traditional medicine, and folk superstitions including belief in witchcraft also remain.
 
 ## Foodways
 

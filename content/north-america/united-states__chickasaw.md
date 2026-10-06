@@ -17,7 +17,7 @@ The Chickasaw are an Indigenous people of the Southeastern Woodlands of the Unit
 
 ### Clothing & dress
 
- They state that Chickasaw cultural performers display traditional culture, including art, cooking, language, and storytelling.
+They state that Chickasaw cultural performers display traditional culture, including art, cooking, language, and storytelling.
 
 ### Architecture
 

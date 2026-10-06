@@ -21,11 +21,11 @@ The Serrano are an Indigenous people of California whose autonyms include *Taaqt
 
 ### Clothing & dress
 
- They state that textiles were involved in long-distance trade through Mojave desert traders.
+They state that textiles were involved in long-distance trade through Mojave desert traders.
 
 ### Architecture
 
- They mention villages, mountain camps, an irrigation system called Mill Creek Zanja, and permanent residence near hot springs.
+They mention villages, mountain camps, an irrigation system called Mill Creek Zanja, and permanent residence near hot springs.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -37,7 +37,7 @@ The sources mention shell beads and shell jewelry as traded goods found in pre-m
 
 ## Music & performance
 
- They state that one remaining *hümtc* medicine man revived religious ceremonies in the early 1900s after cultural suppression during the Mission Period. The sources name *tuwituaim* as a dance associated with the revival of Serrano religious, spiritual, communal, and familial practices, but provide no musical details.
+They state that one remaining *hümtc* medicine man revived religious ceremonies in the early 1900s after cultural suppression during the Mission Period. The sources name *tuwituaim* as a dance associated with the revival of Serrano religious, spiritual, communal, and familial practices, but provide no musical details.
 
 ## Dance & theatre
 
@@ -45,7 +45,7 @@ The sources mention shell beads and shell jewelry as traded goods found in pre-m
 
 ## Festivals & rituals
 
- They describe the revival of religious ceremonies in the early 1900s, including *tuwituaim*, after cultural suppression during the Mission Period. Female practitioners followed spiritual practices associated with the pursuit of good health, including the hot sand pit. Women also practiced health rituals intended to remove bad energy associated with taboo, including menstruation periods.
+They describe the revival of religious ceremonies in the early 1900s, including *tuwituaim*, after cultural suppression during the Mission Period. Female practitioners followed spiritual practices associated with the pursuit of good health, including the hot sand pit. Women also practiced health rituals intended to remove bad energy associated with taboo, including menstruation periods.
 
 ## Foodways
 
@@ -53,7 +53,7 @@ Serrano foodways varied according to environment. Desert communities relied on h
 
 ## Oral tradition & literature
 
- They state that Dorothy Ramon and linguist Eric Elliot wrote *Wayta' Yawa'* (“Always Believe”), a book in Serrano and English about Serrano culture and Ramon’s life. The book is presented as helping preserve the Serrano language from complete extinction. The sources also mention oral accounts from Native Serrano concerning trade along the Mojave River.
+They state that Dorothy Ramon and linguist Eric Elliot wrote *Wayta' Yawa'* (“Always Believe”), a book in Serrano and English about Serrano culture and Ramon’s life. The book is presented as helping preserve the Serrano language from complete extinction. The sources also mention oral accounts from Native Serrano concerning trade along the Mojave River.
 
 ## Language & religion
 

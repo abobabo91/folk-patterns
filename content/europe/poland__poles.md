@@ -57,7 +57,7 @@ The sources state that Latin songs and religious hymns such as *Gaude Mater Polo
 
 Polish meals are typically structured around breakfast, dinner, and supper. Breakfast is called *śniadanie*, dinner *obiad*, and supper *kolacja*. The largest meal of the day is dinner, while a second breakfast, *drugie śniadanie*, and evening snacks are also characteristic of Poland.
 
-Popular everyday foods listed by the source include pork cutlets, *kotlet schabowy*, schnitzels, kielbasa sausage, potatoes, coleslaw, salads, soups, *barszcz*, tomato or meat broth, pierogi dumplings, and several types of bread, including kaiser rolls, rye bread, and bagels. The source identifies Polish cuisine as reflecting the country’s culture, but the supplied passage ends before providing further detail. No ceremonial foods, cooking methods, tea or coffee traditions, or dietary rules are described in the sources.
+Popular everyday foods listed by the source include pork cutlets, *kotlet schabowy*, schnitzels, kielbasa sausage, potatoes, coleslaw, salads, soups, *barszcz*, tomato or meat broth, pierogi dumplings, and several types of bread, including kaiser rolls, rye bread, and bagels. The source identifies Polish cuisine as reflecting the country’s culture, but the supplied passage ends before providing further detail.
 
 ## Oral tradition & literature
 

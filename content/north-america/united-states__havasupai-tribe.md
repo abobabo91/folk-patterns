@@ -17,15 +17,15 @@ Before 1882, the Havasupai used homes on the plateau of the canyon during winter
 
 ### Ceramics, metalwork & everyday objects
 
- They do document agricultural and hunting equipment, including hand-dug irrigation canals, small headgates, bows, arrows, and rifles. The Havasupai irrigation system diverted water from Havasu Creek through open earthen channels to crop fields, while families regulated the flow to distribute water equitably and limit erosion and over-saturation.
+They do document agricultural and hunting equipment, including hand-dug irrigation canals, small headgates, bows, arrows, and rifles. The Havasupai irrigation system diverted water from Havasu Creek through open earthen channels to crop fields, while families regulated the flow to distribute water equitably and limit erosion and over-saturation.
 
 ## Music & performance
 
- The sources do mention a traditional Havasupai belief that the tribe originated in the canyon. This belief was contrasted with a genetic research study conducted without the consent or permission of the Havasupai, which indicated that their ancestors migrated from Asia to North America. The sources also mention a ceremonial return of blood samples after a legal controversy involving Arizona State University, but they provide no description of music or performance connected with that ceremony.
+The sources do mention a traditional Havasupai belief that the tribe originated in the canyon. This belief was contrasted with a genetic research study conducted without the consent or permission of the Havasupai, which indicated that their ancestors migrated from Asia to North America.
 
 ## Festivals & rituals
 
- They do document the importance of seasonal movement and agricultural work: in winter, tribal members stationed themselves on the plateau of the canyon, while in summer, irrigation gardening brought them back inside the canyon walls. The sources describe a ceremonial return of blood samples to the Havasupai after a legal dispute concerning unauthorized genetic research. They also record that President Gerald Ford signed the legislation returning a large share of Havasupai land on January 4, 1975. No birth, coming-of-age, wedding, or funeral rites are described.
+They do document the importance of seasonal movement and agricultural work: in winter, tribal members stationed themselves on the plateau of the canyon, while in summer, irrigation gardening brought them back inside the canyon walls. The sources describe a ceremonial return of blood samples to the Havasupai after a legal dispute concerning unauthorized genetic research. They also record that President Gerald Ford signed the legislation returning a large share of Havasupai land on January 4, 1975. No birth, coming-of-age, wedding, or funeral rites are described.
 
 ## Foodways
 
@@ -37,7 +37,7 @@ Hunting provided sheep, deer, rabbits, and squirrels. Historically, Havasupai hu
 
 ## Oral tradition & literature
 
- They do record a traditional Havasupai belief that the tribe originated in the canyon, a belief that was contradicted by a genetic research study conducted without the tribe’s consent.
+They do record a traditional Havasupai belief that the tribe originated in the canyon, a belief that was contradicted by a genetic research study conducted without the tribe’s consent.
 
 The sources mention oral and contemporary accounts concerning the effectiveness of the traditional irrigation system. This knowledge was passed down from generation to generation and included practical understanding of water management, seasonal rainfall, sediment build-up, canal orientation, and the sustainable cultivation of crops on the canyon floor. Havasupai language documentation includes grammatical descriptions, vocabularies, and texts. The sources also list *Gwe gnaavja*, *Baahj muhm hatm hwag gyu*, and *Tim: Tñuda Hobaja* among publications prepared by or for the Havasupai Bilingual Education Program.
 

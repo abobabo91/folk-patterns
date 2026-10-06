@@ -19,7 +19,7 @@ The Apiacá, also known as Apiaká or Apiake, are an Indigenous people of Brazil
 
 ### Clothing & dress
 
- They do describe distinctive ornaments associated with the chief during war and encounters with foreigners: a large, white shell collar, a feather diadem, and a large belt of black beads and human teeth. Cotton is also recorded as one of the crops cultivated by the Apiacá, and cotton hammocks were used inside houses.
+They do describe distinctive ornaments associated with the chief during war and encounters with foreigners: a large, white shell collar, a feather diadem, and a large belt of black beads and human teeth. Cotton is also recorded as one of the crops cultivated by the Apiacá, and cotton hammocks were used inside houses.
 
 ### Architecture
 
@@ -41,11 +41,11 @@ Shamans were greatly respected and communicated with spirits through trances. Th
 
 ## Dance & theatre
 
- They mention elaborate ceremonies associated with cannibalism and warfare.
+They mention elaborate ceremonies associated with cannibalism and warfare.
 
 ## Festivals & rituals
 
- They do describe several life-cycle and warfare-related practices. Boys underwent tattooing by women, with the process completed at the age of 14. Women were tattooed after marriage. After childbirth, a mother was confined for only one day, and children were raised in an atmosphere described as loving and affectionate. With the exception of the chief, the Apiacá were monogamous and married at the age of 14. Divorce was allowed, and custody of children went to the father in such cases.
+They do describe several life-cycle and warfare-related practices. Boys underwent tattooing by women, with the process completed at the age of 14. Women were tattooed after marriage. After childbirth, a mother was confined for only one day, and children were raised in an atmosphere described as loving and affectionate. With the exception of the chief, the Apiacá were monogamous and married at the age of 14. Divorce was allowed, and custody of children went to the father in such cases.
 
 The dead were buried in shallow graves beneath their hammocks inside the house. After a year, their bones were exhumed and buried in the original grave. Warfare expeditions were undertaken after the harvest, involving 200 to 300 warriors, but only when shamans predicted victory. Several villages could cooperate under the leadership of a chief during war. Cannibalism involving prisoners and those killed in battle was practiced with elaborate ceremonies as late as 1848.
 
@@ -57,7 +57,7 @@ Apiacá people also hunted peccaries, tapirs, and capybaras. Fish were caught wi
 
 ## Oral tradition & literature
 
- They describe a belief in a god who created the sky and earth and expressed anger and displeasure through thunder and lightning. Shamans told the future through trances and communication with spirits, but no narrative corpus or named myth is provided.
+They describe a belief in a god who created the sky and earth and expressed anger and displeasure through thunder and lightning. Shamans told the future through trances and communication with spirits, but no narrative corpus or named myth is provided.
 
 A contemporary preservation effort is the initiative to create a book known as the *Apiaca Word* in order to catalogue the language. For many years, the Apiacá have attempted to revive their language through schools in their villages, but the sources state that these efforts have so far been unsuccessful.
 

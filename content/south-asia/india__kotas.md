@@ -72,4 +72,3 @@ Kota religion differs from Hinduism in its worship of non-anthropomorphic male d
 - Murray Emeneau, scholar of Kota language and Dravidian linguistics.
 - Richard Kent Wolf, scholar of Kota music and social life.
 - [Kota people (India)](https://en.wikipedia.org/wiki/Kota_people_%28India%29)
-- The sources used list no UNESCO Intangible Cultural Heritage inscription for the Kotas.

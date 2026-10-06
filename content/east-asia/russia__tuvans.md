@@ -13,7 +13,7 @@ The Tuvans, also called Tyvans, are a Turkic ethnic group indigenous to Siberia 
 
 ### Clothing & dress
 
- They state that the *bogtag* headdress worn by women seems to have been restricted to married women of very high rank.
+They state that the *bogtag* headdress worn by women seems to have been restricted to married women of very high rank.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ Tuvan mobile dwellings included circular *yurts*, usually used in the steppes, a
 
 ### Ceramics, metalwork & everyday objects
 
- They mention livestock equipment indirectly through the traditional use of skis and a lasso in elk hunting.
+They mention livestock equipment indirectly through the traditional use of skis and a lasso in elk hunting.
 
 ### Jewelry & body adornment
 
- They identify the *bogtag* as a women’s headdress associated with married women of very high rank.
+They identify the *bogtag* as a women’s headdress associated with married women of very high rank.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ They describe traditional religion as a form of Tengriism or Turkic animistic sh
 
 ## Foodways
 
- They state that the Tuvans historically herded goats, sheep, camels, reindeer, cattle, horses, and yaks. The sources also mention that the Dukha were reported as resorting to eating their herds, but provide no broader account of Tuvan foodways.
+They state that the Tuvans historically herded goats, sheep, camels, reindeer, cattle, horses, and yaks. The sources also mention that the Dukha were reported as resorting to eating their herds, but provide no broader account of Tuvan foodways.
 
 ## Oral tradition & literature
 

@@ -35,7 +35,7 @@ Men wear the *kachhad*, a wrap-on-loincloth, together with a *bhangra*, a *bhoto
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention a brass plate or winnower used in the ritual preparation of the costume and ornaments for Sorathi or Maruni dance.
+They do mention a brass plate or winnower used in the ritual preparation of the costume and ornaments for Sorathi or Maruni dance.
 
 ### Jewelry & body adornment
 

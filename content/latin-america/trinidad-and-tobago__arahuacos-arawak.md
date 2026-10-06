@@ -25,7 +25,7 @@ The sources used state that Taíno influence has survived in the music of Caribb
 
 ## Festivals & rituals
 
- They state that Taíno culture and teachings continued to be passed down from generation to generation, sometimes secretly or disguised through Catholicism because of fear for survival and discrimination. The sources also mention Agua Dulce, also known as Tamani, a syncretic religion practiced in the Dominican Republic.
+They state that Taíno culture and teachings continued to be passed down from generation to generation, sometimes secretly or disguised through Catholicism because of fear for survival and discrimination. The sources also mention Agua Dulce, also known as Tamani, a syncretic religion practiced in the Dominican Republic.
 
 ## Foodways
 

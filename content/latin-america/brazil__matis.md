@@ -17,7 +17,7 @@ The Matis, also called *Matsë* in their own native language, are an Indigenous 
 
 ### Clothing & dress
 
- They do document facial ornaments including “whiskers” made of sticks, bone piercings, and ear and lip gauges made of shells and other materials. These forms of adornment are discussed as part of Matis ritual body modification rather than as a complete clothing system.
+They do document facial ornaments including “whiskers” made of sticks, bone piercings, and ear and lip gauges made of shells and other materials. These forms of adornment are discussed as part of Matis ritual body modification rather than as a complete clothing system.
 
 ### Architecture
 
@@ -25,7 +25,7 @@ The Matis live in three communities or villages called *maloca*. They state that
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe hunting tools and related objects: blowguns, bows and arrows, shotguns, darts, traps and the local vines used to make poison for blowgun darts. The darts have notches carved below the point so that the tip breaks off inside the prey animal. The sources also mention metal tools given to the Matis during visits to the Ituí Indigenous Attraction Post.
+They do describe hunting tools and related objects: blowguns, bows and arrows, shotguns, darts, traps and the local vines used to make poison for blowgun darts. The darts have notches carved below the point so that the tip breaks off inside the prey animal. The sources also mention metal tools given to the Matis during visits to the Ituí Indigenous Attraction Post.
 
 ### Jewelry & body adornment
 
@@ -33,15 +33,15 @@ Matis ritual body modification includes extensive tattooing featuring traditiona
 
 ## Music & performance
 
- They describe the Matis language and provide examples of words and grammatical forms.
+They describe the Matis language and provide examples of words and grammatical forms.
 
 ## Dance & theatre
 
- They do describe ritual body modification and beliefs about airplanes.
+They do describe ritual body modification and beliefs about airplanes.
 
 ## Festivals & rituals
 
- They do document ritual body modification, including tattooing, facial “whiskers,” bone piercings and ear and lip gauges. Coming-of-age tattooing was among the cultural practices that declined after first contact, although some practices saw a resurgence since the 1990s.
+They do document ritual body modification, including tattooing, facial “whiskers,” bone piercings and ear and lip gauges. Coming-of-age tattooing was among the cultural practices that declined after first contact, although some practices saw a resurgence since the 1990s.
 
 The Matis were contacted by FUNAI during 1976–1978, and FUNAI employees began visiting the then-five Matis villages in 1978. The resulting disease outbreaks caused a large decline in population: by 1983, only 87 Matis people survived, compared with an initial population of 300 or more. The sources describe no Matis wedding, funeral, birth or named initiation ceremony beyond the reference to coming-of-age tattooing. No UNESCO Intangible Cultural Heritage inscription is provided for the Matis.
 
@@ -53,7 +53,7 @@ Jungle foods include *patauá*, *buriti*, *puna*, cocoa and cupu. The Matis farm
 
 ## Oral tradition & literature
 
- They do preserve several Matis words and explanations of language, including *matses*, meaning “human being,” and temporal words such as *nebi* (“now”), *uxtokin* (“yesterday”) and *inden* (“long time ago” or “back in the day”).
+They do preserve several Matis words and explanations of language, including *matses*, meaning “human being,” and temporal words such as *nebi* (“now”), *uxtokin* (“yesterday”) and *inden* (“long time ago” or “back in the day”).
 
 Before contact, the Matis understood passenger airplanes as *xokeke*, the spirits of their ancestors, and bush planes as *binkeke*, a kind of strange demon-bird. They regarded the two types of airplanes as distinct phenomena because passenger planes appeared smaller than bush planes, which flew closer to the ground.
 

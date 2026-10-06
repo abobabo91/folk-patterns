@@ -11,7 +11,7 @@ The Moghols, also called Mogols, Moghuls, Moguls, Monghuls, and Monguls, are a M
 
 ## Festivals & rituals
 
- The sources state only that the Moghols are predominantly Sunni Muslims.
+The sources state only that the Moghols are predominantly Sunni Muslims.
 
 ## Language & religion
 

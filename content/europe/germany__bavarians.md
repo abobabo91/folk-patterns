@@ -13,7 +13,7 @@ Bavarians are an ethnographic group of Germans native to Bavaria, a state in Ger
 
 ### Architecture
 
- The sources identify Munich as the capital and cultural center of Bavaria and state that it was founded in the high medieval period.
+The sources identify Munich as the capital and cultural center of Bavaria and state that it was founded in the high medieval period.
 
 ## Music & performance
 
@@ -21,11 +21,11 @@ The sources identify several Bavarian musicians and composers. Christoph Williba
 
 ## Dance & theatre
 
- Karl Valentin is listed as a comedian, while Gerhard Polt is listed as a writer, filmmaker, actor and cabaret artist.
+Karl Valentin is listed as a comedian, while Gerhard Polt is listed as a writer, filmmaker, actor and cabaret artist.
 
 ## Festivals & rituals
 
- The sources state that Bavarians are traditionally Catholic and that Christianization of Bavaria was gradual throughout the 7th century and into the 8th. Saint Corbinian was sent by Pope Gregory II to work toward the evangelization of Bavaria and became the first bishop of Freising. The Bishopric of Regensburg was founded in 739 by Boniface.
+The sources state that Bavarians are traditionally Catholic and that Christianization of Bavaria was gradual throughout the 7th century and into the 8th. Saint Corbinian was sent by Pope Gregory II to work toward the evangelization of Bavaria and became the first bishop of Freising. The Bishopric of Regensburg was founded in 739 by Boniface.
 
 ## Foodways
 

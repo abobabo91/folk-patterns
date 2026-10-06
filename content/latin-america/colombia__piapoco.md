@@ -25,7 +25,7 @@ Women also make clay pots and bowls for sale.
 
 ## Music & performance
 
- They state that Piapoco shamans can be older men or women who undergo rigorous study and several trials, including periods of fasting.
+They state that Piapoco shamans can be older men or women who undergo rigorous study and several trials, including periods of fasting.
 
 ## Festivals & rituals
 

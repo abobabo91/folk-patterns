@@ -21,7 +21,7 @@ Traditional mountain settlements are surrounded by a dense hedge of corals. Thei
 
 ### Ceramics, metalwork & everyday objects
 
- They state only that residents of some coastal villages specialize in intermediary trade in textiles, clothing, and agricultural implements.
+They state only that residents of some coastal villages specialize in intermediary trade in textiles, clothing, and agricultural implements.
 
 ## Music & performance
 

@@ -15,11 +15,11 @@ The sources describe historical events involving Kamchadals. In 1767 and 1768, a
 
 ## Foodways
 
- They state only that Kamchadals engage in fishing, market gardening, and dairy farming.
+They state only that Kamchadals engage in fishing, market gardening, and dairy farming.
 
 ## Oral tradition & literature
 
- The article reproduces a passage from the journal of Captain James Cook concerning the smallpox outbreak of 1767 and 1768.
+The article reproduces a passage from the journal of Captain James Cook concerning the smallpox outbreak of 1767 and 1768.
 
 ## Language & religion
 

@@ -17,7 +17,7 @@ The Kam people, also officially known in China as Dong people, are a Kam–Sui p
 
 ### Clothing & dress
 
- In funeral practice, mourners wear white headcloths, a custom also practiced by the Han Chinese. During weddings, silver jewellery is passed to the bride by her mother. The sources also state that cotton is cultivated for textile production.
+In funeral practice, mourners wear white headcloths, a custom also practiced by the Han Chinese. During weddings, silver jewellery is passed to the bride by her mother. The sources also state that cotton is cultivated for textile production.
 
 ### Architecture
 
@@ -25,7 +25,7 @@ Kam villages commonly contain *ganlan*-style wooden houses, described as stilt h
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify carpentry, silverwork and wickerwork as major economic activities. Baskets and other wickerwork are usually made by men from glutinous rice straw, cogongrass, Guangxi grass, bamboo and rattan. Wooden objects include houses, bridges, pavilions, grain-drying racks and granaries. Wells are usually dug near trees and surrounded by stone rims. The sources also mention suona performance during a funeral vigil.
+They do identify carpentry, silverwork and wickerwork as major economic activities. Baskets and other wickerwork are usually made by men from glutinous rice straw, cogongrass, Guangxi grass, bamboo and rattan. Wooden objects include houses, bridges, pavilions, grain-drying racks and granaries. Wells are usually dug near trees and surrounded by stone rims. The sources also mention suona performance during a funeral vigil.
 
 ### Jewelry & body adornment
 

@@ -13,11 +13,11 @@ The Great Lakes Twa, also known as Batwa, Abatwa or Ge-Sera, are a Bantu-speakin
 
 ### Clothing & dress
 
- The sources state that sheep skin was used by Hutus and Tutsis to carry babies on women’s backs.
+The sources state that sheep skin was used by Hutus and Tutsis to carry babies on women’s backs.
 
 ### Architecture
 
- They state that, after returning to Kahuzi-Biega National Park in 2019, Batwa built new villages on their former land.
+They state that, after returning to Kahuzi-Biega National Park in 2019, Batwa built new villages on their former land.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -27,13 +27,11 @@ The process of digging clay and carrying it to settlements provides opportunitie
 
 ## Music & performance
 
- They identify Colin Turnbull, Simha Arom and Jean-Pierre Hallet as researchers who studied pygmy culture and music, but provide no account of particular Great Lakes Twa musical traditions.
-
 The sources mention that, at times, Twa served in the government of the Tutsi king and that some obtained privileged positions in the royal court as entertainers or executioners.
 
 ## Festivals & rituals
 
- They do describe beliefs and social practices involving Twa women in Rwanda: there was a belief that sleeping with a Twa woman could cure an acute backache, and children born from such encounters were called “Abasyete” and were said to have a “different morphology.” Most Abasyete were found in the Nyanza District, and many were killed during the Rwandan Genocide.
+They do describe beliefs and social practices involving Twa women in Rwanda: there was a belief that sleeping with a Twa woman could cure an acute backache, and children born from such encounters were called “Abasyete” and were said to have a “different morphology.” Most Abasyete were found in the Nyanza District, and many were killed during the Rwandan Genocide.
 
 The sources also state that sheep were taboo to both Tutsi and Hutus because sheep skin was used to carry babies on women’s backs and sheep were believed to keep herds of cattle calm. They identify the Rwandan genocide of 1994 as a period in which about 30% of Rwanda’s Twa population died.
 

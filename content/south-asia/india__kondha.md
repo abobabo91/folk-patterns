@@ -13,15 +13,15 @@ The Khonds, also spelt Kondha and Kandha, are a Dravidian ethnic group and indig
 
 ### Clothing & dress
 
- They state that women assist with cultivation, harvesting, household work, and the sale of produce, while men commonly forage or hunt.
+They state that women assist with cultivation, harvesting, household work, and the sale of produce, while men commonly forage or hunt.
 
 ### Architecture
 
- They state that the Khonds are forest and hill dwellers and that the Dongria clan inhabits the steep slopes of the Niyamgiri Range of Rayagada district and extends over the border into Kalahandi.
+They state that the Khonds are forest and hill dwellers and that the Dongria clan inhabits the steep slopes of the Niyamgiri Range of Rayagada district and extends over the border into Kalahandi.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention household activities including fetching water, cooking, food service, cultivation, harvesting, food preservation by smoking fish and meat, and the use of medicinal plants, without describing the objects involved.
+They mention household activities including fetching water, cooking, food service, cultivation, harvesting, food preservation by smoking fish and meat, and the use of medicinal plants, without describing the objects involved.
 
 ## Music & performance
 

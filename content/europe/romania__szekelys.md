@@ -15,10 +15,6 @@ The Székelys, also referred to as Szeklers, are a Hungarian subgroup living mai
 
 The sources do state that the Székelys have preserved traditions to an extent unusual even in Central and Eastern Europe.
 
-## Music & performance
-
- They mention the folklorist Elek Benedek and several Székely writers, but provide no description of music or musical practice.
-
 ## Festivals & rituals
 
 The sources document political commemorations rather than a complete annual ritual calendar. A major peaceful demonstration was held in 2006 in favor of autonomy. In 2013 and 2014, thousands of ethnic Hungarians marched for autonomy on 10 March, identified as Székely Freedom Day, in Târgu Mureș, Romania. The date commemorates the execution in Târgu Mureș in 1854, by the Austrian authorities, of three Székelys who tried to achieve national self-determination. Since 2015, the Székelys have also observed Székely Autonomy Day, celebrated every last Sunday of October.

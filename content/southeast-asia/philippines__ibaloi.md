@@ -21,7 +21,7 @@ The Ibaloi build houses called *balai* or *baeng* near their farms. These houses
 
 ### Ceramics, metalwork & everyday objects
 
- Ibaloi household objects include copper cooking pots called *kambung*, wooden food compartments called *shuyu*, wooden utensils, baskets, and coconut-shell containers. A wooden box filled with soil serves as a cooking place called *Shapolan*, while three stones form the stove called *shakilan*. Rice-processing equipment includes mortars called *dohsung*, which may be round or rectangular, and pestles called *al-o* or *bayu*. Rice winnowers called *dega-o* or *kiyag* are made of bamboo or rattan. Traditional weapons include the spear *kayang*, shield *kalasai*, bow and arrow *bekang* and *pana*, and war club *papa*.
+Ibaloi household objects include copper cooking pots called *kambung*, wooden food compartments called *shuyu*, wooden utensils, baskets, and coconut-shell containers. A wooden box filled with soil serves as a cooking place called *Shapolan*, while three stones form the stove called *shakilan*. Rice-processing equipment includes mortars called *dohsung*, which may be round or rectangular, and pestles called *al-o* or *bayu*. Rice winnowers called *dega-o* or *kiyag* are made of bamboo or rattan. Traditional weapons include the spear *kayang*, shield *kalasai*, bow and arrow *bekang* and *pana*, and war club *papa*.
 
 ### Jewelry & body adornment
 
@@ -35,7 +35,7 @@ The Ibaloi musical instrument inventory includes both melodic and percussive for
 
 ## Festivals & rituals
 
- They identify the *cañao* as a feast and give it as an example of a reason for playing sacred musical instruments. No further description of the feast is supplied.
+They identify the *cañao* as a feast and give it as an example of a reason for playing sacred musical instruments. No further description of the feast is supplied.
 
 Ibaloi religious practice includes beliefs in two kinds of spirits, called *anitos*. Nature spirits are associated with calamities, while ancestral spirits, called *ka-apuan*, make their presence known in dreams or by making a family member sick. Mount Pulag is culturally important and is considered the place where spirits join their ancestors.
 
@@ -51,7 +51,7 @@ Cooking equipment includes copper pots called *kambung*, a soil-filled wooden co
 
 ## Oral tradition & literature
 
- The Ibaloi language article identifies *Nangoyan* as the title of a story and states that an excerpt from it illustrates the narrative style and traditional orthography of the Ibaloi language. The excerpt is identified as dating from 1979. No further information about the story, its themes, performance context, or preservation efforts is provided.
+The Ibaloi language article identifies *Nangoyan* as the title of a story and states that an excerpt from it illustrates the narrative style and traditional orthography of the Ibaloi language. The excerpt is identified as dating from 1979. No further information about the story, its themes, performance context, or preservation efforts is provided.
 
 ## Language & religion
 

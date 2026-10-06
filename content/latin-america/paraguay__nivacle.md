@@ -11,11 +11,11 @@ The Nivaclé are an Indigenous people of the Gran Chaco. An estimated 13,700 Niv
 
 ## Foodways
 
- The language article states that Nivaclé has different genitive noun classifiers for possessed domestic animals and possessed prey, referring to hunted animals.
+The language article states that Nivaclé has different genitive noun classifiers for possessed domestic animals and possessed prey, referring to hunted animals.
 
 ## Oral tradition & literature
 
- A dictionary has been published for Nivaclé, and the Bible was translated into Nivaclé in 1995. The sources also list the Colección Gutiérrez study on the Nivaclé language and documentation projects associated with the Archivo DILA, the Endangered Languages Archive, and ELAR.
+A dictionary has been published for Nivaclé, and the Bible was translated into Nivaclé in 1995. The sources also list the Colección Gutiérrez study on the Nivaclé language and documentation projects associated with the Archivo DILA, the Endangered Languages Archive, and ELAR.
 
 ## Language & religion
 

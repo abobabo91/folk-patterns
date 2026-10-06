@@ -21,7 +21,7 @@ The sources name *Inyan ha oin* (“Musselshell Earring”) and *Wagleza-oin* (�
 
 ## Festivals & rituals
 
- They state that, prior to being confined to the reservation in the late 19th century, the Miniconjou recognized six hereditary leaders within their tribe, chosen from each clan.
+They state that, prior to being confined to the reservation in the late 19th century, the Miniconjou recognized six hereditary leaders within their tribe, chosen from each clan.
 
 ## Foodways
 

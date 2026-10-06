@@ -13,7 +13,7 @@ The Wyandot are an Indigenous Iroquoian people who emerged in the Great Lakes re
 
 ### Clothing & dress
 
- They mention the hairstyle of Wendat warriors only in explaining the French name “Huron,” which is believed to derive from *hure*, meaning “boar’s head.”
+They mention the hairstyle of Wendat warriors only in explaining the French name “Huron,” which is believed to derive from *hure*, meaning “boar’s head.”
 
 ### Architecture
 
@@ -21,19 +21,15 @@ The Wendat and Etionnontateronnon lived in palisaded villages of bark-covered lo
 
 ### Ceramics, metalwork & everyday objects
 
- They state that the Wyandat practised a “Three Sisters” agricultural economy based on maize, beans, and squash.
+They state that the Wyandat practised a “Three Sisters” agricultural economy based on maize, beans, and squash.
 
 ## Music & performance
 
- They describe Kondiaronk as a skilled diplomat and brilliant negotiator who was famed for his oratory. In 1701, despite being terminally ill, he gave a final speech during negotiations that helped unite 39 different Indigenous nations and contributed to the Great Peace of Montreal.
-
-## Dance & theatre
-
- They provide no information about ceremonial or recreational dance.
+They describe Kondiaronk as a skilled diplomat and brilliant negotiator who was famed for his oratory. In 1701, despite being terminally ill, he gave a final speech during negotiations that helped unite 39 different Indigenous nations and contributed to the Great Peace of Montreal.
 
 ## Festivals & rituals
 
- They record that Kondiaronk was accorded a grand funeral in Montreal after his death a few days before the signing of the Great Peace of Montreal on Aug 4, 1701, but provide no description of the funeral rites. The sources also state that the Wyandot were organized into matrilineal clans and lived in villages, without explaining associated ceremonies.
+The sources also state that the Wyandot were organized into matrilineal clans and lived in villages, without explaining associated ceremonies.
 
 ## Foodways
 
@@ -41,7 +37,7 @@ The sources identify a “Three Sisters” agricultural economy based on maize, 
 
 ## Oral tradition & literature
 
- They emphasize Kondiaronk’s reputation for oratory and describe the importance of his final speech in the negotiations that led to the Great Peace of Montreal. Modern documentation and revitalization efforts include Marius Barbeau’s transcriptions of Wyandot in Wyandotte, Oklahoma, in 1911–1912, Craig Kopris’s grammar and dictionary, and language lessons and classes offered by the Wyandotte Nation and the Wendat Nation of Quebec.
+They emphasize Kondiaronk’s reputation for oratory and describe the importance of his final speech in the negotiations that led to the Great Peace of Montreal. Modern documentation and revitalization efforts include Marius Barbeau’s transcriptions of Wyandot in Wyandotte, Oklahoma, in 1911–1912, Craig Kopris’s grammar and dictionary, and language lessons and classes offered by the Wyandotte Nation and the Wendat Nation of Quebec.
 
 ## Language & religion
 

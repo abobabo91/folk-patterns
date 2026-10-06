@@ -31,7 +31,7 @@ The Sasak language source records Sasak puppet theatre as a performance traditio
 
 ## Festivals & rituals
 
- They do describe several religious and life-cycle contexts. Lontar readings known as *pepaòsan* are performed at funerals, weddings, and circumcision ceremonies. Rural Sasak read lontar texts as part of a ritual intended to ensure the fertility of farm animals.
+They do describe several religious and life-cycle contexts. Lontar readings known as *pepaòsan* are performed at funerals, weddings, and circumcision ceremonies. Rural Sasak read lontar texts as part of a ritual intended to ensure the fertility of farm animals.
 
 Most Sasaks today follow the Lima Waktu version of Islam, whose name means “Five Times” and refers to the five daily prayers. Wetu Telu Islam, whose name means “Three Times,” is practiced by Sasaks who pray three times a day. Large numbers of Wetu Telu adherents can still be found throughout Lombok, especially in Bayan, where the religion originated. Communities are also recorded in Mataram, Pujung, Sengkol, Rambitan, Sade, Tetebatu, Bumbung, Sembalun, Senaru, Loyok, and Pasugulan.
 

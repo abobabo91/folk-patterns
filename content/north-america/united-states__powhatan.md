@@ -21,11 +21,11 @@ Powhatan houses were called *yehakins*. They were constructed by bending sapling
 
 ### Ceramics, metalwork & everyday objects
 
- They state that houses were covered with woven mats or bark and that bedding materials could be stored during the daytime. The sources also describe the use of fire for heating sleeping rooms and clearing land.
+They state that houses were covered with woven mats or bark and that bedding materials could be stored during the daytime. The sources also describe the use of fire for heating sleeping rooms and clearing land.
 
 ### Jewelry & body adornment
 
- They state only that Powhatan women cut hair and produced clothing.
+They state only that Powhatan women cut hair and produced clothing.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ The sources state that Powhatan people danced and sang after work as a form of c
 
 ## Festivals & rituals
 
- They state that Powhatan people made offerings and prayed at sunrise and also prayed to specific spirits associated with a good harvest. The sources describe religion as Native and state that Powhatan priests had responsibility for controlling the weather. The available material instead connects agricultural practice with maize cultivation, fishing, hunting, offerings, and prayers for the harvest.
+They state that Powhatan people made offerings and prayed at sunrise and also prayed to specific spirits associated with a good harvest. The sources describe religion as Native and state that Powhatan priests had responsibility for controlling the weather. The available material instead connects agricultural practice with maize cultivation, fishing, hunting, offerings, and prayers for the harvest.
 
 ## Foodways
 

@@ -13,7 +13,7 @@ The Krobo are an ethnic group in Ghana and part of the Ga-Adangbe ethnolinguisti
 
 ### Clothing & dress
 
- They state that girls undergoing the *Dipo* rite of passage traditionally spent one to three years on Krobo Mountain completing their customs.
+They state that girls undergoing the *Dipo* rite of passage traditionally spent one to three years on Krobo Mountain completing their customs.
 
 ### Architecture
 
@@ -31,7 +31,7 @@ The sources identify beadmaking as an important Krobo activity and state that th
 
 ## Music & performance
 
- They mention annual pilgrimages connected with the Ngmayem and Kloyosikplem festivals.
+They mention annual pilgrimages connected with the Ngmayem and Kloyosikplem festivals.
 
 ## Festivals & rituals
 
@@ -43,7 +43,7 @@ In 1892, Governor Griffiths enacted the Native Customs Ordinance to remove the K
 
 ## Foodways
 
- They state that the Yilo underwent acculturation rites after returning from Krobo Denkyera, including instruction about foods taboo to the Krobo. The expression *wa yilɔ*, meaning “we don’t eat this,” became associated with the Yilo because they repeatedly asked whether various Akan foods they had learned to eat were acceptable.
+They state that the Yilo underwent acculturation rites after returning from Krobo Denkyera, including instruction about foods taboo to the Krobo. The expression *wa yilɔ*, meaning “we don’t eat this,” became associated with the Yilo because they repeatedly asked whether various Akan foods they had learned to eat were acceptable.
 
 ## Oral tradition & literature
 

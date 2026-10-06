@@ -1,0 +1,70 @@
+---
+title: "Tornedalians"
+subtitle: "Sweden"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Tornedalians are an ethnic minority native to the Torne Valley, also called *Meänmaa*, in northern Sweden and Finland. The region follows the Torne River and includes places such as Pajala, Karesuando, Tornio, Ylitornio, Alatornio, Muodoslompolo, and the wider areas of Swedish and Finnish Lapland. Tornedalians commonly use the names Tornedalians, Kvens, and *Lantalaiset*, although there is no internal consensus on one designation. Sweden officially recognized them as a distinct national minority in 2000; in Finland they are generally considered a regional subgroup of Finns. Estimates place the population identifying as Tornedalian between 30,000 and 150,000. Their language, Meänkieli, belongs to the Uralic language family and is recognized in Sweden as one of five minority languages.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no textile motifs.
+
+### Clothing & dress
+
+Traditional men’s clothing included the *långkolt*, described as a long *gákti*, together with a blue or black hat often decorated with red seams and commonly called a *kairalakki*. During winter, a *peski* could be worn over the långkolt. Women commonly wore kirtles and short jackets, with a coif or *huivi*, a type of head scarf. The traditional footwear called *näbbsko* in Swedish was typically made from reindeer or cow hide. Winter shoes were known as *nutukka*, while summer footwear included *paulakengät* and *vuotakengät*. Wealthier Lantalaiset historically sometimes wore Sámi silver belts.
+
+In 1912, a Swedish commission in Luleå designed the current Torne Valley costume, called *Tornedalsdräkt* in Swedish. It was used in schools and work camps and became widespread. The dress remains an important part of Tornedalian women’s fashion, while the men’s version apparently never became equally established. Silver and tin are commonly used in jewelry.
+
+### Ceramics, metalwork & everyday objects
+
+They do state that silver and tin are commonly used in jewelry and that the traditional *näbbsko* was made from reindeer or cow hide.
+
+### Jewelry & body adornment
+
+The sources identify silver and tin as common jewelry materials. Wealthier Lantalaiset historically sometimes wore Sámi silver belts. No tattoos, henna practices, hair practices, ritual jewelry, or named jewelry forms beyond the silver belts are described.
+
+## Music & performance
+
+The oldest known works of native Tornedalian literature include two runic songs by Antti Keksi. The first and most famous concerns the ice discharge of 1677, which caused extensive destruction and loss of life in the Torne Valley. It was written down approximately 100 years after its composition and was then attributed to Keksi’s grandson Josef. The second surviving runic song concerns the priest Nicolaus.
+
+William Snell wrote the first book in Meänkieli in 1944, despite the existing ban on the language. His work was titled *Kamaripirtiltä: muisteluksia Tornion murtheela*. In 1947 he wrote *Tornionlaakson laulu*, called *Tornedalssången* in Swedish and *Torne Valley song* in English. It is considered almost a national anthem among Tornedalians.
+
+## Dance & theatre
+
+They do describe *Liikutukset*, an important practice of Tornedalian and Kven Læstadianism. The word roughly means “movements” and refers to religious ecstasy expressed through activities such as hopping, clapping, dancing, shouting praise, and singing.
+
+The sources also state that the novel *Popular Music from Vittula* was adapted for several stage productions and made into a film in 2004. The first feature-length movie in Meänkieli premiered in 2025. Titled *Liikheitä* in Meänkieli, *Raptures* in English, and *Rörelser* in Swedish, it follows the rise and fall of the Korpela Movement and was directed by Jon Blåhed.
+
+## Festivals & rituals
+
+They do record the Meänmaa Flag Day on July 15 and the Kven flag day on March 16. The Tornedalian flag is a horizontal tricolour of yellow, white, and blue, designed in 2007 by the organization Meänmaa Tinkerit. Lantalaiset and Kvens typically use the Kven flag, designed in 2009 by Bengt Johansson-Kyrö.
+
+Christianity first gained a foothold in the region during the 1400s and became dominant by the 1600s, displacing earlier pagan beliefs. The sources state that pagan practices continued during and after Christianization. The last known pagan burials date from the period when the Church of Sweden established itself in the Torne Valley, and Christianity became clearly dominant after the church administration was reformed in 1606.
+
+## Foodways
+
+They state that inland fishing was vital to Tornedalian livelihood during the Swedish period and that hunting and fishing grounds were involved in conflicts and changing rights between Tornedalians, Sámi families, and the Swedish authorities.
+
+## Oral tradition & literature
+
+Traditional Tornedalian beliefs include figures such as Jopmel or Jobmel, Hiisi, Perhana, Veen neiti, and Jatuni. A *saivo* was understood as a special holy “double-bottomed” lake that could act as a portal to the land of the dead. The *jänkkäsilmä*, literally “eye of the bog,” was another holy feature in nature believed capable of transporting a person to the other life or through time. The *noita*, described as equivalent to the Sámi *noaidi*, was a traditional shaman. As Christianity became dominant during the 1600s and 1700s, the noita largely lost religious importance and became primarily a keeper of traditional medical knowledge.
+
+The earliest known native Tornedalian literary works are Antti Keksi’s two runic songs. William Snell’s writing in Meänkieli preceded the cultural renaissance of the 1980s. Bengt Pohjanen wrote *Lyykeri* in 1985, described as the first novel in Meänkieli, and has also written books, dramas, screenplays, songs, and opera. Mikael Niemi’s novel *Popular Music from Vittula*, published in 2000, tells colourful stories of everyday life in the Tornedalian town of Pajala.
+
+## Language & religion
+
+Meänkieli, also called Tornedalian, is the language or dialect spoken by Tornedalians. It belongs to the Uralic language family and is recognized in Sweden as one of the country’s five minority languages. Its status as an independent language is disputed because it is highly mutually intelligible with Finnish. Finnish Tornedalians generally do not consider their speech a separate language, although many speak what could otherwise be considered Meänkieli.
+
+Swedish became the sole language of civil life and the only language taught in schools in 1888. Tornedalian children were subjected to forced assimilation in work cabins established after the 1902 Norrbotten famine. The ban on speaking Meänkieli in school was revoked by the Riksdag in 1957. In 1992, the first Meänkieli dictionary was written. A law that came into force in 2000 recognized Tornedalians as an official national minority and Meänkieli as an official minority language.
+
+Christianity is the dominant religion described in the sources, while earlier pagan beliefs continued in transformed or partial forms. Læstadianism became particularly important after the preaching of Lars Levi Læstadius in the 1800s. After his death in 1861, Johan Raattamaa became the movement’s spiritual leader. The movement later divided, but Læstadianism remains important in much of Tornedalian society. The Korpela Movement, which spread during the 1930s, was popular with Lantalaiset and taught that God would create a crystal bridge to Palestine, where a utopia would be established.
+
+## Sources & further reading
+
+- “Tornedalians,” *Wikipedia*, https://en.wikipedia.org/wiki/Tornedalians

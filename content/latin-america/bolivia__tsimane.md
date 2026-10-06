@@ -11,11 +11,11 @@ The Tsimané, also known as the Tsimane' or Chimane, are an indigenous people of
 
 ## Music & performance
 
- One source describes a daily pattern in which people congregate around a fire while cooking food, share a meal, and remain by the fire as it gets dark, sharing stories and information.
+One source describes a daily pattern in which people congregate around a fire while cooking food, share a meal, and remain by the fire as it gets dark, sharing stories and information.
 
 ## Festivals & rituals
 
- The sources do state that the Tsimaneʼ have preserved customs and traditions more than the Mosetén.
+The sources do state that the Tsimaneʼ have preserved customs and traditions more than the Mosetén.
 
 ## Foodways
 
@@ -23,7 +23,7 @@ Tsimané foodways are based chiefly on subsistence farming, hunting, fishing, an
 
 ## Oral tradition & literature
 
- They describe evening gatherings around a fire in which people share stories and information. The sources also state that the Tsimaneʼ have preserved customs and traditions, including their language.
+They describe evening gatherings around a fire in which people share stories and information. The sources also state that the Tsimaneʼ have preserved customs and traditions, including their language.
 
 ## Language & religion
 

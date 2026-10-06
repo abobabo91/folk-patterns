@@ -11,15 +11,15 @@ The Selkup are an Indigenous people of Siberia who traditionally settled in the 
 
 ## Music & performance
 
- The sources state that the expeditions of the Finnish linguist and ethnographer Kai Reinhold Donner in 1911–1912 and 1914 studied Selkup folklore, everyday culture and traditional ways of life.
+The sources state that the expeditions of the Finnish linguist and ethnographer Kai Reinhold Donner in 1911–1912 and 1914 studied Selkup folklore, everyday culture and traditional ways of life.
 
 ## Festivals & rituals
 
- They state that many Selkups retained some of their ancient religious beliefs and customs after Russian attempts to Russify and Christianize them.
+They state that many Selkups retained some of their ancient religious beliefs and customs after Russian attempts to Russify and Christianize them.
 
 ## Foodways
 
- The sources state only that Selkups traditionally engaged in hunting, fishing and reindeer herding as subsistence.
+The sources state only that Selkups traditionally engaged in hunting, fishing and reindeer herding as subsistence.
 
 ## Oral tradition & literature
 
@@ -36,5 +36,3 @@ Selkup belongs to the Samoyedic group of the Uralic language family and is spoke
 - Kai Reinhold Donner’s expeditions, which studied Selkup language, folklore, everyday culture and traditional ways of life in 1911–1912 and 1914.
 - [Selkup people](https://en.wikipedia.org/wiki/Selkup_people)
 - [Selkup language](https://en.wikipedia.org/wiki/Selkup_language)
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription for the Selkup.
-- The sources used provide no museum catalogue records or relevant museum collection URLs.

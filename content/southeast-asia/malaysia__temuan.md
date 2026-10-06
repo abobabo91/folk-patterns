@@ -13,7 +13,7 @@ The Temuan people, also known as *Uwang/Eang Temuan* or *Orang Temuan*, are a Pr
 
 ### Clothing & dress
 
- The sources mention that Temuans buy clothes, but provide no further information about their manufacture, styles or social use.
+The sources mention that Temuans buy clothes, but provide no further information about their manufacture, styles or social use.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ Temuan villages are generally located near the jungle, and Temuan communities tr
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention blowguns in a folk-history account, bamboo as a source of food preparation, and wood gathered from the jungle for construction.
+They do mention blowguns in a folk-history account, bamboo as a source of food preparation, and wood gathered from the jungle for construction.
 
 ## Music & performance
 

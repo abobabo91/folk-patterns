@@ -23,15 +23,15 @@ Traditionally, Quinault people lived in longhouses.
 
 ## Festivals & rituals
 
- The sources state that the Quinault people settled onto reservation lands after signing the Quinault Treaty with the former Washington Territory in 1856.
+The sources state that the Quinault people settled onto reservation lands after signing the Quinault Treaty with the former Washington Territory in 1856.
 
 ## Foodways
 
- They state that burden baskets were used for gathering oysters and other shellfish, but provide no further account of Quinault foodways.
+They state that burden baskets were used for gathering oysters and other shellfish, but provide no further account of Quinault foodways.
 
 ## Oral tradition & literature
 
- They do document efforts to revitalize the Quinault language, including the use of community classrooms described in a cited doctoral thesis.
+They do document efforts to revitalize the Quinault language, including the use of community classrooms described in a cited doctoral thesis.
 
 ## Language & religion
 

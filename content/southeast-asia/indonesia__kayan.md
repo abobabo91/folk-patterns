@@ -17,7 +17,7 @@ The Kayan are an indigenous tribe from Borneo, living in Kalimantan, Indonesia, 
 
 ### Clothing & dress
 
- They state that both women and men traditionally had stretched earlobes. Tattooing was practiced before the arrival of Christian missionaries: women tattooed mostly girls and women to signify womanhood, while men received tattoos for ornamental reasons.
+They state that both women and men traditionally had stretched earlobes. Tattooing was practiced before the arrival of Christian missionaries: women tattooed mostly girls and women to signify womanhood, while men received tattoos for ornamental reasons.
 
 ### Architecture
 
@@ -33,11 +33,11 @@ Kayan women and men traditionally stretched their earlobes. Tattooing was practi
 
 ## Music & performance
 
-The sources describe the Kayan as having older generations of storytellers and songsmiths. One performance form was *Tekna'*, a verbal art of storytelling through songs. Storytellers used it to entertain fellow villagers and welcome visitors. The form is now described as nearly lost. Traditional Kayan songs include “Alam Lening” and “Lung Kayaan Mendalam.” The sources also identify *Parap* and *Takna'* as ancient Kayan oral art forms, and name Adrian Jo Milang as a practitioner of these forms. No musical instruments, musical scales, performance ensembles or specific ceremonial musical contexts are documented in the sources used.
+The sources describe the Kayan as having older generations of storytellers and songsmiths. One performance form was *Tekna'*, a verbal art of storytelling through songs. Storytellers used it to entertain fellow villagers and welcome visitors. The form is now described as nearly lost. Traditional Kayan songs include “Alam Lening” and “Lung Kayaan Mendalam.” The sources also identify *Parap* and *Takna'* as ancient Kayan oral art forms, and name Adrian Jo Milang as a practitioner of these forms.
 
 ## Dance & theatre
 
- They mention the making of masks as a developed craft.
+They mention the making of masks as a developed craft.
 
 ## Festivals & rituals
 

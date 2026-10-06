@@ -13,23 +13,23 @@ The Tupinambá are one of the Tupi ethnic groups of present-day Brazil. Before a
 
 ### Architecture
 
- The sources state that Tupinambá communities settled into communities that sustained populations of about 100 people.
+The sources state that Tupinambá communities settled into communities that sustained populations of about 100 people.
 
 ### Ceramics, metalwork & everyday objects
 
- The Old Tupi language source gives linguistic examples involving a *stone bowl*, an *arrow*, a *sword*, and a *canoe*.
+The Old Tupi language source gives linguistic examples involving a *stone bowl*, an *arrow*, a *sword*, and a *canoe*.
 
 ## Music & performance
 
- The sources describe historical written works concerning the Tupinambá, including André Thevet’s 1572 *Cosmographie universelle*, Jean de Léry’s 1578 *Histoire d’un voyage faict en la terre du Brésil*, and Hans Staden’s *Warhaftige Historia und beschreibung eyner Landtschafft der Wilden Nacketen*. They also describe José de Anchieta’s poetry in Tupinambá and his work on Tupi grammar.
+The sources describe historical written works concerning the Tupinambá, including André Thevet’s 1572 *Cosmographie universelle*, Jean de Léry’s 1578 *Histoire d’un voyage faict en la terre du Brésil*, and Hans Staden’s *Warhaftige Historia und beschreibung eyner Landtschafft der Wilden Nacketen*. They also describe José de Anchieta’s poetry in Tupinambá and his work on Tupi grammar.
 
 ## Dance & theatre
 
- The Old Tupi source mentions José de Anchieta’s *Teatro* as a source for a linguistic example.
+The Old Tupi source mentions José de Anchieta’s *Teatro* as a source for a linguistic example.
 
 ## Festivals & rituals
 
- The sources mention historical descriptions of Tupinambá cannibalism by Hans Staden and the influence of accounts by Thevet and Léry on Montaigne’s essay *Of Cannibals*.
+The sources mention historical descriptions of Tupinambá cannibalism by Hans Staden and the influence of accounts by Thevet and Léry on Montaigne’s essay *Of Cannibals*.
 
 ## Foodways
 

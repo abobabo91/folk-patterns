@@ -13,7 +13,7 @@ The Konjo, also called BaKonzo, Bakonzo, Mukonzo, Bayiira, Banande, or Abanyarwe
 
 ### Clothing & dress
 
- In the marriage account, *Omuseye wa maama* is described historically as a metallic silver or gold wrist band confirming an agreement between families. In the account given for contemporary marriage arrangements, it can include a *gomesi*, shoes, *Ekikoye*, a thick cotton fabric worn underneath, an *Ekitambalha kyo kwamutwe*, a cloth covering the head, a gomesi sash, and money for undergarments or tailoring. The sources also mention bed sheets wrapped in a blanket as part of the *Omukagha*, or dowry.
+In the marriage account, *Omuseye wa maama* is described historically as a metallic silver or gold wrist band confirming an agreement between families. In the account given for contemporary marriage arrangements, it can include a *gomesi*, shoes, *Ekikoye*, a thick cotton fabric worn underneath, an *Ekitambalha kyo kwamutwe*, a cloth covering the head, a gomesi sash, and money for undergarments or tailoring. The sources also mention bed sheets wrapped in a blanket as part of the *Omukagha*, or dowry.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ The sources describe a temporary circumcision structure called *Omupinda*. It wa
 
 ### Ceramics, metalwork & everyday objects
 
- They mention the hoe *Eyisuuka* as an item included in the *Omukagha*, and describe goat or sheep skin softened with oil of *Embono* as a material used in arrangements for booking a future bride and carrying a girl child.
+They mention the hoe *Eyisuuka* as an item included in the *Omukagha*, and describe goat or sheep skin softened with oil of *Embono* as a material used in arrangements for booking a future bride and carrying a girl child.
 
 ### Jewelry & body adornment
 
@@ -29,7 +29,7 @@ The sources document the historical *Omuseye wa maama*, a metallic silver or gol
 
 ## Music & performance
 
- They do describe performance in ritual contexts. At the funeral of a circumcised Mukonzo man, a special traditional dance called *Omukumu* was performed as part of the final funeral rites. Only circumcised men were permitted to perform the dance, drum and dance with women.
+They do describe performance in ritual contexts. At the funeral of a circumcised Mukonzo man, a special traditional dance called *Omukumu* was performed as part of the final funeral rites. Only circumcised men were permitted to perform the dance, drum and dance with women.
 
 *Omukumu* also formed part of the *Olhusumba* circumcision ceremony. Women were allowed at the site at the beginning of the ceremony to participate in the traditional dance and on the final day, when the fully healed *Abathende* were brought out of the *Omupinda*. The women who danced the Omukumu were permitted to dismantle the hut.
 

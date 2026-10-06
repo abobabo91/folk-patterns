@@ -19,7 +19,7 @@ Pumi men tend to wear sleeveless goatskin or linen jackets with long trousers an
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify the cooking fire ring as an important object within many Pumi homes. Guests should never touch the ring, and a *Guazei*, consisting of small stone towers, is located behind the fire rings.
+They do identify the cooking fire ring as an important object within many Pumi homes. Guests should never touch the ring, and a *Guazei*, consisting of small stone towers, is located behind the fire rings.
 
 ### Jewelry & body adornment
 
@@ -27,7 +27,7 @@ Pumi women plait their hair with yak tail hairs and silk threads, after which th
 
 ## Music & performance
 
- They mention religious texts read by Muli Bonpo-Buddhist priests in Tibetan and interpreted into Prinmi.
+They mention religious texts read by Muli Bonpo-Buddhist priests in Tibetan and interpreted into Prinmi.
 
 ## Festivals & rituals
 
@@ -51,7 +51,7 @@ During household meals, food is also used in ancestor veneration. The oldest mal
 
 ## Oral tradition & literature
 
- They state that transcribed, translated and annotated audio documents in the Pumi language are available from the Pangloss Collection; these concern Northern dialects of Pumi.
+They state that transcribed, translated and annotated audio documents in the Pumi language are available from the Pangloss Collection; these concern Northern dialects of Pumi.
 
 ## Language & religion
 

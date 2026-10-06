@@ -35,11 +35,11 @@ Tunica material culture included pottery, locally produced in a tribal style, as
 
 ### Jewelry & body adornment
 
- They do state that Tunica people continued to tattoo themselves in the late 18th century, after becoming acculturated to European ways. Beads appear among the European trade goods deposited as grave goods at the Trudeau site.
+They do state that Tunica people continued to tattoo themselves in the late 18th century, after becoming acculturated to European ways. Beads appear among the European trade goods deposited as grave goods at the Trudeau site.
 
 ## Music & performance
 
- They do document ceremonial and social practices that involved performance. A celebratory dance was held during the 1730 confrontation involving Tunica, Natchez, Chickasaw, and Koroa people. The dance continued until after midnight, when the Tunica retired to their cabins. The sources also mention the Corn Feast as an ancient tribal ceremony revived in the 1870s under the leadership of Volsin Chiki.
+They do document ceremonial and social practices that involved performance. A celebratory dance was held during the 1730 confrontation involving Tunica, Natchez, Chickasaw, and Koroa people. The dance continued until after midnight, when the Tunica retired to their cabins. The sources also mention the Corn Feast as an ancient tribal ceremony revived in the 1870s under the leadership of Volsin Chiki.
 
 The Tunica-Biloxi Language & Culture Revitalization Program uses webinars to teach the Tunica language. In 2010, tribal members read from a new children’s book in Tunica at a pow wow. These activities connect language preservation with public cultural events.
 
@@ -49,7 +49,7 @@ The sources name no Tunica dramatic tradition, masked performance, theatrical fo
 
 ## Festivals & rituals
 
- They do identify several ritual and ceremonial practices. During the period around the mouth of the Yazoo River, the Tunica, Taensa, and Natchez were described as having complex religions, temples, cult images, and priest classes. Regional tribes maintained eternal flames in their villages and visited the Tunica to replenish a flame when it went out.
+They do identify several ritual and ceremonial practices. During the period around the mouth of the Yazoo River, the Tunica, Taensa, and Natchez were described as having complex religions, temples, cult images, and priest classes. Regional tribes maintained eternal flames in their villages and visited the Tunica to replenish a flame when it went out.
 
 The Corn Feast was identified as an ancient tribal ceremony revived in the 1870s by the Tunica chief Volsin Chiki. The sources also describe ritual punishment after the 1730 attack by Natchez, Chickasaw, and Koroa forces: the Tunica killed 33 Natchez warriors, took three prisoners, and later burned the prisoners. They do document the placement of pottery, European trade goods, and other objects as grave goods at the Trudeau site from 1731 to 1764.
 
@@ -63,7 +63,7 @@ At Pointe Coupée, the Tunica relied more on hunting than farming and worked for
 
 ## Oral tradition & literature
 
- They do document an extensive effort to preserve and describe the Tunica language. William Ely Johnson worked with Swiss ethnologist Albert Gatschet in 1886 to document the language. Linguist John R. Swanton continued the work in the early 1900s, and Mary Haas worked with Sesostrie Youchigant in the 1930s. Haas’s description was published as *A Grammar of the Tunica Language* in 1941, followed by *Tunica Texts* in 1950 and *Tunica Dictionary* in 1953.
+They do document an extensive effort to preserve and describe the Tunica language. William Ely Johnson worked with Swiss ethnologist Albert Gatschet in 1886 to document the language. Linguist John R. Swanton continued the work in the early 1900s, and Mary Haas worked with Sesostrie Youchigant in the 1930s. Haas’s description was published as *A Grammar of the Tunica Language* in 1941, followed by *Tunica Texts* in 1950 and *Tunica Dictionary* in 1953.
 
 In 2010, the Tunica-Biloxi tribe formed the Tunica Language Project with the Linguistics Program at Tulane University. Tribal members read from a new children’s book in Tunica at a pow wow, and the Tunica-Biloxi Language & Culture Revitalization Program used webinars to teach people who did not live near the reservation.
 

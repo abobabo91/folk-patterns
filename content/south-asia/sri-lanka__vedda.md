@@ -13,7 +13,7 @@ The Vedda, also called Wanniyalaeto, are an indigenous minority group in Sri Lan
 
 ### Textile & pattern traditions
 
- They mention bark, cloth and garments.
+They mention bark, cloth and garments.
 
 ### Clothing & dress
 
@@ -21,11 +21,11 @@ The sources describe earlier Vedda clothing as limited. Men wore a loincloth sus
 
 ### Architecture
 
-The Veddas formerly lived in caves and rock shelters. Today, the sources state that they live in huts made from wattle, daub and thatch. No named house type, roof form beyond thatching, decorative programme or urban architectural tradition is documented in the supplied sources.
+The Veddas formerly lived in caves and rock shelters. Today, the sources state that they live in huts made from wattle, daub and thatch.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention bows and arrows, harpoons, a betel pouch, coconuts, bundles of wood and the wooden trunks of the *gadumba* tree. Bows and arrows were used for hunting, while harpoons and toxic plants were used for fishing. Personal possessions, including the bow and arrow and betel pouch, could be buried with the dead.
+They mention bows and arrows, harpoons, a betel pouch, coconuts, bundles of wood and the wooden trunks of the *gadumba* tree. Bows and arrows were used for hunting, while harpoons and toxic plants were used for fishing. Personal possessions, including the bow and arrow and betel pouch, could be buried with the dead.
 
 ## Music & performance
 
@@ -35,7 +35,7 @@ Religious festivals are associated with mixed language and spirit possession. Du
 
 ## Dance & theatre
 
- They mention spirit possession during religious festivals.
+They mention spirit possession during religious festivals.
 
 ## Festivals & rituals
 
@@ -55,7 +55,7 @@ The early part of the year, January–February, is described as the season of ya
 
 ## Oral tradition & literature
 
- They mention the *Mahawamsa* in connection with the *Yaka-bendi-ela* canal and record a Vedda song about bees, flowers and honey. The sources also describe historical accounts by Ryklof Van Goens, Robert Knox, Fernão de Queiroz, Robert Percival and John Davies.
+They mention the *Mahawamsa* in connection with the *Yaka-bendi-ela* canal and record a Vedda song about bees, flowers and honey. The sources also describe historical accounts by Ryklof Van Goens, Robert Knox, Fernão de Queiroz, Robert Percival and John Davies.
 
 The Vedda language has been studied in detail. Hugh Neville founded *The Taprobanian*, a quarterly journal devoted to the study of Ceylonese subjects. Manniku W. Sugathapala De Silva conducted a comprehensive study in 1959 and published it as a book. The sources state that the language is on the verge of extinction as younger generations increasingly use Sinhala or Tamil.
 

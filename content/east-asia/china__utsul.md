@@ -17,7 +17,7 @@ The sources mention Utsul Muslim houses and mosques in Sanya. Hundreds were dest
 
 ## Music & performance
 
- No UNESCO Intangible Cultural Heritage inscription is supplied for this group.
+No UNESCO Intangible Cultural Heritage inscription is supplied for this group.
 
 ## Festivals & rituals
 
@@ -25,7 +25,7 @@ The sources identify Islam as central to Utsul classification and identity. The 
 
 ## Foodways
 
- Their Islamic faith is mentioned.
+Their Islamic faith is mentioned.
 
 ## Oral tradition & literature
 

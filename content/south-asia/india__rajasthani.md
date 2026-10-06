@@ -33,7 +33,7 @@ The Rajasthani people, or Rajasthanis, are Indo-Aryan peoples native to Rajastha
 
 ### Clothing & dress
 
-Traditional men’s clothing includes earrings, moustaches, dhotis, kurta, angarkha, and paggar or safa. The *safa* is a headgear resembling a turban, and its wearing style and colour vary according to caste and age. A traditional chudidar payjama frequently replaces the dhoti in different regions. Mewar is associated with the tradition of the paggar, while Marwar is associated with the safa. The sources state that women dress according to caste culture. *Poshak* is traditionally worn by Rajput, Rajpurohit, and Charan women. Dress styles vary across Rajasthan, and the sources distinguish regional ways of wearing the dhoti in Marwar, Shekhawati, and Hadoti. No specific everyday footwear, belt, or ceremonial footwear is described in the sources.
+Traditional men’s clothing includes earrings, moustaches, dhotis, kurta, angarkha, and paggar or safa. The *safa* is a headgear resembling a turban, and its wearing style and colour vary according to caste and age. A traditional chudidar payjama frequently replaces the dhoti in different regions. Mewar is associated with the tradition of the paggar, while Marwar is associated with the safa. The sources state that women dress according to caste culture. *Poshak* is traditionally worn by Rajput, Rajpurohit, and Charan women. Dress styles vary across Rajasthan, and the sources distinguish regional ways of wearing the dhoti in Marwar, Shekhawati, and Hadoti.
 
 ### Architecture
 

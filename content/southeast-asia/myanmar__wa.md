@@ -17,11 +17,11 @@ Traditional Wa villages are mentioned in connection with shrines called *Nyiex M
 
 ### Ceramics, metalwork & everyday objects
 
- They mention only a large hollow wooden drum used in dance and the Y-shaped ritual post called *Khaox Si Gang*.
+They mention only a large hollow wooden drum used in dance and the Y-shaped ritual post called *Khaox Si Gang*.
 
 ### Jewelry & body adornment
 
- They state that chewing betel with areca nut was formerly an important custom, but give no further description of its implements or social meaning.
+They state that chewing betel with areca nut was formerly an important custom, but give no further description of its implements or social meaning.
 
 ## Music & performance
 

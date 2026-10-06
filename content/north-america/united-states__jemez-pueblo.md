@@ -17,11 +17,11 @@ Jemez Pueblo is described as a rural pueblo and census-designated place located 
 
 ## Music & performance
 
- They do describe running as an old Jemez pastime and ceremonial activity. Before the advent of television at Jemez, tales of running feats were a major form of entertainment on winter nights. Races retained a ceremonial purpose connected with assisting the movement of the sun and moon or hastening the growth of crops, while also becoming a popular secular sport.
+They do describe running as an old Jemez pastime and ceremonial activity. Before the advent of television at Jemez, tales of running feats were a major form of entertainment on winter nights. Races retained a ceremonial purpose connected with assisting the movement of the sun and moon or hastening the growth of crops, while also becoming a popular secular sport.
 
 ## Dance & theatre
 
- They describe ceremonial and secular running, but do not characterize it as dance or theatre.
+They describe ceremonial and secular running, but do not characterize it as dance or theatre.
 
 ## Festivals & rituals
 

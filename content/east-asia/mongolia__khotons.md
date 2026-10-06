@@ -11,23 +11,19 @@ The Khoton or Qotung people are a Mongolian-speaking ethnic group in (Outer) Mon
 
 ## Music & performance
 
- The Wikipedia article includes a reference to a 2024 Mongolian-language item whose title contains *Bii biелgee*, and an external link titled “OUTPUT hoton biilgee,” but the supplied material does not explain these items or provide enough information to describe a Khoton music tradition. The article also lists a 2025 study titled “Religious Texts of the Khotons of Mongolia: ‘Garvaa Gorvoo’,” but the supplied material does not describe its performance context, musical form, or contents.
+The Wikipedia article includes a reference to a 2024 Mongolian-language item whose title contains *Bii biелgee*, and an external link titled “OUTPUT hoton biilgee,” but the supplied material does not explain these items or provide enough information to describe a Khoton music tradition. The article also lists a 2025 study titled “Religious Texts of the Khotons of Mongolia: ‘Garvaa Gorvoo’,” but the supplied material does not describe its performance context, musical form, or contents.
 
 ## Dance & theatre
 
- The supplied Wikipedia material contains references to *Bii biелgee* and “hoton biilgee,”.
+The supplied Wikipedia material contains references to *Bii biелgee* and “hoton biilgee,”.
 
 ## Festivals & rituals
 
- They state that Khotons follow a form of Islam containing Buddhist and traditional elements such as Tengrism.
+They state that Khotons follow a form of Islam containing Buddhist and traditional elements such as Tengrism.
 
 ## Foodways
 
- They state that Khotons follow a form of Islam with Buddhist and traditional elements.
-
-## Oral tradition & literature
-
- The Wikipedia article lists “Religious Texts of the Khotons of Mongolia: ‘Garvaa Gorvoo’” as further reading, but the supplied material gives no account of the text’s form, language, authorship, circulation, or contents.
+They state that Khotons follow a form of Islam with Buddhist and traditional elements.
 
 ## Language & religion
 

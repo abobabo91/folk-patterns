@@ -13,7 +13,7 @@ The Hidatsa are a Missouri River Siouan people enrolled in the federally recogni
 
 ### Clothing & dress
 
- They state only that Hidatsa and Mandan societies, including their appearance and customs, were documented by George Catlin and Karl Bodmer during visits in the 1830s, and that Rudolph F. Kurz left an account and sketches of village tribes in the early 1850s.
+They state only that Hidatsa and Mandan societies, including their appearance and customs, were documented by George Catlin and Karl Bodmer during visits in the 1830s, and that Rudolph F. Kurz left an account and sketches of village tribes in the early 1850s.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ The Hidatsa lived in earthlodge villages along the Knife River and the Missouri 
 
 ### Ceramics, metalwork & everyday objects
 
- They describe the Hidatsa villages as participating in trading networks supported by agriculture and craft.
+They describe the Hidatsa villages as participating in trading networks supported by agriculture and craft.
 
 ## Music & performance
 
@@ -31,11 +31,11 @@ Ceremony is documented through the Hidatsa Naxpike, identified as the Sun Dance 
 
 ## Dance & theatre
 
-The sources name the Naxpike, or Sun Dance of the Hidatsa, and record its performance by Good Bear in 1879. No other Hidatsa dance, theatre, mask tradition, or dramatic form is documented in the supplied sources.
+The sources name the Naxpike, or Sun Dance of the Hidatsa, and record its performance by Good Bear in 1879.
 
 ## Festivals & rituals
 
- Good Bear performed it in 1879, and he was the final Hidatsa to do so.
+Good Bear performed it in 1879, and he was the final Hidatsa to do so.
 
 The sources describe Hidatsa creation traditions associated with the three ancestral village groups. The Awaxawi or Amahami tradition tells of emergence from the Earth at Devil’s Lake, identified as *Miri xopash*, *Mirixubáash*, or *Miniwakan*, “Holy Water there.” The Awatixa tradition says that its first people came from the sky, led by Charred Body, and lived near Painted Woods “where they were created.” The Hidatsa proper or Hiraacá tradition identifies them as “People of the Willows” and describes their movement from what is now western Minnesota to Devil’s Lake and then toward the Mandan settlements.
 

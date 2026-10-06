@@ -11,19 +11,19 @@ The Kaʼapor are an Indigenous people of Brazil who live on a protected reserve 
 
 ## Music & performance
 
- They state that, because there is a high degree of congenital deafness among the Kaʼapor, most of the hearing community knows sign language.
+They state that, because there is a high degree of congenital deafness among the Kaʼapor, most of the hearing community knows sign language.
 
 ## Festivals & rituals
 
- They do record that in September 2014 the Kaʼapor attacked a group of illegal loggers, tied them up, humiliated them, destroyed logs extracted from the forest, and burned the logger’s lorry before eventually setting them free.
+They do record that in September 2014 the Kaʼapor attacked a group of illegal loggers, tied them up, humiliated them, destroyed logs extracted from the forest, and burned the logger’s lorry before eventually setting them free.
 
 ## Foodways
 
- William Balée’s work is described as an exhaustive study of Kaʼapor ethnobotany lifeways and the historical ecology of the area they currently inhabit.
+William Balée’s work is described as an exhaustive study of Kaʼapor ethnobotany lifeways and the historical ecology of the area they currently inhabit.
 
 ## Oral tradition & literature
 
- The supplied sources mention a book by anthropologist Dr. William Balée concerning Kaʼapor ethnobotany lifeways and the historical ecology of the area they currently inhabit.
+The supplied sources mention a book by anthropologist Dr. William Balée concerning Kaʼapor ethnobotany lifeways and the historical ecology of the area they currently inhabit.
 
 ## Language & religion
 

@@ -17,7 +17,7 @@ The sources identify the North Caucasus, Chechnya and the fort of Grozny, founde
 
 ## Music & performance
 
- They do, however, describe *illesh* as a collection of epic poems and stories through which Chechens traditionally remember history. The sources also record that Mongol invasions are frequently connected with Chechen folktales and military reports concerning Alan-Dzurdzuk wars against the Mongols. These traditions belong to oral narrative rather than to a documented instrumental or concert repertory.
+They do, however, describe *illesh* as a collection of epic poems and stories through which Chechens traditionally remember history. The sources also record that Mongol invasions are frequently connected with Chechen folktales and military reports concerning Alan-Dzurdzuk wars against the Mongols. These traditions belong to oral narrative rather than to a documented instrumental or concert repertory.
 
 The sources mention a traditional Chechen greeting, *marsha oylla*, translated as “enter in freedom,”. No museum catalogue records or UNESCO Intangible Cultural Heritage inscriptions were supplied for Chechen music.
 
@@ -29,7 +29,7 @@ Chechen customary culture is also associated with the code of honor *quonahalla*
 
 ## Foodways
 
- They state only that farming was connected with traditional rites and that livestock was historically regarded as the main wealth of the Chechens in one account of the Mongol period.
+They state only that farming was connected with traditional rites and that livestock was historically regarded as the main wealth of the Chechens in one account of the Mongol period.
 
 ## Oral tradition & literature
 

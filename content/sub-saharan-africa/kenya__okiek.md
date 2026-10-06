@@ -29,19 +29,19 @@ The sources mention Okiek beadwork and its relationship to gender, ethnicity, an
 
 ## Music & performance
 
- They do record that Radio “Sogoot FM,” founded in 2019, broadcasts in Ogiek.
+They do record that Radio “Sogoot FM,” founded in 2019, broadcasts in Ogiek.
 
 ## Dance & theatre
 
- A bibliography entry identifies Okiek women’s initiation as a subject involving performance, meaning, movement, and experience, but the supplied material does not describe the performances themselves.
+A bibliography entry identifies Okiek women’s initiation as a subject involving performance, meaning, movement, and experience, but the supplied material does not describe the performances themselves.
 
 ## Festivals & rituals
 
- They mention women’s initiation, marriage arrangement, initiation, and political meetings as subjects of ethnographic research.
+They mention women’s initiation, marriage arrangement, initiation, and political meetings as subjects of ethnographic research.
 
 ## Foodways
 
- They do identify honey harvesting as a historically important activity and describe the Okiek as hunter-gatherers and honey-harvesters.
+They do identify honey harvesting as a historically important activity and describe the Okiek as hunter-gatherers and honey-harvesters.
 
 ## Oral tradition & literature
 

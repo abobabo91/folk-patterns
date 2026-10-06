@@ -21,15 +21,11 @@ Ingush settlements included villages grouped along local gorges, and the sources
 
 ### Ceramics, metalwork & everyday objects
 
- They mention archaeological items in Ingushetia bearing Georgian text, the Lugovoe settlement, monuments of the early Bronze Age, and the use of American-supplied Studebaker trucks during the 1944 deportation.
-
-## Music & performance
-
- They record that the first newspaper in the Ingush language, *Serdalo*, was published on May 1, 1923, but provide no information about music.
+They mention archaeological items in Ingushetia bearing Georgian text, the Lugovoe settlement, monuments of the early Bronze Age, and the use of American-supplied Studebaker trucks during the 1944 deportation.
 
 ## Festivals & rituals
 
- They state that the Ingush are predominantly Sunni Muslims and connect the spread of Arabic writing among the Ingush with the spread of Islam.
+They state that the Ingush are predominantly Sunni Muslims and connect the spread of Arabic writing among the Ingush with the spread of Islam.
 
 The sources document several historical and communal events. On March 4–6, 1770, 24 Ingush elders swore an oath of allegiance to the Russian Empire near Angusht, at a clearing called “Barta-Bos” (“Slope of Agreement”). In 1973, Ingush demands for the return of the Prigorodny district reached an apogee at a rally in Grozny. The sources also describe the deportation of the Ingush and Chechens on 23 February 1944 in Operation Lentil, their return, and the formal rehabilitation of the Ingush on April 26, 1991.
 

@@ -13,11 +13,11 @@ The Pare, also called Wapare in Swahili, are a Bantu ethnic group whose ancestra
 
 ### Clothing & dress
 
- They state only that spiritual figurines used in rain-making, healing, initiation, and other cultural practices were wrapped in cloth and/or leather.
+They state only that spiritual figurines used in rain-making, healing, initiation, and other cultural practices were wrapped in cloth and/or leather.
 
 ### Architecture
 
- They do document specialized irrigation systems in North Pare, including hundreds of irrigation intakes and furrows constructed during the period of Shana rule. These systems were negatively affected when responsibility for irrigation management shifted from patrilineages to village-level committees after independence.
+They do document specialized irrigation systems in North Pare, including hundreds of irrigation intakes and furrows constructed during the period of Shana rule. These systems were negatively affected when responsibility for irrigation management shifted from patrilineages to village-level committees after independence.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -27,11 +27,11 @@ Archaeological evidence includes iron-smithing activities and objects collected 
 
 ### Jewelry & body adornment
 
- They do mention spiritual figurines artistically sculptured from clay or wood and wrapped in cloth and/or leather.
+They do mention spiritual figurines artistically sculptured from clay or wood and wrapped in cloth and/or leather.
 
 ## Music & performance
 
- They do document ritual specialists and ceremonial performances connected with rain-making, healing, and initiation. In these practices, spiritual figurines made from clay or wood were used and wrapped in cloth and/or leather.
+They do document ritual specialists and ceremonial performances connected with rain-making, healing, and initiation. In these practices, spiritual figurines made from clay or wood were used and wrapped in cloth and/or leather.
 
 Rain-making was associated with rulers and political authority. The Pare were known as rainmakers, and one notable exponent was Mfumwa Muhammad Kibacha Singo, a local ruler of Same who died in January 1981. In South Pare, rulers connected with rain-making and *kuhoja* held ceremonial influence. *Kuhoja* is described as the paranormal ability to shield people, domestic animals, and crops from illnesses and other disasters.
 
@@ -39,11 +39,11 @@ The sources also describe political and ritual institutions rather than music it
 
 ## Dance & theatre
 
- They describe initiation, healing, rain-making, and other ritual practices.
+They describe initiation, healing, rain-making, and other ritual practices.
 
 ## Festivals & rituals
 
- They do document several ritual and political institutions. The Pare practiced initiation systems, and initiation was an important means of social organization in both North and South Pare.
+They do document several ritual and political institutions. The Pare practiced initiation systems, and initiation was an important means of social organization in both North and South Pare.
 
 Under the Suya dynasty, earlier clan initiation ceremonies became a complex state institution. The Ugweno initiation system was centralized and closed to outsiders, while South Pare initiation rites were administered by individual clans and were accessible to people who fulfilled the ritual requirements. South Pare communities also maintained diplomatic consultation through messengers carrying *kimalisa*, described as the royal whisk.
 
@@ -51,7 +51,7 @@ In South Pare, ritual authority was connected with rain-making and *kuhoja*. The
 
 ## Foodways
 
- They do state that Pare markets supported trade with neighboring populations and that the Pare received livestock in exchange for their articles in transactions with the Shambaa, Chaga, and Maasai.
+They do state that Pare markets supported trade with neighboring populations and that the Pare received livestock in exchange for their articles in transactions with the Shambaa, Chaga, and Maasai.
 
 The sources describe *mbiru* as tribute and other payments due to a rain-maker ruler. They also mention domestic animals and crops in connection with *kuhoja*. No museum catalogue record supplied for this atlas documents Pare foodways.
 

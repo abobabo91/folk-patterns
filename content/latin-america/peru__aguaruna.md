@@ -21,7 +21,7 @@ The Aguaruna, also known by their endonym *Awajún*, are an Indigenous people of
 
 ### Clothing & dress
 
- They state that men make headdresses from exquisite feathers, as well as cotton ribbons whose ends carry feathers and human hair. These adornments are kept in bamboo cases.
+They state that men make headdresses from exquisite feathers, as well as cotton ribbons whose ends carry feathers and human hair. These adornments are kept in bamboo cases.
 
 ### Architecture
 
@@ -37,11 +37,11 @@ Women make necklaces from seeds, insects’ small wings and beads. Men make feat
 
 ## Music & performance
 
- They mention the blowpipe, spear and other material objects.
+They mention the blowpipe, spear and other material objects.
 
 ## Festivals & rituals
 
- They do describe religious and life-related practices involving spirits, hallucinogenic plants and warfare. Young men traditionally took hallucinogenic plants, including ayahuasca, to obtain visions. These visions were believed to be the souls of dead warriors; if the young man showed no fear, he would receive a spirit power known as *ajútap*, which was believed to make a man invulnerable in battle. The Aguaruna traditionally believed in many spirits and mythological figures, including Zeus, or the Sun; Núgkui, or Mother Earth, associated with agricultural success and clay for ceramics; Tsúgki, water spirits living in rivers; and Bikut, or father shaman. In the distant past, they practiced shrinking human heads to make *tsantsa*. A traditional mutual-aid meeting called *ipáamamu* was held on Aguaruna territory during negotiations over medicinal knowledge; one such meeting was attended by over eighty representatives of sixty Aguaruna communities.
+They do describe religious and life-related practices involving spirits, hallucinogenic plants and warfare. Young men traditionally took hallucinogenic plants, including ayahuasca, to obtain visions. These visions were believed to be the souls of dead warriors; if the young man showed no fear, he would receive a spirit power known as *ajútap*, which was believed to make a man invulnerable in battle. The Aguaruna traditionally believed in many spirits and mythological figures, including Zeus, or the Sun; Núgkui, or Mother Earth, associated with agricultural success and clay for ceramics; Tsúgki, water spirits living in rivers; and Bikut, or father shaman. In the distant past, they practiced shrinking human heads to make *tsantsa*. A traditional mutual-aid meeting called *ipáamamu* was held on Aguaruna territory during negotiations over medicinal knowledge; one such meeting was attended by over eighty representatives of sixty Aguaruna communities.
 
 ## Foodways
 
@@ -51,7 +51,7 @@ Gathered foods and materials include wild fruit from palm trees, fruit from shru
 
 ## Oral tradition & literature
 
- They state that the Aguaruna communicate in their own language and that a dictionary, *Vocabulario aguaruna del Amazonas* (*Aguaruna Vocabulary of Amazonas*), was compiled by Mildred L. Larson and published by SIL International in 1966. They also mention several Aguaruna–Spanish and Spanish–Aguaruna dictionaries.
+They state that the Aguaruna communicate in their own language and that a dictionary, *Vocabulario aguaruna del Amazonas* (*Aguaruna Vocabulary of Amazonas*), was compiled by Mildred L. Larson and published by SIL International in 1966. They also mention several Aguaruna–Spanish and Spanish–Aguaruna dictionaries.
 
 ## Language & religion
 

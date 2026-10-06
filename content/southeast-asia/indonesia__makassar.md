@@ -17,27 +17,27 @@ The principal garment documented in the sources is *baju bodo*, a traditional up
 
 ### Architecture
 
- They state only that Makassar people commonly help their neighbors with building houses.
+They state only that Makassar people commonly help their neighbors with building houses.
 
 ### Ceramics, metalwork & everyday objects
 
- The *Phinisi* is identified as a Southern Sulawesi boat-building tradition for sailing boats, jointly associated with Bugis-Makassar people.
+The *Phinisi* is identified as a Southern Sulawesi boat-building tradition for sailing boats, jointly associated with Bugis-Makassar people.
 
 ### Jewelry & body adornment
 
- They mention Makassar oil, a herbal oil extracted from Makassar ebony and mixed with other herbal ingredients, which was used as a haircare treatment among Western Europeans.
+They mention Makassar oil, a herbal oil extracted from Makassar ebony and mixed with other herbal ingredients, which was used as a haircare treatment among Western Europeans.
 
 ## Music & performance
 
- They do document *baju bodo* being used at dance competitions and guest-welcome receptions, but no music associated with those events is described. The sources also identify the Makassar language’s traditional writing systems—Lontara, Makasar, and Serang—but these are writing traditions rather than musical traditions. The absence of documented instruments and genres in the supplied sources prevents a fuller account of Makassar music.
+They do document *baju bodo* being used at dance competitions and guest-welcome receptions, but no music associated with those events is described. The sources also identify the Makassar language’s traditional writing systems—Lontara, Makasar, and Serang—but these are writing traditions rather than musical traditions. The absence of documented instruments and genres in the supplied sources prevents a fuller account of Makassar music.
 
 ## Dance & theatre
 
- They mention dance competitions as one contemporary setting in which *baju bodo* is used.
+They mention dance competitions as one contemporary setting in which *baju bodo* is used.
 
 ## Festivals & rituals
 
- They state that *baju bodo* is worn at wedding ceremonies and that *Pallu butung* and *Pisang ijo* are often consumed as iftar during Ramadhan. The sources describe arranged marriage as still widely practiced in rural areas and state that polygamy is accepted, although separate houses must be provided for each wife and it is practiced only among wealthy people. Makassar society is described as traditionally Muslim, with strict separation of gendered labor: men are associated with farming and fishing, while women are usually responsible for household duties.
+They state that *baju bodo* is worn at wedding ceremonies and that *Pallu butung* and *Pisang ijo* are often consumed as iftar during Ramadhan. The sources describe arranged marriage as still widely practiced in rural areas and state that polygamy is accepted, although separate houses must be provided for each wife and it is practiced only among wealthy people. Makassar society is described as traditionally Muslim, with strict separation of gendered labor: men are associated with farming and fishing, while women are usually responsible for household duties.
 
 ## Foodways
 
@@ -49,7 +49,7 @@ Documented sweets include *barongko*, made from banana, egg, coconut milk, sugar
 
 ## Oral tradition & literature
 
- They do mention the *Gowa Chronicles* and the *Makassar Annals*, including chronicles of the Gowa and Tallo' kingdoms. Parts of the Makassar Annals were written in the Serang script.
+They do mention the *Gowa Chronicles* and the *Makassar Annals*, including chronicles of the Gowa and Tallo' kingdoms. Parts of the Makassar Annals were written in the Serang script.
 
 ## Language & religion
 

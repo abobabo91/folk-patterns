@@ -11,7 +11,7 @@ The Khoshut are one of the four major tribes of the Oirat people. Their name is 
 
 ## Music & performance
 
- The Wikipedia article mentions folklore as a source for studying the ethnogenesis of Oirat groups.
+The Wikipedia article mentions folklore as a source for studying the ethnogenesis of Oirat groups.
 
 ## Festivals & rituals
 
@@ -19,7 +19,7 @@ The sources describe the Khoshuts’ conversion to Buddhism and state that Güsh
 
 ## Oral tradition & literature
 
- They mention folklore as a source for studying the ethnogenesis of Oirat groups, without naming particular oral works.
+They mention folklore as a source for studying the ethnogenesis of Oirat groups, without naming particular oral works.
 
 ## Language & religion
 

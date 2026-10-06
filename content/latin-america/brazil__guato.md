@@ -11,7 +11,7 @@ The Guató are an Indigenous people living on the upper Paraguay River, along th
 
 ## Oral tradition & literature
 
- The sources mention the 2004 movie *500 Almas* (“500 Souls”), a film about the Guatós.
+The sources mention the 2004 movie *500 Almas* (“500 Souls”), a film about the Guatós.
 
 ## Language & religion
 

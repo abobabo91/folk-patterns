@@ -25,7 +25,7 @@ The sources mention jewelry among the archaeological finds at Birka and encruste
 
 ## Music & performance
 
- They mention runic inscriptions on artefacts and inscriptions commemorating Viking expeditions.
+They mention runic inscriptions on artefacts and inscriptions commemorating Viking expeditions.
 
 ## Festivals & rituals
 

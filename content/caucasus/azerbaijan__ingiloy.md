@@ -35,11 +35,11 @@ In the village Alibeyli, the Qakh State Georgian Drama Theatre is located.
 
 ## Festivals & rituals
 
- They state that most Ingiloys are Sunni Muslims and that some converted to Christianity through missionary activity in 1860, while most of those converts later reverted to Islam in 1863.
+They state that most Ingiloys are Sunni Muslims and that some converted to Christianity through missionary activity in 1860, while most of those converts later reverted to Islam in 1863.
 
 ## Foodways
 
- They mention the *khula*, a place where food products are stored, and state that Saingilo farmsteads could lack a maize granary, barn or *khula* because the *akari* retained its original grain-storage function.
+They mention the *khula*, a place where food products are stored, and state that Saingilo farmsteads could lack a maize granary, barn or *khula* because the *akari* retained its original grain-storage function.
 
 ## Oral tradition & literature
 

@@ -17,11 +17,11 @@ Bunt families traditionally controlled several villages and lived in manor house
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention copper plate inscriptions at Nadibettu Aramane and ritual objects, ornaments and other paraphernalia associated with the worship of Butas and daivas.
+They do mention copper plate inscriptions at Nadibettu Aramane and ritual objects, ornaments and other paraphernalia associated with the worship of Butas and daivas.
 
 ## Music & performance
 
- They associate the Bunts with the Buta Kola festival, traditionally patronised by the community as principal landowners of the region. Buta Kola included aspects akin to theatrical forms such as Yakshagana. The religious performance of Buta Kola involved the worship of Butas and daivas, tutelary deities connected with families, villages, manorial estates, districts and former small kingdoms. Jumadi, a royal deity, was worshiped mainly by rich land-owning Bunts, who were described as the chief patrons of his cult. In the myth and religious Buta Kola dance, Jumadi was accompanied by his warrior attendant Bante.
+They associate the Bunts with the Buta Kola festival, traditionally patronised by the community as principal landowners of the region. Buta Kola included aspects akin to theatrical forms such as Yakshagana. The religious performance of Buta Kola involved the worship of Butas and daivas, tutelary deities connected with families, villages, manorial estates, districts and former small kingdoms. Jumadi, a royal deity, was worshiped mainly by rich land-owning Bunts, who were described as the chief patrons of his cult. In the myth and religious Buta Kola dance, Jumadi was accompanied by his warrior attendant Bante.
 
 ## Dance & theatre
 
@@ -35,7 +35,7 @@ The sources name Jumadi as a royal deity and also identify Kodamanthaye, Kukkina
 
 ## Foodways
 
- One historical legend reported among the Bunts states that one of their Jain kings abandoned Jainism and began eating peacock meat to cure a disease; this is presented in the source as a legend rather than as a description of ordinary Bunt foodways.
+One historical legend reported among the Bunts states that one of their Jain kings abandoned Jainism and began eating peacock meat to cure a disease; this is presented in the source as a legend rather than as a description of ordinary Bunt foodways.
 
 ## Oral tradition & literature
 

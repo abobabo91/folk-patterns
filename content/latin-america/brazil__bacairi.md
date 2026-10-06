@@ -11,15 +11,15 @@ The Bacairi, also called Bakairi, are an Indigenous people of Brazil who call th
 
 ## Festivals & rituals
 
- The Wikipedia material records one customary practice: among the Bakairi, each man ate by himself; when one person ate in another’s presence, the custom was to eat with the head averted, while the other turned his back and did not speak until the meal was over.
+The Wikipedia material records one customary practice: among the Bakairi, each man ate by himself; when one person ate in another’s presence, the custom was to eat with the head averted, while the other turned his back and did not speak until the meal was over.
 
 ## Foodways
 
- They do record the customary eating practice described above, in which each man ate by himself and eating in another person’s presence involved turning the head away, turning one’s back, and remaining silent until the meal was finished.
+They do record the customary eating practice described above, in which each man ate by himself and eating in another person’s presence involved turning the head away, turning one’s back, and remaining silent until the meal was finished.
 
 ## Oral tradition & literature
 
- The Wikipedia article records that the Bakairi reported their earlier residence in the rainforest on the Teles Pires below its confluence with the Verde and that, because of internal quarrels and conflict with neighboring Kayabí, they moved south in three groups.
+The Wikipedia article records that the Bakairi reported their earlier residence in the rainforest on the Teles Pires below its confluence with the Verde and that, because of internal quarrels and conflict with neighboring Kayabí, they moved south in three groups.
 
 ## Language & religion
 

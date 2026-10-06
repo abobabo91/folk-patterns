@@ -11,11 +11,11 @@ Karelians are a Baltic Finnic ethnic group indigenous to the historical region o
 
 ## Music & performance
 
- They state that Karelian tales, together with some Finnish tales, were collected to form the *Kalevala*.
+They state that Karelian tales, together with some Finnish tales, were collected to form the *Kalevala*.
 
 ## Festivals & rituals
 
- They do document religious and historical changes affecting Karelian communities. Karelians traditionally included Eastern Orthodox Christians, while western Karelians became first Roman Catholic and later Lutheran. Folk beliefs were widely incorporated into Christianity among Orthodox Karelians. In 1314, Karelians rose against efforts to convert them to Christianity, and the rebellion spread through Karelian lands. In the 19th century, Karelianism shaped Finnish artistic and research interest in Orthodox Karelians, who were regarded as having preserved elements of an archaic Finnish culture.
+They do document religious and historical changes affecting Karelian communities. Karelians traditionally included Eastern Orthodox Christians, while western Karelians became first Roman Catholic and later Lutheran. Folk beliefs were widely incorporated into Christianity among Orthodox Karelians. In 1314, Karelians rose against efforts to convert them to Christianity, and the rebellion spread through Karelian lands. In the 19th century, Karelianism shaped Finnish artistic and research interest in Orthodox Karelians, who were regarded as having preserved elements of an archaic Finnish culture.
 
 ## Oral tradition & literature
 

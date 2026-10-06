@@ -11,7 +11,7 @@ The Enets (Russian: энцы, *entsy*; singular: энец, *enets*) are a Samoye
 
 ## Oral tradition & literature
 
- The Enets language article does state that a written form of the language was created during the 1980s, that it was used to produce a number of books, and that a local newspaper with an insert in local languages appeared during the 1990s.
+The Enets language article does state that a written form of the language was created during the 1980s, that it was used to produce a number of books, and that a local newspaper with an insert in local languages appeared during the 1990s.
 
 ## Language & religion
 

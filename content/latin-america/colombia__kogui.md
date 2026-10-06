@@ -27,15 +27,15 @@ The Kogi live in villages called *Kuibolos*. These villages contain circular hut
 
 ### Ceramics, metalwork & everyday objects
 
- They describe Tairona gold objects, which were hung from trees and around people’s necks. The sources name the *poporo*, a small hollow gourd filled with *lima*, or “lime,” made from heated and crushed shells. Men use a stick to extract the powder, suck it while chewing coca leaves, and rub the mixture onto the gourd, forming a hardened layer whose size reflects maturity and age.
+They describe Tairona gold objects, which were hung from trees and around people’s necks. The sources name the *poporo*, a small hollow gourd filled with *lima*, or “lime,” made from heated and crushed shells. Men use a stick to extract the powder, suck it while chewing coca leaves, and rub the mixture onto the gourd, forming a hardened layer whose size reflects maturity and age.
 
 ### Jewelry & body adornment
 
- They describe the *poporo* as a personal object received by Kogi men when they come of age. Men continuously chew coca leaves and use the lime powder from the *poporo*. Traditional bags are carried across the shoulder, and bags belonging to mamos contain sacred traditional objects.
+They describe the *poporo* as a personal object received by Kogi men when they come of age. Men continuously chew coca leaves and use the lime powder from the *poporo*. Traditional bags are carried across the shoulder, and bags belonging to mamos contain sacred traditional objects.
 
 ## Music & performance
 
- They mention dances as one component of ceremonies connected with the life cycle.
+They mention dances as one component of ceremonies connected with the life cycle.
 
 Ritual activity is associated with mamos, who are described as tribal priests responsible for guidance, healing, and leadership. Through deep concentration, symbolic offerings, and divination, mamos seek to support harmony and creativity in the world. Ceremonies bless seeds in Aluna before planting, bless marriages to ensure fertility, and address spirits of the natural world before activities such as harvest and hut building. The sources also mention ritual offerings, funerary procedures, and ceremonial speech.
 
@@ -43,11 +43,11 @@ The sources describe two documentary films involving Kogi mamos and filmmaker Al
 
 ## Dance & theatre
 
- They state that dances can occur among the ritual affairs celebrating an individual’s life cycle, but give no further description.
+They state that dances can occur among the ritual affairs celebrating an individual’s life cycle, but give no further description.
 
 ## Festivals & rituals
 
- They describe a ritual system organized around the life cycle, agriculture, marriage, relations with spirits, and death.
+They describe a ritual system organized around the life cycle, agriculture, marriage, relations with spirits, and death.
 
 Mamos participate in ceremonies from birth to death. Mamo training begins in childhood, at least before the age of 5, in isolated high-altitude places containing a few houses or caves. During training, two or three novices, called *kuívi*, or “abstinent ones,” practice abstinence in sexuality, food consumption, sleep, and nightlife. Mamos also bless marriages to ensure fertility and bless seeds in Aluna before they are planted.
 
@@ -55,7 +55,7 @@ Burial customs receive particular emphasis. Death is understood not as a tragic 
 
 ## Foodways
 
- They do describe agricultural production and ritual relationships with food.
+They do describe agricultural production and ritual relationships with food.
 
 The Kogi practice slash-and-burn agriculture, with each family tending farms at different altitudes of the Sierra. These farms produce a variety of crops for family needs. The Kogi also raise cattle on the highlands. Women do most of the planting of vegetables, while farming is a responsibility of the whole family. Sugar and coffee are common crops of trade, and much sugar is made into *panela*, described as a type of Colombian hardened brown sugar.
 

@@ -11,15 +11,15 @@ The Nguni are an ethnolinguistic group of Bantu ethnic groups native to Southern
 
 ## Music & performance
 
- The linguistic sources do note that Nguni languages developed click consonants, and that Ngoni is an ethnonym and language name for a geographically distant descendant of South African Nguni.
+The linguistic sources do note that Nguni languages developed click consonants, and that Ngoni is an ethnonym and language name for a geographically distant descendant of South African Nguni.
 
 ## Festivals & rituals
 
- They do describe social and political organization: the clan, based on male ancestry, was the highest social unit, and each clan was led by a chieftain. The kingdom of Eswatini formed in the early nineteenth century when different Nguni groups allied with the Dlamini clan against external attack. The sources also state that many tribes and clans in KwaZulu-Natal were forcibly united under Shaka Zulu, whose political organization used age regiments to integrate conquered tribes.
+They do describe social and political organization: the clan, based on male ancestry, was the highest social unit, and each clan was led by a chieftain. The kingdom of Eswatini formed in the early nineteenth century when different Nguni groups allied with the Dlamini clan against external attack. The sources also state that many tribes and clans in KwaZulu-Natal were forcibly united under Shaka Zulu, whose political organization used age regiments to integrate conquered tribes.
 
 ## Foodways
 
- They state that partially nomadic ancestors of the modern Nguni peoples brought sheep, cattle, goats and horticultural crops into South Africa, where many of these had not previously been used at that time.
+They state that partially nomadic ancestors of the modern Nguni peoples brought sheep, cattle, goats and horticultural crops into South Africa, where many of these had not previously been used at that time.
 
 ## Oral tradition & literature
 

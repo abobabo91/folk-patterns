@@ -13,15 +13,15 @@ The Aweer, also known as the Boni, Waboni, Wa-Boni, and Sanye, are a Cushitic et
 
 ### Architecture
 
- They state that the Aweer traditionally lived in dwellings along the Kenyan coast and that many were later settled in villages along the Hindi-Kiunga Road between the Boni National Reserve and the Dodori National Reserve.
+They state that the Aweer traditionally lived in dwellings along the Kenyan coast and that many were later settled in villages along the Hindi-Kiunga Road between the Boni National Reserve and the Dodori National Reserve.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention building materials gathered from nearby forests.
+They mention building materials gathered from nearby forests.
 
 ## Festivals & rituals
 
- The sources state that the Aweer historically practised traditional faiths such as Waaqism, although most have today adopted Islam.
+The sources state that the Aweer historically practised traditional faiths such as Waaqism, although most have today adopted Islam.
 
 ## Foodways
 
@@ -29,7 +29,7 @@ Aweer traditional subsistence is described as hunting, gathering, and collecting
 
 ## Oral tradition & literature
 
- They do report oral traditions that Aweer communities once had cattle and became foragers after losing them, possibly together with their former social status. The linguistic literature presents competing accounts of Aweer origins and language history, including proposals connecting them with earlier hunter-gatherer populations, Eastern Sam pastoralists, Garre-speakers, and Dahaloan communities.
+They do report oral traditions that Aweer communities once had cattle and became foragers after losing them, possibly together with their former social status. The linguistic literature presents competing accounts of Aweer origins and language history, including proposals connecting them with earlier hunter-gatherer populations, Eastern Sam pastoralists, Garre-speakers, and Dahaloan communities.
 
 ## Language & religion
 

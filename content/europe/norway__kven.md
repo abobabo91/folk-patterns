@@ -21,7 +21,7 @@ The documented Kven clothing tradition is the Kven costume, or *Kväänipuku*. I
 
 ### Architecture
 
- They state that Kven settlers established themselves along the fjords of Finnmark and northern Troms and in the interior of Finnmark, favoring areas suited for agriculture.
+They state that Kven settlers established themselves along the fjords of Finnmark and northern Troms and in the interior of Finnmark, favoring areas suited for agriculture.
 
 ### Ceramics, metalwork & everyday objects
 

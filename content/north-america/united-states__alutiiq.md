@@ -31,7 +31,7 @@ Before contact with Russian fur traders, the Alutiiq lived in semi-subterranean 
 
 ### Ceramics, metalwork & everyday objects
 
- They state that woodcarvings were associated with Alutiiq religion and that trees and shrubs were harvested for medical and nutritional value. Trade brought materials such as antler, ivory, caribou pelts, and glassy stone to Kodiak.
+They state that woodcarvings were associated with Alutiiq religion and that trees and shrubs were harvested for medical and nutritional value. Trade brought materials such as antler, ivory, caribou pelts, and glassy stone to Kodiak.
 
 ### Jewelry & body adornment
 

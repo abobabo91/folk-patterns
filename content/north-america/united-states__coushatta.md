@@ -21,7 +21,7 @@ Historically, the Coushatta were farmers who grew maize, beans, and squash. They
 
 ## Oral tradition & literature
 
- They do document language-preservation efforts: in 2007, the Coushatta Tribe of Louisiana, McNeese State University, and the College of William and Mary began the Koasati (Coushatta) Language Project as part of broader language revitalization efforts.
+They do document language-preservation efforts: in 2007, the Coushatta Tribe of Louisiana, McNeese State University, and the College of William and Mary began the Koasati (Coushatta) Language Project as part of broader language revitalization efforts.
 
 ## Language & religion
 

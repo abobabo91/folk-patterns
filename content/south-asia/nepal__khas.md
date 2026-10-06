@@ -13,19 +13,19 @@ The Khas are an Indo-Aryan ethno-linguistic group native to the Himalayan region
 
 ### Clothing & dress
 
- They state only that Khas and Rajput were differentiated in Kumaon during Chand rule by the number of threads in the sacred thread: Khas were allowed to wear three threads, while Rajput used six.
+They state only that Khas and Rajput were differentiated in Kumaon during Chand rule by the number of threads in the sacred thread: Khas were allowed to wear three threads, while Rajput used six.
 
 ### Architecture
 
- They mention village-level theocratic republics called *Gram-Rajya* and *Mandals*, and refer to castles and capitals associated with Khas-linked dynasties, including Joshimath, Baijnath and the castle at the foot of Banahal Pass.
+They mention village-level theocratic republics called *Gram-Rajya* and *Mandals*, and refer to castles and capitals associated with Khas-linked dynasties, including Joshimath, Baijnath and the castle at the foot of Banahal Pass.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention blacksmiths among the occupational Khas groups, identifying *Kāmi* as blacksmiths, *Damāi* as tailors and *Sārki* as shoemakers and leather workers.
+They mention blacksmiths among the occupational Khas groups, identifying *Kāmi* as blacksmiths, *Damāi* as tailors and *Sārki* as shoemakers and leather workers.
 
 ### Jewelry & body adornment
 
- The only bodily marker described is the sacred thread distinction between Khas and Rajput in Kumaon during Chand rule.
+The only bodily marker described is the sacred thread distinction between Khas and Rajput in Kumaon during Chand rule.
 
 ## Music & performance
 
@@ -45,7 +45,7 @@ The majority of Khas are described as followers of Hinduism, while some follow B
 
 ## Foodways
 
- They state only that some Khas communities were identified as *Matwali*, meaning alcohol-drinker Khas, and that alcohol abstinence was treated as a high-caste taboo by Brahmin immigrants from the plains.
+They state only that some Khas communities were identified as *Matwali*, meaning alcohol-drinker Khas, and that alcohol abstinence was treated as a high-caste taboo by Brahmin immigrants from the plains.
 
 ## Oral tradition & literature
 

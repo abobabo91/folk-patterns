@@ -27,7 +27,7 @@ The Zhuang are a Tai-speaking ethnic group concentrated in the Guangxi Zhuang Au
 
 ### Clothing & dress
 
- They state that, after the Song period, Chinese-style dress influenced Zhuang clothing: people began fastening clothing on the right, women wore bodices, trousers were replaced by skirts, and hair was worn in the Chinese style. In an account of offerings to the sun in Shangguo Village, Zhuang women are described as bathing in the river, putting on traditional clothing and headdresses, and making offerings with yellow glutinous rice.
+They state that, after the Song period, Chinese-style dress influenced Zhuang clothing: people began fastening clothing on the right, women wore bodices, trousers were replaced by skirts, and hair was worn in the Chinese style. In an account of offerings to the sun in Shangguo Village, Zhuang women are described as bathing in the river, putting on traditional clothing and headdresses, and making offerings with yellow glutinous rice.
 
 ### Architecture
 
@@ -35,11 +35,11 @@ The Zhuang are a Tai-speaking ethnic group concentrated in the Guangxi Zhuang Au
 
 ### Ceramics, metalwork & everyday objects
 
- They mention bronze drums, including “The Origin of the Bronze Drum,” which tells of their origins and describes drums with a star in the middle. The sources also list wood prints, paper, traditional waterwheels, bamboo basket weaving, rattan, straw mats, and spinning tops among Zhuang handicrafts. Traditional waterwheels are named without a technical description.
+They mention bronze drums, including “The Origin of the Bronze Drum,” which tells of their origins and describes drums with a star in the middle. The sources also list wood prints, paper, traditional waterwheels, bamboo basket weaving, rattan, straw mats, and spinning tops among Zhuang handicrafts. Traditional waterwheels are named without a technical description.
 
 ### Jewelry & body adornment
 
-Silver jewelry is listed among Zhuang handicrafts. The sources mention headdresses in connection with women’s offerings to the sun and describe hair being worn in the Chinese style after Chinese dress influenced Zhuang communities. No specific jewelry names, tattoo practices, cosmetic traditions, or other forms of body adornment are documented in the sources.
+Silver jewelry is listed among Zhuang handicrafts. The sources mention headdresses in connection with women’s offerings to the sun and describe hair being worn in the Chinese style after Chinese dress influenced Zhuang communities.
 
 ## Music & performance
 

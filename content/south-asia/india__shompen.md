@@ -25,7 +25,7 @@ Shompen huts are built to house 4 people, and villages consist of 4 to 5 familie
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe bows and arrows, numerous types of spears, spear throwers, fire drills, hatchets, knives, mats, and tools and utensils hung on house walls and rafters. The Shompen do not use quivers but carry arrows by hand.
+They do describe bows and arrows, numerous types of spears, spear throwers, fire drills, hatchets, knives, mats, and tools and utensils hung on house walls and rafters. The Shompen do not use quivers but carry arrows by hand.
 
 ### Jewelry & body adornment
 
@@ -33,7 +33,7 @@ Men’s decoration is limited to bead necklaces and armbands. Women wear bamboo 
 
 ## Festivals & rituals
 
- They record that a polling station was set up in the Shompen area for the election of 2014 and that Shompen people participated in the democratic process for the first time.
+They record that a polling station was set up in the Shompen area for the election of 2014 and that Shompen people participated in the democratic process for the first time.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ The Shompen practice a hunter-gatherer subsistence economy. They hunt wild game 
 
 ## Oral tradition & literature
 
- They state that very little reliable information has been added since the nineteenth century, partly because access to the Nicobar Islands has been restricted for foreign researchers since Indian independence.
+They state that very little reliable information has been added since the nineteenth century, partly because access to the Nicobar Islands has been restricted for foreign researchers since Indian independence.
 
 ## Language & religion
 

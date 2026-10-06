@@ -31,7 +31,7 @@ In 2003, the polyphonic singing of the Aka was proclaimed by UNESCO as a Masterp
 
 ## Festivals & rituals
 
- They state that polyphonic singing accompanies communal celebrations and ceremonies associated with forest spirits. The sources also describe ritual practices as part of the knowledge transmitted through oral tradition.
+They state that polyphonic singing accompanies communal celebrations and ceremonies associated with forest spirits. The sources also describe ritual practices as part of the knowledge transmitted through oral tradition.
 
 Aka social life includes shared childcare, food preparation, hunting and many other daily activities. Camps usually consist of several related families who share food, childcare and daily activities, while decisions affecting the group are generally reached through discussion and consensus.
 

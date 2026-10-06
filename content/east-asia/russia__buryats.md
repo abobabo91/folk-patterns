@@ -13,7 +13,7 @@ The Buryats are a Mongol ethnic group indigenous to south-eastern Siberia and no
 
 ### Clothing & dress
 
- They do state that a traditional bride’s dowry in the *kalym* arrangement included a yurt and essential household goods.
+They do state that a traditional bride’s dowry in the *kalym* arrangement included a yurt and essential household goods.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ The Buryats share the use of gers for shelter with other Mongolic peoples. Easte
 
 ### Ceramics, metalwork & everyday objects
 
- They mention yurts, household goods, cattle, and the use of a sable-skin tax in historical population records.
+They mention yurts, household goods, cattle, and the use of a sable-skin tax in historical population records.
 
 ## Music & performance
 
- They describe shamanism as involving rituals for healing and communication with spirits, but provide no musical terminology or performance repertoire.
+They describe shamanism as involving rituals for healing and communication with spirits, but provide no musical terminology or performance repertoire.
 
 ## Festivals & rituals
 

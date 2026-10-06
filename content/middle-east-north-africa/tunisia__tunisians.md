@@ -29,7 +29,7 @@ Many fortresses that protected the coast from Byzantine invasions later develope
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify the hamsa as a palm-shaped amulet commonly used in jewelry and wall hangings.
+They do identify the hamsa as a palm-shaped amulet commonly used in jewelry and wall hangings.
 
 ### Jewelry & body adornment
 
@@ -55,7 +55,7 @@ Tunisian theatre has existed for over a century and has hosted or produced figur
 
 ## Festivals & rituals
 
- They do document religious festivals as occasions when wearing the chechia remains common. The Carthage Film Festival has taken place since 1966 and gives priority to films from African and Middle-eastern countries; it is described as the oldest film festival on the African continent.
+They do document religious festivals as occasions when wearing the chechia remains common. The Carthage Film Festival has taken place since 1966 and gives priority to films from African and Middle-eastern countries; it is described as the oldest film festival on the African continent.
 
 The sources also describe annual celebrations connected with the El Ghriba synagogue on Djerba. The synagogue is considered a pilgrimage site, and its annual celebrations are linked to its historical significance and to the belief that it was constructed with stones from Solomon’s Temple. Djerba is described as having 39 synagogues, with a Jewish community dating back over 2,600 years.
 
@@ -67,7 +67,7 @@ The main dish served in Tunisia is *Couscous*, made from minuscule grains that a
 
 ## Oral tradition & literature
 
- They do identify Tunisian literary figures and describe Tunisian literature as characterized by a critical approach. Tunisian poetry typically favors nonconformity and innovation, with poets such as Aboul-Qacem Echebbi.
+They do identify Tunisian literary figures and describe Tunisian literature as characterized by a critical approach. Tunisian poetry typically favors nonconformity and innovation, with poets such as Aboul-Qacem Echebbi.
 
 Ali Douagi produced more than 150 radio stories, over 500 poems and folk songs, and nearly 15 plays. Other named literary figures include Khraief Bashir, Moncef Ghachem, Mohamed Salah Ben Mrad, Mahmoud Messadi, Abdelwahab Meddeb, Bakri Tahar, Mustapha Tlili, Hélé Béji and Mellah Fawzi. Themes of wandering, exile and heartbreak are described as central to the creative writing of Tunisian authors abroad.
 

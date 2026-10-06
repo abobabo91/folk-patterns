@@ -17,19 +17,19 @@ The Osage Nation is a federally recognized Native American tribe in Oklahoma and
 
 ### Clothing & dress
 
- They do record that Osage faces were traditionally painted during funerals to signal the deceased person’s tribe and clan. Clan names included Red Cedar (*Hon-tse-shu-tsy*), Travelers in the Mist (*Moh-sho-tsa-moie*), Deer Lungs (*Tah-lah-he*), and Elk (*O-pon*).
+They do record that Osage faces were traditionally painted during funerals to signal the deceased person’s tribe and clan. Clan names included Red Cedar (*Hon-tse-shu-tsy*), Travelers in the Mist (*Moh-sho-tsa-moie*), Deer Lungs (*Tah-lah-he*), and Elk (*O-pon*).
 
 ### Architecture
 
- They state that Osage villages expressed the division between sky people and earth people: the two groups lived on opposite sides, while the lodges of Osage spiritual leaders stood between them. The sources also mention forts, missions, churches, and schools established by French, Catholic, and Protestant actors, including Fort Orleans, Fort Carondelet, Union, Harmony, Neosho, Boudinot, and Hopefield.
+They state that Osage villages expressed the division between sky people and earth people: the two groups lived on opposite sides, while the lodges of Osage spiritual leaders stood between them. The sources also mention forts, missions, churches, and schools established by French, Catholic, and Protestant actors, including Fort Orleans, Fort Carondelet, Union, Harmony, Neosho, Boudinot, and Hopefield.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention ceremonial bundles and pipes, with tobacco used as an offering to seek Wakonda’s aid, but provide no catalogue-style description of their construction or decoration.
+They do mention ceremonial bundles and pipes, with tobacco used as an offering to seek Wakonda’s aid, but provide no catalogue-style description of their construction or decoration.
 
 ### Jewelry & body adornment
 
- Funeral face painting is described as a traditional practice used to signal a dead person’s tribe and clan.
+Funeral face painting is described as a traditional practice used to signal a dead person’s tribe and clan.
 
 ## Music & performance
 
@@ -39,11 +39,11 @@ Osage ceremonies were highly ritualized and used bundles and ceremonial pipes co
 
 ## Dance & theatre
 
- They state that Osage ceremonies could be elaborate and concerned adoption, marriage, war, agriculture, tribal existence, and long life.
+They state that Osage ceremonies could be elaborate and concerned adoption, marriage, war, agriculture, tribal existence, and long life.
 
 ## Festivals & rituals
 
- They do describe a ritual system organized around Wakonda, the life-force believed to exist within trees, plants, the sky, animals, and human beings. Osage cosmology divided life into sky and earth: life was created in the sky and descended to earth in material form, with the sky understood as masculine and the earth as feminine.
+They do describe a ritual system organized around Wakonda, the life-force believed to exist within trees, plants, the sky, animals, and human beings. Osage cosmology divided life into sky and earth: life was created in the sky and descended to earth in material form, with the sky understood as masculine and the earth as feminine.
 
 Clan organization reflected this cosmology. Children received ceremonial names introducing them to the community, and without such a name an Osage child could not participate in ceremonies. Marriage was regulated through the clans, whose members had to marry people from opposite clans or divisions. Clan representation also shaped the arrangement of villages.
 

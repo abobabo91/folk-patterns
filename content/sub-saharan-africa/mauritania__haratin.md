@@ -17,7 +17,7 @@ The scholar Jeanne Marie Gentilleau identifies the *Haratin house* in the Drā v
 
 ### Ceramics, metalwork & everyday objects
 
- They mention the *tidinet* lute, a kettledrum and a cyclical drum in connection with Mauritanian Haratin music.
+They mention the *tidinet* lute, a kettledrum and a cyclical drum in connection with Mauritanian Haratin music.
 
 ## Music & performance
 
@@ -33,7 +33,7 @@ The sources describe Haratin religious music. Madih consists of evening songs of
 
 ## Foodways
 
- They state only that many Haratin historically worked in agriculture as serfs, herdsmen and indentured workers, and that the Haratin house in the Drā valley protected harvests and sheltered animals. These references do not identify crops, prepared foods or culinary traditions.
+They state only that many Haratin historically worked in agriculture as serfs, herdsmen and indentured workers, and that the Haratin house in the Drā valley protected harvests and sheltered animals. These references do not identify crops, prepared foods or culinary traditions.
 
 ## Oral tradition & literature
 

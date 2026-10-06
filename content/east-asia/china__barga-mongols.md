@@ -11,11 +11,11 @@ The Barga, also called the Barghut, are a subgroup of the Buryats. They originat
 
 ## Festivals & rituals
 
- They state that the Barga converted to Tibetan Buddhism around the 17th and 18th centuries because of Mongol influence, while shamanism continues to have significant influence in Barga beliefs and culture.
+They state that the Barga converted to Tibetan Buddhism around the 17th and 18th centuries because of Mongol influence, while shamanism continues to have significant influence in Barga beliefs and culture.
 
 ## Foodways
 
- The only economic food-related information recorded is that Barga households raised domestic animals, including horses, cattle, camels, sheep, and goats.
+The only economic food-related information recorded is that Barga households raised domestic animals, including horses, cattle, camels, sheep, and goats.
 
 ## Oral tradition & literature
 

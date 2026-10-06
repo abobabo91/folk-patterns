@@ -13,19 +13,19 @@ The Limba are an ethnic group in Sierra Leone, representing 12.4% of the country
 
 ### Architecture
 
- They state that the Limba are mainly stone builders and that they live in the savannah-woodland region of the Northern Province of Sierra Leone.
+They state that the Limba are mainly stone builders and that they live in the savannah-woodland region of the Northern Province of Sierra Leone.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention agricultural knowledge, rice farming, stone building, charms, shrines and an ancient wooden figure discovered in a cave at The Kakoya Village. The figure is now in the British Museum and may have represented an ancestor or deity.
+They mention agricultural knowledge, rice farming, stone building, charms, shrines and an ancient wooden figure discovered in a cave at The Kakoya Village. The figure is now in the British Museum and may have represented an ancestor or deity.
 
 ## Music & performance
 
- They state that the Limba’s primary sport of interest is soccer and that Limba music recordings are listed among external materials associated with the group.
+They state that the Limba’s primary sport of interest is soccer and that Limba music recordings are listed among external materials associated with the group.
 
 ## Festivals & rituals
 
- They do document practices associated with the Bondo secret society, which aims to establish attitudes related to adulthood in girls and includes discussions of fertility, morality and proper sexual comportment. The society also maintains an interest in the well-being of its members throughout their lives.
+They do document practices associated with the Bondo secret society, which aims to establish attitudes related to adulthood in girls and includes discussions of fertility, morality and proper sexual comportment. The society also maintains an interest in the well-being of its members throughout their lives.
 
 A minority of Limbo practice a traditional religion, mainly in more remote villages. Traditional religious practices include worship of a god called *Kanu Masala* together with lesser deities, and the creation of shrines, charms and rituals. The Limba also have a spiritual home called The Kakoya Village in Wara-Wara Bafodia Chiefdom. They believe that all Limbas return to the mountain through the town beyond a “door” through the rock.
 

@@ -19,10 +19,6 @@ The Seri, or Comcaac, are an Indigenous people of Sonora, Mexico, whose principa
 
 **Necklace work** — Necklace work is listed with fishing, ironwood carving, and basket making among the principal income-generating activities.
 
-### Clothing & dress
-
- They do mention that traditional houses and festivals are connected with the material life of the Seri, but they provide no account of dress associated with those occasions.
-
 ### Architecture
 
 Seri villages mainly contain houses made of concrete blocks with concrete or asbestos roofs. These houses generally have a kitchen, dining room, bathroom, and one or two bedrooms. The federal and state governments promoted and supported this type of housing between 1974 and 1984. Some houses may also be made of cardboard.
@@ -31,11 +27,11 @@ In fishing areas, traditional shelters remain possible to find. These are built 
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe everyday and economic objects connected with fishing and domestic life, including the *panga*, from which fish may be requested under the customary right called *canoaa an hant cooit*. Traditional shelters use ocotillo frames, grasses, and, historically, loggerhead shells. Ironwood carvings, baskets, and necklaces are also identified as important products.
+They do describe everyday and economic objects connected with fishing and domestic life, including the *panga*, from which fish may be requested under the customary right called *canoaa an hant cooit*. Traditional shelters use ocotillo frames, grasses, and, historically, loggerhead shells. Ironwood carvings, baskets, and necklaces are also identified as important products.
 
 ### Jewelry & body adornment
 
-Necklace work is identified as one of the main sources of income for the Seri. They provide no information about tattoos, henna, hair practices, or other forms of body adornment.
+Necklace work is identified as one of the main sources of income for the Seri.
 
 ## Music & performance
 
@@ -47,7 +43,7 @@ The sources name several song genres: *icoosyat*, “songs of the giants”; *iq
 
 ## Dance & theatre
 
- They state that dancers may provide rhythms and percussion for songs and identify *icoos icooit* as songs for dance, which can be heard at cultural events. No further description of dance movements, costumes, ceremonial distinctions, or theatrical performance is provided.
+They state that dancers may provide rhythms and percussion for songs and identify *icoos icooit* as songs for dance, which can be heard at cultural events. No further description of dance movements, costumes, ceremonial distinctions, or theatrical performance is provided.
 
 ## Festivals & rituals
 
@@ -69,7 +65,7 @@ The sources state that the Seri never practiced agriculture because their territ
 
 The Seri maintain an extensive oral tradition that preserves their history and culture. Songs and stories revolve around the sea, animals, and the ancient feats of heroes and warriors. Songs preserve knowledge of ecological conditions, ethnobotany, history, beliefs, and cultural practices. Only a very small part of this oral tradition has appeared in written form.
 
- They state that a growing body of Seri literature is being published, including earlier stories that were recorded, transcribed, and published and are now being re-edited. New material is also being prepared by several writers. Essays by three Seri writers appear in an anthology of Native American literature published by the University of Nebraska Press, and recent literature has appeared as Android applications, often with accompanying audio.
+They state that a growing body of Seri literature is being published, including earlier stories that were recorded, transcribed, and published and are now being re-edited. New material is also being prepared by several writers. Essays by three Seri writers appear in an anthology of Native American literature published by the University of Nebraska Press, and recent literature has appeared as Android applications, often with accompanying audio.
 
 The Constitution of Mexico has been translated in its entirety into Seri by the Instituto Nacional de Lenguas Indígenas.
 

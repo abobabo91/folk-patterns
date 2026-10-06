@@ -13,15 +13,15 @@ The Pequot are a Native American people of Connecticut, associated especially wi
 
 ### Architecture
 
- They state that Fidelia Fielding was the last person to live in the traditional log dwelling, but give no further description of its construction, roof, decoration, or social use.
+They state that Fidelia Fielding was the last person to live in the traditional log dwelling, but give no further description of its construction, roof, decoration, or social use.
 
 ### Ceramics, metalwork & everyday objects
 
- The Pequot language article states that Gladys Tantaquidgeon collected thousands of tribal documents and artifacts, and that the Mashantucket Pequot Museum and Research Center collection includes a 1992 menu attempting to translate words such as hamburger and hot dog into Mohegan-Pequot, but it does not catalogue the objects’ forms or manufacture.
+The Pequot language article states that Gladys Tantaquidgeon collected thousands of tribal documents and artifacts, and that the Mashantucket Pequot Museum and Research Center collection includes a 1992 menu attempting to translate words such as hamburger and hot dog into Mohegan-Pequot, but it does not catalogue the objects’ forms or manufacture.
 
 ## Music & performance
 
- They do identify Samson Occom as an 18th-century Mohegan minister and scholar who was fluent in Mohegan and is believed to have used the language in his preaching. The sources also state that prayers from the Baháʼí Faith have been translated into the Mohegan-Pequot language.
+They do identify Samson Occom as an 18th-century Mohegan minister and scholar who was fluent in Mohegan and is believed to have used the language in his preaching. The sources also state that prayers from the Baháʼí Faith have been translated into the Mohegan-Pequot language.
 
 The sources describe historical and contemporary language work connected with cultural preservation. In 1717, Experience Mayhew translated the Lord’s Prayer into Mohegan-Pequot. Ezra Stiles collected Pequot linguistic data in Groton in 1762. The Mohegan Language Project later created lessons, a dictionary, and online learning materials, with the primary goal of enabling the next generation of Mohegan people to become fluent. These activities are documented as language and religious or educational practices rather than as a music tradition.
 
@@ -31,7 +31,7 @@ The sources do describe several historical and cultural events that shaped Pequo
 
 ## Foodways
 
- The only food-related material mentioned is the 1992 menu in the Mashantucket Pequot Museum and Research Center collection, which attempted to translate words such as hamburger and hot dog into Mohegan-Pequot. No Pequot food tradition is explained.
+The only food-related material mentioned is the 1992 menu in the Mashantucket Pequot Museum and Research Center collection, which attempted to translate words such as hamburger and hot dog into Mohegan-Pequot. No Pequot food tradition is explained.
 
 ## Oral tradition & literature
 

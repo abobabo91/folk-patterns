@@ -13,7 +13,7 @@ Ingrian Finns are the Finnish population native to Ingria, a historical region c
 
 ### Architecture
 
- They do record Lutheran parsonages as important cultural centers and the establishment of Finnish-language schools, but provide no architectural account of these buildings.
+They do record Lutheran parsonages as important cultural centers and the establishment of Finnish-language schools, but provide no architectural account of these buildings.
 
 ## Music & performance
 
@@ -25,7 +25,7 @@ The sources mention the first song festival in Ingria, held in Puutosti (Skuorit
 
 ## Oral tradition & literature
 
- They do record a substantial Finnish-language institutional culture. The first Finnish-language newspaper in Ingria, Pietarin Sanomat, began publication in 1870; the first public library opened in Tyrö in 1850; and the largest library, in Skuoritsa, held over 2,000 books in the latter half of the 19th century. Finnish-language schools and the Kolppana seminary operated freely until the 1890s, when the school system began to be Russified.
+They do record a substantial Finnish-language institutional culture. The first Finnish-language newspaper in Ingria, Pietarin Sanomat, began publication in 1870; the first public library opened in Tyrö in 1850; and the largest library, in Skuoritsa, held over 2,000 books in the latter half of the 19th century. Finnish-language schools and the Kolppana seminary operated freely until the 1890s, when the school system began to be Russified.
 
 ## Language & religion
 

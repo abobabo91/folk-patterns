@@ -13,27 +13,27 @@ The Inuvialuit, also called Western Canadian Inuit, are Inuit who live in the we
 
 ### Architecture
 
- They identify former and current settlements, including Kitigaaryuit, the villages of Kitigaaryuk and Tchenerark, the adjacent village of Kuugaatchiaq, Inuvik, Aklavik, Tuktoyaktuk, Sachs Harbour, Paulatuk, and Ulukhaktok.
+They identify former and current settlements, including Kitigaaryuit, the villages of Kitigaaryuk and Tchenerark, the adjacent village of Kuugaatchiaq, Inuvik, Aklavik, Tuktoyaktuk, Sachs Harbour, Paulatuk, and Ulukhaktok.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention wooden handles and sharp nails as equipment in the game *napataak*, and rocks used in *iglukisaaq*.
+They do mention wooden handles and sharp nails as equipment in the game *napataak*, and rocks used in *iglukisaaq*.
 
 ## Music & performance
 
- They do record traditional Inuit games, including *akimuq*, a high kick game; *ayahaaq*, a string game; *iglukisaaq*, juggling rocks; *mak*, played by trying to make a person laugh; and *napataak*, darts played with a wooden handle and sharp nail.
+They do record traditional Inuit games, including *akimuq*, a high kick game; *ayahaaq*, a string game; *iglukisaaq*, juggling rocks; *mak*, played by trying to make a person laugh; and *napataak*, darts played with a wooden handle and sharp nail.
 
 ## Festivals & rituals
 
- They do describe a seasonal cycle of subsistence activities. In spring, Inuvialuit fish and hunt geese and grizzly. In summer, they whale, fish, gather berries, roots, and medicinal plants. In autumn, they fish, seal, hunt geese, and gather plants. In winter, they fish, seal, and hunt polar bear.
+They do describe a seasonal cycle of subsistence activities. In spring, Inuvialuit fish and hunt geese and grizzly. In summer, they whale, fish, gather berries, roots, and medicinal plants. In autumn, they fish, seal, hunt geese, and gather plants. In winter, they fish, seal, and hunt polar bear.
 
 ## Foodways
 
- They document hunting, fishing, trapping, whaling, sealing, geese hunting, polar bear hunting, caribou hunting, and the gathering of berries, roots, medicinal plants, and other plants as subsistence activities. Inuvialuit hunt caribou year-round from the Cape Bathurst and Bluenose herds and have also shared the Porcupine herd with the Gwichʼin.
+They document hunting, fishing, trapping, whaling, sealing, geese hunting, polar bear hunting, caribou hunting, and the gathering of berries, roots, medicinal plants, and other plants as subsistence activities. Inuvialuit hunt caribou year-round from the Cape Bathurst and Bluenose herds and have also shared the Porcupine herd with the Gwichʼin.
 
 ## Oral tradition & literature
 
- They do record regional naming practices: people living in the west are called *Ualinirmiut* or *Ualiniq* by people of the east, while people occupying the east are known as *Kivaninmiut* or *Kivaliniq* by people of the west.
+They do record regional naming practices: people living in the west are called *Ualinirmiut* or *Ualiniq* by people of the east, while people occupying the east are known as *Kivaninmiut* or *Kivaliniq* by people of the west.
 
 ## Language & religion
 

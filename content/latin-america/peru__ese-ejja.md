@@ -15,7 +15,7 @@ The supplied sources state that Ese Ejja people are traditionally hunter-gathere
 
 ## Oral tradition & literature
 
- They state that a dictionary has been produced for the Ese Ejja language and identify documentation projects connected with the language.
+They state that a dictionary has been produced for the Ese Ejja language and identify documentation projects connected with the language.
 
 ## Language & religion
 

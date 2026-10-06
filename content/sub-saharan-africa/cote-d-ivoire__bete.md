@@ -13,11 +13,11 @@ The Bété are an ethnic group within Côte d'Ivoire, representing approximately
 
 ### Ceramics, metalwork & everyday objects
 
- They state that Bété statues are less common and less complex than masks in traditional culture. These statues are used in ceremonies commemorating female ancestors and are described as simple, sober, and abstracted.
+They state that Bété statues are less common and less complex than masks in traditional culture. These statues are used in ceremonies commemorating female ancestors and are described as simple, sober, and abstracted.
 
 ## Music & performance
 
- They do describe masked dancing as a central part of traditional Bété socioreligious practice. Creativity is valued both in mask design and in the dances in which masks are used. Masked events have traditionally served several social and ritual purposes, including cleansing and protecting the village, performing funeral rites, greeting visitors and dignitaries, expressing social criticism, overseeing judicial proceedings, and leading men to war. In modern times, masks are primarily used for entertainment, at funerals, or to mark the end of a mourning period.
+They do describe masked dancing as a central part of traditional Bété socioreligious practice. Creativity is valued both in mask design and in the dances in which masks are used. Masked events have traditionally served several social and ritual purposes, including cleansing and protecting the village, performing funeral rites, greeting visitors and dignitaries, expressing social criticism, overseeing judicial proceedings, and leading men to war. In modern times, masks are primarily used for entertainment, at funerals, or to mark the end of a mourning period.
 
 ## Dance & theatre
 
@@ -25,7 +25,7 @@ Bété are especially associated with complex masks and mask dances. The culture
 
 ## Festivals & rituals
 
- They describe mask dances at festivals and other community events, and record several ritual and civic functions for masked performances: cleansing and protecting the village, funeral rites, greeting visitors and dignitaries, social criticism, judicial proceedings, and leading men to war. In contemporary contexts, masks are used primarily for entertainment, funerals, and marking the end of a mourning period.
+They describe mask dances at festivals and other community events, and record several ritual and civic functions for masked performances: cleansing and protecting the village, funeral rites, greeting visitors and dignitaries, social criticism, judicial proceedings, and leading men to war. In contemporary contexts, masks are used primarily for entertainment, funerals, and marking the end of a mourning period.
 
 Bété society is patrilineal. Traditionally, inheritance is adelphic: a man’s heirs are first his brothers and cousins of his generation, and only after all of them have died can his children inherit his possessions. Polygyny has traditionally been practiced among the Bété and other ethnic groups of Côte d’Ivoire. In a 1985 survey in Gagnoa, 45% of Bété women were polygamously married, despite a 1964 government prohibition.
 

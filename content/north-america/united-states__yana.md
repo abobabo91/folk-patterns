@@ -11,11 +11,11 @@ The Yana are a group of Native Americans indigenous to Northern California in th
 
 ## Music & performance
 
- The Yana language is fairly well documented, mostly through the work of Edward Sapir, whose materials included texts and stories rather than a documented musical tradition.
+The Yana language is fairly well documented, mostly through the work of Edward Sapir, whose materials included texts and stories rather than a documented musical tradition.
 
 ## Festivals & rituals
 
- They state that the Yana lived on wild game, salmon, fruit, acorns, and roots, and that acorns collected in the autumn from the black oak tree were their main food source.
+They state that the Yana lived on wild game, salmon, fruit, acorns, and roots, and that acorns collected in the autumn from the black oak tree were their main food source.
 
 ## Foodways
 

@@ -21,11 +21,11 @@ The sources describe linguistic research and ethnographic documentation. They me
 
 ## Festivals & rituals
 
- They state that missionary activity attempted to convert Tiriyó communities to Christianity, but provide no detailed account of religious ceremonies or ritual practice.
+They state that missionary activity attempted to convert Tiriyó communities to Christianity, but provide no detailed account of religious ceremonies or ritual practice.
 
 ## Foodways
 
- The language source gives examples of Tiriyó words for “bread-like food,” “fish bait,” “fruit,” “leaf, contents,” and “tree, plant,”.
+The language source gives examples of Tiriyó words for “bread-like food,” “fish bait,” “fruit,” “leaf, contents,” and “tree, plant,”.
 
 ## Oral tradition & literature
 

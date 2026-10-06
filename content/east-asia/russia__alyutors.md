@@ -13,7 +13,7 @@ The Alyutors are an ethnic group of the Russian Far East, formerly classified as
 
 ### Clothing & dress
 
- They state that the Alyutors traditionally practiced reindeer breeding, fishing, trapping, and hunting.
+They state that the Alyutors traditionally practiced reindeer breeding, fishing, trapping, and hunting.
 
 ### Architecture
 
@@ -21,25 +21,25 @@ The Alyutors traditionally positioned their settlements along rivers on elevated
 
 ### Ceramics, metalwork & everyday objects
 
- They mention reindeer breeding, fishing, trapping, and hunting as traditional occupations.
+They mention reindeer breeding, fishing, trapping, and hunting as traditional occupations.
 
 ## Music & performance
 
- They state that many Alyutors are practitioners of shamanism and Orthodox Christianity.
+They state that many Alyutors are practitioners of shamanism and Orthodox Christianity.
 
 ## Festivals & rituals
 
- They state that most Alyutors are practitioners of shamanism and Orthodox Christianity.
+They state that most Alyutors are practitioners of shamanism and Orthodox Christianity.
 
 The historical source describes several events affecting the Alyutors. In 1697, Russian Cossacks imposed taxes on them, and the Alyutors showed armed resistance in the following years. The 1751 uprising was suppressed, after which their number significantly decreased. They were also repeatedly attacked by the Chukchis, who often confiscated their reindeer herds. In the late 18th century, their isolated and secluded circumstances helped them avoid smallpox epidemics almost unharmed and preserve their traditional way of life.
 
 ## Foodways
 
- Fishing, hunting, trapping, and reindeer breeding are identified as traditional occupations.
+Fishing, hunting, trapping, and reindeer breeding are identified as traditional occupations.
 
 ## Oral tradition & literature
 
- They state that the Alyutors are mentioned in the earliest chronicles concerning the Russian colonisation of Kamchatka.
+They state that the Alyutors are mentioned in the earliest chronicles concerning the Russian colonisation of Kamchatka.
 
 The sources do describe a major interruption in cultural transmission. From the 1950s through the 1970s, Alyutor children were sent to boarding schools. This increased the loss of the Alyutor language and decreased their training in Alyutor traditions. During the Soviet period, many Alyutors became teachers, doctors, geologists, and zoo technicians.
 

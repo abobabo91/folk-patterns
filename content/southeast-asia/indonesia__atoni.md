@@ -25,19 +25,19 @@ A more elaborate house is called *Ume Atoni*. The Atoni entertain guests in a co
 
 ### Ceramics, metalwork & everyday objects
 
- They mention fields, cattle cages, stone fences, shrubs, houses, and communal houses but provide no catalogue descriptions of objects.
+They mention fields, cattle cages, stone fences, shrubs, houses, and communal houses but provide no catalogue descriptions of objects.
 
 ## Music & performance
 
- The literature list includes works on oral poetry and the political system of the Atoni, but the supplied material does not explain their musical or performative dimensions.
+The literature list includes works on oral poetry and the political system of the Atoni, but the supplied material does not explain their musical or performative dimensions.
 
 ## Festivals & rituals
 
- The supplied material mentions a gendered spatial system and the social use of houses.
+The supplied material mentions a gendered spatial system and the social use of houses.
 
 ## Foodways
 
- They mention fields and cattle cages in village layouts but provide no further information about food production or consumption.
+They mention fields and cattle cages in village layouts but provide no further information about food production or consumption.
 
 ## Oral tradition & literature
 

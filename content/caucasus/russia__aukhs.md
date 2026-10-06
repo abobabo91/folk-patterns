@@ -11,7 +11,7 @@ Aukhs (Chechen: Ӏовхой) are an ethnographic group of Chechens living in th
 
 ## Festivals & rituals
 
- The source records that the State Council of the Republic of Dagestan issued Decree No. 191 on October 18, 2000, attributing the Chechens-Aukhs to the indigenous peoples of the Republic of Dagestan.
+The source records that the State Council of the Republic of Dagestan issued Decree No. 191 on October 18, 2000, attributing the Chechens-Aukhs to the indigenous peoples of the Republic of Dagestan.
 
 ## Language & religion
 

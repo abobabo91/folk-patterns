@@ -13,7 +13,7 @@ The Molala are a Native American people of Oregon whose traditional territory ex
 
 ### Clothing & dress
 
- They record that animal hides were a source of wealth and that Molala produced beaded moccasins and woven baskets. Henry Yelkes was described wearing a hat of deerskin and flicker feathers that had belonged to his grandfather.
+They record that animal hides were a source of wealth and that Molala produced beaded moccasins and woven baskets. Henry Yelkes was described wearing a hat of deerskin and flicker feathers that had belonged to his grandfather.
 
 ### Architecture
 
@@ -21,23 +21,23 @@ Molala society centered on winter villages, usually occupied by a single extende
 
 ### Ceramics, metalwork & everyday objects
 
- They record composite bows made from Pacific Yew and sinew, bows and arrows used in hunting, basket traps and harpoons used to capture fish, and a private collection in Mt Angel containing 535 flint arrowheads, an 8-inch tomahawk head, and beadwork. Animal hides and dentalium crafts were among the primary sources of wealth. Canoes made by Upper Chinookans were particularly sought after by the Northern Molala.
+They record composite bows made from Pacific Yew and sinew, bows and arrows used in hunting, basket traps and harpoons used to capture fish, and a private collection in Mt Angel containing 535 flint arrowheads, an 8-inch tomahawk head, and beadwork. Animal hides and dentalium crafts were among the primary sources of wealth. Canoes made by Upper Chinookans were particularly sought after by the Northern Molala.
 
 ### Jewelry & body adornment
 
- They mention dentalium crafts as a source of wealth, beadwork in a private collection of Molala artifacts, and an exchange in which the Southern Molala traded buckskins for Klamath beads and wocus seeds.
+They mention dentalium crafts as a source of wealth, beadwork in a private collection of Molala artifacts, and an exchange in which the Southern Molala traded buckskins for Klamath beads and wocus seeds.
 
 ## Music & performance
 
- They do record oral narratives collected by ethnographers, including stories told by the Molala about the world being covered in water and about the creation of the Molala people. Stephen Savage told the latter story to Albert S. Gatschet in 1877. The sources also identify Molala Kate Chantal as an ethnographic informant and Victoria Wishikin Howard as a storyteller. No musical tradition is described in the available material.
+They do record oral narratives collected by ethnographers, including stories told by the Molala about the world being covered in water and about the creation of the Molala people. Stephen Savage told the latter story to Albert S. Gatschet in 1877. The sources also identify Molala Kate Chantal as an ethnographic informant and Victoria Wishikin Howard as a storyteller. No musical tradition is described in the available material.
 
 ## Dance & theatre
 
- The available material refers to myths, ethnographic texts, and storytelling.
+The available material refers to myths, ethnographic texts, and storytelling.
 
 ## Festivals & rituals
 
- They state that seasonal resources shaped social organization: when resources became available, families separated into smaller groups to exploit and gather them. The sources describe hunting, fishing, and gathering as recurring seasonal activities. Camas bulbs were gathered in western prairies; hazelnuts and tarweed seeds were collected in summer and autumn; Mountain Huckleberries and other berries were collected in the late summer. These seasonal movements are documented, but no named festival or ritual calendar is given.
+They state that seasonal resources shaped social organization: when resources became available, families separated into smaller groups to exploit and gather them. The sources describe hunting, fishing, and gathering as recurring seasonal activities. Camas bulbs were gathered in western prairies; hazelnuts and tarweed seeds were collected in summer and autumn; Mountain Huckleberries and other berries were collected in the late summer. These seasonal movements are documented, but no named festival or ritual calendar is given.
 
 The historical record includes treaty negotiations and reservation relocations rather than ceremonial observances. On 6 May, the Northern Molala agreed to payments of goods, cash, and a reservation centered on the Molalla River; on the following day, the Upper Santiam Molala agreed to similar terms. During the winter of 1855–1856, the Northern Molala and Upper Santiam Molala were forced to relocate to the Grand Ronde Reservation.
 

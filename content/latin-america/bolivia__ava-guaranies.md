@@ -17,19 +17,19 @@ The Chiriguanos initially lived in very large longhouses in villages. They later
 
 ### Ceramics, metalwork & everyday objects
 
- They state that the Chiriguanos acquired horses and guns from the Spanish, but that their preferred method of fighting was on foot with bow and arrow.
+They state that the Chiriguanos acquired horses and guns from the Spanish, but that their preferred method of fighting was on foot with bow and arrow.
 
 ## Music & performance
 
- They record that the Chiriguanos resisted missionary attempts to convert them to Christianity until the 19th century, and that a Jesuit mission in 1767 had 268 Chiriguano converts.
+They record that the Chiriguanos resisted missionary attempts to convert them to Christianity until the 19th century, and that a Jesuit mission in 1767 had 268 Chiriguano converts.
 
 ## Dance & theatre
 
- The sources mention the Ghost Dance in the United States and the Boxer Rebellion in China only as comparisons for the movement led by Apiaguaiki Tumpa, not as Ava Guaraní traditions.
+The sources mention the Ghost Dance in the United States and the Boxer Rebellion in China only as comparisons for the movement led by Apiaguaiki Tumpa, not as Ava Guaraní traditions.
 
 ## Festivals & rituals
 
- They do describe religious and political events connected with resistance to Christianity and missionary authority. The 1892 rebellion began in January at the mission of Santa Rosa de Cuevo and was led by Chapiaguasu, who styled himself Apiaguaiki Tumpa and said that he had been sent to earth to save the Chiriguanos from Christianity and the Franciscan missionaries. The sources also state that the Chiriguanos were impervious to missionary conversion attempts until the 19th century, while Franciscan missions achieved greater success beginning in 1845.
+They do describe religious and political events connected with resistance to Christianity and missionary authority. The 1892 rebellion began in January at the mission of Santa Rosa de Cuevo and was led by Chapiaguasu, who styled himself Apiaguaiki Tumpa and said that he had been sent to earth to save the Chiriguanos from Christianity and the Franciscan missionaries. The sources also state that the Chiriguanos were impervious to missionary conversion attempts until the 19th century, while Franciscan missions achieved greater success beginning in 1845.
 
 ## Foodways
 
@@ -37,7 +37,7 @@ The Chiriguanos were agricultural people who cultivated maize and other crops. I
 
 ## Oral tradition & literature
 
- They do record the name *Candire*, described as a mythical “land without evil,” rich with gold and other wealth, which may have attracted some Ava Guaraní peoples toward the eastern Andes during the Spanish conquest in the 1530s. The sources also describe the 1892 movement led by Apiaguaiki Tumpa, who claimed to have been sent to earth to save the Chiriguanos from Christianity and the Franciscan missionaries. No contemporary literary preservation project is documented.
+They do record the name *Candire*, described as a mythical “land without evil,” rich with gold and other wealth, which may have attracted some Ava Guaraní peoples toward the eastern Andes during the Spanish conquest in the 1530s. The sources also describe the 1892 movement led by Apiaguaiki Tumpa, who claimed to have been sent to earth to save the Chiriguanos from Christianity and the Franciscan missionaries. No contemporary literary preservation project is documented.
 
 ## Language & religion
 

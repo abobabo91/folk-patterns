@@ -15,11 +15,11 @@ The sources identify Macedonian as a South Slavic language and mention Slavonic 
 
 ## Festivals & rituals
 
- They do document the religious and institutional history of Macedonian Orthodox Christians. In the Ottoman period, Eastern Orthodox Christians belonged to the Rum Millet under Graeco-Byzantine jurisdiction. In 1870, the Bulgarian Exarchate was created, and in 1874 the Christian populations of the bishoprics of Skopje and Ohrid participated in plebiscites concerning association with the Exarchate.
+They do document the religious and institutional history of Macedonian Orthodox Christians. In the Ottoman period, Eastern Orthodox Christians belonged to the Rum Millet under Graeco-Byzantine jurisdiction. In 1870, the Bulgarian Exarchate was created, and in 1874 the Christian populations of the bishoprics of Skopje and Ohrid participated in plebiscites concerning association with the Exarchate.
 
 ## Foodways
 
- They mention thriving economies based on mining in ancient Paeonia and the movement of various populations through Macedonia, but they provide no ethnographic account of foodways.
+They mention thriving economies based on mining in ancient Paeonia and the movement of various populations through Macedonia, but they provide no ethnographic account of foodways.
 
 ## Oral tradition & literature
 

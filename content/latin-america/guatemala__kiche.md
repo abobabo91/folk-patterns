@@ -13,23 +13,23 @@ The Kʼicheʼ are Indigenous peoples of the Americas and one of the Maya peoples
 
 ### Clothing & dress
 
- They state that Irma Alicia Velásquez Nimatuj filed a racial-discrimination complaint after being refused entry to a tavern in Guatemala City because she was wearing regional clothing.
+They state that Irma Alicia Velásquez Nimatuj filed a racial-discrimination complaint after being refused entry to a tavern in Guatemala City because she was wearing regional clothing.
 
 ### Architecture
 
- They state that Qʼumarkaj was the political, ceremonial, and social center of the Kʼicheʼ people, covering an estimated area of 3.25 km2 across the Resguardo plateau. Its ruins can still be seen a short distance from Santa Cruz del Quiché.
+They state that Qʼumarkaj was the political, ceremonial, and social center of the Kʼicheʼ people, covering an estimated area of 3.25 km2 across the Resguardo plateau. Its ruins can still be seen a short distance from Santa Cruz del Quiché.
 
 ### Ceramics, metalwork & everyday objects
 
- The sources mention that Tecun Uman was described in the Título Xecul as wearing rare gems and abundant jewelry.
+The sources mention that Tecun Uman was described in the Título Xecul as wearing rare gems and abundant jewelry.
 
 ### Jewelry & body adornment
 
- The Título Xecul is said to describe Tecun Uman as wearing quetzal feathers, rare gems, and abundant jewelry. No further details about materials, forms, ritual functions, tattoos, hair practices, or other adornment are given.
+The Título Xecul is said to describe Tecun Uman as wearing quetzal feathers, rare gems, and abundant jewelry. No further details about materials, forms, ritual functions, tattoos, hair practices, or other adornment are given.
 
 ## Music & performance
 
- They mention the Dance of the Conquest, which commemorates Tecun Uman and tells the story of the conversion of Indigenous people to Christianity following the Spanish Conquest.
+They mention the Dance of the Conquest, which commemorates Tecun Uman and tells the story of the conversion of Indigenous people to Christianity following the Spanish Conquest.
 
 ## Dance & theatre
 
@@ -37,11 +37,11 @@ The **Dance of the Conquest** is identified as a Kʼicheʼ-associated performanc
 
 ## Festivals & rituals
 
- They state that Tecun Uman’s death on February 20, 1524 is memorialized each year by the Guatemalan people, partly through the Dance of the Conquest. The Popol Vuh is described as a sacred narrative used in religious and spiritual ceremonies, university studies, political movements and protests, and historical research.
+They state that Tecun Uman’s death on February 20, 1524 is memorialized each year by the Guatemalan people, partly through the Dance of the Conquest. The Popol Vuh is described as a sacred narrative used in religious and spiritual ceremonies, university studies, political movements and protests, and historical research.
 
 ## Foodways
 
- The Kʼicheʼ language article states that the sustainable-farming label UTZ took its name from *utz kapeh*, glossed as “good coffee,” but it provides no broader account of Kʼicheʼ coffee production or foodways.
+The Kʼicheʼ language article states that the sustainable-farming label UTZ took its name from *utz kapeh*, glossed as “good coffee,” but it provides no broader account of Kʼicheʼ coffee production or foodways.
 
 ## Oral tradition & literature
 

@@ -17,11 +17,11 @@ Catawba pottery is a prominent documented art. It was historically made primaril
 
 ## Music & performance
 
- Frank Speck’s documented work includes *Catawba Religious Beliefs, Mortuary Customs, and Dances*. The Catawba Cultural Center hosts the annual celebration Yap Ye Iswa.
+Frank Speck’s documented work includes *Catawba Religious Beliefs, Mortuary Customs, and Dances*. The Catawba Cultural Center hosts the annual celebration Yap Ye Iswa.
 
 ## Dance & theatre
 
- The supplied bibliography identifies Frank Speck’s work *Catawba Religious Beliefs, Mortuary Customs, and Dances*, but no account of the dances themselves is included in the sources.
+The supplied bibliography identifies Frank Speck’s work *Catawba Religious Beliefs, Mortuary Customs, and Dances*, but no account of the dances themselves is included in the sources.
 
 ## Festivals & rituals
 
@@ -33,7 +33,7 @@ The Catawba are historically sedentary agriculturists who also fished and hunted
 
 ## Oral tradition & literature
 
- The supplied material states that Catawba texts and folklore were recorded in works by Frank Speck, including *Catawba Texts* and “Some Catawba Texts and Folk-lore,” but it does not reproduce or summarize those narratives.
+The supplied material states that Catawba texts and folklore were recorded in works by Frank Speck, including *Catawba Texts* and “Some Catawba Texts and Folk-lore,” but it does not reproduce or summarize those narratives.
 
 The Catawba language is being revived and preserved. A Catawba alphabet was created by the Catawba Language Project as part of a revitalization effort and the creation of an app for the language.
 

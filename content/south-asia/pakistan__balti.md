@@ -1,0 +1,32 @@
+---
+title: "Balti"
+subtitle: "Pakistan"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Baltis are a Tibetic ethnic group native to the Pakistani-administered territory of Gilgit-Baltistan and the Indian-administered territory of Ladakh, especially Kargil district and, in smaller concentrations, Leh district; outside the Kashmir region, diaspora communities live in cities including Lahore, Karachi, Islamabad and Rawalpindi. Their language belongs to the Tibetic language family and remains comparatively archaic and conservative.
+
+## Festivals & rituals
+
+The sources describe the continuing presence of pre-Islamic Bön and Tibetan Buddhist ritual traits within Balti society. Bön and Tibetan Buddhism were dominant religions among the Balti people until the arrival of Islam in Baltistan around the 14th century CE, while most Baltis had converted to Islam by the end of the 17th century.
+
+## Foodways
+
+They describe Gilgiti cuisine in Gilgit-Baltistan as typically non-spicy but rich in flavors, and name **chapshoro**, **mumtu**, *chapshuro*, **thukpa**, buckwheat bread, rosehip oil bread, almond bread, **kelawo** or **kilao**, and dishes based on barley, wheat, millet, apricots, cherries, yogurt and cheese. In Gilgit, dumplings locally called *mumtu* are well known and are often served with yogurt, parsley, black pepper, vinegar and chili sauce. In Nagar, *chapshuro* is described as a local alternative to pizza, while Ghizer is associated with *kelawo*, walnuts dipped in honey and mulberry juice. The sources also state that salty Tibetan-style butter tea is consumed in Gilgit-Baltistan and Chitral. Pakistani cuisine generally follows halal principles, which prohibit pork and alcohol, and commonly centers on meat, rice, wheat bread, vegetables, pulses and dairy products.
+
+## Oral tradition & literature
+
+Balti oral literature includes the **Epic of King Gesar** and the stories of *rgya lu cho lo bzang* and *rgya lu sras bu*. The sources state that other Balti literature is in verse and that Balti literature has adopted numerous Persian styles of verse and vocables. They also describe the language as closely related to Ladakhi and note that Balti literature has faced long isolation from Tibet and Ladakh, political divisions, religious differences, pressure from Urdu, and difficulties caused by the abandonment of the original Tibetan script. Balti academics and clerical scholars have worked toward standardizing and unifying the Perso-Arabic script, while other academics have attempted to revive the Tibetan script with additional letters for loanwords.
+
+## Language & religion
+
+Balti is a Tibetic language spoken in Baltistan, Kargil and Nubra in Ladakh, India. The sources identify four dialects: the Eastern dialect of Chorbat and Nubra valley, the Central dialect of Khaplu valley, the Western dialect of Skardu, Shigar and Rondu, and the Southern dialect of Upper Kharmang and Kargil. Balti retains sounds of Old Tibetan that were lost in Standard Tibetan and has a simple pitch accent system in multi-syllabic words. Its predominant writing system is Perso-Arabic, although Tibetan script was used from 727 AD until the last quarter of the 14th century. In 1985, Yusuf Hussain Abadi added letters to both scripts for Balti. Around 60% of Baltis are Shia Muslims, some 30% practice Noorbakshia Sufi Islam, and 10% are Sunni Muslims. Islam arrived in Baltistan around the 14th century CE, including through Sufi missionaries such as Mir Sayyid Ali Hamadani.
+
+## Sources & further reading
+
+- [Balti people](https://en.wikipedia.org/wiki/Balti_people)
+- [Balti language](https://en.wikipedia.org/wiki/Balti_language)
+- [Balti cuisine](https://en.wikipedia.org/wiki/Balti_cuisine)

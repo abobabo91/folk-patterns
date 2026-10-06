@@ -17,7 +17,7 @@ The women made lace and took in laundry, while the men carved wood and manufactu
 
 ### Clothing & dress
 
- They record that Cupeño women made lace and washed laundry in the hot springs, while men manufactured saddle pads for horses. The sources also state that Cupeño travelers sold craftwork.
+They record that Cupeño women made lace and washed laundry in the hot springs, while men manufactured saddle pads for horses. The sources also state that Cupeño travelers sold craftwork.
 
 ### Architecture
 
@@ -25,11 +25,11 @@ The Cupeño traditionally lived in two autonomous villages, Wilákalpa and Kúpa
 
 ### Ceramics, metalwork & everyday objects
 
- They mention carved wood, manufactured saddle pads, cattle, cultivated land, and craftwork sold to travelers. The Cupa Cultural Center exhibits artwork and offers basket-making and beading activities, but the catalogue of named household objects, tools, and techniques is not provided.
+They mention carved wood, manufactured saddle pads, cattle, cultivated land, and craftwork sold to travelers. The Cupa Cultural Center exhibits artwork and offers basket-making and beading activities, but the catalogue of named household objects, tools, and techniques is not provided.
 
 ### Jewelry & body adornment
 
- Beading is mentioned among the activities hosted by the Cupa Cultural Center, but no beadwork objects, materials, motifs, or ceremonial uses are identified.
+Beading is mentioned among the activities hosted by the Cupa Cultural Center, but no beadwork objects, materials, motifs, or ceremonial uses are identified.
 
 ## Music & performance
 
@@ -53,7 +53,7 @@ Before the forced eviction, Cupeño villagers sold milk and fodder to travelers 
 
 ## Oral tradition & literature
 
- They preserve several historical recollections connected with the forced relocation, including Roscinda Nolásquez’s account of the last morning at Cupa and Cecilio Blacktooth’s statement in 1903 that the Cupeño could not live anywhere else because they were born there and their fathers were buried there.
+They preserve several historical recollections connected with the forced relocation, including Roscinda Nolásquez’s account of the last morning at Cupa and Cecilio Blacktooth’s statement in 1903 that the Cupeño could not live anywhere else because they were born there and their fathers were buried there.
 
 Educational materials for the Cupeño language exist, and young people continue to learn to sing in Cupeño, particularly Bird Songs. The Cupa Cultural Center, founded in 1974 in Pala and expanded in 2005, offers Cupeño language classes and hosts cultural activities.
 

@@ -9,12 +9,6 @@ tags: [ethnography, north-america]
 
 The Dene are an Indigenous group of First Nations who inhabit the northern boreal, subarctic and Arctic regions of Canada. The name is the common Athabaskan word for “people” and is used most narrowly for Athabaskan speakers of the Northwest Territories who form the Dene Nation: the Chipewyan, Tłı̨chǫ, Yellowknives, Slavey, Sahtu and Gwichʼin. It is also used more broadly for Northern Athabaskan speakers across Alaska and northern Canada. Dene communities extend through the Mackenzie Valley, west of Nunavut, western Yukon, northern British Columbia, Alberta, Saskatchewan, Manitoba, Alaska and the southwestern United States. Behchokǫ̀, Northwest Territories is the largest Dene community in Canada. The Dene speak Northern Athabaskan languages and are known for oral storytelling, music, dances and drum traditions.
 
-## Material culture
-
-### Ceramics, metalwork & everyday objects
-
- The music sources identify a frame drum called *egheli*, but provide no information about its construction or decoration.
-
 ## Music & performance
 
 Dene music is associated with Northern Athabaskan-speaking First Nations peoples, including the Chipewyan, Tlicho, Yellowknives, Slavey and Sahtu. The term generally refers to traditional musical compositions and dances. Leela Gilday identifies four main genres: Dene love songs, *Ets’ula*; tea dance songs, *Iliwa*; handgames songs; and drum dance songs. While visiting Fort Liard in the 1800s, George Keith observed love songs, lamentation songs and ceremonial songs.
@@ -29,7 +23,7 @@ The sources used describe Dene drum dances and tea dances. Drum dances are tradi
 
 ## Festivals & rituals
 
- The sources identify ceremonial songs as one category observed by George Keith while visiting Fort Liard in the 1800s, and describe drum dances and tea dances as traditional Dene performance forms.
+The sources identify ceremonial songs as one category observed by George Keith while visiting Fort Liard in the 1800s, and describe drum dances and tea dances as traditional Dene performance forms.
 
 The sources do record a healing ceremony involving Dene and Inuit representatives at Bloody Falls in 1996. The ceremony was held to reconcile centuries-old grievances associated with historical ethnic feuds between Dene and Inuit.
 

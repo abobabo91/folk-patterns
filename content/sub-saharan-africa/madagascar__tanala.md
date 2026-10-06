@@ -33,7 +33,7 @@ Funeral architecture included coffins carved from large logs. In some communitie
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe a throne made from several woven mats rolled together, which was used by the king. A red parasol marked royal nobility, and zebu horns or carved wooden stakes decorated the roofs of noble houses. A water-filled winnowing pan appears in the account of historical birth-related fady.
+They do describe a throne made from several woven mats rolled together, which was used by the king. A red parasol marked royal nobility, and zebu horns or carved wooden stakes decorated the roofs of noble houses. A water-filled winnowing pan appears in the account of historical birth-related fady.
 
 ### Jewelry & body adornment
 
@@ -41,7 +41,7 @@ Tanala kings and their sons were allowed to wear silver bracelets around the wri
 
 ## Music & performance
 
- They do describe divination as an important area of specialized knowledge. Tanala people were reputed to practice divination through reading seeds and through astrology or astronomy, practices associated in the source with Arab influence in Madagascar. Antemoro *ombiasy* served as diviners, holders of arcane knowledge, and advisers to the noble class across the island.
+They do describe divination as an important area of specialized knowledge. Tanala people were reputed to practice divination through reading seeds and through astrology or astronomy, practices associated in the source with Arab influence in Madagascar. Antemoro *ombiasy* served as diviners, holders of arcane knowledge, and advisers to the noble class across the island.
 
 ## Festivals & rituals
 
@@ -80,4 +80,3 @@ Tanala social and religious life includes numerous *fady*, or prohibitions. Thes
 - Gwyn Campbell, *David Griffiths and the Missionary “History of Madagascar”*, Brill, 2012.
 - Ralph Linton, *The Tanala: a hill tribe of Madagascar*, Field Museum of Natural History, 1933.
 - [Tanala, Wikipedia](https://en.wikipedia.org/wiki/Tanala)
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription for Madagascar concerning the Tanala.

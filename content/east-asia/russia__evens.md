@@ -13,7 +13,7 @@ The Evens are a nomadic people of Siberia and the Russian Far East, living in th
 
 ### Clothing & dress
 
-Traditional Even clothing consists of a coat with an apron, pants, and boots, with the same general type worn by both genders. Garments are made from reindeer hides and skins and from moose hair. The sources distinguish Even clothing from that of neighboring indigenous groups through its open coats and aprons. Evens also wear a pouch on the coat for a pipe and tobacco. No separate ceremonial dress, head covering, belt, or special life-cycle clothing is described in the sources used.
+Traditional Even clothing consists of a coat with an apron, pants, and boots, with the same general type worn by both genders. Garments are made from reindeer hides and skins and from moose hair. The sources distinguish Even clothing from that of neighboring indigenous groups through its open coats and aprons. Evens also wear a pouch on the coat for a pipe and tobacco.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ Traditional Even lodgings are conical tents covered with animal skins. In southe
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden skis, saddles used for riding reindeer, storage sheds, pipes, and pouches for carrying tobacco.
+They do describe wooden skis, saddles used for riding reindeer, storage sheds, pipes, and pouches for carrying tobacco.
 
 ## Music & performance
 
@@ -29,7 +29,7 @@ Even culture includes folklore consisting of stories and songs. These usually fe
 
 ## Festivals & rituals
 
- They state that Evens have officially been considered Orthodox since the 19th century, while retaining some pre-Christian practices, including shamanism.
+They state that Evens have officially been considered Orthodox since the 19th century, while retaining some pre-Christian practices, including shamanism.
 
 ## Foodways
 
@@ -46,5 +46,3 @@ Even is a Tungusic language closely related to Evenk. The Even language contains
 ## Sources & further reading
 
 - “Evens,” *Wikipedia*: https://en.wikipedia.org/wiki/Evens
-- UNESCO Intangible Cultural Heritage inscriptions: no relevant inscription was supplied in the sources used.
-- Museum catalogue records: no relevant records were supplied in the sources used.

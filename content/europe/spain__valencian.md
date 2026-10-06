@@ -13,11 +13,11 @@ Valencians are the native people of the Valencian Community in eastern Spain. Th
 
 ### Architecture
 
- They do describe settlement geography: population traditionally concentrated in fertile cultivation and growing lowlands by the Júcar, Turia, Segura and Vinalopó rivers, and in harbour cities important to agricultural trade. Industrial activity and commerce also affected noncoastal cities including Alcoy, Elda, Ontinyent, Petrer, Villena and La Vall d’Uixó.
+They do describe settlement geography: population traditionally concentrated in fertile cultivation and growing lowlands by the Júcar, Turia, Segura and Vinalopó rivers, and in harbour cities important to agricultural trade. Industrial activity and commerce also affected noncoastal cities including Alcoy, Elda, Ontinyent, Petrer, Villena and La Vall d’Uixó.
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify the *paella* as a large pan whose name is used for the rice dish cooked in it.
+They do identify the *paella* as a large pan whose name is used for the rice dish cooked in it.
 
 ## Music & performance
 
@@ -51,7 +51,7 @@ Sweets and drinks include *arnadí*, typical of Xàtiva; *fartons*, designed to 
 
 ## Oral tradition & literature
 
- They do document an important literary history in Valencian. Works associated with the Valencian Golden Age include Joanot Martorell’s chivalric romance *Tirant lo Blanch* and Ausiàs March’s poetry. The first book produced with movable type in the Iberian Peninsula was printed in the Valencian variety, and the Valencian poem *Scachs d’amor* contains the earliest recorded chess game with modern rules for the queen and bishop.
+They do document an important literary history in Valencian. Works associated with the Valencian Golden Age include Joanot Martorell’s chivalric romance *Tirant lo Blanch* and Ausiàs March’s poetry. The first book produced with movable type in the Iberian Peninsula was printed in the Valencian variety, and the Valencian poem *Scachs d’amor* contains the earliest recorded chess game with modern rules for the queen and bishop.
 
 ## Language & religion
 

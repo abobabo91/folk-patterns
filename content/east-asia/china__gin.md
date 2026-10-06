@@ -17,11 +17,11 @@ Gin costume is described as simple and practical. Traditionally, women wear tigh
 
 ### Ceramics, metalwork & everyday objects
 
- They state only that the Gin Islands were connected to the mainland by a land reclamation project in the 1960s.
+They state only that the Gin Islands were connected to the mainland by a land reclamation project in the 1960s.
 
 ### Jewelry & body adornment
 
- They state that a few young women coil their hair and dye their teeth black.
+They state that a few young women coil their hair and dye their teeth black.
 
 ## Music & performance
 

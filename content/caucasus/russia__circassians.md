@@ -13,33 +13,33 @@ The Circassians, also known as the Cherkess or the Adyghe, are a Northwest Cauca
 
 ### Clothing & dress
 
- They do record that Circassian civilians were driven toward the Black Sea coast during the Russian military campaigns and that exiled Circassians were resettled throughout the Ottoman Empire, including Anatolia, Ottoman Syria, Transjordan, and the Empire’s remaining Balkan territories.
+They do record that Circassian civilians were driven toward the Black Sea coast during the Russian military campaigns and that exiled Circassians were resettled throughout the Ottoman Empire, including Anatolia, Ottoman Syria, Transjordan, and the Empire’s remaining Balkan territories.
 
 ### Architecture
 
- They state that Circassia was a small independent nation on the northeastern shore of the Black Sea and that the city of Sochi was once the Circassian capital.
+They state that Circassia was a small independent nation on the northeastern shore of the Black Sea and that the city of Sochi was once the Circassian capital.
 
 ### Ceramics, metalwork & everyday objects
 
- The historical account mentions field tools, tents, and personal belongings in connection with the defeat of the Crimean army at the Battle of Kanzhal.
+The historical account mentions field tools, tents, and personal belongings in connection with the defeat of the Crimean army at the Battle of Kanzhal.
 
 ## Music & performance
 
- They identify Adyghe and Kabardian as the two Circassian languages and state that Circassians also speak Russian, Turkish, English, Arabic, and Hebrew in large numbers.
+They identify Adyghe and Kabardian as the two Circassian languages and state that Circassians also speak Russian, Turkish, English, Arabic, and Hebrew in large numbers.
 
 ## Festivals & rituals
 
- They do describe political and historical assemblies and commemorative contexts: Circassians established the “Great Freedom Assembly” in Shashe on 25 June 1861, and the year 2014 marked the 150th anniversary of the Circassian Genocide. Many protests were held around the world in connection with the 2014 Winter Olympics in Sochi.
+They do describe political and historical assemblies and commemorative contexts: Circassians established the “Great Freedom Assembly” in Shashe on 25 June 1861, and the year 2014 marked the 150th anniversary of the Circassian Genocide. Many protests were held around the world in connection with the 2014 Winter Olympics in Sochi.
 
 Circassian religious history includes the spread of Christianity through the Caucasus between the 3rd and 5th centuries and the later growth of Islam. In the 17th century, under the influence of the Crimean Tatars and the Ottoman Empire, large numbers of Circassians converted to Islam from Christianity. The vast majority of Circassians are Muslim, and Sunni Islam became the dominant religion during the 17th century.
 
 ## Foodways
 
- The historical account states that Russian military actions destroyed crops and livestock and that displaced Circassians on the Black Sea coast suffered from insufficient supplies of food and shelter.
+The historical account states that Russian military actions destroyed crops and livestock and that displaced Circassians on the Black Sea coast suffered from insufficient supplies of food and shelter.
 
 ## Oral tradition & literature
 
- They do record that the Abaza family contributed to Egyptian and Arabic cultural, literary, intellectual, and political life from the reign of Muhammad Ali Pasha in Egypt to the modern day.
+They do record that the Abaza family contributed to Egyptian and Arabic cultural, literary, intellectual, and political life from the reign of Muhammad Ali Pasha in Egypt to the modern day.
 
 The sources describe several competing explanations for the names “Circassian” and “Cherkess.” Proposed origins connect the terms with Turkic languages, Mongolian Jerkes, the ancient Greek name Siraces, Persian terms including kar and kās, Persian Chahār-kas, and the ancient Circassian tribe Kerket. The sources state that the origin of “Circassian” remains disputed.
 

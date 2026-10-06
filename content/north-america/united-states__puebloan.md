@@ -29,7 +29,7 @@ Ancestral Puebloan villages were also built along cliff walls, especially during
 
 ### Ceramics, metalwork & everyday objects
 
-Pueblo communities have different traditions of making and decorating pottery artifacts. Present-day archaeologists date Pueblo pottery to the early centuries of the Common Era. The sources specifically identify ceramic storyteller figurines associated with Cochiti Pueblo, as well as drums, turquoise work associated with Kewa Pueblo, and prayer sticks decorated with beads, fur, and feathers. No Puebloan metalworking tradition is described in the sources.
+Pueblo communities have different traditions of making and decorating pottery artifacts. Present-day archaeologists date Pueblo pottery to the early centuries of the Common Era. The sources specifically identify ceramic storyteller figurines associated with Cochiti Pueblo, as well as drums, turquoise work associated with Kewa Pueblo, and prayer sticks decorated with beads, fur, and feathers.
 
 ### Jewelry & body adornment
 

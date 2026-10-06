@@ -31,11 +31,11 @@ The Chané built densely populated villages.
 
 ## Dance & theatre
 
- They state only that the Chané craft wooden masks, without explaining their performance contexts, forms, or functions.
+They state only that the Chané craft wooden masks, without explaining their performance contexts, forms, or functions.
 
 ## Festivals & rituals
 
- An ancient Chané religious site dating from about 300 CE is identified as El Fuerte de Samaipata, now a UNESCO World Heritage Site.
+An ancient Chané religious site dating from about 300 CE is identified as El Fuerte de Samaipata, now a UNESCO World Heritage Site.
 
 ## Foodways
 

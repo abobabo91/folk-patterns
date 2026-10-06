@@ -17,7 +17,7 @@ Seto *leelo* is usually performed by women dressed in traditional clothing.
 
 ### Architecture
 
- They state that the Pskovo-Pechersky Monastery in Petseri was an important religious and communal center for the Seto peoples and that the monastery owned much of the land and the Seto Churches in the region.
+They state that the Pskovo-Pechersky Monastery in Petseri was an important religious and communal center for the Seto peoples and that the monastery owned much of the land and the Seto Churches in the region.
 
 ## Music & performance
 

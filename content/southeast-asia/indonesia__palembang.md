@@ -31,7 +31,7 @@ Named snacks include **Kemplang** and **Kerupuk**. Sweets and desserts include *
 
 ## Oral tradition & literature
 
- They do identify written and language-preservation efforts. The *Kitab Undang-Undang Simbur Cahaya* is described as a written source believed to have been compiled by Queen Sinuhun, the wife of Palembang ruler Prince Sido ing Kenayan, around the 17th century. It was written in Classical Malay with some influence from Javanese.
+They do identify written and language-preservation efforts. The *Kitab Undang-Undang Simbur Cahaya* is described as a written source believed to have been compiled by Queen Sinuhun, the wife of Palembang ruler Prince Sido ing Kenayan, around the 17th century. It was written in Classical Malay with some influence from Javanese.
 
 The sources also state that the government of South Sumatra, supported by the Indonesian Ministry of Religious Affairs, launched the Quran with a Palembang language translation in 2019. The refined register of Palembang, known as jegho/jero or alus, has been included as a local content subject for elementary and secondary schools in the Palembang area since 2021.
 

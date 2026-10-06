@@ -13,15 +13,15 @@ The Gonja, also known as Ghanjawiyyu and by the endonym Ngbanya, are a subgroup 
 
 ### Architecture
 
- They identify Yagbum as the capital founded by the Mande Ngbanya clan under the leadership of Naba'a.
+They identify Yagbum as the capital founded by the Mande Ngbanya clan under the leadership of Naba'a.
 
 ## Festivals & rituals
 
- The sources state that most Gonja are Muslims while incorporating traditional practices and beliefs, and that conversion to Islam occurred around the 18th century through the influence of Muslim missionaries and merchants.
+The sources state that most Gonja are Muslims while incorporating traditional practices and beliefs, and that conversion to Islam occurred around the 18th century through the influence of Muslim missionaries and merchants.
 
 ## Foodways
 
- They state that the Gonja economy depended largely on trade in slaves from Central Africa and kola nuts, particularly through the market town of Salaga, which was sometimes called the “Timbuktu of the South.”
+They state that the Gonja economy depended largely on trade in slaves from Central Africa and kola nuts, particularly through the market town of Salaga, which was sometimes called the “Timbuktu of the South.”
 
 ## Language & religion
 

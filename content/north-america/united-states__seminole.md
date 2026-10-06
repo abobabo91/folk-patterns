@@ -13,7 +13,7 @@ The Seminole are a Native American people who developed in Florida in the 18th c
 
 ### Clothing & dress
 
- They do record that Seminoles historically sold alligator hides, bird plumes, and other items sourced from the Everglades, and that the decline of the plume trade contributed to reduced demand for Seminole goods in the early 20th century.
+They do record that Seminoles historically sold alligator hides, bird plumes, and other items sourced from the Everglades, and that the decline of the plume trade contributed to reduced demand for Seminole goods in the early 20th century.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ The best-documented Seminole building form is the open-air, thatched-roof house 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention alligator hides, bird plumes, and other items sourced from the Everglades as commodities sold to white merchants during the early 20th century.
+They mention alligator hides, bird plumes, and other items sourced from the Everglades as commodities sold to white merchants during the early 20th century.
 
 ## Music & performance
 
@@ -49,7 +49,7 @@ The sources identify the black drink and ritual tobacco as notable Seminole trad
 
 ## Oral tradition & literature
 
- They do describe oral and language-related cultural practices: Muskogee-language hymns continue to be sung in Creek and Seminole churches in Oklahoma, and traditional song practices include a song leader and call-and-response hunting songs.
+They do describe oral and language-related cultural practices: Muskogee-language hymns continue to be sung in Creek and Seminole churches in Oklahoma, and traditional song practices include a song leader and call-and-response hunting songs.
 
 The Seminole Nation of Oklahoma is working to revive the use of Creek, which had been the dominant language of politics and social discourse. More generally, Seminole communities became increasingly concerned about the loss of language and tradition by the 1980s, contributing to the revival of traditional Green Corn Dance ceremonies.
 

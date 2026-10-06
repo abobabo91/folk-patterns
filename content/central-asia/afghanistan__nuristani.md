@@ -25,7 +25,7 @@ Historical external writers classified the Kafirs into Siah-Posh, or black-robed
 
 ### Architecture
 
- They mention shrines called *astān*, which housed wooden effigies of gods or ancestors and could stand near sacred trees, springs, or elevated sites.
+They mention shrines called *astān*, which housed wooden effigies of gods or ancestors and could stand near sacred trees, springs, or elevated sites.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -33,7 +33,7 @@ Nuristani and Kafir communities are described as accomplished ironworkers. They 
 
 ### Jewelry & body adornment
 
- They mention carved wooden ritual figures and horned masks as objects associated with shrines.
+They mention carved wooden ritual figures and horned masks as objects associated with shrines.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ Nuristani religious and social life included hymns, epic poetry, oral tales, com
 
 Religious specialists included priests known as *bagisht*, hereditary male ritual specialists, shamans, bards, storytellers, and occasional female spirit mediums or oracles. Priests conducted sacrifices, rituals, and the interpretation of omens. Shamans advised people seeking help and participated in healing, divination, and protection rites. Sacred fires were maintained by priests and used for purification, oaths, and major ceremonies.
 
- The available material connects performance mainly with communal festivals, religious ceremonies, oral transmission, and ritual life.
+The available material connects performance mainly with communal festivals, religious ceremonies, oral transmission, and ritual life.
 
 ## Dance & theatre
 

@@ -1,0 +1,61 @@
+---
+title: "Kemak"
+subtitle: "East Timor"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Kemak, also known as Ema or Quémaque, are an ethnic group numbering 80,000 in north-central Timor island. Most live in the district of Bobonaro, East Timor, while others live in the East Nusa Tenggara province of Indonesia. Their settlement area includes Atabae, Cailaco, Maliana and Atsabe, as well as parts of Cova Lima District and Belu Regency. In 2010, 61,969 people identified Kemak as their mother tongue; in 1970, the figure was 45,084. Kemak is an Austronesian language and is one of the national languages named in the East Timor constitution. The Kemak are close to the Tetum people and are among the smallest of the 14 Austronesian subgroups in Timor. Their folk-cultural life is especially documented through sacred houses, ritual authority, alliance systems, ancestral practices and elaborate funeral ceremonies.
+
+## Material culture
+
+### Architecture
+
+Kemak sacred houses are built together by all men belonging to a tribe line. They meet for a weekend once a month, for eleven months, and each month’s work ends with a small ritual feast. The houses consist of seven levels, each with four steps. Access is restricted according to kinship: simple guests enter only the lowest level, friends at least the second, married relatives the third, relatives from neighbouring villages the fourth and partly the fifth, those married in the village the sixth, and only the Lulik Nain, meaning “Lord of the Holy,” may reach the seventh. He guards the house and the sacred objects kept there. At the inauguration of a house, a buffalo is sacrificed and a great feast is celebrated.
+
+### Ceramics, metalwork & everyday objects
+
+They do identify sacred objects kept in the sacred houses and state that the flag of the Portuguese and its flagpole were regarded as sacred objects after Portuguese authority had been incorporated into the Kemak hierarchy.
+
+### Jewelry & body adornment
+
+They mention sacred objects, ritual objects and the severed sexual organs of sacrificial animals.
+
+## Music & performance
+
+The sources document ritual songs rather than named musical instruments or secular performance genres. During the second phase of the Atsabe Kemak burial ceremony, known as *Leko-cicir lia*, the bones of the deceased are excavated, cleaned and reburied. The soul of the dead is guided through ritual songs called *Nele*, sung by the priest, toward the village of the ancestors on Tatamailau, East Timor’s highest mountain. These songs can continue for up to 14 hours.
+
+The burial ceremonies are called *Tau tana mate* and are divided into three phases: *Huku bou*, *Leko-cicir lia* and *Koli nughu*. They are also called black rituals, *Metama no*. The ceremonies bring the living into contact with their ancestors and renew or restructure social connections between the living and the dead, as well as between marriage-linked alliance partners.
+
+## Festivals & rituals
+
+The sources describe a ritual calendar connected primarily with sacred houses, religious authority and funerals. Men belonging to a tribe line meet in the sacred house for a weekend once a month, for eleven months. A small ritual feast follows the completion of each month’s work. At the inauguration of a sacred house, a buffalo is sacrificed and a great feast is held.
+
+Kemak funeral ceremonies are called *Tau tana mate* and have three phases: *Huku bou*, *Leko-cicir lia* and *Koli nughu*. They are known as black rituals, *Metama no*. Before all family members have arrived, the ritual cannot begin. The blood of sacrificial animals donated by the *Ai mea* is used to brush ritual objects and the grave. The attendance of second wives, called *Bei-bei*, was required in times of polygamy. Older and younger houses, *ka'ara-aliri*, as well as friendly and allied families, also attend.
+
+For the Atsabe Kemak, *Huku bou* includes the sacrifice of at least five water buffaloes and several goats and pigs, after which the dead person is buried in a Christian grave. *Leko-cicir lia* is the most costly ritual and is usually held jointly for several deceased people. A high-status dead person, such as a Koronel, receives an independent ritual. The ceremony is usually performed before the planting season, in August to September, and includes a request to the ancestors for a rich harvest. It may take place years after the first phase because the family must first obtain the economic means required. The ceremony concludes with another burial of the bones and a Christian Mass.
+
+## Foodways
+
+They do describe ritual feasting and animal sacrifice. At the inauguration of a sacred house, a buffalo is sacrificed and a great feast is celebrated. During *Huku bou*, at least five water buffaloes and several goats and pigs are sacrificed for the Atsabe Kemak burial ceremony. Water buffaloes are sacrificed again during *Leko-cicir lia*.
+
+## Oral tradition & literature
+
+The sources describe oral traditions concerning the history and origins of the Kemak. According to the oral traditions of the Atsabe Kemak people, they came relatively late under Portuguese colonial rule. One explanation given is the dispersal of inhabitants and the impassability of the mountainous landscape.
+
+Mount Dar Lau is described as the mythical place of origin of the Atsabe Kemak people. According to legend, heaven and earth were once connected there. In funeral ritual, the priest’s *Nele* songs guide the souls of the dead to the village of the ancestors on Tatamailau. The sources also state that traditional priests, *gases ubu*, guarded sacred history and traditions.
+
+## Language & religion
+
+Kemak, also called Ema, is spoken in East Timor and in the border region of Indonesian West Timor. It is most closely related to Tocodede and Mambai. Kemak is an Austronesian language and has the status of one of the national languages in the East Timor constitution, alongside Portuguese and Tetun. The number of speakers has fallen in recent years. The Kemak people are close to the Tetum people, and 61,969 people identified Kemak as their mother tongue in the 2010 East Timor census.
+
+Most Kemak traditionally followed traditional beliefs, while part of the population professed the Catholic faith. Today the Kemak are largely Catholic, and in the Atsabe Administrative Post almost all inhabitants are Catholics. Catholicism spread particularly during the Indonesian occupation of East Timor from 1975 to 1999. Earlier religious life included animism, ancestral cult, reliquary worship and sacred places called *luli* in Kemak and *lulik* in Tetum. Christian rites continue to bear traces of this older religion. Priests who maintained animistic practices could be revered as holy men with spiritual powers called *Luli*. Sacred authority is also associated with the *Lulik Nain*, the guardian of the sacred house and its objects.
+
+## Sources & further reading
+
+- [Kemak people — Wikipedia](https://en.wikipedia.org/wiki/Kemak_people)
+- [Kemak language — Wikipedia](https://en.wikipedia.org/wiki/Kemak_language)
+- No UNESCO Intangible Cultural Heritage inscription for East Timor is included in the supplied sources.
+- No museum catalogue records or relevant museum collection URLs are included in the supplied sources.

@@ -11,23 +11,19 @@ The Umatilla are a Sahaptin-speaking Native American tribe traditionally associa
 
 ## Music & performance
 
- They do identify language-preservation activities connected with the Confederated Tribes of the Umatilla Indian Reservation, including online video resources, a Flash Story Camp held by First Nations Development in collaboration with Tamastslikt's Language Enhancement Program and Education Department, and the Wíyat'ish Naknúwit “For the Future” Language Project.
-
-## Dance & theatre
-
- They identify Acosia Red Elk as a World Champion Jingle Dress Dancer, yoga instructor, and notable Umatilla, but provide no description of Jingle Dress Dance practice.
+They do identify language-preservation activities connected with the Confederated Tribes of the Umatilla Indian Reservation, including online video resources, a Flash Story Camp held by First Nations Development in collaboration with Tamastslikt's Language Enhancement Program and Education Department, and the Wíyat'ish Naknúwit “For the Future” Language Project.
 
 ## Festivals & rituals
 
- The historical sources state that in 1855 inland Sahaptin-speaking nations were forced to surrender their historic homelands under treaty to the United States government in exchange for territorial set-asides on reservations.
+The historical sources state that in 1855 inland Sahaptin-speaking nations were forced to surrender their historic homelands under treaty to the United States government in exchange for territorial set-asides on reservations.
 
 ## Foodways
 
- The language sources include the lexical example *Wáylatpu* or *Wáylatpuuma*, glossed as “Ryegrass People” or “Cayuse People,” but this is an ethnonym rather than a documented foodway.
+The language sources include the lexical example *Wáylatpu* or *Wáylatpuuma*, glossed as “Ryegrass People” or “Cayuse People,” but this is an ethnonym rather than a documented foodway.
 
 ## Oral tradition & literature
 
- They do document contemporary language preservation. As of 2013, about 50 first-language speakers of Umatilla were reported. The language was taught at Nixyaawii Community School, which had offered Umatilla, Walla Walla, and Nez Perce language classes for the previous decade. A Cay-Uma-Wa Head Start program was being developed, and the Tamaluut immersion school was described as a new immersion program for three- to five-year-olds. The Wíyat'ish Naknúwit “For the Future” Language Project trained speakers through a Master-Apprentice program. The Umatilla Dictionary was published in 2014.
+They do document contemporary language preservation. As of 2013, about 50 first-language speakers of Umatilla were reported. The language was taught at Nixyaawii Community School, which had offered Umatilla, Walla Walla, and Nez Perce language classes for the previous decade. A Cay-Uma-Wa Head Start program was being developed, and the Tamaluut immersion school was described as a new immersion program for three- to five-year-olds. The Wíyat'ish Naknúwit “For the Future” Language Project trained speakers through a Master-Apprentice program. The Umatilla Dictionary was published in 2014.
 
 ## Language & religion
 

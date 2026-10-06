@@ -13,7 +13,7 @@ The Tariana or Taliaseri are an Indigenous people of the Vaupés or Uaupés Rive
 
 ### Clothing & dress
 
- They do state that the Tariana have specialists in dances and ornaments as part of an inherited social hierarchy. The sources also mention ceremonial objects that missionaries demanded the Indians surrender as a condition of receiving the sacrament and participating in trade.
+They do state that the Tariana have specialists in dances and ornaments as part of an inherited social hierarchy. The sources also mention ceremonial objects that missionaries demanded the Indians surrender as a condition of receiving the sacrament and participating in trade.
 
 ### Architecture
 
@@ -29,7 +29,7 @@ The sources state that inherited social status included specialists in ornaments
 
 ## Music & performance
 
- They do state that inherited social status included specialists in dances and ornaments, and that Jurupari masks were associated with male initiation rites. The sources also describe the importance of ceremonial objects.
+They do state that inherited social status included specialists in dances and ornaments, and that Jurupari masks were associated with male initiation rites. The sources also describe the importance of ceremonial objects.
 
 ## Dance & theatre
 
@@ -37,13 +37,13 @@ The Tariana social hierarchy includes inherited specialists in dances and orname
 
 ## Festivals & rituals
 
- They do describe male initiation rites connected with the mask of Jurupari, which women were not allowed to see. The Tariana are traditionally patrilineal, exogamous and patrilocal: lineage follows the father, marriage is with women from different ethnic groups, and the wife moves to the husband’s community. Tariana women may marry men of the Tucano or Piratapuyo groups. Tariana tradition says that the people originated around the Uapuí waterfall on the upper Aiari River, a tributary of the Içana River, and their mythology describes places where they halted and where hierarchy was established among the ancestors of different sibs of the exogamic Tariana ethnicity.
+They do describe male initiation rites connected with the mask of Jurupari, which women were not allowed to see. The Tariana are traditionally patrilineal, exogamous and patrilocal: lineage follows the father, marriage is with women from different ethnic groups, and the wife moves to the husband’s community. Tariana women may marry men of the Tucano or Piratapuyo groups. Tariana tradition says that the people originated around the Uapuí waterfall on the upper Aiari River, a tributary of the Içana River, and their mythology describes places where they halted and where hierarchy was established among the ancestors of different sibs of the exogamic Tariana ethnicity.
 
 Missionaries attempted to replace traditional practices, demanded the surrender of ceremonial objects, and encouraged movement from traditional malocas into individual houses grouped around chapels. Starting in the 19th century, missionaries tried to persuade the Tariana to abandon traditional beliefs and practices.
 
 ## Foodways
 
- They state that boarding schools in the Salesian mission depended partly on contributions by parents of about 25 kilograms of flour per pupil per year. The sources also mention plantations and ranches.
+They state that boarding schools in the Salesian mission depended partly on contributions by parents of about 25 kilograms of flour per pupil per year. The sources also mention plantations and ranches.
 
 ## Oral tradition & literature
 

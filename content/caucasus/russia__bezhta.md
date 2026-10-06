@@ -19,7 +19,7 @@ The Bezhtas used to be livestock breeders and mainly raised sheep, horses, and o
 
 ## Oral tradition & literature
 
- The Bezhta language article records that the first book ever printed in Bezhta was the Gospel of Luke in 1999.
+The Bezhta language article records that the first book ever printed in Bezhta was the Gospel of Luke in 1999.
 
 ## Language & religion
 

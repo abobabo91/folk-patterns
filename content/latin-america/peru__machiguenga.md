@@ -25,11 +25,11 @@ Matsigenka huts are made with palm tree poles used as a frame and palm leaves th
 
 ## Music & performance
 
- They provide a Matsigenka version of the Lord’s Prayer as a sample text, beginning “Apa Tasorintsi timatsirira enoku,”.
+They provide a Matsigenka version of the Lord’s Prayer as a sample text, beginning “Apa Tasorintsi timatsirira enoku,”.
 
 ## Festivals & rituals
 
- The sources state that most Matsigenka are now Christian, mainly Catholic, while commonly continuing to follow animist beliefs. Spirits and demons are described as influencing everyday life, whereas creator gods have withdrawn and are indifferent to humans. Shamans formerly played a prominent role in local society; they are less visible today, and certain functions have been taken over by healers.
+The sources state that most Matsigenka are now Christian, mainly Catholic, while commonly continuing to follow animist beliefs. Spirits and demons are described as influencing everyday life, whereas creator gods have withdrawn and are indifferent to humans. Shamans formerly played a prominent role in local society; they are less visible today, and certain functions have been taken over by healers.
 
 Marriage and family organization are described in social rather than ceremonial terms. Formerly, women married around the age of 16; today they commonly enter family relations some years later. During the first year or years of marriage, the relationship is often unstable and separation is common. Matsigenka are uxorilocal: the man moves to his wife, who usually still lives with her parents. During the early period of the relationship, the couple prepares a garden and builds a house near the woman’s parents. Formerly, prominent men had multiple wives.
 
@@ -41,7 +41,7 @@ Peccary and monkeys were formerly the main sources of protein, but fish has beco
 
 ## Oral tradition & literature
 
- They state that Matsigenka cosmology is recounted in *The Storyteller*, a 1987 novel by Mario Vargas Llosa, but do not summarize the cosmology or identify the oral materials on which the novel draws.
+They state that Matsigenka cosmology is recounted in *The Storyteller*, a 1987 novel by Mario Vargas Llosa, but do not summarize the cosmology or identify the oral materials on which the novel draws.
 
 The Matsigenka language article includes a sample text consisting of the Lord’s Prayer in Matsigenka. They mention Matsigenka texts collected by Lev Michael and Christine Beier at the Archive of the Indigenous Languages of Latin America, but provide no further description of the collection.
 

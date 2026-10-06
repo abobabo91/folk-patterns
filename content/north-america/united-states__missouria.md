@@ -13,11 +13,11 @@ The Missouria, also called Missouri, are a Native American people whose own name
 
 ### Architecture
 
- They record that the Iowa Tribe of Oklahoma says *Bah-Kho-Je* means “grey snow,” because winter lodges were covered with snow stained grey by fire smoke.
+They record that the Iowa Tribe of Oklahoma says *Bah-Kho-Je* means “grey snow,” because winter lodges were covered with snow stained grey by fire smoke.
 
 ### Ceramics, metalwork & everyday objects
 
- The language source gives the word *láhnũwe* for “calumet,”.
+The language source gives the word *láhnũwe* for “calumet,”.
 
 ## Music & performance
 

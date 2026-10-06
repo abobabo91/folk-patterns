@@ -13,11 +13,11 @@ The Baure people are an ethnic group living in the Beni Department of Bolivia. T
 
 ### Architecture
 
- The Baure language source mentions *wer* “house” as an example of a possession noun, but gives no architectural description.
+The Baure language source mentions *wer* “house” as an example of a possession noun, but gives no architectural description.
 
 ### Ceramics, metalwork & everyday objects
 
- The Baure language source gives *yakis* “firewood” and *jopi* “pitcher” as linguistic examples.
+The Baure language source gives *yakis* “firewood” and *jopi* “pitcher” as linguistic examples.
 
 ## Music & performance
 

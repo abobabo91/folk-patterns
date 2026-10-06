@@ -25,7 +25,7 @@ Suyá houses are set up in a circle around the village square, where most ceremo
 
 ### Ceramics, metalwork & everyday objects
 
- They mention canoes and hammocks as aspects of Xingu culture adopted by the Suyá, and they describe wooden disks placed in pierced lower lips. Other everyday objects connected with Suyá music include rattles, flutes, gourds, wooden shafts, cotton, burity-palm fiber, seeds, and feathers.
+They mention canoes and hammocks as aspects of Xingu culture adopted by the Suyá, and they describe wooden disks placed in pierced lower lips. Other everyday objects connected with Suyá music include rattles, flutes, gourds, wooden shafts, cotton, burity-palm fiber, seeds, and feathers.
 
 ### Jewelry & body adornment
 
@@ -41,19 +41,19 @@ Instruments play a small role. Singing may be accompanied by rattles or flutes. 
 
 ## Dance & theatre
 
- They state that idiophones accompany singing and dancing, and that ceremonial groups may chase singer-dancers and break their rattles. Suyá ceremonies were organized around rites of passage, especially the initiation of boys into the men’s house.
+They state that idiophones accompany singing and dancing, and that ceremonial groups may chase singer-dancers and break their rattles. Suyá ceremonies were organized around rites of passage, especially the initiation of boys into the men’s house.
 
 ## Festivals & rituals
 
- They describe ceremonies connected with social life, initiation, healing, myth, and rites of passage. Suyá ceremonies were long, with a ceremonial period often lasting several months, and were organized especially around the initiation of boys into the men’s house.
+They describe ceremonies connected with social life, initiation, healing, myth, and rites of passage. Suyá ceremonies were long, with a ceremonial period often lasting several months, and were organized especially around the initiation of boys into the men’s house.
 
 Initiation involved teaching boys particular songs in a forest camp under adult supervision. The songs marked their passage into adulthood, and the initiation ceremonies included the piercing of lips and ears. Ceremonial singing was performed according to age, sex, and social group. Some verbal forms were restricted to a few people: invocations were private expressions used for healing and referred to attributes of animals, plants, or other natural objects.
 
 ## Foodways
 
- They state that the Suyá hunt, fish, gather supplies, and trade with frontier settlements to meet their basic needs. After migrating to the Xingu region, they adopted food-preparation techniques associated with neighboring groups. One principle described in the sources is that all food must be cooked before it is eaten.
+They state that the Suyá hunt, fish, gather supplies, and trade with frontier settlements to meet their basic needs. After migrating to the Xingu region, they adopted food-preparation techniques associated with neighboring groups. One principle described in the sources is that all food must be cooked before it is eaten.
 
-Suyá myths explain the acquisition of garden crops through the mouse and connect the use of garden crops as food with the mouse ceremony myth. The sources also state that the Suyá acquired fire from the jaguar, while garden crops came from the mouse. They provide no information about tea, coffee, alcohol, dietary prohibitions, or named cooking vessels.
+Suyá myths explain the acquisition of garden crops through the mouse and connect the use of garden crops as food with the mouse ceremony myth. The sources also state that the Suyá acquired fire from the jaguar, while garden crops came from the mouse.
 
 ## Oral tradition & literature
 

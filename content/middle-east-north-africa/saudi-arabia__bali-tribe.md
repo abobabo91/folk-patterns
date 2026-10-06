@@ -15,11 +15,11 @@ The sources describe religious and political events. In the pre-Islamic period, 
 
 ## Foodways
 
- The sources mention that Wadi al-Qura was settled and cultivated by Jews.
+The sources mention that Wadi al-Qura was settled and cultivated by Jews.
 
 ## Oral tradition & literature
 
- The available historical account identifies Bali ibn Amr ibn al-Hafi ibn Quda'a as the tribe’s eponymous progenitor.
+The available historical account identifies Bali ibn Amr ibn al-Hafi ibn Quda'a as the tribe’s eponymous progenitor.
 
 ## Language & religion
 

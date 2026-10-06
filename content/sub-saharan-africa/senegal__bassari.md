@@ -17,7 +17,7 @@ The Bassari are an ethnic group living primarily in Senegal, with diaspora commu
 
 ### Clothing & dress
 
- They state that Bassari migrants to Senegalese and Guinean cities and towns use wage labor earned during the dry season to buy household equipment, clothing and other necessary items. Bassari art includes metalwork used for cosmetic decoration and regalia associated with the initiation society.
+They state that Bassari migrants to Senegalese and Guinean cities and towns use wage labor earned during the dry season to buy household equipment, clothing and other necessary items. Bassari art includes metalwork used for cosmetic decoration and regalia associated with the initiation society.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -25,7 +25,7 @@ Bassari have a longstanding tradition of metallurgy, recorded in European source
 
 ### Jewelry & body adornment
 
-The sources describe Bassari metalwork as including jewelry made by local blacksmiths from traded iron ore and copper. Such metalwork serves cosmetic decoration and can also form part of regalia connected with the initiation society. No specific jewelry types, personal names for ornaments, tattooing, henna practice or hair practices are documented in the sources used.
+The sources describe Bassari metalwork as including jewelry made by local blacksmiths from traded iron ore and copper. Such metalwork serves cosmetic decoration and can also form part of regalia connected with the initiation society.
 
 ## Music & performance
 

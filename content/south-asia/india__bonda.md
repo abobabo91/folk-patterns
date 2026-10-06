@@ -21,7 +21,7 @@ Bonda men and women have different adornment practices according to age and mari
 
 ### Ceramics, metalwork & everyday objects
 
- They do record aluminum *khagla* neck bands and *orti* finger rings, brass *limbi* earrings, and the use of cows, land, trees, and animals in marriage payments, debts, and debt bondage.
+They do record aluminum *khagla* neck bands and *orti* finger rings, brass *limbi* earrings, and the use of cows, land, trees, and animals in marriage payments, debts, and debt bondage.
 
 ### Jewelry & body adornment
 
@@ -31,11 +31,11 @@ Women shave their heads and wear the grass *turuba* and beaded *lobeda* headband
 
 ## Music & performance
 
- They state that the government-school curriculum uses prayers and songs as part of the process of bringing the Bonda into the mainstream. The sources also mention that men brew and consume liquor from rice, palm, and the mahua flower, but they do not associate this practice with a named musical tradition.
+They state that the government-school curriculum uses prayers and songs as part of the process of bringing the Bonda into the mainstream. The sources also mention that men brew and consume liquor from rice, palm, and the mahua flower, but they do not associate this practice with a named musical tradition.
 
 ## Festivals & rituals
 
- They do document marriage and death customs. A form of dowry called *Gining* is paid for brides, and the items used in *Gining* help determine how many arranged marriages will take place. The number of cows depends on the social status of the girl. Bonda boys are expected to marry between the ages of 10 and 12, while Bonda girls largely marry boys who are at least five to ten years younger than themselves.
+They do document marriage and death customs. A form of dowry called *Gining* is paid for brides, and the items used in *Gining* help determine how many arranged marriages will take place. The number of cows depends on the social status of the girl. Bonda boys are expected to marry between the ages of 10 and 12, while Bonda girls largely marry boys who are at least five to ten years younger than themselves.
 
 Divorce is called *Lung Sisi*. In cases where a Bonda woman is divorced for adultery, the former husband may demand double the price paid for the marriage. The village council determines the severity of the case and reaches a decision based on the number of cows returned. If a man caused the wrong resulting in divorce, he can no longer marry through an arranged-marriage system.
 
@@ -43,7 +43,7 @@ When a death, or *mora*, occurs, it is customary to sacrifice a cow on the tenth
 
 ## Foodways
 
- They state that crop production is hardly able to feed the population and that, in order to overcome starvation, the Bonda, or *Ku duburu Remo*, take out loans called *Kalantar* or *Badi*. These loans are often used to pay for bride prices, fines, and socio-religious rites.
+They state that crop production is hardly able to feed the population and that, in order to overcome starvation, the Bonda, or *Ku duburu Remo*, take out loans called *Kalantar* or *Badi*. These loans are often used to pay for bride prices, fines, and socio-religious rites.
 
 Men brew and consume liquor made from rice, palm, and the mahua flower. The sources also mention that Bonda people forage for food in the forest and that women hunt and forage. No further food names or culinary practices are described.
 

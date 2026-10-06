@@ -13,15 +13,15 @@ The Minahasans, also called Minahassa or sometimes Manado people, are an Austron
 
 ### Clothing & dress
 
- They state that the dancers of **Kabasaran** wear red garments, a color that in earlier times was exclusive to accomplished headhunters. The *katrili* dance uses European-style dress: women wear ball dresses, while men usually wear formal European attire consisting of a plain shirt, vest, dress or dancing shoes, and a wide-brimmed hat such as a fedora or a slouch hat.
+They state that the dancers of **Kabasaran** wear red garments, a color that in earlier times was exclusive to accomplished headhunters. The *katrili* dance uses European-style dress: women wear ball dresses, while men usually wear formal European attire consisting of a plain shirt, vest, dress or dancing shoes, and a wide-brimmed hat such as a fedora or a slouch hat.
 
 ### Architecture
 
- They record that Minahasa dead were buried in *waruga*, described as a type of sarcophagus, until the practice was outlawed by the Dutch. They also mention a memorial stone called *Watu Pinabetengan* or Watu Pinawetengan, associated with the division of the descendants of Toar and Lumimuut and with the meeting of leaders of different tribes.
+They record that Minahasa dead were buried in *waruga*, described as a type of sarcophagus, until the practice was outlawed by the Dutch. They also mention a memorial stone called *Watu Pinabetengan* or Watu Pinawetengan, associated with the division of the descendants of Toar and Lumimuut and with the meeting of leaders of different tribes.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention gongs, drums and kolintang as musical instruments, and describe marching-band instruments made from local bamboo, including clarinets, saxophones, trumpets, trombones and tubas.
+They mention gongs, drums and kolintang as musical instruments, and describe marching-band instruments made from local bamboo, including clarinets, saxophones, trumpets, trombones and tubas.
 
 ## Music & performance
 
@@ -37,7 +37,7 @@ The *katrili* dance remains widely performed in Minahasa. It originated as a Por
 
 ## Festivals & rituals
 
- They describe *foso* as ceremonial feasts through which wealth and social position were displayed. Important decisions concerning the community were made democratically, while leadership and higher status were acquired through wealth and bravery.
+They describe *foso* as ceremonial feasts through which wealth and social position were displayed. Important decisions concerning the community were made democratically, while leadership and higher status were acquired through wealth and bravery.
 
 The sources describe an older warrior society in which successful headhunting produced the religious concept of *keter*, understood as a “soul/spirit substance” and associated with courage, eloquence, virility and fertility. The practice of headhunting and the state of permanent internal warfare declined during the *Pax Neerlandica* of formal Dutch colonisation.
 

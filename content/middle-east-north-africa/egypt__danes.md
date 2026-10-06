@@ -7,7 +7,7 @@ tags: [ethnography, middle-east-north-africa]
 
 ## Overview
 
-The Danes (*danskere*) are an ethnic group and nationality native to Denmark. Their connection with Denmark may be ancestral, legal, historical, or cultural. Danish identity is associated with the Danish language, identification of Denmark as a homeland, and cultural ties to other Scandinavian nations. The sources describe Danes primarily in relation to Denmark and Danish diaspora communities rather than Egypt: they mention Denmark, Southern Schleswig, the United States, Brazil, Canada, Greenland, Peru, and Argentina, but provide no information about a Danish population in Egypt, a specific Egyptian settlement area, or a Danish presence in the Middle East North Africa region.
+The Danes (*danskere*) are an ethnic group and nationality native to Denmark. Their connection with Denmark may be ancestral, legal, historical, or cultural. Danish identity is associated with the Danish language, identification of Denmark as a homeland, and cultural ties to other Scandinavian nations.
 
 ## Material culture
 
@@ -17,11 +17,11 @@ The Danes (*danskere*) are an ethnic group and nationality native to Denmark. Th
 
 ## Festivals & rituals
 
- They do state that the Reformation had a considerable impact on Denmark, that the Danish Reformation began in the mid-1520s, and that Denmark became a constitutional monarchy on 5 June 1849, but these historical statements do not document folk festivals or ritual practice. The sources also state that Harald Bluetooth’s conversion of the Danes to Christianity was recorded on the Jelling Rune Stone in the 10th century.
+They do state that the Reformation had a considerable impact on Denmark, that the Danish Reformation began in the mid-1520s, and that Denmark became a constitutional monarchy on 5 June 1849, but these historical statements do not document folk festivals or ritual practice. The sources also state that Harald Bluetooth’s conversion of the Danes to Christianity was recorded on the Jelling Rune Stone in the 10th century.
 
 ## Oral tradition & literature
 
- They state that, in the early 16th century, the Reformation originated in the German lands from the ideas of Martin Luther, and that Hans Mikkelsen and Christiern Pedersen translated the New Testament into Danish in 1524, after which it became an instant best-seller.
+They state that, in the early 16th century, the Reformation originated in the German lands from the ideas of Martin Luther, and that Hans Mikkelsen and Christiern Pedersen translated the New Testament into Danish in 1524, after which it became an instant best-seller.
 
 ## Language & religion
 

@@ -13,7 +13,7 @@ The Barasana are a Tucanoan people living in the eastern part of the Amazon Basi
 
 ### Clothing & dress
 
- They state that ritual ornaments were destroyed during missionary campaigns and that secret masks were displayed to women and children, who had previously been forbidden to look at them.
+They state that ritual ornaments were destroyed during missionary campaigns and that secret masks were displayed to women and children, who had previously been forbidden to look at them.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ Barasana families live in isolated settlements in multifamily longhouses. The so
 
 ### Ceramics, metalwork & everyday objects
 
- They mention blowguns and shotguns in connection with hunting, and beeswax in connection with ceremonial use.
+They mention blowguns and shotguns in connection with hunting, and beeswax in connection with ceremonial use.
 
 ### Jewelry & body adornment
 
- They mention ritual ornaments and secret masks in accounts of missionary suppression of Yurupari practices.
+They mention ritual ornaments and secret masks in accounts of missionary suppression of Yurupari practices.
 
 ## Music & performance
 
@@ -39,7 +39,7 @@ The sources name dancers and chanters as the ritual role of the Rasegana sib and
 
 ## Festivals & rituals
 
- They describe Yurupari rites as central ceremonial practices and state that these rituals contributed to the separation of men and women. The Barasana have seven exogamous phratries and five sibs, traditionally descended from the Yebi Meni Anaconda people and assigned distinct ritual functions.
+They describe Yurupari rites as central ceremonial practices and state that these rituals contributed to the separation of men and women. The Barasana have seven exogamous phratries and five sibs, traditionally descended from the Yebi Meni Anaconda people and assigned distinct ritual functions.
 
 The sources also describe jaguar shamanism and messianic shamanism. Messianic shamanism declined with the establishment of Catholic missions in the first decades of the 20th century. Missionary campaigns caused ceremonial houses to be burnt, ritual ornaments to be destroyed, and secret masks to be shown to women and children.
 

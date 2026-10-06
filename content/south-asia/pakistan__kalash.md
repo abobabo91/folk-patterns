@@ -25,11 +25,11 @@ Kalasha women usually wear long black robes, often decorated with cowrie shells.
 
 ### Architecture
 
- They do describe the *bashaleni*, a village menstrual building where menstruating girls and women live until they regain their “purity,” and the *Jēṣṭak-hān*, a shrine or temple to the lineal or familial goddess Jēṣṭak.
+They do describe the *bashaleni*, a village menstrual building where menstruating girls and women live until they regain their “purity,” and the *Jēṣṭak-hān*, a shrine or temple to the lineal or familial goddess Jēṣṭak.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden and stone ritual objects: Mahandeo shrines are wooden boards with four carved horse heads, while Sajigor’s altars are made of stone and stand beneath old juniper, oak and cedar trees. The sources also mention grinding mills powered by the rivers of the valleys and irrigation channels used to water agricultural fields.
+They do describe wooden and stone ritual objects: Mahandeo shrines are wooden boards with four carved horse heads, while Sajigor’s altars are made of stone and stand beneath old juniper, oak and cedar trees. The sources also mention grinding mills powered by the rivers of the valleys and irrigation channels used to water agricultural fields.
 
 ### Jewelry & body adornment
 

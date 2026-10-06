@@ -15,11 +15,11 @@ The sources describe the Budukhs as overwhelmingly Sunni Muslims. They state tha
 
 ## Foodways
 
- They state that Budukhs traditionally raise sheep and cattle and practise limited farming, mainly cultivating barley and rye.
+They state that Budukhs traditionally raise sheep and cattle and practise limited farming, mainly cultivating barley and rye.
 
 ## Oral tradition & literature
 
- The available linguistic material includes *Budad mez*, a Budukh name for the Budukh language. The sources also mention the *Buduq Picture Dictionary*, published by Adigözəl Hacıyev in 2017, and the *Budud dili* school manual, published by Adigözəl Hacıyev in 2025.
+The available linguistic material includes *Budad mez*, a Budukh name for the Budukh language. The sources also mention the *Buduq Picture Dictionary*, published by Adigözəl Hacıyev in 2017, and the *Budud dili* school manual, published by Adigözəl Hacıyev in 2025.
 
 ## Language & religion
 

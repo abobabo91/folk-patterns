@@ -11,15 +11,15 @@ The Ubykh are one of the Circassian tribes and historically inhabited the easter
 
 ## Music & performance
 
- They do record that substantial portions of Ubykh oral literature and some cycles of the Nart saga were transcribed, and that many audio recordings were collected before the language died out. External documentation includes narrations by Tevfik Esenç and recordings associated with Ubykh speech.
+They do record that substantial portions of Ubykh oral literature and some cycles of the Nart saga were transcribed, and that many audio recordings were collected before the language died out. External documentation includes narrations by Tevfik Esenç and recordings associated with Ubykh speech.
 
 ## Festivals & rituals
 
- They state that some Ubykh practiced favomancy and scapulimancy. Ubykh society was patrilineal, and Ubykh descendants may know five, six, or even seven generations of agnatic ancestry. Women were especially venerated, and the language retained a special second-person pronoun prefix used exclusively with women, *χa-*.
+They state that some Ubykh practiced favomancy and scapulimancy. Ubykh society was patrilineal, and Ubykh descendants may know five, six, or even seven generations of agnatic ancestry. Women were especially venerated, and the language retained a special second-person pronoun prefix used exclusively with women, *χa-*.
 
 ## Foodways
 
- The Ubykh language article includes translated examples involving eating, drinking, milk, and reaping, but these linguistic examples do not describe Ubykh cuisine.
+The Ubykh language article includes translated examples involving eating, drinking, milk, and reaping, but these linguistic examples do not describe Ubykh cuisine.
 
 ## Oral tradition & literature
 

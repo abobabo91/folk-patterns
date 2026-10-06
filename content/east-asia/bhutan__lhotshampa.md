@@ -25,7 +25,7 @@ The Lhotshampa are predominantly Hindu and Buddhist. Most abstain from beef, par
 
 ## Oral tradition & literature
 
- They identify Dilliram Sharma Acharya as a Bhutanese poet in the Nepali language.
+They identify Dilliram Sharma Acharya as a Bhutanese poet in the Nepali language.
 
 ## Language & religion
 

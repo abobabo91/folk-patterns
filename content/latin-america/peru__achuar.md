@@ -13,7 +13,7 @@ The Achuar are an Indigenous people of the Americas whose territory lies along t
 
 ### Clothing & dress
 
- They state that the Achuar use tools associated with hunting, including blowguns and traps.
+They state that the Achuar use tools associated with hunting, including blowguns and traps.
 
 ### Architecture
 
@@ -23,11 +23,11 @@ The domestic household usually consists of a nuclear family and may include clos
 
 ### Ceramics, metalwork & everyday objects
 
- They describe hunting tools including blowguns and traps, wooden handiwork, and canoes or canoe-like forms. A deceased person is traditionally placed in a hollowed-out log resembling a canoe. The sources also mention baskets and lines used for fishing, palm materials used in house construction, and manioc beer consumed in domestic and social settings.
+They describe hunting tools including blowguns and traps, wooden handiwork, and canoes or canoe-like forms. A deceased person is traditionally placed in a hollowed-out log resembling a canoe. The sources also mention baskets and lines used for fishing, palm materials used in house construction, and manioc beer consumed in domestic and social settings.
 
 ### Jewelry & body adornment
 
- They do state that saliva is publicly exposed while other bodily expressions are controlled, and that mouths are covered when speaking in certain social situations. Female saliva is associated with the fermentation of manioc beer, while male saliva is socially incorporated into conversation.
+They do state that saliva is publicly exposed while other bodily expressions are controlled, and that mouths are covered when speaking in certain social situations. Female saliva is associated with the fermentation of manioc beer, while male saliva is socially incorporated into conversation.
 
 ## Music & performance
 

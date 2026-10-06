@@ -35,7 +35,7 @@ Eight Sounds ensembles typically perform at Hakka weddings, religious and temple
 
 ## Dance & theatre
 
- They mention opera performance as one activity associated with the Liudui Sports Game festival in Taiwan.
+They mention opera performance as one activity associated with the Liudui Sports Game festival in Taiwan.
 
 ## Festivals & rituals
 

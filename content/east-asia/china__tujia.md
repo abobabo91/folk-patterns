@@ -15,11 +15,9 @@ The Tujia are an officially recognized ethnic group in China whose population wa
 
 **Xilankapu** — *Xilankapu* is a richly patterned Tujia brocade. The source describes it as a product that formerly figured regularly in tribute payments to the Chinese court and identifies exquisite Tujia brocade with the lowland Tujia tradition.
 
-No motifs are named in the sources.
-
 ### Ceramics, metalwork & everyday objects
 
- They do state that mountain Tujia households formerly commonly owned hunting rifles and that caravan transport and trade were once widespread among them.
+They do state that mountain Tujia households formerly commonly owned hunting rifles and that caravan transport and trade were once widespread among them.
 
 ## Music & performance
 

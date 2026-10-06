@@ -17,11 +17,11 @@ Traditional Sirionó houses were often temporary structures made with wooden sup
 
 ## Music & performance
 
- A whistled language has been observed among Sirionós. The available language record states that Sirionó is spoken in eastern Bolivia, including eastern Beni and northwestern Santa Cruz, in the village of Ibiato (Eviato), along the Río Blanco, and in farms and ranches. The first grammar of Sirionó was *Gramática de la lengua sirionó*, published in 1949 and written by Anselmo Schermair. Homer Firestone’s *Description and Classification of Sirionó* followed in 1965.
+A whistled language has been observed among Sirionós. The available language record states that Sirionó is spoken in eastern Bolivia, including eastern Beni and northwestern Santa Cruz, in the village of Ibiato (Eviato), along the Río Blanco, and in farms and ranches. The first grammar of Sirionó was *Gramática de la lengua sirionó*, published in 1949 and written by Anselmo Schermair. Homer Firestone’s *Description and Classification of Sirionó* followed in 1965.
 
 ## Festivals & rituals
 
- The historical sources state that Jesuits later tried to missionize the Sirionó and persuade them to lead sedentary lives.
+The historical sources state that Jesuits later tried to missionize the Sirionó and persuade them to lead sedentary lives.
 
 ## Foodways
 
@@ -29,7 +29,7 @@ Sirionó people traditionally lived a semi-nomadic life that included fishing, h
 
 ## Oral tradition & literature
 
- The language is taught in primary schools, and the sources list a Sirionó dictionary online from IDS.
+The language is taught in primary schools, and the sources list a Sirionó dictionary online from IDS.
 
 ## Language & religion
 

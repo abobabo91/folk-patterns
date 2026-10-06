@@ -31,7 +31,7 @@ Kayapó villages typically consist of a dozen huts. A centrally located hut serv
 
 ### Ceramics, metalwork & everyday objects
 
- They mention wooden disks worn in the lower lips, machetes carried during the Altamira demonstration, and sheaths traditionally worn by men.
+They mention wooden disks worn in the lower lips, machetes carried during the Altamira demonstration, and sheaths traditionally worn by men.
 
 ### Jewelry & body adornment
 
@@ -47,7 +47,7 @@ Kayapo dances are mentioned as part of traditional war oratory and as a means of
 
 ## Festivals & rituals
 
- They do describe naming ceremonies and a life-cycle transition. Kayapó children participate in a naming ceremony when they come of age and wear large yellow headdresses during it. The Kayapo value beautiful names, which are understood as signs of wealth. A village may move and reconstruct its camp to find the materials needed for the ceremony, including sufficient food for the celebration, which must be gathered and presented to the newborn’s father.
+They do describe naming ceremonies and a life-cycle transition. Kayapó children participate in a naming ceremony when they come of age and wear large yellow headdresses during it. The Kayapo value beautiful names, which are understood as signs of wealth. A village may move and reconstruct its camp to find the materials needed for the ceremony, including sufficient food for the celebration, which must be gathered and presented to the newborn’s father.
 
 The sources also describe traditional war oratory and dances used during political resistance, particularly at the Altamira Gathering.
 

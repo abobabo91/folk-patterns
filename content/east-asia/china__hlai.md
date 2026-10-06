@@ -13,15 +13,15 @@ The Hlai, also known as Li or Lizu, are a Kra–Dai-speaking ethnic group offici
 
 ### Clothing & dress
 
- They do record that Hlai women tattooed their arms and backs after reaching a certain age, and that some Hlai people historically shaved their heads in connection with incorporation into regular citizenship.
+They do record that Hlai women tattooed their arms and backs after reaching a certain age, and that some Hlai people historically shaved their heads in connection with incorporation into regular citizenship.
 
 ### Architecture
 
- Historical accounts state that some Hlai villages had no walls and that people took refuge in mountains and narrow passes.
+Historical accounts state that some Hlai villages had no walls and that people took refuge in mountains and narrow passes.
 
 ### Ceramics, metalwork & everyday objects
 
- They describe bamboo objects used in transactions: the Hlai split bamboo into three parts and carved the price and amount of “hill” land onto it, with the two parties and a mediator each keeping one part as proof. The sources also describe grain tied up and hung over stoves, where smoke cured it for later consumption.
+They describe bamboo objects used in transactions: the Hlai split bamboo into three parts and carved the price and amount of “hill” land onto it, with the two parties and a mediator each keeping one part as proof. The sources also describe grain tied up and hung over stoves, where smoke cured it for later consumption.
 
 ### Jewelry & body adornment
 
@@ -49,7 +49,7 @@ The sources state that the Hlai had no markets and no sellers of grain. Poor peo
 
 Hlai oral tradition includes origin legends concerning the descent of the people from a woman and an animal. Clans were said to have originated through the marriage of a woman and an animal, with the snake especially prominent. The stories of Limu, the “mother of the Li,” connect the Hlai to Leigong, Li Mountain, wild fruits, trees, and the descendants who became the Hlai. Other animal figures in Hlai tradition include the dog, ox, *najiaxila* bird, dragon, and cat.
 
- A Qing dynasty report dated 1756 stated that the Hlai did not have a writing system.
+A Qing dynasty report dated 1756 stated that the Hlai did not have a writing system.
 
 ## Language & religion
 

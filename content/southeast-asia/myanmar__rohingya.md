@@ -17,7 +17,7 @@ The sources mention the Santikan Mosque, built in the 1430s in Arakan. Its court
 
 ## Music & performance
 
- The Rohingya language article provides linguistic examples, including writing, letters and speech.
+The Rohingya language article provides linguistic examples, including writing, letters and speech.
 
 ## Festivals & rituals
 
@@ -25,11 +25,11 @@ The Rohingya are described as predominantly following Islam. The sources do reco
 
 ## Foodways
 
- They do mention agriculture and paddy fields in historical accounts of Arakan, including the use of migrant labour in the paddy fields during British colonial rule.
+They do mention agriculture and paddy fields in historical accounts of Arakan, including the use of migrant labour in the paddy fields during British colonial rule.
 
 ## Oral tradition & literature
 
- They do mention written and literary activity in historical and linguistic contexts. Alaol is identified as a renowned poet in the Arakanese court, where Bengali, Persian and Arabic scribes were employed. The Rohingya language article also gives examples of written sentences and identifies forms relating to writing, writers and writing tools.
+They do mention written and literary activity in historical and linguistic contexts. Alaol is identified as a renowned poet in the Arakanese court, where Bengali, Persian and Arabic scribes were employed. The Rohingya language article also gives examples of written sentences and identifies forms relating to writing, writers and writing tools.
 
 ## Language & religion
 

@@ -23,11 +23,11 @@ In summer, families lived in raised houses called *pehm* or *pehmy*. The Cossack
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe tools and storage objects. Women made mats, bags, baskets, and boxes from grass for storage and transportation. Women also cut straw with bone sickles made from bear shoulder blades. The sources mention wooden construction, including beams, rafters, walls, and the woodwork carried out by men.
+They do describe tools and storage objects. Women made mats, bags, baskets, and boxes from grass for storage and transportation. Women also cut straw with bone sickles made from bear shoulder blades. The sources mention wooden construction, including beams, rafters, walls, and the woodwork carried out by men.
 
 ## Festivals & rituals
 
- They do describe religious beliefs and a yearly practice connected with the devil Kamma. Kamma was said to live in a tree outside Nizhnoi village, and the tree was annually shot with arrows.
+They do describe religious beliefs and a yearly practice connected with the devil Kamma. Kamma was said to live in a tree outside Nizhnoi village, and the tree was annually shot with arrows.
 
 The Itelmens subscribed to a polytheistic religion. The creative god was called *Kutka* or *Kutga*. He was regarded as the creator of all things, although Steller described a lack of veneration for him. The Itelmens attributed life’s difficulties to his stupidity and scolded or cursed him. Kutka was believed to be married to Chachy, an intelligent woman who corrected him and prevented much foolishness. He was said to have lived on the greatest rivers of the Kamchatka Peninsula and to have left a son and daughter for each river. They state that many Itelmens later accepted baptism into the Russian Orthodox Church, while animism remained widespread in practice.
 
@@ -41,7 +41,7 @@ Women prepared the whole fish supply except fermented fish and dog food, which w
 
 ## Oral tradition & literature
 
- Georg Wilhelm Steller provided one of the few sources describing the Itelmens before assimilation.
+Georg Wilhelm Steller provided one of the few sources describing the Itelmens before assimilation.
 
 They do state that the Itelmen language is the subject of revival attempts. By 1993, fewer than 100 elderly speakers remained, while the 1989 census recorded that fewer than one Itelmen in five could speak the language.
 
@@ -54,4 +54,3 @@ Itelmen religion was polytheistic. The Itelmens worshiped spirits including Mitg
 ## Sources & further reading
 
 - Wikipedia, “Itelmens”: https://en.wikipedia.org/wiki/Itelmens
-- UNESCO Intangible Cultural Heritage inscriptions: the sources used identify no relevant inscription.

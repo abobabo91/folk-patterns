@@ -33,11 +33,11 @@ Beads are the primary adornment of the Tingguians and signify wealth. Women’s 
 
 ## Music & performance
 
- They do identify copper gongs called *gangsa* as possessions associated with social standing. Music-specific information beyond this instrument name is not covered by the sources used.
+They do identify copper gongs called *gangsa* as possessions associated with social standing. Music-specific information beyond this instrument name is not covered by the sources used.
 
 ## Festivals & rituals
 
- They describe ceremonies and life-cycle practices. Wealth and material possessions help determine a family’s or person’s social standing, as well as the hosting of feasts and ceremonies. Shamans form a distinct group only during ceremonial periods. The *say-ang* ceremony is associated with the construction of *balawa*, a spirit structure. Sugarcane wine called *basi* is usually consumed during traditional rituals and ceremonies, and pigs, chickens, and carabaos may be used for food or religious rituals.
+They describe ceremonies and life-cycle practices. Wealth and material possessions help determine a family’s or person’s social standing, as well as the hosting of feasts and ceremonies. Shamans form a distinct group only during ceremonial periods. The *say-ang* ceremony is associated with the construction of *balawa*, a spirit structure. Sugarcane wine called *basi* is usually consumed during traditional rituals and ceremonies, and pigs, chickens, and carabaos may be used for food or religious rituals.
 
 Marriage is arranged by parents, usually between distant relatives. Parents select a bride for their son when he is six to eight years old. If the proposal is accepted, beads are tied around the girl’s waist as a sign of engagement. A bride price, *pakalon*, is paid to the bride’s family, initially and again during the actual wedding. No celebration accompanies the wedding, and guests leave immediately after the ceremony. The dead are cleaned and adorned for the journey to *maglawa*, the Itneg afterlife. During the wake, the corpse is placed in a death chair called *sangadel*. Head-hunting was stopped through peace pacts called *kalon*.
 
@@ -47,7 +47,7 @@ Rice is extensively grown, using wet-rice cultivation and swidden, or *kaingin*,
 
 ## Oral tradition & literature
 
- They mention *kadawyan*, custom-based justice, and trial by ordeal, but provide no further account of oral literature.
+They mention *kadawyan*, custom-based justice, and trial by ordeal, but provide no further account of oral literature.
 
 ## Language & religion
 

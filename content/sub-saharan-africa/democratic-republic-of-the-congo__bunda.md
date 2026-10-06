@@ -11,7 +11,7 @@ The Bunda people, also known as Ambuun and Mbuun, are an ethnic group who mostly
 
 ## Music & performance
 
- The Wikipedia article includes an external-link reference titled “Idiofa: Musique Traditionelle Bunda,”.
+The Wikipedia article includes an external-link reference titled “Idiofa: Musique Traditionelle Bunda,”.
 
 ## Foodways
 

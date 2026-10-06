@@ -17,7 +17,7 @@ The Atacama people, also called Atacameño, are an Indigenous people of the Atac
 
 ### Clothing & dress
 
- They state only that Atacameño livestock supplied wool, as well as meat and hide, and that the historical museum collection contains textiles.
+They state only that Atacameño livestock supplied wool, as well as meat and hide, and that the historical museum collection contains textiles.
 
 ### Architecture
 
@@ -29,15 +29,15 @@ The Atacameños developed ceramic crafts, copper work and gold work. Copper was 
 
 ### Jewelry & body adornment
 
-The sources state that golden jewelry was produced during the first ceramic period, between 400 AD and 900 AD. They also record gold work and copper work among Atacameño material practices. No further jewelry types, body-adornment practices, tattoos, hair practices or ritual adornment are documented in the sources used.
+The sources state that golden jewelry was produced during the first ceramic period, between 400 AD and 900 AD. They also record gold work and copper work among Atacameño material practices.
 
 ## Music & performance
 
- They describe smoking ceremonies as a central part of religious culture. Finely carved tablets held a substance that was inhaled through wooden or bone tubes, and the ceremonies were believed to bring humans closer to the gods, allowing the smoker to take on the power of birds, cats or snakes.
+They describe smoking ceremonies as a central part of religious culture. Finely carved tablets held a substance that was inhaled through wooden or bone tubes, and the ceremonies were believed to bring humans closer to the gods, allowing the smoker to take on the power of birds, cats or snakes.
 
 ## Festivals & rituals
 
- They describe religious practices associated with smoking hallucinogenic substances. Smoking ceremonies were believed to bring humans closer to the gods and to allow the smoker to take on the power of birds, cats or snakes. The Atacameños adopted the Inca sun cult and constructed altars in high places, especially on Licancabur volcano, which was considered sacred and the home of their many gods.
+They describe religious practices associated with smoking hallucinogenic substances. Smoking ceremonies were believed to bring humans closer to the gods and to allow the smoker to take on the power of birds, cats or snakes. The Atacameños adopted the Inca sun cult and constructed altars in high places, especially on Licancabur volcano, which was considered sacred and the home of their many gods.
 
 The sources also state that the Atacameños believed in life after death and buried their dead with all the necessary belongings needed for the journey. In historical accounts, the Atacameño Tomás Paniri joined uprisings led by the Peruvian Túpac Amaru II and the Bolivian Túpac Katari in the 18th century.
 
@@ -49,7 +49,7 @@ They also ate meat from their livestock and obtained fish and shellfish from coa
 
 ## Oral tradition & literature
 
- They record historical figures and events, including Tomás Paniri’s participation in 18th-century uprisings led by Túpac Amaru II and Túpac Katari.
+They record historical figures and events, including Tomás Paniri’s participation in 18th-century uprisings led by Túpac Amaru II and Túpac Katari.
 
 ## Language & religion
 

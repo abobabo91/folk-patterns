@@ -21,7 +21,7 @@ The sources state that Tamang tradition includes distinct dress.
 
 ### Ceramics, metalwork & everyday objects
 
- They identify the *damphu* as a distinctive musical instrument: a small, round drum covered with goatskin.
+They identify the *damphu* as a distinctive musical instrument: a small, round drum covered with goatskin.
 
 ## Music & performance
 
@@ -51,7 +51,7 @@ The sources mention Jyoti Prakash Tamang as an Indian microbiologist known for w
 
 Tamang oral history is described in connection with conflict and displacement. It says that the local chief Rinjen Dorje was killed by the Gorkhas after Prithvi Narayan Shah attacked the Tamangs in Temal in 1762. It also states that Gorkhali forces hid their weapons in the sand on the Sunkoshi riverbank before attacking Tamang forces, and that the Gorkhas later washed their weapons in springs at Dapcha Kuwapani. According to the source, this is why modern-day Tamangs do not drink there. Similar stories appear in oral histories throughout the region.
 
-The sources also state that Tamang genealogists called *Tamba* sing *Hwai*, ritualistic songs that are important in Tamang rituals. No named Tamang epic, folktale cycle, proverb collection, riddle tradition, literary canon or contemporary literary revival is documented in the sources used.
+The sources also state that Tamang genealogists called *Tamba* sing *Hwai*, ritualistic songs that are important in Tamang rituals.
 
 ## Language & religion
 

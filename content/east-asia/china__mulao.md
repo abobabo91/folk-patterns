@@ -21,15 +21,15 @@ Mulao homes are made of clay and have brick roofs. They are composed of three ro
 
 ### Jewelry & body adornment
 
- They document only the arrangement of women’s hair: two tresses for single women and a tuft after marriage.
+They document only the arrangement of women’s hair: two tresses for single women and a tuft after marriage.
 
 ## Music & performance
 
- They mention shamans only in connection with ceremonies held during the dragon boat festival, when ceremonies were carried out to assure good crop harvests and expel harmful insects. No instrument, song, dance, or musical style is named.
+They mention shamans only in connection with ceremonies held during the dragon boat festival, when ceremonies were carried out to assure good crop harvests and expel harmful insects. No instrument, song, dance, or musical style is named.
 
 ## Dance & theatre
 
- The only documented ceremonial performance context is the dragon boat festival, during which shamans carried out ceremonies connected with harvests and harmful insects.
+The only documented ceremonial performance context is the dragon boat festival, during which shamans carried out ceremonies connected with harvests and harmful insects.
 
 ## Festivals & rituals
 
@@ -41,11 +41,11 @@ Marriage was traditionally arranged by parents. New wives traditionally did not 
 
 ## Foodways
 
- They mention animal sacrifices at the Yifan festival.
+They mention animal sacrifices at the Yifan festival.
 
 ## Oral tradition & literature
 
- The sources mention only the Mulam language and its use of Hanzi, or Chinese characters, when written.
+The sources mention only the Mulam language and its use of Hanzi, or Chinese characters, when written.
 
 ## Language & religion
 
@@ -58,4 +58,3 @@ Traditionally, the Mulao were mostly animists. Religion no longer plays a signif
 - Ramsey, S. Robert. *The Languages of China*. Princeton University Press, Princeton New Jersey, 1987.
 - [Mulao people — Wikipedia](https://en.wikipedia.org/wiki/Mulao_people)
 - [Mulao language — Wikipedia](https://en.wikipedia.org/wiki/Mulao_language)
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription for this group.

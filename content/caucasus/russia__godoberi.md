@@ -13,19 +13,19 @@ The Godoberi (Godoberi: *гъибдилъи*, Ghibdilhi; Russian: *годобе�
 
 ### Textile & pattern traditions
 
- They state only that handicrafts formed part of the traditional economy.
+They state only that handicrafts formed part of the traditional economy.
 
 ### Clothing & dress
 
- They state that Godoberi livelihoods included farming, livestock breeding, handicrafts, and trade with neighboring mountain communities.
+They state that Godoberi livelihoods included farming, livestock breeding, handicrafts, and trade with neighboring mountain communities.
 
 ### Architecture
 
- They characterize the homeland as a region of steep mountain valleys and isolated settlements and state that traditional villages were connected by mountain routes.
+They characterize the homeland as a region of steep mountain valleys and isolated settlements and state that traditional villages were connected by mountain routes.
 
 ### Ceramics, metalwork & everyday objects
 
- Livestock provided food, materials, and a form of household wealth, but no specific objects or production techniques are identified.
+Livestock provided food, materials, and a form of household wealth, but no specific objects or production techniques are identified.
 
 ## Music & performance
 
@@ -33,11 +33,11 @@ Godoberi cultural traditions include songs, music, oral poetry, and traditional 
 
 ## Festivals & rituals
 
- They state that most Godoberi are Sunni Muslims and that religious life historically combined Islamic practices with local customs and social institutions. Islamic law (*Sharia*) existed alongside customary law (*adat*), while local village structures remained influential in everyday social organization. Under the Caucasian Imamate, Islamic institutions gained increased political importance under Imam Shamil. Under Soviet rule, religious activity was restricted, many mosques were closed, and religious education was suppressed. After the collapse of the Soviet Union, Islamic practice experienced a revival throughout Dagestan, including among the Godoberi.
+They state that most Godoberi are Sunni Muslims and that religious life historically combined Islamic practices with local customs and social institutions. Islamic law (*Sharia*) existed alongside customary law (*adat*), while local village structures remained influential in everyday social organization. Under the Caucasian Imamate, Islamic institutions gained increased political importance under Imam Shamil. Under Soviet rule, religious activity was restricted, many mosques were closed, and religious education was suppressed. After the collapse of the Soviet Union, Islamic practice experienced a revival throughout Dagestan, including among the Godoberi.
 
 ## Foodways
 
- Traditional economic activities included cultivation of grain crops and vegetables, sheep and cattle breeding, horticulture, handicrafts, and trade with neighboring mountain communities. Livestock provided food, materials, and household wealth.
+Traditional economic activities included cultivation of grain crops and vegetables, sheep and cattle breeding, horticulture, handicrafts, and trade with neighboring mountain communities. Livestock provided food, materials, and household wealth.
 
 ## Oral tradition & literature
 

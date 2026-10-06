@@ -27,7 +27,7 @@ Ao women traditionally weave shawls, sling bags, headgears, and wraparound garme
 
 ### Architecture
 
- They state that wood carvings of human beings, hornbill, mithun head, elephants, tiger, and other animals are displayed at village-gate entrances, front doors, or house porches.
+They state that wood carvings of human beings, hornbill, mithun head, elephants, tiger, and other animals are displayed at village-gate entrances, front doors, or house porches.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -39,7 +39,7 @@ Traditional ornaments are worn by both men and women, especially during festive 
 
 ## Music & performance
 
-The sources mention singing, dancing, and feasting as activities associated with the Tsüngremmong Festival, which is celebrated after the harvest. No further music tradition is documented in the supplied sources.
+The sources mention singing, dancing, and feasting as activities associated with the Tsüngremmong Festival, which is celebrated after the harvest.
 
 ## Dance & theatre
 
@@ -58,10 +58,6 @@ Traditional Ao religion is described as animist, with benevolent and malicious s
 Traditional Ao cuisine is characteristically non-vegetarian. Food is preferably cooked by boiling rather than frying. Pork is the most popular meat and is mostly cooked with fermented bamboo shoots. Local herbal ingredients and spices enhance food flavours, and Ao cuisine tends to be spicy.
 
 *Anishi* is identified as a signature Ao food. It is a dried paste made from taro leaves and gives dishes a distinct smoky flavour and deep black colour.
-
-## Oral tradition & literature
-
- They identify Temsüla Ao as a writer and ethnographer, but provide no information about her works or about contemporary literary preservation efforts.
 
 ## Language & religion
 

@@ -27,11 +27,11 @@ The museum catalogue records supplied contain no objects.
 
 ### Jewelry & body adornment
 
- They do describe former facial tattooing among women, beginning when they reached the age of twelve or thirteen. Some women’s tattoos resembled masculine mustaches.
+They do describe former facial tattooing among women, beginning when they reached the age of twelve or thirteen. Some women’s tattoos resembled masculine mustaches.
 
 ## Music & performance
 
- They do state that Derung religious life gives an important role to the shaman, who is responsible for rituals. During the **Derung New Year**, diverse animal sacrifices are made as offerings to the sky.
+They do state that Derung religious life gives an important role to the shaman, who is responsible for rituals. During the **Derung New Year**, diverse animal sacrifices are made as offerings to the sky.
 
 ## Festivals & rituals
 
@@ -41,7 +41,7 @@ Derung religious practice is described as animist. Although some Derung have con
 
 ## Foodways
 
- The historical account states that the Derung Valley was known by Tibetans as Changyul or Kiongyul, meaning the “valley of beer,” because Derung people enjoy drinking. No further information about beer, its preparation, or its ritual use is supplied.
+The historical account states that the Derung Valley was known by Tibetans as Changyul or Kiongyul, meaning the “valley of beer,” because Derung people enjoy drinking. No further information about beer, its preparation, or its ritual use is supplied.
 
 ## Oral tradition & literature
 

@@ -13,7 +13,7 @@ The Aragonese are a Romance people who self-identify with the historical region 
 
 ### Architecture
 
- They locate Aragonese language use in the Pyrenees valleys, mountain ranges, rural areas, and towns including Huesca, Graus, Monzón, Barbastro, Bielsa, Chistén, Fonz, Echo, Estadilla, Benasque, Campo, Sabiñánigo, Jaca, Plan, Ansó, Ayerbe, Broto, and El Grado, but provide no architectural descriptions.
+They locate Aragonese language use in the Pyrenees valleys, mountain ranges, rural areas, and towns including Huesca, Graus, Monzón, Barbastro, Bielsa, Chistén, Fonz, Echo, Estadilla, Benasque, Campo, Sabiñánigo, Jaca, Plan, Ansó, Ayerbe, Broto, and El Grado, but provide no architectural descriptions.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -29,7 +29,7 @@ Other genres of traditional Aragonese music named in the source are **albadas** 
 
 ## Dance & theatre
 
-The Jota is both a musical style and a dance. The source states that it is danced in Aragon and in most regions of Spain. No further choreography, ceremonial distinction, theatrical form, masked performance, or dramatic tradition is described in the sources used.
+The Jota is both a musical style and a dance. The source states that it is danced in Aragon and in most regions of Spain.
 
 ## Festivals & rituals
 

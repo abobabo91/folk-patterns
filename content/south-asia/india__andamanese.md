@@ -41,11 +41,11 @@ The sources document body painting and women’s leaf clothing.
 
 ## Music & performance
 
- They record that the Andamanese languages are divided into Great Andamanese and Ongan, with Sentinelese and Jangil treated as unattested languages.
+They record that the Andamanese languages are divided into Great Andamanese and Ongan, with Sentinelese and Jangil treated as unattested languages.
 
 ## Dance & theatre
 
- They mention religious beliefs, ancestor worship, mythology, and body painting.
+They mention religious beliefs, ancestor worship, mythology, and body painting.
 
 ## Festivals & rituals
 

@@ -47,7 +47,7 @@ The sources also describe *yotojoro* construction, cactus wood, hammocks, purses
 
 ### Jewelry & body adornment
 
- They mention crocheted bracelets and the practice of shaving girls’ heads during puberty seclusion.
+They mention crocheted bracelets and the practice of shaving girls’ heads during puberty seclusion.
 
 ## Music & performance
 

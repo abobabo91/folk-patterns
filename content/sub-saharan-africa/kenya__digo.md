@@ -13,7 +13,7 @@ The Digo, or Wadigo in Swahili, are a Bantu ethnic and linguistic group living a
 
 ### Textile & pattern traditions
 
-*Lesso* — a pair of cloth wraps, one worn as an outer skirt and the other as a head scarf or veil. The source describes the ability to afford new lesso twice a month as a marker of fashion and prestige, but gives no account of weaving, dyeing, or named patterns.
+*Lesso* — a pair of cloth wraps, one worn as an outer skirt and the other as a head scarf or veil.
 
 No other documented textile or pattern-bearing tradition is covered by the sources used.
 
@@ -27,29 +27,29 @@ The Digo historically lived in *kaya* towns and villages, later dispersing into 
 
 ### Ceramics, metalwork & everyday objects
 
- They describe land, coconut trees, farms, and agricultural activity.
+They describe land, coconut trees, farms, and agricultural activity.
 
 ### Jewelry & body adornment
 
- They mention the lesso as clothing and a head scarf or veil, but provide no further description of adornment.
+They mention the lesso as clothing and a head scarf or veil, but provide no further description of adornment.
 
 ## Music & performance
 
- They mention religious ceremonies, sacrifices, weddings, funerals, and communal practices.
+They mention religious ceremonies, sacrifices, weddings, funerals, and communal practices.
 
 ## Dance & theatre
 
- They state only that kayas served as religious and ceremonial sites and that Digo society included communal religious practices.
+They state only that kayas served as religious and ceremonial sites and that Digo society included communal religious practices.
 
 ## Festivals & rituals
 
- They describe religious ceremonies and sacrifices connected with kayas, fields, the Spirits, and God. In accounts of agricultural movement, men went to the kaya, offered sacrifices to the Spirits, informed them of the decision, and asked God for favorable signs and blessings for the fields.
+They describe religious ceremonies and sacrifices connected with kayas, fields, the Spirits, and God. In accounts of agricultural movement, men went to the kaya, offered sacrifices to the Spirits, informed them of the decision, and asked God for favorable signs and blessings for the fields.
 
 The sources also discuss weddings and funerals as important social obligations. Digo society recognizes three types of marriage: the “Digo wedding,” the “Cattle Wedding,” and the “Swahili or Muslim Wedding.” The majority of women are now married in Muslim weddings, which came to be associated with high prestige. Attending weddings and funerals, regardless of distance or time required, is described as an important aspect of status.
 
 ## Foodways
 
- They state that the Digo economy was based mainly on agriculture and that annual crops were planted in particular locations before land was left fallow and later cultivated again. Coconut trees were important and remained the exclusive property of particular people or clans.
+They state that the Digo economy was based mainly on agriculture and that annual crops were planted in particular locations before land was left fallow and later cultivated again. Coconut trees were important and remained the exclusive property of particular people or clans.
 
 The sources mention seafood in connection with nearby Swahili villages with nautical populations. They also state that game and pig were among the most important food options in conflicts over changing dietary rules after conversion to Islam. Islamic conversion altered how people ate, and the Digo are described as nearly all Muslim.
 

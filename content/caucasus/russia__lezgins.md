@@ -47,7 +47,7 @@ The sources name Abdullah Kirivi, also known as Kiri Buba, as a legendary Lezgin
 
 The Lezgin language belongs to the Lezgic branch of the Northeast Caucasian language family, alongside Aghul, Rutul, Tsakhur, Tabasaran, Budukh, Khinalug, Jek, Khaput, Kryts, and Udi. It has three closely related and mutually intelligible dialects: Kurin, also called Gunei or Kurakh; Akhti; and Kuba. Kurin is the most widespread and is spoken throughout most of the Lezgin territories in Dagestan. Akhti is spoken in southeastern Dagestan, while Kuba is widespread among Lezgins of northern Azerbaijan.
 
- Lezgins are Muslims, although traditional beliefs have influenced the form and social importance of religion. Practitioners follow either the Shafi'i or Hanafi schools of jurisprudence, *fiqh*. Religion was suppressed to an extent under neighbouring states and predominantly by Soviets, and the source states that it now plays a less significant role than cultural traditions.
+Lezgins are Muslims, although traditional beliefs have influenced the form and social importance of religion. Practitioners follow either the Shafi'i or Hanafi schools of jurisprudence, *fiqh*. Religion was suppressed to an extent under neighbouring states and predominantly by Soviets, and the source states that it now plays a less significant role than cultural traditions.
 
 ## Sources & further reading
 

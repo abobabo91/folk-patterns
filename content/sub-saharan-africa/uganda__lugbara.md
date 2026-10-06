@@ -1,0 +1,90 @@
+---
+title: "Lugbara"
+subtitle: "Uganda"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Lugbara are a Central Sudanic ethnic group living primarily in Uganda’s West Nile region, in the adjoining area of the Democratic Republic of the Congo, with some in South Sudan. In Uganda, their territory includes Arua City and the districts of Arua, Maracha, Terego, Madi-Okollo, Yumbe and Koboko. Their number is given as approximately 240,000, with around 180,000 in north-western Uganda and the remainder in bordering areas of the Democratic Republic of Congo and South Sudan. Lugbara is a Central Sudanic language, also called Lugbarati, with several mutually understandable dialects. Lugbara culture includes chiefdom-based social organization, farming, guineafowl keeping, mythology, sacrifice, proverbs, named dances and a distinctive musical instrument repertoire.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name a leopard with 300 spots as the cultural symbol of the Lugbara.
+
+### Clothing & dress
+
+The sources describe historical clothing practices. In the North Eastern side of the Democratic Republic of Congo, a faction of the Lugbara was called “The Naked People” in early days of 1874 because of attitudes toward clothing. Many women did not wear shirts, and many did not wear dresses; instead, they were covered with grass skirts or leaves. In descriptions of dance costumes, animal skins, feathers, grass skirts and shells are mentioned.
+
+### Architecture
+
+Lugbara mythology describes lineage groups under the authority of a male genealogical elder called *ba wara*, meaning “big man.” These groups, often referred to as sub-tribes, typically lived in villages built atop a hillside or ridge.
+
+### Ceramics, metalwork & everyday objects
+
+They mention a number of food-related objects, including an *otaku* pot, a ladle, oil lamps, containers, leaves used in cooking, and a Y-shaped sling called *abudira* or *abidira* for hunting birds.
+
+### Jewelry & body adornment
+
+In one ritual, a rainmaker adorns a white ram with beads that were once owned by a man who died of a disease such as meningitis.
+
+## Music & performance
+
+Lugbara music is generally called *ongo*. It includes folk songs, musical proverbs and modern pop music. Traditional instruments include *adungu*, a multi-stringed, bow-arched wooden instrument usually covered with animal hide at the base and made in various sizes; smaller examples are handheld, while larger ones rest on the ground or floor. *Agwara* is a local trumpet, while *guke* is a trumpet used by men and boys in much of their dancing. *Luru* is an end-blown trumpet made from a bottle-shaped gourd. *Mare* is a side-blown trumpet made from a gourd and a wooden tube; bees wax is smeared inside the gourd, which is wetted before playing. The *mare* is used only at death dances. *Naito* is the special drum used with this funeral trumpet, while the general Lugbara name for a drum is *ari*.
+
+Modern Lugbara music developed with radio technology and music videos. Songs are regularly composed with two or more verses and a chorus, accompanied by foreign instruments such as guitars, pianos and mixers. Gospel has a widespread presence, while hip hop and reggae have also been incorporated. Arua is described as the centre of modern Lugbara music, which is broadcast on local media including Arua One, Radio Pacis, Nile FM, Access FM and Voice Of Life.
+
+## Dance & theatre
+
+The sources name several Lugbara dances. *Agwara* is a dance of the Lugbara and Kebu in the West Nile, bordering the Congo and the Sudan. It takes its name from the *agwara* trumpet: men play the horns while women dance. *Duluka*, meaning “dance” in Nubian language, is described as a community and tourist attraction where music can even be played on banana stems.
+
+*Gaze* is a traditional Lugbara dance associated with youth. It reflects the transition of bodily movements into the style of neighboring communities in the Congo and is spreading across Uganda. *Nambi* is performed mostly by young people during traditional marriage. *Otwenge*, meaning “elbow,” is a folk dance among the Kebu and Lugbara involving the raising of elbow joints; it is also performed by Alur. The sources mention animal skins, feathers, grass skirts and shells as dance costumes.
+
+## Festivals & rituals
+
+They do describe life-cycle, religious and community practices. *Cikiri* is a special name-giving ceremony held every time a child is born.
+
+Lugbara religious practice includes offerings and sacrifices at shrines near or inside the home, honoring the dead and other spirits. The sources describe four commonly occurring rites. *Rua edezu* means cleansing the body and may be performed in connection with sickness and unresolved disagreement with a deceased family member. A sheep is assigned to the sick person, walked around the perimeter of the home, given a ritual address, killed and eaten by members of the lineage group. *Angu edezu*, meaning cleansing the territory, may be performed after a pregnancy outside marriage or persistent disagreements.
+
+*Ori owizu* is a sacrifice to patrilineal ghosts. An animal such as a goat, ox, bird or sheep is assigned to the sick person and blessed by an elder. After recovery, it is killed and divided into three portions: one for the dead at their shrines, one for the lineage group and one for more distant lineage members.
+
+*A’izu* means to pray or beseech and is an offering to Divine Spirit for rain or the removal of an epidemic. A rainmaker leads a white ram around the lineage territory and chases it over a river into the mountains. The ram is believed to transform into a leopard and then into rain. A fourth category consists of offerings to spirits, often near a river, involving food and drink such as milk and grains.
+
+## Foodways
+
+Lugbara are settled subsistence farmers. Cassava is the traditional staple, while millet, sorghum, legumes, pigeon peas, beans and root crops are also grown. Chicken, pigs, goats and, at higher elevations, cattle are important. Groundnuts, simsim, chick peas and sweet potatoes are cultivated. Maize is grown for brewing beer, and tobacco is an important cash crop. Avocado, pineapple and mangoes are identified as emerging cash crops.
+
+Cassava flour, sometimes mixed with millet or sorghum, is used in *posho* or *ugali*. It is called *enya(sa)* in the standard Lugbara language used in Arua. Other foods include rice, yams, potatoes, dried *mutere*, and *matoke*, made from steamed or mashed bananas. *Ope* is guineafowl, and *onya* refers to white ants or winged termites; food made from these insects is called *nyaka* in standard Lugbara.
+
+Beverages include *anya i’di*, millet porridge sometimes mixed with groundnut or simsim paste; *lesu*, milk; and *maaku i’di*, potato porridge. *Kwete* or *kpete* is Lugbara beer made by fermenting sorghum with *aku fi*, or yeast. *Okalitua* is a sour, colourless alcohol brewed from cassava. *Ebe’de* or *ibe’de* is tea without sugar, while *kuruku chai* is made from lemongrass.
+
+Named dishes include *ombangulu*, made by pounding wingless white ants, adding salt and cooking them in leaves; *banda bi*, cassava leaves that may be mixed with fish, small silver fish or minced meat; *eza*, meat; *fi*, a dish of intestines; *kila kila*, a sauce; *operete*, beans with the skin removed; and *mutere*, sliced and sun-dried cassava or potatoes. Traditional mealtimes listed in the sources include *O’biti* in the morning, *anya i’di*, *nyaka itua* and *asileri ibe’de*.
+
+## Oral tradition & literature
+
+Lugbara oral tradition includes proverbs, mythology and descriptions of customary society. A collection of Lugbara proverbs has been published, together with a description of how the proverbs relate to ethics.
+
+Lugbara creation myths state that all Lugbara are of one blood, *ari alo*, created by God, Adronga ’ba o’bapiri. Many versions say that God created Gborgboro and Meme at Loloi in the North in South Sudan. Their children were Arube and O’du, and later generations produced the hero-ancestor Jaki. Other versions explain the separation of God and mankind in the sky, the separation of black and white people, the building of a tower of Babel, and the appearance of the Lugbara and Kakwa peoples.
+
+The mythology names two hero-ancestors, Jaki and Dribidu. Both possessed superhuman and magical abilities and were the first rain makers. Their sons became founders of the original Lugbara clans. Jaki entered the Lugbara highlands from the north and north-west. Dribidu, also called Banyale, traveled through the Nile valley at East Madi and crossed the river at Gimara. Jaki died on Mount Liru and Dribidu on Mount Eti.
+
+## Language & religion
+
+Lugbara, or Lugbarati, is a Central Sudanic language spoken in Uganda’s West Nile region, in the Democratic Republic of Congo’s Orientale Province and with a little extension into South Sudan. Named dialects and related varieties include Ayivu, Vurra, Terego, Maracha, Aringa, Okollo, Ogoko and Rigbo. Lugbara was first written by Christian missionaries in 1918 on the basis of the Ayivu dialect. In 2000, a conference was held in Arua concerning a standardized international orthography. The Simplified Lugbara alphabet has 28 letters.
+
+The Lugbara were originally animists, while Christianity is now predominant and Islam is another major religion. The sources state that, according to the 2002 Census of Uganda, around 48.6% were Roman Catholic, 21.4% Anglican and 29.1% Sunni Muslim. Lugbara religious traditions include shrines for the dead and spirits, diviners, oracles and rain men. God is referred to by names including Adroa, Adronga and Adro. The Adroanzi are nature gods associated with rivers, trees and other sacred wild areas.
+
+## Sources & further reading
+
+- John Middleton, *The Lugbara of Uganda: Case Studies in Cultural Anthropology*, Holt, Rinehart and Winston, 1965; second edition, Harcourt Brace Jovanovich College Publishers, 1992.
+- John Middleton, *Lugbara Religion: Ritual and Authority among an East African People*, Oxford University Press, 1960; reprinted 1999.
+- Lucy Mair and John Middleton, “Review of Lugbara Religion,” *African Affairs* 60, no. 239, 1961.
+- [Lugbara people](https://en.wikipedia.org/wiki/Lugbara_people)
+- [Lugbara mythology](https://en.wikipedia.org/wiki/Lugbara_mythology)
+- [Lugbara language](https://en.wikipedia.org/wiki/Lugbara_language)
+- [Lugbara music](https://en.wikipedia.org/wiki/Lugbara_music)
+- [Lugbara cuisine](https://en.wikipedia.org/wiki/Lugbara_cuisine)
+- [Lugbara religion](https://en.wikipedia.org/wiki/Lugbara_religion)

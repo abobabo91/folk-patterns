@@ -13,7 +13,7 @@ The Mandinka, also known as Malinke, are a West African ethnic group primarily f
 
 ### Clothing & dress
 
- They state that marabouts write Qur'anic verses on slips of paper and sew them into leather pouches, which are worn as protective amulets. The sources also mention leatherworkers as part of the enslaved strata in the traditional social structure.
+They state that marabouts write Qur'anic verses on slips of paper and sew them into leather pouches, which are worn as protective amulets. The sources also mention leatherworkers as part of the enslaved strata in the traditional social structure.
 
 ### Architecture
 
@@ -37,7 +37,7 @@ Mandinka musical traditions also include drumming. The sources identify the *don
 
 ## Dance & theatre
 
- They describe music, sung oral history, griot performance, and spiritual ritual.
+They describe music, sung oral history, griot performance, and spiritual ritual.
 
 ## Festivals & rituals
 

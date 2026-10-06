@@ -17,7 +17,7 @@ The Erie, also known as the Eriehronon, Ehriehronnons, Eriechronon, or La Nation
 
 ### Clothing & dress
 
- A 1632 account describes seven “Hereckeenes” encountered at Little Falls on the Potomac River as wearing red fringe and beaver coats. The account also describes their manner as haughty and their appearance as strangely attired.
+A 1632 account describes seven “Hereckeenes” encountered at Little Falls on the Potomac River as wearing red fringe and beaver coats. The account also describes their manner as haughty and their appearance as strangely attired.
 
 ### Architecture
 
@@ -29,19 +29,19 @@ Erie pottery featured incised patterns and flared rims. The sources describe hig
 
 ### Jewelry & body adornment
 
- They describe pipes, bone carvings, pottery, and grave goods.
+They describe pipes, bone carvings, pottery, and grave goods.
 
 ## Music & performance
 
- The sources mention pipes as specialized artifacts.
+The sources mention pipes as specialized artifacts.
 
 ## Dance & theatre
 
- No named dance or performance tradition is identified.
+No named dance or performance tradition is identified.
 
 ## Festivals & rituals
 
- Archaeological evidence suggests beliefs concerning the afterlife: Erie burials included “flexed” positioning and the placement of high-quality pottery and grave goods. The sources also describe a high social value placed on kinship and communal care. During the 1654 conflict, the Haudenosaunee campaign included mourning-war practices involving the taking of captives for adoption to replace deceased kin, but this is described as a Haudenosaunee tradition rather than an Erie ritual.
+Archaeological evidence suggests beliefs concerning the afterlife: Erie burials included “flexed” positioning and the placement of high-quality pottery and grave goods. The sources also describe a high social value placed on kinship and communal care. During the 1654 conflict, the Haudenosaunee campaign included mourning-war practices involving the taking of captives for adoption to replace deceased kin, but this is described as a Haudenosaunee tradition rather than an Erie ritual.
 
 ## Foodways
 
@@ -49,7 +49,7 @@ The Erie economy relied on the Three Sisters—maize, beans, and squash—and wa
 
 ## Oral tradition & literature
 
- Most historical information about the Erie comes from French missionaries and their Wendat informants, especially the Jesuit Relations. The sources record descriptions of Erie speech, villages, warfare, captives, and names, but provide no substantial body of Erie oral literature. The Erie language article records *Chautauqua* as a word of uncertain definition or translation and as a surviving loanword believed to come from Erie.
+Most historical information about the Erie comes from French missionaries and their Wendat informants, especially the Jesuit Relations. The sources record descriptions of Erie speech, villages, warfare, captives, and names, but provide no substantial body of Erie oral literature. The Erie language article records *Chautauqua* as a word of uncertain definition or translation and as a surviving loanword believed to come from Erie.
 
 ## Language & religion
 

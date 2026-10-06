@@ -11,19 +11,19 @@ The Tigre are an ethnic group indigenous to Eritrea. They mainly inhabit the low
 
 ## Music & performance
 
- They record that the Tigre language was used by many people in the Italian Colonial army during World War II.
+They record that the Tigre language was used by many people in the Italian Colonial army during World War II.
 
 ## Festivals & rituals
 
- They state that *həday* means “wedding” in Tigre and give *hədyat* as its plural. The sources also state that the first Tigre converts to Islam were people living on islands in the Red Sea who adopted Islam in the 7th century, while mainland Tigre adopted Islam much later, including as late as the 19th century.
+They state that *həday* means “wedding” in Tigre and give *hədyat* as its plural. The sources also state that the first Tigre converts to Islam were people living on islands in the Red Sea who adopted Islam in the 7th century, while mainland Tigre adopted Islam much later, including as late as the 19th century.
 
 ## Foodways
 
- The Tigre language source gives *bäḥär* for “sea” and *ʼäbhur* for “seas,”.
+The Tigre language source gives *bäḥär* for “sea” and *ʼäbhur* for “seas,”.
 
 ## Oral tradition & literature
 
- They state that there is no known historically written form of the Tigre language and that the Bible has been translated into Tigre.
+They state that there is no known historically written form of the Tigre language and that the Bible has been translated into Tigre.
 
 ## Language & religion
 

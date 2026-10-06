@@ -17,7 +17,7 @@ The sources describe changes in clothing rather than a named Turkish Cypriot cos
 
 ### Jewelry & body adornment
 
- They state that Turkish Cypriot males are generally circumcised at a young age, although the practice is described as more closely related to custom and tradition than to strong religious motivation.
+They state that Turkish Cypriot males are generally circumcised at a young age, although the practice is described as more closely related to custom and tradition than to strong religious motivation.
 
 ## Music & performance
 
@@ -45,7 +45,7 @@ The sources describe Turkish Cypriots as regarding themselves as secular Muslims
 
 ## Oral tradition & literature
 
- They do record the medieval Cypriot historian Leontios Machairas, who recalled that baptized Turks were not permitted to leave Nicosia when the Mamlukes approached the city after the battle of Khirokitia in 1426. This is historical testimony about Turkish captives and baptized Turks on Cyprus, not a documented Turkish Cypriot oral-literary tradition.
+They do record the medieval Cypriot historian Leontios Machairas, who recalled that baptized Turks were not permitted to leave Nicosia when the Mamlukes approached the city after the battle of Khirokitia in 1426. This is historical testimony about Turkish captives and baptized Turks on Cyprus, not a documented Turkish Cypriot oral-literary tradition.
 
 ## Language & religion
 

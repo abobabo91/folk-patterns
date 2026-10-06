@@ -13,27 +13,23 @@ The Balkars are a Turkic ethnic group of the North Caucasus and one of the titul
 
 ### Clothing & dress
 
- They do state that, during the nineteenth-century Caucasian War, highlanders including Karachays and Balkars fought in mountain regions.
+They do state that, during the nineteenth-century Caucasian War, highlanders including Karachays and Balkars fought in mountain regions.
 
 ### Architecture
 
- They refer to the Balkars’ mountainous homeland in the Caucasus and to fortified gorges, auls, and settlements in the wider history of the region.
+They refer to the Balkars’ mountainous homeland in the Caucasus and to fortified gorges, auls, and settlements in the wider history of the region.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention salt, iron, goods, and bread in connection with an exchange yard proposed near the fortress of Akhandukovskaya.
-
-## Music & performance
-
- They mention organs of mass culture, newspapers, magazines, and literary activity in Balkar and Russian, but provide no description of musical traditions.
+They mention salt, iron, goods, and bread in connection with an exchange yard proposed near the fortress of Akhandukovskaya.
 
 ## Festivals & rituals
 
- They state that most Balkars adopted Islam in the eighteenth century through contact with Kumyks, Circassians, Nogais, and Crimean Tatars, and that the Balkars are considered deeply religious. The Sufi Qadiriya order has a strong presence in the region.
+They state that most Balkars adopted Islam in the eighteenth century through contact with Kumyks, Circassians, Nogais, and Crimean Tatars, and that the Balkars are considered deeply religious. The Sufi Qadiriya order has a strong presence in the region.
 
 ## Foodways
 
- They mention bread, salt, cattle, rams, and other property in historical accounts of exchange, raiding, and restitution, but these references do not constitute an account of Balkar foodways.
+They mention bread, salt, cattle, rams, and other property in historical accounts of exchange, raiding, and restitution, but these references do not constitute an account of Balkar foodways.
 
 ## Oral tradition & literature
 
@@ -54,5 +50,3 @@ The sources state that ninety-six percent of the population was bilingual in Bal
 - Robert Conquest, *The Nation Killers: The Soviet Deportation of Nationalities*, MacMillan, 1970.
 - Alexander M. Nekrich, *The Punished Peoples: The Deportation and Fate of Soviet Minorities at the End of the Second World War*, W. W. Norton, 1978.
 - Wikipedia, [“Balkars”](https://en.wikipedia.org/wiki/Balkars)
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription concerning the Balkars.
-- The sources used identify no relevant museum catalogue records.

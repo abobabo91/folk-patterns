@@ -13,31 +13,31 @@ Hadendoa, also known as Hadendowa, are a nomadic subdivision of the Beja people.
 
 ### Clothing & dress
 
- They state only that the Hadendoa’s elaborately styled hair led British troops during the Mahdist War to call them “Fuzzy-Wuzzy.”
+They state only that the Hadendoa’s elaborately styled hair led British troops during the Mahdist War to call them “Fuzzy-Wuzzy.”
 
 ### Ceramics, metalwork & everyday objects
 
- The source on anthropological research states that, in the late 1800s, a number of skulls of Hadendoa individuals were taken to the Royal College of Surgeons to be measured and studied.
+The source on anthropological research states that, in the late 1800s, a number of skulls of Hadendoa individuals were taken to the Royal College of Surgeons to be measured and studied.
 
 ### Jewelry & body adornment
 
- They mention only the group’s elaborately styled hair.
+They mention only the group’s elaborately styled hair.
 
 ## Music & performance
 
- In popular culture, Rudyard Kipling wrote a poem called “Fuzzy-Wuzzy” after the name used for the Hadendoa by British troops during the Mahdist War. The source also mentions references to the “Fuzzy-Wuzzies” in the British television series *Dad's Army* and in the 1968 film *Chitty Chitty Bang Bang*. These references concern popular representations rather than documented Hadendoa performance traditions.
+In popular culture, Rudyard Kipling wrote a poem called “Fuzzy-Wuzzy” after the name used for the Hadendoa by British troops during the Mahdist War. The source also mentions references to the “Fuzzy-Wuzzies” in the British television series *Dad's Army* and in the 1968 film *Chitty Chitty Bang Bang*. These references concern popular representations rather than documented Hadendoa performance traditions.
 
 ## Festivals & rituals
 
- They state that the Beja were absorbed into Islam through marriages and trade contracts after the Islamization of the Sudan region, but provide no detailed account of Hadendoa religious or ritual practice.
+They state that the Beja were absorbed into Islam through marriages and trade contracts after the Islamization of the Sudan region, but provide no detailed account of Hadendoa religious or ritual practice.
 
 ## Foodways
 
- They state that the Hadendoa were traditionally pastoral people and that, in the seventeenth century, some Beja expanded southward while conquering better pastures.
+They state that the Hadendoa were traditionally pastoral people and that, in the seventeenth century, some Beja expanded southward while conquering better pastures.
 
 ## Oral tradition & literature
 
- Rudyard Kipling’s poem “Fuzzy-Wuzzy” is associated with the British troops’ name for the Hadendoa during the Mahdist War, but the source does not present it as Hadendoa oral literature.
+Rudyard Kipling’s poem “Fuzzy-Wuzzy” is associated with the British troops’ name for the Hadendoa during the Mahdist War, but the source does not present it as Hadendoa oral literature.
 
 ## Language & religion
 

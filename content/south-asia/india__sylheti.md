@@ -1,0 +1,69 @@
+---
+title: "Sylheti"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Sylheti are an Indo-Aryan ethnocultural group associated with the Sylhet region, including Sylhet Division of Bangladesh and the Karimganj district of south Assam, India. Strong communities also live in the Barak Valley, North Tripura, Shillong, Meghalaya, Hojai, Central Assam, and diaspora settlements in the United Kingdom, United States, and Canada. Sylheti is an eastern Indo-Aryan language spoken by an estimated 11 million people, although its status as a language or dialect of Bengali remains contested. Sylheti identity is closely associated with regional culture and language, alongside broader Bengali identity. The sources describe a distinctive literary tradition, religious pluralism, folklore, foodways, music, and the Sylheti Nagri script.
+
+## Material culture
+
+### Architecture
+
+The sources describe some religious and ritual sites. A gurdwara was built in Sylhet after Guru Nanak’s visit in 1508; it collapsed after the earthquake in 1897. Rural religious practice is associated with open-air shrines beneath ancient banyan, peepal, or jackfruit trees, where stones, branches, or earthen markers represent deities.
+
+### Ceramics, metalwork & everyday objects
+
+They mention copper-plate inscriptions in connection with the historical record of Sylhet and earthenware pots used to mature hidol, a pungent chutney of dried fish.
+
+## Music & performance
+
+Sylheti folklore is described as being influenced by Hindu, Sufi, Turco-Persian, and native ideas. The Bauls are itinerant folk singers, poets, and mystics whose practice crosses rigid religious boundaries. Their teachings emphasize personal and emotional experience of the divine, internal realization, and the unity of the human soul with the *Moner Manush*. Baul sessions concern love, devotion, and the search for the divine within oneself, including the union of the soul, or *atman*, with the universal spirit. They are revered by Sylhetis who are Muslim or Hindu.
+
+The sources state that Sylhet was known to have been home to Baul centres during the time of Lalon. Baul practice is associated with physical esotericism and occultism, including the body, the mind, body fluids, the “nine doors,” and *Foran*, described as life force energy, through breathwork. Women may hold the role of the Tantric consort, *hadon hongini*. Some Bauls use *malabodol*, or garland exchange, as a spiritually binding form of marriage. The sources also mention the use of marijuana and hashish and the ritual substance *Prembhaja*.
+
+Songwriters and poets including Radharaman Dutta, Hason Raja, and Shah Abdul Karim contributed significantly to Bengali literature and are described as pioneers of folk music in Bangladesh.
+
+## Festivals & rituals
+
+Sylheti religious life includes Sunni Islam, Hinduism, Sufi ideals, the Deobandi movement, Tablighi Jamaat, Shia Islam, Ahmadiyya Islam, Christianity, and a historical presence of Sikhism. Sunni Islam is described as the largest denomination, with a majority following the Hanafi school of law. Shia Muslims gather annually during Ashura for Mourning of Muharram processions. Places of procession include Prithimpasha Nawab Bari in Kulaura, as well as Balaganj, Osmani Nagar, and Rajtila.
+
+Hinduism is described as the second-largest religion among Sylhetis. Chaitanya Mahaprabhu, associated with Krishnaite Gaudiya Vaishnavism and the Bhakti movement, was a Sylheti and continues to have Sylheti followers who worship him as an incarnation of Krishna. Sylhetis who follow Hinduism believe that the neck of Satis fell in Jainpur village in Dakshin Surma; it is housed in the Shri Shail, one of the main Shakta pithas in Sylhet.
+
+Folk, indigenous, and religious syncretisms continue to influence rural religious life and ritual practice. The Folk deities of Sylhet include Hattanath, the guardian deity of Sylhet city, as well as village guardians, fertility mothers, snake goddesses, and forest and water spirits. Rituals take place at open-air shrines, with offerings of milk, fruits, grain, and sweets. Muslim communities, particularly in rural areas, may also participate in these practices and honor deities such as Badshah, a regional form of Bhairava.
+
+## Foodways
+
+Rice is the staple food of Bangladesh, and fish is its most common source of protein. The Sylhet area is associated with citrus fruits including *hatkora*, *thoikor*, *Adajamir* or *Ada Lebu*, and *Ashkul Lebu* or *Ashkoni Lebu*, which are used in fish and meat dishes. Ashkul Lebu juice is used to make *Tenga* or *Khatta*.
+
+*Akhni* is a mixed rice dish similar to biryani or polao, prepared with meat and/or vegetables. Red and white *Birin* rice, also written *Biroin* or *Bireen*, is found only in the Sylhet region. It is eaten in savoury and sweet dishes and is the main ingredient of *Chunga Pitha*, a rice cake made by stuffing sticky rice inside young bamboo and slowly smoking it. It can also be made with milk, sugar, coconut, and rice powder.
+
+*Khichuri* is a rice dish similar in consistency to porridge. During Ramadan it is served as a staple food for Iftar and is prepared from aromatic rice, spices, ghee, cumin, and fenugreek. It may also be offered to sick people with ginger. *Beef Hatkhora* is a festive beef dish cooked with hatkora juice, while *Aash Bash*, also called *Aash ar Khoril*, combines duck and bamboo shoots.
+
+Fish is eaten curried and fried. Dried and fermented fish called *shutki*, also known locally as *hutki* or *hukoin*, is used with hatkora in fish curries. *Hutki Shira* is a fish curry with vegetables and *h idol*, a pungent dried-fish chutney matured in earthenware pots. *Thoikor Tenga* is fish cooked with thoikor. Other foods include *Bakarkhani*, *Handesh*, *Nunor Bora*, and *Tusha Shinni*. *Seven Color Tea* is a layered tea drink. *Handesh* is a deep-fried dough snack sweetened with molasses or sugar and served on occasions such as Eid al-Fitr.
+
+## Oral tradition & literature
+
+Sylheti folklore is described as unique to the region and influenced by Hindu, Sufi, Turco-Persian, and native ideas. Chandra Kumar De of Mymensingh is identified as the first researcher of Sylheti folklore. Archives of old works are kept in Kendriya Muslim Sahitya Sangsad in Sylhet, also known as the Sylhet Central Muslim Literary Society.
+
+The Sylheti Nagri script fostered a distinct literary culture. Its best-known writer was Sadeq Ali, whose *Halatunnabi* was famed among rural Muslim communities. Manuscripts include *Rag Namah* by Fazil Nasim Muhammad, *Shonabhaner Puthi* by Abdul Karim, and *Talib Huson* (1549) by Gholam Huson. Later writers included Muhammad Haidar Chaudhuri, author of *Ahwal-i-Zamana* (1907), and Muhammad Abdul Latif, author of *Pohela Kitab o Doikhurar Rag* (1930).
+
+Sylheti literature also includes *Hattanather Panchali*, a Bengali ballad of 36,000 lines by Ganesh Ram Shiromani, and works by Radharaman Dutta, Hason Raja, Shah Abdul Karim, and other writers. The Sylheti Nagri script faced near-extinction around the middle of the 20th century, but revival efforts have been undertaken, including by the British Bangladeshi diaspora.
+
+## Language & religion
+
+Sylheti belongs to the Eastern Indo-Aryan languages and is spoken primarily in Sylhet Division, the Barak Valley of Assam, northern parts of Tripura, and among diaspora communities. It is variously regarded as a dialect of Bengali or a language in its own right. Sylheti has no standardised writing system. Historically, the Sylheti Nagri script was used alongside the Bengali script, especially for religious poetry and Sufi poetry. The script became obsolete around the middle of the 20th century but has since seen revival efforts. In the United Kingdom, publishers use Latin script for Sylheti.
+
+Sylheti religious life includes Sunni Islam, Hinduism, Shia Islam, Ahmadiyya Islam, Christianity, Sikhism, Sufi traditions, Baul practice, and localized folk religion. Folk religious practice includes worship of village guardians, fertility mothers, snake goddesses, and forest and water spirits. Both Hindus and Muslims may participate in local polytheistic rituals, reflecting the cultural fusion described in the sources.
+
+## Sources & further reading
+
+- Chandra Kumar De, researcher of Sylheti folklore, as identified in the sources.
+- Kendriya Muslim Sahitya Sangsad, also known as the Sylhet Central Muslim Literary Society.
+- [Sylhetis](https://en.wikipedia.org/wiki/Sylhetis)
+- [Sylheti culture](https://en.wikipedia.org/wiki/Sylheti_culture)
+- [Sylheti language](https://en.wikipedia.org/wiki/Sylheti_language)
+- [Sylheti cuisine](https://en.wikipedia.org/wiki/Sylheti_cuisine)

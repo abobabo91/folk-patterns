@@ -17,7 +17,7 @@ The sources describe no Monguor house form, building type, construction material
 
 ## Music & performance
 
- They describe an *Older Brother’s Song*, also called “the Song of A Gan,” associated with Murong Wei after Tuyühu departed from the northeast. In the account given, the song expressed sadness and longing for Tuyühu; legends state that Murong Wei often sang it until his death and that it spread into central and northwest China.
+They describe an *Older Brother’s Song*, also called “the Song of A Gan,” associated with Murong Wei after Tuyühu departed from the northeast. In the account given, the song expressed sadness and longing for Tuyühu; legends state that Murong Wei often sang it until his death and that it spread into central and northwest China.
 
 The sources also state that the Monguor have carnival-like festivals and masked fertility rituals with similarities to Dionysian representations in Hellenistic times. No musical instruments, melodies, performance ensembles, or detailed performance contexts are provided. The Mongghul language has been documented in language materials and in long narrative songs from the Mongghul of Northeast Tibet, with texts in Mongghul, Chinese, and English.
 
@@ -27,13 +27,13 @@ The sources mention masked fertility rituals connected with carnival-like festiv
 
 ## Festivals & rituals
 
- They do mention carnival-like festivals and masked fertility rituals, describing similarities with Dionysian representations in Hellenistic times rather than with Byzantine Christian-era Greek celebrations.
+They do mention carnival-like festivals and masked fertility rituals, describing similarities with Dionysian representations in Hellenistic times rather than with Byzantine Christian-era Greek celebrations.
 
 The sources also describe a wedding ceremony attributed to Madam Lushi. In the account, she organized an ambush through an elaborate banquet combined with liquor and singing in order to subdue a bully named “Wang Mang.” This is the only specifically described wedding-related tradition in the supplied material. Birth, coming-of-age, funeral, mourning, and other life-cycle rites are not covered.
 
 ## Foodways
 
- They mention an elaborate banquet with liquor and singing in the account of the wedding ceremony attributed to Madam Lushi, but provide no further description of the food or drink involved.
+They mention an elaborate banquet with liquor and singing in the account of the wedding ceremony attributed to Madam Lushi, but provide no further description of the food or drink involved.
 
 ## Oral tradition & literature
 

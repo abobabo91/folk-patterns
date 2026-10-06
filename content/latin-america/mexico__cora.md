@@ -11,11 +11,11 @@ The Cora are an Indigenous ethnic group of northwestern Mexico who call themselv
 
 ## Music & performance
 
- Cora-language programming is carried by the CDI radio station XEJMN-AM, broadcasting from Jesús María, Nayarit.
+Cora-language programming is carried by the CDI radio station XEJMN-AM, broadcasting from Jesús María, Nayarit.
 
 ## Festivals & rituals
 
- They do describe a religious system shaped by both the pre-Conquest religion and Catholicism. The Cora yielded to Spanish control in 1722, and Spanish accounts state that many became Christian and continued to practice “Catholic-derived customs.”
+They do describe a religious system shaped by both the pre-Conquest religion and Catholicism. The Cora yielded to Spanish control in 1722, and Spanish accounts state that many became Christian and continued to practice “Catholic-derived customs.”
 
 ## Foodways
 

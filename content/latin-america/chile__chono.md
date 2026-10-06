@@ -13,7 +13,7 @@ The Chono, or Guaiteco, were a nomadic Indigenous people or group of peoples ass
 
 ### Clothing & dress
 
- They state only that Chono healing places consisted of caves or leather structures.
+They state only that Chono healing places consisted of caves or leather structures.
 
 ### Architecture
 
@@ -23,15 +23,9 @@ The Chono used wood for boats and houses. Both the Chono and Kawésqar used *Pil
 
 The Chono used nets and spears to gather food from the sea and travelled in small boats used with their *dalcas*. Dogs were associated with fishing and were not themselves a source of food in the Chono diet. Iron objects were highly valued and were obtained from Spanish settlements in Chiloé by trade or theft; some iron was scavenged from European shipwrecks.
 
-## Music & performance
-
- They state that the putative Chono language is known from local toponyms and an untranslated catechism, but provide no information about sung or spoken performance.
-
 ## Festivals & rituals
 
- They provide historical information about Spanish missions, population transfers and the eventual absorption of Chono communities into other populations. In 1710, a large group of Chono arrived voluntarily at the Spanish settlement of Calbuco while escaping internal conflicts, and the Spaniards settled this group in Guar Island. In the 1740s, Spanish authorities ordered the depopulation of the archipelagos of Chono and Guaiteca, leading to population transfers to Chiloé Archipelago and movement by some Chono south of Taitao Peninsula.
-
- They mention healing places consisting of caves or leather structures, but give no account of their ceremonies or practitioners.
+They provide historical information about Spanish missions, population transfers and the eventual absorption of Chono communities into other populations. In 1710, a large group of Chono arrived voluntarily at the Spanish settlement of Calbuco while escaping internal conflicts, and the Spaniards settled this group in Guar Island. In the 1740s, Spanish authorities ordered the depopulation of the archipelagos of Chono and Guaiteca, leading to population transfers to Chiloé Archipelago and movement by some Chono south of Taitao Peninsula.
 
 ## Foodways
 
@@ -41,7 +35,7 @@ Isotope studies of human bones from former Chono territory indicate that land-ba
 
 ## Oral tradition & literature
 
- The Chono language is attested primarily through an 18th-century catechism that has not been translated into Spanish. Various place names in Chiloé Archipelago have Chono etymologies. The sources also state that much knowledge from Spanish records is filtered through a Huilliche worldview, because Huilliches and Huilliche language were used to communicate with Chonos.
+The Chono language is attested primarily through an 18th-century catechism that has not been translated into Spanish. Various place names in Chiloé Archipelago have Chono etymologies. The sources also state that much knowledge from Spanish records is filtered through a Huilliche worldview, because Huilliches and Huilliche language were used to communicate with Chonos.
 
 ## Language & religion
 

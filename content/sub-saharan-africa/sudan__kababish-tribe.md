@@ -21,15 +21,15 @@ A Kababish home is described as a simple place with canvas or cloth walls and ro
 
 ### Ceramics, metalwork & everyday objects
 
- They mention only a raised bed bound together with leather straps and the weapons carried by many men, including daggers, swords, rifles, and shotguns.
+They mention only a raised bed bound together with leather straps and the weapons carried by many men, including daggers, swords, rifles, and shotguns.
 
 ### Jewelry & body adornment
 
- They mention women’s blue body wrapping and men’s white turbans as elements of dress.
+They mention women’s blue body wrapping and men’s white turbans as elements of dress.
 
 ## Festivals & rituals
 
- The sources identify Islam, specifically Sunni Islam, as the group’s main religion but provide no further description of religious festivals or rituals.
+The sources identify Islam, specifically Sunni Islam, as the group’s main religion but provide no further description of religious festivals or rituals.
 
 ## Foodways
 

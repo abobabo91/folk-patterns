@@ -29,7 +29,7 @@ The sources state that canoes and longhouses were carved from large cedar logs.
 
 ### Ceramics, metalwork & everyday objects
 
- Cedar bark and roots were important materials for everyday objects, while canoes and longhouses were carved from large cedar logs.
+Cedar bark and roots were important materials for everyday objects, while canoes and longhouses were carved from large cedar logs.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ Dance occurred within the Coast Salish potlatch tradition, where it was combined
 
 ## Festivals & rituals
 
- They do describe the Coast Salish potlatch as a ceremonial event involving feasting, dancing, singing, and gift-giving. Potlatches marked marriages, inheritance, and memorials and served to reaffirm social bonds and status.
+They do describe the Coast Salish potlatch as a ceremonial event involving feasting, dancing, singing, and gift-giving. Potlatches marked marriages, inheritance, and memorials and served to reaffirm social bonds and status.
 
 Traditional Skokomish spiritual beliefs were closely tied to the natural world, especially the salmon, cedar, and river. These relationships were expressed through traditional stories and songs passed down orally through generations.
 

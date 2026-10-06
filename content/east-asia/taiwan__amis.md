@@ -39,7 +39,7 @@ The sources identify the Amis as primarily fishermen because of their coastal lo
 
 ## Oral tradition & literature
 
- They record that the Amis language has a translated version of Article 1 of the Universal Declaration of Human Rights and mention contemporary musical representation through the chant used in “Return to Innocence.”
+They record that the Amis language has a translated version of Article 1 of the Universal Declaration of Human Rights and mention contemporary musical representation through the chant used in “Return to Innocence.”
 
 ## Language & religion
 

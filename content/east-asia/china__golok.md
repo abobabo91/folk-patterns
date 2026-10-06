@@ -15,7 +15,7 @@ The sources used mention a folk song recorded in 1951. Its quoted words assert r
 
 ## Festivals & rituals
 
- They report legends that the Golok were ruled by a Queen, described as a reincarnated goddess whose power was handed down from mother to daughter. No further ritual details are provided.
+They report legends that the Golok were ruled by a Queen, described as a reincarnated goddess whose power was handed down from mother to daughter. No further ritual details are provided.
 
 ## Foodways
 

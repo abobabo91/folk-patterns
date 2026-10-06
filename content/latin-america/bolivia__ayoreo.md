@@ -21,7 +21,7 @@ The sources mention houses made of mud and cane in settlements such as the Degü
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that Ayoreo people collect honey from the Quebecois tree and that signs such as holes cut in trees are used to monitor the presence of groups living in isolation.
+They do state that Ayoreo people collect honey from the Quebecois tree and that signs such as holes cut in trees are used to monitor the presence of groups living in isolation.
 
 ## Music & performance
 
@@ -31,7 +31,7 @@ The sources record a performance-related episode involving the Areguede’urasad
 
 ## Festivals & rituals
 
- They do describe seasonal subsistence practices: during the rainy season, Ayoreo people plant small amounts of corn, beans, and squash.
+They do describe seasonal subsistence practices: during the rainy season, Ayoreo people plant small amounts of corn, beans, and squash.
 
 The sources describe several spiritual and social practices. The Ayoreo have a form of shamanism, and shamans can be either gender; shamans are known as disdain. Chiefs, called asutes, are exclusively men and are chosen for killing the most people or animals. The Ayoreo traditionally tend to be monogamous. There are records of infanticide in which babies were buried alive for various reasons, including when a baby was born to a woman who was not in an established relationship.
 

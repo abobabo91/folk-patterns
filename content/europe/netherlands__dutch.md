@@ -21,11 +21,11 @@ Dutch architecture is listed as a component of Dutch culture. The sources do des
 
 ### Ceramics, metalwork & everyday objects
 
- They mention wooden clogs, wooden foundation piles in Amsterdam city views, Neolithic ground axes treated as Donar's lightning, amulets and charms called “phylacteries,” and stone votives dedicated to Nehalennia. The sources also describe sacred wells, springs, oak trees, wooded groves, altars, and temple remains in the Low Countries.
+They mention wooden clogs, wooden foundation piles in Amsterdam city views, Neolithic ground axes treated as Donar's lightning, amulets and charms called “phylacteries,” and stone votives dedicated to Nehalennia. The sources also describe sacred wells, springs, oak trees, wooded groves, altars, and temple remains in the Low Countries.
 
 ### Jewelry & body adornment
 
- They mention amulets and charms worn on the head or arms for protection and veneration of gods and goddesses, and describe the wearing of “phylacteries.” The missionary accounts also mention amber hung around the neck and the use of amulets by humans and animals, but these practices are presented as pre-Christian customs condemned by Christian missionaries.
+They mention amulets and charms worn on the head or arms for protection and veneration of gods and goddesses, and describe the wearing of “phylacteries.” The missionary accounts also mention amber hung around the neck and the use of amulets by humans and animals, but these practices are presented as pre-Christian customs condemned by Christian missionaries.
 
 ## Music & performance
 

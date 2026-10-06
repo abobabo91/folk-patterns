@@ -17,7 +17,7 @@ The sources identify royal settlements and a main capital on Magudu Mountain sou
 
 ## Music & performance
 
- The sources state only that various Ndwandwe groups speak Nguni dialects.
+The sources state only that various Ndwandwe groups speak Nguni dialects.
 
 ## Festivals & rituals
 

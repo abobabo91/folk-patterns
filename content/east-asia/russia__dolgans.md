@@ -11,7 +11,7 @@ The Dolgans (Russian: Долганы; Dolgan: долган, дулҕан, Һак
 
 ## Festivals & rituals
 
- They state that most Dolgans practice old shamanistic beliefs, while most are influenced by Eastern Orthodox Christianity.
+They state that most Dolgans practice old shamanistic beliefs, while most are influenced by Eastern Orthodox Christianity.
 
 ## Foodways
 

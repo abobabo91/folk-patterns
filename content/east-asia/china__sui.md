@@ -17,7 +17,7 @@ The Sui people, also called Shui people, are an ethnic group living mostly in Gu
 
 ### Clothing & dress
 
- They do record several practices concerning women’s hair and funerary belongings. A widowed woman covers her hair with a fabric of white color for three years. The sources also state that, after an elder’s death, the deceased person’s clothing and personal items must not fall to the ground, and that the deceased must have an odd number of belongings. No specific garment types, belts, footwear, men’s dress, or ceremonial costume are documented.
+They do record several practices concerning women’s hair and funerary belongings. A widowed woman covers her hair with a fabric of white color for three years. The sources also state that, after an elder’s death, the deceased person’s clothing and personal items must not fall to the ground, and that the deceased must have an odd number of belongings. No specific garment types, belts, footwear, men’s dress, or ceremonial costume are documented.
 
 ### Architecture
 
@@ -27,11 +27,11 @@ The *ɣaan2 hum5* is a one-story ground house. A third form is the split-level h
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention the bronze drum, which is often played during festivals, and the bamboo steamer used to prepare rice. The sources also describe the Sui script as a logographic writing system with pictographic characters, traditionally used by shamans for geomancy and divination rather than for ordinary daily activities.
+They do mention the bronze drum, which is often played during festivals, and the bamboo steamer used to prepare rice. The sources also describe the Sui script as a logographic writing system with pictographic characters, traditionally used by shamans for geomancy and divination rather than for ordinary daily activities.
 
 ### Jewelry & body adornment
 
- They record the practice of widows covering their hair with white fabric for three years.
+They record the practice of widows covering their hair with white fabric for three years.
 
 ## Music & performance
 

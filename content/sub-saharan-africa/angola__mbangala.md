@@ -21,29 +21,29 @@ The Imbangala lived and fought in a *kilombo*, described as an armed camp or vil
 
 ### Ceramics, metalwork & everyday objects
 
- They mention bows, knives, swords, war clubs, and hatchets as weapons, stating that the Imbangala fought with the same weapons as their enemies and that the war club or hatchet was their primary weapon.
+They mention bows, knives, swords, war clubs, and hatchets as weapons, stating that the Imbangala fought with the same weapons as their enemies and that the war club or hatchet was their primary weapon.
 
 ### Jewelry & body adornment
 
- They mention only the training collar worn by fighting men and the ointment called *maji a samba*.
+They mention only the training collar worn by fighting men and the ointment called *maji a samba*.
 
 ## Music & performance
 
- The sources do describe public and collective performances connected with warfare and initiation. Children were trained daily in group and individual combat, and ritual human sacrifices were held before large battles and other major enterprises.
+The sources do describe public and collective performances connected with warfare and initiation. Children were trained daily in group and individual combat, and ritual human sacrifices were held before large battles and other major enterprises.
 
 ## Dance & theatre
 
- They describe initiation rites, combat training, ritual human sacrifices before large battles, and the use of a reputation for cannibalism and human sacrifice to intimidate attacked populations.
+They describe initiation rites, combat training, ritual human sacrifices before large battles, and the use of a reputation for cannibalism and human sacrifice to intimidate attacked populations.
 
 ## Festivals & rituals
 
- They describe several rituals and life-cycle practices. The Imbangala did not permit women to give birth inside the *kilombo*; women left the camp to have their children, and a child was not considered Imbangala until undergoing initiation. Children born inside a kilombo were killed in order to prevent kinship from replacing initiation. Adolescents were captured and forced to serve in the army, while boys had to kill an enemy to be accepted among the men. Those who tried to run away were killed and eaten.
+They describe several rituals and life-cycle practices. The Imbangala did not permit women to give birth inside the *kilombo*; women left the camp to have their children, and a child was not considered Imbangala until undergoing initiation. Children born inside a kilombo were killed in order to prevent kinship from replacing initiation. Adolescents were captured and forced to serve in the army, while boys had to kill an enemy to be accepted among the men. Those who tried to run away were killed and eaten.
 
 Ritual human sacrifices were held before large battles and other major enterprises. Captured enemies were killed together with cows, goats, and dogs, and the flesh of the victims was eaten together. The *yijila* required infanticide, cannibalism, and an absolute absence of cowardice. In later periods, customs moderated in some areas: cannibalism became restricted to ritual or symbolic occasions, including a ritual known as “eating the old man.”
 
 ## Foodways
 
- They state that the Imbangala’s primary interest as marauders included obtaining large quantities of palm wine. They produced palm wine through a wasteful method of chopping down trees and tapping their fermented contents over a few months.
+They state that the Imbangala’s primary interest as marauders included obtaining large quantities of palm wine. They produced palm wine through a wasteful method of chopping down trees and tapping their fermented contents over a few months.
 
 The sources also describe food practices connected with warfare and ritual. The Imbangala were reputed to eat the flesh of their enemies, and the sources report that killed enemies and their own fighters could be eaten when the latter were judged cowardly. Before large battles and other major enterprises, captured enemies, cows, goats, and dogs were killed and their flesh was eaten together.
 

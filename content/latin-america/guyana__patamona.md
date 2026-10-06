@@ -17,7 +17,7 @@ Pottery was traded for cassava graters made by other Carib groups up until the 2
 
 ## Festivals & rituals
 
- They do describe an Indigenous system of beliefs among the Carib tribes that dates back to the 16th century. In the Patamona animist religion, Knaima is a spirit that possesses people and turns them into evil beings. Kaieteur Falls is an important cultural site, and the Patamona name it after Old Kaie, a member of the Patamona tribe.
+They do describe an Indigenous system of beliefs among the Carib tribes that dates back to the 16th century. In the Patamona animist religion, Knaima is a spirit that possesses people and turns them into evil beings. Kaieteur Falls is an important cultural site, and the Patamona name it after Old Kaie, a member of the Patamona tribe.
 
 ## Foodways
 
@@ -27,7 +27,7 @@ Patamona culinary practices include preparation of the Guyanese pepperpot, calle
 
 ## Oral tradition & literature
 
- They state that the Patamona call themselves the People of the Heavens and that remnants of their culture survive in Paramakatoi and near Kaieteur Falls.
+They state that the Patamona call themselves the People of the Heavens and that remnants of their culture survive in Paramakatoi and near Kaieteur Falls.
 
 ## Language & religion
 

@@ -11,7 +11,7 @@ The Tooro people, also known as Batooro or Toro people, are a Bantu ethnic group
 
 ## Music & performance
 
- They state that the Tooro cultural dance is called *Kinyege* and that *Orunyege-Ntogoro* is another important dance, described as a courtship dance. The Tooro people’s culture is also associated with the oral traditions of *Empaako* and *Koogere*, which the Tooro people article describes in connection with Fort Portal Tourism city and the Tooro Kingdom.
+They state that the Tooro cultural dance is called *Kinyege* and that *Orunyege-Ntogoro* is another important dance, described as a courtship dance. The Tooro people’s culture is also associated with the oral traditions of *Empaako* and *Koogere*, which the Tooro people article describes in connection with Fort Portal Tourism city and the Tooro Kingdom.
 
 ## Dance & theatre
 
@@ -19,11 +19,11 @@ The Tooro people, also known as Batooro or Toro people, are a Bantu ethnic group
 
 ## Festivals & rituals
 
- They state that most Tooro clans have a totem which spiritually represents them. The sources also associate Tooro culture with the oral traditions of *Empaako* and *Koogere*. The UNESCO material supplied here lists no inscriptions for Uganda.
+They state that most Tooro clans have a totem which spiritually represents them. The sources also associate Tooro culture with the oral traditions of *Empaako* and *Koogere*. The UNESCO material supplied here lists no inscriptions for Uganda.
 
 ## Foodways
 
- The Tooro language article gives isolated lexical examples such as *autu*, glossed as “vegetable cooking oil,” but it does not present this as a Tooro food tradition or describe its use.
+The Tooro language article gives isolated lexical examples such as *autu*, glossed as “vegetable cooking oil,” but it does not present this as a Tooro food tradition or describe its use.
 
 ## Oral tradition & literature
 

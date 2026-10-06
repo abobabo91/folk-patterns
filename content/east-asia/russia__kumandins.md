@@ -21,7 +21,7 @@ Traditional Kumandin dwellings included polygonal yurts made from bark or logs a
 
 ## Festivals & rituals
 
- They state that most modern Kumandins are Orthodox Christians, while shamanism and Burkhanism are also practiced by some.
+They state that most modern Kumandins are Orthodox Christians, while shamanism and Burkhanism are also practiced by some.
 
 ## Foodways
 

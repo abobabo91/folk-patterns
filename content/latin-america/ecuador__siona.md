@@ -17,7 +17,7 @@ The Siona are an Indigenous ethnic group living near the border between Ecuador 
 
 ### Clothing & dress
 
- They do describe ceremonial clothing used during yajé ceremonies. Participants dress with feather crowns, beads, aromatic herbs and face paintings. These forms of adornment belong to the ritual setting in the designated yajé house, where the shaman guides participants through experiences associated with communication with other realms.
+They do describe ceremonial clothing used during yajé ceremonies. Participants dress with feather crowns, beads, aromatic herbs and face paintings. These forms of adornment belong to the ritual setting in the designated yajé house, where the shaman guides participants through experiences associated with communication with other realms.
 
 ### Architecture
 
@@ -25,7 +25,7 @@ Siona communities consist of dispersed villages near rivers and streams. Houses 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention traditional tools used in hunting, including the blow gun, spear and traps. In recent decades, the shotgun has become dominant as an efficient hunting tool. The sources also state that geometric designs associated with yajé experiences are translated into decorations on possessions such as pots. No specific ceramic technique, vessel name or metal object is identified.
+They mention traditional tools used in hunting, including the blow gun, spear and traps. In recent decades, the shotgun has become dominant as an efficient hunting tool. The sources also state that geometric designs associated with yajé experiences are translated into decorations on possessions such as pots. No specific ceramic technique, vessel name or metal object is identified.
 
 ### Jewelry & body adornment
 
@@ -39,11 +39,11 @@ By some accounts, a yajé ritual usually lasts three days. The first night invol
 
 ## Dance & theatre
 
- They state that participants in yajé ceremonies may transform into animals and that the second night involves singing and transformation. This is described as part of the ritual experience rather than as a named dance or theatrical performance.
+They state that participants in yajé ceremonies may transform into animals and that the second night involves singing and transformation. This is described as part of the ritual experience rather than as a named dance or theatrical performance.
 
 ## Festivals & rituals
 
- They do describe yajé ceremonies, which are guided by a shaman and conducted inside a designated yajé house. Yajé is used for communication with other realms and for wellbeing connected with game, weather, sickness and misfortune.
+They do describe yajé ceremonies, which are guided by a shaman and conducted inside a designated yajé house. Yajé is used for communication with other realms and for wellbeing connected with game, weather, sickness and misfortune.
 
 A yajé ritual may last three days, with each night extending from sundown to sunrise. The first night involves no singing, the second includes singing and transformation into animals, and the third culminates in reaching other realms. Participants wear feather crowns, beads, aromatic herbs and face paintings. The shaman leads chants, protects and guides participants, and helps them when they encounter ill-intentioned beings. They do mention that shamans facilitate marriages, administer punishment for poor behavior and distribute food. Communal work is organized through the *minga*, in which friends and family help with manual labor; the person requesting help provides *chicha*, and the project ends in a party.
 
@@ -57,7 +57,7 @@ Hunting focuses on large animals, including tapir, peccaries, woolly monkeys, ho
 
 ## Oral tradition & literature
 
- They describe knowledge of the Siona worldview as compiled through conversations with six Siona elders. In this worldview, the world is divided into five realms resembling cassava griddles of sequentially smaller sizes. The bottom-most realm is “inside the earth,” followed by four “heavens,” the first being the earth that is readily perceived.
+They describe knowledge of the Siona worldview as compiled through conversations with six Siona elders. In this worldview, the world is divided into five realms resembling cassava griddles of sequentially smaller sizes. The bottom-most realm is “inside the earth,” followed by four “heavens,” the first being the earth that is readily perceived.
 
 Natural things such as trees, clay and animals are associated with beings and forces in other realms. These realms affect one another, and communication with their beings can be accessed through yajé ceremonies. The sources also describe contemporary cultural preservation efforts, including yajé-house construction, workshops with elders, women-led enterprise and protection of the yajé vine through the Ceibo Alliance.
 

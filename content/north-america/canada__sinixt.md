@@ -13,7 +13,7 @@ The Sinixt, also known as the Sin-Aikst, Sin Aikst, Senijextee, Arrow Lakes Band
 
 ### Clothing & dress
 
- They do record that girls learned plant lore and tanning.
+They do record that girls learned plant lore and tanning.
 
 ### Architecture
 
@@ -21,17 +21,17 @@ Sinixt winter settlement included warm, semi-subterranean houses, and archaeolog
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe a distinctive Sturgeon-nosed canoe, about 15–17 feet (4.5–5 meters) long, with a cedar frame covered by large slabs of pine bark. It rode low in the water and had downward-sloping tips to reduce wind resistance. Sinixt hunters also used bows and arrows, canoes, fishing gear, baskets on poles, and spears with detachable tips like a harpoon.
+They do describe a distinctive Sturgeon-nosed canoe, about 15–17 feet (4.5–5 meters) long, with a cedar frame covered by large slabs of pine bark. It rode low in the water and had downward-sloping tips to reduce wind resistance. Sinixt hunters also used bows and arrows, canoes, fishing gear, baskets on poles, and spears with detachable tips like a harpoon.
 
 ### Jewelry & body adornment
 
- Early white explorers reported that Sinixt people were of average height and size and had hazel eyes, but the sources do not present this as a system of adornment.
+Early white explorers reported that Sinixt people were of average height and size and had hazel eyes, but the sources do not present this as a system of adornment.
 
 ## Music & performance
 
 The sources document dances associated with fishing-season relationships between the Sinixt and Colville people. At Kettle Falls, the Colville people celebrated the Sinixt arrival during fishing season with a three-day dance, and the tribes held a three-day dance at the end of their season. These performances were connected to salmon fishing and intertribal relations.
 
-The sources also identify live music and performance as features of the annual Barter Fair held every fall in Vallican, B.C. The event encourages local bartering of goods and services. Northern Sinixt also host Sinixt Radio on Nelson, B.C. Community Radio station CJLY-FM. No named musical instruments, song genres, melodies, or performance techniques are documented in the supplied sources.
+The sources also identify live music and performance as features of the annual Barter Fair held every fall in Vallican, B.C. The event encourages local bartering of goods and services. Northern Sinixt also host Sinixt Radio on Nelson, B.C. Community Radio station CJLY-FM.
 
 ## Dance & theatre
 

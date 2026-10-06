@@ -25,11 +25,11 @@ The sources used mention traditional dance songs, powwows, and a Lakota Flag Son
 
 ## Festivals & rituals
 
- They state that the Lakota Flag Song begins special events such as powwows and identify Sun dance, Yuwipi, and Inipi among non-Powwow types of Dakota songs. Since 2008, representatives of Assiniboine and Stoney tribes have attended annual “Lakota, Dakota, Nakota Language Summits,” sponsored by Tusweca Tiospaye, a Lakota non-profit organization promoting and strengthening the language.
+They state that the Lakota Flag Song begins special events such as powwows and identify Sun dance, Yuwipi, and Inipi among non-Powwow types of Dakota songs. Since 2008, representatives of Assiniboine and Stoney tribes have attended annual “Lakota, Dakota, Nakota Language Summits,” sponsored by Tusweca Tiospaye, a Lakota non-profit organization promoting and strengthening the language.
 
 ## Oral tradition & literature
 
- They do document recent “pan-Sioux” attempts to revive the native languages, supported by Assiniboine-Stoney tribes and connected with the annual “Lakota, Dakota, Nakota Language Summits.”
+They do document recent “pan-Sioux” attempts to revive the native languages, supported by Assiniboine-Stoney tribes and connected with the annual “Lakota, Dakota, Nakota Language Summits.”
 
 ## Language & religion
 

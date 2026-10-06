@@ -21,7 +21,7 @@ The winter building of the Chaplino Eskimos, or Ungazighmiit, was a round, dome-
 
 ### Ceramics, metalwork & everyday objects
 
- They describe mattocks made from whole walrus tusks for harvesting edible roots, with female walrus tusks often selected because they were smaller and more slender. Berries and leafy plants were gathered by hand and stored in processed skin bags, cleaned walrus stomachs, or sealskin floats. A *nakrutka* was a weighted stick with a crossbar used to collect kelp, while a *zakidushka* was a weighted line thrown from shore to retrieve plants.
+They describe mattocks made from whole walrus tusks for harvesting edible roots, with female walrus tusks often selected because they were smaller and more slender. Berries and leafy plants were gathered by hand and stored in processed skin bags, cleaned walrus stomachs, or sealskin floats. A *nakrutka* was a weighted stick with a crossbar used to collect kelp, while a *zakidushka* was a weighted line thrown from shore to retrieve plants.
 
 ### Jewelry & body adornment
 
@@ -29,7 +29,7 @@ Traditional tattooing was practiced among Siberian Yupik women and marked import
 
 ## Music & performance
 
- They state that moving sculptures made from walrus ivory and whale bone could animate scenes such as walrus hunting or traditional dances through complicated pulleys. In the whale-hunting tradition described by the sources, drum music and good foods formed part of the entertainment provided to a killed whale, which was treated as a guest.
+They state that moving sculptures made from walrus ivory and whale bone could animate scenes such as walrus hunting or traditional dances through complicated pulleys. In the whale-hunting tradition described by the sources, drum music and good foods formed part of the entertainment provided to a killed whale, which was treated as a guest.
 
 ## Dance & theatre
 
@@ -37,13 +37,13 @@ The sources mention traditional dances as scenes represented by moving sculpture
 
 ## Festivals & rituals
 
- They describe several ritual and life-cycle practices. Traditional tattooing marked important life stages, cultural identity, and social roles among women. Name-giving involved the belief that a deceased person was reborn in a newborn baby. Dreams, events, and the infant’s physical traits were examined to identify the returning person, and additional names could be given during illness.
+They describe several ritual and life-cycle practices. Traditional tattooing marked important life stages, cultural identity, and social roles among women. Name-giving involved the belief that a deceased person was reborn in a newborn baby. Dreams, events, and the infant’s physical traits were examined to identify the returning person, and additional names could be given during illness.
 
 Whale hunting involved an extended ritual relationship. Only those selected by the spirit of the sea were thought able to kill a whale. The killed whale was treated as a guest, entertained with drum music and good foods, and not left alone. During the next whale migration, in spring to the north and in autumn back, the whale was sent off to sea in a farewell ritual. If it had been pleased during its stay, future whale hunts were expected to succeed.
 
 ## Foodways
 
- They describe the gathering of at least twenty-nine species of edible plants in northeastern Chukotka. Roots were harvested with walrus-tusk mattocks, berries and leafy plants were gathered by hand, and seaweed was collected with specialized tools. In autumn, harvesters could use “trampling” to locate winter root supplies stored in underground burrows of voles or mice.
+They describe the gathering of at least twenty-nine species of edible plants in northeastern Chukotka. Roots were harvested with walrus-tusk mattocks, berries and leafy plants were gathered by hand, and seaweed was collected with specialized tools. In autumn, harvesters could use “trampling” to locate winter root supplies stored in underground burrows of voles or mice.
 
 The sources also describe foods offered to a killed whale during its treatment as a guest, referring to “good foods” without naming particular dishes or ingredients.
 

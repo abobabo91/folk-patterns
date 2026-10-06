@@ -21,11 +21,11 @@ The Aché used stone flaked tools and Celt-type stone axes; comparable axes from
 
 ## Music & performance
 
- The historical descriptions mention that some Aché fastened little stones to their lips, which made them look ferocious, and state that they worshipped only thunder; these accounts do not provide a documented musical tradition.
+The historical descriptions mention that some Aché fastened little stones to their lips, which made them look ferocious, and state that they worshipped only thunder; these accounts do not provide a documented musical tradition.
 
 ## Festivals & rituals
 
- They do record spiritual beliefs in which “Berendy,” associated with booming meteors, occupied a central position, and they report an early description stating that Aché people worshipped only thunder.
+They do record spiritual beliefs in which “Berendy,” associated with booming meteors, occupied a central position, and they report an early description stating that Aché people worshipped only thunder.
 
 ## Foodways
 
@@ -33,7 +33,7 @@ Aché subsistence was based on wild forest resources. The sources name palm pith
 
 ## Oral tradition & literature
 
- Early written information about the Aché includes Jesuit accounts summarized by Lozano and descriptions by Techo, while Federico Maynthusen published information about Aché language and culture after contacting a group in 1908.
+Early written information about the Aché includes Jesuit accounts summarized by Lozano and descriptions by Techo, while Federico Maynthusen published information about Aché language and culture after contacting a group in 1908.
 
 ## Language & religion
 

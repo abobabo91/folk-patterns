@@ -25,15 +25,15 @@ Potters of Cochiti and Kewa Pueblo, formerly Santo Domingo Pueblo, have made tra
 
 ### Jewelry & body adornment
 
- A documentary shown during Sesame Street’s second season included making necklaces out of corn for summertime sale to tourists, but the source gives no further description of this practice.
+A documentary shown during Sesame Street’s second season included making necklaces out of corn for summertime sale to tourists, but the source gives no further description of this practice.
 
 ## Music & performance
 
- They do mention a documentary film about a Native American boy’s life on the Cochiti pueblo, made in 1969 for Sesame Street’s second season, 1970–1971, and aired on December 9, 1970. Its subjects included a game of shinny, making tortillas, and making necklaces out of corn for summertime sale to tourists.
+They do mention a documentary film about a Native American boy’s life on the Cochiti pueblo, made in 1969 for Sesame Street’s second season, 1970–1971, and aired on December 9, 1970. Its subjects included a game of shinny, making tortillas, and making necklaces out of corn for summertime sale to tourists.
 
 ## Dance & theatre
 
- The documentary described in the source covered a game of shinny, but it does not characterize the game as dance or theatre.
+The documentary described in the source covered a game of shinny, but it does not characterize the game as dance or theatre.
 
 ## Festivals & rituals
 
@@ -43,7 +43,7 @@ The Cochiti pueblo people took part in the Pueblo Revolt of 1680, an uprising of
 
 ## Foodways
 
- They state that the Spaniards initially admired and respected Pueblo Peoples for their Spanish-like farming techniques and villages. During Spanish rule, Cochiti people were forced to pay taxes in crops, cotton, and work. The documentary made for Sesame Street included making tortillas. No other dish, beverage, food preparation, or feast-day menu is identified in the sources.
+They state that the Spaniards initially admired and respected Pueblo Peoples for their Spanish-like farming techniques and villages. During Spanish rule, Cochiti people were forced to pay taxes in crops, cotton, and work. The documentary made for Sesame Street included making tortillas. No other dish, beverage, food preparation, or feast-day menu is identified in the sources.
 
 ## Oral tradition & literature
 

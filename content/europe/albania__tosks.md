@@ -1,0 +1,35 @@
+---
+title: "Tosks"
+subtitle: "Albania"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Tosks (Albanian: *Toskët*) are one of the two major dialectal subgroups of Albanians, alongside the Ghegs. They live mainly in southern Albania, indicatively south of the Shkumbin river, in a region commonly called Toskëri and known by foreigners as Toskeria. Internal groups include the Myzeqars of Myzeqe, while the Labs of Labëria and Chams of Çamëria are sometimes included because of ethno-cultural and dialectal similarities. Tosk-speaking populations also include the Arvanites of Greece, the Arbëreshë of Italy, and the original inhabitants of Mandritsa in Bulgaria. Tosk Albanian is one of the two principal Albanian dialects, and the Albanian communist regime based the standard Albanian language mostly on it. Tosk history is closely connected with southern Albania, the Ottoman system, Albanian political movements, migration, religious diversity, and the development of Albanian literary culture.
+
+## Music & performance
+
+The Wikipedia article lists Jane Sugarman’s study *Engendering Song: Singing and Subjectivity at Prespa Albanian Weddings* in its further reading, but the supplied material does not describe the songs, instruments, or wedding performances discussed in that work.
+
+## Festivals & rituals
+
+They do record religious and political practices connected with Tosk history: Tosks include Orthodox Christians, Bektashis, Sunnis, and Halvetis; Christians, Bektashis, and other Muslims have lived side by side in many areas; and the Arbëreshë of Italy preserved Byzantine worship while reconciling with the Catholic Church. During the Great Eastern Crisis, Tosk and Gheg Albanians made *besas*, or pledges of honor, to arm themselves and defend their rights.
+
+## Foodways
+
+The Wikipedia article states that prominent landowning families in the Myzeqe plain sold their agricultural produce to Italy.
+
+## Oral tradition & literature
+
+They do describe an important linguistic and literary history. Within independent Albania, the standard Albanian language was based mostly on Tosk Albanian, a decision criticized by Arshi Pipa. Albanian writers in former Yugoslavia were almost all Ghegs but chose to write in Tosk for political reasons. The change had political and cultural consequences because language was described as the main criterion for Albanian self-identification. Tosk leaders also helped articulate Albanianism through a national program demanding Albanian sociopolitical rights.
+
+## Language & religion
+
+Tosks speak Tosk Albanian, one of the two main Albanian dialects. Gheg and Tosk Albanians are able to understand each other, although the article states that some speakers from remote northern regions and the far south cannot converse with one another. In the late Ottoman period, upper- and middle-class Tosk society used Albanian, Greek, and some Ottoman Turkish in different settings, while Greek words entered the Tosk dialect. Most Tosks are described as Orthodox Christians or Bektashis in background. Orthodox Christians were more predominant around Gjirokastër, Leskovik, Myzeqe, and Dangëllia, while Bektashis were more concentrated around Vlora, Tepelena, Mallakastra, Pogradec, Skrapar, Erseka, and Gramsh. Sunnis and Halvetis were also present. Many Tosks became irreligious under communist rule.
+
+## Sources & further reading
+
+- Jane Sugarman, *Engendering Song: Singing and Subjectivity at Prespa Albanian Weddings*, University of Chicago Press, 1997.
+- [Wikipedia: Tosks](https://en.wikipedia.org/wiki/Tosks)

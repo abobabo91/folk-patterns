@@ -1,0 +1,62 @@
+---
+title: "Pennsylvania Dutch"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Pennsylvania Dutch, also called Pennsylvania Germans, are an ethnic group concentrated in Pennsylvania, especially the Delaware Valley and Pennsylvania Dutch Country, an area extending from Bethlehem and Allentown in the Lehigh Valley through Reading, Lebanon, Lancaster, York, and Chambersburg. Communities also exist in Ohio, Indiana, other Midwestern states, and Ontario, Canada. They largely descend from German-speaking immigrants from the Palatinate, Switzerland, Alsace, Baden-Württemberg, Hesse, Saxony, and other regions of German-speaking Europe who settled in Pennsylvania during the seventeenth, eighteenth, and nineteenth centuries. Their language, Pennsylvania Dutch or Pennsylvania German, is a Palatine German variety classified as Rhine Franconian and strongly influenced by English. Their folk culture includes distinctive foodways, furniture, religious communities, architecture, and a continuing spoken-language tradition.
+
+## Material culture
+
+### Clothing & dress
+
+The sources describe the Plain Dutch, including Amish, Mennonites, and Brethren, as communities characterized by plain dress and limited use of modern technology. They contrast this lifestyle with the more assimilated Church Dutch, also called Fancy Dutch, who belong mainly to Lutheran, Reformed, United Church of Christ, Methodist, and Baptist congregations.
+
+### Architecture
+
+Pennsylvania Dutch architecture is identified in the sources as German-inspired architecture maintained by the Fancy Dutch when founding new towns in Pennsylvania.
+
+### Ceramics, metalwork & everyday objects
+
+Pennsylvania Dutch furniture is often simply designed and decorated with paint. Typical objects include hope chests, tables, cupboards, and chairs.
+
+## Music & performance
+
+They mention that Amish people read prayers and sing in Standard or High German, *Hochdeitsch*, during church services, while Pennsylvania Dutch dominates many in-group settings, including preaching.
+
+## Festivals & rituals
+
+The sources describe religious and communal differences between Plain Dutch and Church Dutch. Plain Dutch communities include Amish, Mennonites, and Brethren, whose religious and community norms emphasize a conservative lifestyle, close-knit communal living, and limited integration into mainstream American culture. Church Dutch communities belong mainly to Lutheran, Reformed, United Church of Christ, Methodist, and Baptist congregations.
+
+The sources discuss religious services rather than named festivals. Pennsylvania Dutch is used in preaching and other in-group settings among Amish communities, while English is used for most reading and writing, schooling, business transactions, and interactions with non-Amish people. Amish church services also involve prayers and songs in Standard or High German, *Hochdeitsch*.
+
+## Foodways
+
+Pennsylvania Dutch cuisine reflects German heritage, an agrarian society, and rejection of rapid change. It is associated especially with Philadelphia, Allentown, and Lancaster. Traditional cooking included baking pastries on cabbage leaves in wood-fired ovens, which protected them from hot spots. Soups are characteristic and often contain egg noodles. Traditional households kept broths made from available vegetable, fish, poultry, and meat liquids.
+
+Named soup categories include *Sippli*, a light broth; *Koppsupper*, a cup soup; *Suppe*, a thick chowder-like soup often served with bread; and *G'schmorte*, a soup without broth resembling a *Brei* or gravy. Soups may be thickened with mashed potatoes, flour, rice, noodles, fried bread, dumplings, or *Riwwels* or rivels, small dumplings made by rubbing egg yolk and flour between the fingers.
+
+Named dishes include Amish potato salad, apple butter, apple dumplings, Bova Shankel, brown butter noodles, hot bacon dressing, Pennsylvania-style chicken and waffles, chicken corn soup, chow-chow, coleslaw, cup cheese, hamloaf, hog maw, Lebanon bologna, peanut butter schmear, pepper cabbage, pork and sauerkraut, potato filling, potato rolls, pot pie, pretzel, red beet eggs, sauerbraten, Schnitz un knepp, and scrapple. Hog maw is called *Seimaaga* in the Pennsylvania Dutch dialect. Desserts include fastnachts, funnel cake, funny cake, whoopie pie, Montgomery pie, and shoofly pie. Birch beer is a named beverage.
+
+## Oral tradition & literature
+
+The sources identify Pennsylvania Dutch as historically and principally a spoken language, although written texts exist. Pennsylvania Dutch writing has no spelling standard, and competing systems follow American English orthography or Standard German orthography. Pennsylvania High German was a literary form of Palatine used in Pennsylvania, the Palatinate, and other Palatine states between the 1700s and early 1900s. It supported German education and instruction in schools and churches and appeared in Fraktur art and script. After Pennsylvania German schools were replaced by English-only schools, literary German disappeared from schools, churches, and newspapers.
+
+Modern preservation efforts include the newspaper *Hiwwe wie Driwwe*, founded by Michael Werner. Since 1997 it has published Pennsylvania Dutch poetry and prose, and since 2013 it has cooperated with the Pennsylvania German Cultural Heritage Center at Kutztown University of Pennsylvania. The sources also identify Pennsylvania Dutch books, Bible translations, a dictionary, and a grammar book. Kutztown University of Pennsylvania offers a minor program in Pennsylvania German Studies.
+
+## Language & religion
+
+Pennsylvania Dutch, also called Pennsylvania German, *Deitsch*, or *Pennsilfaanisch*, is a variety of Palatine German within the Rhine Franconian dialect area. It developed chiefly from Palatine German, with contributions from dialects associated with Baden, Hesse, Saxony, Swabia, Württemberg, Alsace, German Lorraine, and Switzerland. English has influenced vocabulary most strongly, with smaller effects on pronunciation and grammar. The language has three genders and three cases for personal pronouns; nouns use the common and dative cases, and there is no genitive case.
+
+Pennsylvania Dutch is spoken by both sectarian and nonsectarian communities, but most speakers belong to Old Order Amish and Old Order Mennonite groups. Nearly all Amish and Mennonites are bilingual in Pennsylvania Dutch and English. The dialect is best preserved among Old Order Amish and horse-and-buggy Old Order Mennonites. Religious affiliations among Pennsylvania Dutch include Lutheran, German Reformed, Mennonite, Amish, Brethren, Moravian, Seventh Day Baptist, Methodist, Baptist, Schwenkfelder, and Schwarzenau communities. Plain Dutch Anabaptists emphasize simple living, while Fancy Dutch communities have generally assimilated more readily into American society.
+
+## Sources & further reading
+
+- [Pennsylvania Dutch](https://en.wikipedia.org/wiki/Pennsylvania_Dutch)
+- [Pennsylvania Dutch language](https://en.wikipedia.org/wiki/Pennsylvania_Dutch_language)
+- [Pennsylvania Dutch cuisine](https://en.wikipedia.org/wiki/Pennsylvania_Dutch_cuisine)
+- UNESCO Intangible Cultural Heritage: no United States inscription concerning the Pennsylvania Dutch was provided in the sources.
+- Museum catalogue records: none were provided in the sources.

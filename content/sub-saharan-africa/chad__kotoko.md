@@ -13,15 +13,15 @@ The Kotoko, also called Mser, Moria, Bara and Makari, are a Chadic ethnic group 
 
 ### Architecture
 
- They state only that the Kotoko founded the Kotoko kingdom in c. 1500 CE.
+They state only that the Kotoko founded the Kotoko kingdom in c. 1500 CE.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention long canoes used for fishing, but provide no further description of their construction or form.
+They do mention long canoes used for fishing, but provide no further description of their construction or form.
 
 ## Festivals & rituals
 
- They state that most Kotoko profess Islam and are Sunni Muslims. The Kotoko began adopting Islam around the 16th century, while other communities did not convert until the 18th century. Their conversion was associated with the growing presence of Muslim merchants and clerics from the Bornu Empire, and many traditional beliefs and practices are incorporated into Kotoko Islamic practices.
+They state that most Kotoko profess Islam and are Sunni Muslims. The Kotoko began adopting Islam around the 16th century, while other communities did not convert until the 18th century. Their conversion was associated with the growing presence of Muslim merchants and clerics from the Bornu Empire, and many traditional beliefs and practices are incorporated into Kotoko Islamic practices.
 
 ## Foodways
 
@@ -29,7 +29,7 @@ The sources document fishing and agriculture among the Kotoko. Fish caught with 
 
 ## Oral tradition & literature
 
- The Kotoko are described as considered descendants of the Sao civilization, but the sources provide no associated oral narrative.
+The Kotoko are described as considered descendants of the Sao civilization, but the sources provide no associated oral narrative.
 
 ## Language & religion
 

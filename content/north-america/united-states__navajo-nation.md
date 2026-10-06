@@ -11,33 +11,29 @@ The Navajo Nation is a Native American reservation of Navajo people in the Unite
 
 ## Material culture
 
-### Clothing & dress
-
- They state that Navajo culture includes a philosophy called “walking in beauty,” but provide no description of clothing associated with it.
-
 ### Architecture
 
- They mention the traditional *naachid* / modern chapter house format as a proposed setting for a constitutional convention, and identify the Navajo Governmental Campus in Window Rock/Tségháhoodzání as the seat of government.
+They mention the traditional *naachid* / modern chapter house format as a proposed setting for a constitutional convention, and identify the Navajo Governmental Campus in Window Rock/Tségháhoodzání as the seat of government.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention livestock, agricultural fields, ranches, and farming in historical and economic contexts.
+They mention livestock, agricultural fields, ranches, and farming in historical and economic contexts.
 
 ## Music & performance
 
- They state that Navajo oral history is part of the tradition of governance and that the Navajo language is an essential element of the life, culture, and identity of the Navajo people.
+They state that Navajo oral history is part of the tradition of governance and that the Navajo language is an essential element of the life, culture, and identity of the Navajo people.
 
 ## Dance & theatre
 
- They mention the philosophy of “walking in beauty” and the importance of traditions and interpersonal interactions.
+They mention the philosophy of “walking in beauty” and the importance of traditions and interpersonal interactions.
 
 ## Festivals & rituals
 
- They document the Navajo Treaty of 1868, the Long Walk, the return from Bosque Redondo, and the continuing importance of oral history, clans, and traditional models of government.
+They document the Navajo Treaty of 1868, the Long Walk, the return from Bosque Redondo, and the continuing importance of oral history, clans, and traditional models of government.
 
 ## Foodways
 
- They state that the United States Army burned Navajo homes and agricultural fields and stole or killed livestock during the military campaigns of the 1860s. They also state that livestock herds were central to Navajo culture and a source of prestige, and that proposed government measures concerned subsistence farming and livestock industries.
+They state that the United States Army burned Navajo homes and agricultural fields and stole or killed livestock during the military campaigns of the 1860s. They also state that livestock herds were central to Navajo culture and a source of prestige, and that proposed government measures concerned subsistence farming and livestock industries.
 
 ## Oral tradition & literature
 

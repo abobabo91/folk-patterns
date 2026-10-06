@@ -25,15 +25,11 @@ The sources mention firearms obtained through cooperation with Arabs and weapons
 
 ## Music & performance
 
- They record a traditional *brrrr-hmm* call used by Yao honey-hunters in northern Mozambique to attract greater honeyguide birds. Hunters learn the call from their fathers and pass it on to their sons; a 2016 study reported that the chances of finding a beehive increased when hunters used it.
-
-## Dance & theatre
-
-The sources mention “Dances of the Yao” as a related topic but provide no description of named dances, dramatic traditions, ceremonial distinctions, or entertainment contexts.
+They record a traditional *brrrr-hmm* call used by Yao honey-hunters in northern Mozambique to attract greater honeyguide birds. Hunters learn the call from their fathers and pass it on to their sons; a 2016 study reported that the chances of finding a beehive increased when hunters used it.
 
 ## Festivals & rituals
 
- They state that Islam reached the Yao gradually during the 19th century, that chiefs and village headmen tended to convert first, and that Makanjila III adopted Islam as his personal and court religion in 1870. The sources also describe Yao Islam as folk Islam syncretized with traditional, animistic belief systems.
+They state that Islam reached the Yao gradually during the 19th century, that chiefs and village headmen tended to convert first, and that Makanjila III adopted Islam as his personal and court religion in 1870. The sources also describe Yao Islam as folk Islam syncretized with traditional, animistic belief systems.
 
 ## Foodways
 
@@ -41,7 +37,7 @@ The Yao are predominantly subsistence farmers and fishermen. Arab traders exchan
 
 ## Oral tradition & literature
 
- They state that Yao chiefs employed Islamic teachers and scribes who provided literacy, and that the Yao speak Chiyao. The sources also identify Yohanna Barnaba Abdallah as a Yao linguist and historian and Shaaban bin Robert as a Tanzanian poet.
+They state that Yao chiefs employed Islamic teachers and scribes who provided literacy, and that the Yao speak Chiyao. The sources also identify Yohanna Barnaba Abdallah as a Yao linguist and historian and Shaaban bin Robert as a Tanzanian poet.
 
 ## Language & religion
 

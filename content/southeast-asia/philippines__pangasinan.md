@@ -21,15 +21,15 @@ The sources describe *Pangasinan* as also referring to a ceramic jar used for st
 
 ## Music & performance
 
- They mention *Malinak Lay Labi* (“Calm is the Night”) as a traditional folk song in Pangasinan, and *Malinac ya Labi* as a work by Julian Velasco with an English translation. The sources also list *Say Cancanta*, which includes translations of English songs such as “Joy to the World” and “What A Friend We Have in Jesus.” No instrument names, musical ensembles, performance occasions, or ceremonial uses are described.
+They mention *Malinak Lay Labi* (“Calm is the Night”) as a traditional folk song in Pangasinan, and *Malinac ya Labi* as a work by Julian Velasco with an English translation. The sources also list *Say Cancanta*, which includes translations of English songs such as “Joy to the World” and “What A Friend We Have in Jesus.” No instrument names, musical ensembles, performance occasions, or ceremonial uses are described.
 
 ## Festivals & rituals
 
- Before Spanish colonization, the Pangasinan people believed in a pantheon of unique deities.
+Before Spanish colonization, the Pangasinan people believed in a pantheon of unique deities.
 
 ## Foodways
 
- They mention *asin*, the Pangasinan word for “salt,” and explain that Pangasinan can refer to a container of salt or salted products, including a ceramic jar used for their storage. The sources also list bagoong in a “See also” section.
+They mention *asin*, the Pangasinan word for “salt,” and explain that Pangasinan can refer to a container of salt or salted products, including a ceramic jar used for their storage. The sources also list bagoong in a “See also” section.
 
 ## Oral tradition & literature
 

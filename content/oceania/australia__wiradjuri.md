@@ -25,11 +25,11 @@ The documented Wiradjuri garment is the possum-skin cloak, made by stitching sev
 
 ### Architecture
 
- They do record places of historical and cultural significance, including Koonadan Historic Site, the Wellington Convict and Mission Site, Mungabareena Reserve, and sites at Yathong Nature Reserve and Nombinnie Nature Reserve.
+They do record places of historical and cultural significance, including Koonadan Historic Site, the Wellington Convict and Mission Site, Mungabareena Reserve, and sites at Yathong Nature Reserve and Nombinnie Nature Reserve.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe carved trees used as taphoglyphs and the hunting, fishing and food-gathering practices through which Wiradjuri people obtained food.
+They do describe carved trees used as taphoglyphs and the hunting, fishing and food-gathering practices through which Wiradjuri people obtained food.
 
 ## Music & performance
 
@@ -39,7 +39,7 @@ The sources also identify Wiradjuri people involved in music and the arts, inclu
 
 ## Dance & theatre
 
- They record corroborees around Mudgee in the 1850s and identify Ella Havelka as a Wiradjuri dancer.
+They record corroborees around Mudgee in the 1850s and identify Ella Havelka as a Wiradjuri dancer.
 
 ## Festivals & rituals
 
@@ -55,7 +55,7 @@ Wiradjuri people lived as hunter-fisher-gatherers, and their diet included yabbi
 
 ## Oral tradition & literature
 
- They state that Wiradjuri people shared traditions and that carved trees were associated with mythological cultural heroes and the deceased’s return to the sky.
+They state that Wiradjuri people shared traditions and that carved trees were associated with mythological cultural heroes and the deceased’s return to the sky.
 
 The Wiradjuri language is undergoing reclamation. The process was supported by a reconstructed grammar, earlier ethnographic materials and wordlists, and the memories of Wiradjuri families. A First Wiradjuri Dictionary was published in 2005 by Stan Grant Senior and John Rudder; a revised edition containing over 8,000 words was published in 2010. A Grammar of Wiradjuri language was published in 2014. The sources also mention a mobile app and web-based version based on the dictionary.
 

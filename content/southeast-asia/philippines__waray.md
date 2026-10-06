@@ -1,0 +1,61 @@
+---
+title: "Waray"
+subtitle: "Philippines"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Waray people, also called the Waray-Waray people, are a subgroup of the Visayan ethnolinguistic group and the fourth-largest Filipino ethnolinguistic group in the Philippines. They inhabit most of Samar, the northern part of Leyte, and Biliran; Waray-speaking communities also live on Maripipi Island and most of Ticao Island in Masbate province. Samar, Leyte, and Biliran together comprise the Eastern Visayas Region. In Leyte, a mountain range separates Waray-speaking communities from Cebuano-speaking Leyteños. The 2010 Philippine census recorded a Waray population of 3,660,645, while an updated 2020 census reported around 4.1 million. Their cultural profile includes the Waray language, pre-colonial traditions and rituals, coconut-based livelihoods, music, the Kuratsa courtship dance, and wedding customs involving the throwing of money.
+
+## Material culture
+
+### Architecture
+
+They mention the Old Spanish Cabecera only in connection with the Waray-Waray Cha-Cha, without describing its architecture.
+
+## Music & performance
+
+Waray people are described as having a strong love of music. The folk song **“Waray-Waray”** came to international attention in the 1960s when the American entertainer Eartha Kitt performed and recorded her own version. Kitt sang it in a mixture of Tagalog and Visayan, with some English interludes. The song was composed by Juan Silos, Jr., with lyrics by Levi Celerio, and centers on Waray women while reinforcing stereotypes of them as strong, combative, tough, thuggish, and grumpy. The song became part of a broader discourse on Filipina identity.
+
+The **Kuratsa** is traditionally accompanied by a rondalla or live string band. The music is complex and varies according to the wishes of the musicians; in some cases, the rondalla also sings while the performers dance.”
+
+## Dance & theatre
+
+The **Kuratsa**, also called **Kuratsa de Mayor**, is a popular Waray traditional dance performed at social gatherings, especially weddings, and is common throughout Samar. It is a courtship dance depicting the movements of a rooster and hen, animals described as prized commodities for the Waray people. The dance was initially thought to derive from *la cucaracha*, the Mexican cockroach dance, but the National Commission for Culture and the Arts later confirmed that it was Waray in origin.
+
+In a *sarayaw*, or social dancing event, the Kuratsa is considered essential. It is also performed at birthdays, weddings, baptisms, and political and sports events. The dance area is traditionally level rather than elevated, allowing spectators to surround the dancers. The *parag-adu*, the person who pairs the dancers, calls them forward, after which the pairs proceed to the *paseo*.
+
+The first movements include the rapid *siki-siki*, or foot steps, and *tinikud-tikud*, or heel steps. Men perform the rapid vibrating *sarakiki*, associated with the agility of the rooster, while women perform the languorous, wavy *mabalud-balud*. The dance includes the romantic *palanat*, followed by *dagit*, or swoop-down steps, and *wali*, or lift steps. Other movements include *gapus-gapusay*, *parayaw*, and *lubay-lubay*.
+
+## Festivals & rituals
+
+They do document the Kuratsa within life-cycle and community events. The dance is performed at birthdays, weddings, baptisms, political events, and sports events.
+
+The Kuratsa is especially associated with the Waray wedding ritual known as *bakayaw*. The bride and groom dance first, followed by the *ninang* and *ninong*, the principal sponsors of the marriage. During the *bakayaw*, people traditionally throw money toward the dancing bride and groom. This money is called *gala* and is collected and offered by the groom to the bride as a precursor of married life. Friends and family usually throw substantial amounts because Warays believe that the more money showered on the couple, the more blessings will arrive.
+
+Another part of the dance is *gapus-gapusay*, in which the dancers are tied with a kerchief at separate times. A tied partner is released only after the free partner immobilizes the *sabwag*, or dropping money on a scarf placed at the center of the ground. The *sabwag* is described as depicting the dowry.
+
+## Foodways
+
+Coconut is the most important crop and a major source of income for many Waray people. Rice and corn are also important agricultural products, while sugarcane, abaca, tobacco, cassava, and *camote*, or sweet potato, are grown as well. Pineapple, banana, mangoes, other fruit, vegetables, peanuts, and the root crop *palawan* are also mentioned. Leyte is described as a major producer of bananas.
+
+Farming and fishing provide much of the livelihood of the Waray-Waray, and the region has an impressive variety of seafood. Native wines are produced locally. *Tuba* is extracted from coconut palm nectar; *manyang* is extracted from palm trees and is common in Northern Samar; and *pangasi* is made from fermented rice.
+
+## Oral tradition & literature
+
+They do record the proverb-like phrase *Basta ang Waray, hindi uurong sa away*, translated as “The Waray would never back down from a fight.” The phrase reflects a stereotype of the Waray-Waray as brave warriors, while the sources connect negative portrayals of Warays as violent and callous to notorious Waray-Waray gangs.
+
+The folk song “Waray-Waray” also conveys stereotypes about Waray women. Its lyrics state that Waray women will never flee, even in the face of death, and that they do not fear anyone.
+
+## Language & religion
+
+Waray is an Austronesian language native to Eastern Visayas and the native language of the Waray people. It is also known as Waray-Waray, Bisayâ or Binisayâ, Winaray or Waray, and, in Spanish, *idioma samareño*. It is the third most spoken language among the Bisayan languages, after Cebuano and Hiligaynon. The term *Waray* means “nothing” or “none” in the language. The formal names *Lineyte-Samarnon* and *Binisaya* are also given.
+
+Waray is spoken predominantly on Samar, with Cebuano spoken in some areas. Named variants include *estehanon* for Eastern Samar Waray, *nortehanon* for Northern Samar Waray, and *westehanon*, also called Kinalbayog or Calbayognon, for Western Samar Waray. The language is written in the Latin script, using the 28-letter Filipino alphabet. Since 2012, it has been used in education from kindergarten to primary level within the Philippine government’s K–12 program. It is also used in Roman Catholic Masses, Christian worship services, and Bibles. The sources mention a growing Muslim population and the Tacloban Mosque and Islamic Center, where scriptures and Friday sermons are offered in Waray and Cebuano.
+
+## Sources & further reading
+
+- “Waray people,” Wikipedia: https://en.wikipedia.org/wiki/Waray_people
+- “Waray language,” Wikipedia: https://en.wikipedia.org/wiki/Waray_language

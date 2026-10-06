@@ -13,15 +13,15 @@ The Gitxsan, also spelled Gitksan and Kitksan, are an Indigenous people in Canad
 
 ### Architecture
 
- They do identify the *Wilp* as an independent House within a Gitxsan clan, but provide no architectural description of these Houses.
+They do identify the *Wilp* as an independent House within a Gitxsan clan, but provide no architectural description of these Houses.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention Gitksan art, carving, and totem poles in connection with museum and bibliographic records.
+They do mention Gitksan art, carving, and totem poles in connection with museum and bibliographic records.
 
 ## Music & performance
 
- They identify Billy ThunderKloud as a singer and entertainer, a Nashville recording artist, and a hereditary chief.
+They identify Billy ThunderKloud as a singer and entertainer, a Nashville recording artist, and a hereditary chief.
 
 ## Festivals & rituals
 
@@ -31,7 +31,7 @@ The sources identify the Gitksan Potlatch in the bibliography of the Gitxsan art
 
 ## Foodways
 
- They state that Gitxsan Houses have traditional territories and fishing sites, but provide no further account of fishing practices, food preparation, preservation, exchange, or feasting.
+They state that Gitxsan Houses have traditional territories and fishing sites, but provide no further account of fishing practices, food preparation, preservation, exchange, or feasting.
 
 ## Oral tradition & literature
 

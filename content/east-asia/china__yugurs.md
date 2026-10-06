@@ -13,23 +13,23 @@ The Yugurs, also known as Yughurs or Yugu, are a Turko-Mongol ethnic group and o
 
 ### Architecture
 
- They identify the valley of the Ejin River, the Qilian Mountains, and the area near present Zhangye as places associated with Yugur history.
+They identify the valley of the Ejin River, the Qilian Mountains, and the area near present Zhangye as places associated with Yugur history.
 
 ## Music & performance
 
- The only related documentation mentioned is a small glossary of Yugur words, with notes on administration and geographical situation, published by Russian explorer Grigory Potanin in 1893.
+The only related documentation mentioned is a small glossary of Yugur words, with notes on administration and geographical situation, published by Russian explorer Grigory Potanin in 1893.
 
 ## Festivals & rituals
 
- They state that the Yugurs are mostly Tibetan Buddhists and that their ancestors who rejected conversion to Islam remained Vajrayana Buddhists to the present day. The Yugurs adopted the Gelug order of Tibetan Buddhism in the late 16th century under the influence of Sonam Gyatso, the third Dalai Lama.
+They state that the Yugurs are mostly Tibetan Buddhists and that their ancestors who rejected conversion to Islam remained Vajrayana Buddhists to the present day. The Yugurs adopted the Gelug order of Tibetan Buddhism in the late 16th century under the influence of Sonam Gyatso, the third Dalai Lama.
 
 ## Foodways
 
- They state only that the Yugurs are mostly Tibetan Buddhists and that Mongolic and Chinese are used in eastern provinces.
+They state only that the Yugurs are mostly Tibetan Buddhists and that Mongolic and Chinese are used in eastern provinces.
 
 ## Oral tradition & literature
 
- The available source mentions original Western Yugur texts with English translation and a PDF grammar of Sarig Yugur.
+The available source mentions original Western Yugur texts with English translation and a PDF grammar of Sarig Yugur.
 
 ## Language & religion
 

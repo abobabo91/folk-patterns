@@ -13,11 +13,11 @@ Aboriginal Tasmanians are the Aboriginal people of Tasmania, a large island sout
 
 ### Clothing & dress
 
- They record that sealers traded in Aboriginal women and that Aboriginal women were skilled in hunting seals and obtaining foods such as seabirds.
+They record that sealers traded in Aboriginal women and that Aboriginal women were skilled in hunting seals and obtaining foods such as seabirds.
 
 ### Architecture
 
- They mention unoccupied shelters found on Bruny Island during the visit of the Resolution in 1773, but provide no architectural description.
+They mention unoccupied shelters found on Bruny Island during the visit of the Resolution in 1773, but provide no architectural description.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,7 +43,7 @@ Aboriginal women were highly skilled in hunting seals and obtaining other foods 
 
 ## Oral tradition & literature
 
- Oral traditions have been studied alongside archaeological evidence in research into the environmental history of the Bassian Plain and the formation of Bass Strait.
+Oral traditions have been studied alongside archaeological evidence in research into the environmental history of the Bassian Plain and the formation of Bass Strait.
 
 Oral traditions also appear in debates about Aboriginal identity and descent. The sources record claims by the Huon and Channel Aboriginal people of descent from two Aboriginal women, although research found that both women were non-Aboriginal convict women. Contemporary cultural preservation includes the reconstruction and revival of *palawa kani* from historical wordlists and linguistic records.
 

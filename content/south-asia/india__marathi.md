@@ -21,11 +21,11 @@ Traditional Maharashtra attire includes the *dhoti* and *pheta* for men. Women w
 
 ### Architecture
 
- They do document temples, forts, and historical monuments in Maharashtra. Temples combine architectural styles borrowed from North and South India and blend themes from Hindu, Buddhist, and Jain cultures. Maharashtra has many hill, land, and sea forts, including *Shivneri*, *Raigad*, *Vijaydurg*, *Pratapgad*, and *Sinhagad*. The sources state that forts played an important role in Maharashtra’s history, especially from the time of Chhatrapati Shivaji Maharaj. Historical monuments named in the sources include the Gateway of India, Chhatrapati Shivaji Maharaj Terminus, Shaniwar Wada, Aga Khan Palace, and Deekshabhoomi.
+They do document temples, forts, and historical monuments in Maharashtra. Temples combine architectural styles borrowed from North and South India and blend themes from Hindu, Buddhist, and Jain cultures. Maharashtra has many hill, land, and sea forts, including *Shivneri*, *Raigad*, *Vijaydurg*, *Pratapgad*, and *Sinhagad*. The sources state that forts played an important role in Maharashtra’s history, especially from the time of Chhatrapati Shivaji Maharaj. Historical monuments named in the sources include the Gateway of India, Chhatrapati Shivaji Maharaj Terminus, Shaniwar Wada, Aga Khan Palace, and Deekshabhoomi.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention *Twashta Kasar* as an artisan caste that traditionally worked with brass, and *Kumbhar* as the potter or pottery-related village-servant caste, but provide no catalogue of objects or techniques.
+They mention *Twashta Kasar* as an artisan caste that traditionally worked with brass, and *Kumbhar* as the potter or pottery-related village-servant caste, but provide no catalogue of objects or techniques.
 
 ### Jewelry & body adornment
 

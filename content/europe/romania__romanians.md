@@ -9,13 +9,9 @@ tags: [ethnography, europe]
 
 Romanians are a Romance-speaking ethnic group and nation native to Central, Eastern, and Southeastern Europe. They live primarily in Romania and Moldova, and also form minorities in Hungary, Serbia, including Timok, and Ukraine. Other communities are found in Italy, Spain, Germany, the United Kingdom, France, the United States, Canada, Israel, Brazil, Australia, Argentina, and New Zealand. Estimates of the worldwide Romanian population vary from 24 to 30 million, depending on whether the definition includes natives of Romania and Moldova, their diasporas, and speakers of other Eastern Romance languages. Romanian is the most spoken Eastern Romance language. The group's history includes ancient Getae and Dacian populations, Roman rule, medieval Vlach communities, the Danubian Principalities, and the later development of Romania.
 
-## Festivals & rituals
-
- The sources mention Orthodox prelates among Romanians in Muntenia in the 1230s, but provide no description of associated rituals.
-
 ## Foodways
 
- The sources record that people from the Bulgar Empire mined salt from mines in Turda, Ocna Mureș, Sărățeni, and Ocnița, and traded and transported salt throughout the Bulgar Empire.
+The sources record that people from the Bulgar Empire mined salt from mines in Turda, Ocna Mureș, Sărățeni, and Ocnița, and traded and transported salt throughout the Bulgar Empire.
 
 ## Oral tradition & literature
 

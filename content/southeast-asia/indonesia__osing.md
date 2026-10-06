@@ -13,7 +13,7 @@ The Osing, also called Using or *Lare Osing*, are a sub-group of Javanese people
 
 ### Architecture
 
- They state that mosques and *puras*, described as Balinese Hindu temples, can be built near one another in Banyuwangi. The government of Banyuwangi Regency established Kemiren village in Glagah district as a customary village intended to preserve Osing cultural values, and the village is also described as a tourist destination where cultural festivals and annual artistic events are held.
+They state that mosques and *puras*, described as Balinese Hindu temples, can be built near one another in Banyuwangi. The government of Banyuwangi Regency established Kemiren village in Glagah district as a customary village intended to preserve Osing cultural values, and the village is also described as a tourist destination where cultural festivals and annual artistic events are held.
 
 ## Music & performance
 
@@ -29,7 +29,7 @@ The sources state that cultural festivals and annual artistic events are often h
 
 ## Foodways
 
- They state only that the main profession of the Osing people is farming, with smaller numbers of traders and officers in formal employment.
+They state only that the main profession of the Osing people is farming, with smaller numbers of traders and officers in formal employment.
 
 ## Oral tradition & literature
 

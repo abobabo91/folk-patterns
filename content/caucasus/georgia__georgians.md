@@ -33,7 +33,7 @@ Georgian dance uses movements intended to express strength, agility, bravery, sm
 
 ## Festivals & rituals
 
- They do describe religious and historical contexts in which ritual practices developed. Pagan beliefs, the cult of Mithras, and Zoroastrianism were practiced in Georgia in the first centuries A.D., while Christianity became the state religion of Kartli, or Iberia, in 319 or 326. The conversion of Kartli to Christianity is credited to St. Nino of Cappadocia.
+They do describe religious and historical contexts in which ritual practices developed. Pagan beliefs, the cult of Mithras, and Zoroastrianism were practiced in Georgia in the first centuries A.D., while Christianity became the state religion of Kartli, or Iberia, in 319 or 326. The conversion of Kartli to Christianity is credited to St. Nino of Cappadocia.
 
 The sources state that Georgian tribes preserved rituals after the arrival of Christianity, adapting them to the new religion. They also describe Orthodox churches and monasteries, icons, and hagiographies of Georgian saints as important expressions of medieval Georgian culture. In the cuisine section, a Caucasian feast called *supra* is described as a major cultural setting involving a large assortment of dishes, large amounts of wine, and meals lasting for hours. The *tamada*, or toastmaster, holds an important and honoured position at such a feast.
 

@@ -37,11 +37,11 @@ The Bara live in rectangular earthen houses. The soil’s high iron content give
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe the *hazomanga*, a wooden pillar that served as the most sacred public altar for group prayer and offerings in each village, and a *kiady*, a special barrier erected during certain healing rituals.
+They do describe the *hazomanga*, a wooden pillar that served as the most sacred public altar for group prayer and offerings in each village, and a *kiady*, a special barrier erected during certain healing rituals.
 
 ### Jewelry & body adornment
 
- Wearing charms is common among the Bara. Charms called *tsimokotra* were historically made from the bones of lemurs’ feet to relieve fatigue. Raw cotton yarn called *fole velo* could be tied around the wrist for protection, or wrapped around participants in circumcision ceremonies. During mourning, bereaved family members cut their hair to express sorrow.
+Wearing charms is common among the Bara. Charms called *tsimokotra* were historically made from the bones of lemurs’ feet to relieve fatigue. Raw cotton yarn called *fole velo* could be tied around the wrist for protection, or wrapped around participants in circumcision ceremonies. During mourning, bereaved family members cut their hair to express sorrow.
 
 ## Music & performance
 
@@ -55,7 +55,7 @@ The most popular contemporary Bara dance is *kilalaky*, performed in a line and 
 
 ## Festivals & rituals
 
- They do describe life-cycle, healing, ancestor and mourning practices.
+They do describe life-cycle, healing, ancestor and mourning practices.
 
 At birth, a village *ombiasy*, or seer, was traditionally consulted to determine whether a child was destined for a fortunate or unhappy fate. If the fate was considered unhappy, an exorcism could be performed in which the infant was slid down a chute into a body of water and retrieved by the mother. If the evil destiny was judged too strong, the infant was left on an anthill to die. During childbirth, the mother was secluded for four days; men watched over the birthing process and conducted associated rites.
 

@@ -29,15 +29,11 @@ In the lowlands, Totonac society was mostly based on semi-isolated familial unit
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that there was a total absence of comals, metates, and manos, and connect this absence with the claim that Totonacs did not eat tortillas.
+They do state that there was a total absence of comals, metates, and manos, and connect this absence with the claim that Totonacs did not eat tortillas.
 
 ### Jewelry & body adornment
 
 Noble Totonac women wore shell and jade necklaces and earrings, and often tattooed their faces with red ink. Women braided their hair with feathers. Noble men wore necklaces, arm bands, lip plugs, and devices made of prized quetzal feathers. Men also kept their hair long, with a thick tuft tied with a ribbon.
-
-## Music & performance
-
- They mention **Danza de los Voladores de Papantla** in the article’s “See also” section, but provide no description of its music or performance.
 
 ## Dance & theatre
 

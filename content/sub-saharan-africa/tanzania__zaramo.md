@@ -13,7 +13,7 @@ The Zaramo, also called Dzalamo or Saramo, are a Bantu ethnic group of Tanzania�
 
 ### Clothing & dress
 
-The sources state that Zaramo people have borrowed forms of dress from general Swahili and Arab culture, including the wearing of a skull cap. They also describe Islamic festivals and Muslim observances as part of Zaramo life. No specific garment names, women’s dress, belts, footwear, or ceremonial clothing are documented in the supplied sources. The sources therefore do not permit a fuller account of everyday and ritual dress.
+The sources state that Zaramo people have borrowed forms of dress from general Swahili and Arab culture, including the wearing of a skull cap. They also describe Islamic festivals and Muslim observances as part of Zaramo life. The sources therefore do not permit a fuller account of everyday and ritual dress.
 
 ### Architecture
 
@@ -45,7 +45,7 @@ Zaramo initiation includes named dances with distinct ritual functions. *Mbiga* 
 
 ## Festivals & rituals
 
- They describe Islamic festivals and Muslim observances as influences borrowed from Swahili and Arab culture.
+They describe Islamic festivals and Muslim observances as influences borrowed from Swahili and Arab culture.
 
 The best-documented ritual cycle is initiation. Male initiation is called *nhulu*, meaning “growth.” It takes place during the dry season and occurs about once every three years. Each novice, *mwali*, has an instructor called *mhunga*, who guides the youth through circumcision and teaches Zaramo sex lore and practice. After circumcision, the initiates stay in a *kumbi*, or initiation hut, where they are taught and are not permitted to bathe for two weeks. After the later village celebrations, the instructors burn the kumbi and objects associated with initiation.
 
@@ -65,7 +65,7 @@ The sources mention ceremonial mwali bathing, healing rituals, grave offerings, 
 
 Zaramo origins are explained in an oral tradition concerning the Shomvi people and the warrior-hero *Pazi*. In the early 19th century, an offshoot group of Kamba people from Kenya attacked the Shomvi, who sought Pazi’s help. After defeating the Kamba, Pazi demanded salt, cloth, and other luxuries. When the Shomvi could not provide them, they offered Pazi and his family residence on the coast in exchange for an annual tribute. The war and its aftermath were said to have founded the Zaramo.
 
-The sources also state that the Zaramo language has very few translations. A list of Zaramo words and phrases was provided by a native speaker for *Short Specimens of the Vocabularies of Three Unpublished African Languages: Gindo, Zaramo, and Angazidja*. The publication of the New Testament from 1975 is also mentioned. No Zaramo epic, proverb collection, riddle tradition, named folktale cycle, or contemporary literary revival is documented in the supplied sources.
+The sources also state that the Zaramo language has very few translations. A list of Zaramo words and phrases was provided by a native speaker for *Short Specimens of the Vocabularies of Three Unpublished African Languages: Gindo, Zaramo, and Angazidja*. The publication of the New Testament from 1975 is also mentioned.
 
 ## Language & religion
 

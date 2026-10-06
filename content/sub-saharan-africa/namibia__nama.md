@@ -53,7 +53,7 @@ The sources also state that the Nama settlement at |Ae||gams, modern-day Windhoe
 
 ## Festivals & rituals
 
- They do describe wedding and funeral rituals.
+They do describe wedding and funeral rituals.
 
 A Nama marriage begins when a man discusses his intentions with his family. If they agree, his family accompanies him to the bride’s home. Animal hides are placed in the yard for different groups to sit and discuss. The groom’s family asks for the gate to be opened and questions him about the bride, including their first meeting and her body marks. If the bride is pregnant or already has children, a “door cleansing” ceremony takes place, involving the slaughter and consumption of a snow-white goat.
 

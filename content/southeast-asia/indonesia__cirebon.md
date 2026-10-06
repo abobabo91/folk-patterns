@@ -25,11 +25,11 @@ The sources describe ceremonial clothing connected with the Cirebonese Royal Wed
 
 ### Architecture
 
- They state that the construction of the Cirebon palace in the 15th century was associated with the emergence of traditional Islamic patterns and that the palace became a symbol of Cirebonese identity. The sources also mention the Cirebonese palace, the Kasepuhan palace, the cungkup used for Siraman and the Astana Gunung Jati Tomb of the Cirebonese Kings Complex.
+They state that the construction of the Cirebon palace in the 15th century was associated with the emergence of traditional Islamic patterns and that the palace became a symbol of Cirebonese identity. The sources also mention the Cirebonese palace, the Kasepuhan palace, the cungkup used for Siraman and the Astana Gunung Jati Tomb of the Cirebonese Kings Complex.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention the *pipisan*, a type of millstone or rectangular stone wrapped in white cloth, as an object used during the Temon or Salam Temon wedding ceremony. The wedding dowry may include valuables in the form of jewelry or cash, and the *mas picis* bearers carry jewelry and cash to the woman’s parents.
+They mention the *pipisan*, a type of millstone or rectangular stone wrapped in white cloth, as an object used during the Temon or Salam Temon wedding ceremony. The wedding dowry may include valuables in the form of jewelry or cash, and the *mas picis* bearers carry jewelry and cash to the woman’s parents.
 
 ### Jewelry & body adornment
 
@@ -49,7 +49,7 @@ The sources also mention *Pewayangan* from Cirebon. The Gegesik dialect is often
 
 ## Festivals & rituals
 
- They provide an extensive account of the Cirebonese Royal Wedding, called *Pelakrama Ageng* in Cirebonese. The ceremony emphasizes Islam and local moral values, including simplicity and the avoidance of *ria*, the attitude of wanting to be praised. Dowries may consist of tubers, vegetables and valuables according to the groom’s means.
+They provide an extensive account of the Cirebonese Royal Wedding, called *Pelakrama Ageng* in Cirebonese. The ceremony emphasizes Islam and local moral values, including simplicity and the avoidance of *ria*, the attitude of wanting to be praised. Dowries may consist of tubers, vegetables and valuables according to the groom’s means.
 
 The wedding procession begins with the proposal, called *tetali* or *njegog*, when a messenger visits the woman’s parents. The woman gives her answer in the messenger’s presence, and the wedding date is then discussed. Other stages include delivery of the dowry, Siraman, Parasan, grave visitation, fetching the groom, solemnization, Temon or Salam Temon, Sawer, sprinkling of *pugpugan*, partaking of yellow sticky rice and parental blessings.
 
@@ -65,7 +65,7 @@ In Sawer, coins mixed with yellow rice and turmeric are scattered so that the co
 
 ## Oral tradition & literature
 
- They mention *macapat*, a love song with advice played after the parental-blessings ceremony, and Pewayangan from Cirebon, in which the Gegesik dialect may be used by the *Dalang*. No stories, literary works or preservation projects are described.
+They mention *macapat*, a love song with advice played after the parental-blessings ceremony, and Pewayangan from Cirebon, in which the Gegesik dialect may be used by the *Dalang*. No stories, literary works or preservation projects are described.
 
 ## Language & religion
 

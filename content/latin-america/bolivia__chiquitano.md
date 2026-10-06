@@ -19,21 +19,17 @@ The Chiquitano, or Chiquitos, are an Indigenous people of Bolivia, with a small 
 
 The Chiquitos are associated in the sources with Indian huts whose small doors were said to have inspired the Spanish name Chiquitos, meaning “little ones.” During the mission period, Chiquitanos were confined to settlements known as reductions, including San Javier de los Piñocas, Concepción, San Ignacio, Santa Ana, San Rafael, San José, San Juan, Santiago, Santo Corazón, and San Miguel.
 
-## Music & performance
-
- They state that the Chiquito language was adopted as a means of communication among converts during the Jesuit mission period, but they provide no information about music or performance.
-
 ## Festivals & rituals
 
 The sources describe Jesuit evangelization and state that the missionaries emphasized prayer and work as the main activities of a worthy life.
 
 ## Foodways
 
- They mention agriculture, cattle husbandry, and the illnesses malaria, beriberi, and scurvy in the context of rubber labor.
+They mention agriculture, cattle husbandry, and the illnesses malaria, beriberi, and scurvy in the context of rubber labor.
 
 ## Oral tradition & literature
 
- They do record several published grammatical and lexicographic works, including a grammar and basic vocabulary of Chiquitano and a dictionary of Migueleño Chiquitano.
+They do record several published grammatical and lexicographic works, including a grammar and basic vocabulary of Chiquitano and a dictionary of Migueleño Chiquitano.
 
 ## Language & religion
 

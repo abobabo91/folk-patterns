@@ -27,11 +27,11 @@ The traditional dwelling is called a *sierranju* (Chinese: 斜仁柱; pinyin: xi
 
 ### Ceramics, metalwork & everyday objects
 
- Birch bark is used to make containers, cradles, and boats. The sources also describe hunting, animal furs, skins, needles, sinew, pine sticks, and central fires.
+Birch bark is used to make containers, cradles, and boats. The sources also describe hunting, animal furs, skins, needles, sinew, pine sticks, and central fires.
 
 ## Music & performance
 
- They mention spirit songs in connection with shamanic practice and describe the last living shaman, Chuonnasuan, whose account includes altered states of consciousness and one ritual journey to the lower world, called *Buni*. No further musical information is provided.
+They mention spirit songs in connection with shamanic practice and describe the last living shaman, Chuonnasuan, whose account includes altered states of consciousness and one ritual journey to the lower world, called *Buni*. No further musical information is provided.
 
 ## Festivals & rituals
 
@@ -41,11 +41,11 @@ A ritual to “send away the spirits” and ask them not to return was held over
 
 ## Foodways
 
- They state that the Oroqen were mainly hunters and that, during the Japanese occupation of Manchuria, some were forced to hunt animals in exchange for rations and clothing that were sometimes insufficient for survival.
+They state that the Oroqen were mainly hunters and that, during the Japanese occupation of Manchuria, some were forced to hunt animals in exchange for rations and clothing that were sometimes insufficient for survival.
 
 ## Oral tradition & literature
 
- They report that Chuonnasuan’s life, initiatory illness, and training as a shaman are described in a published article. His account includes spirit songs, altered states of consciousness, and a ritual journey to *Buni*, the lower world or land of the dead.
+They report that Chuonnasuan’s life, initiatory illness, and training as a shaman are described in a published article. His account includes spirit songs, altered states of consciousness, and a ritual journey to *Buni*, the lower world or land of the dead.
 
 The sources also mention the Oroqen language’s lack of a traditional written form. Since the 1980s, teachers in Oroqen-speaking areas have produced language materials using either the International Phonetic Alphabet or Pinyin.
 

@@ -13,7 +13,7 @@ The Chukchi, also called Chukchee, are a Siberian ethnic group native to the Chu
 
 ### Textile & pattern traditions
 
- They state that traditional clothing is made from skins and fur and decorated with beads and embroidery on holidays and special occasions.
+They state that traditional clothing is made from skins and fur and decorated with beads and embroidery on holidays and special occasions.
 
 **Motif vocabulary.** The sources name landscapes, hunting scenes, and animals as common themes in sculpture and carving on bones and walrus tusks.
 
@@ -27,7 +27,7 @@ Only one named dwelling form is identified in the sources: the *yaranga* tent. S
 
 ### Ceramics, metalwork & everyday objects
 
- They identify sculpture and carving on bones and walrus tusks as a form of folk art, with landscapes, hunting scenes, and animals among its common themes. Walrus ivory carving was also practiced in coastal areas.
+They identify sculpture and carving on bones and walrus tusks as a form of folk art, with landscapes, hunting scenes, and animals among its common themes. Walrus ivory carving was also practiced in coastal areas.
 
 ### Jewelry & body adornment
 
@@ -35,21 +35,21 @@ The sources mention beads as decoration on traditional clothing and do not docum
 
 ## Music & performance
 
- They mention Chukchi myths and describe shamans communicating with spirits and allowing spirits to speak through them during rituals. A Chukchi shaman explained to the ethnographer Vladimir Bogoraz that objects and parts of the house possessed voices, tribes, and countries of their own.
+They mention Chukchi myths and describe shamans communicating with spirits and allowing spirits to speak through them during rituals. A Chukchi shaman explained to the ethnographer Vladimir Bogoraz that objects and parts of the house possessed voices, tribes, and countries of their own.
 
 ## Dance & theatre
 
- They state that shamans fell into trances during rituals, sometimes with the aid of hallucinogenic mushrooms, communicated with spirits, predicted the future, and cast spells.
+They state that shamans fell into trances during rituals, sometimes with the aid of hallucinogenic mushrooms, communicated with spirits, predicted the future, and cast spells.
 
 ## Festivals & rituals
 
- They state that clothing was decorated with beads and embroidery on holidays and special occasions, and that men wore loose shirts and trousers of skins and fur at important traditional events.
+They state that clothing was decorated with beads and embroidery on holidays and special occasions, and that men wore loose shirts and trousers of skins and fur at important traditional events.
 
 Chukchi religious practice assigned a spirit to every object, whether animate or inanimate. Spirits could be harmful or benevolent, and some myths revealed a dualistic cosmology. During rituals, shamans entered trances, communicated with spirits, allowed spirits to speak through them, predicted the future, and cast spells. Early Russian ethnographers recorded that shamans were said to be called by spirits, dreams, or omens and were believed capable of flight, exorcism, and healing.
 
 ## Foodways
 
- They state that the Chukchi traditionally relied on hunting, fishing, and reindeer herding. Current subsistence hunting includes polar bears, seals, walruses, whales, and reindeer. Coastal Chukchi were largely settled fishers and hunters, mainly of sea mammals, while inland Chukchi were partial reindeer herders.
+They state that the Chukchi traditionally relied on hunting, fishing, and reindeer herding. Current subsistence hunting includes polar bears, seals, walruses, whales, and reindeer. Coastal Chukchi were largely settled fishers and hunters, mainly of sea mammals, while inland Chukchi were partial reindeer herders.
 
 ## Oral tradition & literature
 

@@ -132,6 +132,7 @@ python scripts/world_peoples.py report
 python scripts/world_peoples.py europeana-objects
 python scripts/normalize_kinds.py --world
 python scripts/world_peoples.py candidates
+FOLK_LLM_BACKEND=codex python scripts/world_peoples.py screen
 python scripts/unvetted.py resolve
 python scripts/unvetted.py places
 python scripts/unvetted.py build
@@ -149,8 +150,14 @@ no vetted objects or facets; their writeup comes from Wikipedia alone (Stub
 writeups below). `unvetted.py build` creates a quiet stub
 shard when no existing atlas ethnicity matches, placed as described under
 Stub placement below.
-A stub is written only when at least one candidate resolves to an image; a
-people with nothing to show stays off the map. Matching reads only vetted
+Every living people gets a stub, also with no objects: `world_peoples.py
+screen` has local Codex judge each classified people not yet on the map, in
+batches of 30 per country with the names already on the map and the other
+candidates of that country as context, as keep / extinct / duplicate /
+not_people (`data/world/screened.json`, raw replies in `screen_raw.jsonl`).
+On 2026-10-05 it judged 967: 865 keep, 50 extinct, 38 duplicate, 14 not a
+people. A kept people with no resolvable image becomes a zero-object stub
+("No museum objects found yet"); 857 of the 1,471 stubs are such. Matching reads only vetted
 shards: `build_index.py` writes the stubs into `data/ethnicities/` too, and a
 people matched against its own stub would drop out of `stubs.json` on the next
 build. Country names that differ from `world-countries.geojson` (United States,
@@ -200,6 +207,34 @@ unreviewed candidates. These writeups are long-form and are not run through
 `--preview`), its fixed section list puts back "The profile does not describe
 Khevsurian architecture" for every section the article does not cover, and
 Khevsurians grew from 2,489 to 4,169 characters.
+
+Stub writeups run 2 (2026-10-05/06, the stubs added by the screen step): 860
+written, 32 Wikipedia fetches rate-limited on the first pass and written on a
+rerun; all 1,471 stubs have a writeup. `_drop_uncovered` was then re-applied to
+every stub writeup, including the reading-list form of the remark ("- Museum
+catalogue records: no object records were provided in the sources used").
+
+Stub photos: `stub_commons.py` gives the zero-object stubs Wikimedia Commons
+photos. `gather` (no LLM) takes the people's Commons category from Wikidata
+P373, its subcategories whose names point at costume, craft, art or culture,
+and the images in its Wikipedia article, up to 15 per culture. `review` puts
+one culture's candidates on one numbered contact sheet and asks local Codex
+once, with `commons_editorial.py`'s criteria plus a rule against graphic scenes
+(a Jek wedding's slaughter photos passed without it) and everyday snapshots.
+`dedupe` drops kept photos whose 8x8 average hash is within 6 bits of an
+earlier one (one picture under two file names, tif/jpg pairs). The panel shows
+them as "Photographs (Wikimedia Commons, unreviewed)". Following every
+subcategory was tried and dropped: for Avars it returned 13 of 20 images of
+politicians. Run of 2026-10-05/06: 857 cultures gathered (128 rate-limited
+on 4 workers, done again on 1), 705 with candidates, 4,593 images; 2,796
+kept by the sheet check, 70 near-duplicates dropped; 589 stubs now show 2,726
+photos.
+
+```bash
+python scripts/stub_commons.py gather
+FOLK_LLM_BACKEND=codex python scripts/stub_commons.py review
+python scripts/stub_commons.py dedupe
+```
 
 Stub placement: `unvetted.py places` asks local Codex for each stub's homeland
 point and caches it in `data/world/stub_places.json`. Against the stubs with a

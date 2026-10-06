@@ -13,7 +13,7 @@ The Aparai or Apalai are an Indigenous people of Brazil who live in Amapá and P
 
 ### Architecture
 
- They state that most settlements are small and that there are 18 settlements. Aldeia Bona was founded by FUNAI to concentrate the population of the Apalaí and Wayana.
+They state that most settlements are small and that there are 18 settlements. Aldeia Bona was founded by FUNAI to concentrate the population of the Apalaí and Wayana.
 
 ## Foodways
 

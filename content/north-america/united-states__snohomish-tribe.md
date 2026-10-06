@@ -35,11 +35,11 @@ Larger villages could include a potlatch house, known as *sgʷigʷialʔtxʷ*, us
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden and fiber objects, including carved house posts, cedar palisades, cattail mats, longhouse planks, and boards associated with the spirit *sgʷədilič*. Fishing equipment included river weirs called *stqalikʷ*, dip-nets called *luk̓ʷ*, traps, hooks, and spears. Pine chips were used as flares for fishing at night.
+They do describe wooden and fiber objects, including carved house posts, cedar palisades, cattail mats, longhouse planks, and boards associated with the spirit *sgʷədilič*. Fishing equipment included river weirs called *stqalikʷ*, dip-nets called *luk̓ʷ*, traps, hooks, and spears. Pine chips were used as flares for fishing at night.
 
 ### Jewelry & body adornment
 
- They mention that shamans could demonstrate their power by wearing a stone or belt that could turn into a snake, but provide no further description of this object.
+They mention that shamans could demonstrate their power by wearing a stone or belt that could turn into a snake, but provide no further description of this object.
 
 ## Music & performance
 
@@ -67,7 +67,7 @@ Fishing techniques included river weirs, called *stqalikʷ*, from which fish wer
 
 ## Oral tradition & literature
 
- They do describe storytelling as an activity associated with the replica traditional shed-roof longhouse at the Hibulb Cultural Center. The Snohomish also preserve religious teachings known in Lushootseed as *x̌əč̓usadad*. The Tulalip Tribes are working to revitalize the Lushootseed language and preserve and restore traditional cultural teachings.
+They do describe storytelling as an activity associated with the replica traditional shed-roof longhouse at the Hibulb Cultural Center. The Snohomish also preserve religious teachings known in Lushootseed as *x̌əč̓usadad*. The Tulalip Tribes are working to revitalize the Lushootseed language and preserve and restore traditional cultural teachings.
 
 ## Language & religion
 

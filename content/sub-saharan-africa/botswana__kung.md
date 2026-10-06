@@ -17,7 +17,7 @@ The ǃKung traditionally lived a mobile hunter-gatherer life. Current government
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention hunting equipment, including arrows, and state that a successful kill may belong to the person who gave the hunter the arrows, whether that person is a man or a woman.
+They do mention hunting equipment, including arrows, and state that a successful kill may belong to the person who gave the hunter the arrows, whether that person is a man or a woman.
 
 ## Music & performance
 
@@ -31,7 +31,7 @@ The sources describe the *ǃkia* healing dance and the Drum Dance as ritual perf
 
 ## Festivals & rituals
 
- They do document healing, childbirth, marriage, divorce, and hunting rites.
+They do document healing, childbirth, marriage, divorce, and hunting rites.
 
 Healing rites are a primary part of ǃKung culture. Health is understood as equivalent to social harmony, and any ǃKung person can become a healer. Aspirants apprentice themselves to older healers, whose instruction includes entering a trance and rubbing their sweat onto the pupils’ bellies, backs, foreheads, and spines. The sources state that nearly half the men and one-third of the women are acknowledged as having the power to heal.
 
@@ -49,7 +49,7 @@ Food distribution is strongly associated with social well-being. The person who 
 
 ## Oral tradition & literature
 
- They do record sayings and verbal formulas connected with social life. One saying states: “Healing makes their hearts happy, and a happy heart is one that reflects a sense of community.” In hunting rites, an older man questions a hunter about an apparently unsuccessful hunt, and the hunter is expected to avoid boasting and accept humility.
+They do record sayings and verbal formulas connected with social life. One saying states: “Healing makes their hearts happy, and a happy heart is one that reflects a sense of community.” In hunting rites, an older man questions a hunter about an apparently unsuccessful hunt, and the hunter is expected to avoid boasting and accept humility.
 
 Kinship terms organize social relations. Conventional kin terms are based on genealogical position, while people sharing the same name are treated as members of the same family and assigned the same kinship term. The sources name this shared-name relationship *ǃkunǃa*. They also describe joking relations, *k”ai*, and avoidance relations, *kwa*. Every member of ǃKung society belongs to one of these categories.
 

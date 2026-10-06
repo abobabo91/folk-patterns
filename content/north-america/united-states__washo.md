@@ -21,7 +21,7 @@ Historical Washo houses included conical bark slab houses. Earlier Martis pit ho
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe rabbit-skin blankets, natural shelters, fishing grounds, and food-preservation practices in which fish were dried in the sun.
+They do describe rabbit-skin blankets, natural shelters, fishing grounds, and food-preservation practices in which fish were dried in the sun.
 
 ## Music & performance
 
@@ -31,7 +31,7 @@ The Washo language itself is central to cultural renewal. *wašiw wagayay maŋal
 
 ## Dance & theatre
 
-The Pine Nut Dance remains a very important Washo ceremony. No other named Washo dance or dramatic tradition is documented in the supplied sources.
+The Pine Nut Dance remains a very important Washo ceremony.
 
 The sources also identify girls’ puberty rites as an important ceremony. No theatre, masked performance, shadow-puppet tradition, or dramatic genre is documented.
 

@@ -37,7 +37,7 @@ The sources list Suriya, Pirawn, Gamusa, Jaapi, Mekhela chador, Riha and Tongali
 
 ### Architecture
 
- They mention the namghar, or prayer hall, and the sattra, described as a Vaishnav hermitage, as important social and religious institutions.
+They mention the namghar, or prayer hall, and the sattra, described as a Vaishnav hermitage, as important social and religious institutions.
 
 ### Ceramics, metalwork & everyday objects
 

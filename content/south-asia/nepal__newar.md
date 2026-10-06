@@ -25,7 +25,7 @@ Newar artistry includes copper and brass sculptures, stone sculpture, wood carvi
 
 ### Jewelry & body adornment
 
- They do identify Newars as jewelry makers and describe Shakya as traditionally including goldsmiths.
+They do identify Newars as jewelry makers and describe Shakya as traditionally including goldsmiths.
 
 ## Music & performance
 

@@ -13,7 +13,7 @@ The Bedouin, also called Beduin or Bedu, are pastorally semi-nomadic Arab tribes
 
 ### Textile & pattern traditions
 
- They mention traditional tent knitting and black goat-hair tents called *bayt al-shar*, but provide no further description of their techniques, motifs, or distinctions from neighboring cultures.
+They mention traditional tent knitting and black goat-hair tents called *bayt al-shar*, but provide no further description of their techniques, motifs, or distinctions from neighboring cultures.
 
 ### Architecture
 

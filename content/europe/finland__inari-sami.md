@@ -27,7 +27,7 @@ The sources mention artifacts connected with early inhabitants, most of which we
 
 ## Music & performance
 
- They mention that Mikkâl Morottaja, whose stage name is Amoc, uses Inari Sámi in rap songs and published the first full-length Inari Sámi rap CD in the world on Sámi National Day in 2007. The sources also state that Amoc’s brother Petter Morottaja served as editor-in-chief of the Inari Sámi newspaper *Kierâš*.
+They mention that Mikkâl Morottaja, whose stage name is Amoc, uses Inari Sámi in rap songs and published the first full-length Inari Sámi rap CD in the world on Sámi National Day in 2007. The sources also state that Amoc’s brother Petter Morottaja served as editor-in-chief of the Inari Sámi newspaper *Kierâš*.
 
 ## Festivals & rituals
 

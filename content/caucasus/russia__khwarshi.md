@@ -11,19 +11,19 @@ The Khwarshi are a North Caucasian people living in Dagestan, in several small s
 
 ## Music & performance
 
- The linguistic sources do record examples of Khwarshi vocabulary and grammatical forms, including words glossed as “touch,” “fly,” “to eat,” “eaten,” “drop,” “something which has been dropped,” “to potentially drop,” “much,” “mosquito,” “small,” “small intestine,” “drunk,” “troops, army,” “restaurant,” and “to be.”
+The linguistic sources do record examples of Khwarshi vocabulary and grammatical forms, including words glossed as “touch,” “fly,” “to eat,” “eaten,” “drop,” “something which has been dropped,” “to potentially drop,” “much,” “mosquito,” “small,” “small intestine,” “drunk,” “troops, army,” “restaurant,” and “to be.”
 
 ## Festivals & rituals
 
- They state that the Khwarshi are traditionally Sunni Muslims and that they converted around the 16th century through the influence of Sufi missionaries.
+They state that the Khwarshi are traditionally Sunni Muslims and that they converted around the 16th century through the influence of Sufi missionaries.
 
 ## Foodways
 
- The ethnographic source states only that the Khwarshi live partly through agriculture.
+The ethnographic source states only that the Khwarshi live partly through agriculture.
 
 ## Oral tradition & literature
 
- The Khwarshi language article states that Avar is the literary language for many Khwarshi speakers, because many have registered themselves as Avar speakers.
+The Khwarshi language article states that Avar is the literary language for many Khwarshi speakers, because many have registered themselves as Avar speakers.
 
 ## Language & religion
 

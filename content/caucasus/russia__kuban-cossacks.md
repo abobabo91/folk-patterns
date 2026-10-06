@@ -19,39 +19,39 @@ During World War I, the distinctive dress continued, but the waistcoat became bl
 
 ### Architecture
 
- They record villages called *stanitsas*, a defence line extending from the Kuban River Black Sea inlet to the Bolshaya Laba River inlet, and the administrative centre of Yekaterinodar, literally “Catherine’s gift.”
+They record villages called *stanitsas*, a defence line extending from the Kuban River Black Sea inlet to the Bolshaya Laba River inlet, and the administrative centre of Yekaterinodar, literally “Catherine’s gift.”
 
 ### Ceramics, metalwork & everyday objects
 
- They mention *gaziri*, ornamental containers worn on the breast of the *kaftan*, and the equipment associated with military service, including horses, Caucasian saddles, harnesses, whips, artillery pieces and mortars.
+They mention *gaziri*, ornamental containers worn on the breast of the *kaftan*, and the equipment associated with military service, including horses, Caucasian saddles, harnesses, whips, artillery pieces and mortars.
 
 ### Jewelry & body adornment
 
- The clothing account records silver epaulettes, silver braiding, silver lace and a white metal scroll on the fur hat as elements of officers’ or formal dress.
+The clothing account records silver epaulettes, silver braiding, silver lace and a white metal scroll on the fur hat as elements of officers’ or formal dress.
 
 ## Music & performance
 
- They do record military and ceremonial public activity, including the Imperial Escort, military campaigns and the Moscow Victory Parade of 1945.
+They do record military and ceremonial public activity, including the Imperial Escort, military campaigns and the Moscow Victory Parade of 1945.
 
 ## Festivals & rituals
 
- They do record political and military commemorations and public appearances, including the Moscow Victory Parade of 1945 and a contingent of Kuban Cossacks taking part in the 2015 Moscow Victory Day Parade.
+They do record political and military commemorations and public appearances, including the Moscow Victory Parade of 1945 and a contingent of Kuban Cossacks taking part in the 2015 Moscow Victory Day Parade.
 
 The sources also describe the formal election of the Black Sea Cossack Host administration as a continuing tradition of Zaporozhian Cossacks. In the Kuban Cossack Host, local *stanitsa* and *Khutor* *atamans* were elected and then approved by higher-ranking *atamans*.
 
 ## Foodways
 
- They mention that nearly half of the Cossacks sent on the Persian Expedition of 1796 died from hunger and disease, but provide no ethnographic account of foodways.
+They mention that nearly half of the Cossacks sent on the Persian Expedition of 1796 died from hunger and disease, but provide no ethnographic account of foodways.
 
 ## Oral tradition & literature
 
- They record the publication of the first periodical *Кубанские войсковые ведомсти* (*Kubanskiye voiskovye vedomsti*) in 1863 and the opening of the Host’s library in Yekaterinodar two years later.
+They record the publication of the first periodical *Кубанские войсковые ведомсти* (*Kubanskiye voiskovye vedomsti*) in 1863 and the opening of the Host’s library in Yekaterinodar two years later.
 
 The ataman Vyacheslav Naumenko served as a principal historian after World War Two and wrote the first Russian-language book about the forced repatriation of Cossacks. His two-volume work, *The Great Betrayal*, was published in 1962 and 1970.
 
 ## Language & religion
 
- They record Ukrainian and Russian political and cultural connections, including the use of the Russian-language title *The Great Betrayal*, the appearance of clandestine Ukrainian organizations in Kuban during the early twentieth century, and a federative union with the Ukrainian government of Hetman Pavlo Skoropadsky in 1918.
+They record Ukrainian and Russian political and cultural connections, including the use of the Russian-language title *The Great Betrayal*, the appearance of clandestine Ukrainian organizations in Kuban during the early twentieth century, and a federative union with the Ukrainian government of Hetman Pavlo Skoropadsky in 1918.
 
 ## Sources & further reading
 

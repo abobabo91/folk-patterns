@@ -21,19 +21,19 @@ Jurchens living in the northeast’s harsh cold climate sometimes built houses h
 
 ### Ceramics, metalwork & everyday objects
 
- They do record agricultural and hunting equipment indirectly: Jurchens practiced crop farming, animal husbandry, hunting, archery on horseback, and horsemanship. The Eight Banners organized Jurchen soldiers into groups of Bannermen, and Nurhaci ordered the creation of a new Jurchen script. No specific object catalogue records were supplied.
+They do record agricultural and hunting equipment indirectly: Jurchens practiced crop farming, animal husbandry, hunting, archery on horseback, and horsemanship. The Eight Banners organized Jurchen soldiers into groups of Bannermen, and Nurhaci ordered the creation of a new Jurchen script. No specific object catalogue records were supplied.
 
 ## Music & performance
 
- They do state that Manchu was used in creative works such as poems, songs, and stories. The Manchu language was also used for voice commands in the Qing army, attested as late as 1878.
+They do state that Manchu was used in creative works such as poems, songs, and stories. The Manchu language was also used for voice commands in the Qing army, attested as late as 1878.
 
 ## Dance & theatre
 
- They mention dances as part of Jurchen and Manchu social life, alongside wrestling and drinking strong liquor, but provide no name, choreography, ceremonial function, or performance setting.
+They mention dances as part of Jurchen and Manchu social life, alongside wrestling and drinking strong liquor, but provide no name, choreography, ceremonial function, or performance setting.
 
 ## Festivals & rituals
 
- They mention shamanic traditions as part of Jurchen culture and state that Manchu revival efforts have been connected with rituals and communication with ancestors. They also record that the Manchu palace’s fourth-grade food was served to the imperial family during the Chinese New Year and other festivals, while the first three grades were prepared for deceased imperial ancestors.
+They mention shamanic traditions as part of Jurchen culture and state that Manchu revival efforts have been connected with rituals and communication with ancestors. They also record that the Manchu palace’s fourth-grade food was served to the imperial family during the Chinese New Year and other festivals, while the first three grades were prepared for deceased imperial ancestors.
 
 ## Foodways
 

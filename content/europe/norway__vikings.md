@@ -13,7 +13,7 @@ The Vikings were a seafaring people originally from Scandinavia, including prese
 
 ### Clothing & dress
 
- They state only that popular representations commonly show Vikings wearing horned helmets, while there is no evidence that they wore them; the horned helmet became a costume element in the 19th century.
+They state only that popular representations commonly show Vikings wearing horned helmets, while there is no evidence that they wore them; the horned helmet became a costume element in the 19th century.
 
 ### Architecture
 
@@ -21,29 +21,29 @@ Viking architecture included settlements and governments established in the Brit
 
 ### Ceramics, metalwork & everyday objects
 
- Archaeology is described as providing evidence about crafts and production, ships, military equipment, trading networks, and pagan and Christian religious artefacts and practices. The Vikings traded goods including furs, tusks, seal fat used for boat sealant, and slaves along the Volga.
+Archaeology is described as providing evidence about crafts and production, ships, military equipment, trading networks, and pagan and Christian religious artefacts and practices. The Vikings traded goods including furs, tusks, seal fat used for boat sealant, and slaves along the Volga.
 
 ### Jewelry & body adornment
 
- They mention pagan and Christian religious artefacts in the archaeological record.
+They mention pagan and Christian religious artefacts in the archaeological record.
 
 ## Music & performance
 
- They state that the Vikings produced no literary legacy as a generally non-literate culture, although they used an alphabet and made inscriptions in runes. The sources also mention skaldic poetry attributed to court poets of the 10th and 11th centuries. Icelandic vernacular literature developed in the 12th through 14th centuries, and traditions connected with the Viking Age were written down in the Icelandic sagas.
+They state that the Vikings produced no literary legacy as a generally non-literate culture, although they used an alphabet and made inscriptions in runes. The sources also mention skaldic poetry attributed to court poets of the 10th and 11th centuries. Icelandic vernacular literature developed in the 12th through 14th centuries, and traditions connected with the Viking Age were written down in the Icelandic sagas.
 
 ## Dance & theatre
 
- They mention sagas, skaldic poetry, and literary writings connected with the Viking Age.
+They mention sagas, skaldic poetry, and literary writings connected with the Viking Age.
 
 ## Festivals & rituals
 
- They state that the Vikings initially followed the Old Norse religion and became Christians over the 8th–12th centuries. Religious change was connected with the establishment of dioceses in Denmark and Norway during the 11th century and with the organisation of Christianity in Sweden. By 1103, the first archbishopric in Scandinavia was founded at Lund, Scania, then part of Denmark.
+They state that the Vikings initially followed the Old Norse religion and became Christians over the 8th–12th centuries. Religious change was connected with the establishment of dioceses in Denmark and Norway during the 11th century and with the organisation of Christianity in Sweden. By 1103, the first archbishopric in Scandinavia was founded at Lund, Scania, then part of Denmark.
 
 The sources describe Christianity as transforming older ideologies and lifestyles. The assimilation of the Scandinavian kingdoms into European Christendom altered the aspirations of rulers and overseas travellers and changed relations with neighbouring peoples.
 
 ## Foodways
 
- They state that the Norse regularly travelled along the Volga with trade goods including furs, tusks, seal fat for boat sealant, and slaves. The sources also identify farming, fishing, craftsmanship, and trade among the occupations of most Vikings.
+They state that the Norse regularly travelled along the Volga with trade goods including furs, tusks, seal fat for boat sealant, and slaves. The sources also identify farming, fishing, craftsmanship, and trade among the occupations of most Vikings.
 
 ## Oral tradition & literature
 

@@ -13,7 +13,7 @@ The Miwok are four linguistically related Indigenous peoples of California. Thei
 
 ### Architecture
 
- The mythology source describes Miwok villages in a creation narrative.
+The mythology source describes Miwok villages in a creation narrative.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -33,7 +33,7 @@ The Miwok also played a mixed-gender game on a 110-yard (100 m) playing field ca
 
 ## Festivals & rituals
 
- They do describe religious narratives and beliefs. Miwok creation stories concern the origins of the earth and humankind, while the Coast Miwok account of the dead describes an ocean path leading westward to the setting sun and an afterworld called *ute-yomigo* or *ute-yomi*, meaning “dead home.”
+They do describe religious narratives and beliefs. Miwok creation stories concern the origins of the earth and humankind, while the Coast Miwok account of the dead describes an ocean path leading westward to the setting sun and an afterworld called *ute-yomigo* or *ute-yomi*, meaning “dead home.”
 
 The sources also state that Miwok people had totem animals associated with one of two moieties, which were respectively associated with land and water. These animals were understood as predecessors rather than literal human ancestors. No ritual calendar, priesthood, shrine system, or ceremonial objects are documented.
 

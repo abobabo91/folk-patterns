@@ -17,19 +17,19 @@ The Passamaquoddy, whose endonym is *Peskotomuhkat* and whose plural form is *Pe
 
 ### Architecture
 
- They state that the Passamaquoddy traditionally followed seasonal settlement patterns: in winter they dispersed and hunted inland, while in summer they gathered more closely on the coast and islands.
+They state that the Passamaquoddy traditionally followed seasonal settlement patterns: in winter they dispersed and hunted inland, while in summer they gathered more closely on the coast and islands.
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify birchbark etching as a form of visual imagery associated with Passamaquoddy oral history before European contact.
+They do identify birchbark etching as a form of visual imagery associated with Passamaquoddy oral history before European contact.
 
 ## Music & performance
 
- They mention the Passamaquoddy-Maliseet Language Portal, which includes videos of native speakers conversing in English and Passamaquoddy, with subtitles in both languages. The sources also identify several Passamaquoddy artists and makers, including David Moses Bridges, a birchbark artist and canoe maker; Jeremy Frey, a basketmaker; Tomah Joseph, an artist; Molly Neptune Parker, a master basketmaker; and Geo Soctomah Neptune, a master basketmaker. These records do not specify musical or theatrical practices.
+They mention the Passamaquoddy-Maliseet Language Portal, which includes videos of native speakers conversing in English and Passamaquoddy, with subtitles in both languages. The sources also identify several Passamaquoddy artists and makers, including David Moses Bridges, a birchbark artist and canoe maker; Jeremy Frey, a basketmaker; Tomah Joseph, an artist; Molly Neptune Parker, a master basketmaker; and Geo Soctomah Neptune, a master basketmaker. These records do not specify musical or theatrical practices.
 
 ## Festivals & rituals
 
- They state that the Passamaquoddy had seasonal patterns of settlement. In winter, they dispersed and hunted inland; in summer, they gathered more closely on the coast and islands and primarily harvested seafood, including marine mammals, mollusks, crustaceans, and fish.
+They state that the Passamaquoddy had seasonal patterns of settlement. In winter, they dispersed and hunted inland; in summer, they gathered more closely on the coast and islands and primarily harvested seafood, including marine mammals, mollusks, crustaceans, and fish.
 
 The sources mention events marking the 400th anniversary of French settlement of St Croix Island in 2004. In that context, Chief Hugh Akagi was authorized to represent the Passamaquoddy.
 

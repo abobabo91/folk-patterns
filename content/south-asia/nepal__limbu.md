@@ -23,7 +23,7 @@ The main structural feature is the *muring-sitlam*, the central pillar or column
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention agricultural tools, including the *halo* plough and *Kodalo* hoe. The *Phedza* is used to prepare meats. The *Taa* is made of brass, has a diameter of 25 cm, and consists of a pair of cymbals weighing one kilo. The *Phedza*, *halo*, *Kodalo* and *Taa* are the only named everyday or material objects in the sources that can be described here.
+They do mention agricultural tools, including the *halo* plough and *Kodalo* hoe. The *Phedza* is used to prepare meats. The *Taa* is made of brass, has a diameter of 25 cm, and consists of a pair of cymbals weighing one kilo. The *Phedza*, *halo*, *Kodalo* and *Taa* are the only named everyday or material objects in the sources that can be described here.
 
 ### Jewelry & body adornment
 
@@ -45,7 +45,7 @@ The **Ke Lang** or **Chyabrung dance** is described as a dance performed after t
 
 ## Festivals & rituals
 
- They do describe several religious, agricultural and life-cycle practices. Limbu wedding ceremonies are mostly arranged by parents, and asking for a woman’s hand is an important ceremony. Marriage generally takes place within the community but outside the clan; marriage within one’s own clan is prohibited for up to three generations, and cross-cousin marriage is not allowed. After the wedding, members of the man’s family visit the woman’s house with a piglet and alcoholic and non-alcoholic beverages. Major wedding ceremonies take place in the groom’s house.
+They do describe several religious, agricultural and life-cycle practices. Limbu wedding ceremonies are mostly arranged by parents, and asking for a woman’s hand is an important ceremony. Marriage generally takes place within the community but outside the clan; marriage within one’s own clan is prohibited for up to three generations, and cross-cousin marriage is not allowed. After the wedding, members of the man’s family visit the woman’s house with a piglet and alcoholic and non-alcoholic beverages. Major wedding ceremonies take place in the groom’s house.
 
 The *Yalakma* dance may accompany weddings, harvest celebrations or other social occasions. Agricultural dances are connected with reaping and sowing crops. In the *Nahangma* ritual, *Manggena* is performed at home before the war dance. A stone treated as a god with red *tika* is placed on a banana leaf, a large adult black homegrown pig is killed and presented to *phedangba*, and a Junglefowl is given to each person according to age and gender. The *phedangba* gives a vision of each person, after which a *phedangma* beheads the Junglefowl and sprinkles its blood.
 

@@ -17,7 +17,7 @@ The Mono are a Native American people traditionally associated with the central 
 
 ### Clothing & dress
 
- They do state that the Mono maintained practices including fishing, hunting, acorn gathering, cooking, healing, basket making, and games, but provide no detailed account of dress associated with these activities.
+They do state that the Mono maintained practices including fishing, hunting, acorn gathering, cooking, healing, basket making, and games, but provide no detailed account of dress associated with these activities.
 
 ### Architecture
 
@@ -25,15 +25,15 @@ Eastern Mono communities were predominantly sedentary and lived in fixed settlem
 
 ### Ceramics, metalwork & everyday objects
 
- They mention artificial canals in connection with Eastern Mono irrigation, and identify basket making as a continuing tradition, but give no further information about basket forms, materials, techniques, or designs.
+They mention artificial canals in connection with Eastern Mono irrigation, and identify basket making as a continuing tradition, but give no further information about basket forms, materials, techniques, or designs.
 
 ## Music & performance
 
- They state that ceremonies are performed at the Sierra Mono Museum in North Fork, California. The sources also mention an annual Indian Fair Days festival, held on the first weekend of August, whose purpose is to revive traditions and rituals for tribal kin and tourists. No specific musical repertoire or performance context is provided.
+They state that ceremonies are performed at the Sierra Mono Museum in North Fork, California. The sources also mention an annual Indian Fair Days festival, held on the first weekend of August, whose purpose is to revive traditions and rituals for tribal kin and tourists. No specific musical repertoire or performance context is provided.
 
 ## Dance & theatre
 
- They mention ceremonies at the Sierra Mono Museum in North Fork, California.
+They mention ceremonies at the Sierra Mono Museum in North Fork, California.
 
 ## Festivals & rituals
 
@@ -45,7 +45,7 @@ Eastern Mono communities used partly artificial irrigation for arable farming, e
 
 ## Oral tradition & literature
 
- They mention Mono traditional narratives as a related subject. The sources do identify forms of self-designation and place terminology in Mono/Bannock dialects. The Eastern Mono called themselves Numa, Numu, or Nüümü, meaning “People,” and the Western Mono used Nyyhmy, Nimi, Nim, or Nium, also meaning “People.” The language greeting “Mun a hoo e boso. Mun a hoo e num. Mun a hoo to e hun noh pa teh” is translated as “Hello to my friends. Hello to the Mono people. Hello to the people from all over.”
+They mention Mono traditional narratives as a related subject. The sources do identify forms of self-designation and place terminology in Mono/Bannock dialects. The Eastern Mono called themselves Numa, Numu, or Nüümü, meaning “People,” and the Western Mono used Nyyhmy, Nimi, Nim, or Nium, also meaning “People.” The language greeting “Mun a hoo e boso. Mun a hoo e num. Mun a hoo to e hun noh pa teh” is translated as “Hello to my friends. Hello to the Mono people. Hello to the people from all over.”
 
 ## Language & religion
 

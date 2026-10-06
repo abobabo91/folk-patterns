@@ -41,7 +41,7 @@ The main settlement form is a village of houses built on hilltops and surrounded
 
 ### Ceramics, metalwork & everyday objects
 
- They mention stone carving, bamboo huts, mats, thatched roofs, leather belts, bladed weapons, knives, and woven textiles. Sumba people also keep cows, buffalo, chickens, sheep, and horses.
+They mention stone carving, bamboo huts, mats, thatched roofs, leather belts, bladed weapons, knives, and woven textiles. Sumba people also keep cows, buffalo, chickens, sheep, and horses.
 
 ### Jewelry & body adornment
 
@@ -51,11 +51,11 @@ Women wear metal jewelry above the forehead, including gold or gilded *Marangga*
 
 ## Music & performance
 
- They do describe several performance-related cultural forms: horse races, bull sacrifices, funerary rituals, and fights with spears. The *Pasola* is identified as a cultural feast of the Sumba people. In West Sumba Regency, people come from far away to watch two teams compete by throwing blunted spears at each other.
+They do describe several performance-related cultural forms: horse races, bull sacrifices, funerary rituals, and fights with spears. The *Pasola* is identified as a cultural feast of the Sumba people. In West Sumba Regency, people come from far away to watch two teams compete by throwing blunted spears at each other.
 
 ## Dance & theatre
 
- They mention Pasola as a cultural feast involving competition between two teams throwing blunted spears, but they do not classify it as dance or theatre.
+They mention Pasola as a cultural feast involving competition between two teams throwing blunted spears, but they do not classify it as dance or theatre.
 
 ## Festivals & rituals
 

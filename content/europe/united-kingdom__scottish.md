@@ -25,7 +25,7 @@ The sources specifically name the kilt and Highland dress. David Wilkie’s pain
 
 ### Architecture
 
- They do name Scottish palaces, Stirling Castle, Holyrood, Pinkie House, Rosslyn Chapel, and the Wallace Monument, and mention elaborate church interiors, carved royal-palace stonework, painted ceilings and walls, and Scottish landscape traditions, but these references do not constitute a full architectural ethnography.
+They do name Scottish palaces, Stirling Castle, Holyrood, Pinkie House, Rosslyn Chapel, and the Wallace Monument, and mention elaborate church interiors, carved royal-palace stonework, painted ceilings and walls, and Scottish landscape traditions, but these references do not constitute a full architectural ethnography.
 
 ### Ceramics, metalwork & everyday objects
 

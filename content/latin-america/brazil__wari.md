@@ -17,19 +17,19 @@ Wari’ villages contain nuclear-family houses and a separate house called *the 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention hammocks in connection with warriors’ quarantine, and describe belongings of the dead being burned, but provide no catalogue of forms, materials, or techniques.
+They mention hammocks in connection with warriors’ quarantine, and describe belongings of the dead being burned, but provide no catalogue of forms, materials, or techniques.
 
 ## Music & performance
 
- They mention ritual wailing and other ceremonies during mortuary preparation, but give no description of musical forms. During warriors’ quarantine, the men stayed in the men’s house, moved around as little as possible, remained in their hammocks for much of the day, and drank chicha.
+During warriors’ quarantine, the men stayed in the men’s house, moved around as little as possible, remained in their hammocks for much of the day, and drank chicha.
 
 ## Dance & theatre
 
- They refer to rituals and ceremonies associated with funerals.
+They refer to rituals and ceremonies associated with funerals.
 
 ## Festivals & rituals
 
- They do describe funerary practices and rites connected with warfare.
+They do describe funerary practices and rites connected with warfare.
 
 Formerly, Wari’ endocannibalism was practiced for funerary purposes through strict and elaborate rituals. After death, close relatives hugged and embraced the deceased. The body was left for about three days, although the period depended partly on how soon relatives from other settlements could arrive. Mortuary preparation included ritual wailing and other ceremonies, building a fire, removing the visceral organs, and roasting the body. Close kin did not consume the body but urged attendant relatives to eat. The heart and liver were eaten, while much of the body and hair was burned. Belongings were also burned, and paths in the village were rerouted to avoid the deceased person’s former house. The practice continued until the 1960s; today, Wari’ bury their dead after two or three days of mourning.
 
@@ -45,7 +45,7 @@ Former funerary practice involved the ritual roasting and consumption of a decea
 
 ## Oral tradition & literature
 
- One account of Wari’ beliefs includes a story in which a child gathering food with her mother in the forest notices a jaguar’s tail between her mother’s legs and screams until the animal flees and her mother is summoned again. The story illustrates the possibility that bodies and perspectives can transform.
+One account of Wari’ beliefs includes a story in which a child gathering food with her mother in the forest notices a jaguar’s tail between her mother’s legs and screams until the animal flees and her mother is summoned again. The story illustrates the possibility that bodies and perspectives can transform.
 
 A large grammar of the Wari’ language was written by Barbara Kern and Daniel Everett. Parts of the Bible were translated into Wari’ from 1975 to 1984.
 

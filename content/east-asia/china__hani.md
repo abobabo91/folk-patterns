@@ -33,7 +33,7 @@ The Hani religious hierarchy includes three principal religious personages. The 
 
 The Hani are polytheists and show special adoration toward the spirits of their ancestors. They practice rituals to venerate different gods and obtain their protection. The available source describes these religious offices and practices.
 
- They state that the Hani return frequently for traditional events, especially when they take part-time non-farm jobs close to home.
+They state that the Hani return frequently for traditional events, especially when they take part-time non-farm jobs close to home.
 
 ## Foodways
 

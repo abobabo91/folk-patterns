@@ -13,19 +13,19 @@ The Botlikh, also known as Bótligh, Botlig, Botlog or Buikhatli, are an Andi–
 
 ### Architecture
 
- The sources identify the village of Botlikh as being just north of the Andi Koysu River.
+The sources identify the village of Botlikh as being just north of the Andi Koysu River.
 
 ## Music & performance
 
- They state only that, during the Murid War, Russian forces gathered at Botlikh for their final push against Shamil, and that during the Dagestan uprising the Reds were defeated there several times.
+They state only that, during the Murid War, Russian forces gathered at Botlikh for their final push against Shamil, and that during the Dagestan uprising the Reds were defeated there several times.
 
 ## Festivals & rituals
 
- They state that the Botlikh are primarily Sunni Muslims and that they adopted Islam by the 16th century through the influence of Sufi missionaries.
+They state that the Botlikh are primarily Sunni Muslims and that they adopted Islam by the 16th century through the influence of Sufi missionaries.
 
 ## Oral tradition & literature
 
- The available language documentation includes a Botlikh–Russian dictionary and works presenting grammatical analysis, texts and a lexicon.
+The available language documentation includes a Botlikh–Russian dictionary and works presenting grammatical analysis, texts and a lexicon.
 
 ## Language & religion
 

@@ -13,7 +13,7 @@ The Ngalop are people of ethnic Tibetan origin who migrated from Tibet to Bhutan
 
 ### Clothing & dress
 
- They state that all citizens of Bhutan are required to follow the national dress code, the *driglam namzha*, which is Ngalop in origin.
+They state that all citizens of Bhutan are required to follow the national dress code, the *driglam namzha*, which is Ngalop in origin.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ Ngalop houses are built from timber, stone, clay, and brick. Ngalop people are a
 
 ## Festivals & rituals
 
- The sources do state that Ngalops largely follow Tibetan Buddhism, particularly the Drukpa Lineage of the Kagyu school of Vajrayana, which is the state religion of Bhutan. A significant number also follow the Nyingma school, which was dominant in early Bhutanese history. Bon practitioners are a minority, while Ngalop practices, like those of most Bhutanese, incorporate elements of an older ethnic religion also called Bon.
+The sources do state that Ngalops largely follow Tibetan Buddhism, particularly the Drukpa Lineage of the Kagyu school of Vajrayana, which is the state religion of Bhutan. A significant number also follow the Nyingma school, which was dominant in early Bhutanese history. Bon practitioners are a minority, while Ngalop practices, like those of most Bhutanese, incorporate elements of an older ethnic religion also called Bon.
 
 ## Foodways
 
@@ -29,7 +29,7 @@ The primary agricultural crops of the Ngalop are Bhutanese red rice, potatoes, b
 
 ## Oral tradition & literature
 
- They record a folk etymology for the name Ngalop, explaining it as “earliest risen people” or “first converted people.”
+They record a folk etymology for the name Ngalop, explaining it as “earliest risen people” or “first converted people.”
 
 ## Language & religion
 

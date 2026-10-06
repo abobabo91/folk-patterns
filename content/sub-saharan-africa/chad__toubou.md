@@ -13,11 +13,11 @@ The Toubou, also called Tubu, are an ethnic group native to the Tibesti Mountain
 
 ### Textile & pattern traditions
 
- They mention textiles only as one area connected with the artisanal occupations of the Azza caste.
+They mention textiles only as one area connected with the artisanal occupations of the Azza caste.
 
 ### Clothing & dress
 
- They state only that tailoring was among the artisanal occupations associated with the Azza, an endogamous artisanal caste among the Toubou. The sources also mention textiles among the materials and activities connected with Toubou life through Azza craftsmanship.
+They state only that tailoring was among the artisanal occupations associated with the Azza, an endogamous artisanal caste among the Toubou. The sources also mention textiles among the materials and activities connected with Toubou life through Azza craftsmanship.
 
 ### Architecture
 
@@ -29,19 +29,19 @@ The Azza are described as an artisanal caste whose occupations include metalwork
 
 ### Jewelry & body adornment
 
- They mention leatherworking and metalworking among Azza occupations.
+They mention leatherworking and metalworking among Azza occupations.
 
 ## Music & performance
 
- They mention Toubou students at the Islamic University of Bayda and political gatherings connected with opposition to the Chadian government. No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
+They mention Toubou students at the Islamic University of Bayda and political gatherings connected with opposition to the Chadian government. No UNESCO Intangible Cultural Heritage inscription for this ethnic group is included in the supplied sources.
 
 ## Dance & theatre
 
- No information about dance or theatre is provided in the supplied sources.
+No information about dance or theatre is provided in the supplied sources.
 
 ## Festivals & rituals
 
- They do describe several social and legal practices. Livestock can form part of a marriage payment, either from the groom’s family to the bride’s family or from the bride’s kin to the young couple. A man may marry multiple wives according to Islamic tenets, although the sources describe this practice as only somewhat prevalent in Toubou society. The Teda forbid marriage between cousins up to 9 generations, while Daza communities in Kanem, Bahr el-Ghazal, and certain clans in Ennedi marry close cousins because this is not prohibited in the Quran.
+They do describe several social and legal practices. Livestock can form part of a marriage payment, either from the groom’s family to the bride’s family or from the bride’s kin to the young couple. A man may marry multiple wives according to Islamic tenets, although the sources describe this practice as only somewhat prevalent in Toubou society. The Teda forbid marriage between cousins up to 9 generations, while Daza communities in Kanem, Bahr el-Ghazal, and certain clans in Ennedi marry close cousins because this is not prohibited in the Quran.
 
 Toubou legal customs are generally based on Islamic law. Murder is settled directly between the families of the victim and the murderer, and reconciliation follows payment of the Goroga, described as the Islamic tenet of Diyya, or blood money. Among the Tumagra clan of the Teda in the Tibesti region, a derde serves as spiritual head, clan judge, conflict arbitrator, and authority who levies sanctions.
 
@@ -51,7 +51,7 @@ Toubou livelihood centers on livestock raising and herding or on farming scatter
 
 ## Oral tradition & literature
 
- They state that the ancient history of the Toubou is unclear and discuss possible relationships with the “Ethiopians” mentioned by Herodotus in 430 BCE, while noting that Jean Chapelle regarded this connection as speculative. The sources also mention an 9th-century text by the Arabic scholar Ibn Qutaybah as the earliest known Islamic-literary mention of the Toubou, alongside the Zaghawa, and state that the 9th-century scholar al-Khwarizmi mentioned the Daza.
+They state that the ancient history of the Toubou is unclear and discuss possible relationships with the “Ethiopians” mentioned by Herodotus in 430 BCE, while noting that Jean Chapelle regarded this connection as speculative. The sources also mention an 9th-century text by the Arabic scholar Ibn Qutaybah as the earliest known Islamic-literary mention of the Toubou, alongside the Zaghawa, and state that the 9th-century scholar al-Khwarizmi mentioned the Daza.
 
 A manuscript is cited for the history of the Toubou peoples of Kaouar, who were described as an independent city until 1870.
 

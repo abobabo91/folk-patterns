@@ -21,19 +21,19 @@ Male Muria wear clothing similar to that of the Chandrapur District. Female Muri
 
 ### Architecture
 
- They identify the *ghotul* as a mixed-sex dormitory where adolescents live in close quarters, but provide no architectural description of it.
+They identify the *ghotul* as a mixed-sex dormitory where adolescents live in close quarters, but provide no architectural description of it.
 
 ## Music & performance
 
- They state that liquor plays a key role in social gatherings and that *Mahuva* and *Selfi* are involved in social and ritual gatherings.
+They state that liquor plays a key role in social gatherings and that *Mahuva* and *Selfi* are involved in social and ritual gatherings.
 
 ## Dance & theatre
 
- The Muria are featured in Arne Sucksdorff’s 1957 drama documentary, *En Djungelsaga*.
+The Muria are featured in Arne Sucksdorff’s 1957 drama documentary, *En Djungelsaga*.
 
 ## Festivals & rituals
 
- They state that the Muria practice a folk religion involving nature worship, *Budhadev (Dev)* and the deities of their respective village and clan, in a practice described as similar to Sarnaism. Social and ritual gatherings involve local liquor, including *Mahuva* and *Selfi*. Muria social organization includes five phratries: the Nagvans, Kacchimvans, Bakravans, Baghvans and Bodminkvans. Their names are glossed respectively as Snake Race, Tortoise Race, Goat Race, Tiger Race and Fish Race. Members may not eat their totem animal and must mourn it if the animal dies.
+They state that the Muria practice a folk religion involving nature worship, *Budhadev (Dev)* and the deities of their respective village and clan, in a practice described as similar to Sarnaism. Social and ritual gatherings involve local liquor, including *Mahuva* and *Selfi*. Muria social organization includes five phratries: the Nagvans, Kacchimvans, Bakravans, Baghvans and Bodminkvans. Their names are glossed respectively as Snake Race, Tortoise Race, Goat Race, Tiger Race and Fish Race. Members may not eat their totem animal and must mourn it if the animal dies.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ The Muria have an omnivorous diet and are generally self-sufficient in producing
 
 ## Oral tradition & literature
 
- They mention Shiva Tosh Das’s interpretation that the name Muria derives from the root word *mur*, translated as either “root” or “permanent,” possibly in relation to the Muria being settled rather than nomadic Maria.
+They mention Shiva Tosh Das’s interpretation that the name Muria derives from the root word *mur*, translated as either “root” or “permanent,” possibly in relation to the Muria being settled rather than nomadic Maria.
 
 ## Language & religion
 

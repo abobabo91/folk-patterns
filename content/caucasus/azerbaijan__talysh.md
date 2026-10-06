@@ -13,15 +13,15 @@ The Talysh people, also called Talyshis, Talyshes, Talishis and other forms, are
 
 ### Architecture
 
- They mention a military base in Lankaran and settlements in the Talish region.
+They mention a military base in Lankaran and settlements in the Talish region.
 
 ### Ceramics, metalwork & everyday objects
 
- Talysh mythology mentions copper dishes in a ritual response to lunar eclipses, but provides no catalogue of objects or production techniques.
+Talysh mythology mentions copper dishes in a ritual response to lunar eclipses, but provides no catalogue of objects or production techniques.
 
 ## Music & performance
 
- The Talysh mythology article states that Boris Miller published Talysh songs, anecdotes, short stories, fairy tales and proverbs in *Talysh Texts* in 1930. The Talysh language article also discusses Talysh songs included in A. Khodzko’s work and examined by Ilya Berezin in 1853.
+The Talysh mythology article states that Boris Miller published Talysh songs, anecdotes, short stories, fairy tales and proverbs in *Talysh Texts* in 1930. The Talysh language article also discusses Talysh songs included in A. Khodzko’s work and examined by Ilya Berezin in 1853.
 
 The sources describe folklore as including tales, legends, anecdotes, songs, fairy tales and proverbs. They mention Talysh newspapers and publications, including “Tolyshi Sado,”.
 
@@ -31,7 +31,7 @@ The sources do describe several religious and mythological practices. During a l
 
 ## Foodways
 
- The historical material states that Talish supplied fruits, vegetables, tea, grains and meat to the Soviet Union.
+The historical material states that Talish supplied fruits, vegetables, tea, grains and meat to the Soviet Union.
 
 ## Oral tradition & literature
 

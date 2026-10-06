@@ -19,7 +19,7 @@ The Tushetians, also called Tush, are a subgroup of Georgians who mainly live in
 
 ## Festivals & rituals
 
- They state only that Tushetians’ customs and traditions resemble those of other eastern Georgian mountaineers, including the Khevsurs and Pshavs.
+They state only that Tushetians’ customs and traditions resemble those of other eastern Georgian mountaineers, including the Khevsurs and Pshavs.
 
 ## Foodways
 

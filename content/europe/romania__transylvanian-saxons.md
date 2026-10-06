@@ -19,15 +19,15 @@ The towns were also fortified after the Mongol invasion of 1241–42. Stone cast
 
 ## Festivals & rituals
 
- They do record religious and institutional developments: the earliest religious organization of the Saxons was the Provostship of Hermannstadt, founded on 20 December 1191, and the first superintendent of the Transylvanian Saxons’ Lutheran Church, Paul Wiener, was elected at a synod on 6 February 1553. Under the influence of Johannes Honterus, the great majority embraced the creed of Martin Luther during the Protestant Reformation.
+They do record religious and institutional developments: the earliest religious organization of the Saxons was the Provostship of Hermannstadt, founded on 20 December 1191, and the first superintendent of the Transylvanian Saxons’ Lutheran Church, Paul Wiener, was elected at a synod on 6 February 1553. Under the influence of Johannes Honterus, the great majority embraced the creed of Martin Luther during the Protestant Reformation.
 
 ## Foodways
 
- They state only that the settlers were charged with developing agriculture and bringing more agriculture to the region.
+They state only that the settlers were charged with developing agriculture and bringing more agriculture to the region.
 
 ## Oral tradition & literature
 
- They mention a common interpretation of the Pied Piper of Hamelin tale, dated to 26 June 1284, according to which the story could relate to an emigration event connected with the Ostsiedlung; a minor alternative theory suggests settlement in Transylvania. The article also records a statement by former federal German president and professor doctor Theodor Heuss that the history of the Transylvanian Saxons is “a piece of German history as a whole.”
+They mention a common interpretation of the Pied Piper of Hamelin tale, dated to 26 June 1284, according to which the story could relate to an emigration event connected with the Ostsiedlung; a minor alternative theory suggests settlement in Transylvania. The article also records a statement by former federal German president and professor doctor Theodor Heuss that the history of the Transylvanian Saxons is “a piece of German history as a whole.”
 
 ## Language & religion
 

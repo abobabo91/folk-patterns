@@ -13,7 +13,7 @@ The Bororo, who call themselves *Boe*, are an Indigenous people of Brazil living
 
 ### Clothing & dress
 
- They state only that men may have obligations to make ornamental items for their bride’s brother after marriage.
+They state only that men may have obligations to make ornamental items for their bride’s brother after marriage.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ Bororo homes are traditionally arranged in a circle, forming a central courtyard
 
 ### Jewelry & body adornment
 
-The sources mention the piercing of the ears and lips as one of the Bororo’s rituals. They also state that men may be required to make ornamental items for their bride’s brother after marriage. No further materials, forms, names, or ritual functions for body adornment are documented in the sources used.
+The sources mention the piercing of the ears and lips as one of the Bororo’s rituals. They also state that men may be required to make ornamental items for their bride’s brother after marriage.
 
 ## Music & performance
 
- They do document a ceremonial dance filmed in 1930 by a party searching for the missing explorer Percy Fawcett. A surviving 32-minute silent film records the dance, a first-contact scenario with Boboré villagers, and Bororo men experiencing sympathetic labor pains.
+They do document a ceremonial dance filmed in 1930 by a party searching for the missing explorer Percy Fawcett. A surviving 32-minute silent film records the dance, a first-contact scenario with Boboré villagers, and Bororo men experiencing sympathetic labor pains.
 
 ## Dance & theatre
 

@@ -27,7 +27,7 @@ The **timbila music and dance** tradition combines orchestral performance with d
 
 ## Festivals & rituals
 
- They state that the Chopi identify culturally with the elephant.
+They state that the Chopi identify culturally with the elephant.
 
 ## Foodways
 

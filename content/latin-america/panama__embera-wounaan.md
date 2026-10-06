@@ -29,15 +29,15 @@ The Embera paint their bodies with a black dye made from *Genipa americana*, the
 
 ## Music & performance
 
- They state only that Wounaan actors appeared in Hollywood films, including *The Mission*, *1492: Conquest of Paradise*, and *The End of the Spear*. In those films they portrayed other Indigenous peoples while speaking their own language. The sources name Bercelio Moya and Alejandrino Moya as notable Wounaan actors and identify Robert De Niro, Jeremy Irons, Liam Neeson, Gérard Depardieu, Sigourney Weaver, Armand Assante, Frank Langella, and Ray McAnally among actors with whom members of the tribe performed.
+They state only that Wounaan actors appeared in Hollywood films, including *The Mission*, *1492: Conquest of Paradise*, and *The End of the Spear*. In those films they portrayed other Indigenous peoples while speaking their own language. The sources name Bercelio Moya and Alejandrino Moya as notable Wounaan actors and identify Robert De Niro, Jeremy Irons, Liam Neeson, Gérard Depardieu, Sigourney Weaver, Armand Assante, Frank Langella, and Ray McAnally among actors with whom members of the tribe performed.
 
 ## Dance & theatre
 
- They describe film appearances in which Wounaan actors portrayed the Guaraní, Taíno, Carib, and another Indigenous people, rather than documenting an Embera-Wounaan performance tradition.
+They describe film appearances in which Wounaan actors portrayed the Guaraní, Taíno, Carib, and another Indigenous people, rather than documenting an Embera-Wounaan performance tradition.
 
 ## Festivals & rituals
 
- They state that intricate geometric body patterns, silver necklaces, and silver earrings are used on special occasions.
+They state that intricate geometric body patterns, silver necklaces, and silver earrings are used on special occasions.
 
 ## Foodways
 
@@ -45,7 +45,7 @@ The Embera diet includes wild fish and game, hunted with snares, blow guns, bows
 
 ## Oral tradition & literature
 
- They mention that the people have their own unwritten rules and their own form of government.
+They mention that the people have their own unwritten rules and their own form of government.
 
 ## Language & religion
 

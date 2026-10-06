@@ -13,7 +13,7 @@ The Natukhai are one of the twelve major Circassian tribes and represent one of 
 
 ### Architecture
 
- They state only that Natukhai villages were administered by elected villagers.
+They state only that Natukhai villages were administered by elected villagers.
 
 ## Festivals & rituals
 
@@ -23,7 +23,7 @@ In late 1860, a Circassian Parliament, *Хасэ*, romanized as Hasè, was assem
 
 ## Foodways
 
- They state that the Natukhai were active in trading with the Ottoman Empire and Crimean Khanate and established trade connections with Turkey.
+They state that the Natukhai were active in trading with the Ottoman Empire and Crimean Khanate and established trade connections with Turkey.
 
 ## Oral tradition & literature
 

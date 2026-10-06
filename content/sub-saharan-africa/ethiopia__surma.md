@@ -17,11 +17,11 @@ Suri, also called Surma by some authors, is a collective name for the Chai, Tima
 
 ### Clothing & dress
 
- During special occasions, Suri people wear brightly colored flowers on their heads and paint their faces and bodies. Because mirrors are absent, people paint one another. The paint is made by mixing leaves and flowers from various plants with crushed rock, which can be white or red, and water.
+During special occasions, Suri people wear brightly colored flowers on their heads and paint their faces and bodies. Because mirrors are absent, people paint one another. The paint is made by mixing leaves and flowers from various plants with crushed rock, which can be white or red, and water.
 
 ### Architecture
 
- They state only that Suri villages normally range from 40 to 1,000 people, with a few reaching 2,500 people.
+They state only that Suri villages normally range from 40 to 1,000 people, with a few reaching 2,500 people.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -43,11 +43,11 @@ The fights can end within the first couple of hits, while deaths, particularly f
 
 ## Dance & theatre
 
- They describe ceremonial stick fighting as a public ritual and competitive performance.
+They describe ceremonial stick fighting as a public ritual and competitive performance.
 
 ## Festivals & rituals
 
- They mention harvest time and the dry season as important periods in Suri life. Stick fighting usually takes place between villages during harvest time. During the dry season, Suri people move cattle southward to find new grazing land, and clashes with neighbouring groups are most common at this time.
+They mention harvest time and the dry season as important periods in Suri life. Stick fighting usually takes place between villages during harvest time. During the dry season, Suri people move cattle southward to find new grazing land, and clashes with neighbouring groups are most common at this time.
 
 The Suri have several life-cycle and age-grade practices. Young men known as *Tegay* are unmarried and are mainly responsible for herding and defending cattle. Junior elders known as *Rora* form the dominant decision-making age-grade. Entry into this grade takes place through an initiation ritual held every 20 to 30 years. During initiation, young men being promoted are tested by elders and are sometimes starved and whipped until they bleed.
 

@@ -17,11 +17,11 @@ The sources mention hilltop settlements, forts, castles, churches, and towns, in
 
 ## Music & performance
 
- The sources do mention solemn divine service in the church of Saint Peter in Rome in 879, during which Pope John VIII gave his blessing to Duke Branimir and the Croatian people, but they provide no musical description.
+The sources do mention solemn divine service in the church of Saint Peter in Rome in 879, during which Pope John VIII gave his blessing to Duke Branimir and the Croatian people, but they provide no musical description.
 
 ## Festivals & rituals
 
- The historical sources do describe political and religious events, including the coronation of Dmitar Zvonimir on 8 October 1076 at Solin in the Basilica of Saint Peter and Moses, and the celebration of Tarara Day every 15 March among the Tarara people in New Zealand, who are described as having mixed Croatian and Māori Ngāpuhi descent.
+The historical sources do describe political and religious events, including the coronation of Dmitar Zvonimir on 8 October 1076 at Solin in the Basilica of Saint Peter and Moses, and the celebration of Tarara Day every 15 March among the Tarara people in New Zealand, who are described as having mixed Croatian and Māori Ngāpuhi descent.
 
 ## Oral tradition & literature
 

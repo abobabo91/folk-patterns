@@ -21,15 +21,15 @@ The Koryaks lived in domed tents called *jajanga*, or *yaranga*, a name derived 
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe tools and weapons made from reindeer body parts, as well as small cupboards used for storing food, clothing, and personal items. Snowshoes were made by lashing reindeer sinew and hide strips to a tennis-racket-shaped hoop of birch bark or willow.
+They do describe tools and weapons made from reindeer body parts, as well as small cupboards used for storing food, clothing, and personal items. Snowshoes were made by lashing reindeer sinew and hide strips to a tennis-racket-shaped hoop of birch bark or willow.
 
 ## Music & performance
 
- They state that Koryak mythology centres on the supernatural shaman Quikil, or Big-Raven, who was created by the Supreme Being as the first man and protector of the Koryak.
+They state that Koryak mythology centres on the supernatural shaman Quikil, or Big-Raven, who was created by the Supreme Being as the first man and protector of the Koryak.
 
 ## Festivals & rituals
 
- They describe a religious world in which the Supreme Being resides in Heaven with his family and may punish immoral acts by falling asleep, leaving people vulnerable to unsuccessful hunting and other ills. The sources also identify Quikil, or Big-Raven, as a supernatural shaman and protector of the Koryak.
+They describe a religious world in which the Supreme Being resides in Heaven with his family and may punish immoral acts by falling asleep, leaving people vulnerable to unsuccessful hunting and other ills. The sources also identify Quikil, or Big-Raven, as a supernatural shaman and protector of the Koryak.
 
 ## Foodways
 

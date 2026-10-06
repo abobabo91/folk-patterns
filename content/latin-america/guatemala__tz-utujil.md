@@ -27,7 +27,7 @@ The sources describe Tzʼutujil weaving. They state that women use a backstrap l
 
 ### Architecture
 
- They do describe Chiaa, an earlier capital established on the hill of Chuitinamit near Lake Atitlán, and state that the Tzʼutujil pre-Columbian capital near Santiago Atitlán was Chuitinamit. In the traditional religious conception of Santo Mundo, the center is understood as a central plaza and “the Heart,” an intersection of four roads containing a sixteenth-century church.
+They do describe Chiaa, an earlier capital established on the hill of Chuitinamit near Lake Atitlán, and state that the Tzʼutujil pre-Columbian capital near Santiago Atitlán was Chuitinamit. In the traditional religious conception of Santo Mundo, the center is understood as a central plaza and “the Heart,” an intersection of four roads containing a sixteenth-century church.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -35,7 +35,7 @@ The museum catalogue records supplied for this atlas contain no objects. They me
 
 ### Jewelry & body adornment
 
- They mention silk tassels attached to woven cloth. Four tassels are placed at the corners of the cloth, and one tassel is placed on each shorter side.
+They mention silk tassels attached to woven cloth. Four tassels are placed at the corners of the cloth, and one tassel is placed on each shorter side.
 
 ## Music & performance
 
@@ -43,7 +43,7 @@ Traditional songs, known as *b’ix*, are historically and religiously significa
 
 ## Dance & theatre
 
- They mention ceremonies and daily activities as subjects represented by San Juan artists working in *Arte Naif*.
+They mention ceremonies and daily activities as subjects represented by San Juan artists working in *Arte Naif*.
 
 ## Festivals & rituals
 
@@ -57,7 +57,7 @@ Agriculture remains important to Tzʼutujil life. Many Tzʼutujil continue tradi
 
 ## Oral tradition & literature
 
- Traditional songs known as *b’ix* connect singers with the spiritual world and include religious, protective, hostile, and courting functions.
+Traditional songs known as *b’ix* connect singers with the spiritual world and include religious, protective, hostile, and courting functions.
 
 The Tzʼutujil language article states that, as of 2012, the Community Library Rijaʼtzuul Naʼooj in San Juan La Laguna featured storytelling for children in Tzʼutujil. Bilingual children’s books were also available. The language article lists grammatical and dictionary works, including *Tzutujil Grammar*, *Rukeemiik ja Tzʼutujiil Chiiʼ: Gramática tzʼutujiil*, and *Diccionario Tzʼutujil*.
 

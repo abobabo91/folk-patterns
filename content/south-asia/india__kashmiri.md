@@ -13,7 +13,7 @@ Kashmiris are an Indo-Aryan ethnolinguistic group who speak Kashmiri and origina
 
 ### Architecture
 
- They do mention the city of Srinagari, identified with Srinagar, which was built during the reign of Ashoka, and describe dwellings at Neolithic sites in the Kashmir Valley, including pits at Burzahom and Gufkral. The Burzahom evidence includes stone hearths at ground level near the mouths of pits, while Gufkral is described as having dwelling pits without hearths or fireplaces inside.
+They do mention the city of Srinagari, identified with Srinagar, which was built during the reign of Ashoka, and describe dwellings at Neolithic sites in the Kashmir Valley, including pits at Burzahom and Gufkral. The Burzahom evidence includes stone hearths at ground level near the mouths of pits, while Gufkral is described as having dwelling pits without hearths or fireplaces inside.
 
 ### Ceramics, metalwork & everyday objects
 

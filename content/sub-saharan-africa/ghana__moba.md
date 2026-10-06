@@ -17,7 +17,7 @@ The Moba, also known as Bimoba, Bimawba, B’Moba, or Moab, are an ethnic group 
 
 ### Clothing & dress
 
- During Kondi initiation, participants wear special dress, metal jewelry, red clothes, and cowrie shells. The sources state that male initiation takes place in the woodland and female initiation near the home. Participants have shaved heads and are marked with a scar to symbolize rebirth. The initiation rules also include dietary limits, a secret language, and symbolic ornaments connected with protection, past familial relationships, and purity when returning to the village.
+During Kondi initiation, participants wear special dress, metal jewelry, red clothes, and cowrie shells. The sources state that male initiation takes place in the woodland and female initiation near the home. Participants have shaved heads and are marked with a scar to symbolize rebirth. The initiation rules also include dietary limits, a secret language, and symbolic ornaments connected with protection, past familial relationships, and purity when returning to the village.
 
 ### Architecture
 
@@ -33,15 +33,15 @@ Moba carvers, called *Tikpierroa*, learn woodcarving within the family and use a
 
 ### Jewelry & body adornment
 
- Kondi initiation includes metal jewelry, cowrie shells, red clothes, shaved heads, scars, and symbolic ornaments. These objects and bodily marks form part of the ritual passage from childhood to adulthood and the participants’ return to the village.
+Kondi initiation includes metal jewelry, cowrie shells, red clothes, shaved heads, scars, and symbolic ornaments. These objects and bodily marks form part of the ritual passage from childhood to adulthood and the participants’ return to the village.
 
 ## Music & performance
 
- Moba is described as a tonal language with four tones, and tone patterns form the core of a whistled language based on Moba.
+Moba is described as a tonal language with four tones, and tone patterns form the core of a whistled language based on Moba.
 
 ## Dance & theatre
 
- The sources describe ceremonies, initiation rituals, shrine practices, and communal meals.
+The sources describe ceremonies, initiation rituals, shrine practices, and communal meals.
 
 ## Festivals & rituals
 
@@ -61,7 +61,7 @@ Food is present in ritual contexts. After the annual blood sacrifice, the commun
 
 ## Oral tradition & literature
 
- They state that initiation rituals use a secret language.
+They state that initiation rituals use a secret language.
 
 ## Language & religion
 

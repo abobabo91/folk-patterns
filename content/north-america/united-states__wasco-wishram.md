@@ -21,23 +21,23 @@ Wishram village, called *Nixlúidix* by its residents, was the main summer and w
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe intricate wood carving, beadwork, and basketry as arts associated with both tribes.
+They do describe intricate wood carving, beadwork, and basketry as arts associated with both tribes.
 
 ## Music & performance
 
- They state that the Wasco–Wishram language has had no fluent speakers since 2012 and that the tribe has a language program intended to revive its use among tribal members of all ages.
+They state that the Wasco–Wishram language has had no fluent speakers since 2012 and that the tribe has a language program intended to revive its use among tribal members of all ages.
 
 ## Festivals & rituals
 
- They state that fishing for salmon and steelhead held cultural and religious importance for the tribes. The 1855 treaties preserved fishing at “all ... usual and accustomed stations in common with the citizens of the United States,” while the Bonneville Dam, Grand Coulee Dam, and The Dalles Dam later caused severe damage to native fisheries. In 1974, a landmark court case confirmed the rights of Northwest Coast tribes to fish as they had historically done.
+They state that fishing for salmon and steelhead held cultural and religious importance for the tribes. The 1855 treaties preserved fishing at “all ... usual and accustomed stations in common with the citizens of the United States,” while the Bonneville Dam, Grand Coulee Dam, and The Dalles Dam later caused severe damage to native fisheries. In 1974, a landmark court case confirmed the rights of Northwest Coast tribes to fish as they had historically done.
 
 ## Foodways
 
- They identify salmon and steelhead fishing as culturally and religiously important, and state that government payments for the loss of fish did not compensate for this importance.
+They identify salmon and steelhead fishing as culturally and religiously important, and state that government payments for the loss of fish did not compensate for this importance.
 
 ## Oral tradition & literature
 
- They state that the tribe has a language program to revive the Wasco–Wishram language among tribal members of all ages.
+They state that the tribe has a language program to revive the Wasco–Wishram language among tribal members of all ages.
 
 ## Language & religion
 

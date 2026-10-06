@@ -13,7 +13,7 @@ Azerbaijanis, also called Azeris or Azerbaijani Turks, are a Turkic ethnic group
 
 ### Architecture
 
- They state that the Safavid state was noted for achievements in architecture.
+They state that the Safavid state was noted for achievements in architecture.
 
 ## Music & performance
 
@@ -21,7 +21,7 @@ The sources identify the *dastan* as an epic poem associated with the early Turk
 
 ## Festivals & rituals
 
- They state that Azerbaijanis predominantly practice Shia Islam and describe historical religious changes, including the adoption of Christianity by Caucasian Albania and the later conversion of most inhabitants of Azerbaijan to Islam.
+They state that Azerbaijanis predominantly practice Shia Islam and describe historical religious changes, including the adoption of Christianity by Caucasian Albania and the later conversion of most inhabitants of Azerbaijan to Islam.
 
 ## Oral tradition & literature
 

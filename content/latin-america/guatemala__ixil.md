@@ -13,7 +13,7 @@ The Ixil are a Maya people living in Guatemala and Mexico. In Guatemala, they ar
 
 ### Architecture
 
- They state that Ixil refugees in Mexico established camps that later became new towns and permanent communities.
+They state that Ixil refugees in Mexico established camps that later became new towns and permanent communities.
 
 ## Festivals & rituals
 
@@ -25,7 +25,7 @@ The sources name corn, beans, fruits, and vegetables as cultivated products shar
 
 ## Oral tradition & literature
 
- The Ixil language bibliography includes dictionaries and grammars produced through linguistic and cultural documentation projects, including the Programa de Rescate Cultural Maya-Ixil.
+The Ixil language bibliography includes dictionaries and grammars produced through linguistic and cultural documentation projects, including the Programa de Rescate Cultural Maya-Ixil.
 
 ## Language & religion
 

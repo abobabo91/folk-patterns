@@ -11,7 +11,7 @@ The Khorchin Mongols are a subgroup of the Mongols who speak the Khorchin dialec
 
 ## Festivals & rituals
 
- The historical source records that the Khorchins produced fermented mare’s milk for Manchu emperors.
+The historical source records that the Khorchins produced fermented mare’s milk for Manchu emperors.
 
 ## Foodways
 

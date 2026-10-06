@@ -13,15 +13,11 @@ Cherkesogai, also called Circassian Armenians, are ethnic Armenians who have inh
 
 ### Architecture
 
- They record Armenian settlements in the Kuban, including Armavir, founded in 1839, as well as communities in larger towns such as Novorossiysk, Anapa and Ekaterinodar.
+They record Armenian settlements in the Kuban, including Armavir, founded in 1839, as well as communities in larger towns such as Novorossiysk, Anapa and Ekaterinodar.
 
 ## Dance & theatre
 
- The source identifies Olga Aslanovna Tarasova as a ballerina.
-
-## Festivals & rituals
-
- They mention national and religious persecution, genocide and wars as factors in Armenian diaspora history, but provide no account of ritual practice.
+The source identifies Olga Aslanovna Tarasova as a ballerina.
 
 ## Oral tradition & literature
 

@@ -17,15 +17,15 @@ Customary Sibe clothing included short buttoned jackets and trousers for men, an
 
 ### Architecture
 
- They state only that, until modern times, Sibe dwellings housed up to three generations of the same family, because a son was believed not to be able to leave the family clan while his father was alive.
+They state only that, until modern times, Sibe dwellings housed up to three generations of the same family, because a son was believed not to be able to leave the family clan while his father was alive.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention that the Sibe cultivated vegetables, tobacco, and poppies in Ili.
+They mention that the Sibe cultivated vegetables, tobacco, and poppies in Ili.
 
 ## Music & performance
 
- They state that the different ethnicities of Northern Xinjiang have shared musical culture and adopted elements from one another’s music. The sources also record that Sibe-language radio broadcasting in Qapqal was allocated 15 minutes per day, while television programmes lasted 15 to 30 minutes and were broadcast once or twice per month. These records concern broadcasting and shared musical culture.
+They state that the different ethnicities of Northern Xinjiang have shared musical culture and adopted elements from one another’s music. The sources also record that Sibe-language radio broadcasting in Qapqal was allocated 15 minutes per day, while television programmes lasted 15 to 30 minutes and were broadcast once or twice per month. These records concern broadcasting and shared musical culture.
 
 ## Festivals & rituals
 
@@ -33,11 +33,11 @@ The sources state that traditional clothing is worn by elders during festivals. 
 
 ## Foodways
 
- They state that Sibe communities in Ili cultivated vegetables, tobacco, and poppies. During the crisis surrounding the Dungan Revolt and the Russian occupation of Ili, the sources report that provisions were exhausted and that horses, dogs, and cats became the only available food. This historical account does not provide a description of ordinary Xibe cuisine.
+They state that Sibe communities in Ili cultivated vegetables, tobacco, and poppies. During the crisis surrounding the Dungan Revolt and the Russian occupation of Ili, the sources report that provisions were exhausted and that horses, dogs, and cats became the only available food. This historical account does not provide a description of ordinary Xibe cuisine.
 
 ## Oral tradition & literature
 
- They state that the People’s Publishing House in Ürümqi published over 285 significant works in Sibe between 1954 and 1959, including government documents, belles-lettres, and schoolbooks. Since 1946, the Sibe-language *Qapqal News* has been published in Yining.
+They state that the People’s Publishing House in Ürümqi published over 285 significant works in Sibe between 1954 and 1959, including government documents, belles-lettres, and schoolbooks. Since 1946, the Sibe-language *Qapqal News* has been published in Yining.
 
 ## Language & religion
 

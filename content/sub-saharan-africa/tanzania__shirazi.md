@@ -23,23 +23,21 @@ The sources describe the Shirazi as historically connected with coastal towns, s
 
 ### Ceramics, metalwork & everyday objects
 
- The separate article on Shiraz culture mentions silver-ware as a craft of Shiraz.
+The separate article on Shiraz culture mentions silver-ware as a craft of Shiraz.
 
 ## Music & performance
-
- They state that the Afro-Shirazi culture is Islamic in nature and includes Bantu influences, especially through the Swahili language, but they provide no account of music or musical performance.
 
 The separate article on Shiraz culture states that Fars Symphony Orchestra is based in Shiraz and that Shiraz hosts concerts by famous Iranian artists. These statements concern the city of Shiraz and are not identified as traditions of the Shirazi people of Tanzania.
 
 ## Festivals & rituals
 
- They state that most people along the Swahili coast follow the Shafi'i madhhab of Sunni Islam.
+They state that most people along the Swahili coast follow the Shafi'i madhhab of Sunni Islam.
 
 The separate article on Shiraz culture describes Iranian festivals in Shiraz. *Nowruz* is an ancient Iranian tradition celebrated annually on the vernal equinox and was registered on UNESCO’s list of Masterpieces of the Oral and Intangible Heritage of Humanity in 2009. *Chaharshanbe Suri* is held on the eve of the last Wednesday of the preceding year and includes jumping over bonfires, firecrackers, and fireworks. *Sizdah Be-dar* occurs on the thirteenth day of the Iranian year, Farvardin 13, usually coinciding with 1 or 2 April. *Mehregan* is described as a Zoroastrian and Persian festival preserved in Shiraz for centuries.
 
 ## Foodways
 
- They do state that Shirazi commercial activity historically included trade in spices and produce from clove, coconut, and other plantations run with slave labor.
+They do state that Shirazi commercial activity historically included trade in spices and produce from clove, coconut, and other plantations run with slave labor.
 
 The separate article on Shiraz culture describes *Shirazi salad*, a relatively modern Iranian dish named after Shiraz. Its primary ingredients are cucumber, tomato, onion, olive oil, herbal spices, and verjuice, with lime juice sometimes used. It also describes *Shirazi faloodeh*, or *Paloodeh*, as a special version of Faloodeh from Shiraz. These dishes are not identified as foodways of the Shirazi people of Tanzania.
 

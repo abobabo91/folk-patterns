@@ -21,7 +21,7 @@ Blang houses are made of bamboo and usually have two floors. The first floor ser
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that the first floor of the Blang house is used to store food and keep livestock such as chickens.
+They do state that the first floor of the Blang house is used to store food and keep livestock such as chickens.
 
 ### Jewelry & body adornment
 
@@ -29,7 +29,7 @@ The sources describe blackened teeth produced by chewing betel nuts as a traditi
 
 ## Music & performance
 
- The Blang language has been represented in recordings: recordings of “Pang” are available in the Xuan Guan Collection of the Kaipuleohone archive, and Samtao is represented in the RWAAI Digital Archive. These references concern language documentation rather than a described musical tradition.
+The Blang language has been represented in recordings: recordings of “Pang” are available in the Xuan Guan Collection of the Kaipuleohone archive, and Samtao is represented in the RWAAI Digital Archive. These references concern language documentation rather than a described musical tradition.
 
 ## Festivals & rituals
 
@@ -41,7 +41,7 @@ The sources identify rice as an important element of Blang religious and ecologi
 
 ## Oral tradition & literature
 
- They do identify two writing systems based on the Latin alphabet: “Totham” in Xishuangbanna and “Tolek” from Dehong and Lincang.
+They do identify two writing systems based on the Latin alphabet: “Totham” in Xishuangbanna and “Tolek” from Dehong and Lincang.
 
 ## Language & religion
 

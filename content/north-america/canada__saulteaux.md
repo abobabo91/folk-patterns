@@ -13,27 +13,27 @@ The Saulteaux, also known as the Plains Ojibwe, Nakawe, or Nakawē, are a First 
 
 ### Ceramics, metalwork & everyday objects
 
- The language source gives examples of words for objects, including *jiimaanens*, “small boat,” *mitigoons*, “small tree,” and *asabiins*, “small net,”.
+The language source gives examples of words for objects, including *jiimaanens*, “small boat,” *mitigoons*, “small tree,” and *asabiins*, “small net,”.
 
 ## Music & performance
 
- The sources do state that the Ojibwa family groups incorporated the bison hunt into their cycle of seasonal exploitation.
+The sources do state that the Ojibwa family groups incorporated the bison hunt into their cycle of seasonal exploitation.
 
 ## Dance & theatre
 
-The Saulteaux language source mentions a “Strawberry Dance” practiced by certain communities. It gives no further information about the dance’s movements, participants, occasions, music or ceremonial meaning. No Saulteaux theatrical, dramatic, masked or puppet traditions are described in the sources used.
+The Saulteaux language source mentions a “Strawberry Dance” practiced by certain communities. It gives no further information about the dance’s movements, participants, occasions, music or ceremonial meaning.
 
 ## Festivals & rituals
 
- The language source states that certain communities practice a “Strawberry Dance,”.
+The language source states that certain communities practice a “Strawberry Dance,”.
 
 ## Foodways
 
- The Saulteaux are described as primarily hunters and fishers. The language source also states that small groups hunted moose, elk and other forest game, and that the bison hunt became part of the seasonal exploitation cycle of some Ojibwa family groups.
+The Saulteaux are described as primarily hunters and fishers. The language source also states that small groups hunted moose, elk and other forest game, and that the bison hunt became part of the seasonal exploitation cycle of some Ojibwa family groups.
 
 ## Oral tradition & literature
 
- The Saulteaux article identifies Al Hunter as an Anishinaabe writer and poet, and Robert Houle as an artist, critic and curator, but provides no descriptions of their works or of Saulteaux oral-literary traditions. The language article records linguistic research and documentation by Margaret Cote-Lerat, Terry J. Klokeid, Harold J. Logan, James H. Howard, Paul Voorhis and J. Randolph Valentine.
+The Saulteaux article identifies Al Hunter as an Anishinaabe writer and poet, and Robert Houle as an artist, critic and curator, but provides no descriptions of their works or of Saulteaux oral-literary traditions. The language article records linguistic research and documentation by Margaret Cote-Lerat, Terry J. Klokeid, Harold J. Logan, James H. Howard, Paul Voorhis and J. Randolph Valentine.
 
 ## Language & religion
 

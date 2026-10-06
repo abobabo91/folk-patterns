@@ -15,7 +15,7 @@ The sources identify DenG and Knero Lapaé as Liberian singers.
 
 ## Festivals & rituals
 
- They state that Kpelle are Christian or animist, and that they have maintained traditional and cultural heritage despite migration. The sources also record three days of ethno-religious fighting in Nzerekore in July 2013 between ethnic Kpelle and ethnic Konianke; this is an historical event rather than a Kpelle festival or ritual.
+They state that Kpelle are Christian or animist, and that they have maintained traditional and cultural heritage despite migration. The sources also record three days of ethno-religious fighting in Nzerekore in July 2013 between ethnic Kpelle and ethnic Konianke; this is an historical event rather than a Kpelle festival or ritual.
 
 ## Foodways
 
@@ -23,7 +23,7 @@ Rice is the Kpelle staple crop and main crop, and the Kpelle survive mostly on r
 
 ## Oral tradition & literature
 
- The Kpelle language source provides the Lord’s Prayer in Kpelle as a sample text, beginning “Kunâŋ gáa ŋele sui,”.
+The Kpelle language source provides the Lord’s Prayer in Kpelle as a sample text, beginning “Kunâŋ gáa ŋele sui,”.
 
 ## Language & religion
 

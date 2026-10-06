@@ -17,15 +17,15 @@ Apurinã houses are long, low, and narrow. Their side walls and roof form a sing
 
 ## Music & performance
 
- No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group in the supplied material.
+No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group in the supplied material.
 
 ## Festivals & rituals
 
- The supplied Wikipedia article identifies Guintiniri as a native god.
+The supplied Wikipedia article identifies Guintiniri as a native god.
 
 ## Oral tradition & literature
 
- They identify Guintiniri as a native god but provide no narrative or literary account connected with this figure. The supplied material also does not describe contemporary literary revivals or preservation efforts beyond language documentation and discussion of language endangerment.
+They identify Guintiniri as a native god but provide no narrative or literary account connected with this figure. The supplied material also does not describe contemporary literary revivals or preservation efforts beyond language documentation and discussion of language endangerment.
 
 ## Language & religion
 

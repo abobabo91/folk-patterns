@@ -17,23 +17,23 @@ Orang Asli settlements are described as being scattered among the mostly Malay p
 
 ### Ceramics, metalwork & everyday objects
 
- They mention prehistoric artefacts and ceramics in the archaeological history of the Malay Peninsula, including ceramics associated with the Neolithic and the archaeological culture of Hòa Bình.
+They mention prehistoric artefacts and ceramics in the archaeological history of the Malay Peninsula, including ceramics associated with the Neolithic and the archaeological culture of Hòa Bình.
 
 ## Music & performance
 
- They do record radio broadcasting in Orang Asli languages. Radio broadcasts in these languages began in 1959, and Asyik.FM broadcasts daily in Radio Malaysia in Semai, Temyar, Teman, and Jakun languages from 8 am to 11 pm; the channel is also available via the Internet. The sources also mention individual recordings of pop music in Aslian languages that can be heard on Asyik FM. No instrument names, musical forms, ceremonial performance settings, or professional performers are identified.
+They do record radio broadcasting in Orang Asli languages. Radio broadcasts in these languages began in 1959, and Asyik.FM broadcasts daily in Radio Malaysia in Semai, Temyar, Teman, and Jakun languages from 8 am to 11 pm; the channel is also available via the Internet. The sources also mention individual recordings of pop music in Aslian languages that can be heard on Asyik FM. No instrument names, musical forms, ceremonial performance settings, or professional performers are identified.
 
 ## Festivals & rituals
 
- They state that norms of customary laws are observed in daily Senoi life. Since the colonial era, missionaries of world religions have been active among jungle dwellers, and some people among the tribes are adherents of Islam, Christianity, or Baháʼí Faith.
+They state that norms of customary laws are observed in daily Senoi life. Since the colonial era, missionaries of world religions have been active among jungle dwellers, and some people among the tribes are adherents of Islam, Christianity, or Baháʼí Faith.
 
 ## Foodways
 
- They state that the traditional economy of the Senoi was based on jungle resources, including hunting, fishing, foraging, and logging. In contact with the Malay and Siamese states, the Senoi were involved in trading and were the main suppliers of jungle produce in the region. The sources also state that the Orang Kuala and Orang Seletar, who live by the sea, are mainly engaged in fishing and the seafood industry. No specific food names or preparation practices are given.
+They state that the traditional economy of the Senoi was based on jungle resources, including hunting, fishing, foraging, and logging. In contact with the Malay and Siamese states, the Senoi were involved in trading and were the main suppliers of jungle produce in the region. The sources also state that the Orang Kuala and Orang Seletar, who live by the sea, are mainly engaged in fishing and the seafood industry. No specific food names or preparation practices are given.
 
 ## Oral tradition & literature
 
- They state that Orang Asli languages lack both natively written literature and official status in Malaysia. Some Baháʼí Faith and Christian missionaries, as well as JAKOA newsletters, produce printed materials in Aslian languages. Private texts recorded by radio announcers use Malay and English writing and are described as amateur in nature. The sources also mention text messages in Orang Asli languages and individual recordings of pop music in Aslian languages.
+They state that Orang Asli languages lack both natively written literature and official status in Malaysia. Some Baháʼí Faith and Christian missionaries, as well as JAKOA newsletters, produce printed materials in Aslian languages. Private texts recorded by radio announcers use Malay and English writing and are described as amateur in nature. The sources also mention text messages in Orang Asli languages and individual recordings of pop music in Aslian languages.
 
 ## Language & religion
 

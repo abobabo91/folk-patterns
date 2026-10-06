@@ -13,23 +13,23 @@ The Yuracaré, also called Yurujare and Yurucare, are an Indigenous people of Bo
 
 ### Ceramics, metalwork & everyday objects
 
- The sources do state that the Yuracaré traditionally bury their dead with their bow and arrows, because they believe the dead go to a place underground where game is plentiful.
+The sources do state that the Yuracaré traditionally bury their dead with their bow and arrows, because they believe the dead go to a place underground where game is plentiful.
 
 ## Music & performance
 
- The Yuracaré language has been documented through audio recordings of narrative texts in the Yurakaré DoReCo corpus, with transcriptions time-aligned at the phone level and translations.
+The Yuracaré language has been documented through audio recordings of narrative texts in the Yurakaré DoReCo corpus, with transcriptions time-aligned at the phone level and translations.
 
 ## Festivals & rituals
 
- They state that the Yuracaré traditionally bury their dead with their bow and arrows, reflecting a belief that the dead go to a place underground where game is plentiful.
+They state that the Yuracaré traditionally bury their dead with their bow and arrows, reflecting a belief that the dead go to a place underground where game is plentiful.
 
 ## Foodways
 
- They state that the Yuracaré maintain the forest because certain trees bear fruit necessary for attracting the game that they hunt and live off.
+They state that the Yuracaré maintain the forest because certain trees bear fruit necessary for attracting the game that they hunt and live off.
 
 ## Oral tradition & literature
 
- They do document narrative texts in the Yurakaré DoReCo corpus, which contains audio recordings with transcriptions and translations. A Yuracaré–Spanish / Spanish–Yuracaré dictionary project received a Foundation for Endangered Languages grant in 2005. In 2025, the first Yuracare-Spanish dictionary and grammar was published as an attempt at preserving the language.
+They do document narrative texts in the Yurakaré DoReCo corpus, which contains audio recordings with transcriptions and translations. A Yuracaré–Spanish / Spanish–Yuracaré dictionary project received a Foundation for Endangered Languages grant in 2005. In 2025, the first Yuracare-Spanish dictionary and grammar was published as an attempt at preserving the language.
 
 ## Language & religion
 

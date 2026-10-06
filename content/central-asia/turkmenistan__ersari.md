@@ -13,11 +13,11 @@ Ersari, also called *Ärsary*, are one of the major tribes of the Turkmen people
 
 ### Architecture
 
- The Wikipedia source uses *Yurt* in the sense of a nomadic territory when discussing the Sayin Khan Turkmen tribal confederacy.
+The Wikipedia source uses *Yurt* in the sense of a nomadic territory when discussing the Sayin Khan Turkmen tribal confederacy.
 
 ## Festivals & rituals
 
- The historical source describes Ersari baba as the legendary leader of the Ersari people and of all Turkmen, and as a figure associated with the consolidation of Turkmen tribes.
+The historical source describes Ersari baba as the legendary leader of the Ersari people and of all Turkmen, and as a figure associated with the consolidation of Turkmen tribes.
 
 ## Oral tradition & literature
 

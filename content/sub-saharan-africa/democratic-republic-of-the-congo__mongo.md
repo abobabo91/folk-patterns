@@ -17,7 +17,7 @@ Mongo society is traditionally based on a joint family household called *Etuka*,
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that Mongo artistic achievements include carvings and musical instruments, but provide no further catalogue of forms, materials, or techniques.
+They do state that Mongo artistic achievements include carvings and musical instruments, but provide no further catalogue of forms, materials, or techniques.
 
 ## Music & performance
 

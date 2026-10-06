@@ -13,7 +13,7 @@ The Kawésqar, also known as the Kaweskar, Alacaluf, Alacalufe or Halakwulup, ar
 
 ### Architecture
 
- They state that many remaining Kawésqar were relocated in the 1930s to Wellington Island, in the town of Villa Puerto Edén, and that later people moved further south to Puerto Natales and Punta Arenas.
+They state that many remaining Kawésqar were relocated in the 1930s to Wellington Island, in the town of Villa Puerto Edén, and that later people moved further south to Puerto Natales and Punta Arenas.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -21,19 +21,19 @@ The Kawésqar, also known as the Kaweskar, Alacaluf, Alacalufe or Halakwulup, ar
 
 ## Music & performance
 
- The Kawésqar language article lists a “Chichili” love song in Kawésqar among its external links, and notes that the Chilean Languages Collection of Oscar Aguilera and José Tonko includes recordings and transcriptions of stories, myths and conversations in Kawésqar. No further description of the song or performance practice is provided.
+The Kawésqar language article lists a “Chichili” love song in Kawésqar among its external links, and notes that the Chilean Languages Collection of Oscar Aguilera and José Tonko includes recordings and transcriptions of stories, myths and conversations in Kawésqar. No further description of the song or performance practice is provided.
 
 ## Festivals & rituals
 
- They do record historical events affecting the people, including the relocation of many remaining Kawésqar to Wellington Island in the 1930s and the repatriation in early 2010 of the remains of five of the seven Kawésqar who died in Europe after being taken there in 1881. These events are historical episodes rather than festivals or rituals described by the sources.
+They do record historical events affecting the people, including the relocation of many remaining Kawésqar to Wellington Island in the 1930s and the repatriation in early 2010 of the remains of five of the seven Kawésqar who died in Europe after being taken there in 1881. These events are historical episodes rather than festivals or rituals described by the sources.
 
 ## Foodways
 
- The English and other Europeans adopted the name “Alacaluf” or “Halakwulup” from the Yahgan language; the source glosses this name as “mussel eater.”
+The English and other Europeans adopted the name “Alacaluf” or “Halakwulup” from the Yahgan language; the source glosses this name as “mussel eater.”
 
 ## Oral tradition & literature
 
- The language documentation described in the sources includes recordings and transcriptions of stories, myths and conversations in Kawésqar. A manuscript compiled by Thomas Bridges and his son Despard by 1884 contained a 1,200-word vocabulary for the Kawésqar language. The sources also list a 1986 novel by Jean Raspail, *Who Will Remember the People...*, about the history of the Alacalufe people.
+The language documentation described in the sources includes recordings and transcriptions of stories, myths and conversations in Kawésqar. A manuscript compiled by Thomas Bridges and his son Despard by 1884 contained a 1,200-word vocabulary for the Kawésqar language. The sources also list a 1986 novel by Jean Raspail, *Who Will Remember the People...*, about the history of the Alacalufe people.
 
 ## Language & religion
 

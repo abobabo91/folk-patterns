@@ -33,7 +33,7 @@ The Lacandon also made arrowheads from flint quarried in the rainforest and used
 
 ### Jewelry & body adornment
 
- They state that clothing and personal adornments changed considerably over time, and that photographs and drawings from the late 19th century record these changes. Some Lacandon formerly practiced bloodletting by cutting the earlobe or septum and smearing blood onto rubber figurines before burning them.
+They state that clothing and personal adornments changed considerably over time, and that photographs and drawings from the late 19th century record these changes. Some Lacandon formerly practiced bloodletting by cutting the earlobe or septum and smearing blood onto rubber figurines before burning them.
 
 ## Music & performance
 
@@ -43,7 +43,7 @@ Lacandon ritual music and dance have decreased since ethnographers began studyin
 
 ## Dance & theatre
 
- They state that ritual songs and dances took place in the God House and that the use of music and dance decreased in ritual behavior over time. No theatre, mask performance, or named entertainment dance is documented.
+They state that ritual songs and dances took place in the God House and that the use of music and dance decreased in ritual behavior over time. No theatre, mask performance, or named entertainment dance is documented.
 
 ## Festivals & rituals
 
@@ -57,13 +57,13 @@ The Lacandon also made pilgrimages to ancient Maya cities to pray and remove sto
 
 ## Foodways
 
- They state that ceramic bowls in the God House were used to prepare and eat ritual meals or offerings. A large hollowed trough was used to make the alcohol Balché for ritual consumption. Ritual food was thought to sustain the gods and maintain order in the universe.
+They state that ceramic bowls in the God House were used to prepare and eat ritual meals or offerings. A large hollowed trough was used to make the alcohol Balché for ritual consumption. Ritual food was thought to sustain the gods and maintain order in the universe.
 
 The sources also state that polygyny helped retain ritual knowledge in food preparation and maintain fertility among wives at different times.
 
 ## Oral tradition & literature
 
- They state that Christian missionaries from the Summer Institute of Linguistics worked with southern Lacandon to translate the New Testament and parts of the Old Testament into their language.
+They state that Christian missionaries from the Summer Institute of Linguistics worked with southern Lacandon to translate the New Testament and parts of the Old Testament into their language.
 
 Christian Rätsch spent three years living with the Lacandon while studying their spells and incantations. Casa Na Bolom has sponsored research on Lacandon history and culture, returned copies of photographs and other cultural documentation, and collaborated on recordings of traditional Lacandón songs.
 

@@ -25,7 +25,7 @@ White-rimmed black pottery is characteristic of the Zoque people.
 
 ## Music & performance
 
- The Zoque language article mentions Central Zoque-language programming carried by the CDI’s radio station XECOPA, broadcasting from Copainalá, Chiapas, and describes a Sierra Popoluca Collection of Lynda Boudreault containing audio recordings and transcriptions of Zoque and Soteapan in a wide range of genres.
+The Zoque language article mentions Central Zoque-language programming carried by the CDI’s radio station XECOPA, broadcasting from Copainalá, Chiapas, and describes a Sierra Popoluca Collection of Lynda Boudreault containing audio recordings and transcriptions of Zoque and Soteapan in a wide range of genres.
 
 ## Foodways
 
@@ -33,7 +33,7 @@ Agriculture is the Zoque’s primary economic activity, and crops vary according
 
 ## Oral tradition & literature
 
- The language article records audio recordings and transcriptions of Zoque and Soteapan in a wide range of genres, with some files restricted but potentially available upon request.
+The language article records audio recordings and transcriptions of Zoque and Soteapan in a wide range of genres, with some files restricted but potentially available upon request.
 
 ## Language & religion
 

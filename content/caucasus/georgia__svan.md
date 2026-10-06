@@ -11,7 +11,7 @@ The Svans (Svan: *შუ̂ანა̈რ*, romanized: *shwanær*; Georgian: *ს
 
 ## Festivals & rituals
 
-The Svans are Georgian Orthodox Christians and were Christianized in the 4th–6th centuries. Some remnants of pre-Christian beliefs have been maintained. Saint George, known as *Jgëræg* to the locals, is a patron saint of Georgia and the most respected saint among the Svans. The sources also state that the Svans have retained old traditions including blood revenge, although this practice has declined over time as law enforcement has taken hold. No annual festival calendar, seasonal festival, life-cycle rite, wedding custom, funeral practice, or ritual date is documented in the sources used.
+The Svans are Georgian Orthodox Christians and were Christianized in the 4th–6th centuries. Some remnants of pre-Christian beliefs have been maintained. Saint George, known as *Jgëræg* to the locals, is a patron saint of Georgia and the most respected saint among the Svans. The sources also state that the Svans have retained old traditions including blood revenge, although this practice has declined over time as law enforcement has taken hold.
 
 ## Oral tradition & literature
 

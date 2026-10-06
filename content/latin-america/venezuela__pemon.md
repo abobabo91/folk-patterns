@@ -17,23 +17,23 @@ The Pemon or Pemón (Pemong) are an Indigenous people living in areas of Venezue
 
 ### Clothing & dress
 
- They state only that many Pemon people work in hotels and tourism and that tourism has affected Pemon traditions and language.
+They state only that many Pemon people work in hotels and tourism and that tourism has affected Pemon traditions and language.
 
 ### Architecture
 
- They describe Pemon settlement in villages and identify the Canaima town and the Canaima camp as places associated with the demographic concentration and tourism-related life of Pemon people.
+They describe Pemon settlement in villages and identify the Canaima town and the Canaima camp as places associated with the demographic concentration and tourism-related life of Pemon people.
 
 ### Ceramics, metalwork & everyday objects
 
- The sources do identify the Kueka stone, a red stone boulder associated with a dispute involving Pemon efforts to have it returned to Venezuela.
+The sources do identify the Kueka stone, a red stone boulder associated with a dispute involving Pemon efforts to have it returned to Venezuela.
 
 ## Music & performance
 
- They describe religious practice involving shamans, tobacco, a specific diet, and hallucinogenic rituals.
+They describe religious practice involving shamans, tobacco, a specific diet, and hallucinogenic rituals.
 
 ## Festivals & rituals
 
- They do describe religious and mythological practices. Pemon have polytheistic beliefs, and figures including Makunaima, Kanaima, Iwarrika, and Sigu are important in their culture. The shaman plays an important role in religious practice and meets the god during hallucinogenic rituals in which tobacco and a specific diet are used.
+They do describe religious and mythological practices. Pemon have polytheistic beliefs, and figures including Makunaima, Kanaima, Iwarrika, and Sigu are important in their culture. The shaman plays an important role in religious practice and meets the god during hallucinogenic rituals in which tobacco and a specific diet are used.
 
 Pemon mythology describes gods residing in the tabletop mountains of the grassland region, called tepui. These mountains are off-limits to the living because they are also home to ancestor spirits called mawari. Missionary work affected Pemon belief, and Jechikrai is described as the Pemon adaptation of Jesus Christ.
 
@@ -41,7 +41,7 @@ The sources also document the history of the Kueka stone. In 1999, Wolfgang Krak
 
 ## Foodways
 
- They mention a specific diet in connection with shamanic hallucinogenic rituals.
+They mention a specific diet in connection with shamanic hallucinogenic rituals.
 
 ## Oral tradition & literature
 

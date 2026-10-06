@@ -27,7 +27,7 @@ The Bali Aga live in isolated mountain areas, where relative isolation preserved
 
 ## Music & performance
 
- They mention Kawi/Old Javanese and Sanskrit in connection with religious rituals, but not music or performance.
+They mention Kawi/Old Javanese and Sanskrit in connection with religious rituals, but not music or performance.
 
 ## Festivals & rituals
 

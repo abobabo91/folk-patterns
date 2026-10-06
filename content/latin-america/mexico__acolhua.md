@@ -17,11 +17,11 @@ The sources describe Acolhua cities, temples and idols. Coatlinchan was the firs
 
 ## Music & performance
 
- The sources mention that the Acolhua had temples and idols and that their patron deity was called Cocopitl.
+The sources mention that the Acolhua had temples and idols and that their patron deity was called Cocopitl.
 
 ## Festivals & rituals
 
- They state that the Acolhua had temples and idols and that Cocopitl was their patron deity at one time, but they provide no further description of rituals.
+They state that the Acolhua had temples and idols and that Cocopitl was their patron deity at one time, but they provide no further description of rituals.
 
 ## Oral tradition & literature
 

@@ -17,21 +17,17 @@ Daur clothing is described in relation to season and gender. During winter, Daur
 
 ## Music & performance
 
- They do record that many Daurs practice shamanism and that each clan has its own shaman, who is responsible for important ceremonies in the lives of the Daur.
+They do record that many Daurs practice shamanism and that each clan has its own shaman, who is responsible for important ceremonies in the lives of the Daur.
 
 ## Dance & theatre
 
- They mention the Tale of the Nisan Shaman, known to the Daur during the Qing.
+They mention the Tale of the Nisan Shaman, known to the Daur during the Qing.
 
 ## Festivals & rituals
 
 The sources describe clan-based ceremonies rather than an annual festival calendar. Each Daur clan has its own shaman, who is responsible for important ceremonies in the lives of the Daur. Many Daurs practice shamanism, while a significant number have adopted Tibetan Buddhism.
 
 Daurian shamanism gives an important place to a cult of the sky called *tenger*. Ancient people worshiped the image of *tenger* as the sun and the moon. In mythical representation, the sun appeared as mother; the sun and moon were considered a man and a woman, respectively, and these celestial bodies represented father and mother in Daur mythology.
-
-## Foodways
-
- They mention Daur farmers in accounts of the seventeenth-century Amur region, but provide no information about their cuisine or food preparation.
 
 ## Oral tradition & literature
 

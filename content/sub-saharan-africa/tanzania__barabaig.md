@@ -17,11 +17,11 @@ Cattle provide skins for clothing, while cattle horns are used as drinking vesse
 
 ### Architecture
 
- They state only that cattle dung is used for building and that Barabaig homesteads have gardens where vegetables are grown.
+They state only that cattle dung is used for building and that Barabaig homesteads have gardens where vegetables are grown.
 
 ### Ceramics, metalwork & everyday objects
 
- They state that sticks are important as weapons and percussion instruments, that cattle horns serve as drinking vessels, and that donkeys are used as beasts of burden. Cattle dung is used for building and urine as a cleanser.
+They state that sticks are important as weapons and percussion instruments, that cattle horns serve as drinking vessels, and that donkeys are used as beasts of burden. Cattle dung is used for building and urine as a cleanser.
 
 ## Music & performance
 
@@ -35,7 +35,7 @@ The sources mention dances in which sticks function as percussion instruments. T
 
 ## Festivals & rituals
 
- They do describe several important rituals and institutions.
+They do describe several important rituals and institutions.
 
 The Barabaig distinguish esteemed elders through *bung'ed*, the name both for a burial mound and for the nine-month ceremony accompanying it. Before the ceremony is granted, the elder’s clan discusses whether the person lived a moral life, had many wives and children, possessed many cattle, commanded authority through oratory, performed brave deeds, and showed wise judgement. The elder is then buried naked, seated, and facing east. The mound becomes sacred, carries the deceased’s name, and is maintained by the clan in perpetuity.
 
@@ -51,7 +51,7 @@ Barabaig traditionally did not grow crops, but they now cultivate plots of maize
 
 ## Oral tradition & literature
 
- They do state that authority in the burial qualification process may be demonstrated through oratory and that clan affairs are conducted through councils.
+They do state that authority in the burial qualification process may be demonstrated through oratory and that clan affairs are conducted through councils.
 
 The sources also preserve several names and explanations connected with Barabaig history and social organization. The group name is associated with beating sticks, and the people are divided into groups called *emojiga*. Clans are called *dosht*; spiritual clans are *daremng'ajega*, while secular clans are *homatk*. These terms are presented in the source as part of social organization rather than as a documented literary tradition.
 

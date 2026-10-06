@@ -182,6 +182,9 @@ def _drop_uncovered(md: str) -> str:
     md = _GAP_CLAUSE.sub(".", md)
     md = _NOT_COVERED.sub("", md)
     md = _NO_ACCOUNT.sub("", md)
+    # The same remark as a reading-list entry: "- Museum catalogue records: no
+    # object records were provided in the sources used."
+    md = re.sub(r"(?m)^[ \t]*[-*•](?=[^\n]*\bsources? used\b)(?=[^\n]*\b(?:no|not)\b)[^\n]*$\n?", "", md)
     md = re.sub(r"(?m)^ +(?=[A-Z])", "", md)   # a paragraph whose first sentence went
     # List items and bold lead-ins ("**Motifs.**") the removal left empty.
     md = re.sub(r"(?m)^[ \t]*(?:[-*•]|\d+\.)[ \t]*(?:\*\*[^*\n]*\*\*)?[ \t]*$\n?", "", md)

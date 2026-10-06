@@ -13,23 +13,19 @@ The Sart Kalmyks, also called Sart Kalmaks, are an ethnic group of the Oirats li
 
 ### Architecture
 
- They identify Chelpek and Börü-Bash as villages where Sart Kalmyks live, and mention Karakol city and Ak-Suu District as important locations of Sart Kalmyk settlement, but provide no architectural information about them.
-
-## Music & performance
-
- They identify Sart Kalmyk as a dialect of the Oirat language and list a publication entitled “About the Language of Sart Kalmyks of Issyk-Kul,” but provide no information about singing, instrumental performance, dance accompaniment, ceremonies, or musical preservation.
+They identify Chelpek and Börü-Bash as villages where Sart Kalmyks live, and mention Karakol city and Ak-Suu District as important locations of Sart Kalmyk settlement, but provide no architectural information about them.
 
 ## Festivals & rituals
 
- The sources state that Sart Kalmyks belong to the Muslim faith.
+The sources state that Sart Kalmyks belong to the Muslim faith.
 
 ## Foodways
 
- The sources state that Sart Kalmyks are traditionally engaged in cattle breeding.
+The sources state that Sart Kalmyks are traditionally engaged in cattle breeding.
 
 ## Oral tradition & literature
 
- The available material includes ethnographic, linguistic, demographic, and historical references.
+The available material includes ethnographic, linguistic, demographic, and historical references.
 
 ## Language & religion
 

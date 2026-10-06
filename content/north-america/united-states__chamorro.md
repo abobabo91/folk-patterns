@@ -23,7 +23,7 @@ Chamorro women were associated with teeth blackening or dental lacquering, which
 
 ### Architecture
 
-The *latte stone* is a megalithic rock pillar topped with a hemispherical capstone. Early Chamorros used latte stones as foundations for buildings, and the form was later appropriated as a national symbol. The sources also describe a creation tradition in which Fu'una transformed herself into a giant rock; proposed locations for this rock include a site at a church in Agat and Laso de Fua in Fouha Bay in Umatac. No house forms, roof types, urban layouts, or named building types are described in the sources.
+The *latte stone* is a megalithic rock pillar topped with a hemispherical capstone. Early Chamorros used latte stones as foundations for buildings, and the form was later appropriated as a national symbol. The sources also describe a creation tradition in which Fu'una transformed herself into a giant rock; proposed locations for this rock include a site at a church in Agat and Laso de Fua in Fouha Bay in Umatac.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -35,7 +35,7 @@ The sources describe hair and dental practices rather than jewelry. Early Europe
 
 ## Music & performance
 
- They do describe singing within a Chamorro legend: when men could not catch a gigantic fish that was eating away at Guam, women used their hair to weave a net, and the net grew larger as they sang. Their singing enchanted the fish and drew it into the net.
+They do describe singing within a Chamorro legend: when men could not catch a gigantic fish that was eating away at Guam, women used their hair to weave a net, and the net grew larger as they sang. Their singing enchanted the fish and drew it into the net.
 
 Chamorro performance traditions include chant, dance, and storytelling. The Chamoru dance is described as connected with these cultural practices, and Chamorro dance instructors have led *Guma* groups in several United States states. The sources also describe a dance movement shaped by a canoe. Chamorros practiced this movement, called *galaidé*, through hand movements or by using traditional wooden sticks.
 
@@ -47,7 +47,7 @@ A significant dance movement is traditionally shaped by a canoe. The *galaidé* 
 
 ## Festivals & rituals
 
- They do, however, describe several ritual and ceremonial practices. Ancient Chamorros engaged in ancestor veneration, while some residents of the Marianas still ask permission from ancestral spirits before entering parts of jungles. Most Chamorros are Roman Catholic, although some customs and beliefs from before the first European conquests continue.
+They do, however, describe several ritual and ceremonial practices. Ancient Chamorros engaged in ancestor veneration, while some residents of the Marianas still ask permission from ancestral spirits before entering parts of jungles. Most Chamorros are Roman Catholic, although some customs and beliefs from before the first European conquests continue.
 
 Chamorro cuisine is associated with special events including parties called *gupot* or “fiestas,” *nobenas*, and high-school or college graduations. Liberation Day commemorates the recapture of Guam by American forces on July 21, 1944.
 

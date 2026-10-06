@@ -13,7 +13,7 @@ The Ovimbundu, also known as the Southern Mbundu, are a Bantu ethnic group livin
 
 ### Architecture
 
- They do record that the construction of the Benguela Railway in 1904 contributed to the decline of caravan trading, and that many villages and much infrastructure were destroyed during the Civil War.
+They do record that the construction of the Benguela Railway in 1904 contributed to the decline of caravan trading, and that many villages and much infrastructure were destroyed during the Civil War.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -21,19 +21,15 @@ Regional specialization in metalwork developed through trade among independent c
 
 ## Music & performance
 
- The available material records caravan trade and its professional leaders and diviners.
+The available material records caravan trade and its professional leaders and diviners.
 
 ## Festivals & rituals
 
- The sources state that some Ovimbundu retain beliefs and practices from African traditional religions.
+The sources state that some Ovimbundu retain beliefs and practices from African traditional religions.
 
 ## Foodways
 
 The Ovimbundu developed sophisticated agriculture and bred small animals, including chicken, goats, and swine. They also obtained a small number of cows from farmer-herders to the south, including the Nyaneka-Nkhumbi and Ovambo. Cornmeal production became a regional specialization, and during the twentieth century the Ovimbundu shifted substantially toward cash-crop production of corn, which was sold through an expanding network of Portuguese traders.
-
-## Oral tradition & literature
-
- They do state that each trading caravan had a professional leader and diviner, but provide no account of the narratives, performances, or knowledge associated with these figures.
 
 ## Language & religion
 

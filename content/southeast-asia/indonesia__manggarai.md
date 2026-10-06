@@ -29,7 +29,7 @@ The sources mention carving, metalworking, and weaving among Manggarai handicraf
 
 ## Music & performance
 
- They do describe performance traditions connected with ritual, dance, and competition. In celebrations associated with the cult of the supreme creator god, Mori Karaeng, priests sacrifice buffalos called *ata Mbeki*, accompanied by ritual dances and battles between two groups of men in military garb.
+They do describe performance traditions connected with ritual, dance, and competition. In celebrations associated with the cult of the supreme creator god, Mori Karaeng, priests sacrifice buffalos called *ata Mbeki*, accompanied by ritual dances and battles between two groups of men in military garb.
 
 Caci is described as a traditional folk sport and war dance. It is a form of whip fighting in which two young men strike and parry with a whip and a shield, usually in a large field. A caci performance commonly begins with danding dance performances, after which the caci warriors demonstrate their abilities to hit and parry.
 
@@ -55,7 +55,7 @@ The sources state that Manggarai people practice manual tropical farming. They g
 
 ## Oral tradition & literature
 
- They do state that the Manggarai language is used throughout the region and that most Manggarai speakers also speak Indonesian for official and commercial purposes and for communication with non-Manggarai Indonesians.
+They do state that the Manggarai language is used throughout the region and that most Manggarai speakers also speak Indonesian for official and commercial purposes and for communication with non-Manggarai Indonesians.
 
 ## Language & religion
 

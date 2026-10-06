@@ -13,15 +13,15 @@ The Wiyot are an Indigenous people of California living near Humboldt Bay and a 
 
 ### Clothing & dress
 
- They state that ceremonial masks were worn during the World Renewal ceremony, but provide no further description of their materials, forms, or decoration.
+They state that ceremonial masks were worn during the World Renewal ceremony, but provide no further description of their materials, forms, or decoration.
 
 ### Architecture
 
- The Wiyot language article gives examples involving a “house” and “boards of the house,”.
+The Wiyot language article gives examples involving a “house” and “boards of the house,”.
 
 ### Ceramics, metalwork & everyday objects
 
-The sources describe long, carved, log canoes as an important Wiyot object. They also state that the people ate mostly clams and acorns. No Wiyot ceramics, metalwork, household vessels, tools, or named craft forms are described in the sources.
+The sources describe long, carved, log canoes as an important Wiyot object. They also state that the people ate mostly clams and acorns.
 
 ## Music & performance
 
@@ -47,7 +47,7 @@ The sources state that the Wiyot ate mostly clams and acorns.
 
 ## Oral tradition & literature
 
- The Wiyot language article includes a short example of Wiyot narration, translated as: “She began to throw aside the boards of the house, thinking in vain, ‘I’ll take that man back.’ She never took him back.” It also states that Wiyot traditional narratives exist.
+The Wiyot language article includes a short example of Wiyot narration, translated as: “She began to throw aside the boards of the house, thinking in vain, ‘I’ll take that man back.’ She never took him back.” It also states that Wiyot traditional narratives exist.
 
 Contemporary preservation efforts focus especially on language revival. The Wiyot tribal government is fostering revival through videos, online dictionaries, an annual Wiyot language calendar, language courses, and Wiyot texts published for distribution. The sources also describe the revival of the World Renewal Ceremony and the restoration of Tuluwat as continuing cultural efforts.
 

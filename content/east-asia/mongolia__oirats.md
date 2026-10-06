@@ -17,7 +17,7 @@ The sources mention the Potala in Jehol, also called Chengde, and a smaller copy
 
 ## Music & performance
 
- They do mention a *yada*, or “thunder stone,” used by the Oirat chief Qutuqa Beki in an attempt to unleash a storm against Genghis Khan’s army, but the source presents this as part of a historical episode rather than as a musical instrument or performance tradition.
+They do mention a *yada*, or “thunder stone,” used by the Oirat chief Qutuqa Beki in an attempt to unleash a storm against Genghis Khan’s army, but the source presents this as part of a historical episode rather than as a musical instrument or performance tradition.
 
 ## Festivals & rituals
 
@@ -25,7 +25,7 @@ The sources describe several religious and political events. The Oirats converte
 
 ## Foodways
 
- They state that the Kalmyks’ migration from the Volga region to Dzungaria involved thirst, cold, and starvation, and that the Oirats of the Dzungar Khanate developed a mixed agro-pastoral economy. No named food tradition is provided.
+They state that the Kalmyks’ migration from the Volga region to Dzungaria involved thirst, cold, and starvation, and that the Oirats of the Dzungar Khanate developed a mixed agro-pastoral economy. No named food tradition is provided.
 
 ## Oral tradition & literature
 

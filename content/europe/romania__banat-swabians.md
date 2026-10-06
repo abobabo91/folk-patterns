@@ -13,7 +13,7 @@ The Banat Swabians are an ethnic German population in the Banat region of Centra
 
 ### Clothing & dress
 
- They do state that Banat Swabians maintain customs and dialect through cultural organisations in Vienna and southern Germany, but no clothing customs are specified.
+They do state that Banat Swabians maintain customs and dialect through cultural organisations in Vienna and southern Germany, but no clothing customs are specified.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ The sources describe settlement in a frontier province that had been sparsely po
 
 ### Ceramics, metalwork & everyday objects
 
- They mention *Ulmer Schachteln*, barges used to transport German settlers down the Danube to Budapest or Belgrade.
+They mention *Ulmer Schachteln*, barges used to transport German settlers down the Danube to Budapest or Belgrade.
 
 ## Music & performance
 
- They do document German-language cultural institutions. A German-language theatre operated in Timișoara after the replacement of Austro-Hungarian rule by Romanian rule, and German-language newspapers were established across the Banat. In 1921, the cultural association “Verband der Deutschen in Rumaenien” was founded. In the present-day account given by the source, the German State Theater in Timișoara, also called Deutsches Staatstheater Temeswar, produces permanent theatre shows with Romanian government subsidy. They also mention the Allgemeine Deutsche Zeitung as a thriving weekly paper and identify German-language primary and secondary schools in Timișoara and Arad, attended mostly by Romanian students.
+They do document German-language cultural institutions. A German-language theatre operated in Timișoara after the replacement of Austro-Hungarian rule by Romanian rule, and German-language newspapers were established across the Banat. In 1921, the cultural association “Verband der Deutschen in Rumaenien” was founded. In the present-day account given by the source, the German State Theater in Timișoara, also called Deutsches Staatstheater Temeswar, produces permanent theatre shows with Romanian government subsidy. They also mention the Allgemeine Deutsche Zeitung as a thriving weekly paper and identify German-language primary and secondary schools in Timișoara and Arad, attended mostly by Romanian students.
 
 ## Dance & theatre
 
@@ -33,15 +33,15 @@ The sources provide evidence for German-language theatre. A German-language thea
 
 ## Festivals & rituals
 
- They do record several historical commemorative concerns among Swabians in Serbia: a minority council formed in Novi Sad in December 2007, and its president stated that the council would focus on property restitution, marking mass graves, and marking camp sites. They also mention community and cultural organisations, including Landsmannschaften among Banat Swabians living in Germany, but give no calendar of their events.
+They do record several historical commemorative concerns among Swabians in Serbia: a minority council formed in Novi Sad in December 2007, and its president stated that the council would focus on property restitution, marking mass graves, and marking camp sites. They also mention community and cultural organisations, including Landsmannschaften among Banat Swabians living in Germany, but give no calendar of their events.
 
 ## Foodways
 
- They state that the colonists transformed low-lying swampland through irrigation and grew corn, grain, hemp, tobacco, and sunflowers. Farmers also cultivated mulberries and silkworms. These details document agricultural production rather than a described cuisine.
+They state that the colonists transformed low-lying swampland through irrigation and grew corn, grain, hemp, tobacco, and sunflowers. Farmers also cultivated mulberries and silkworms. These details document agricultural production rather than a described cuisine.
 
 ## Oral tradition & literature
 
- They do describe the development of a distinct German speech variety among the colonists, known as Donau-Swabian and described as an archaic form of the language. The sources also identify writers and poets associated with Banat Swabian or wider German-speaking contexts. Franz Xaver Kappus was a writer, poet, and newspaper editor whose request for advice was answered by Rainer Maria Rilke in Letters to a Young Poet. Nikolaus Lenau was a writer, and Herta Müller was a poet and novelist whose books deal with the lives of Swabians in Ceaușescu’s Romania.
+They do describe the development of a distinct German speech variety among the colonists, known as Donau-Swabian and described as an archaic form of the language. The sources also identify writers and poets associated with Banat Swabian or wider German-speaking contexts. Franz Xaver Kappus was a writer, poet, and newspaper editor whose request for advice was answered by Rainer Maria Rilke in Letters to a Young Poet. Nikolaus Lenau was a writer, and Herta Müller was a poet and novelist whose books deal with the lives of Swabians in Ceaușescu’s Romania.
 
 ## Language & religion
 

@@ -1,0 +1,61 @@
+---
+title: "Goshute"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Goshutes are a tribe of Western Shoshone Native Americans and an Indigenous people of the Great Basin. Their traditional territory extended from the Great Salt Lake to the Steptoe Range in Nevada and south to Simpson Springs, with major concentrations in Deep Creek Valley near Ibapah on the Utah–Nevada border, Simpson’s Springs, and the Skull and Tooele Valleys. Today, two federally recognized Goshute tribes are identified: the Confederated Tribes of the Goshute Reservation, located in Nevada and Utah, and the Skull Valley Band of Goshute Indians of Utah. The Goshute refer to themselves as the *Newe* or *Newenee*, meaning “Person” or “People.” Gosiute is a regional dialect of Shoshoni, a Central Numic language. Their folk-culture significance in the sources lies especially in subsistence hunting and gathering, basketry, beadwork, seasonal cooperation among family groups, and continued language documentation and revitalization efforts.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Beadwork** — Beadwork is identified as one of the Goshutes’ traditional arts.
+
+**Basketry** — Basketry is identified as a traditional Goshute art.
+
+### Architecture
+
+Before contact with the Mormons, Goshute families wintered in the Deep Creek Valley in dugout houses built from willow poles and earth. These houses were known as *wiki-ups*. The sources associate them with winter habitation. Goshute social organization centered primarily on nuclear families, which gathered with other families for pine nut harvests, communal hunts, and winter lodging. Longer winter gatherings were organized under a *dagwani*, or village headman.
+
+## Music & performance
+
+They do document oral history recorded in Gosiute and a “Coyote and Frog story in Gosiute” among the external resources associated with the language. The sources also identify substantial linguistic documentation: ethnobotanist and ethnographer Ralph Chamberlin compiled and published Gosiute plant, animal, and place names in the first decades of the 20th century, while linguist Wick R. Miller published works on Shoshoni, including a 1972 dictionary and collection of texts containing several Gosiute texts.
+
+## Festivals & rituals
+
+They describe recurring seasonal gatherings for pine nut harvests, communal hunts lasting no more than two to six weeks, and winter lodging, with winter gatherings lasting longer. Women and children gathered nearly 100 species of wild vegetables and seeds, while the pine nut was the most important. Families also gathered insects, especially red ants, crickets, and grasshoppers. These activities are presented as subsistence practices and seasonal forms of cooperation rather than as named festivals.
+
+The sources describe conflict, treaty-making, and political history. A treaty with the United States was signed on October 12, 1863, ratified in 1864, and announced by President Lincoln on January 17, 1865; it required the Goshutes to end hostile actions against whites and allowed routes of travel, military posts, station houses, stage lines, telegraph lines, railways, mines, mills, and ranches through their domain.
+
+## Foodways
+
+Goshute foodways in the sources are based on hunting, gathering, and adaptation to the grasslands and arid environments of the Great Basin. The diet included rats, lizards, snakes, rabbits, insects, grass-seed, and roots. The Goshutes also hunted birds, gophers, skunks, squirrels, and, when available, pronghorn, bear, coyote, deer, elk, and bighorn sheep. Women and children gathered wild vegetables and seeds, including wild onions, carrots, potatoes, and pine nuts. The pine nut was the most important gathered food. Red ants, crickets, and grasshoppers were also gathered, with insects described as important resources.
+
+Large-game hunting was usually done by men, who shared the meat with other members of the village. A family could provide for most of its needs without assistance, although family groups cooperated during communal hunts and seasonal gatherings. They state that the Goshutes used the root of *Carex* as medicine.
+
+## Oral tradition & literature
+
+They do identify oral history recorded in Gosiute and a “Coyote and Frog story in Gosiute.” Ralph Chamberlin’s early documentation included Gosiute plant, animal, and place names. Wick R. Miller published a 1972 dictionary and collection of texts that included several Gosiute texts. The Goshute language article also identifies the description of Shoshoni in Volume 17 of the *Handbook of North American Indians* as being based on the Gosiute dialect.
+
+Language-preservation efforts included Gosiute classes at the Ibapah primary school in the 2000s, although those courses have since stopped. A 1997 plan to store nuclear waste on the Skull Valley Reservation allotted funds for a cultural center with language programs, but the plans were halted.
+
+## Language & religion
+
+Gosiute is a dialect of the endangered Shoshoni language, which belongs to the Central Numic branch of the Numic language family. It was historically spoken by the Goshute people of the American Great Basin in modern Nevada and Utah. Modern Gosiute-speaking communities include the Confederated Tribes of the Goshute Reservation and the Skull Valley Band of Goshute Indians.
+
+The Goshute refer to themselves as *Newe* or *Newenee*. Other names recorded in the sources include *Kutsipiuti*, *Gutsipiuti*, and *Kuttuhsippeh*, meaning “People of the dry earth” or “People of the Desert.” Gosiute has a distinctive interdental affricate in place of the strident alveolar affricate found in other Shoshoni dialects, and speakers may drop the initial [h]. By the 21st century, an estimated 20 to 30 fluent speakers remained, including only four in the Skull Valley band, although additional passive speakers existed.
+
+## Sources & further reading
+
+- Thomas, David Hurst; Lorann S. A. Pendleton; and Stephen C. Cappanari. “Western Shoshone.” In Warren L. d’Azevedo, ed., *Handbook of North American Indians: Great Basin*, vol. 11, Smithsonian Institution, 1986.
+- Carling I. Malouf. “The Goshute Indians.” *Archaeology and Ethnology Papers*, Natural History Museum of Utah, 1950.
+- Carling I. Malouf. *A History of the Gosiute Indian Relationships with White Man*. University of Utah Press, 1947.
+- Lincoln L. Davies. “Skull Valley Crossroads: Reconciling Native Sovereignty and the Federal Trust.” *Maryland Law Review* 68, no. 2, 2009.
+- Ralph Chamberlin’s documentation of Gosiute plant, animal, and place names.
+- Wick R. Miller’s 1972 Shoshoni dictionary and collection of texts.
+- [Goshute](https://en.wikipedia.org/wiki/Goshute)
+- [Goshute language](https://en.wikipedia.org/wiki/Goshute_language)

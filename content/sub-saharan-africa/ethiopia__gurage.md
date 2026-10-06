@@ -13,23 +13,19 @@ The Gurage are a Semitic-speaking Habesha ethnic group inhabiting Ethiopia. They
 
 ### Clothing & dress
 
- They do record that, during the nineteenth century, Gurage slaves traveling to Shewa were often nearly naked after Oromo ambushes and that Negus Sahle Selassie gave them new clothes.
+They do record that, during the nineteenth century, Gurage slaves traveling to Shewa were often nearly naked after Oromo ambushes and that Negus Sahle Selassie gave them new clothes.
 
 ### Architecture
 
- They do mention clay pots hung from the walls of Gurage huts, where households kept spiced butter aging.
+They do mention clay pots hung from the walls of Gurage huts, where households kept spiced butter aging.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe clay pots used for aging spiced butter and deep pits between rows of ensete plants, where the edible substance extracted from the plant’s root was fermented.
-
-## Music & performance
-
- They mention Hailu Fereja as an Ethiopian singer among notable Gurages, but provide no description of his music or of a specifically Gurage musical tradition.
+They do describe clay pots used for aging spiced butter and deep pits between rows of ensete plants, where the edible substance extracted from the plant’s root was fermented.
 
 ## Festivals & rituals
 
- They do, however, describe ritual and ceremonial uses of ensete. Ensete fronds are used to wrap a corpse after death, and ensete fiber is used to tie off the umbilical cord after birth. Meat is usually eaten when an animal is sacrificed during a ritual or ceremonial event. Ensete also participates in everyday social interactions and can be exchanged as recompense for services rendered.
+They do, however, describe ritual and ceremonial uses of ensete. Ensete fronds are used to wrap a corpse after death, and ensete fiber is used to tie off the umbilical cord after birth. Meat is usually eaten when an animal is sacrificed during a ritual or ceremonial event. Ensete also participates in everyday social interactions and can be exchanged as recompense for services rendered.
 
 The sources describe a Gurage proverb concerning butter and illness, and state that different species of ensete are eaten to alleviate illness. They also report that the Gurage regard overeating as coarse and vulgar. It is considered poor etiquette to eat all the ensete passed by a host, and polite to leave at least some ensete bread even after a very small portion has been served.
 

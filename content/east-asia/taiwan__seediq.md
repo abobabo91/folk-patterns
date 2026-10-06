@@ -11,23 +11,23 @@ The Seediq, also known as Sediq, Seejiq, or Truku, are a Taiwanese Indigenous pe
 
 ## Music & performance
 
- They mention the albums *Seediq Bale* and *Takasago Army*, released in 2007 and 2011 by the Taiwanese extreme metal band Chthonic, which present fictionalized narratives about Seediq experiences during the first half of the 20th century.
+They mention the albums *Seediq Bale* and *Takasago Army*, released in 2007 and 2011 by the Taiwanese extreme metal band Chthonic, which present fictionalized narratives about Seediq experiences during the first half of the 20th century.
 
 ## Dance & theatre
 
- They state that the 2011 Taiwanese historical drama film *Seediq Bale* depicted the 1930 Wushe Incident and the earlier Renzhiguan and Zimeiyuan incidents. The Wushe Incident was also depicted in the 1957 film *青山碧血 Qing Shan bi xue* and the 2003 television drama *Dana Sakura*.
+They state that the 2011 Taiwanese historical drama film *Seediq Bale* depicted the 1930 Wushe Incident and the earlier Renzhiguan and Zimeiyuan incidents. The Wushe Incident was also depicted in the 1957 film *青山碧血 Qing Shan bi xue* and the 2003 television drama *Dana Sakura*.
 
 ## Festivals & rituals
 
- They document resistance to Japanese rule. Japanese road building beginning in 1897 brought Japanese forces into Indigenous territory, and conflicts escalated. Indigenous people defeated 670 Japanese soldiers in 1901, after which the Japanese isolated Wushe in 1902. Between 1914 and 1917, Japanese forces carried out a pacification program that killed many resisting people. In October 1930, the Seediq in Musha, also called Wushe, attacked a village and killed over 130 Japanese; a Japanese counter-attack killed over 600 Seediq in retaliation.
+They document resistance to Japanese rule. Japanese road building beginning in 1897 brought Japanese forces into Indigenous territory, and conflicts escalated. Indigenous people defeated 670 Japanese soldiers in 1901, after which the Japanese isolated Wushe in 1902. Between 1914 and 1917, Japanese forces carried out a pacification program that killed many resisting people. In October 1930, the Seediq in Musha, also called Wushe, attacked a village and killed over 130 Japanese; a Japanese counter-attack killed over 600 Seediq in retaliation.
 
 ## Foodways
 
- The Seediq language article gives *saws* as an interjection uttered when offering food to ancestors.
+The Seediq language article gives *saws* as an interjection uttered when offering food to ancestors.
 
 ## Oral tradition & literature
 
- They identify Umin Boya as a Taiwanese writer, director, and actor, and mention fictionalized narratives about Seediq experiences in the albums *Seediq Bale* and *Takasago Army*.
+They identify Umin Boya as a Taiwanese writer, director, and actor, and mention fictionalized narratives about Seediq experiences in the albums *Seediq Bale* and *Takasago Army*.
 
 ## Language & religion
 

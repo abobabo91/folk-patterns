@@ -17,7 +17,7 @@ The Dagaaba were historically self-reliant in iron production.
 
 ### Jewelry & body adornment
 
- Cowrie shells are mentioned as currency and as having traditional ornamental and ceremonial uses, but no specific jewelry forms are identified.
+Cowrie shells are mentioned as currency and as having traditional ornamental and ceremonial uses, but no specific jewelry forms are identified.
 
 ## Music & performance
 
@@ -27,11 +27,11 @@ Music is not presented separately from the wider social and ritual life of the c
 
 ## Dance & theatre
 
- They mention ritual services, initiation rituals and sacred oral performances.
+They mention ritual services, initiation rituals and sacred oral performances.
 
 ## Festivals & rituals
 
- They do describe a ritual and political system organized around the *Yir* subclan or household group and the *Tengan*, an earth-deity shrine area. Several shrine areas form part of a system called the *tendaalun*. Roles within this system are commonly inherited within the same household group.
+They do describe a ritual and political system organized around the *Yir* subclan or household group and the *Tengan*, an earth-deity shrine area. Several shrine areas form part of a system called the *tendaalun*. Roles within this system are commonly inherited within the same household group.
 
 The head of a shrine-area system, the *tengan sob*, sometimes called *tindana*, serves as community elder and priest. The *tengan dem* is the ritual custodian and maintainer of the ritual center. Other roles include the *suo sob*, who performs ritual animal slaughter to the earth deity; the *zongmogre*, who performs rituals at sacred market centres; and the *gara dana* or *wie sob*, who leads ritual activity among hunting societies.
 

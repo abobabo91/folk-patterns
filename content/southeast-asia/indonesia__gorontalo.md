@@ -23,7 +23,7 @@ Another traditional house is *Bandayo Poboide*, whose existence is described as 
 
 ### Ceramics, metalwork & everyday objects
 
- They state only that crafting was a secondary means of income and that the *Dulohupa* house was built from selected timber and roofed with straw.
+They state only that crafting was a secondary means of income and that the *Dulohupa* house was built from selected timber and roofed with straw.
 
 ## Music & performance
 

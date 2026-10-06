@@ -17,11 +17,11 @@ E'ñepa settlements contain one to four longhouses. These semi-permanent houses 
 
 ## Music & performance
 
- The first episode of the ITV anthropological television series *Disappearing World*, in 1970, focused on the Panare people.
+The first episode of the ITV anthropological television series *Disappearing World*, in 1970, focused on the Panare people.
 
 ## Festivals & rituals
 
- They state that food is shared within settlement groups and that hearth groups consist of one man, his wife or wives, and their children.
+They state that food is shared within settlement groups and that hearth groups consist of one man, his wife or wives, and their children.
 
 ## Foodways
 

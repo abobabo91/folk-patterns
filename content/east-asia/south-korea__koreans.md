@@ -13,7 +13,7 @@ Koreans are an East Asian ethnic group indigenous to the Korean Peninsula. Most 
 
 ### Architecture
 
- They do state that the Korean Peninsula contains the world's largest concentration of dolmens, and that Korea accounts for nearly 40% of the world's total.
+They do state that the Korean Peninsula contains the world's largest concentration of dolmens, and that Korea accounts for nearly 40% of the world's total.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -25,7 +25,7 @@ The sources identify the Korean language and its writing systems. No UNESCO Inta
 
 ## Festivals & rituals
 
- They state that North Korea and South Korea share a common heritage, while the political division since 1945 has produced divergence in their modern cultures.
+They state that North Korea and South Korea share a common heritage, while the political division since 1945 has produced divergence in their modern cultures.
 
 ## Oral tradition & literature
 

@@ -15,7 +15,7 @@ The Akhvakhs are mainly Sunni Muslims. The sources state that they adopted Islam
 
 ## Oral tradition & literature
 
- They state that a few publications have appeared in the Akhvakh language, including the newspaper *Zaman*, meaning “Time,” published since the early 1930s, and the newspaper Ахвахцы — Ашвадо, published since the 2000s.
+They state that a few publications have appeared in the Akhvakh language, including the newspaper *Zaman*, meaning “Time,” published since the early 1930s, and the newspaper Ахвахцы — Ашвадо, published since the 2000s.
 
 ## Language & religion
 

@@ -17,7 +17,7 @@ Huambisa communities primarily live in small patrilineal communities that mainta
 
 ### Ceramics, metalwork & everyday objects
 
- They do record agricultural work using slash-and-burn methods, together with hunting and fishing.
+They do record agricultural work using slash-and-burn methods, together with hunting and fishing.
 
 ## Music & performance
 

@@ -13,23 +13,23 @@ Albanians are an ethnic group and nation native to the Balkan Peninsula. They ar
 
 ### Architecture
 
- They do record fortified settlements and forts associated with the Komani-Kruja culture, including Komani and its fort on Dalmace hill in the Drin river valley.
+They do record fortified settlements and forts associated with the Komani-Kruja culture, including Komani and its fort on Dalmace hill in the Drin river valley.
 
 ## Music & performance
 
- They do record that Albanian *stratioti* were recruited across Europe as light cavalry and that these forces influenced the development of light cavalry tactics during the 15th century, but this is military rather than musical material.
+They do record that Albanian *stratioti* were recruited across Europe as light cavalry and that these forces influenced the development of light cavalry tactics during the 15th century, but this is military rather than musical material.
 
 ## Festivals & rituals
 
- They do describe major religious changes: Christianity in Albania was under the jurisdiction of the Bishop of Rome until the 8th century, after which dioceses were transferred to the patriarchate of Constantinople; following the Great Schism in 1054, the north gradually became associated with Roman Catholicism and the south with Eastern Orthodoxy. During the 17th and 18th centuries, a substantial number of Albanians converted to Islam.
+They do describe major religious changes: Christianity in Albania was under the jurisdiction of the Bishop of Rome until the 8th century, after which dioceses were transferred to the patriarchate of Constantinople; following the Great Schism in 1054, the north gradually became associated with Roman Catholicism and the south with Eastern Orthodoxy. During the 17th and 18th centuries, a substantial number of Albanians converted to Islam.
 
 ## Foodways
 
- They state that Albanian communities contributed culturally to the broader Muslim world after substantial conversion to Islam during the 17th and 18th centuries, but they provide no foodways connected with that history.
+They state that Albanian communities contributed culturally to the broader Muslim world after substantial conversion to Islam during the 17th and 18th centuries, but they provide no foodways connected with that history.
 
 ## Oral tradition & literature
 
- They do identify a long-standing historical debate concerning Albanian origins and language, and they preserve historical references to Albanians in Byzantine historiography. The first certain reference to Albanians as an ethnic group is attributed to the 11th-century chronicler Michael Attaleiates, who described them as living in the theme of Dyrrhachium.
+They do identify a long-standing historical debate concerning Albanian origins and language, and they preserve historical references to Albanians in Byzantine historiography. The first certain reference to Albanians as an ethnic group is attributed to the 11th-century chronicler Michael Attaleiates, who described them as living in the theme of Dyrrhachium.
 
 ## Language & religion
 

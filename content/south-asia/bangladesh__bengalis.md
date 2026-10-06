@@ -13,29 +13,29 @@ Bengalis are an Indo-Aryan ethnolinguistic group originating from and culturally
 
 ### Textile & pattern traditions
 
- They state that eastern Bengal was prominent in textile manufacturing and was a major exporter of silk and cotton textiles during the Mughal era.
+They state that eastern Bengal was prominent in textile manufacturing and was a major exporter of silk and cotton textiles during the Mughal era.
 
 ### Architecture
 
- They mention arts and architecture among the fields to which Bengalis have contributed, and they record monasteries, Islamic institutions, temples and bricked homes in historical contexts.
+They mention arts and architecture among the fields to which Bengalis have contributed, and they record monasteries, Islamic institutions, temples and bricked homes in historical contexts.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention silver coins, iron weaponry and bricked homes in connection with the Wari-Bateshwar civilisation, and describe a temple of Lord Manibhadra referenced in an inscription from present-day Cumilla.
+They mention silver coins, iron weaponry and bricked homes in connection with the Wari-Bateshwar civilisation, and describe a temple of Lord Manibhadra referenced in an inscription from present-day Cumilla.
 
 ## Music & performance
 
- They state that Bengalis have contributed to the arts, folklore and literature, and mention Charyapada as a work containing a song composed approximately in the 9th–10th century by the poet Bhusuku Pa.
+They state that Bengalis have contributed to the arts, folklore and literature, and mention Charyapada as a work containing a song composed approximately in the 9th–10th century by the poet Bhusuku Pa.
 
 ## Festivals & rituals
 
- They do describe religious affiliations and practices: approximately 70% of Bengalis are adherents of Islam, with a large Hindu minority and sizeable communities of Christians and Buddhists. Bengali Muslims primarily belong to the Sunni denomination. Bengali Hindus generally follow Shaktism or Vaishnavism in addition to worshipping regional deities.
+They do describe religious affiliations and practices: approximately 70% of Bengalis are adherents of Islam, with a large Hindu minority and sizeable communities of Christians and Buddhists. Bengali Muslims primarily belong to the Sunni denomination. Bengali Hindus generally follow Shaktism or Vaishnavism in addition to worshipping regional deities.
 
 The sources also mention the Hajj pilgrimage, which Muslims are required to undertake once in their lifetime, and describe the historical funding of Islamic institutions in the Hejaz by Bengali sultans. Islamic institutions in the Hejaz became known by Arabs as Bengali madrasas.
 
 ## Foodways
 
- They state that eastern Bengal exported agricultural and industrial produce during the Mughal era.
+They state that eastern Bengal exported agricultural and industrial produce during the Mughal era.
 
 ## Oral tradition & literature
 

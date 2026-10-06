@@ -17,7 +17,7 @@ Babor, also called Babbapura, is described as a former chief state of the Dogras
 
 ### Ceramics, metalwork & everyday objects
 
- They mention a copper-plate inscription in Chamba in connection with the etymology of the term Dogra.
+They mention a copper-plate inscription in Chamba in connection with the etymology of the term Dogra.
 
 ## Music & performance
 

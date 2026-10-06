@@ -17,7 +17,7 @@ The sources mention woven mats, raffia mats, raffia fronds, red caps, clothes, b
 
 ### Architecture
 
- They mention the Zangon Katab market, the Hausa settlement known as the Zango, permanent marketplace land, trader residences, shallow caves and a rock shelter at Bakunkung Afang and Tswoɡ Fwuam.
+They mention the Zangon Katab market, the Hausa settlement known as the Zango, permanent marketplace land, trader residences, shallow caves and a rock shelter at Bakunkung Afang and Tswoɡ Fwuam.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -29,7 +29,7 @@ The sources mention bangles and necklaces as goods imported by Hausa traders and
 
 ## Music & performance
 
- They do record *tuk cyia̱ga̱vang*, identified as the Tyap term for tuwon shinkafa, but provide no musical information about it.
+They do record *tuk cyia̱ga̱vang*, identified as the Tyap term for tuwon shinkafa, but provide no musical information about it.
 
 ## Festivals & rituals
 

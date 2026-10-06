@@ -29,7 +29,7 @@ Insar live in simple houses of wood and woven bamboo built on stilts.
 
 ## Music & performance
 
- They do describe poem recitation traditions called *taiktay*, in which Intha bachelors and maidens recite poetry. The sources also mention traditional dances called the *lansi*, *lunsi*, and *ozigyi* dances, but provide no further information about their music, instruments, occasions, or performance structure.
+They do describe poem recitation traditions called *taiktay*, in which Intha bachelors and maidens recite poetry. The sources also mention traditional dances called the *lansi*, *lunsi*, and *ozigyi* dances, but provide no further information about their music, instruments, occasions, or performance structure.
 
 ## Dance & theatre
 
@@ -37,7 +37,7 @@ Traditional Insar dances include the *lansi*, *lunsi*, and *ozigyi* dances.
 
 ## Festivals & rituals
 
- They state that Insar are overwhelmingly Buddhists, although there is a small Christian sect.
+They state that Insar are overwhelmingly Buddhists, although there is a small Christian sect.
 
 ## Foodways
 

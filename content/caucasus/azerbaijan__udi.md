@@ -13,19 +13,19 @@ The Udi, also called Uti, are a Lezgic people native to the Caucasus, living mai
 
 ### Architecture
 
- They identify Nij and Zinobiani as concentrated Udi settlements and state that Zinobiani was founded by Udi refugees from Vartashen in the 1920s.
+They identify Nij and Zinobiani as concentrated Udi settlements and state that Zinobiani was founded by Udi refugees from Vartashen in the 1920s.
 
 ### Ceramics, metalwork & everyday objects
 
- They state only that centuries of life in Armenian, Iranian, and Turkish spheres influenced Udi material culture.
+They state only that centuries of life in Armenian, Iranian, and Turkish spheres influenced Udi material culture.
 
 ## Music & performance
 
- The sources do state that Udi folk traditions were influenced by centuries of life in Armenian, Iranian, and Turkish spheres.
+The sources do state that Udi folk traditions were influenced by centuries of life in Armenian, Iranian, and Turkish spheres.
 
 ## Festivals & rituals
 
- They do document Christian religious affiliation and several historical developments within Udi Christianity. The Udi of Vartashen remained in the Armenian Apostolic, or Gregorian, Church and formerly conducted services in Armenian. The Udi of Nij changed from the Armenian Apostolic Church to the Eastern Orthodox Church soon after the beginning of Russian rule. In 2003, the Albanian-Udi Christian Religious Community was founded in Azerbaijan and sought to restore the Albanian Apostolic Church as a church independent from the Armenian Apostolic Church.
+They do document Christian religious affiliation and several historical developments within Udi Christianity. The Udi of Vartashen remained in the Armenian Apostolic, or Gregorian, Church and formerly conducted services in Armenian. The Udi of Nij changed from the Armenian Apostolic Church to the Eastern Orthodox Church soon after the beginning of Russian rule. In 2003, the Albanian-Udi Christian Religious Community was founded in Azerbaijan and sought to restore the Albanian Apostolic Church as a church independent from the Armenian Apostolic Church.
 
 The sources also preserve a religious statement from an Udi community from Shaki, which on 31 March 1724 petitioned Peter the Great for protection. The petition connected Udi ancestry with Caucasian Albania and stated that their ancestors became believers in God through the preaching of the apostle Elisaeus.
 

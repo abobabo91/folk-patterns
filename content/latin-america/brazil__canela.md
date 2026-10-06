@@ -11,7 +11,7 @@ The Canela are a group of multiple Indigenous peoples of Northeastern Brazil who
 
 ## Festivals & rituals
 
- They state only that the Canela were pacified and resettled between 1814 and 1840, after a period in which they were primarily hunter-gatherers.
+They state only that the Canela were pacified and resettled between 1814 and 1840, after a period in which they were primarily hunter-gatherers.
 
 ## Foodways
 

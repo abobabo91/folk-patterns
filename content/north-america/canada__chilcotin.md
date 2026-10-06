@@ -17,23 +17,23 @@ The Chilcotin, also called Tsilhqotʼin, are an Athabaskan-speaking ethnolinguis
 
 ### Architecture
 
- They mention reserves, mission schools, offices, communities, and two small unincorporated towns, Alexis Creek and Anahim Lake, but provide no architectural description.
+They mention reserves, mission schools, offices, communities, and two small unincorporated towns, Alexis Creek and Anahim Lake, but provide no architectural description.
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that, before contact with Europeans, the Tŝilhqotʼin were part of an extensive trade network centred on the control and distribution of obsidian, which was the material of choice for arrowheads and other stone tools.
+They do state that, before contact with Europeans, the Tŝilhqotʼin were part of an extensive trade network centred on the control and distribution of obsidian, which was the material of choice for arrowheads and other stone tools.
 
 ## Music & performance
 
- The sources do describe the Chilcotin language, or Tŝilhqotʼin, as a Northern Athabaskan language spoken in British Columbia by the Tsilhqotʼin people. It has 47 consonants, 6 vowels, and two tones: high tone and low tone. The language has vowel flattening and consonant harmony; vowel flattening is described as unique to Chilcotin, while consonant harmony is common in the Athabaskan language family. The sources also describe vowel nasalization and laxing, progressive and regressive flattening, and the grouping of consonants into neutral, sharp, and flat categories. No source connects these linguistic features to a documented musical tradition.
+The sources do describe the Chilcotin language, or Tŝilhqotʼin, as a Northern Athabaskan language spoken in British Columbia by the Tsilhqotʼin people. It has 47 consonants, 6 vowels, and two tones: high tone and low tone. The language has vowel flattening and consonant harmony; vowel flattening is described as unique to Chilcotin, while consonant harmony is common in the Athabaskan language family. The sources also describe vowel nasalization and laxing, progressive and regressive flattening, and the grouping of consonants into neutral, sharp, and flat categories. No source connects these linguistic features to a documented musical tradition.
 
 ## Festivals & rituals
 
- The sources do record several historical events affecting Chilcotin communities. European trading goods were first encountered in the 1780s and 1790s, and the North West Company established posts in Carrier territory by 1808. In 1821, the Hudson’s Bay Company established a fur-trade post at Fort Alexandria on the Fraser River, which became a major source of European goods. Epidemics affecting Tsilhqotʼin populations included whooping cough in 1845, measles in 1850, smallpox in 1855, smallpox in 1862–1863, and Spanish flu in 1919. Catholic missionaries sent First Nations children to receive a so-called “formal” education; by 1891, the first group of students had been sent, and the mission school closed circa 1981.
+The sources do record several historical events affecting Chilcotin communities. European trading goods were first encountered in the 1780s and 1790s, and the North West Company established posts in Carrier territory by 1808. In 1821, the Hudson’s Bay Company established a fur-trade post at Fort Alexandria on the Fraser River, which became a major source of European goods. Epidemics affecting Tsilhqotʼin populations included whooping cough in 1845, measles in 1850, smallpox in 1855, smallpox in 1862–1863, and Spanish flu in 1919. Catholic missionaries sent First Nations children to receive a so-called “formal” education; by 1891, the first group of students had been sent, and the mission school closed circa 1981.
 
 ## Foodways
 
- They do mention subsistence agriculture and the cultivation or production of grains, hay, and vegetables. During the 1870s, the loss of hunting territories and crashes of the salmon runs placed more dependence on agricultural produce. Activities included cutting hay, constructing irrigation ditches, and practicing animal husbandry. Settlers’ assumption of water rights made agriculture increasingly fragile, and starvation became a threat. The sources provide no further account of Chilcotin food preparation or cuisine.
+They do mention subsistence agriculture and the cultivation or production of grains, hay, and vegetables. During the 1870s, the loss of hunting territories and crashes of the salmon runs placed more dependence on agricultural produce. Activities included cutting hay, constructing irrigation ditches, and practicing animal husbandry. Settlers’ assumption of water rights made agriculture increasingly fragile, and starvation became a threat. The sources provide no further account of Chilcotin food preparation or cuisine.
 
 ## Oral tradition & literature
 

@@ -31,7 +31,7 @@ The sources mention the Nokpante, the village bachelor dormitory where unmarried
 
 ### Ceramics, metalwork & everyday objects
 
- They do document metalwork in weapons and ornaments. The *mil·am* is a two-edged sword made from a single piece of iron from hilt to point, with a cross-bar between the hilt and blade carrying a bunch of ox’s tail hair. Other weapons include shields, spears, bows and arrows, axes, and daggers. Brass is used for several ornaments, including ear rings, bangles, necklaces, and elbow rings.
+They do document metalwork in weapons and ornaments. The *mil·am* is a two-edged sword made from a single piece of iron from hilt to point, with a cross-bar between the hilt and blade carrying a bunch of ox’s tail hair. Other weapons include shields, spears, bows and arrows, axes, and daggers. Brass is used for several ornaments, including ear rings, bangles, necklaces, and elbow rings.
 
 ### Jewelry & body adornment
 
@@ -47,7 +47,7 @@ The sources also describe the Simsang Festival, first started in 2006 in William
 
 ## Dance & theatre
 
-The sources document communal dancing during Wangala festivals. At Asanang, Garo girls called *nomil* dance in a circle to the sound of the *dama* and folk songs, while boys called *pante* perform with drums and bamboo flutes. The Dhaka Wangala includes public celebration, traditional dress, and drum performances. No Garo theatre, mask tradition, shadow-puppet tradition, or named dramatic genre is described in the sources.
+The sources document communal dancing during Wangala festivals. At Asanang, Garo girls called *nomil* dance in a circle to the sound of the *dama* and folk songs, while boys called *pante* perform with drums and bamboo flutes. The Dhaka Wangala includes public celebration, traditional dress, and drum performances.
 
 ## Festivals & rituals
 

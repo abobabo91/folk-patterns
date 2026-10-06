@@ -1,0 +1,28 @@
+---
+title: "Holikachuk"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Holikachuk, also known as Innoko, Organized Village of Grayling, Innoka-khotana, and Tlëgon-khotana, are a Yupikized Alaska Native Athabaskan people belonging to the Athabaskan-speaking ethnolinguistic group. Their native territory includes the area surrounding the middle and upper Innoko River in western Alaska. In 1963, they moved to Grayling on the Yukon River. They call themselves *Doogh Hit’an*. Their neighboring peoples are the Yup'ik and Koyukon to the north, the Koyukon to the east, the Upper Kuskokwim people to the south, and the Deg Hit'an to the west. Holikachuk culture is related to Deg Hit'an culture, but the people have received little anthropological documentation and were sometimes grouped with the Koyukon.
+
+## Foodways
+
+The language sources record *nathdlod* as “Indian ice cream,”. They also record *łoogg* “fish,” *giggootth* “scales,” and *q’oon’* “fish eggs.” The expression *łoogg dood mininh iligh* means “November,” literally “month when the eels come [swim].”
+
+## Oral tradition & literature
+
+James Kari compiled a short dictionary of Holikachuk in 1978, but the language remains one of the least documented Alaska Native languages.
+
+## Language & religion
+
+Holikachuk, whose own name is *Doogh Qinag*, was an Athabaskan language formerly spoken at the village of Holikachuk, also called *Hiyeghelinhdi*, on the Innoko River in central Alaska. Residents relocated to Grayling on the lower Yukon River in 1962. The language is intermediate between Deg Xinag and Koyukon, linguistically closer to Koyukon but socially much closer to Deg Xinag, which influenced it. Although scholars recognized it as distinct as early as the 1840s, it was definitively identified in the 1970s. Of about 180 Holikachuk people, only about 5 spoke the language in 2007, and in March 2012 the last living fluent speaker died in Alaska.
+
+## Sources & further reading
+
+- Snow, Jeanne H. “Ingalik.” In *Subarctic*, pp. 602–617. *Handbook of North American Indians*, vol. 6, edited by W. C. Sturtevant. Smithsonian Institution, 1981.
+- Holikachuk, Wikipedia: https://en.wikipedia.org/wiki/Holikachuk
+- Holikachuk language, Wikipedia: https://en.wikipedia.org/wiki/Holikachuk_language

@@ -31,7 +31,7 @@ The sources document dance in connection with Afa devotion and funerals. Afa mem
 
 ## Festivals & rituals
 
- They do describe religious initiation, funerals, and lineage ceremonies.
+They do describe religious initiation, funerals, and lineage ceremonies.
 
 Yewe is the god of thunder and lightning. After initiation under Yewe, a person receives a Yewe name at a graduation ceremony. The person’s old name becomes taboo, and someone who uses it can be brought before a council of priests and sentenced to pay a large fine. Afa members do not receive new names and keep their birth names.
 

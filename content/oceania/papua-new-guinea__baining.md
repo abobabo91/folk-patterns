@@ -13,15 +13,15 @@ The Baining are an ethnic group indigenous to the Gazelle Peninsula of East New 
 
 ### Clothing & dress
 
- For the fire dance, male dancers wear large masks made from bark cloth, bamboo, and leaves. These masks are used once for the ceremony before being discarded or destroyed. In Kairak areas, the masks are known as *kavat* and *vungvung*. The *vungvung* is the larger type and features an axial bamboo pole up to 13 feet (4.0 m) in length.
+For the fire dance, male dancers wear large masks made from bark cloth, bamboo, and leaves. These masks are used once for the ceremony before being discarded or destroyed. In Kairak areas, the masks are known as *kavat* and *vungvung*. The *vungvung* is the larger type and features an axial bamboo pole up to 13 feet (4.0 m) in length.
 
 ### Architecture
 
- They state that garden plots are often separated from villages and supplied with shelters where people can temporarily stay. Colonial administrators forced the Baining into settled villages, changing their earlier semi-nomadic lifestyle.
+They state that garden plots are often separated from villages and supplied with shelters where people can temporarily stay. Colonial administrators forced the Baining into settled villages, changing their earlier semi-nomadic lifestyle.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention bamboo as a material in fire-dance masks and percussion instruments as part of the accompanying male orchestra.
+They mention bamboo as a material in fire-dance masks and percussion instruments as part of the accompanying male orchestra.
 
 ## Music & performance
 
@@ -51,7 +51,7 @@ Garden plots are often separated from villages and contain shelters for temporar
 
 ## Oral tradition & literature
 
- They describe a history of localistic millenarian cults, particularly Pomio Kivung, and mention several local secessionist movements connected with it. The sources also state that the fire dance involves anthropomorphised animal spirits called *masalai*, but provide no narrative corpus or literary account associated with them.
+They describe a history of localistic millenarian cults, particularly Pomio Kivung, and mention several local secessionist movements connected with it. The sources also state that the fire dance involves anthropomorphised animal spirits called *masalai*, but provide no narrative corpus or literary account associated with them.
 
 Anthropological studies have described Baining cultural life, while earlier studies by Gregory Bateson and Jeremy Pool were characterized as “failed ethnographic projects” because the researchers did not communicate effectively with the people they studied. Jane Fajans’s study notes that existing anthropological theoretical frameworks are poor tools for analysing Baining culture.
 

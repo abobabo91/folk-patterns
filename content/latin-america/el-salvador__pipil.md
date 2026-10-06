@@ -21,7 +21,7 @@ The Pipil, also called Náhuat, are an indigenous Mesoamerican group inhabiting 
 
 ### Clothing & dress
 
-The sources state that many indigenous Salvadorans stopped wearing traditional indigenous clothing after the 1932 massacre because of fear of government repression. They also state that there is a renewed willingness among indigenous Salvadoran communities to wear traditional indigenous clothing without fear of repression. No garment names, distinctions between men's and women's dress, head coverings, belts, footwear or ceremonial clothing are described in the sources used.
+The sources state that many indigenous Salvadorans stopped wearing traditional indigenous clothing after the 1932 massacre because of fear of government repression. They also state that there is a renewed willingness among indigenous Salvadoran communities to wear traditional indigenous clothing without fear of repression.
 
 ### Architecture
 
@@ -33,7 +33,7 @@ Pipil pottery and obsidian artifacts were found at Ciudad Vieja, together with m
 
 ## Music & performance
 
- They do state that a video documentation project has focused on aspects of Pipil culture including natural medicines, traditions, traditional games, agricultural practices and childhood songs.
+They do state that a video documentation project has focused on aspects of Pipil culture including natural medicines, traditions, traditional games, agricultural practices and childhood songs.
 
 ## Festivals & rituals
 
@@ -47,7 +47,7 @@ The sources state that indigenous Salvadoran communities have shown renewed inte
 
 Pipil cultivation of cacao was centered in the Izalco area and depended on a vast and sophisticated irrigation system. Cacao production was especially lucrative, and Pipil trade reached as far north as Teotihuacan and south to Costa Rica. Near the coast, cotton and indigo were also produced. During Spanish colonization, indigenous populations were incorporated into an economic system in which the Spaniards collected and sold locally produced crops, especially cacao. Pipil populations under Spanish rule were forced to stop cultivating native crops and to farm cacao, while a tax was imposed on cacao collected from family heads.
 
-The sources describe traditional Pipil cuisine as using distinctive flavor combinations and natural ingredients including corn, green tomatoes and chilis. They specifically name pupusas and atol de elote as foods associated with traditional Pipil cuisine. No further cooking methods, ceremonial foods, beverages, dietary rules or meal customs are documented in the sources used.
+The sources describe traditional Pipil cuisine as using distinctive flavor combinations and natural ingredients including corn, green tomatoes and chilis. They specifically name pupusas and atol de elote as foods associated with traditional Pipil cuisine.
 
 ## Oral tradition & literature
 

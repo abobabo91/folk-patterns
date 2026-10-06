@@ -13,7 +13,7 @@ The Tausug, also spelled Tausog and natively called *Tau Sūg*, are an Austrones
 
 ### Clothing & dress
 
- The sources do mention *budjak* spears, *barung* and *kalis* in accounts of armed attacks.
+The sources do mention *budjak* spears, *barung* and *kalis* in accounts of armed attacks.
 
 ### Architecture
 
@@ -25,23 +25,23 @@ The museum catalogue records supplied for this atlas contain no objects. The wri
 
 ### Jewelry & body adornment
 
- The sources mention two sacred pearls connected with an account of Brunei and Sulu.
+The sources mention two sacred pearls connected with an account of Brunei and Sulu.
 
 ## Music & performance
 
- They do mention that Professor Nur Misuari’s MNLF performed *Ramayana* during a ceasefire agreement in General Santos City. The sources therefore do not support a fuller account of Tausug music.
+They do mention that Professor Nur Misuari’s MNLF performed *Ramayana* during a ceasefire agreement in General Santos City. The sources therefore do not support a fuller account of Tausug music.
 
 ## Dance & theatre
 
- They mention *Ramayana* as a performance undertaken by Professor Nur Misuari’s MNLF in General Santos City during a ceasefire agreement, but provide no information about choreography, staging, performers, ritual function, or whether the performance was specifically Tausug. No shadow-puppet, mask-dance, court-dance, or other theatrical tradition is documented.
+No shadow-puppet, mask-dance, court-dance, or other theatrical tradition is documented.
 
 ## Festivals & rituals
 
- They state that the Tausug were Islamized in the 14th century and that Islam has been a defining aspect of native Sulu culture. The sources describe Sunni Islam, the Shafi‘i section of Islam, Ash‘ari belief, Sufism, and the continued practice of some pre-Islamic customs within *adat*. They mention *pagkaja* and other *palipalihan* as forms of folk-Islam, and state that some such practices were allowed by Ulama. The sources also describe religious preparation for *magsasabil* and *parang sabil*, associated with beliefs that participants would receive divine protection and that Allah would determine their fate.
+They state that the Tausug were Islamized in the 14th century and that Islam has been a defining aspect of native Sulu culture. The sources describe Sunni Islam, the Shafi‘i section of Islam, Ash‘ari belief, Sufism, and the continued practice of some pre-Islamic customs within *adat*. They mention *pagkaja* and other *palipalihan* as forms of folk-Islam, and state that some such practices were allowed by Ulama. The sources also describe religious preparation for *magsasabil* and *parang sabil*, associated with beliefs that participants would receive divine protection and that Allah would determine their fate.
 
 ## Foodways
 
- They state that Tausug religious life is predominantly Sunni Muslim and that Islam is central to Sulu culture, but they do not explicitly connect this information to food preparation or eating practices.
+They state that Tausug religious life is predominantly Sunni Muslim and that Islam is central to Sulu culture, but they do not explicitly connect this information to food preparation or eating practices.
 
 ## Oral tradition & literature
 

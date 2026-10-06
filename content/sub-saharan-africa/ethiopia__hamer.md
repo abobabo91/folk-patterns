@@ -13,15 +13,15 @@ The Hamar, also spelled Hamer, are a rural agropastoral community living in the 
 
 ### Architecture
 
- They state that smaller livestock herds remain near the village, while older boys and men may care for cattle in faraway camps, and that development projects introduced schools, roads, and markets during the Derg regime.
+They state that smaller livestock herds remain near the village, while older boys and men may care for cattle in faraway camps, and that development projects introduced schools, roads, and markets during the Derg regime.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention cattle, goats, sheep, camels, farming, beekeeping, and hunting and gathering as parts of the economy.
+They mention cattle, goats, sheep, camels, farming, beekeeping, and hunting and gathering as parts of the economy.
 
 ### Jewelry & body adornment
 
- They do state that women’s scars from whipping during the bull-jumping ceremony are worn with pride and symbolize a woman’s devotion to men.
+They do state that women’s scars from whipping during the bull-jumping ceremony are worn with pride and symbolize a woman’s devotion to men.
 
 ## Music & performance
 
@@ -37,7 +37,7 @@ The bull-jumping ceremony is a rite of passage from boyhood to manhood rather th
 
 ## Festivals & rituals
 
- They do document several important Hamar rituals and cultural events.
+They do document several important Hamar rituals and cultural events.
 
 The **bull-jumping ceremony** marks a man’s transition from boyhood to manhood. Completion permits him to own cattle and marry. The ceremony is connected with the social position of *maza*, unmarried men who have completed the rite and who whip women. Women may compete over who will be whipped first, and scars from the whipping are described as signs of devotion to men. Human rights advocates and local advocacy groups contest the practice as harmful.
 

@@ -11,7 +11,7 @@ The Tsez, also known as the Dido or Didoi, are a North Caucasian ethnic group ce
 
 ## Festivals & rituals
 
- They state that Islam gradually became established among the Tsez, with Islamization intensifying from the 15th century and Islam becoming dominant by the 17th–18th centuries. Elements of earlier religious practices survived alongside Islamic beliefs, and the Tsez adhere to Sunni Islam.
+They state that Islam gradually became established among the Tsez, with Islamization intensifying from the 15th century and Islam becoming dominant by the 17th–18th centuries. Elements of earlier religious practices survived alongside Islamic beliefs, and the Tsez adhere to Sunni Islam.
 
 ## Foodways
 

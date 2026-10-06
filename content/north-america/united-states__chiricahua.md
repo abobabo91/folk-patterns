@@ -17,19 +17,19 @@ The sources identify one Chiricahua name associated with clothing: *Tã'aa'ji k'
 
 ### Architecture
 
- They mention hidden camps built by Chiricahua groups in the Sierra Madre mountains, but provide no architectural description.
+They mention hidden camps built by Chiricahua groups in the Sierra Madre mountains, but provide no architectural description.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention pinole, a ground corn flour, and hoddentin, ceremonially prepared cattail pollen.
+They mention pinole, a ground corn flour, and hoddentin, ceremonially prepared cattail pollen.
 
 ### Jewelry & body adornment
 
- They refer to red ceremonial paint and breech cloths in names and descriptions.
+They refer to red ceremonial paint and breech cloths in names and descriptions.
 
 ## Music & performance
 
- They do document ceremonial performance in connection with religion. Hoddentin, ceremonially prepared cattail pollen, was used in many Chiricahuan rituals. John Gregory Bourke recorded that the Chiricahua offered hoddentin to the sun, threw it after snakes, and used it in medicine dances and around dying people.
+They do document ceremonial performance in connection with religion. Hoddentin, ceremonially prepared cattail pollen, was used in many Chiricahuan rituals. John Gregory Bourke recorded that the Chiricahua offered hoddentin to the sun, threw it after snakes, and used it in medicine dances and around dying people.
 
 The sources also describe traditional dances and other ceremonies performed by Chiricahuas from Mexico at the Fiesta de los Remedios in Comonfort, Guanajuato. No instruments, musical forms, song texts, performance ensembles, or distinctions between secular and ceremonial music are described. The language documentation associated with Mescalero-Chiricahua includes traditional religious and secular stories.
 

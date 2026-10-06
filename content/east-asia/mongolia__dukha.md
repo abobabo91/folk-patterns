@@ -21,15 +21,15 @@ The Dukha live in *ortz*, yurts that resemble Native-American tepees. A large yu
 
 ### Ceramics, metalwork & everyday objects
 
- Reindeer provide materials for several everyday objects: bags, traveling mats, shoes, winter coats, tools, souvenirs, saddles, and carts. Men make and repair hunting tools and reindeer saddles and carts. Reindeer antlers have been sold for decades for traditional Chinese medicine and are also carved into tools and used as souvenir material. The antlers are harvested annually in early summer, although this practice has begun to decline because of ethical concerns.
+Reindeer provide materials for several everyday objects: bags, traveling mats, shoes, winter coats, tools, souvenirs, saddles, and carts. Men make and repair hunting tools and reindeer saddles and carts. Reindeer antlers have been sold for decades for traditional Chinese medicine and are also carved into tools and used as souvenir material. The antlers are harvested annually in early summer, although this practice has begun to decline because of ethical concerns.
 
 ## Music & performance
 
- They do describe shamanistic practices and ceremonies. Dukha shaman worship includes reverence for a shaman called *Boo*, as well as the use of mystical holy books and treatises in daily life. These texts include materials concerned with hunting and with calling or banishing the rain. Shaman ceremonies are held for welcoming the new moon, and specific practices are associated with retrieving river water.
+They do describe shamanistic practices and ceremonies. Dukha shaman worship includes reverence for a shaman called *Boo*, as well as the use of mystical holy books and treatises in daily life. These texts include materials concerned with hunting and with calling or banishing the rain. Shaman ceremonies are held for welcoming the new moon, and specific practices are associated with retrieving river water.
 
 ## Festivals & rituals
 
- They describe shaman ceremonies welcoming the new moon and practices connected with retrieving river water. Dukha religious traditions center on the sacredness of reindeer. This belief generally prevents the slaughter and eating of reindeer, which are treated with respect and, in many ways, as members of the household.
+They describe shaman ceremonies welcoming the new moon and practices connected with retrieving river water. Dukha religious traditions center on the sacredness of reindeer. This belief generally prevents the slaughter and eating of reindeer, which are treated with respect and, in many ways, as members of the household.
 
 The Dukha believe in Shamanism, tengrism, and animism. Nature—including the earth and sky—and ancestors are revered as powerful forces governing human lives. During Communist rule in Mongolia from 1924–1992, these traditions were suppressed: shamans were arrested and ancestral tombs were smashed. After the end of Communist rule, the Dukha were again allowed to practice their traditional faith freely.
 
@@ -37,11 +37,11 @@ The Dukha believe in Shamanism, tengrism, and animism. Nature—including the ea
 
 Reindeer milk, reindeer yoghurt, reindeer cheese, and milk tea are staples of the Dukha diet. The Dukha primarily raise reindeer for milk, and girls and younger women milk the animals and make yoghurt, cheese, and milk tea. Because reindeer are rarely killed, the Dukha supplement these products by hunting wild animals in the forest. The sources name elk, moose, bear, sable, and boar as hunted animals eaten for protein.
 
- Reindeer also support mobility and subsistence: they transport people during daily grazing, hunting, firewood collection, seasonal migrations, visits, shopping, and trade.
+Reindeer also support mobility and subsistence: they transport people during daily grazing, hunting, firewood collection, seasonal migrations, visits, shopping, and trade.
 
 ## Oral tradition & literature
 
- They state that the Dukha use mystical holy books and different treatises in daily life, including texts for hunting and for calling or banishing the rain.
+They state that the Dukha use mystical holy books and different treatises in daily life, including texts for hunting and for calling or banishing the rain.
 
 Several organizations are described as supporting Dukha cultural continuity. The Totem Peoples Preservation Project and the Mongolian Reindeer Fund work to train herders and help preserve the health of their reindeer.
 

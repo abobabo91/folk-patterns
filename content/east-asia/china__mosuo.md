@@ -25,11 +25,11 @@ Mosuo homes consist of four rectangular structures arranged in a square around a
 
 ### Ceramics, metalwork & everyday objects
 
- When an *Ah mi* passes her duties to a female successor, she gives her the keys to the household storage, signifying the transfer of property rights and responsibility.
+When an *Ah mi* passes her duties to a female successor, she gives her the keys to the household storage, signifying the transfer of property rights and responsibility.
 
 ## Music & performance
 
- They do describe praise songs in connection with Mosuo religion: the vast majority of praise songs involve maternal love, reflecting the importance of the guardian mother goddess and the feminine description of mountains, lakes, and the surrounding environment.
+They do describe praise songs in connection with Mosuo religion: the vast majority of praise songs involve maternal love, reflecting the importance of the guardian mother goddess and the feminine description of mountains, lakes, and the surrounding environment.
 
 Religious performance is central to Daba practice. *Daba* priests conduct rites and ceremonies, perform exorcisms, bless families, assist the spirits of the dead, and preserve oral traditions. They may enter a trance and converse with spirits. Daba priests are called upon during naming ceremonies, coming-of-age ceremonies, funerals, and special events such as the Spring Festival. Buddhist monks also perform religious services, including prayers of thanks, prayers for the dead, education, and counsel. During funerals, Buddhist monks preside over cremation while Daba priests direct the soul of the deceased to *Seba'anawa*, the afterworld of the Na.
 

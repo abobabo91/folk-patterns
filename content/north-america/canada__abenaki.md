@@ -19,17 +19,17 @@ Most Abenaki made dome-shaped, bark-covered *wigwams*. A few preferred oval-shap
 
 ### Ceramics, metalwork & everyday objects
 
- They do document several everyday objects and materials. Abenaki people made baskets from ash and sweet grass for gathering wild berries, and basket weaving remains a traditional activity practiced by some tribal members. *Hierochloe odorata* (sweetgrass), *Apocynum* (dogbane), *Betula papyrifera* (paper birch), *Fraxinus americana* (white ash), *Fraxinus nigra* (black ash), *Laportea canadensis* (Canada nettle), willow, and *Tilia americana* (basswood, or American linden) were used for baskets, canoes, snowshoes, whistles, and containers. Paper birch was also used for moose calls and other utilitarian pieces.
+They do document several everyday objects and materials. Abenaki people made baskets from ash and sweet grass for gathering wild berries, and basket weaving remains a traditional activity practiced by some tribal members. *Hierochloe odorata* (sweetgrass), *Apocynum* (dogbane), *Betula papyrifera* (paper birch), *Fraxinus americana* (white ash), *Fraxinus nigra* (black ash), *Laportea canadensis* (Canada nettle), willow, and *Tilia americana* (basswood, or American linden) were used for baskets, canoes, snowshoes, whistles, and containers. Paper birch was also used for moose calls and other utilitarian pieces.
 
 ## Music & performance
 
- They do mention whistles made from plant materials, including sweetgrass, dogbane, paper birch, white ash, black ash, Canada nettle, willow, and basswood.
+They do mention whistles made from plant materials, including sweetgrass, dogbane, paper birch, white ash, black ash, Canada nettle, willow, and basswood.
 
 Storytelling is described as a major part of Abenaki culture. It served both as entertainment and as a method of teaching. Abenaki people viewed stories as having lives of their own and as being aware of how they were used. Stories taught children appropriate behavior; rather than punishing a child, adults could tell a story. The story of Azban the Raccoon concerns a proud raccoon who challenges a waterfall to a shouting contest. When the waterfall does not respond, Azban dives into it and is swept away because of his pride.
 
 ## Festivals & rituals
 
- They do describe seasonal patterns of community life. During spring and summer, bands gathered at villages near rivers or along the seacoast for planting and fishing. During winter, people lived in smaller inland groups.
+They do describe seasonal patterns of community life. During spring and summer, bands gathered at villages near rivers or along the seacoast for planting and fishing. During winter, people lived in smaller inland groups.
 
 Abenaki subsistence and seasonal practices included hunting, fishing, trapping, berry picking, and growing corn, beans, squash, potatoes, and tobacco. The three crops known as the “sisters” were grown together: corn supported beans, while squash or pumpkins provided ground cover and reduced weeds.
 

@@ -11,11 +11,11 @@ The Cubeo are an ethnic group of the Vaupés Department in Colombia, near the ce
 
 ## Festivals & rituals
 
- The sources state that an individual’s social identification is based on adscription to a mythical clan forebear whose name is used as an eponym, but they provide no further description of associated rituals.
+The sources state that an individual’s social identification is based on adscription to a mythical clan forebear whose name is used as an eponym, but they provide no further description of associated rituals.
 
 ## Oral tradition & literature
 
- The sources state that an individual’s social identification is based on adscription to a mythical clan forebear whose name is used as an eponym.
+The sources state that an individual’s social identification is based on adscription to a mythical clan forebear whose name is used as an eponym.
 
 ## Language & religion
 

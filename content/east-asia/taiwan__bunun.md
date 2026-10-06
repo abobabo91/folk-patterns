@@ -33,7 +33,7 @@ Women wear long black or blue dresses with extended sleeves and embroidery at th
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe hunting equipment and agricultural practices, including rifles, bows, wooden frames used during the Malahtangia festival, and slash-and-burn agriculture.
+They do describe hunting equipment and agricultural practices, including rifles, bows, wooden frames used during the Malahtangia festival, and slash-and-burn agriculture.
 
 ### Jewelry & body adornment
 

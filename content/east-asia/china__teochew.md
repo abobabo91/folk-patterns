@@ -15,11 +15,9 @@ The Teochew, also called Teo-Swa or Chaoshanese, are a Han Chinese sub-ethnic gr
 
 **Chaoshan embroidery** — Chaoshan embroidery is called “three-dimensional painting on silk.” A piece can take months of work.
 
-No other documented textile or pattern-bearing traditions are described in the sources used.
-
 ### Clothing & dress
 
- They describe dress expectations connected with *jiat dot* banquets: guests were expected to be neatly dressed, with clean hats and footwear. In earlier times, men were expected to wear long gowns and felt hats, while women carefully combed their hair, applied light makeup, and wore *ruyi hairpins*.
+They describe dress expectations connected with *jiat dot* banquets: guests were expected to be neatly dressed, with clean hats and footwear. In earlier times, men were expected to wear long gowns and felt hats, while women carefully combed their hair, applied light makeup, and wore *ruyi hairpins*.
 
 ### Architecture
 
@@ -59,7 +57,7 @@ The *jiat dot* feast may include shark fin soup, bird’s nest soup, lobster, st
 
 ## Oral tradition & literature
 
- They mention Teochew oral traditions in Singapore, including accounts published by Phua Chye Long in *Teo-chews in Malaya* in 1950. The sources also identify local folk dances and ballads as a basis for Teochew opera. No contemporary literary revival or preservation project is described.
+They mention Teochew oral traditions in Singapore, including accounts published by Phua Chye Long in *Teo-chews in Malaya* in 1950. The sources also identify local folk dances and ballads as a basis for Teochew opera. No contemporary literary revival or preservation project is described.
 
 ## Language & religion
 

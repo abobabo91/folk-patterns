@@ -17,11 +17,11 @@ The Lules were generally hunter-gatherers and lived a nomadic lifestyle. The sou
 
 ## Music & performance
 
- The linguistic record does include *Arte y vocabulario de la lengua lule y tonocoté*, written by Antonio Maccioni, also identified as Machoni, in 1732. This work recorded the Lule-Tonocote language at the mission San Esteban de Miraflores.
+The linguistic record does include *Arte y vocabulario de la lengua lule y tonocoté*, written by Antonio Maccioni, also identified as Machoni, in 1732. This work recorded the Lule-Tonocote language at the mission San Esteban de Miraflores.
 
 ## Festivals & rituals
 
- They do record several events connected with colonial missions and religious conversion. Jesuits founded a mission near San Isidro de Lules in Tucumán Province in 1670, and it remained active until the Jesuits were expelled in 1768. Following a punitive campaign led by Esteban de Urízar in 1708, Jesuits from Salta established San Juan Bautista de Balbuena next to Fort Balbuena. The mission housed 400 Lules, primarily from the Esistiné and Tokistiné groups. On August 7, 1715, Father Antonio Machoni moved it to Fort Miraflores, establishing San Esteban de Miraflores on the banks of the Salado River. In 1728, natives destroyed the mission in a rebellion; the Lules left and dispersed throughout the land. The mission was restored in 1752 in a different location, 170 kilometres southeast of the city of Salta, and was permanently abandoned around the turn of the nineteenth century.
+They do record several events connected with colonial missions and religious conversion. Jesuits founded a mission near San Isidro de Lules in Tucumán Province in 1670, and it remained active until the Jesuits were expelled in 1768. Following a punitive campaign led by Esteban de Urízar in 1708, Jesuits from Salta established San Juan Bautista de Balbuena next to Fort Balbuena. The mission housed 400 Lules, primarily from the Esistiné and Tokistiné groups. On August 7, 1715, Father Antonio Machoni moved it to Fort Miraflores, establishing San Esteban de Miraflores on the banks of the Salado River. In 1728, natives destroyed the mission in a rebellion; the Lules left and dispersed throughout the land. The mission was restored in 1752 in a different location, 170 kilometres southeast of the city of Salta, and was permanently abandoned around the turn of the nineteenth century.
 
 ## Foodways
 
@@ -29,7 +29,7 @@ Lule subsistence combined hunting and gathering with the cultivation of a wide v
 
 ## Oral tradition & literature
 
- They do document an important linguistic work: in 1732 Antonio Maccioni, also known as Machoni, wrote *Arte y vocabulario de la lengua lule y tonocoté*. This work is described as the primary data on the Lule-Tonocote language. In 1586 Father Alonson Bárzana, also given as Bárcena, wrote a grammar of Tonocote, but that grammar is now lost.
+They do document an important linguistic work: in 1732 Antonio Maccioni, also known as Machoni, wrote *Arte y vocabulario de la lengua lule y tonocoté*. This work is described as the primary data on the Lule-Tonocote language. In 1586 Father Alonson Bárzana, also given as Bárcena, wrote a grammar of Tonocote, but that grammar is now lost.
 
 ## Language & religion
 

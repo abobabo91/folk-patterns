@@ -9,13 +9,9 @@ tags: [ethnography, sub-saharan-africa]
 
 The Soga, also called Basoga, are a Bantu ethnic group native to the kingdom of Busoga in eastern Uganda. They live in Bugiri, Iganga, Jinja, Kamuli, and Mayuge, as well as later districts including Luuka, Kaliro, Namayingo, Bugweri, Namutunba, and Buyende. Busoga lies immediately north of the equator and is bounded by Lake Kyoga, the Victoria Nile, the Mpologoma River, and Lake Victoria. The region covers 8,920 square kilometres, with a length of about 160 km and a width of a little over 80 km. Soga, or Lusoga, is a Bantu language spoken in the Busoga region. The sources describe Lusoga language, literature, dialects, greetings, vocabulary, and cultural terminology.
 
-## Music & performance
-
- The Soga language source does mention literature in Lusoga, including story books, but gives no account of musical performance.
-
 ## Festivals & rituals
 
- The language source records *kisoga* as describing religious tradition or culture common to the Soga people.
+The language source records *kisoga* as describing religious tradition or culture common to the Soga people.
 
 ## Foodways
 

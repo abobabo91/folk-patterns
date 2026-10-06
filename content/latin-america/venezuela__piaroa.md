@@ -17,11 +17,11 @@ The sources mention that some Piaroa make baskets and string beads.
 
 ### Clothing & dress
 
- They state only that some Piaroa string beads and that the people identify themselves through their cultural identity, language, heritage, and spirituality.
+They state only that some Piaroa string beads and that the people identify themselves through their cultural identity, language, heritage, and spirituality.
 
 ### Architecture
 
- They do mention small, self-governed villages, community centers, cemeteries, and conucos, which are described as familiar garden patches.
+They do mention small, self-governed villages, community centers, cemeteries, and conucos, which are described as familiar garden patches.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -29,11 +29,11 @@ Pottery is documented in connection with clay from the Guanay valley. The source
 
 ### Jewelry & body adornment
 
- They state that some Piaroa string beads, but give no further information about their materials, forms, or functions.
+They state that some Piaroa string beads, but give no further information about their materials, forms, or functions.
 
 ## Music & performance
 
- They describe traditional Piaroa religion as involving shamanism and identify Wahari as a creator god who was said to have incarnated as a tapir. The sources also discuss ayahuasca, called yagé, and yopo tourism among De'aruhua communities.
+They describe traditional Piaroa religion as involving shamanism and identify Wahari as a creator god who was said to have incarnated as a tapir. The sources also discuss ayahuasca, called yagé, and yopo tourism among De'aruhua communities.
 
 The sources mention that the Piaroa preserve culture, customs, heritage, and spirituality with the earth in some of the most self-isolated and independent villages on the Upper Cuao, Upper Catañiapo, and Upper Parguaza rivers.
 
@@ -53,7 +53,7 @@ Some Piaroa also raise cattle.
 
 ## Oral tradition & literature
 
- They do identify Piaroa mythology through the traditional religious account of Wahari, a creator god who was said to have incarnated as a tapir.
+They do identify Piaroa mythology through the traditional religious account of Wahari, a creator god who was said to have incarnated as a tapir.
 
 The sources describe efforts to preserve Piaroa culture, identity, language, and heritage. The Huottüja developed their own alphabet based on the accepted Latin Language codes ISO 639-3 PID guidelines of the Summer Institute of Linguistics. They also developed an elementary dictionary and grade school curriculum readers. Christian Piaroa are described as supporting initiatives, projects, and programs that promote original culture, identity, and language, including shamanism and mythology.
 

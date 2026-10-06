@@ -13,7 +13,7 @@ The Botocudo are several South American peoples of eastern Brazil, also called A
 
 ### Clothing & dress
 
- They do record body ornaments: wooden disks or plugs were worn in the lower lip and the lobe of the ear. The tembeitera was made from the especially light and carefully dried wood of the barriguda tree, which the Botocudo called embur. It was worn only in the under-lip, chiefly by women in the period described, although men formerly wore it as well.
+They do record body ornaments: wooden disks or plugs were worn in the lower lip and the lobe of the ear. The tembeitera was made from the especially light and carefully dried wood of the barriguda tree, which the Botocudo called embur. It was worn only in the under-lip, chiefly by women in the period described, although men formerly wore it as well.
 
 ### Architecture
 
@@ -33,15 +33,11 @@ The Botocudo’s only musical instrument described in the sources is a small bam
 
 ## Festivals & rituals
 
- They record several practices associated with death and dangerous natural events. At graves, the Botocudo kept fires burning for some days to scare away evil spirits. During storms and eclipses, arrows were shot into the sky to drive away demons. They attributed the blessings of life to the Day Fire, identified with the Sun, and evil to the Night Fire, identified with the Moon.
-
-## Foodways
-
- They state that poisoned food was scattered in the forests during the earlier frontier wars of 1790–1820, but provide no account of Botocudo foodways.
+They record several practices associated with death and dangerous natural events. At graves, the Botocudo kept fires burning for some days to scare away evil spirits. During storms and eclipses, arrows were shot into the sky to drive away demons. They attributed the blessings of life to the Day Fire, identified with the Sun, and evil to the Night Fire, identified with the Moon.
 
 ## Oral tradition & literature
 
- The Botocudo language article records lexical loans from one of the Língua Geral varieties, including *tuŋ*, “flea,” and *krai*, “non-Indigenous person, foreigner.”
+The Botocudo language article records lexical loans from one of the Língua Geral varieties, including *tuŋ*, “flea,” and *krai*, “non-Indigenous person, foreigner.”
 
 ## Language & religion
 

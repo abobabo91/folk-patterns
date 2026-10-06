@@ -13,27 +13,27 @@ The Musgum, or Mulwi, are a Chadic ethnic group in Cameroon and Chad. In Cameroo
 
 ### Architecture
 
- They mention that Waza, a national park in Cameroon, was founded on Musgum territory, and that *Waza* derives from a Musgum word meaning “my house, or my homeland,”.
+They mention that Waza, a national park in Cameroon, was founded on Musgum territory, and that *Waza* derives from a Musgum word meaning “my house, or my homeland,”.
 
 ## Music & performance
 
- They identify *Laba*, or Labana, as a traditional rite for fighting and state that Musgum people are known as its initiators.
+They identify *Laba*, or Labana, as a traditional rite for fighting and state that Musgum people are known as its initiators.
 
 ## Dance & theatre
 
- They mention *Laba*, or Labana, as a traditional rite for fighting, but provide no further description of its performance.
+They mention *Laba*, or Labana, as a traditional rite for fighting, but provide no further description of its performance.
 
 ## Festivals & rituals
 
- They document *Laba*, or Labana, as a traditional rite for fighting. Most Musgums profess Islam, while traditional beliefs and practices remain influential.
+They document *Laba*, or Labana, as a traditional rite for fighting. Most Musgums profess Islam, while traditional beliefs and practices remain influential.
 
 ## Foodways
 
- They state that fishing is an important activity during the dry and rainy season, when the Logone River floods. They also report that many Musgums engage in agriculture, with ground nuts and cotton among the staple crops; cotton is sold for commercial use.
+They state that fishing is an important activity during the dry and rainy season, when the Logone River floods. They also report that many Musgums engage in agriculture, with ground nuts and cotton among the staple crops; cotton is sold for commercial use.
 
 ## Oral tradition & literature
 
- They record several Musgum-derived place-name explanations: *Waza* means “my house, or my homeland”; *Moulvoudaye* means “I buy people”; *Mindif* literally means “the mouth of man”; and *Bogo* comes from a Musgum word meaning “noise” and refers to the site of a battle.
+They record several Musgum-derived place-name explanations: *Waza* means “my house, or my homeland”; *Moulvoudaye* means “I buy people”; *Mindif* literally means “the mouth of man”; and *Bogo* comes from a Musgum word meaning “noise” and refers to the site of a battle.
 
 ## Language & religion
 

@@ -45,7 +45,7 @@ Women wore *ǃgamdi*, small traditional earrings made from iron or copper, and n
 
 ## Music & performance
 
- They do describe performances and dances in connection with particular forms of adornment. An anklet made from moth larvae, *ǀkhîs*, was worn during performances and dances, together with a tussled apron called a *ǀhapis* for females or *ǀhapib* for males. The sources also state that Damara men underwent an elaborate hunting ritual as an initiation into manhood. The ritual was repeated twice, first for teenagers and later for grown men, after which the initiates were considered clan elders.
+They do describe performances and dances in connection with particular forms of adornment. An anklet made from moth larvae, *ǀkhîs*, was worn during performances and dances, together with a tussled apron called a *ǀhapis* for females or *ǀhapib* for males. The sources also state that Damara men underwent an elaborate hunting ritual as an initiation into manhood. The ritual was repeated twice, first for teenagers and later for grown men, after which the initiates were considered clan elders.
 
 ## Dance & theatre
 
@@ -53,7 +53,7 @@ The sources mention performances and dances. They state only that *ǀkhîs* moth
 
 ## Festivals & rituals
 
- They describe several life-cycle and community rituals. Damara boys were initiated into manhood through an elaborate hunting ritual, performed first for teenagers and repeated for grown men; completion of the second ritual marked entry into the group of clan elders. Damara males were not circumcised. A girl was defined as a female who had not yet undergone menstruation, and she stayed in the house during her first menstrual cycle. A boy was defined as a male who had not yet undergone the first hunting ritual. Girls underwent *ǂgaeǂnoas*, after which they began wearing *ǃgamdi* earrings. Marriage was marked by the presentation of a *danakhōb* by the wife to her husband, who wore the hide on his head during ceremonies and auspicious occasions. The sources also describe beliefs concerning death: the deity ǁGamab directs human fate, and after death the souls of the dead travel to his village in heaven.
+They describe several life-cycle and community rituals. Damara boys were initiated into manhood through an elaborate hunting ritual, performed first for teenagers and repeated for grown men; completion of the second ritual marked entry into the group of clan elders. Damara males were not circumcised. A girl was defined as a female who had not yet undergone menstruation, and she stayed in the house during her first menstrual cycle. A boy was defined as a male who had not yet undergone the first hunting ritual. Girls underwent *ǂgaeǂnoas*, after which they began wearing *ǃgamdi* earrings. Marriage was marked by the presentation of a *danakhōb* by the wife to her husband, who wore the hide on his head during ceremonies and auspicious occasions. The sources also describe beliefs concerning death: the deity ǁGamab directs human fate, and after death the souls of the dead travel to his village in heaven.
 
 ## Foodways
 

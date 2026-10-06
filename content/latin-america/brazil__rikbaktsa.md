@@ -17,11 +17,11 @@ The sources mention traditional dress as a unifying element in the face of conta
 
 ### Architecture
 
- They mention domestic groups, villages, and a men's house where boys may learn ceremonies, myths, traditional medicine, and flute-playing.
+They mention domestic groups, villages, and a men's house where boys may learn ceremonies, myths, traditional medicine, and flute-playing.
 
 ### Ceramics, metalwork & everyday objects
 
- They state that boys learn to make and use their own bow and arrows by age eight or ten, and that the Rikbaktsa use wooden plugs to enlarge their earlobes.
+They state that boys learn to make and use their own bow and arrows by age eight or ten, and that the Rikbaktsa use wooden plugs to enlarge their earlobes.
 
 ### Jewelry & body adornment
 
@@ -35,7 +35,7 @@ The sources identify the January green maize ceremony and the May forest-clearin
 
 ## Dance & theatre
 
- They state that ceremonies can include the performance of mythical stories and recent fights.
+They state that ceremonies can include the performance of mythical stories and recent fights.
 
 ## Festivals & rituals
 

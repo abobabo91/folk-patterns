@@ -13,19 +13,19 @@ The Tsimihety are a Malagasy ethnic group living in the north-central and mounta
 
 ### Clothing & dress
 
- They do state that the Tsimihety name means “those who never cut their hair,” a practice associated with their independence from the Sakalava kingdom, where cutting hair during mourning was expected.
+They do state that the Tsimihety name means “those who never cut their hair,” a practice associated with their independence from the Sakalava kingdom, where cutting hair during mourning was expected.
 
 ### Architecture
 
- They state that Tsimihety communities have historically been located in mountainous parts of Madagascar and that Tsimihety villages could be abandoned when inhabitants moved to live with relatives elsewhere.
+They state that Tsimihety communities have historically been located in mountainous parts of Madagascar and that Tsimihety villages could be abandoned when inhabitants moved to live with relatives elsewhere.
 
 ### Jewelry & body adornment
 
- They identify the refusal to cut the hair as the practice underlying the group’s name.
+They identify the refusal to cut the hair as the practice underlying the group’s name.
 
 ## Festivals & rituals
 
- They state that the Tsimihety did not create symbols or rituals or tribal rules in the usual sense attributed to tribes, and that their relationships were centered on biological family and kin. The sources also describe an anarchist social system before the nineteenth century. Informal consensus was the basis of local decisions, anyone behaving like a leader was considered suspicious, and giving orders was regarded as wrong.
+They state that the Tsimihety did not create symbols or rituals or tribal rules in the usual sense attributed to tribes, and that their relationships were centered on biological family and kin. The sources also describe an anarchist social system before the nineteenth century. Informal consensus was the basis of local decisions, anyone behaving like a leader was considered suspicious, and giving orders was regarded as wrong.
 
 ## Foodways
 
@@ -33,7 +33,7 @@ Tsimihety society and economy are primarily focused on agriculture. Rice is the 
 
 ## Oral tradition & literature
 
- The sources state that Peter Wilson described Tsimihety people as lacking the symbols, rituals, and tribal rules normally associated with tribes, while their social relationships centered on family and kin.
+The sources state that Peter Wilson described Tsimihety people as lacking the symbols, rituals, and tribal rules normally associated with tribes, while their social relationships centered on family and kin.
 
 ## Language & religion
 

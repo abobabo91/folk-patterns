@@ -29,7 +29,7 @@ A main village building was the sweat lodge. It was built low into the ground, w
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe boats made from tule, propelled on the bays with double-bladed paddles. Nets and decoys were used to capture waterfowl. Stone and bone tools, shell beads, ornaments, and other everyday objects have been found in and around shellmounds.
+They do describe boats made from tule, propelled on the bays with double-bladed paddles. Nets and decoys were used to capture waterfowl. Stone and bone tools, shell beads, ornaments, and other everyday objects have been found in and around shellmounds.
 
 ### Jewelry & body adornment
 
@@ -39,7 +39,7 @@ Ornaments and other valuables were placed with the dead after cremation. Artifac
 
 ## Music & performance
 
- They do document singing, dancing, acting, and ceremonial performance within Kuksu religious practice. Kuksu included elaborate acting and dancing ceremonies in traditional costume, an annual mourning ceremony, puberty rites of passage, intervention with the spirit world, and an all-male society that met in subterranean dance rooms.
+They do document singing, dancing, acting, and ceremonial performance within Kuksu religious practice. Kuksu included elaborate acting and dancing ceremonies in traditional costume, an annual mourning ceremony, puberty rites of passage, intervention with the spirit world, and an all-male society that met in subterranean dance rooms.
 
 Some shamans engaged in ritualistic healing through dancing, ceremony, and singing. Kuksu was shared with other Indigenous peoples of Central California, including the Miwok, Esselen, Maidu, Pomo, and northernmost Yokuts, although researchers caution against treating the spiritual beliefs of all Ohlone groups as a single unified worldview.
 

@@ -31,15 +31,15 @@ The Chipewyan were historically organized into small bands and temporarily lived
 
 ### Ceramics, metalwork & everyday objects
 
- In the subarctic trade, Chipewyan people exchanged furs and hides for metal tools, guns and cloth. The sources also mention modern nets, tools and transportation in connection with fishing and caribou hunting, but provide no catalogue of forms, manufacturing techniques or decorative practices.
+In the subarctic trade, Chipewyan people exchanged furs and hides for metal tools, guns and cloth. The sources also mention modern nets, tools and transportation in connection with fishing and caribou hunting, but provide no catalogue of forms, manufacturing techniques or decorative practices.
 
 ## Music & performance
 
- The language sources describe Denesuline as a Northern Athabaskan language and record its consonants, vowels, diphthongs and two tones. No information is supplied about music at hunting camps, gatherings, weddings, funerals, ceremonies or other occasions.
+The language sources describe Denesuline as a Northern Athabaskan language and record its consonants, vowels, diphthongs and two tones. No information is supplied about music at hunting camps, gatherings, weddings, funerals, ceremonies or other occasions.
 
 ## Festivals & rituals
 
- They do describe seasonal movement between winter and summer camps and subsistence activities including hunting, trapping, fishing and gathering. Caribou hunting was historically important, and the Sayisi Dene were notable for hunting migratory caribou. In the 1970s, the “Duck Lake Dene” chose self-reliance and returned to caribou hunting after relocation. The government forcibly relocated them in 1956 to Churchill and a small village north of Churchill called North Knife River; their relocation is commemorated by the Dene Memorial in Churchill, Manitoba.
+They do describe seasonal movement between winter and summer camps and subsistence activities including hunting, trapping, fishing and gathering. Caribou hunting was historically important, and the Sayisi Dene were notable for hunting migratory caribou. In the 1970s, the “Duck Lake Dene” chose self-reliance and returned to caribou hunting after relocation. The government forcibly relocated them in 1956 to Churchill and a small village north of Churchill called North Knife River; their relocation is commemorated by the Dene Memorial in Churchill, Manitoba.
 
 ## Foodways
 
@@ -47,7 +47,7 @@ Caribou was historically a major source of food as well as clothing and tool mat
 
 ## Oral tradition & literature
 
- They do record the historical figure Thanadelthur, described as a young woman who early in the 18th century helped her people establish peace with the Cree and become involved in the fur trade. The sources also list Matonabbee, Matooskie, Thánadëltth'ér, Louis Riel, Jimmy Herman and Alex Janvier among notable Chipewyans or people with Chipewyan connections. The language sources mention a Chipewyan translation of the New Testament, *Didi gothi testementi*, published in London in 1881. No contemporary literary revival or preservation project is described beyond the listed language resources.
+They do record the historical figure Thanadelthur, described as a young woman who early in the 18th century helped her people establish peace with the Cree and become involved in the fur trade. The sources also list Matonabbee, Matooskie, Thánadëltth'ér, Louis Riel, Jimmy Herman and Alex Janvier among notable Chipewyans or people with Chipewyan connections. The language sources mention a Chipewyan translation of the New Testament, *Didi gothi testementi*, published in London in 1881. No contemporary literary revival or preservation project is described beyond the listed language resources.
 
 ## Language & religion
 

@@ -29,11 +29,11 @@ In precontact times, the Quileute built plank houses, also called longhouses, to
 
 ### Ceramics, metalwork & everyday objects
 
- They do document wooden tools and household objects, reflecting the use of local resources: utensils, weapons, paints, canoes, and other necessities were made from wood. Cedar canoes ranged from small boats holding two people to giant vessels up to 58 metres (190 ft) long and capable of carrying up to 6,000 pounds. Canoes were also made for whaling and could hold tons of cargo and many men.
+They do document wooden tools and household objects, reflecting the use of local resources: utensils, weapons, paints, canoes, and other necessities were made from wood. Cedar canoes ranged from small boats holding two people to giant vessels up to 58 metres (190 ft) long and capable of carrying up to 6,000 pounds. Canoes were also made for whaling and could hold tons of cargo and many men.
 
 ### Jewelry & body adornment
 
- They do mention sacred regalia among the cultural property destroyed at La Push in 1889.
+They do mention sacred regalia among the cultural property destroyed at La Push in 1889.
 
 ## Music & performance
 

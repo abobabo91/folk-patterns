@@ -29,11 +29,11 @@ Serer religious accounts also describe household shrines. In the courtyard of a 
 
 ### Ceramics, metalwork & everyday objects
 
- A *Gamba* is described as a large calabash with a small hollow-out, beaten after the death of an elder as part of funeral regalia. Calabashes also appear in ritual practice, including one containing branches of *Saas* soaked in water, in which Serer men formerly washed their hands after burying the dead.
+A *Gamba* is described as a large calabash with a small hollow-out, beaten after the death of an elder as part of funeral regalia. Calabashes also appear in ritual practice, including one containing branches of *Saas* soaked in water, in which Serer men formerly washed their hands after burying the dead.
 
 ### Jewelry & body adornment
 
- They do record ancestral adornment: a person may wear an ancestor’s hair or a treasured belonging as *juju*, either on the body or visibly around the neck. The sources also describe the use of small sticks of *Saas* worn around the waist by young boys and girls to preserve future fertility. At a child’s birth, a *Saas* branch may be placed above the enclosure where the child and mother remain in seclusion for eight days during the *Bat* ceremony.
+They do record ancestral adornment: a person may wear an ancestor’s hair or a treasured belonging as *juju*, either on the body or visibly around the neck. The sources also describe the use of small sticks of *Saas* worn around the waist by young boys and girls to preserve future fertility. At a child’s birth, a *Saas* branch may be placed above the enclosure where the child and mother remain in seclusion for eight days during the *Bat* ceremony.
 
 ## Music & performance
 
@@ -45,7 +45,7 @@ The *Njuup* tradition is identified as a progenitor of Mbalax. The *Tassu* or *T
 
 ## Dance & theatre
 
- They do identify circumcision dances and Serer dances as performance contexts. *Lamba* and *sabar* provide musical accompaniment for circumcision dances and royal festivals. Serer wrestling, called *Laamb* or *Njom* in Serer, originated in the Serer Kingdom of Sine and was formerly a preparatory exercise for war among warrior classes.
+They do identify circumcision dances and Serer dances as performance contexts. *Lamba* and *sabar* provide musical accompaniment for circumcision dances and royal festivals. Serer wrestling, called *Laamb* or *Njom* in Serer, originated in the Serer Kingdom of Sine and was formerly a preparatory exercise for war among warrior classes.
 
 Wrestling includes several techniques, including *mbapatte*, described as one of the oldest. Children begin with basic techniques before progressing to more advanced forms.
 

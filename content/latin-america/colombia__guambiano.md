@@ -17,7 +17,7 @@ The Misak people are identified with distinctive clothing. Men wear a blue scarf
 
 ## Festivals & rituals
 
- The sources describe society as having a patriarchal kinship system with hereditary offices, descent lines, and property passing through the male line.
+The sources describe society as having a patriarchal kinship system with hereditary offices, descent lines, and property passing through the male line.
 
 ## Foodways
 
@@ -25,7 +25,7 @@ Agriculture is the base of the Guambiano economy. The main products cultivated i
 
 ## Oral tradition & literature
 
- A sample of Guambiano appears as a translation of the Lord’s Prayer, beginning “Ñimpe Tiuspa waminchip pɵntrappe,”.
+A sample of Guambiano appears as a translation of the Lord’s Prayer, beginning “Ñimpe Tiuspa waminchip pɵntrappe,”.
 
 ## Language & religion
 

@@ -13,7 +13,7 @@ The Kurumba, also known as the Nioniosi, reside along the borders of Burkina Fas
 
 ### Clothing & dress
 
- They state only that the Kurumba have artistic objects worn during funeral ceremonies and believed to represent the soul of the deceased. The supplied material does not name these objects or specify their materials, forms, decorations, or differences from daily dress.
+They state only that the Kurumba have artistic objects worn during funeral ceremonies and believed to represent the soul of the deceased. The supplied material does not name these objects or specify their materials, forms, decorations, or differences from daily dress.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -21,29 +21,29 @@ The museum catalogue records supplied for this atlas contain no objects.
 
 ### Jewelry & body adornment
 
- They mention only unnamed artistic objects associated with funeral ceremonies.
+They mention only unnamed artistic objects associated with funeral ceremonies.
 
 ## Music & performance
 
- The Kurumba language article states that the cultural identity of the Kurumba communities in the Nilgiri Hills is expressed through oral traditions, folklore, and music, but the supplied material does not establish that information as applying to the Kurumba of Burkina Faso and Mali. It also discusses the Kurumba-language film *Mmmmm* (“Sound of Pain”), directed by Vijeesh Mani, which portrays a Kurumba tribesman who collects honey for his livelihood and the challenges he faces as environmental degradation leads to a decline in honey availability.
+The Kurumba language article states that the cultural identity of the Kurumba communities in the Nilgiri Hills is expressed through oral traditions, folklore, and music, but the supplied material does not establish that information as applying to the Kurumba of Burkina Faso and Mali. It also discusses the Kurumba-language film *Mmmmm* (“Sound of Pain”), directed by Vijeesh Mani, which portrays a Kurumba tribesman who collects honey for his livelihood and the challenges he faces as environmental degradation leads to a decline in honey availability.
 
 ## Dance & theatre
 
- No distinction between ceremonial and recreational performance is provided.
+No distinction between ceremonial and recreational performance is provided.
 
 ## Festivals & rituals
 
- They state that Islam is prevalent among the Kurumba today, while the people maintain African religious and cultural practices rooted in pre-Islamic experiences. The supplied material does not describe particular Islamic observances or pre-Islamic rites.
+They state that Islam is prevalent among the Kurumba today, while the people maintain African religious and cultural practices rooted in pre-Islamic experiences. The supplied material does not describe particular Islamic observances or pre-Islamic rites.
 
 The sources mention funeral ceremonies as a context for artistic objects believed to represent the soul of the deceased.
 
 ## Foodways
 
- The Kurumba-language film *Mmmmm* concerns a Kurumba tribesman who collects honey for his livelihood, but the supplied material does not state that honey is a Kurumba food, dish, or ceremonial ingredient.
+The Kurumba-language film *Mmmmm* concerns a Kurumba tribesman who collects honey for his livelihood, but the supplied material does not state that honey is a Kurumba food, dish, or ceremonial ingredient.
 
 ## Oral tradition & literature
 
- The Kurumba language article states that oral traditions and folklore express the cultural identity of Kurumba communities in the Nilgiri Hills.
+The Kurumba language article states that oral traditions and folklore express the cultural identity of Kurumba communities in the Nilgiri Hills.
 
 For language documentation, the article states that the Central Institute of Indian Languages has initiated efforts to document and preserve several Kurumba varieties as part of broader revitalization measures. It names the Scheme for Protection and Preservation of Endangered Languages and the Centre for Endangered Languages of Kerala, but this information concerns Kurumba varieties in India rather than the Kurumba described in the West African article.
 

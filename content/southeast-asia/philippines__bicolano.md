@@ -17,8 +17,6 @@ The Bicolano people, also called *Mga Bikolnon*, are the fourth-largest Filipino
 
 *Piña* — Piña is named as a material formerly woven for clothing.
 
-No other documented pattern-bearing textile traditions are described in the sources used.
-
 ### Clothing & dress
 
 Bicolanos predominantly use light, western-styled clothes suited to the tropical climate. The typical Bicolano wears clothing similar to that of other Filipinos in urban centers. The sources state that men are often called Bicolano and women may be called Bicolana.
@@ -41,7 +39,7 @@ Bikol language itself contains vocabulary associated with speech registers. The 
 
 ## Dance & theatre
 
- They mention an annual fluvial procession, bicycle races, cockfights and shows at the plaza during the Our Lady of Peñafrancia celebration, but do not characterize these activities as dance or theatre.
+They mention an annual fluvial procession, bicycle races, cockfights and shows at the plaza during the Our Lady of Peñafrancia celebration, but do not characterize these activities as dance or theatre.
 
 ## Festivals & rituals
 

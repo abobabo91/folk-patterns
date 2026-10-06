@@ -51,7 +51,7 @@ The sources identify Saman dance, also called Dzikir Saman, Tari topeng, Walijam
 
 ## Festivals & rituals
 
- They state that most Bantenese are Sunni Muslim and connect Bantenese cultural activity with a strong Islamic cultural background.
+They state that most Bantenese are Sunni Muslim and connect Bantenese cultural activity with a strong Islamic cultural background.
 
 ## Foodways
 
@@ -59,7 +59,7 @@ Bantenese culinary traditions named in the sources include *Sate Bandeng*, *Rabe
 
 ## Oral tradition & literature
 
- They mention a news program entitled *Beja ti Lembur*, aired by the regional CTV Banten network in Bantenese as part of a regional-government effort to preserve the dialect. The sources also identify Eman Sulaeman as a historian and actor, and Misbach Yusa Biran as a film director.
+They mention a news program entitled *Beja ti Lembur*, aired by the regional CTV Banten network in Bantenese as part of a regional-government effort to preserve the dialect. The sources also identify Eman Sulaeman as a historian and actor, and Misbach Yusa Biran as a film director.
 
 ## Language & religion
 

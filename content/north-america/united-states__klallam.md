@@ -13,7 +13,7 @@ The Klallam, also known as the S'Klallam or Clallam, are a Coast Salish people I
 
 ### Clothing & dress
 
- Paul Kane’s 1847 description records that shell money remained valued and that shamanism was still practiced.
+Paul Kane’s 1847 description records that shell money remained valued and that shamanism was still practiced.
 
 ### Architecture
 
@@ -25,15 +25,15 @@ The Klallam used stone adzes, fire, and heated water in canoe construction. The 
 
 ### Jewelry & body adornment
 
- They state that shell money was still valued in 1847.
+They state that shell money was still valued in 1847.
 
 ## Music & performance
 
- They do document storytelling and potlatches. Potlatches played a large role in determining social status, and in 1999 a lesson plan and guidebooks were developed to teach students the basics of Klallam through storytelling. The sources also identify Elaine Grinnell as a Klallam storyteller and basket and drum maker.
+They do document storytelling and potlatches. Potlatches played a large role in determining social status, and in 1999 a lesson plan and guidebooks were developed to teach students the basics of Klallam through storytelling. The sources also identify Elaine Grinnell as a Klallam storyteller and basket and drum maker.
 
 ## Festivals & rituals
 
- They record that Klallam communities held potlatches, which played a large role in determining social status. The sources also state that shamanism and slavery were still practiced in 1847 and that potlatching continued in 1855. No detailed descriptions of birth, coming-of-age, wedding, or funeral rites are provided.
+They record that Klallam communities held potlatches, which played a large role in determining social status. The sources also state that shamanism and slavery were still practiced in 1847 and that potlatching continued in 1855. No detailed descriptions of birth, coming-of-age, wedding, or funeral rites are provided.
 
 ## Foodways
 

@@ -17,15 +17,15 @@ The sources identify obsidian as an important material object in Tahltan history
 
 ## Music & performance
 
- The Tahltan language article does record a digital archive of Tahltan recordings, located at the Tahltan Language Revitalization Offices in Dease Lake, Iskut, and Telegraph Creek, and states that these recordings can be used on iPods. It also mentions an English-Tahltan dictionary available through the language program’s website, but gives no information about the musical content of the recordings.
+The Tahltan language article does record a digital archive of Tahltan recordings, located at the Tahltan Language Revitalization Offices in Dease Lake, Iskut, and Telegraph Creek, and states that these recordings can be used on iPods.
 
 ## Festivals & rituals
 
- Tahltan oral history is connected to the Sacred Headwaters, also called the Klappan Valley, where the headwaters of the Nass, Skeena, and Stikine Rivers are located. The source states that Tahltan oral history holds these headwaters to be the place where the earth was first created and where Tahltan culture began.
+Tahltan oral history is connected to the Sacred Headwaters, also called the Klappan Valley, where the headwaters of the Nass, Skeena, and Stikine Rivers are located. The source states that Tahltan oral history holds these headwaters to be the place where the earth was first created and where Tahltan culture began.
 
 ## Foodways
 
- The Sacred Headwaters are described as providing a home to important salmon stocks.
+The Sacred Headwaters are described as providing a home to important salmon stocks.
 
 ## Oral tradition & literature
 

@@ -11,7 +11,7 @@ The Khalkha, also called Halh, have been the largest subgroup of the Mongols in 
 
 ## Music & performance
 
- The Wikipedia source records a historical statement associated with the creation of the Khalkha Tumen, preserved in transliteration, Cyrillic, Mongolian script, and English translation.
+The Wikipedia source records a historical statement associated with the creation of the Khalkha Tumen, preserved in transliteration, Cyrillic, Mongolian script, and English translation.
 
 ## Festivals & rituals
 
@@ -27,7 +27,7 @@ The source also identifies Byambyn Renchin as a Mongolian academician, writer, a
 
 Most Khalkha speak Khalkha or Halh, which the source identifies as the standard written language of Mongolia. The source also distinguishes Khalkha from Oirat and Khorchin varieties spoken by other Mongol groups. It gives the names Khalkha and Halh in Latin transliteration, Cyrillic, and Mongolian script, and discusses possible connections between the term Khalkha and words glossed as “shield,” “to protect,” “to cover,” “to shield,” “to hide,” and “to intercept.”
 
- They do document historical references to the Dalai Lama, the “Yellow Hat” order, the “Red Hat” order, dGe-lugs-pa monasteries, and the Fifth Dalai Lama in connection with Khalkha groups in Qinghai.
+They do document historical references to the Dalai Lama, the “Yellow Hat” order, the “Red Hat” order, dGe-lugs-pa monasteries, and the Fifth Dalai Lama in connection with Khalkha groups in Qinghai.
 
 ## Sources & further reading
 

@@ -37,7 +37,7 @@ Until 1990, the Nukak practiced small-scale pottery. They produced a small kind 
 
 ### Jewelry & body adornment
 
- They mention body painting using *achiote* (*Bixa orellana*) and *carayurú* (*Arrabidaea chica*) dyes, and perfumes made from *Myroxylon* sp. and *Justice pectoralis*.
+They mention body painting using *achiote* (*Bixa orellana*) and *carayurú* (*Arrabidaea chica*) dyes, and perfumes made from *Myroxylon* sp. and *Justice pectoralis*.
 
 ## Dance & theatre
 
@@ -45,7 +45,7 @@ The Nukak practice *entiwat*, a ritual in which groups dance face to face, strik
 
 ## Festivals & rituals
 
- They describe an initiation ritual through which a man must pass before seeking a partner; during it, he endures trials and consumes a hallucinogen, *Virola* sp. Tobacco (*Nicotiana tabacum*) is harvested for ritual uses. The *entiwat* ritual brings different territorial groups together, while the sources also describe marriage practices, pregnancy-related temporal polyandry, and the taboo against discussing dead people.
+They describe an initiation ritual through which a man must pass before seeking a partner; during it, he endures trials and consumes a hallucinogen, *Virola* sp. Tobacco (*Nicotiana tabacum*) is harvested for ritual uses. The *entiwat* ritual brings different territorial groups together, while the sources also describe marriage practices, pregnancy-related temporal polyandry, and the taboo against discussing dead people.
 
 ## Foodways
 
@@ -57,7 +57,7 @@ Gathered foods include honey from twenty species of bees and many fruits, includ
 
 ## Oral tradition & literature
 
- They state that Nukak speak a tonal language and that the language is very closely related to Kakwa. In 2006, one migrant, Pia-pe, was quoted expressing a wish to join the “white family” without forgetting the words of the Nukak.
+They state that Nukak speak a tonal language and that the language is very closely related to Kakwa. In 2006, one migrant, Pia-pe, was quoted expressing a wish to join the “white family” without forgetting the words of the Nukak.
 
 ## Language & religion
 

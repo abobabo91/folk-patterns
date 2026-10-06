@@ -43,7 +43,7 @@ The sources name two Kalinga dances: *salidsid*, a courtship dance, and *pala-ok
 
 ## Festivals & rituals
 
- They describe several life-cycle and ritual practices. Betrothals are common, including betrothals made as early as birth, although an engagement may be broken if a person does not favour it. After death, sacrifices are made in honour of the spirit of the dead, and *kolias* is celebrated after one year of mourning. The *kontad* or *kontid* is a ritual performed for a child to avoid future harms. *Ngilin* involves avoiding the evil water spirit. Pregnant women and their husbands observe dietary and environmental restrictions, including avoiding beef, cow’s milk, dog meat, streams, and waterfalls because these are said to cause harm to unborn children.
+They describe several life-cycle and ritual practices. Betrothals are common, including betrothals made as early as birth, although an engagement may be broken if a person does not favour it. After death, sacrifices are made in honour of the spirit of the dead, and *kolias* is celebrated after one year of mourning. The *kontad* or *kontid* is a ritual performed for a child to avoid future harms. *Ngilin* involves avoiding the evil water spirit. Pregnant women and their husbands observe dietary and environmental restrictions, including avoiding beef, cow’s milk, dog meat, streams, and waterfalls because these are said to cause harm to unborn children.
 
 The Kalinga also developed *Bodong*, an institution of peace pacts that reduces traditional warfare and headhunting and serves to initiate, maintain, renew, and reinforce kinship and social ties.
 
@@ -57,7 +57,7 @@ The sources describe dietary prohibitions connected with pregnancy.
 
 ## Oral tradition & literature
 
- They state that *papangat* leaders are expected to be wise and to possess good oratorical ability. The Kalinga language article lists documented works including *Upper Tanudan Kalinga texts*, *Guinaang Kalinga texts*, and a *Minangali (Kalinga) Digital Wordlist: Presentation Form*, but the sources do not summarize their contents.
+They state that *papangat* leaders are expected to be wise and to possess good oratorical ability. The Kalinga language article lists documented works including *Upper Tanudan Kalinga texts*, *Guinaang Kalinga texts*, and a *Minangali (Kalinga) Digital Wordlist: Presentation Form*, but the sources do not summarize their contents.
 
 ## Language & religion
 

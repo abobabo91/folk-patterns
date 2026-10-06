@@ -1,0 +1,41 @@
+---
+title: "Friulians"
+subtitle: "Italy"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Friulians, also called Friulans or Furlans (*Furlans*, *Friulani*, and *Furlani*), are a Romance ethnic group native to the Friuli region of Italy, with a significant diaspora community. About 600,000 live in the historical region of Friuli and parts of Veneto, while the total population is around 1 million as Friulian language use has decreased and more people speak Italian as a first language. Other thousands live in diaspora communities in the United States, Canada, Argentina, Brazil, Uruguay, Venezuela, Australia, and Belgium. They natively speak Friulian, a Rhaeto-Romance language closely related to Ladin and Romansh. Friulians matter in folk-culture terms through their language, village and family organization, agricultural identity, migration communities, and preservation of language and traditions abroad.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no motifs.
+
+## Music & performance
+
+The sources describe choral singing as part of a stereotype of the Friulian population, associating it with a “Nordic population” characterized as strong, serious, slow, taciturn, disciplined, and community-oriented. In this description, existential sadness is soothed by hard work and wine and expressed through choral singing. They also mention *Il Cjant de Filologiche furlane* (“The Song of the Friulian Philologists”), which describes the typical Friulian as “steadfast, honest, and hard-working” and refers to the figure of the “good farmer.” No UNESCO inscription or museum catalogue record supplied for this atlas concerns Friulian music.
+
+## Festivals & rituals
+
+The supplied material does describe Friulians as a people of Christians situated within the Catholic tradition. It also describes strong family structures and small village communities, without detailing their ceremonies.
+
+## Foodways
+
+The Wikipedia material mentions wine only within a description of population stereotypes, where wine and choral singing are associated with a “Nordic population” and with the easing of existential sadness. This does not provide a documented account of Friulian foodways.
+
+## Oral tradition & literature
+
+The sources mention literature from the 19th century in connection with Friulian stereotypes. *Il Cjant de Filologiche furlane* (“The Song of the Friulian Philologists”) describes the typical Friulian as “steadfast, honest, and hard-working,” referring to the “good farmer.” The Regional Agency for Friulian Language proposes a five-dimensional model: Friulians are presented as farmers attached to the land and nature; members of strong family structures and small village communities; hard-working and entrepreneurial; traditionalist and true to their word; Christians within the Catholic tradition; a “Nordic population”; a border people; and a migrant people. The sources also state that *Fogolârs* are recreated in arrival communities and that language and traditions are preserved there.
+
+## Language & religion
+
+Friulians speak Friulian, a Rhaeto-Romance language closely related to Ladin, spoken primarily in South Tyrol/Alto Adige, and Romansh, native to the Canton of Grisons in Switzerland. Friulian is described as distinct from other Rhaeto-Romance languages because of the influence exerted by Latin and as one of the most complete languages within the Rhaeto-Romance family because of its vast vocabulary. Studies are said to show phonetic commonalities with French, suggesting unique roots, while the different dialects spoken in Friuli are described as no more closely related to one another than they are to French. Friulians are also characterized as Christians within the great Catholic tradition.
+
+## Sources & further reading
+
+- “Friulians,” Wikipedia: https://en.wikipedia.org/wiki/Friulians
+- World Directory of Minorities and Indigenous People, Minority Rights Group International, “Friulians”: https://en.wikipedia.org/wiki/Friulians

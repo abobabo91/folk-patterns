@@ -21,7 +21,7 @@ Most Southern Altaians traditionally lived in *yurts*. Many Northern Altaians bu
 
 ## Music & performance
 
- No UNESCO Intangible Cultural Heritage inscription supplied for this profile concerns the Altai people.
+No UNESCO Intangible Cultural Heritage inscription supplied for this profile concerns the Altai people.
 
 ## Festivals & rituals
 

@@ -21,7 +21,7 @@ The sources describe historical and religious contexts. Most ethnic Montenegrins
 
 ## Oral tradition & literature
 
- They state that Montenegrin tribes are mainly studied within social anthropology and family history, and that kinship groups give a sense of shared identity and descent.
+They state that Montenegrin tribes are mainly studied within social anthropology and family history, and that kinship groups give a sense of shared identity and descent.
 
 ## Language & religion
 

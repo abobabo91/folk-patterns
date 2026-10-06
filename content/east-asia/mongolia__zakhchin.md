@@ -15,10 +15,6 @@ The Zakhchin are a subgroup of the Oirats residing in Khovd Province, Mongolia. 
 
 The sources used mention *Tögrög Hüree* as the administrative center of Hoit sum.
 
-## Oral tradition & literature
-
- The sources do record the publication of *Zakhchiny tüükh soël, öv ulamzhlal*, edited by Iadamzhav and published in Ulaanbaatar in 2014, but provide no description of its contents.
-
 ## Language & religion
 
 The Zakhchin originally spoke the Zakhchin dialect of the Oirat language. The sources state that pure Oirat is used by elder generations, while younger generations use a dialect strongly influenced by Khalkha.

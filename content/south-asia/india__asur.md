@@ -29,7 +29,7 @@ Asur women wear tattoo marks depicting totemic objects, using them as ornaments.
 
 ## Music & performance
 
-During iron-smelting, Asur women sing a song that relates the furnace to an expectant mother. The song encourages the furnace to give birth to a healthy “baby,” meaning good-quality and plentiful iron from the ore. The source associates this practice with a fertility cult. No instrument, song genre, performance venue, or additional musical tradition is documented in the sources used.
+During iron-smelting, Asur women sing a song that relates the furnace to an expectant mother. The song encourages the furnace to give birth to a healthy “baby,” meaning good-quality and plentiful iron from the ore. The source associates this practice with a fertility cult.
 
 ## Festivals & rituals
 
@@ -39,11 +39,11 @@ Asur religion includes ancestral worship, and houses contain a separate area for
 
 ## Foodways
 
- They state that the Asur accept food from Rajputs, Oraon, Kharwar, Thakur, Ghasi, and a few others.
+They state that the Asur accept food from Rajputs, Oraon, Kharwar, Thakur, Ghasi, and a few others.
 
 ## Oral tradition & literature
 
- They do describe the song sung by Asur women during iron-smelting, in which the furnace is addressed as an expectant mother and encouraged to produce good-quality and plentiful iron. The sources also state that a young Asur woman called Sushma Asur is working to preserve the art, culture, and existence of her community.
+They do describe the song sung by Asur women during iron-smelting, in which the furnace is addressed as an expectant mother and encouraged to produce good-quality and plentiful iron. The sources also state that a young Asur woman called Sushma Asur is working to preserve the art, culture, and existence of her community.
 
 ## Language & religion
 

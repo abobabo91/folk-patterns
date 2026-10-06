@@ -39,7 +39,7 @@ In summer, the Achomawi and other upper Pit River bands usually lived in cone-sh
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden canoes, fishing spears, fish hooks, fish traps, nets, weirs, baskets, and tools made from bone, horn, willow, pine root, rawhide, and wood.
+They do describe wooden canoes, fishing spears, fish hooks, fish traps, nets, weirs, baskets, and tools made from bone, horn, willow, pine root, rawhide, and wood.
 
 ### Jewelry & body adornment
 
@@ -61,7 +61,7 @@ A victory dance involved carrying the head of an enemy, with women participating
 
 ## Festivals & rituals
 
- They do describe life-cycle rites, fishing-related observances, warfare purification, marriage practices, funerary customs, and widowhood.
+They do describe life-cycle rites, fishing-related observances, warfare purification, marriage practices, funerary customs, and widowhood.
 
 When a child was born, the parents entered seclusion and observed food restrictions until the baby’s umbilical cord fell off. If twins were born, one was killed at birth. Marriage followed a patrilocal pattern: the bridegroom initially lived in the bride’s home, hunting and working for her relatives, and she eventually moved with him to his family. Society was patrilineal, and the traditional chiefdom passed to the eldest son.
 
@@ -79,7 +79,7 @@ The sources name several fishing nets: *taláka'yi*, a dip net suspended from a 
 
 ## Oral tradition & literature
 
- They do describe guardian spirits called *tinihowi*, the Deer Woman in boys’ puberty rites, and spiritual presences associated with mountain peaks, springs, and other sacred places.
+They do describe guardian spirits called *tinihowi*, the Deer Woman in boys’ puberty rites, and spiritual presences associated with mountain peaks, springs, and other sacred places.
 
 The Achomawi language is extinct. The sources state that perhaps ten people spoke it in 1991, with only eight in 2000, and that the last speaker died in 2013. A mobile app was planned as of 2013, and Louise Davis used flashcards with her children and supported efforts to preserve the language. The sources also list the Achumawi Dictionary and other teaching and documentation materials.
 

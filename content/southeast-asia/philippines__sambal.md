@@ -21,11 +21,11 @@ The sources describe bodily ornaments connected with headhunting and mourning. A
 
 ### Architecture
 
- They state that early Spanish descriptions portrayed the Zambales region as sparsely populated, with small numbers of Sambal villages separated by huge distances. Each village had about ten to thirty families and was often at war with other villages.
+They state that early Spanish descriptions portrayed the Zambales region as sparsely populated, with small numbers of Sambal villages separated by huge distances. Each village had about ten to thirty families and was often at war with other villages.
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify weapons and shields associated with earlier Sambal warfare: short spears, a short blade or dagger, and large rectangular *kalasag* shields. European writers described the Sambal as excellent archers who used poison arrows. The Boxer Codex states that people killed in warfare were beheaded with a *bararao* dagger. During the colonial period, Sambals primarily sold valuable timber and shipped it to Manila by indigenous boats.
+They do identify weapons and shields associated with earlier Sambal warfare: short spears, a short blade or dagger, and large rectangular *kalasag* shields. European writers described the Sambal as excellent archers who used poison arrows. The Boxer Codex states that people killed in warfare were beheaded with a *bararao* dagger. During the colonial period, Sambals primarily sold valuable timber and shipped it to Manila by indigenous boats.
 
 ### Jewelry & body adornment
 
@@ -33,11 +33,11 @@ Sambal body adornment is documented chiefly in relation to warfare and mourning.
 
 ## Music & performance
 
- They do describe restrictions on performance during mourning: after a person’s death, immediate male relatives wearing a strip of black cloth were forbidden from singing, dancing, or participating in festivities until they had killed an enemy. The Sambal indigenous religion included ritual performance led by shamans. The highest-ranking shaman was called a *bayoc*. The *bayoc* consecrated other shamans and led rituals to spirits, while only the *bayoc* could lead rituals and offer sacrifices to Malayari or Malyari, described as the supreme being and creator deity of the Sambals. Other benevolent spirits were worshiped for various functions, mostly agricultural.
+They do describe restrictions on performance during mourning: after a person’s death, immediate male relatives wearing a strip of black cloth were forbidden from singing, dancing, or participating in festivities until they had killed an enemy. The Sambal indigenous religion included ritual performance led by shamans. The highest-ranking shaman was called a *bayoc*. The *bayoc* consecrated other shamans and led rituals to spirits, while only the *bayoc* could lead rituals and offer sacrifices to Malayari or Malyari, described as the supreme being and creator deity of the Sambals. Other benevolent spirits were worshiped for various functions, mostly agricultural.
 
 ## Dance & theatre
 
- They mention dancing only as an activity prohibited to immediate male relatives during mourning until they killed an enemy.
+They mention dancing only as an activity prohibited to immediate male relatives during mourning until they killed an enemy.
 
 ## Festivals & rituals
 
@@ -47,11 +47,11 @@ The sources also mention a *manganito* ritual in the Boxer Codex, but explicitly
 
 ## Foodways
 
- The Boxer Codex mentions claims that Sambals ate carabao intestines raw, but the source describes the veracity of these customs as questionable. No further foodways are provided.
+The Boxer Codex mentions claims that Sambals ate carabao intestines raw, but the source describes the veracity of these customs as questionable. No further foodways are provided.
 
 ## Oral tradition & literature
 
- They do record a Philippine national proverb translated into Sambal:
+They do record a Philippine national proverb translated into Sambal:
 
 *Hay kay tanda mamanomtom ha pinangibatan, kay maka-lato ha ampako-taw-an.*
 

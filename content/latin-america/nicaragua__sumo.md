@@ -13,27 +13,23 @@ The Sumo are an Indigenous people more commonly called the Mayangna, who live on
 
 ### Architecture
 
- They state that Mayangna communities historically lived in dispersed family groupings and later were brought together in compact settlements centred around a church.
+They state that Mayangna communities historically lived in dispersed family groupings and later were brought together in compact settlements centred around a church.
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that Mayangna communities controlled the production and sale of canoes made from high-quality tropical hardwoods, which were also used by the Miskito in slaving expeditions.
-
-## Music & performance
-
- They mention the *sukias*, or traditional healers, as figures who formerly held authority in Mayangna life, but provide no description of their performance practices.
+They do state that Mayangna communities controlled the production and sale of canoes made from high-quality tropical hardwoods, which were also used by the Miskito in slaving expeditions.
 
 ## Festivals & rituals
 
- They describe a major religious transformation beginning with the arrival of missionaries from the Moravian Church in 1847 and the spread of Christianity among Mayangna communities after the departure of the British. During the “Great Awakening” of the 1880s, much of the Miskito population converted, after which Moravian missionaries increasingly directed their attention to the Mayangna. The new religion became a key part of Mayangna identity, and the Moravian Church replaced the former authority of chieftains and *sukias*.
+They describe a major religious transformation beginning with the arrival of missionaries from the Moravian Church in 1847 and the spread of Christianity among Mayangna communities after the departure of the British. During the “Great Awakening” of the 1880s, much of the Miskito population converted, after which Moravian missionaries increasingly directed their attention to the Mayangna. The new religion became a key part of Mayangna identity, and the Moravian Church replaced the former authority of chieftains and *sukias*.
 
 ## Foodways
 
- They state that Mayangna communities traditionally depended on hunting, fishing and shifting agriculture, and that pollution from the mine at Rosita damaged the river ecosystems on which communities depended for their food supply.
+They state that Mayangna communities traditionally depended on hunting, fishing and shifting agriculture, and that pollution from the mine at Rosita damaged the river ecosystems on which communities depended for their food supply.
 
 ## Oral tradition & literature
 
- They state that the Sandinista-led Literacy Crusade eventually included teaching in local native languages, that 1,449 Mayangna learned to read and write according to a government report, and that Mayangna emerged as a written language.
+They state that the Sandinista-led Literacy Crusade eventually included teaching in local native languages, that 1,449 Mayangna learned to read and write according to a government report, and that Mayangna emerged as a written language.
 
 ## Language & religion
 

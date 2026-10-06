@@ -17,7 +17,7 @@ Traditional Chontal Maya houses are rectangular and made of palm and wood. They 
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe several everyday objects and forms of craft production. Hats are woven from palm, while sleeping mats called *petates* are woven from the fibers of *cañita*, identified as *Cyperus giganteus*. The primary craft of the Yoko'tan people is the dugout canoe and its smaller counterpart, the *cayuco*. Canoes are used for fishing and for reaching the many islands used for planting. Oyster-shell lime was formerly manufactured for mortar, although mass-produced building materials reduced demand and made its production no longer profitable.
+They do describe several everyday objects and forms of craft production. Hats are woven from palm, while sleeping mats called *petates* are woven from the fibers of *cañita*, identified as *Cyperus giganteus*. The primary craft of the Yoko'tan people is the dugout canoe and its smaller counterpart, the *cayuco*. Canoes are used for fishing and for reaching the many islands used for planting. Oyster-shell lime was formerly manufactured for mortar, although mass-produced building materials reduced demand and made its production no longer profitable.
 
 ## Music & performance
 
@@ -27,7 +27,7 @@ Public religious displays center on feast days following the adoption of the Cat
 
 ## Dance & theatre
 
- They state only that the Catholic Church discouraged music and dance during its campaign against *la costumbre* in the 1980s.
+They state only that the Catholic Church discouraged music and dance during its campaign against *la costumbre* in the 1980s.
 
 ## Festivals & rituals
 

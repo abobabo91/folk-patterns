@@ -51,7 +51,7 @@ The sources also mention Tea-picking opera and Han opera as forms in which Canto
 
 ## Festivals & rituals
 
- They do mention “Rooster-selling rhythms,” which are traditionally sung in rooster-worshiping rituals, and “Kerria songs,” which are often sung at weddings.
+They do mention “Rooster-selling rhythms,” which are traditionally sung in rooster-worshiping rituals, and “Kerria songs,” which are often sung at weddings.
 
 The sources also describe tea houses as important public meeting places in Guangzhou. During the Qing dynasty, political movements could develop there, while dim sum was consumed as the principal attraction. Cantonese opera, folk songs and storytelling are documented as performance traditions, but the supplied material does not establish a complete ritual calendar or specify dates for festivals.
 

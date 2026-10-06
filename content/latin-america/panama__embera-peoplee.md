@@ -13,7 +13,7 @@ The Emberá, also known historically as the Chocó or Katío Indians, are an Ind
 
 ### Clothing & dress
 
- They mention the word *wẽra* for woman and *jaibaná* for shaman.
+They mention the word *wẽra* for woman and *jaibaná* for shaman.
 
 ### Architecture
 
@@ -23,25 +23,25 @@ Contemporary houses retain some traditional materials and forms, but are often s
 
 ### Ceramics, metalwork & everyday objects
 
- They identify *hampá*, the Emberá term for a dugout canoe, and describe canoe construction as a historically significant skill for Emberá men. The sources also mention off-board motors, kerosene lamps, hunting rifles, propane stoves, aluminum roofing, wooden boards, and cinder blocks as materials or commodities associated with changing daily life.
+They identify *hampá*, the Emberá term for a dugout canoe, and describe canoe construction as a historically significant skill for Emberá men. The sources also mention off-board motors, kerosene lamps, hunting rifles, propane stoves, aluminum roofing, wooden boards, and cinder blocks as materials or commodities associated with changing daily life.
 
 ### Jewelry & body adornment
 
- They do report that Emberá communities practiced female genital mutilation, a secretive and taboo tradition until a 2007 incident in which a girl died. In 2015, it was reported that 25,000 of approximately 250,000 members had decided to discontinue the practice, with a community leader saying they hoped to eradicate it by 2030.
+They do report that Emberá communities practiced female genital mutilation, a secretive and taboo tradition until a 2007 incident in which a girl died. In 2015, it was reported that 25,000 of approximately 250,000 members had decided to discontinue the practice, with a community leader saying they hoped to eradicate it by 2030.
 
 ## Music & performance
 
- They do describe ceremonial activities centered on the shaman, or *jaibaná*. Ethnographic accounts identify the shaman as someone with intimate knowledge of the medicinal, toxicologic, and hallucinogenic properties of the surrounding plant and animal world, who cures by exorcising malignant spirits.
+They do describe ceremonial activities centered on the shaman, or *jaibaná*. Ethnographic accounts identify the shaman as someone with intimate knowledge of the medicinal, toxicologic, and hallucinogenic properties of the surrounding plant and animal world, who cures by exorcising malignant spirits.
 
 Boats have an important place in Emberá tradition and cosmology. Ethnographic records describe canoes as taking on an anthropomorphic character in Emberá language and philosophy. Traditionally, people were even buried in canoes. The construction of dugout canoes was historically a significant skill for Emberá men and could serve as a rite of passage or a prerequisite for marriage according to oral history. These details document important cultural practices surrounding river life.
 
 ## Dance & theatre
 
- They mention ceremonial activities associated with the shaman, but provide no name or description for a dance or theatrical performance.
+They mention ceremonial activities associated with the shaman, but provide no name or description for a dance or theatrical performance.
 
 ## Festivals & rituals
 
- They do describe several social and ritual practices. Dugout-canoe construction could function as a rite of passage or a prerequisite for marriage according to oral history. Canoes were also traditionally used for burial, and boats played a role in Emberá tradition and cosmology.
+They do describe several social and ritual practices. Dugout-canoe construction could function as a rite of passage or a prerequisite for marriage according to oral history. Canoes were also traditionally used for burial, and boats played a role in Emberá tradition and cosmology.
 
 The sources describe female genital mutilation as a secretive and taboo tradition. A 2007 death caused controversy, raised awareness, and stimulated debate about ending the practice. In 2015, a report stated that approximately 25,000 of approximately 250,000 members had discontinued it, while a community leader expressed the hope of eradicating it by 2030.
 
@@ -55,7 +55,7 @@ Traditional houses included a cooking fire, while contemporary Emberá houses ma
 
 ## Oral tradition & literature
 
- They do mention oral history concerning dugout canoes, including the idea that canoe construction could be a rite of passage or prerequisite for marriage.
+They do mention oral history concerning dugout canoes, including the idea that canoe construction could be a rite of passage or prerequisite for marriage.
 
 An account also records a foreigner known by the nickname “Perú,” described as a mysterious and legendary figure who encouraged Emberá families to settle into colonies. He told them that villages could help them obtain teachers, schools, medical supplies, and legal rights to land and resources. Among the Darién Chocó, Perú became a larger-than-life romantic folk figure.
 

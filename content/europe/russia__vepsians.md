@@ -13,15 +13,15 @@ The Veps, or Vepsians, are a Baltic Finnic people who speak Vepsian, a Finnic la
 
 ### Architecture
 
- They do record a Vepsian rural community formed in East Karelia in 1994, encompassing 8,200 square kilometers of land and 3,373 inhabitants, 42% of them Vepsian.
+They do record a Vepsian rural community formed in East Karelia in 1994, encompassing 8,200 square kilometers of land and 3,373 inhabitants, 42% of them Vepsian.
 
 ## Music & performance
 
- They do identify Ryurik Lonin as a collector of Veps folklore and writer. The sources also record a broader cultural and linguistic revival: early Soviet nationality politics supported Vepsian national development, the alphabet and written language were developed, and teachers began instructing in Vepsian in some elementary schools. These details concern education and cultural preservation rather than musical performance.
+They do identify Ryurik Lonin as a collector of Veps folklore and writer. The sources also record a broader cultural and linguistic revival: early Soviet nationality politics supported Vepsian national development, the alphabet and written language were developed, and teachers began instructing in Vepsian in some elementary schools. These details concern education and cultural preservation rather than musical performance.
 
 ## Festivals & rituals
 
- They state that Soviet authorities began to oppress Vepsian culture in 1937, after which all national activities were stopped and the national districts were abolished. The sources also record later institutional efforts connected with cultural preservation, including the formation of the Vepsian rural community in East Karelia in 1994 and the granting of some budgetary autonomy by the authorities of the Republic of Karelia in 1996. The federal authorities abolished that autonomy in 2006.
+They state that Soviet authorities began to oppress Vepsian culture in 1937, after which all national activities were stopped and the national districts were abolished. The sources also record later institutional efforts connected with cultural preservation, including the formation of the Vepsian rural community in East Karelia in 1994 and the granting of some budgetary autonomy by the authorities of the Republic of Karelia in 1996. The federal authorities abolished that autonomy in 2006.
 
 ## Oral tradition & literature
 

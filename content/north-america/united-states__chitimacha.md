@@ -29,7 +29,7 @@ The Chitimacha established villages in the swamps, bayous, and rivers of the Atc
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe dugout canoes made by carving cypress logs; the largest could hold as many as 50 people. The Chitimacha traded crops for stone used to make arrowheads and tools, developed blow guns and cane darts, and adapted fish bones for use as arrowheads. Grain crops were stored in an elevated winter granary.
+They do describe dugout canoes made by carving cypress logs; the largest could hold as many as 50 people. The Chitimacha traded crops for stone used to make arrowheads and tools, developed blow guns and cane darts, and adapted fish bones for use as arrowheads. Grain crops were stored in an elevated winter granary.
 
 ### Jewelry & body adornment
 
@@ -37,17 +37,17 @@ The Chitimacha were skilled practitioners of tattooing, often covering the face,
 
 ## Music & performance
 
- They do record that Morris Swadesh worked with Benjamin Paul and Delphine Ducloux from 1930 to document the Chitimacha language and stories. His notes and recordings, together with the work of John R. Swanton, form an important part of the surviving documentation of Chitimacha speech and traditional accounts.
+They do record that Morris Swadesh worked with Benjamin Paul and Delphine Ducloux from 1930 to document the Chitimacha language and stories. His notes and recordings, together with the work of John R. Swanton, form an important part of the surviving documentation of Chitimacha speech and traditional accounts.
 
 The Chitimacha language was historically spoken by the people of Louisiana and is classified in the sources as a language isolate. Swadesh wrote a grammar and dictionary and collected numerous texts from the last two speakers, although the language article states that these materials were not published. The tribe later partnered with Rosetta Stone in 2008 to develop software documenting the language and providing teaching materials.
 
 ## Dance & theatre
 
- They mention the documentary *Native Waters: A Chitimacha Recollection*, directed and produced by Laudun for Louisiana Public Broadcasting in 2011, which won a 2012 Telly Award.
+They mention the documentary *Native Waters: A Chitimacha Recollection*, directed and produced by Laudun for Louisiana Public Broadcasting in 2011, which won a 2012 Telly Award.
 
 ## Festivals & rituals
 
- They do document several social and cultural practices. The Chitimacha had a matrilineal kinship system in which property and descent passed through female lines; children belonged to their mother’s family and clan and took their status from her. Hereditary male chiefs came from maternal lines and were approved by female elders until the early 20th century.
+They do document several social and cultural practices. The Chitimacha had a matrilineal kinship system in which property and descent passed through female lines; children belonged to their mother’s family and clan and took their status from her. Hereditary male chiefs came from maternal lines and were approved by female elders until the early 20th century.
 
 The sources also describe the historical flattening of male infants’ foreheads by binding them as infants to shape their skulls. The Chitimacha were divided into nobles and commoners, and the two classes spoke different dialects; intermarriage between the classes was forbidden.
 

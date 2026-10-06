@@ -17,15 +17,15 @@ Spokane women made coiled baskets out of birch bark or cedar roots. They made wa
 
 ### Clothing & dress
 
- They state that women made bags from processed animal hide and made mats and other objects, while men created tools, fished, and hunted. The sources also mention that horses were used to carry or pull supplies and that men rode them during hunting and warfare.
+They state that women made bags from processed animal hide and made mats and other objects, while men created tools, fished, and hunted. The sources also mention that horses were used to carry or pull supplies and that men rode them during hunting and warfare.
 
 ### Architecture
 
- They state that Spokane people lived in permanent winter villages for three months of the year and followed game and plants during the other nine months.
+They state that Spokane people lived in permanent winter villages for three months of the year and followed game and plants during the other nine months.
 
 ### Ceramics, metalwork & everyday objects
 
- They identify bows and arrows used by individual hunters, digging sticks used by women to uproot and gather food, coiled baskets, wallets, bags, mats, and tools. A young girl’s first digging stick marked a rite of passage, and women’s graves were often marked with these sticks.
+They identify bows and arrows used by individual hunters, digging sticks used by women to uproot and gather food, coiled baskets, wallets, bags, mats, and tools. A young girl’s first digging stick marked a rite of passage, and women’s graves were often marked with these sticks.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ The sources name the **Prophet Dance** and the **Spirit Dance**, both associated
 
 ## Festivals & rituals
 
- They describe seasonal feasts connected to the annual subsistence cycle and the acquisition of guardian spirit powers.
+They describe seasonal feasts connected to the annual subsistence cycle and the acquisition of guardian spirit powers.
 
 Spokane life followed a seasonal pattern. The bands moved with game and plants for nine months of the year and settled in permanent winter villages for the other three. Fish, especially salmon, were central to diet and trade; fish were smoked or dried for exchange and winter storage. Women gathered camas roots, berries, and barks with digging sticks. The first digging stick given to a young girl was a rite of passage, and women’s graves were often marked with digging sticks. They state that the Spokane had a matrilocal custom: after marriage, a husband generally joined his wife and her people at their home, although sometimes the wife moved to the husband’s people.
 

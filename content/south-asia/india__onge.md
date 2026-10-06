@@ -13,19 +13,19 @@ The Onge, also rendered Önge, Ongee, and Öñge, are an Andamanese ethnic group
 
 ### Architecture
 
- They identify Dugong Creek and South Bay as reserve camps on Little Andaman.
+They identify Dugong Creek and South Bay as reserve camps on Little Andaman.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention a container that washed ashore at Dugong Creek in connection with the 2008 poisoning incident, but provide no cultural description of the object.
+They mention a container that washed ashore at Dugong Creek in connection with the 2008 poisoning incident, but provide no cultural description of the object.
 
 ## Music & performance
 
- The available material identifies the native Andamanese religion as a form of animism and describes ancestor worship as important in Andamanese religious traditions.
+The available material identifies the native Andamanese religion as a form of animism and describes ancestor worship as important in Andamanese religious traditions.
 
 ## Festivals & rituals
 
- They state that ancestor worship is an important element in the religious traditions of the Andaman islands and that the native Andamanese religion and belief system is a form of animism. The sources also record a traditional story about the ground shaking and a great wall of water destroying the land. Taking heed of this story, the semi-nomadic Onge survived the catastrophe caused by the 2004 Indian Ocean earthquake by taking shelter in the highlands.
+They state that ancestor worship is an important element in the religious traditions of the Andaman islands and that the native Andamanese religion and belief system is a form of animism. The sources also record a traditional story about the ground shaking and a great wall of water destroying the land. Taking heed of this story, the semi-nomadic Onge survived the catastrophe caused by the 2004 Indian Ocean earthquake by taking shelter in the highlands.
 
 ## Foodways
 

@@ -21,7 +21,7 @@ Bontoc social organization was formerly centered on village wards containing abo
 
 ### Ceramics, metalwork & everyday objects
 
- They mention household utensils, cooking tools, agricultural tools such as bolos, trowels, and plows, and fish traps made from bamboo or rattan. Weapons include battleaxes called *pin-nang* or *pinangas*, knives, spears called *falfeg*, *fangkao*, or *sinalawitan*, and shields called *kalasag*.
+They mention household utensils, cooking tools, agricultural tools such as bolos, trowels, and plows, and fish traps made from bamboo or rattan. Weapons include battleaxes called *pin-nang* or *pinangas*, knives, spears called *falfeg*, *fangkao*, or *sinalawitan*, and shields called *kalasag*.
 
 ### Jewelry & body adornment
 
@@ -49,7 +49,7 @@ In earlier times, Bontoc men carried tobacco and matches when hunting wild deer 
 
 ## Oral tradition & literature
 
- They state that oral tradition tells how *Lumawig* taught the Bontoc their arts and skills, including irrigation of their land, and that oral tradition preserves five great lessons: a man must not steal; one should not gossip; men and women must not commit adultery; one must be temperate in eating and drinking alcoholic drinks; and all people must live simple and industrious lives.
+They state that oral tradition tells how *Lumawig* taught the Bontoc their arts and skills, including irrigation of their land, and that oral tradition preserves five great lessons: a man must not steal; one should not gossip; men and women must not commit adultery; one must be temperate in eating and drinking alcoholic drinks; and all people must live simple and industrious lives.
 
 ## Language & religion
 

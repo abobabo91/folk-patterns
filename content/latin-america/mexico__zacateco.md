@@ -17,11 +17,11 @@ Most Zacatecos were nomadic, although a few groups were essentially sedentary. B
 
 ### Architecture
 
- They state that some tribes had temples dedicated to worship in the southwestern part of the state of Zacatecas. At El Cerro del Sombrero, a hill in El Teul Gonzalez De Ortega, the source describes temples, ball courts, and ancient channels through which the tribe extracted fresh water from the hill.
+They state that some tribes had temples dedicated to worship in the southwestern part of the state of Zacatecas. At El Cerro del Sombrero, a hill in El Teul Gonzalez De Ortega, the source describes temples, ball courts, and ancient channels through which the tribe extracted fresh water from the hill.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention only leather-soled sandals, skin coverings, skin headbands, temples, ball courts, and ancient water channels.
+They mention only leather-soled sandals, skin coverings, skin headbands, temples, ball courts, and ancient water channels.
 
 ### Jewelry & body adornment
 
@@ -29,23 +29,23 @@ Zacatecos used body paint and tattoos to distinguish themselves from other tribe
 
 ## Music & performance
 
- A language record from 1940 concerns two travelling musicians from Peña Colorada, Zacatecas, but the source discusses their uncertain language vocabulary rather than their music.
+A language record from 1940 concerns two travelling musicians from Peña Colorada, Zacatecas, but the source discusses their uncertain language vocabulary rather than their music.
 
 ## Dance & theatre
 
- They mention ancient ball courts at El Cerro del Sombrero.
+They mention ancient ball courts at El Cerro del Sombrero.
 
 ## Festivals & rituals
 
- They state that some tribes had temples dedicated to some kind of worship in the southwestern part of the state of Zacatecas, including temples at El Cerro del Sombrero, but provide no detailed account of associated rituals.
+They state that some tribes had temples dedicated to some kind of worship in the southwestern part of the state of Zacatecas, including temples at El Cerro del Sombrero, but provide no detailed account of associated rituals.
 
 ## Foodways
 
- The account of Spanish conquest states that war, slavery, and famine contributed to a drastic decline in the Zacateco population.
+The account of Spanish conquest states that war, slavery, and famine contributed to a drastic decline in the Zacateco population.
 
 ## Oral tradition & literature
 
- The sources state that much of Zacateco culture, language, art, and traditions has become difficult to reconstruct. The only preservation effort described is Pedro Hendrichs’s 1940 recording of a short vocabulary from two travelling musicians who said they were from Peña Colorada, Zacatecas.
+The sources state that much of Zacateco culture, language, art, and traditions has become difficult to reconstruct. The only preservation effort described is Pedro Hendrichs’s 1940 recording of a short vocabulary from two travelling musicians who said they were from Peña Colorada, Zacatecas.
 
 ## Language & religion
 

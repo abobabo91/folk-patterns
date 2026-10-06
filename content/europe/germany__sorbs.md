@@ -21,7 +21,7 @@ The Sorbian House was built in Bautzen in 1904 and became the most important Sor
 
 ### Ceramics, metalwork & everyday objects
 
- They mention Leipzig group archaeological culture and Tornow group ceramics in connection with scholarly interpretations of the historical separation between Upper and Lower Sorbian territories, but provide no catalogue of objects or craft techniques.
+They mention Leipzig group archaeological culture and Tornow group ceramics in connection with scholarly interpretations of the historical separation between Upper and Lower Sorbian territories, but provide no catalogue of objects or craft techniques.
 
 ## Music & performance
 

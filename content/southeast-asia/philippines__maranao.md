@@ -35,7 +35,7 @@ Maranao *kulintang* music is a type of gong music. The sources also name *Saruna
 
 ## Festivals & rituals
 
- They state that dishes are intertwined with important cultural rituals across all aspects of Maranao culture, from birth to death, but provide no names or descriptions of those rituals.
+They state that dishes are intertwined with important cultural rituals across all aspects of Maranao culture, from birth to death, but provide no names or descriptions of those rituals.
 
 The sources describe Maranao society as traditionally divided into two strata: *mapiyatao*, meaning “pure,” and *kasilidan*, meaning “mixed blood.” *Kasilidan* is further divided into *sarowang*, “non-Maranao”; *balbal*, “beast”; *dagamot*, “Sorcerer/Sorceress”; and *bisaya*, “Slave.” The *mapiyatao* are described as natives entitled to ascend to thrones through a pure royal bloodline, while the *kasilidan* are described as natives suspected of mixed bloodline. These social strata are said to be declining because of improving economic conditions among most Maranao families.
 

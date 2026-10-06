@@ -11,7 +11,7 @@ Estonians, also called Estonian people, are a Finnic ethnic group native to the 
 
 ## Festivals & rituals
 
- The sources do record the Estonian national awakening during the 19th century and the first Estonian World Festival, held in Toronto in 1972. They also record World War II, the Soviet occupation of Estonia in 1944 and the nation’s regained independence in 1991, without providing associated folk rituals.
+The sources do record the Estonian national awakening during the 19th century and the first Estonian World Festival, held in Toronto in 1972. They also record World War II, the Soviet occupation of Estonia in 1944 and the nation’s regained independence in 1991, without providing associated folk rituals.
 
 ## Oral tradition & literature
 

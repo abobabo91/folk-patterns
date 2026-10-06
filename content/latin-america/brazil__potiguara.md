@@ -15,7 +15,7 @@ The sources state that the name Potiguara means “shrimp-eaters,” according t
 
 ## Oral tradition & literature
 
- The Old Tupi material states that the language has a rich literature including catechisms, poems and plays, and that José de Anchieta reportedly wrote more than 4,000 lines of poetry in tupinambá.
+The Old Tupi material states that the language has a rich literature including catechisms, poems and plays, and that José de Anchieta reportedly wrote more than 4,000 lines of poetry in tupinambá.
 
 ## Language & religion
 

@@ -13,7 +13,7 @@ The Kutenai, also known as the Ktunaxa, Ksanka, Kootenay, and Kootenai, are an I
 
 ### Clothing & dress
 
- They state that Kutenai traditional dress had more in common with Plains peoples than with Coastal Salish peoples.
+They state that Kutenai traditional dress had more in common with Plains peoples than with Coastal Salish peoples.
 
 ### Architecture
 

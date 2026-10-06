@@ -25,7 +25,7 @@ Cabbage, potatoes, and okra are grown behind the home. Young men and boys are ty
 
 ## Oral tradition & literature
 
- They state that the Tahamba dialect is used mainly for literature.
+They state that the Tahamba dialect is used mainly for literature.
 
 ## Language & religion
 

@@ -25,11 +25,11 @@ Antankarana homes are typically raised on stilts above ground level. Young men e
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe two-man canoes made from a single hollowed-out log, fishing nets and locally gathered wood and thatch used in house construction.
+They do describe two-man canoes made from a single hollowed-out log, fishing nets and locally gathered wood and thatch used in house construction.
 
 ## Music & performance
 
- They do record *tromba*, ancestral spirit possession practiced as a means of communicating with ancestors. The Antankarana believe that spirits of the dead often inhabit crocodiles, and royal ancestral spirits possessing *tromba* mediums are almost always of Sakalava ancestry.
+They do record *tromba*, ancestral spirit possession practiced as a means of communicating with ancestors. The Antankarana believe that spirits of the dead often inhabit crocodiles, and royal ancestral spirits possessing *tromba* mediums are almost always of Sakalava ancestry.
 
 Royal ceremonies include the recitation of *joro*, ancestral invocations through which the ancestors’ blessings are requested. The same ceremonies may include the traditional dance called *rabiky*. Large dance parties called *baly* are popular among Antankarana youth.
 

@@ -13,7 +13,7 @@ The Anyi, also known as Agni, Anyin, Aowin, and other names, are an Akan people 
 
 ### Clothing & dress
 
- They state that funerary ceremonies involve adornment of the deceased.
+They state that funerary ceremonies involve adornment of the deceased.
 
 ### Architecture
 
@@ -21,19 +21,15 @@ Anyi settlements are typically composed of dispersed extended-family compounds.
 
 ### Ceramics, metalwork & everyday objects
 
- They state that funerary art includes elaborate monuments displaying familial wealth, status, and reverence for the dead.
+They state that funerary art includes elaborate monuments displaying familial wealth, status, and reverence for the dead.
 
 ### Jewelry & body adornment
 
- The sources mention the adornment of the deceased during funeral ceremonies without describing the objects used.
+The sources mention the adornment of the deceased during funeral ceremonies without describing the objects used.
 
 ## Music & performance
 
- They state that Kômians are ritual specialists organized into secret societies and that they perform advisory, divinatory, and ceremonial functions. Through trance states, Kômians mediate between living people and spiritual forces to obtain guidance.
-
-## Dance & theatre
-
- They mention ceremonial functions among Kômians but provide no description of dance or theatre.
+They state that Kômians are ritual specialists organized into secret societies and that they perform advisory, divinatory, and ceremonial functions. Through trance states, Kômians mediate between living people and spiritual forces to obtain guidance.
 
 ## Festivals & rituals
 

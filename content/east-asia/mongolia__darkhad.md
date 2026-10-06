@@ -17,15 +17,15 @@ The historical account describes forest tribes living in yurts. It also states t
 
 ## Music & performance
 
- They do mention shamanic chants of the Khori Buryats, in which an ancestral spirit named Manjilkha is frequently mentioned, but this is presented in connection with the Maanjrag Darkhad clan rather than as a description of a Darkhad musical tradition. Many Darkhad practise Mongolian shamanism. The Khorlomai account also describes the shaman Noyon Böö, who defeated or overcame a group of marauders near the Tengis River. No instrument or musical performance is named.
+They do mention shamanic chants of the Khori Buryats, in which an ancestral spirit named Manjilkha is frequently mentioned, but this is presented in connection with the Maanjrag Darkhad clan rather than as a description of a Darkhad musical tradition. Many Darkhad practise Mongolian shamanism. The Khorlomai account also describes the shaman Noyon Böö, who defeated or overcame a group of marauders near the Tengis River. No instrument or musical performance is named.
 
 ## Festivals & rituals
 
- They do describe ancestral and spiritual practices: the Sharanuud Darkhad venerate ancestral spirits represented by the banners of Tsagaadai and Tsankhilkhan, and the Bööguud (“Shamans”) claim descent from a shaman ancestor. Many Darkhad practise Mongolian shamanism.
+They do describe ancestral and spiritual practices: the Sharanuud Darkhad venerate ancestral spirits represented by the banners of Tsagaadai and Tsankhilkhan, and the Bööguud (“Shamans”) claim descent from a shaman ancestor. Many Darkhad practise Mongolian shamanism.
 
 ## Foodways
 
- The historical material states that some forest tribes hunted in the taiga and herded reindeer, while more powerful tribes raised livestock, including the Oirat Mongols.
+The historical material states that some forest tribes hunted in the taiga and herded reindeer, while more powerful tribes raised livestock, including the Oirat Mongols.
 
 ## Oral tradition & literature
 

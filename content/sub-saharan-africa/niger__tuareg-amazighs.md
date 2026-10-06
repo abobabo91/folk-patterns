@@ -35,13 +35,13 @@ Tuareg artisanal castes have included singers, musicians, and storytellers who p
 
 ## Festivals & rituals
 
- They state that Tuareg religious ceremonies contain allusions to matrilineal spirits, fertility, menstruation, the earth, and ancestresses. They also describe a widespread “cult of the dead,” understood as a form of ancestor veneration, and note that elements of pre-Islamic cosmology and rituals continue within Tuareg culture and tradition.
+They state that Tuareg religious ceremonies contain allusions to matrilineal spirits, fertility, menstruation, the earth, and ancestresses. They also describe a widespread “cult of the dead,” understood as a form of ancestor veneration, and note that elements of pre-Islamic cosmology and rituals continue within Tuareg culture and tradition.
 
 Islamic festivals are mentioned in connection with the artisan castes: in Niger and Mali, artisan clients traditionally sacrificed animals during Islamic festivals.
 
 ## Foodways
 
- They state only that Tuareg caste groups differ in food and eating behaviors. One explanation attributed to a smith in Niger compares nobles to rice, smiths to millet, and slaves to corn.
+They state only that Tuareg caste groups differ in food and eating behaviors. One explanation attributed to a smith in Niger compares nobles to rice, smiths to millet, and slaves to corn.
 
 ## Oral tradition & literature
 

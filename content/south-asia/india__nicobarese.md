@@ -25,7 +25,7 @@ The Nicobarese make pottery and canoes.
 
 ## Festivals & rituals
 
- They describe religious practices associated with the traditional religion of the islands, which is animistic in nature. Followers believe in spirits, ghosts and the existence of the soul. After death, a person becomes a ghost when the soul leaves the body, and the ghosts of the Nicobarese are believed to be present throughout the islands. Spirits are held responsible for unfortunate occurrences, after which shamans are called upon to deal with bad spirits.
+They describe religious practices associated with the traditional religion of the islands, which is animistic in nature. Followers believe in spirits, ghosts and the existence of the soul. After death, a person becomes a ghost when the soul leaves the body, and the ghosts of the Nicobarese are believed to be present throughout the islands. Spirits are held responsible for unfortunate occurrences, after which shamans are called upon to deal with bad spirits.
 
 The sources also describe social and family arrangements. The Nicobarese are headed by a matriarchal chief. Men and women have approximately equal status; women can choose their husbands and, after marriage, can live with either partner’s parents.
 

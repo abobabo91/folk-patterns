@@ -25,11 +25,11 @@ Nenets housing is described as a conical yurt called *mya*.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention coins and religious figures among the objects placed on the sacred sleigh, and describe the reindeer sled as part of migration and religious practice.
+They mention coins and religious figures among the objects placed on the sacred sleigh, and describe the reindeer sled as part of migration and religious practice.
 
 ### Jewelry & body adornment
 
- Coins are mentioned as objects placed on the sacred sleigh, but not as personal adornment.
+Coins are mentioned as objects placed on the sacred sleigh, but not as personal adornment.
 
 ## Music & performance
 
@@ -45,7 +45,7 @@ Traditional Nenets music is described as using neither musical instruments nor d
 
 ## Festivals & rituals
 
- They do describe religious rituals within the context of migration. Nenets people placed sacred items such as bear skins, religious figures and coins on a holy sleigh. These objects were unpacked only during special occasions or religious rituals, including sacrifices, and only esteemed elders were permitted to unpack the sacred sleigh.
+They do describe religious rituals within the context of migration. Nenets people placed sacred items such as bear skins, religious figures and coins on a holy sleigh. These objects were unpacked only during special occasions or religious rituals, including sacrifices, and only esteemed elders were permitted to unpack the sacred sleigh.
 
 Nenets belief is described as shamanistic and animistic, with an emphasis on respect for the land and its resources. Nenets people also designate sacred spots where they make requests of the spirits for a successful migration. The sources state that these sacred spots can be marked by wooden pegs. No further information is supplied about birth, coming-of-age, wedding or funeral rites.
 

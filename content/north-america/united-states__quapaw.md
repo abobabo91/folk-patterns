@@ -23,7 +23,7 @@ No additional documented Quapaw textile or pattern traditions are covered by the
 
 ### Architecture
 
- They identify the Quapaw tribal museum, the Robert Whitebird Cultural Center, churches, casinos, and other institutions.
+They identify the Quapaw tribal museum, the Robert Whitebird Cultural Center, churches, casinos, and other institutions.
 
 ### Ceramics, metalwork & everyday objects
 

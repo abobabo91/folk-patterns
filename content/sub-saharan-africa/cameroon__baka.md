@@ -17,7 +17,7 @@ The Baka are an ethnic group of hunter-gatherers living in the Central African r
 
 ### Clothing & dress
 
- They do describe the appearance of the figure associated with the *Ejengi* ceremony: a creature covered from top to bottom in strips of russet-hued raffia. The description presents this as ceremonial material rather than ordinary dress. The sources also mention a historical reference to “dwarfish people” wearing clothing made from the palm tree, but this passage concerns historical references to “pygmy” peoples generally and does not document a Baka clothing tradition. No source describes gender-specific daily dress or a separate Baka costume tradition in sufficient detail.
+They do describe the appearance of the figure associated with the *Ejengi* ceremony: a creature covered from top to bottom in strips of russet-hued raffia. The description presents this as ceremonial material rather than ordinary dress. The sources also mention a historical reference to “dwarfish people” wearing clothing made from the palm tree, but this passage concerns historical references to “pygmy” peoples generally and does not document a Baka clothing tradition. No source describes gender-specific daily dress or a separate Baka costume tradition in sufficient detail.
 
 ### Architecture
 
@@ -25,11 +25,11 @@ Baka groups establish temporary camps containing huts made from bowed branches c
 
 ### Ceramics, metalwork & everyday objects
 
- They do record that anthropologist Shiho Hattori documented about 100 instruments and utensils used daily for cooking, hunting and gathering, rituals, and related activities. Of these, 40 were made partly or entirely from natural resources found in the forest. Hunting tools include poisoned arrows and spears, while fishing equipment includes fishing rods. The Baka also use plant material to make fishing chemicals and use dogs during hunting excursions.
+They do record that anthropologist Shiho Hattori documented about 100 instruments and utensils used daily for cooking, hunting and gathering, rituals, and related activities. Of these, 40 were made partly or entirely from natural resources found in the forest. Hunting tools include poisoned arrows and spears, while fishing equipment includes fishing rods. The Baka also use plant material to make fishing chemicals and use dogs during hunting excursions.
 
 ### Jewelry & body adornment
 
- The only detailed visual description concerns the raffia-covered figure appearing in accounts of *Ejengi*, which is a ritual manifestation rather than a jewelry tradition.
+The only detailed visual description concerns the raffia-covered figure appearing in accounts of *Ejengi*, which is a ritual manifestation rather than a jewelry tradition.
 
 ## Music & performance
 
@@ -49,7 +49,7 @@ After a successful hunt, the Baka perform songs of thanksgiving and dance in a r
 
 ## Festivals & rituals
 
- They do, however, describe rituals connected with hunting, initiation, healing, death, and the forest spirit *Jengi*, also known as *Djengui* or *Ejengi*.
+They do, however, describe rituals connected with hunting, initiation, healing, death, and the forest spirit *Jengi*, also known as *Djengui* or *Ejengi*.
 
 After a successful hunt, the Baka perform *Luma*, a thanksgiving ritual involving songs and dancing. *Jengi* is believed to appear when harmony reigns among villagers. The spirit is also central to an initiation ceremony called *Jengi*, in which a young man passes from boyhood to manhood. Young Baka men volunteer to be initiated; after initiation, they have the right to live and walk freely within the sacred forest.
 

@@ -33,7 +33,7 @@ The sources mention community dances as occasions at which drums and *sansa* wer
 
 ## Festivals & rituals
 
- They do describe marriages and community dances as occasions for musical performance. Traditional religious practice involved belief in Mbori, an omnipotent god, together with magic, oracles, and witchcraft. The Azande used several kinds of oracle for different purposes. The *benge* poison oracle was regarded as the most powerful, was used solely by men, and was treated as an important legal authority. The termite oracle could be consulted by women, men, and children, while the rubbing-board oracle was less expensive but less reliable.
+They do describe marriages and community dances as occasions for musical performance. Traditional religious practice involved belief in Mbori, an omnipotent god, together with magic, oracles, and witchcraft. The Azande used several kinds of oracle for different purposes. The *benge* poison oracle was regarded as the most powerful, was used solely by men, and was treated as an important legal authority. The termite oracle could be consulted by women, men, and children, while the rubbing-board oracle was less expensive but less reliable.
 
 Witchcraft, called *mangu*, was understood as an inherited black fluid in the belly. Protection from and cancellation of witchcraft involved rituals that could be performed almost daily. When an unfortunate or unusual event occurred, it could be attributed to witchcraft.
 

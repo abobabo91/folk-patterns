@@ -19,7 +19,7 @@ The Frisians are an ethnic group indigenous to Northwestern Europe, living along
 
 ### Clothing & dress
 
- They record that Frisian traders and craftsmen settled in Ribe and that Frisian farmers lived around Tøndermarsken west of Tønder.
+They record that Frisian traders and craftsmen settled in Ribe and that Frisian farmers lived around Tøndermarsken west of Tønder.
 
 ### Architecture
 
@@ -27,27 +27,27 @@ The sources describe several forms of Frisian settlement and building. In the no
 
 ### Ceramics, metalwork & everyday objects
 
-The sources mention pottery fabrics, pottery styles and local potters in connection with the fifth-century settlement phase in the coastal regions associated with the Frisians. They also mention dwelling mounds, or *værfter*, and the old tradition of exploiting peatlands. No Frisian forms of metalwork, wooden objects, tools or household goods are described in the supplied sources.
+The sources mention pottery fabrics, pottery styles and local potters in connection with the fifth-century settlement phase in the coastal regions associated with the Frisians. They also mention dwelling mounds, or *værfter*, and the old tradition of exploiting peatlands.
 
 ## Music & performance
 
- They mention heroic and literary material rather than a described musical tradition. The source refers to *Beowulf* and related heroic material, in which Finn is a Frisian ruler in the Finnsburg episode.
+They mention heroic and literary material rather than a described musical tradition. The source refers to *Beowulf* and related heroic material, in which Finn is a Frisian ruler in the Finnsburg episode.
 
 The sources also mention the poem of Venantius Fortunatus for the Merovingian king Chilperic I. Around 580, Fortunatus named the Frisians as *Fresonibus*, with *Frisonibus* as a variant reading, in a poetic list of peoples subject to Frankish power. This is literary evidence about the name of the Frisians rather than a documented Frisian musical form.
 
 ## Dance & theatre
 
- They mention *Beowulf* and related heroic material, but no dance or theatrical context is described.
+They mention *Beowulf* and related heroic material, but no dance or theatrical context is described.
 
 ## Festivals & rituals
 
- They do document major religious and political changes. In the early eighth century, Frisians outside the vicinity of Utrecht still mostly worshipped Germanic gods such as Thor and Odin. Missionary activity by Willibrord and Boniface continued during the eighth century, while Boniface’s death near Dokkum in 754 showed that the northern Frisian regions were not yet fully under Frankish Christian control.
+They do document major religious and political changes. In the early eighth century, Frisians outside the vicinity of Utrecht still mostly worshipped Germanic gods such as Thor and Odin. Missionary activity by Willibrord and Boniface continued during the eighth century, while Boniface’s death near Dokkum in 754 showed that the northern Frisian regions were not yet fully under Frankish Christian control.
 
 The sources describe the Frisian territories as a frontier zone where Christian mission and Frankish rule met local resistance. The Frankish Empire eventually subjugated Frisia in 734, and attempts by Anglo-Irish missionaries to convert the Frisian populace continued. No specific Frisian ritual calendar is supplied.
 
 ## Foodways
 
- They do record cattle-breeding as one feature of seventh- and eighth-century Frisia and mention an old regional tradition of peatland exploitation.
+They do record cattle-breeding as one feature of seventh- and eighth-century Frisia and mention an old regional tradition of peatland exploitation.
 
 ## Oral tradition & literature
 

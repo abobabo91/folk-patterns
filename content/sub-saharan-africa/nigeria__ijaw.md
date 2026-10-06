@@ -17,15 +17,15 @@ The Izon people, also known as the Ijaw people, are an ethnic group found mainly
 
 ### Clothing & dress
 
- They do describe ceremonial masquerades connected with celebrations honoring water spirits. Men wear elaborate outfits and carved masks while dancing to the beat of drums. Particularly spectacular masqueraders are understood to be possessed by the particular spirits on whose behalf they dance.
+They do describe ceremonial masquerades connected with celebrations honoring water spirits. Men wear elaborate outfits and carved masks while dancing to the beat of drums. Particularly spectacular masqueraders are understood to be possessed by the particular spirits on whose behalf they dance.
 
 ## Architecture
 
- They mention villages and communities, including Opia and Ikiyan, but provide no architectural description.
+They mention villages and communities, including Opia and Ikiyan, but provide no architectural description.
 
 ## Ceramics, metalwork & everyday objects
 
- They do, however, identify several objects connected with traditional occupations and maritime life. Kin-based trading lineages developed into corporations known as “houses,” each with an elected leader and a fleet of war canoes used to protect trade and fight rivals. The sources also mention wooden boats and canoes, fishing equipment, timber, and palm kernels. No named ceramic, metal, woodworking, or household forms are recorded.
+They do, however, identify several objects connected with traditional occupations and maritime life. Kin-based trading lineages developed into corporations known as “houses,” each with an elected leader and a fleet of war canoes used to protect trade and fight rivals. The sources also mention wooden boats and canoes, fishing equipment, timber, and palm kernels. No named ceramic, metal, woodworking, or household forms are recorded.
 
 ## Music & performance
 
@@ -59,7 +59,7 @@ Other recorded foods are *Kiri-igina*, prepared without cooking on fire with Ogb
 
 ## Oral tradition & literature
 
- They do record a scholarly bibliography concerning Ijọ proverbs and a lexicostatistic classification of Ijọ dialects. The language article also notes translations of poetry and *The Call of the River Nun* by Gabriel Okara.
+They do record a scholarly bibliography concerning Ijọ proverbs and a lexicostatistic classification of Ijọ dialects. The language article also notes translations of poetry and *The Call of the River Nun* by Gabriel Okara.
 
 Gabriel Okara is identified as a poet and novelist, while J.P. Clark is identified as a poet and playwright. The Izon Fie instructional book and audio CDs were launched in June 2013 at a ceremony attended by officials of the government of Bayelsa State. The Niger Delta University was working to expand the range of books available in the Ijo language.
 

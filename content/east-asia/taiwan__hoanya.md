@@ -1,0 +1,19 @@
+---
+title: "Hoanya"
+subtitle: "Taiwan"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Hoanya are a Taiwanese Aboriginal people who live primarily in Changhua County, Chiayi City, Nantou County, and near Tainan City. The Lloa people and Arikun people are generally considered to be part of the Hoanya people. Their language, Hoanya, is now extinct. The name Hoanya is also written in Chinese as 洪雅族 and in pinyin as Hóngyǎzú. The available sources identify the Hoanya through their presence in Taiwan, their historical language, and their relationship to the Lloa and Arikun peoples.
+
+## Language & religion
+
+Hoanya is described as an extinct language. Papora–Hoanya, also known as *Bupuran*, *Hinapavosa*, *Papola*, *Papora–Hoanya*, *Hoanya* and *Vupuran*, is described as an extinct Formosan language of Taiwan. It consisted of the Papora and Hoanya dialects, which were spoken across the middle western side of the island, ranging from Dajia to Dadu and inland to Taichung. The earliest report of its extinction was from 2009. Papora–Hoanya contained the consonant phonemes p, t, k, θ, s, b, d, l, m, and n, among others, but lacked q and h.
+
+## Sources & further reading
+
+- [Hoanya people — Wikipedia](https://en.wikipedia.org/wiki/Hoanya_people)
+- [Hoanya language — Wikipedia](https://en.wikipedia.org/wiki/Hoanya_language)

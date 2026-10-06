@@ -17,15 +17,15 @@ The sources describe Nahua urbanism and monumental architecture in the pre-Colum
 
 ### Ceramics, metalwork & everyday objects
 
- They mention monumental architecture and agricultural practices in general historical accounts.
+They mention monumental architecture and agricultural practices in general historical accounts.
 
 ## Music & performance
 
- They do identify *Cantares Mexicanos* as a collection of songs in Nahuatl and mention theatrical works among the kinds of literature composed in Classical Nahuatl during the colonial period. No instruments, performance contexts, or musical techniques are specified.
+They do identify *Cantares Mexicanos* as a collection of songs in Nahuatl and mention theatrical works among the kinds of literature composed in Classical Nahuatl during the colonial period. No instruments, performance contexts, or musical techniques are specified.
 
 ## Dance & theatre
 
- Colonial-period Nahuatl literature is described as including theatrical works.
+Colonial-period Nahuatl literature is described as including theatrical works.
 
 ## Festivals & rituals
 

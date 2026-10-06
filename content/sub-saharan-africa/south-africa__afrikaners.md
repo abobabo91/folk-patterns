@@ -19,15 +19,15 @@ The sources also describe the farms of the *vrijburgers* or *vrijlieden*, former
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention farm equipment, tools and seeds supplied on credit to Dutch families and other settlers, and tools loaned to successful applicants for *vrijburger* status.
+They do mention farm equipment, tools and seeds supplied on credit to Dutch families and other settlers, and tools loaned to successful applicants for *vrijburger* status.
 
 ## Music & performance
 
- They do record that Dutch was used for education, administrative records and religious services in the Cape, and that the almost universal adoption of Dutch contributed to cultural assimilation among Dutch, French Huguenot and German settlers.
+They do record that Dutch was used for education, administrative records and religious services in the Cape, and that the almost universal adoption of Dutch contributed to cultural assimilation among Dutch, French Huguenot and German settlers.
 
 ## Festivals & rituals
 
- They do document religious and political circumstances that shaped Afrikaner history. French Huguenots arrived after persecution associated with the Edict of Fontainebleau, and the Dutch East India Company sponsored the resettlement of over 100 Huguenots at the Cape in April 1688. Smaller numbers arrived during the following decade, and by 1702 the community numbered close to 200.
+They do document religious and political circumstances that shaped Afrikaner history. French Huguenots arrived after persecution associated with the Edict of Fontainebleau, and the Dutch East India Company sponsored the resettlement of over 100 Huguenots at the Cape in April 1688. Smaller numbers arrived during the following decade, and by 1702 the community numbered close to 200.
 
 The sources also describe the political history of Afrikaner nationalism. In 1914, the National Party was founded to promote Afrikaner interests. After winning the 1948 general election, it implemented apartheid and declared South Africa a republic in 1961. South Africa held its first non-racial elections under a universal franchise in 1994. The National Party was then ousted from power and eventually dissolved in 2005.
 
@@ -35,11 +35,11 @@ The sources also describe the political history of Afrikaner nationalism. In 191
 
 The sources describe food production and provisioning at the Cape. The Dutch East India Company established a victualling station at the Cape in 1652 because ships travelling between Europe and East Asia needed water and provisions. Jan van Riebeeck’s immediate tasks included establishing gardens and surveying pastureland for cattle. Dutch ships usually anchored at the Cape for a month, from March or April, to obtain water and provisions before completing their return voyage to the Netherlands.
 
-The *vrijburgers* cultivated grain under Company regulation. Their harvest was to be sold exclusively to the VOC at fixed prices, and they were forbidden from growing tobacco or producing vegetables except for personal consumption. The sources also mention cattle, sheep, vegetables, fruit, vineyards and olive groves. Early gardens were sometimes destroyed by storms, while cattle were lost in raids by the Khoikhoi. The VOC later imported slaves from Angola, Madagascar and the East Indies to address an unskilled labour shortage. No specific Afrikaner dish, beverage tradition or dietary rule is documented in the sources used.
+The *vrijburgers* cultivated grain under Company regulation. Their harvest was to be sold exclusively to the VOC at fixed prices, and they were forbidden from growing tobacco or producing vegetables except for personal consumption. The sources also mention cattle, sheep, vegetables, fruit, vineyards and olive groves. Early gardens were sometimes destroyed by storms, while cattle were lost in raids by the Khoikhoi. The VOC later imported slaves from Angola, Madagascar and the East Indies to address an unskilled labour shortage.
 
 ## Oral tradition & literature
 
- They do record the earliest cited written use of the term “Afrikaner.” In March 1707, during a disturbance in Stellenbosch, a young white man named Hendrik Biebouw declared, “Ik wil niet loopen, ik ben een Afrikaander,” after Johannes Starrenburg ordered the crowd to desist. Biebouw was flogged and later banished to Batavia, identified in the source as present-day Jakarta, Indonesia.
+They do record the earliest cited written use of the term “Afrikaner.” In March 1707, during a disturbance in Stellenbosch, a young white man named Hendrik Biebouw declared, “Ik wil niet loopen, ik ben een Afrikaander,” after Johannes Starrenburg ordered the crowd to desist. Biebouw was flogged and later banished to Batavia, identified in the source as present-day Jakarta, Indonesia.
 
 The sources explain that the term “Afrikaner” originally described mixed-race nomadic people in Southern Africa and that the Oorlam people under Oude Ram Afrikaner and Jager Afrikaner continued to use Afrikaner as a surname and subgroup designation. By the late nineteenth century, the term was common in the Boer republics and the Cape Colony. “Boer” and “burgher” were also used historically for white Afrikaans-speakers, although “Afrikaner” came to be regarded as the more appropriate term.
 

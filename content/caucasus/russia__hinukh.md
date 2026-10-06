@@ -11,7 +11,7 @@ The Hinukh (Hinukh: *гьинухъес hinuqes*; Avar: *гьинухъесел*
 
 ## Music & performance
 
- The available material does record that Hinukh language preservation is connected with ethnographic and folkloristic work: Aleksandr Serzhputovkiy provided a list of 16 Hinukh words with their Tsez counterparts in a work about the Tsez people in 1916.
+The available material does record that Hinukh language preservation is connected with ethnographic and folkloristic work: Aleksandr Serzhputovkiy provided a list of 16 Hinukh words with their Tsez counterparts in a work about the Tsez people in 1916.
 
 ## Festivals & rituals
 
@@ -19,7 +19,7 @@ The Hinukh are overwhelmingly Sunni Muslims. They converted to Islam possibly in
 
 ## Foodways
 
- They state only that the Hinukh are overwhelmingly Sunni Muslims, without describing how religion shapes foodways.
+They state only that the Hinukh are overwhelmingly Sunni Muslims, without describing how religion shapes foodways.
 
 ## Oral tradition & literature
 

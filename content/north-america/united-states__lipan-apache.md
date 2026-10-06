@@ -13,31 +13,31 @@ The Lipan Apache are an eastern band of Apache, a Southern Athabaskan Indigenous
 
 ### Clothing & dress
 
- They state that Lipan Apache adopted a nomadic lifestyle after obtaining horses from the Spanish by 1608, and that some Lipan Apache near the Gulf Coast adopted lifeways of the neighboring Karankawa in the 1860s.
+They state that Lipan Apache adopted a nomadic lifestyle after obtaining horses from the Spanish by 1608, and that some Lipan Apache near the Gulf Coast adopted lifeways of the neighboring Karankawa in the 1860s.
 
 ### Architecture
 
- They state that Lipan Apache lived in agricultural settlements by 1700 and that Spanish colonists built forts and missions near Lipan settlements, including a mission on the San Sabá River completed in 1757.
+They state that Lipan Apache lived in agricultural settlements by 1700 and that Spanish colonists built forts and missions near Lipan settlements, including a mission on the San Sabá River completed in 1757.
 
 ### Ceramics, metalwork & everyday objects
 
- The sources do record agricultural settlements in which Lipan Apache farmed pumpkins, corn, beans, and watermelons, and they describe horses as important after their adoption from the Spanish by 1608.
+The sources do record agricultural settlements in which Lipan Apache farmed pumpkins, corn, beans, and watermelons, and they describe horses as important after their adoption from the Spanish by 1608.
 
 ### Jewelry & body adornment
 
- The Spanish name *Pelones* is explained in the sources as probably referring to a Lipan custom of plucking facial hair.
+The Spanish name *Pelones* is explained in the sources as probably referring to a Lipan custom of plucking facial hair.
 
 ## Music & performance
 
- They do document sacred and narrative expressive traditions. Pictographs at Paint Rock, Texas, depict Lipan stories of emergence, sacred ceremonies, monsters, and mythic heroes. The sources also describe the peyote ceremony as a tradition taught to the Tonkawa by Jumano and Lipan, and subsequently shared with the Comanches, Mescalero Apaches, and Plains Apaches.
+They do document sacred and narrative expressive traditions. Pictographs at Paint Rock, Texas, depict Lipan stories of emergence, sacred ceremonies, monsters, and mythic heroes. The sources also describe the peyote ceremony as a tradition taught to the Tonkawa by Jumano and Lipan, and subsequently shared with the Comanches, Mescalero Apaches, and Plains Apaches.
 
 ## Dance & theatre
 
- They mention sacred ceremonies in the pictographs at Paint Rock, Texas.
+They mention sacred ceremonies in the pictographs at Paint Rock, Texas.
 
 ## Festivals & rituals
 
- They document the peyote ceremony as a significant religious practice associated with Lipan Apache history. Jumano and Lipan taught the ceremony to the Tonkawa, who in turn shared it with the Comanches, Mescalero Apaches, and Plains Apaches. The sources also state that pictographs at Paint Rock, Texas, depict sacred ceremonies, stories of emergence, monsters, and mythic heroes. No dates or detailed ritual sequences are provided for these ceremonies.
+They document the peyote ceremony as a significant religious practice associated with Lipan Apache history. Jumano and Lipan taught the ceremony to the Tonkawa, who in turn shared it with the Comanches, Mescalero Apaches, and Plains Apaches. The sources also state that pictographs at Paint Rock, Texas, depict sacred ceremonies, stories of emergence, monsters, and mythic heroes. No dates or detailed ritual sequences are provided for these ceremonies.
 
 ## Foodways
 

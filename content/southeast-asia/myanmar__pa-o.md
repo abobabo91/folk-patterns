@@ -21,11 +21,11 @@ The Pa'O people of upper Myanmar commonly wear black or navy blue. Men’s tradi
 
 ### Ceramics, metalwork & everyday objects
 
- They mention knives, hoes, long choppers, cane sling baskets, bamboo sling baskets, bamboo stands, and rockets. Rockets used in the *pwe lu-phaing* are currently made from iron and were originally made from bamboo.
+They mention knives, hoes, long choppers, cane sling baskets, bamboo sling baskets, bamboo stands, and rockets. Rockets used in the *pwe lu-phaing* are currently made from iron and were originally made from bamboo.
 
 ### Jewelry & body adornment
 
- The Pa'O flag badge is worn by both men and women on the jacket.
+The Pa'O flag badge is worn by both men and women on the jacket.
 
 ## Music & performance
 
@@ -33,7 +33,7 @@ Khun Thar Doon (1940–1978) was one of the early recording stars of Pa'O music 
 
 ## Dance & theatre
 
- They mention a grand parade through Taunggyi during Pa'O National Day, followed by a festival.
+They mention a grand parade through Taunggyi during Pa'O National Day, followed by a festival.
 
 ## Festivals & rituals
 

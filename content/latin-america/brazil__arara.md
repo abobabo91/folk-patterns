@@ -11,19 +11,19 @@ The Arara are an Indigenous people of Brazil native to the state of Rondônia. T
 
 ## Music & performance
 
- The separate article on Arará religion concerns an African diasporic religion that developed in Cuba and should not be attributed to the Indigenous Arara of Rondônia. That article names ritual drums called *caja*, *mula*, and *cachimbo*, as well as an iron bell and a metal rattle, but its subject is Arará religious practice in Cuba rather than the Arara people described in the overview.
+The separate article on Arará religion concerns an African diasporic religion that developed in Cuba and should not be attributed to the Indigenous Arara of Rondônia. That article names ritual drums called *caja*, *mula*, and *cachimbo*, as well as an iron bell and a metal rattle, but its subject is Arará religious practice in Cuba rather than the Arara people described in the overview.
 
 ## Dance & theatre
 
- The separate source on Arará religion states that practitioners in Cuba continued to use unique ceremonial dances, but it concerns a different African diasporic religious tradition and does not provide evidence about the Indigenous Arara of Brazil.
+The separate source on Arará religion states that practitioners in Cuba continued to use unique ceremonial dances, but it concerns a different African diasporic religious tradition and does not provide evidence about the Indigenous Arara of Brazil.
 
 ## Festivals & rituals
 
- The Rondônia article states that the New Tribes Mission formally converted most Arara to the Baptist faith, although the community largely retained its traditional beliefs; it gives no further description of those beliefs or their ritual practices.
+The Rondônia article states that the New Tribes Mission formally converted most Arara to the Baptist faith, although the community largely retained its traditional beliefs; it gives no further description of those beliefs or their ritual practices.
 
 ## Language & religion
 
- The Rondônia article states that the New Tribes Mission formally converted most Arara to the Baptist faith, while the community largely retained its traditional beliefs. The article titled “Arara religion” concerns *Arará*, an African diasporic religion that developed in Cuba during the late 19th century, with origins among people descended from the Dahomey kingdom of West Africa; it is therefore not evidence about the religious system of the Indigenous Arara of Rondônia.
+The Rondônia article states that the New Tribes Mission formally converted most Arara to the Baptist faith, while the community largely retained its traditional beliefs. The article titled “Arara religion” concerns *Arará*, an African diasporic religion that developed in Cuba during the late 19th century, with origins among people descended from the Dahomey kingdom of West Africa; it is therefore not evidence about the religious system of the Indigenous Arara of Rondônia.
 
 ## Sources & further reading
 

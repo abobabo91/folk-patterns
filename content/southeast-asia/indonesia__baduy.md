@@ -27,15 +27,15 @@ The sources describe Kanekes houses as being built without changing the contour 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention a mortar container at the Arca Domas complex, where rainwater is stored, and sharpened bamboo used instead of plows in agriculture. Modern tools are prohibited in Inner Baduy life, while Kanekes Luar construction may use saws, hammers, and nails. Gold and silver are not accepted under the Baduy taboo system, and touching money is forbidden in the stricter customary rules.
+They mention a mortar container at the Arca Domas complex, where rainwater is stored, and sharpened bamboo used instead of plows in agriculture. Modern tools are prohibited in Inner Baduy life, while Kanekes Luar construction may use saws, hammers, and nails. Gold and silver are not accepted under the Baduy taboo system, and touching money is forbidden in the stricter customary rules.
 
 ### Jewelry & body adornment
 
- They state that Inner Baduy people wear a white headband and that the Baduy are forbidden to wear flowers or perfumes and to cut their hair.
+They state that Inner Baduy people wear a white headband and that the Baduy are forbidden to wear flowers or perfumes and to cut their hair.
 
 ## Music & performance
 
- They state that Inner Baduy customary religious beliefs and ancestral folk tales are preserved through oral tradition because Inner Baduy people are mostly illiterate. The sources also mention specific chants used to ward off malevolent spirits associated with the name Pajajaran. No information is supplied about musical performance at weddings, funerals, festivals, courts, or other gatherings.
+They state that Inner Baduy customary religious beliefs and ancestral folk tales are preserved through oral tradition because Inner Baduy people are mostly illiterate. The sources also mention specific chants used to ward off malevolent spirits associated with the name Pajajaran. No information is supplied about musical performance at weddings, funerals, festivals, courts, or other gatherings.
 
 ## Festivals & rituals
 

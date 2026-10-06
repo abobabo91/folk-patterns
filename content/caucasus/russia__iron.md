@@ -11,7 +11,7 @@ The Irons are a subgroup of the Ossetians who speak the Iron dialect of the East
 
 ## Oral tradition & literature
 
- They state that, in the late Soviet period and later in the 1990s, Ossetian intellectuals began to reclaim their Alanian heritage in an attempt to unite Ossetian subgroups divided by dialect and religion.
+They state that, in the late Soviet period and later in the 1990s, Ossetian intellectuals began to reclaim their Alanian heritage in an attempt to unite Ossetian subgroups divided by dialect and religion.
 
 ## Language & religion
 

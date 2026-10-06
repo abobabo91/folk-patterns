@@ -13,11 +13,11 @@ The Karapapakhs, also called Terekeme, are a Turkic tribe whose original languag
 
 ### Clothing & dress
 
- The name Karapapakh is explained linguistically as “black hat,”.
+The name Karapapakh is explained linguistically as “black hat,”.
 
 ### Architecture
 
- They do, however, identify historical settlement areas, including villages in Kars Oblast and communities along the Debed river.
+They do, however, identify historical settlement areas, including villages in Kars Oblast and communities along the Debed river.
 
 ## Music & performance
 
@@ -29,11 +29,11 @@ The religious information that is available identifies the Karapapakhs as tradit
 
 ## Foodways
 
- The only economic information relevant to subsistence is that the Karapapakhs were traditionally involved in sheep-rearing and a bit of agriculture.
+The only economic information relevant to subsistence is that the Karapapakhs were traditionally involved in sheep-rearing and a bit of agriculture.
 
 ## Oral tradition & literature
 
- No contemporary literary revival or preservation project is described.
+No contemporary literary revival or preservation project is described.
 
 The sources do record several historical descriptions of the group. George Bournoutian referred to the Karapapakhs as “Turkicized Kazakhs (Qazzaqs),” while other cited works describe them as a small ethnic group and a Turkmen tribe. These classifications belong to historical and ethnographic writing rather than to a documented Karapapakh oral-literary tradition.
 

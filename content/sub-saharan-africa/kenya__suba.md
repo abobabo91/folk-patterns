@@ -17,19 +17,19 @@ The Suba, also known as the Abasuba, are an ethnic group native to eastern Lake 
 
 ### Clothing & dress
 
- The sources do, however, identify male circumcision ceremonies as a maintained Suba cultural institution, without describing the clothing or bodily presentation associated with those ceremonies.
+The sources do, however, identify male circumcision ceremonies as a maintained Suba cultural institution, without describing the clothing or bodily presentation associated with those ceremonies.
 
 ### Architecture
 
- They identify settlements along the eastern shores and islands of Lake Victoria, including Rusinga and Mfangano, as well as Mbita, Suna, and Gwassi, but provide no architectural details about them.
+They identify settlements along the eastern shores and islands of Lake Victoria, including Rusinga and Mfangano, as well as Mbita, Suna, and Gwassi, but provide no architectural details about them.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention archaeological rock art traditions and sacred rainmaking shrines.
+They mention archaeological rock art traditions and sacred rainmaking shrines.
 
 ### Jewelry & body adornment
 
- Male circumcision ceremonies are identified as a Suba cultural institution.
+Male circumcision ceremonies are identified as a Suba cultural institution.
 
 ## Music & performance
 
@@ -37,7 +37,7 @@ The sources do identify the annual Rusinga Cultural Festival as part of the comm
 
 ## Dance & theatre
 
- The Rusinga Cultural Festival is identified as an annual cultural event.
+The Rusinga Cultural Festival is identified as an annual cultural event.
 
 ## Festivals & rituals
 
@@ -47,7 +47,7 @@ The sources identify male circumcision ceremonies as a distinct Suba cultural in
 
 ## Oral tradition & literature
 
- They do, however, describe a substantial linguistic and literary revival. The Suba Language Project was founded by linguist Duncan Okoth Okombo, and the community has supported the publication of an Olusuba Bible and educational curricula.
+They do, however, describe a substantial linguistic and literary revival. The Suba Language Project was founded by linguist Duncan Okoth Okombo, and the community has supported the publication of an Olusuba Bible and educational curricula.
 
 The sources give two accounts of biblical translation. One states that efforts to translate the Bible into Suba began as early as 1988 and that the translation was completed in 2011. The Suba language article states that the New Testament was translated into Suba in 2010. The sources also mention *Tujifunze Lugha yetu*, a book written in Abasuba and translated into Kiswahili by Otieno Apiyo Caspar-Nursing.
 

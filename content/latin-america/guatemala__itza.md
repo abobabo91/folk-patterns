@@ -13,23 +13,23 @@ The Itza are a Maya ethnic group descended from the Chanes of the Chontal region
 
 ### Clothing & dress
 
- They state that the use and teaching of traditional clothing were banned in the department of Petén during the 1930s as part of government policies of cultural assimilation.
+They state that the use and teaching of traditional clothing were banned in the department of Petén during the 1930s as part of government policies of cultural assimilation.
 
 ### Architecture
 
- They identify Nojpetén as the Itza capital in the Petén Basin and state that *Noj peten* means “great island” in Itza’.
+They identify Nojpetén as the Itza capital in the Petén Basin and state that *Noj peten* means “great island” in Itza’.
 
 ## Music & performance
 
- They state that Itza discourse makes heavy use of repetition and linguistic parallelism, and that common and mythological discourse often employs framing particles.
+They state that Itza discourse makes heavy use of repetition and linguistic parallelism, and that common and mythological discourse often employs framing particles.
 
 ## Festivals & rituals
 
- They do record several historical ritual references. Hunac Ceel was captured and was to be sacrificed by being thrown into the cenote of Chichén Itzá, but survived the attempted sacrifice and related a prophecy of the rain god Chac. In 1523, Hernán Cortés visited Nojpetén and celebrated mass with the Kan Ek’ of the Itza’. Spanish priests peacefully visited and preached to the last Itza king as late as 1696. On March 13, 1697, the Itza kingdom submitted to Spanish rule under a force led by Martín de Ursua, governor of Yucatán.
+They do record several historical ritual references. Hunac Ceel was captured and was to be sacrificed by being thrown into the cenote of Chichén Itzá, but survived the attempted sacrifice and related a prophecy of the rain god Chac. In 1523, Hernán Cortés visited Nojpetén and celebrated mass with the Kan Ek’ of the Itza’. Spanish priests peacefully visited and preached to the last Itza king as late as 1696. On March 13, 1697, the Itza kingdom submitted to Spanish rule under a force led by Martín de Ursua, governor of Yucatán.
 
 ## Foodways
 
- They state that Itza agro-forestry practices include the use of dietary and medicinal plants. The language has a rich vocabulary for crops and animals and encodes information about different varietals and individual members of species. Agricultural terms have remained virtually uninfluenced by contact with Spanish, providing insight into commonplace vocabulary from pre-contact Itza.
+They state that Itza agro-forestry practices include the use of dietary and medicinal plants. The language has a rich vocabulary for crops and animals and encodes information about different varietals and individual members of species. Agricultural terms have remained virtually uninfluenced by contact with Spanish, providing insight into commonplace vocabulary from pre-contact Itza.
 
 ## Oral tradition & literature
 

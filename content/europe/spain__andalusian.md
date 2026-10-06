@@ -21,7 +21,7 @@ Hispano-Moorish architectural styles are described as largely Andalusian in orig
 
 ### Ceramics, metalwork & everyday objects
 
- Andalusian music history does, however, name instruments associated with historical transmission through Andalusia, including the rebec, guitar, naker, adufe, alboka, anafil, exabeba, atabal, atambal, balaban, sonajas de azófar, xelami, shawm, dulzaina, gaita, rackett, geige, and theorbo.
+Andalusian music history does, however, name instruments associated with historical transmission through Andalusia, including the rebec, guitar, naker, adufe, alboka, anafil, exabeba, atabal, atambal, balaban, sonajas de azófar, xelami, shawm, dulzaina, gaita, rackett, geige, and theorbo.
 
 ## Music & performance
 

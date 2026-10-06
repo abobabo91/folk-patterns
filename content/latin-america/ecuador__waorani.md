@@ -13,21 +13,21 @@ The Waorani, also known as Waodani, Huaorani, or Waos, are an Indigenous people 
 
 ### Architecture
 
- They state that the Waorani have shifted from a hunting and gathering society toward life in permanent forest settlements.
+They state that the Waorani have shifted from a hunting and gathering society toward life in permanent forest settlements.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe several objects connected with hunting: blowguns generally measuring 3 to 4 meters, darts or arrows dipped in curare poison, kapok fluff used to make an airtight seal, spears, and rifles introduced through Western technology in the 20th century. Peach palm is used for making spears and blowguns, and balsa wood is used for ceremonial purposes.
+They do describe several objects connected with hunting: blowguns generally measuring 3 to 4 meters, darts or arrows dipped in curare poison, kapok fluff used to make an airtight seal, spears, and rifles introduced through Western technology in the 20th century. Peach palm is used for making spears and blowguns, and balsa wood is used for ceremonial purposes.
 
 ## Music & performance
 
- They mention ONHAE, described as a radio service, and a soccer league in connection with the emergence of Waorani as a term for the entire culture during the last fifty years. The sources also describe public appearances by Dayuma and Rachel Saint in the United States in 1957, including appearances with Billy Graham at Madison Square Garden and on Ralph Edwards’ television show *This Is Your Life*, but do not characterize these events as Waorani musical performances.
+They mention ONHAE, described as a radio service, and a soccer league in connection with the emergence of Waorani as a term for the entire culture during the last fifty years. The sources also describe public appearances by Dayuma and Rachel Saint in the United States in 1957, including appearances with Billy Graham at Madison Square Garden and on Ralph Edwards’ television show *This Is Your Life*, but do not characterize these events as Waorani musical performances.
 
 The available material does describe shamanic and hunting practices involving spoken or spiritual action. Before a hunting or fishing party, a community shaman will often pray for a day to ensure success. The shaman also demonstrates respect through the ritual preparation of curare, the poison used in blow darts. Hunting is understood as retrieving or harvesting from trees rather than simply killing, because animal spirits are believed to continue living after death and must be placated.
 
 ## Festivals & rituals
 
- They do document ritual practices associated with hunting, fishing, shamanism, and the preparation of curare. Before a hunting or fishing expedition, the community shaman may pray for a day to ensure its success.
+They do document ritual practices associated with hunting, fishing, shamanism, and the preparation of curare. Before a hunting or fishing expedition, the community shaman may pray for a day to ensure its success.
 
 Waorani animist worldview does not distinguish between the physical and spiritual worlds; spirits are present throughout the world. The forest is understood as home, and peach palm trees are associated with past settlements and ancestors who live there. Shamanic ethnomedicine uses the ayahuasca beverage and a newly identified mushroom, *Dictyonema huaorani*, described as having an analogous substance to the *Psilocybe* genus.
 

@@ -13,21 +13,21 @@ The Apinajé, also known as Apinayé and by several other names including Afotig
 
 ### Architecture
 
- They state that the Apinajé formerly lived in three main groups—the Rõrkojoire, the Cocojoire, and the Krĩjobreire—each with its own land and political division. Currently, the three groups live together; São José is controlled by the Krĩjobreire, while Mariazinha has Cocojoire leadership.
+They state that the Apinajé formerly lived in three main groups—the Rõrkojoire, the Cocojoire, and the Krĩjobreire—each with its own land and political division. Currently, the three groups live together; São José is controlled by the Krĩjobreire, while Mariazinha has Cocojoire leadership.
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that Apinajé women farm subsistence gardens, while men fell trees and plant rice. Families raise cattle, pigs, and chickens, and hunting and fishing supplement domestic foods.
+They do state that Apinajé women farm subsistence gardens, while men fell trees and plant rice. Families raise cattle, pigs, and chickens, and hunting and fishing supplement domestic foods.
 
 ## Music & performance
 
- The historical sources do mention military bands among the groups that had contact with the Apinajé.
+The historical sources do mention military bands among the groups that had contact with the Apinajé.
 
 The sources describe oral and linguistic material only in limited ways. Apinayé is a subject–object–verb language, and its grammar includes nouns, verbs, postpositions, inflection, clitics, reduplication, and realis and irrealis modes. The realis marker is *na*, while irrealis clauses are indicated by *kɔt*. These are grammatical forms rather than documented music or performance traditions.
 
 ## Festivals & rituals
 
- They state that Da Matta’s work from 1982 explores Apinayé customs and traditions.
+They state that Da Matta’s work from 1982 explores Apinayé customs and traditions.
 
 The sources do describe several historical collective actions. In 1823, the Apinajé participated in the War for Independence after sending “250 warriors to join the troops of José Dias de Mattos.” During construction of the Trans-Amazon highway in 1985, Apinajé, Krahô, Xerente, Xavante, and Kayapó warriors supported the recognition of Apinajé lands by the Brazilian state, and the highway route was altered to avoid passing through the Indigenous territory.
 
@@ -38,8 +38,6 @@ Apinajé subsistence includes gardens, cultivation, animal raising, hunting, fis
 During the first quarter of the nineteenth century, extensive cattle farming and the extraction of babaù palm oil contributed to economic growth and increased migration.
 
 ## Oral tradition & literature
-
-The sources mention *Uaica*, a hunter in Apinajé legend, but provide no account of the legend itself.
 
 Several ethnographic and linguistic works are identified. Curt Nimuendajú’s *The Apinayé*, published in 1939, is described as a study based on the social structure of the Indigenous group, with minimal information about the linguistic formation of Apinayé. Da Matta’s work from 1982 explores Apinayé customs and traditions. Oliveira’s dissertation from 2005 is described as a prominent ethnography of the Apinayé language and people. A 2017 ethnographic study by Sousa and others analyzes the education system.
 

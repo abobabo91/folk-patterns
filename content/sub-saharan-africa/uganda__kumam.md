@@ -19,7 +19,7 @@ Dance formed part of Kumam social life, and music and dance were used at ceremon
 
 ## Festivals & rituals
 
- They describe several social and life-cycle practices. In the past, parents arranged marriages and girls could be betrothed to boys at an early age. A betrothed girl might be taken to the boy’s home to grow up there, and when she came of age a ceremony was organized to formalize the relationship. In the described contemporary practice, a boy might take a girl to his home at night without the consent of the parents. After about a week, the girl’s relatives would look for her; once she was found, a fine was exacted from the boy, arrangements were made to settle the bride wealth, and the marriage was formalized.
+They describe several social and life-cycle practices. In the past, parents arranged marriages and girls could be betrothed to boys at an early age. A betrothed girl might be taken to the boy’s home to grow up there, and when she came of age a ceremony was organized to formalize the relationship. In the described contemporary practice, a boy might take a girl to his home at night without the consent of the parents. After about a week, the girl’s relatives would look for her; once she was found, a fine was exacted from the boy, arrangements were made to settle the bride wealth, and the marriage was formalized.
 
 The political structure traditionally included clan leaders known as *wegi Atekerin*. These leaders maintained law and order, administered affairs and arbitrated matters of politics and social life. The sources also describe a contemporary cultural chiefdom led by the supreme cultural leader, the Won Ateker.
 

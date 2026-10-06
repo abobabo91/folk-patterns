@@ -17,19 +17,19 @@ The Han Chinese, also called Han people or Chinese people, are an East Asian eth
 
 ### Clothing & dress
 
- They do mention the historical expression “garments and headdresses moving south” (*衣冠南渡*, *yì guān nán dù*), a name for the southward migration of Han Chinese associated with aristocratic leadership during periods of political upheaval.
+They do mention the historical expression “garments and headdresses moving south” (*衣冠南渡*, *yì guān nán dù*), a name for the southward migration of Han Chinese associated with aristocratic leadership during periods of political upheaval.
 
 ### Architecture
 
- They state that the first urban conurbations in Lingnan, including Panyu, were created by Han settlers and that Han Chinese culture developed in cities and fertile lowland areas, but provide no architectural catalogue.
+They state that the first urban conurbations in Lingnan, including Panyu, were created by Han settlers and that Han Chinese culture developed in cities and fertile lowland areas, but provide no architectural catalogue.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention Chinese writing on oracle bones, bronze artifacts, and other historical objects only in connection with the history of the Chinese language and early writing.
+They mention Chinese writing on oracle bones, bronze artifacts, and other historical objects only in connection with the history of the Chinese language and early writing.
 
 ## Music & performance
 
- They do state that Chinese writing was used for literature, administration, and scholarship, and that Chinese Buddhism spread over East Asia between the 2nd and 5th centuries CE with the study of scriptures and Literary Chinese.
+They do state that Chinese writing was used for literature, administration, and scholarship, and that Chinese Buddhism spread over East Asia between the 2nd and 5th centuries CE with the study of scriptures and Literary Chinese.
 
 The sources identify several language varieties associated with Han Chinese subgroups. These include Wu, Hui, Gan, Xiang, Min, Hakka, Yue, Pinghua, Tuhua, Jin, Mandarin, Northeastern, Beijing, Jilu, Jiaoliao, Central Plains, Lanyin, Southwestern, and Jianghuai. The language article separately groups Chinese varieties as Mandarin, Wu, Gan, Xiang, Min, Hakka, and Yue, with Jin, Huizhou, and Pinghua treated as additional groups in the classification of Li Rong.
 
@@ -37,23 +37,23 @@ The sources also state that all varieties of spoken Chinese use tones, and that 
 
 ## Dance & theatre
 
- No UNESCO Intangible Cultural Heritage inscription is supplied for this group.
+No UNESCO Intangible Cultural Heritage inscription is supplied for this group.
 
 ## Festivals & rituals
 
- They mention the Warring States period, dynastic histories, migration movements, religious groups such as the Celestial Masters, and the spread of Chinese Buddhism.
+They mention the Warring States period, dynastic histories, migration movements, religious groups such as the Celestial Masters, and the spread of Chinese Buddhism.
 
 The sources do describe political and demographic events that shaped Han identity. The name “Han people” first appeared during the Northern and Southern period and was inspired by the Han dynasty. The later Tang dynasty, dated 618–907, was associated with another period regarded as a golden age, and the term *Tangren* became a Southern Han self-identification among varieties such as Cantonese, Hakka, and Minnan.
 
 ## Foodways
 
- They mention that Bai Yue communities practised swidden agriculture and rice farming, and that Han Chinese agricultural colonies were established in Lingnan, but they do not present these practices as a documented Han Chinese foodways system.
+They mention that Bai Yue communities practised swidden agriculture and rice farming, and that Han Chinese agricultural colonies were established in Lingnan, but they do not present these practices as a documented Han Chinese foodways system.
 
 The sources do state that Han settlement contributed to agricultural development in Southern China. Large migrations and the establishment of agricultural colonies altered the demographic and economic balance of the south. The Mongol conquest of China during the thirteenth century prompted Northern Han Chinese refugees to move south and develop the Pearl River Delta, contributing to agricultural advancements and economic prosperity. No named dish or beverage is included in the supplied material.
 
 ## Oral tradition & literature
 
- They do describe a long written tradition. The earliest attested written Chinese consists of oracle-bone inscriptions from the Shang dynasty, dated to approximately 1250 BCE. Bronze inscriptions from the Western Zhou period, dated 1046–771 BCE, are also identified.
+They do describe a long written tradition. The earliest attested written Chinese consists of oracle-bone inscriptions from the Shang dynasty, dated to approximately 1250 BCE. Bronze inscriptions from the Western Zhou period, dated 1046–771 BCE, are also identified.
 
 Literature written in Classical or Literary Chinese began to emerge during the Spring and Autumn period, and its use remained nearly universal until the late 19th century. Written vernacular Chinese was widely adopted with the May Fourth Movement beginning in 1919. The sources name the Classic of Poetry, the Book of Documents, the I Ching, and Sima Qian’s *Records of the Grand Historian*. They also identify the Qieyun rhyme dictionary, recorded in 601, and the 1324 *Zhongyuan Yinyun*, which codified rhyming conventions for a new verse form.
 

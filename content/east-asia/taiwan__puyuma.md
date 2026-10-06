@@ -31,7 +31,7 @@ Women wear the same long-sleeved cropped bodice as men, in bright blue or white.
 
 ### Ceramics, metalwork & everyday objects
 
- The clothing account mentions swords, betel nut bags, Japanese coins, silver ornaments, silver hairpins, silver bells, and silver bracelets.
+The clothing account mentions swords, betel nut bags, Japanese coins, silver ornaments, silver hairpins, silver bells, and silver bracelets.
 
 ### Jewelry & body adornment
 
@@ -39,7 +39,7 @@ Puyuma clothing is accessorized with glass beads, silver breast ornaments, silve
 
 ## Music & performance
 
- The sources name several Puyuma singers, including A-mei, Saya Chang, Wan Sha Lang, Erica Chiang, Jane Huang, Samingad, Jia Jia, Purdur, Panai, Tank, and Sangpuy Katatepan Mavaliyw.
+The sources name several Puyuma singers, including A-mei, Saya Chang, Wan Sha Lang, Erica Chiang, Jane Huang, Samingad, Jia Jia, Purdur, Panai, Tank, and Sangpuy Katatepan Mavaliyw.
 
 ## Festivals & rituals
 
@@ -47,11 +47,7 @@ Traditional clothing still predominates during significant holidays and festival
 
 ## Foodways
 
- The only food-related object named is the betel nut bag worn as part of men’s marriageable-age attire.
-
-## Oral tradition & literature
-
- The sources mention Baday as an author, but provide no information about the author’s works or about Puyuma oral or written literature.
+The only food-related object named is the betel nut bag worn as part of men’s marriageable-age attire.
 
 ## Language & religion
 

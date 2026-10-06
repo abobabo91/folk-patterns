@@ -13,19 +13,19 @@ The Gola or Gula are a West African ethnic group living primarily in western or 
 
 ### Clothing & dress
 
- They do record ceremonial clothing associated with the Mazo, the High Priestess of the Sande Society and of the Gola people. She is known as “the lady in white” because she usually dresses in white cloth. The Zogbenya are described as always wearing men’s shoes to show their dominance in society. They are also decorated with nets, cowrie shells, and water deer horns, and are dyed black. These details belong to the appearance of the Zogbenya during Sande-related performance and ritual rather than to a general account of daily dress.
+They do record ceremonial clothing associated with the Mazo, the High Priestess of the Sande Society and of the Gola people. She is known as “the lady in white” because she usually dresses in white cloth. The Zogbenya are described as always wearing men’s shoes to show their dominance in society. They are also decorated with nets, cowrie shells, and water deer horns, and are dyed black. These details belong to the appearance of the Zogbenya during Sande-related performance and ritual rather than to a general account of daily dress.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention objects used by the Zogbenya in performance: a cane, knife, stick, or spear, each described as carrying heavy medicines and talismans. The sources also state that many Zogbe masks are found in mountains, creeks, rivers, and streams and are regarded as gifts from the other side.
+They mention objects used by the Zogbenya in performance: a cane, knife, stick, or spear, each described as carrying heavy medicines and talismans. The sources also state that many Zogbe masks are found in mountains, creeks, rivers, and streams and are regarded as gifts from the other side.
 
 ### Jewelry & body adornment
 
- In the ceremonial appearance of the Zogbenya, the sources name cowrie shells, nets, and water deer horns as decorations. The Zogbenya are also dyed black and are associated with the depths of water and the universe.
+In the ceremonial appearance of the Zogbenya, the sources name cowrie shells, nets, and water deer horns as decorations. The Zogbenya are also dyed black and are associated with the depths of water and the universe.
 
 ## Music & performance
 
- They do identify singing as part of Sande activity: Vai Sande women sing Sande songs in Mende, Gola, or Dei languages.
+They do identify singing as part of Sande activity: Vai Sande women sing Sande songs in Mende, Gola, or Dei languages.
 
 Performance is central to the Sande and Poro institutions. Zogbenya manifest through black masks that are danced and used for Sande sessions, dances, and rituals. The Zogbenya are described as nature spirits associated with the Gola ancestors and as trainers for Gola women. During a performance, the Zogbe stares at men, while men and uninitiated people remain at a distance. Only the Dazo is allowed to dance or remain around the Zogbe in the specified manner. The Zogbenya may carry a cane, knife, stick, or spear bearing medicines and talismans.
 
@@ -39,7 +39,7 @@ Poro masks including Gbetu, Nafai, Yafi, Jobai, Nyaa, and Kɔkpɔ are used in en
 
 ## Festivals & rituals
 
- They do document Sande and Poro as rites of passage of the Gola people. Sande seasons last two to three years before the influence of western school. During a Sande season, the Zogbenya go from town to town to cleanse the land. If war occurs during Sande season, the sources state that Sande must be paused and boys must go to Poro to be trained.
+They do document Sande and Poro as rites of passage of the Gola people. Sande seasons last two to three years before the influence of western school. During a Sande season, the Zogbenya go from town to town to cleanse the land. If war occurs during Sande season, the sources state that Sande must be paused and boys must go to Poro to be trained.
 
 According to Gola oral history, Sande existed for as long as the Gola people had existed and came before Bohn, or Poro. The sources describe an earlier matriarchal order in which women ruled the societies through Sande and water guardian spirits. The women were called Kings, or Kandanya, and were said to have received the Mandate of Heaven from DAYA, identified as God.
 
@@ -47,7 +47,7 @@ The sources describe the Zogbenya as having made a covenant with the Gola ancest
 
 ## Foodways
 
- They state only that most Gola people are Muslim and that Islam was adopted through the influence of Mandinka merchants from the 16th century onwards.
+They state only that most Gola people are Muslim and that Islam was adopted through the influence of Mandinka merchants from the 16th century onwards.
 
 ## Oral tradition & literature
 

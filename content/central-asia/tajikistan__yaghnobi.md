@@ -19,7 +19,7 @@ No named Yaghnobi pattern vocabulary is given in the supplied sources.
 
 ### Clothing & dress
 
- They provide no named garments, head coverings, belts, footwear, dress distinctions between men and women, or ceremonial costume.
+They provide no named garments, head coverings, belts, footwear, dress distinctions between men and women, or ceremonial costume.
 
 ### Architecture
 
@@ -31,7 +31,7 @@ Women traditionally worked on moulding earthenware crockery.
 
 ## Music & performance
 
- No Yaghnobi musical tradition is named in the material provided.
+No Yaghnobi musical tradition is named in the material provided.
 
 ## Festivals & rituals
 
@@ -45,7 +45,7 @@ The sources identify agriculture as a traditional occupation and name barley, wh
 
 ## Oral tradition & literature
 
- They mention an “anecdote about Nasreddin” as a section heading in the Yaghnobi language article, but the supplied material does not include the text or describe its performance context.
+They mention an “anecdote about Nasreddin” as a section heading in the Yaghnobi language article, but the supplied material does not include the text or describe its performance context.
 
 The sources do document preservation and study of the language. Yaghnobi was mostly unwritten until recent times. Some Yaghnobi scholars used the Persian script before 1928, mainly when they needed to hide information from Tajiks. In the 1990s, Sayfiddin Mirzozoda of the Tajik Academy of Sciences introduced a modified Tajik alphabet and prepared textbooks for elementary-school students. Since 2006, the Tajik government has stopped providing funding for printing Yaghnobi textbooks and hiring Yaghnobi teachers, and these efforts have largely stagnated.
 

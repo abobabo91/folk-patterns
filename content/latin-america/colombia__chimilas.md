@@ -25,10 +25,6 @@ The Chimilas practiced musical rites using drums of many sizes, flutes with a wa
 
 The sources also mention the Vallenato Legend Festival in the “See also” section of the Wikipedia article. No UNESCO Intangible Cultural Heritage inscription is supplied for this people or for a Chimila musical tradition.
 
-## Dance & theatre
-
- They mention musical rites but provide no information about associated movements, choreography, performers, or ceremonial and recreational distinctions.
-
 ## Festivals & rituals
 
 The sources describe Chimila musical rites.
@@ -43,7 +39,7 @@ Fishing and hunting were occupations within Chimila society, alongside artisan w
 
 ## Oral tradition & literature
 
- They do record historical names and explanations connected with Chimila territory. A Chimila cacique lent his name to the city of Chimichagua, while the cacique Upar lent his name to Valledupar through the Spanish expression “valley of Upar.” The name of the Cesar River and Cesar Department is described as an adaptation of the Chimila word *Chet-tzar* or *Zazare*, meaning “calm water,” into Spanish.
+They do record historical names and explanations connected with Chimila territory. A Chimila cacique lent his name to the city of Chimichagua, while the cacique Upar lent his name to Valledupar through the Spanish expression “valley of Upar.” The name of the Cesar River and Cesar Department is described as an adaptation of the Chimila word *Chet-tzar* or *Zazare*, meaning “calm water,” into Spanish.
 
 ## Language & religion
 

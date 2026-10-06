@@ -13,7 +13,7 @@ The Yami, also known as the Tao, are an Austronesian ethnic group native to Orch
 
 ### Textile & pattern traditions
 
- They describe clothing made from fibers of the flax plant and banana leaf, and later more commonly cotton. Clothing commonly uses white, black, and navy colors.
+They describe clothing made from fibers of the flax plant and banana leaf, and later more commonly cotton. Clothing commonly uses white, black, and navy colors.
 
 **Boat decoration** — Tao fishing boats are made from multiple wooden planks joined with dowels and rattan. After construction, they are carved and painted red, white, and black, with chicken-feather decorations on the bow and stern.
 
@@ -27,11 +27,11 @@ For special or ceremonial occasions, men and women wear blue and white vests wit
 
 ### Architecture
 
- They state that the Taiwanese government provided the Tao people with concrete homes in 1967. Most Tao now live in these homes, often with open-air pavilions.
+They state that the Taiwanese government provided the Tao people with concrete homes in 1967. Most Tao now live in these homes, often with open-air pavilions.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden boats, wooden hats, axes, dowels, rattan, and chicken-feather decorations. Fishing boats are built from multiple wooden planks rather than a single tree trunk or log. The planks are shaped with an ax and joined with dowels and rattan. The boat’s bow and stern are steep, upward arcs that provide stability and enable sharp turns.
+They do describe wooden boats, wooden hats, axes, dowels, rattan, and chicken-feather decorations. Fishing boats are built from multiple wooden planks rather than a single tree trunk or log. The planks are shaped with an ax and joined with dowels and rattan. The boat’s bow and stern are steep, upward arcs that provide stability and enable sharp turns.
 
 ### Jewelry & body adornment
 
@@ -39,17 +39,17 @@ Women wear agate bead necklaces during the days before a boat-launching ceremony
 
 ## Music & performance
 
- They do describe ceremonial performance connected with the launching of a fishing boat. Once the boat has been built, its owner hosts a large launching ceremony. On the day of the ceremony, men dressed in traditional clothing circle the boat and perform ceremonial rituals intended to ward off evil spirits. They also throw the boat into the air several times before launching it. The ceremony is complete once the boat has remained afloat.
+They do describe ceremonial performance connected with the launching of a fishing boat. Once the boat has been built, its owner hosts a large launching ceremony. On the day of the ceremony, men dressed in traditional clothing circle the boat and perform ceremonial rituals intended to ward off evil spirits. They also throw the boat into the air several times before launching it. The ceremony is complete once the boat has remained afloat.
 
 Fishing itself is organized through three seasons: *rayon*, *teyteyka*, and *amyan*. *Rayon* lasts from February to May and is the flying-fish season, during which men catch fish for ceremonial use. *Teyteyka* lasts from June to October and marks the end of the period when flying fish can be caught on the surface. *Amyan* lasts from November to January and is the period of waiting for the flying fish to return. During the latter two seasons, fish cannot be caught for ceremonial use.
 
 ## Dance & theatre
 
- They record ceremonial movement during boat launching, when men circle the launching boat while performing rituals intended to ward off evil spirits.
+They record ceremonial movement during boat launching, when men circle the launching boat while performing rituals intended to ward off evil spirits.
 
 ## Festivals & rituals
 
- They describe ritual practices associated with fishing, boat-building, death, marriage, and the passage into adulthood.
+They describe ritual practices associated with fishing, boat-building, death, marriage, and the passage into adulthood.
 
 There is no specific ceremony for entering adulthood. A boy is considered an adult at 18 or 19, while a girl is considered an adult at 16 or 17. A Tao man becomes eligible for marriage when he participates in a fishing team and can perform his fishing duties independently. Women must be proficient in taro cultivation and fabric weaving. Relatives of both families formally propose to the woman’s parents by giving presents. Acceptance of the offerings constitutes acceptance of the proposal.
 

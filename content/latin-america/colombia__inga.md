@@ -11,7 +11,7 @@ The Inga are an indigenous ethnic group native to portions of Colombia, Ecuador,
 
 ## Oral tradition & literature
 
- They do document contemporary linguistic and educational work: Francisco Tandioy Jansasoy is involved in creating an Inga–Spanish–English dictionary and accompanying pedagogic trilingual material for use in universities and Inga-speaking communities of Colombia. The sources also state that significant linguistic and anthropological work concerning the Inga peoples has been undertaken in the past 30 years.
+They do document contemporary linguistic and educational work: Francisco Tandioy Jansasoy is involved in creating an Inga–Spanish–English dictionary and accompanying pedagogic trilingual material for use in universities and Inga-speaking communities of Colombia. The sources also state that significant linguistic and anthropological work concerning the Inga peoples has been undertaken in the past 30 years.
 
 ## Language & religion
 

@@ -17,7 +17,7 @@ The French are people identified with France or, more broadly, a global sociolin
 
 ### Clothing & dress
 
- They do mention fashion as one of the cultural fields shaped by France and identify royal-court clothing and etiquette as models of noble culture during the reign of Louis XIV.
+They do mention fashion as one of the cultural fields shaped by France and identify royal-court clothing and etiquette as models of noble culture during the reign of Louis XIV.
 
 ### Architecture
 
@@ -33,7 +33,7 @@ During the Renaissance, Limoges became a leading center for enamel production. W
 
 ### Jewelry & body adornment
 
- They do mention medieval Parisian jewellery and precious reliquaries, including the Holy Thorn Reliquary made for Jean, duke of Berry, and the Goldenes Rössl of Altötting, made for Charles VI, king of France.
+They do mention medieval Parisian jewellery and precious reliquaries, including the Holy Thorn Reliquary made for Jean, duke of Berry, and the Goldenes Rössl of Altötting, made for Charles VI, king of France.
 
 ## Music & performance
 
@@ -43,7 +43,7 @@ French culture has also been connected with cinema, fashion, literature, and the
 
 ## Dance & theatre
 
- They mention theatre as part of the Roman remains at Lugdunum and describe cinema, opera, cabaret, and the performing arts generally.
+They mention theatre as part of the Roman remains at Lugdunum and describe cinema, opera, cabaret, and the performing arts generally.
 
 ## Festivals & rituals
 

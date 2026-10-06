@@ -13,7 +13,7 @@ The Trumai, also known as Trumaí, and using the native name *Ho kod ke*, are an
 
 ### Ceramics, metalwork & everyday objects
 
- The linguistic source gives examples involving a spoon and body parts.
+The linguistic source gives examples involving a spoon and body parts.
 
 ## Music & performance
 

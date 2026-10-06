@@ -17,11 +17,11 @@ The Bats villages in the Ts’ova Gorge were Ts’aro, Shavts’qala, Nazarta, N
 
 ## Music & performance
 
-The sources used mention a song in Batsbur through an external link. No named Bats musical instruments or song traditions are documented in the supplied sources.
+The sources used mention a song in Batsbur through an external link.
 
 ## Festivals & rituals
 
- The sources state that Bats customs and traditions now resemble those of other Eastern Georgian mountaineers, particularly the Tush, and that deeper pagan-religious links exist between the Tush and neighbouring Khevsur.
+The sources state that Bats customs and traditions now resemble those of other Eastern Georgian mountaineers, particularly the Tush, and that deeper pagan-religious links exist between the Tush and neighbouring Khevsur.
 
 ## Oral tradition & literature
 

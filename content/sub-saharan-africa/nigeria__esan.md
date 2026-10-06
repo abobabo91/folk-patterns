@@ -13,7 +13,7 @@ The Esan are an ethnic group native to Nigeria, primarily residing in Edo Centra
 
 ### Clothing & dress
 
- They state only that Esanland produced cloth for world trade and that, in the pre-colonial era, Esans carried a crow’s foot tribal scar below their eyes.
+They state only that Esanland produced cloth for world trade and that, in the pre-colonial era, Esans carried a crow’s foot tribal scar below their eyes.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ Archaeological evidence described in the sources records enclosures made by pre-
 
 ### Ceramics, metalwork & everyday objects
 
- They mention cloth, ivory, peppers, and palm-products in connection with trade.
+They mention cloth, ivory, peppers, and palm-products in connection with trade.
 
 ### Jewelry & body adornment
 
- They do record a crow’s foot tribal scar below the eyes as a pre-colonial Esan practice.
+They do record a crow’s foot tribal scar below the eyes as a pre-colonial Esan practice.
 
 ## Music & performance
 

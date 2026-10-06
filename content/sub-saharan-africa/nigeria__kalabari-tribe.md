@@ -17,19 +17,15 @@ The sources identify settlements and fishing settlements. The historical settlem
 
 ### Ceramics, metalwork & everyday objects
 
- They mention **Duein Fubara**, a Kalabari altar screen, but provide no catalogue description of its materials, construction or use.
+They mention **Duein Fubara**, a Kalabari altar screen, but provide no catalogue description of its materials, construction or use.
 
 ## Music & performance
 
- The Wikipedia article’s further reading refers to masquerades among the Ijo of the Niger River Delta, including “Three Points of View of Masquerades among the Ijo of the Niger River Delta,” “The Culture of Playfulness and of Spirits” and “Tempest Masquerades,” but the supplied material does not explain their instruments, musical structures or performance practices.
-
-## Dance & theatre
-
- They mention masquerades among the Ijo of the Niger River Delta in the further-reading titles, but provide no account of their characters, movements, costumes, ceremonial functions or entertainment contexts.
+The Wikipedia article’s further reading refers to masquerades among the Ijo of the Niger River Delta, including “Three Points of View of Masquerades among the Ijo of the Niger River Delta,” “The Culture of Playfulness and of Spirits” and “Tempest Masquerades,” but the supplied material does not explain their instruments, musical structures or performance practices.
 
 ## Festivals & rituals
 
- They do describe marriage rites. Kalabari people have about three types of marriage: *Iya*, *Igwa* and *Waribiobesime*. The cheapest form of legal marriage recognized in Kalabari is called *Ari Ibara emi*, meaning “she is with me”; the phrase indicates that the woman’s parents should not look for her elsewhere. *Iya* is described as the highest and most expensive form of marriage in Kalabari culture. Its ceremony includes **BIBIFE**, or “buying the mouth.” Until this rite is completed, the potential wife cannot eat food; after her mouth has been bought, she is able to eat in her husband’s house. The rite signifies the man’s responsibility and willingness to care for and feed his wife.
+They do describe marriage rites. Kalabari people have about three types of marriage: *Iya*, *Igwa* and *Waribiobesime*. The cheapest form of legal marriage recognized in Kalabari is called *Ari Ibara emi*, meaning “she is with me”; the phrase indicates that the woman’s parents should not look for her elsewhere. *Iya* is described as the highest and most expensive form of marriage in Kalabari culture. Its ceremony includes **BIBIFE**, or “buying the mouth.” Until this rite is completed, the potential wife cannot eat food; after her mouth has been bought, she is able to eat in her husband’s house. The rite signifies the man’s responsibility and willingness to care for and feed his wife.
 
 ## Foodways
 
@@ -37,7 +33,7 @@ The sources identify three popular traditional Kalabari dishes. *Onunu* consists
 
 ## Oral tradition & literature
 
- They provide a lineage account in which the Kalabari are Ijaw-speaking settlers connected to Mein Owei, and explain the name Kalabari through the ancestor Perebo Kalabari, a son of Meinowei.
+They provide a lineage account in which the Kalabari are Ijaw-speaking settlers connected to Mein Owei, and explain the name Kalabari through the ancestor Perebo Kalabari, a son of Meinowei.
 
 ## Language & religion
 

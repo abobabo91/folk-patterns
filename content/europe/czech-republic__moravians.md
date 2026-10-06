@@ -11,7 +11,7 @@ Moravians are a Czech ethnographic group from the Moravia region of the Czech Re
 
 ## Festivals & rituals
 
- The Wikipedia source does state that Moravian nationality was banned during the Czechoslovak and communist eras and appeared again in the 1991 census after the fall of the dangers of Germanization in 1945.
+The Wikipedia source does state that Moravian nationality was banned during the Czechoslovak and communist eras and appeared again in the 1991 census after the fall of the dangers of Germanization in 1945.
 
 ## Oral tradition & literature
 

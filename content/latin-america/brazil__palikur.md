@@ -13,11 +13,11 @@ The Palikur are an Indigenous, Arawak-speaking people living in the riverine are
 
 ### Clothing & dress
 
- They state that commercial relations with Europeans involved exchanges of river and forest products for clothes and glass beads, and that the Palikur manufacture objects from cotton seed.
+They state that commercial relations with Europeans involved exchanges of river and forest products for clothes and glass beads, and that the Palikur manufacture objects from cotton seed.
 
 ### Architecture
 
- They state that a Portuguese expedition in the late 18th century burned all Indian villages in the territory and deported the Palikur into the interior of Brazil.
+They state that a Portuguese expedition in the late 18th century burned all Indian villages in the territory and deported the Palikur into the interior of Brazil.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -29,11 +29,11 @@ The sources mention glass beads in commercial exchange.
 
 ## Music & performance
 
- They state that the Palikur were involved in a shamanic war in the early 1960s, but provide no further description of its performance or ritual form.
+They state that the Palikur were involved in a shamanic war in the early 1960s, but provide no further description of its performance or ritual form.
 
 ## Festivals & rituals
 
- They state that the Palikur resisted missionary activities, that part of the Brazilian community relocated to French Guiana after a shamanic war in the early 1960s, and that conversion to Pentecostalism contributed to greater responsiveness to the Brazilian government from the late 1960s.
+They state that the Palikur resisted missionary activities, that part of the Brazilian community relocated to French Guiana after a shamanic war in the early 1960s, and that conversion to Pentecostalism contributed to greater responsiveness to the Brazilian government from the late 1960s.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ Manioc is the main cultivated plant. It is roasted or used to prepare flat cakes
 
 ## Oral tradition & literature
 
- They cite a work on Palikur oral tradition: *La Cote d’Amapa, de la bouche de l’Amazone å la baie d’Oyapock å travers la tradition orale palikur*, by Françoise and Pierre Grenand, published in 1987.
+They cite a work on Palikur oral tradition: *La Cote d’Amapa, de la bouche de l’Amazone å la baie d’Oyapock å travers la tradition orale palikur*, by Françoise and Pierre Grenand, published in 1987.
 
 ## Language & religion
 

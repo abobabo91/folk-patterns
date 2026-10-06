@@ -21,19 +21,11 @@ The Cayuse were seminomadic and maintained summer and winter villages at sites a
 
 ### Ceramics, metalwork & everyday objects
 
- They record horses, dogs, animal skins, salmon, roots, berries, and other materials connected with movement, hunting, fishing, gathering, shelter, and clothing.
-
-## Music & performance
-
- They mention the Happy Canyon annual pageant in connection with Anna Minthorn Wannassay, who was a consultant, but provide no description of its music or performance traditions.
-
-## Dance & theatre
-
- The Happy Canyon annual pageant is mentioned as an activity with which Anna Minthorn Wannassay was associated, but the sources provide no account of its content.
+They record horses, dogs, animal skins, salmon, roots, berries, and other materials connected with movement, hunting, fishing, gathering, shelter, and clothing.
 
 ## Festivals & rituals
 
- They do describe seasonal movement between summer and winter villages, winter fishing along rivers, annual journeys over the Rocky Mountains to hunt buffalo, and harvesting practices involving salmon, game, berries, wild celery, and roots. The sources also record the Cayuse attack on the Whitman mission in 1847, the subsequent Cayuse War, and the 1855 Treaty of Walla Walla, but do not present these as ritual traditions.
+They do describe seasonal movement between summer and winter villages, winter fishing along rivers, annual journeys over the Rocky Mountains to hunt buffalo, and harvesting practices involving salmon, game, berries, wild celery, and roots. The sources also record the Cayuse attack on the Whitman mission in 1847, the subsequent Cayuse War, and the 1855 Treaty of Walla Walla, but do not present these as ritual traditions.
 
 ## Foodways
 
@@ -41,7 +33,7 @@ Salmon from the Columbia River was one of the Cayuse’s main food sources. Duri
 
 ## Oral tradition & literature
 
- They record the Cayuse language, historical accounts, village traditions, and named leaders, including Tawatoy, Weatenatemany, Five Crows, and Anna Minthorn Wannassay.
+They record the Cayuse language, historical accounts, village traditions, and named leaders, including Tawatoy, Weatenatemany, Five Crows, and Anna Minthorn Wannassay.
 
 ## Language & religion
 

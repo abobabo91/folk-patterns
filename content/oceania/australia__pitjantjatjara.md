@@ -17,21 +17,21 @@ The supplied sources name *wiltja*, a shelter made by the Pitjantjatjara people 
 
 ## Music & performance
 
- They do state that the sacred sites of Uluru / Ayers Rock and Kata Tjuṯa / Mount Olga possess important spiritual and ceremonial significance for the Aṉangu, and that the area contains more than 40 named sacred sites and 11 separate Tjukurpa, or “Dreaming,” tracks.
+They do state that the sacred sites of Uluru / Ayers Rock and Kata Tjuṯa / Mount Olga possess important spiritual and ceremonial significance for the Aṉangu, and that the area contains more than 40 named sacred sites and 11 separate Tjukurpa, or “Dreaming,” tracks.
 
 ## Dance & theatre
 
- They mention spiritual and ceremonial significance associated with Uluru / Ayers Rock, Kata Tjuṯa / Mount Olga, and Tjukurpa tracks.
+They mention spiritual and ceremonial significance associated with Uluru / Ayers Rock, Kata Tjuṯa / Mount Olga, and Tjukurpa tracks.
 
 ## Festivals & rituals
 
- They do describe sacred places and Tjukurpa tracks as possessing important spiritual and ceremonial significance for the Aṉangu. Uluru / Ayers Rock and Kata Tjuṯa / Mount Olga are separated from Pitjantjatjara lands by the border between the Northern Territory and South Australia and have become a major tourist attraction and a national park.
+They do describe sacred places and Tjukurpa tracks as possessing important spiritual and ceremonial significance for the Aṉangu. Uluru / Ayers Rock and Kata Tjuṯa / Mount Olga are separated from Pitjantjatjara lands by the border between the Northern Territory and South Australia and have become a major tourist attraction and a national park.
 
 From 1950 onwards, many aṉangu were forced to leave their traditional lands because of British nuclear tests at Maralinga, and some were subsequently contaminated by nuclear fallout from the atomic tests. After four years of campaigning and negotiations with government and mining groups, the Pitjantjatjara Land Rights Act 1981 was passed on 19 March 1981, granting freehold title over 103,000 km2 of land in the northwestern corner of South Australia.
 
 ## Foodways
 
- The language article states that *ngangkari* was defined in the Macquarie Dictionary as an Indigenous practitioner of bush medicine.
+The language article states that *ngangkari* was defined in the Macquarie Dictionary as an Indigenous practitioner of bush medicine.
 
 ## Oral tradition & literature
 

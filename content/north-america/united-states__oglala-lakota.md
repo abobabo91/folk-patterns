@@ -33,11 +33,11 @@ The sources mention tipis as a form of dwelling whose coverings were historicall
 
 ### Ceramics, metalwork & everyday objects
 
- They state that women historically made storage bags, tipi coverings, clothing, footwear, and other objects, and that women controlled food, resources, movable property, and the family’s home.
+They state that women historically made storage bags, tipi coverings, clothing, footwear, and other objects, and that women controlled food, resources, movable property, and the family’s home.
 
 ### Jewelry & body adornment
 
- They identify beadwork as the field of the artist Imogene Goodshot Arquero but give no further catalogue of adornment types or materials.
+They identify beadwork as the field of the artist Imogene Goodshot Arquero but give no further catalogue of adornment types or materials.
 
 ## Music & performance
 

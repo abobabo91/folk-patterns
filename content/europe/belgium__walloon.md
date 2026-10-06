@@ -1,0 +1,70 @@
+---
+title: "Walloon"
+subtitle: "Belgium"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+Walloons are a Gallo-Romance ethnic group native to Wallonia, the Walloon region of Belgium. They primarily speak langues d’oïl, including Belgian French, Picard, and Walloon. Walloons are primarily Roman Catholic, with a historical minority of Protestantism dating from the Reformation era. Their cultural heartland includes the Meuse and Sambre river valleys and the cities of Charleroi, Dinant, Namur, Huy, Verviers, and Liège. Walloon identity is associated with the Walloon language, although the French-speaking population of Wallonia also includes speakers of Picard, Champenois, Lorrain, Flemish, German, and Luxembourgish. Walloon culture is also represented by literature, theatre, music, regional-language activism, and the historical industrial life of Wallonia.
+
+## Material culture
+
+### Clothing & dress
+
+They mention Walloon miners and iron-workers who settled in Sweden and Finland, Walloon surnames, and the historical movement of Walloon populations.
+
+### Architecture
+
+They describe Wallonia as a region containing cities, towns, villages, coal and steel-producing areas, and industrial development.
+
+### Ceramics, metalwork & everyday objects
+
+They do discuss Walloon iron production and metalworking in historical contexts: Walloon workers settled around the mine at Dannemora in Sweden, where Walloon methods of iron production were incorporated into Swedish practice, and Walloon smiths in Finland used the German method of forging.
+
+## Music & performance
+
+Walloon musical identity appears in the sources within the wider musical history of Belgium. The music of Belgium is described as a cultural mix involving Flemish Dutch-speaking and Walloon French-speaking traditions, German minorities, and immigrant communities. Walloon folk music is said not to have experienced as vibrant a revival as Flemish traditional music, but artists including Coïncidence, Remy Dubois, Luc Pilartz, Rue du Village, and Claude Flagel kept folk traditions alive. The sources also emphasize openness across linguistic barriers and many collaborations between Belgian musicians of different languages.
+
+The sources identify several musicians associated with Wallonia or the wider Belgian musical sphere. Johannes Ciconia, born in Liège, was a late medieval composer and music theorist. Guillaume Dufay, born near Brussels, was a key figure of the early 15th-century Burgundian School. Gilles Binchois was probably born in Mons or nearby Binche, and Johannes Ockeghem was a native of Hainaut. Other composers connected with the Belgian area of the Low Countries include Pierre de La Rue and Orlande de Lassus. André Ernest Modeste Grétry is described as the most famous composer born in what is now called Belgium during the 18th century, while César Franck, Henri Vieuxtemps, Guillaume Lekeu, and Eugène Ysaÿe are named among 19th-century composers.
+
+The saxophone was invented by Adolphe Sax, who was born in Belgium. The sources also mention Elmore D, who sings in English and Walloon dialect, and William Dunker, described as the best-known singer in Walloon in present-day Wallonia.
+
+## Dance & theatre
+
+They do document Walloon-language theatre as an important cultural practice. During the 19th-century literary revival, Walloon plays and poems flourished, and many theatres and periodicals were founded. Walloon-language theatre remains popular in the region, with more than 200 non-professional companies playing in the cities and villages of Wallonia for an audience of over 200,000 each year.
+
+Theatre companies and literary groups are also part of modern language preservation. The Union Culturelle Wallonne is described as an organization of over 200 amateur theatre circles, writers’ groups, and school councils. The Walloon cultural movement includes theatre activity, magazines, and efforts to maintain the regional language.
+
+## Festivals & rituals
+
+They mention the historical Protestant minority dating from the Reformation era and Juliana of Liège as a promoter of the feast Corpus Christi.
+
+## Foodways
+
+They mention Walloon industrial history, including coal, steel, mining, and textile production.
+
+## Oral tradition & literature
+
+Walloon-language literature has been printed since the 16th century, or at least since the beginning of the 17th century. Its “golden age” occurred during the peak of Flemish immigration to Wallonia in the 19th century, when Walloon literature, plays, poems, theatres, and periodicals expanded. The New York Public Library holds a large collection of literary works in Walloon, with holdings described as representative of the output.
+
+Walloon authors adapted Aesop’s Fables into regional speech. Charles Duvivier produced an adaptation in 1842; Joseph Lamaye followed in 1845; Jean-Joseph Dehin and François Bailleux produced further adaptations; and Charles Letellier and Charles Wérotte adapted the fables into the dialects of Mons and Namur. Léon Bernus published imitations of La Fontaine in the dialect of Charleroi in 1872, followed in the 1880s by Joseph Dufrane, who wrote in the Borinage dialect under the pen-name Bosquètia. Joseph Houziaux published a selection of 50 fables in the Condroz dialect in 1946.
+
+The sources also describe links between French and Walloon literature. Raymond Queneau arranged the publication of a Walloon Poets’ anthology for Editions Gallimard, and André Blavier translated Ubu roi into Walloon. Walloon-language literature and theatre have served as means of asserting regional identity, while contemporary cultural organizations, magazines, writers’ groups, and theatre companies support continued use of the language.
+
+## Language & religion
+
+Walloon is a Romance language within the langues d’oïl dialect continuum, whose most prominent member is French. It is spoken in much of Wallonia, to a very small extent in Brussels, in some villages near Givet in northern France, and in communities in northeastern Wisconsin and other parts of Wisconsin. The language is classified as “definitely endangered” by the UNESCO Atlas of the World’s Languages in Danger.
+
+Four Walloon dialects are identified: Central, Eastern, Western, and Southern. Central is spoken in Namur, Wavre, and Dinant; Eastern in Liège, Verviers, Malmedy, Huy, and Waremme; Western in Charleroi, Nivelles, and Philippeville; and Southern in Bastogne, Marche-en-Famenne, and Neufchâteau. Picard, Lorrain, Champenois, and Luxembourgish are also spoken in parts of Wallonia outside the Walloon linguistic domain.
+
+Walloon has been formally recognized as a regional indigenous language of Belgium since 1990. Its use declined through the spread of French, French-speaking education, and official orders in 1952 punishing its use in schools. The Feller system regularized transcription in 1900, while the Rifondou walon provided a common orthography from the 1990s. The sources state that Walloons are primarily Roman Catholic, with a historical Protestant minority dating from the Reformation era.
+
+## Sources & further reading
+
+- Wikipedia, “Walloons”: https://en.wikipedia.org/wiki/Walloons
+- Wikipedia, “Walloon language”: https://en.wikipedia.org/wiki/Walloon_language
+- Wikipedia, “Walloon music”: https://en.wikipedia.org/wiki/Walloon_music
+- UNESCO Intangible Cultural Heritage inscriptions: no relevant inscription was supplied in the sources.
+- Museum catalogue records: none were supplied in the sources.

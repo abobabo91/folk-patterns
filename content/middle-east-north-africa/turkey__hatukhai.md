@@ -13,15 +13,15 @@ The Hatuqay are one of the twelve major Circassian tribes and are represented by
 
 ### Architecture
 
- Evliya Çelebi’s account says that Hatuqay villages had mosques and that travelers stayed in private homes, while also stating that the villages had no churches, bazaars, markets, inns or bathhouses.
+Evliya Çelebi’s account says that Hatuqay villages had mosques and that travelers stayed in private homes, while also stating that the villages had no churches, bazaars, markets, inns or bathhouses.
 
 ### Ceramics, metalwork & everyday objects
 
- Evliya Çelebi describes Hatuqay soldiers as skilled with quivers, silver-inlaid gear and weapons.
+Evliya Çelebi describes Hatuqay soldiers as skilled with quivers, silver-inlaid gear and weapons.
 
 ## Music & performance
 
- They do record a spoken and oral language culture. Evliya Çelebi described the Circassian language as a sound produced from the throat, cheeks and under the tongue, comparing it to a sparrow’s chirp and saying that he could not write it down. He also characterized the people as not literate in his account.
+They do record a spoken and oral language culture. Evliya Çelebi described the Circassian language as a sound produced from the throat, cheeks and under the tongue, comparing it to a sparrow’s chirp and saying that he could not write it down. He also characterized the people as not literate in his account.
 
 The sources describe oral and ceremonial forms connected with religion. Islam entered Circassian culture through stories and folk tales rather than directly. Ceremonies celebrating the birth of the Islamic prophet Muhammad played an important role, and a genre of Circassian epic literature associated with these celebrations emerged under the name *Mewlid*.
 
@@ -29,7 +29,7 @@ The Hatuqays were also associated with public speech and oratory. Aslandjeriy, o
 
 ## Festivals & rituals
 
- They do, however, describe several customs and religious practices.
+They do, however, describe several customs and religious practices.
 
 According to Evliya Çelebi, when a son was born while a guest was present in the house, the child was named after the guest. If there was no guest, the child was given the name of a neighbor. The account also says that a wet nurse took the boy to another place and raised him, feeding him better than his parents could.
 
@@ -37,7 +37,7 @@ The sources connect the celebration of the Islamic prophet Muhammad’s birth wi
 
 ## Foodways
 
- They do provide observations about food and religious practice in Evliya Çelebi’s account.
+They do provide observations about food and religious practice in Evliya Çelebi’s account.
 
 That account says that the people declared “La ilahe illallah” but ate fat pigs beginning from the tail. It also says that they did not fast or perform the daily prayers and that they did not permit anyone who did not own a pig to enter the village. The broader article identifies the Hatuqays as Sunni Muslims and states that they were among the first Circassian tribes to embrace Islam.
 

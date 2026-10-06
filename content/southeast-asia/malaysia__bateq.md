@@ -13,7 +13,7 @@ The Bateq, also called Batek, are an indigenous Orang Asli people belonging to t
 
 ### Clothing & dress
 
- One Batek described wanting only “four or five sarongs” and said that trousers were unnecessary while living in the forest. No named head coverings, belts, footwear, or ceremonial garments are documented in the sources used.
+One Batek described wanting only “four or five sarongs” and said that trousers were unnecessary while living in the forest.
 
 ### Architecture
 
@@ -21,15 +21,15 @@ Batek families normally live in tents and lean-tos. About 10 families generally 
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify several everyday objects: a man’s blowgun, women’s hair combs, radios, tobacco, cooking pots, digging sticks, bush-knives, lighters, salt, and fishing poles. The blowgun is used mainly for hunting, while the other objects are discussed as personal possessions or practical equipment.
+They do identify several everyday objects: a man’s blowgun, women’s hair combs, radios, tobacco, cooking pots, digging sticks, bush-knives, lighters, salt, and fishing poles. The blowgun is used mainly for hunting, while the other objects are discussed as personal possessions or practical equipment.
 
 ## Music & performance
 
- They describe Batek as speakers of a mostly oral language with few written records.
+They describe Batek as speakers of a mostly oral language with few written records.
 
 ## Festivals & rituals
 
- The sources do describe ritualised food distribution after hunting and butchering meat: in the example given, the hunting party first eats the offal and tail, after which the cooked meat is divided into about 13 portions for the families in the camp, adjusted according to family size. Sharing food is presented as a moral obligation rooted in the belief that food belongs to the forest. The sources also state that the Batek would lose their nomadic lifestyle and their religion if required to settle permanently in Pos Lebir.
+The sources do describe ritualised food distribution after hunting and butchering meat: in the example given, the hunting party first eats the offal and tail, after which the cooked meat is divided into about 13 portions for the families in the camp, adjusted according to family size. Sharing food is presented as a moral obligation rooted in the belief that food belongs to the forest. The sources also state that the Batek would lose their nomadic lifestyle and their religion if required to settle permanently in Pos Lebir.
 
 ## Foodways
 
@@ -39,7 +39,7 @@ The sources mention wild plant resources, tubers, meat, and fish. They state tha
 
 ## Oral tradition & literature
 
- They state that Batek is mostly an oral language with few written records. The Batek were first documented by Europeans in 1878, when the explorer-naturalist Nicholai Miklukho-Maklai of Russia wrote about them. The sources also identify the RWAAI repository and workspace for Austroasiatic Intangible Heritage and a Batek digital archive.
+They state that Batek is mostly an oral language with few written records. The Batek were first documented by Europeans in 1878, when the explorer-naturalist Nicholai Miklukho-Maklai of Russia wrote about them. The sources also identify the RWAAI repository and workspace for Austroasiatic Intangible Heritage and a Batek digital archive.
 
 ## Language & religion
 

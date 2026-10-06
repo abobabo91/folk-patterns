@@ -15,11 +15,11 @@ Vienna, the capital city of Austria, has long been an important center of musica
 
 ## Festivals & rituals
 
- They do record political and historical events, including the founding of the First Austrian Republic in 1919, the Declaration of Independence on 27 April 1945, and the end of Allied occupation in 1955, but these are not described as folk festivals or rituals.
+They do record political and historical events, including the founding of the First Austrian Republic in 1919, the Declaration of Independence on 27 April 1945, and the end of Allied occupation in 1955, but these are not described as folk festivals or rituals.
 
 ## Oral tradition & literature
 
- The sources mention Austrian literature as a cultural field but provide no further information suitable for this section.
+The sources mention Austrian literature as a cultural field but provide no further information suitable for this section.
 
 ## Language & religion
 

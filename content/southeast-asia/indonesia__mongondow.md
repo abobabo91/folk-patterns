@@ -11,7 +11,7 @@ The Mongondow, also called the Bolaang Mongondow people, are an Austronesian eth
 
 ## Festivals & rituals
 
- The group is described as predominantly Muslim.
+The group is described as predominantly Muslim.
 
 ## Foodways
 

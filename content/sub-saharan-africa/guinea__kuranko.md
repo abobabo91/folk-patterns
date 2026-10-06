@@ -13,15 +13,15 @@ The Kuranko, also called Koranko, Kolanko, Kooranko, Koronko, Kouranko, Kulanko,
 
 ### Clothing & dress
 
- They state that male initiation includes the right to wear certain articles of clothing.
+They state that male initiation includes the right to wear certain articles of clothing.
 
 ### Architecture
 
- They state that each Kuranko village is led by a chief and a group of elders.
+They state that each Kuranko village is led by a chief and a group of elders.
 
 ### Jewelry & body adornment
 
- Male initiation includes circumcision and the right to wear certain articles of clothing.
+Male initiation includes circumcision and the right to wear certain articles of clothing.
 
 ## Music & performance
 
@@ -35,11 +35,11 @@ The sources also describe the Bondo secret society, which gradually establishes 
 
 ## Foodways
 
- The sources describe the Kuranko primarily as a hunting and trading people, with these activities exceeding farming as their primary employment.
+The sources describe the Kuranko primarily as a hunting and trading people, with these activities exceeding farming as their primary employment.
 
 ## Oral tradition & literature
 
- The history article describes the movement of the Kuranko from Mande in what is now Mali into the territory of present-day Sierra Leone and recounts the career of Mansa Kama, but it does not present a Kuranko oral-literary tradition.
+The history article describes the movement of the Kuranko from Mande in what is now Mali into the territory of present-day Sierra Leone and recounts the career of Mansa Kama, but it does not present a Kuranko oral-literary tradition.
 
 ## Language & religion
 

@@ -17,7 +17,7 @@ The Nyishi traditionally wear cane helmets surmounted by the crest of a hornbill
 
 ## Music & performance
 
- They state that the priest, or *Nyubh*, performs rituals and acts as a translator, mediator, and negotiator between humans and spirits.
+They state that the priest, or *Nyubh*, performs rituals and acts as a translator, mediator, and negotiator between humans and spirits.
 
 ## Festivals & rituals
 
@@ -27,11 +27,11 @@ Polygyny is prevalent among the Nyishi and signifies social status and economic 
 
 ## Foodways
 
- They mention animal sacrifices performed by the *Nyubh* as part of ritual practice but provide no further information about foodways.
+They mention animal sacrifices performed by the *Nyubh* as part of ritual practice but provide no further information about foodways.
 
 ## Oral tradition & literature
 
-Nyishi mythology contains many versions of Abo Tanyi in the form of spirits and other beings. Nyiha, also called Niya, is described as one of the sons of Abo Tanyi, the first perfect human being, and the Nyishi are described as his descendants. The sources also state that the Nyishi trace their descent patrilineally and are divided into several clans. No Nyishi epic, proverb, riddle, contemporary literary revival, or storytelling performance is documented in the sources used.
+Nyishi mythology contains many versions of Abo Tanyi in the form of spirits and other beings. Nyiha, also called Niya, is described as one of the sons of Abo Tanyi, the first perfect human being, and the Nyishi are described as his descendants. The sources also state that the Nyishi trace their descent patrilineally and are divided into several clans.
 
 ## Language & religion
 
@@ -43,5 +43,3 @@ Nyishi religious life includes Donyi-Polo, Christianity, and Hinduism. According
 
 - “Nyishi people,” Wikipedia: https://en.wikipedia.org/wiki/Nyishi_people
 - “Nyishi language,” Wikipedia: https://en.wikipedia.org/wiki/Nyishi_language
-- The sources used contain no UNESCO Intangible Cultural Heritage inscriptions for this ethnic group.
-- The sources used contain no museum catalogue records for the objects shown.

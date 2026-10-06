@@ -35,7 +35,7 @@ The sources describe historical migration, political conflict and religious cont
 
 ## Foodways
 
- They state only that Burmese has borrowed vocabulary from Mon in areas including cuisine and flowers.
+They state only that Burmese has borrowed vocabulary from Mon in areas including cuisine and flowers.
 
 ## Oral tradition & literature
 

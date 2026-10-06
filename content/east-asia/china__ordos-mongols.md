@@ -13,7 +13,7 @@ The Ordos Mongols are a subgroup of the Mongols who live in Ordos, Inner Mongoli
 
 ### Architecture
 
- The group’s name is stated to derive from the Ordo palace, but the sources provide no architectural description of that palace.
+The group’s name is stated to derive from the Ordo palace, but the sources provide no architectural description of that palace.
 
 ## Festivals & rituals
 

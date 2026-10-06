@@ -1,0 +1,56 @@
+---
+title: "Angami Naga"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Angamis are a major Naga ethnic group native to the Northeast Indian state of Nagaland. They predominantly inhabit Kohima District and are also found in Chümoukedima District and Dimapur District of Nagaland; part of their territory lies in Niuland District of Nagaland and Senapati District of Manipur. The group has four regional divisions: Chakhro Angami, Northern Angami, Southern Angami and Western Angami. Angami society was historically organized around autonomous village-states, each maintaining distinct clan genealogies and oral records of settlement. The Angamis traditionally identify themselves through village affiliations and more broadly as part of the Tenyimi group. Their language, Angami or Tenyidie, is spoken in the Naga Hills and is classified as vulnerable under the UNESCO Language Vitality and Endangerment framework.
+
+## Material culture
+
+### Architecture
+
+They state that traditional Angami society was historically organized around autonomous village-states and identify numerous urban and rural centres across the four Angami regions, including Viswema, Jakhama, Kigwema, Khonoma, Kohima, Chümoukedima and Dimapur.
+
+## Music & performance
+
+The Angami Naga language article states that song lyrics written in Tenyidie form a significant source of text, alongside Christian songs written by the Angami church community. It names the *Shieshülie* songbook associated with Baptist Revival Church and notes the development of a rock music culture in Nagaland connected with events and societies such as the Hornbill National Rock Contest. The same source states that ethnic folktales and song lyrics are important parts of the available Tenyidie text collection. It also notes that the complete Tenyidie Bible was published in 1970, while only a translated chapter of Genesis from the Bible was posted on the internet under The Rosetta Project.
+
+## Festivals & rituals
+
+The Angamis celebrate a ten-day festival called **Sekrenyi**. It is described as a purification festival observed to wash off past sins. **Te–l Khukhu** falls on the 13th of *Chünyi* (July). It is a time of giving and sharing food with each other and is described as the only festival dedicated to girls. The sources state that different animistic rituals were formerly performed during Te–l Khukhu, but that these rituals were no longer performed with the advent of Christianity; the festival is now celebrated as a time of get-togetherness and sharing with close relations.
+
+Other notable festivals named in the source are **Terhünyi**, **Ngonyi**, **Chadanyi** and **Kerunyi**, but the supplied material gives no further descriptions of their dates, rites or social contexts.
+
+The traditional Angami religion is known as *Pfütsana* or *Krüna*. The sources state that practitioners are concentrated in several villages in the southern part of Kohima District. In 1987, the religious organization Japfüphiki Pfütsana was established to preserve and institutionalize indigenous Angami religious practices. According to the 1991 Census of India, there were 1760 practitioners of Pfütsana, declining to 884 in the 2001 census.
+
+## Foodways
+
+*Galho* is a popular Angami cuisine made from a mixture of rice, Himalayan knotweed, vegetables and meat, including pork or beef. Rice is an important part of the Angami diet.
+
+## Oral tradition & literature
+
+The origins of the Angamis are preserved primarily through oral traditions. Angami tradition traces their ancestry to Makhel, a historic settlement under present-day Senapati District of Manipur, which is regarded as a common point of dispersal for the Tenyimis and several other Naga ethnic groups. Kigwema and Viswema are considered the oldest ancestral settlements of the Angami Nagas, and Angami oral tradition states that many villages later branched out from these two settlements.
+
+Traditional Angami village-states maintained clan genealogies and oral records of settlement. The language source identifies ethnic folktales as an important body of Tenyidie text and names *Angami Naga folklore* by Sekhose, 1970. It also identifies song lyrics written in Tenyidie as a major textual source. The supplied material does not document named epics, proverbs, riddles, storytelling occasions, or contemporary literary movements beyond these collections and preservation efforts.
+
+## Language & religion
+
+Angami, also called Tenyidie, is a Naga language spoken in the Naga Hills in northeastern India, particularly in Kohima district, Nagaland. In 2011, there was an estimate of 153,000 first-language Angami speakers. Under the UNESCO Language Vitality and Endangerment framework, Angami is classified as “vulnerable,” meaning that it is still spoken by most children but may be restricted to certain domains.
+
+The most prominent dialects are Khwüno Dialect, associated with the Western Angami area; Kewhi Dialect, associated with the Northern Angami area; and Viswe Dialect or Keyho Dialect, associated with the Southern Angami area. Tenyidie is the prestige dialect, used for publications and taught in schools. The sources describe extensive Angami and English grammars and lexicons, while noting that earlier documentation from the 1870s–1960s often treated varying dialects as a standard form.
+
+The majority of Angami Nagas follow the Christian faith, predominantly Baptist Christianity. Christian missionary activity among the Angami began in the late 19th century, and Rev. C. D. King and his wife established mission work at Kohima in 1881. A surviving indigenous religious minority follows Pfütsana or Krüna; the source reports that only .77% follow animism.
+
+## Sources & further reading
+
+- Sekhose, *Angami Naga folklore*, 1970. Publisher not given in the supplied sources.
+- The Rosetta Project, Tenyidie text collection. Further publication details are not given in the supplied sources.
+- UCLA Working Papers in Phonetics, “Phonetic Structures of Khonoma Angami,” by Barbara Blankenship, Peter Ladefoged, Peri Bhaskararao and Nichumeno Chase, 1993.
+- Angami Naga: https://en.wikipedia.org/wiki/Angami_Naga
+- Angami Naga language: https://en.wikipedia.org/wiki/Angami_Naga_language
+- No UNESCO Intangible Cultural Heritage inscription supplied.
+- No museum catalogue records supplied.

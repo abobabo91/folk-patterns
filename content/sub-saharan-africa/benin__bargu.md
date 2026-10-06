@@ -21,7 +21,7 @@ Women’s clothing is described as a loincloth, skirt and headscarf. Young girls
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe several important wooden and hide-covered instruments. The sacred drums *Barabakaru* and *Barapiibu* are made of baobab wood and beef hide and stand between 125 and 127 centimetres high. The *Bara Kaaru* is kept in a small temple on the Baro Kpira farm in the Banikuara region. The sources also mention rifles loaded with black powder in the fantasia, and cylindrical sticks used in the *Teke* dance. No further tools, vessels or household objects are documented.
+They do describe several important wooden and hide-covered instruments. The sacred drums *Barabakaru* and *Barapiibu* are made of baobab wood and beef hide and stand between 125 and 127 centimetres high. The *Bara Kaaru* is kept in a small temple on the Baro Kpira farm in the Banikuara region. The sources also mention rifles loaded with black powder in the fantasia, and cylindrical sticks used in the *Teke* dance. No further tools, vessels or household objects are documented.
 
 ### Jewelry & body adornment
 

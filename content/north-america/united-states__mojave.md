@@ -13,27 +13,25 @@ The Mohave or Mojave, called *Aha Makhav* in Mojave, are a Native American peopl
 
 ### Clothing & dress
 
- Accounts of the Fort Mojave Indian School state that students were required to adopt European-American hairstyles, clothing, eating habits, sleeping habits, toiletry, manners, industry, and language. The sources also state that administrators assigned English names to children and registered them as citizens of one of two tribes, divisions that did not reflect the traditional Mojave clan and kinship system.
+Accounts of the Fort Mojave Indian School state that students were required to adopt European-American hairstyles, clothing, eating habits, sleeping habits, toiletry, manners, industry, and language. The sources also state that administrators assigned English names to children and registered them as citizens of one of two tribes, divisions that did not reflect the traditional Mojave clan and kinship system.
 
 ### Architecture
 
- They identify the First House of Mutavilya as a place whose tall pillars loomed above the Colorado River, and they describe Fort Mojave as a military post that was later converted into a boarding school.
+They identify the First House of Mutavilya as a place whose tall pillars loomed above the Colorado River, and they describe Fort Mojave as a military post that was later converted into a boarding school.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention traps and curved throwing sticks used to capture rabbits, but provide no further description of their manufacture or form.
+They do mention traps and curved throwing sticks used to capture rabbits, but provide no further description of their manufacture or form.
 
 ### Jewelry & body adornment
 
- They state only that students at Fort Mojave were compelled to adopt European-American hairstyles, including hair cutting.
+They state only that students at Fort Mojave were compelled to adopt European-American hairstyles, including hair cutting.
 
 ## Music & performance
 
 Mojave musical traditions include stories and songs transmitted orally and the traditional Mojave “bird songs.” The language sources describe Hubert McCord, one of the four tribal leaders of the Mojave tribe, as fluent in Mojave and state that he worked with poet Natalie Diaz to document Mojave stories and songs. In one video, McCord sings while taking a group of tribal youth on a short voyage around the Colorado River.
 
 The Center for Indian Education at Arizona State University facilitated workshops for learners and speakers at the Fort Mojave Indian Reservation as of 2012. The project brought elders together with younger people to teach the traditional Mojave bird songs. The language-preservation work of Natalie Diaz on the reservation was featured on PBS NewsHour in March 2012. The sources also identify the annual Megathrow Traditional Bird Singing & Dancing social event, held on the third weekend of March, and the Colorado River Indian Tribes Native American Days Fair & Expo, held annually in Parker from Thursday through Sunday during the first week of October.
-
-No musical instruments, instrumental genres, wedding performances, funeral performances, or court or tea-house contexts are described in the sources.
 
 ## Dance & theatre
 

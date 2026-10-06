@@ -19,7 +19,7 @@ The birch bark canoe was once an important means of transportation for the natio
 
 ## Music & performance
 
- They do identify several Penobscot performers and entertainers. Molly Spotted Elk, also known as Mary Alice “Molly Dellis” Nelson Archambaud, was an internationally known dancer who starred in the film *The Silent Enemy*. Lucy Nicolar Poolaw was an entertainer billed as “Princess Watahwaso.” Horace Nelson was the father of Molly Spotted Elk.
+They do identify several Penobscot performers and entertainers. Molly Spotted Elk, also known as Mary Alice “Molly Dellis” Nelson Archambaud, was an internationally known dancer who starred in the film *The Silent Enemy*. Lucy Nicolar Poolaw was an entertainer billed as “Princess Watahwaso.” Horace Nelson was the father of Molly Spotted Elk.
 
 The sources also mention the Penobscot High Stakes Bingo operation, opened on Indian Island in 1973. It was one of the first commercial gambling operations on a reservation in the United States, and bingo was held one weekend every six weeks. This is documented as a social and commercial activity rather than as a musical tradition.
 
@@ -31,13 +31,13 @@ The 1825 novel *Brother Jonathan* by the Maine native John Neal has its climax s
 
 ## Festivals & rituals
 
- They describe a seasonal way of life in which bands moved according to the patterns of game and fish. Men hunted beaver, otters, moose, bears, caribou, fish, seafood, birds, and possibly seals, while women gathered and processed bird eggs, berries, nuts, and roots.
+They describe a seasonal way of life in which bands moved according to the patterns of game and fish. Men hunted beaver, otters, moose, bears, caribou, fish, seafood, birds, and possibly seals, while women gathered and processed bird eggs, berries, nuts, and roots.
 
 Penobscot spirituality is connected with the land and its resources in Maine. Their cosmology includes folklore, reverence for living things, and a particularly close relationship with the Penobscot River, which is cherished and personified. Their origin story centers on Klose-kur-beh, also called Gluskbe, who provides spiritual and practical knowledge, including knowledge of canoe construction, and teaches ethical precepts through twelve episodes.
 
 ## Foodways
 
- They do describe food acquisition before and during early contact. Penobscot men hunted game, fish, seafood, birds, and possibly marine mammals such as seals. Women gathered and processed bird eggs, berries, nuts, and roots, all of which were found locally.
+They do describe food acquisition before and during early contact. Penobscot men hunted game, fish, seafood, birds, and possibly marine mammals such as seals. Women gathered and processed bird eggs, berries, nuts, and roots, all of which were found locally.
 
 People on the present-day Maine coast practiced some agriculture, though not to the same extent as Indigenous peoples in southern New England. Food was potentially scarce toward the end of winter, in February and March. During the rest of the year, the Penobscot and other Wabanaki likely had access to the bounty of the land and ocean waters. The sources also state that damming the Penobscot River reduced access to running fish, while clear-cutting forests reduced access to big game.
 

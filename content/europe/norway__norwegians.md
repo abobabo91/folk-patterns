@@ -43,7 +43,7 @@ Norwegian culinary traditions reflect long seafaring and farming traditions. Sea
 
 ## Oral tradition & literature
 
- They identify Henrik Wergeland as a national romanticist author and as the founder of the 17 May parade, but provide no further account of his literary work.
+They identify Henrik Wergeland as a national romanticist author and as the founder of the 17 May parade, but provide no further account of his literary work.
 
 ## Language & religion
 

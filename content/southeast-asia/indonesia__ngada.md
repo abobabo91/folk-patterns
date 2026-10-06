@@ -29,7 +29,7 @@ Ngada agriculture traditionally includes rice, corn, millet, beans, squash, pean
 
 ## Oral tradition & literature
 
- A publication about Ngada language and culture exists.
+A publication about Ngada language and culture exists.
 
 ## Language & religion
 

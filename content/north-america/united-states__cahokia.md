@@ -21,7 +21,7 @@ The Cahokia used waterways for travel and seasonal hunting camps. The sources al
 
 ## Festivals & rituals
 
- They state that French missionaries built missions to convert the Cahokia people and that Christianization contributed to cultural changes that disrupted their society.
+They state that French missionaries built missions to convert the Cahokia people and that Christianization contributed to cultural changes that disrupted their society.
 
 ## Foodways
 

@@ -13,7 +13,7 @@ The Trobriand are people of the Trobriand Islands whose settlements are primaril
 
 ### Clothing & dress
 
- They state that young people attending the delivery of yams to a yam house wear their most festive traditional clothes. During mourning, people closely related to the deceased avoid eating “good food,” while more distantly related people may wear black clothes.
+They state that young people attending the delivery of yams to a yam house wear their most festive traditional clothes. During mourning, people closely related to the deceased avoid eating “good food,” while more distantly related people may wear black clothes.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ Yams are stored in yam houses. At the beginning of the harvest, yams remain on d
 
 ### Ceramics, metalwork & everyday objects
 
- They mention seagoing canoes used in the *kula* exchange, yam baskets used to carry produce, books in which literate villagers write magic spells, and bundles of scored banana leaves used as currency among women.
+They mention seagoing canoes used in the *kula* exchange, yam baskets used to carry produce, books in which literate villagers write magic spells, and bundles of scored banana leaves used as currency among women.
 
 ### Jewelry & body adornment
 
@@ -29,7 +29,7 @@ Betel nuts are chewed with pepper plant and slaked lime, and the stimulant commo
 
 ## Music & performance
 
- They do describe performance practices connected with yam exchange and cricket. When young people carry yam baskets to the owner’s hamlet, they sing out to announce the arrival of the yams while thrusting out their hips in a sexually provocative way. In cricket, every time a team scores, a special dance ritual is performed. These dances adapt former war rituals and often include taunts and jeers directed at the opposing team. Their words are described as sexual metaphors through which teams taunt one another and display physical and sexual prowess before young women on the sidelines.
+They do describe performance practices connected with yam exchange and cricket. When young people carry yam baskets to the owner’s hamlet, they sing out to announce the arrival of the yams while thrusting out their hips in a sexually provocative way. In cricket, every time a team scores, a special dance ritual is performed. These dances adapt former war rituals and often include taunts and jeers directed at the opposing team. Their words are described as sexual metaphors through which teams taunt one another and display physical and sexual prowess before young women on the sidelines.
 
 Magic is also integrated into cricket strategy. Teams use charms and incantations to gain an advantage, including spells intended to make an opposing team less efficient at scoring.
 

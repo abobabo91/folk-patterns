@@ -31,7 +31,7 @@ The Maidu are a Native American people of northern California who reside in the 
 
 ### Clothing & dress
 
- They do record hats among the objects made by Maidu basketweavers. The sources also mention feathers, shells, quills, seeds, and beads as materials that could be attached to woven products. The Kuksu or “big head” dances are described as part of the religious tradition.
+They do record hats among the objects made by Maidu basketweavers. The sources also mention feathers, shells, quills, seeds, and beads as materials that could be attached to woven products. The Kuksu or “big head” dances are described as part of the religious tradition.
 
 ### Architecture
 
@@ -41,11 +41,11 @@ For summer use, the Maidu built a different kind of shelter from cut branches ti
 
 ### Ceramics, metalwork & everyday objects
 
- They do document wooden, stone, and woven objects associated with food preparation and household life. These include pestles, hollowed-out stones, stone-lined fire pits, bedrock mortars, large storage baskets, bowls, shallow trays, traps, cradles, hats, and seed beaters. Acorns were shelled, cleaned, and ground into meal by pounding them with a pestle on a hard surface, generally a hollowed-out stone.
+They do document wooden, stone, and woven objects associated with food preparation and household life. These include pestles, hollowed-out stones, stone-lined fire pits, bedrock mortars, large storage baskets, bowls, shallow trays, traps, cradles, hats, and seed beaters. Acorns were shelled, cleaned, and ground into meal by pounding them with a pestle on a hard surface, generally a hollowed-out stone.
 
 ### Jewelry & body adornment
 
- Feathers of brightly plumaged birds, shells, quills, seeds, and beads are identified as materials that could be attached to woven products.
+Feathers of brightly plumaged birds, shells, quills, seeds, and beads are identified as materials that could be attached to woven products.
 
 ## Music & performance
 

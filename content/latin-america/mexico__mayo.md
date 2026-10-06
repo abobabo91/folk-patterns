@@ -21,7 +21,7 @@ Mayo houses are built from adobe or wood, depending on the climate and location.
 
 ## Music & performance
 
- The Mayo language is used in programming broadcast by the INPI radio station XEETCH-AM from Etchojoa, Sonora.
+The Mayo language is used in programming broadcast by the INPI radio station XEETCH-AM from Etchojoa, Sonora.
 
 ## Festivals & rituals
 

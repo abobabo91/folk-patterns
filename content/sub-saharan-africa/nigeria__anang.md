@@ -17,7 +17,7 @@ The Anaang, also spelled Annang and Ànnang and also known as Oku Ibom, are an e
 
 ### Clothing & dress
 
- They do describe the fattening room, traditionally used for virgin adolescent girls before marriage. A girl in the fattening room was called a *mbobo*. She spent her time in the room naked so that her fattening could be observed and slept on a bamboo bed thought to fatten her. The practice was connected with preparation for marriage, instruction on how to be a wife, and the possibility of conceiving easily. Fattening rooms were also used at times for infertile wives and as a prerequisite for entrance into secret societies.
+They do describe the fattening room, traditionally used for virgin adolescent girls before marriage. A girl in the fattening room was called a *mbobo*. She spent her time in the room naked so that her fattening could be observed and slept on a bamboo bed thought to fatten her. The practice was connected with preparation for marriage, instruction on how to be a wife, and the possibility of conceiving easily. Fattening rooms were also used at times for infertile wives and as a prerequisite for entrance into secret societies.
 
 ### Architecture
 
@@ -25,25 +25,25 @@ Anaang social organization is reflected in named domestic and settlement units. 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention bamboo beds in the fattening room and describe masks carved by the Anaang, but give no further account of woodworking techniques, tools, materials, or object forms.
+They mention bamboo beds in the fattening room and describe masks carved by the Anaang, but give no further account of woodworking techniques, tools, materials, or object forms.
 
 ### Jewelry & body adornment
 
- They state that Anaang women served as female chief priestesses called *Abia Iyong* in the Iyong society and as healers in the healing society.
+They state that Anaang women served as female chief priestesses called *Abia Iyong* in the Iyong society and as healers in the healing society.
 
 ## Music & performance
 
- They do describe speech and oral performance as highly valued. Anaangs value the ability to speak well, and the use of proverbs in oratory is especially desirable among leaders. An individual with the gift of eloquent speech may be complimented as *Akwo Anaang*, meaning the “Man of Anaang.” The sources also state that the name “Anaang” has been explained within the group as meaning “they who speak well.”
+They do describe speech and oral performance as highly valued. Anaangs value the ability to speak well, and the use of proverbs in oratory is especially desirable among leaders. An individual with the gift of eloquent speech may be complimented as *Akwo Anaang*, meaning the “Man of Anaang.” The sources also state that the name “Anaang” has been explained within the group as meaning “they who speak well.”
 
 Masquerade is an important performance form. The Anaang perform a masquerade after the yam harvest to mark the visit of ancestral spirits, or *ekpo*. The word *ekpo* also names a men’s association that once had great influence among Ibibio groups. Anaang masks with grotesque features are called *iliok*. These masks are considered dangerous and may only be viewed by members of the ekpo. Other masks embody the beautiful spirit, or *mfon*.
 
 ## Dance & theatre
 
- They document masquerade performance after the yam harvest, when ancestral spirits, or *ekpo*, are visited. The sources distinguish *iliok* masks, which have grotesque features and are considered dangerous, from masks embodying the beautiful spirit, or *mfon*.
+They document masquerade performance after the yam harvest, when ancestral spirits, or *ekpo*, are visited. The sources distinguish *iliok* masks, which have grotesque features and are considered dangerous, from masks embodying the beautiful spirit, or *mfon*.
 
 ## Festivals & rituals
 
- They describe the masquerade performed after the yam harvest as a ritual marking the visit of ancestral spirits, or *ekpo*. They also document several life-cycle and social practices. The fattening room was traditionally used for virgin adolescent girls in preparation for marriage. The girl, known as a *mbobo*, was instructed on how to be a wife, and the occasion formed part of a major village celebration. The practice was also used at times for infertile wives and as a prerequisite for entrance into secret societies.
+They describe the masquerade performed after the yam harvest as a ritual marking the visit of ancestral spirits, or *ekpo*. They also document several life-cycle and social practices. The fattening room was traditionally used for virgin adolescent girls in preparation for marriage. The girl, known as a *mbobo*, was instructed on how to be a wife, and the occasion formed part of a major village celebration. The practice was also used at times for infertile wives and as a prerequisite for entrance into secret societies.
 
 Anaang traditional religious practice included *Idiong*, which was banned under British colonial rule; its priests were arrested, and articles and worship materials were publicly burnt. Those who did not convert to Christianity automatically became suspects. Anaang women’s organizations, including *abi-de*, *Nyaama*, and *Isong Iban*, gave women voice and status in society.
 

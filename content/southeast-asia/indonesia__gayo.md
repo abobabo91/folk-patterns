@@ -35,7 +35,7 @@ The Gayo dance traditions named in the supplied sources are **Saman dance**, **B
 
 ## Festivals & rituals
 
- They do state that ancient pre-Islamic practices remain extant among the Gayonese, including belief in good and bad spirits and in holy men, both dead and alive. People formerly gave ritual offerings and sacrifices to spirits, holy men, and ancestors.
+They do state that ancient pre-Islamic practices remain extant among the Gayonese, including belief in good and bad spirits and in holy men, both dead and alive. People formerly gave ritual offerings and sacrifices to spirits, holy men, and ancestors.
 
 ## Foodways
 

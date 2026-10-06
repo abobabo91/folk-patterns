@@ -17,31 +17,31 @@ The sources identify lodges and tipis as Hunkpapa camp dwellings. Hunkpapa camps
 
 ### Ceramics, metalwork & everyday objects
 
- They mention a medal given to Little White Bear by United States representatives in connection with the treaty of 1825.
+They mention a medal given to Little White Bear by United States representatives in connection with the treaty of 1825.
 
 ## Music & performance
 
- They identify Robert “Tree” Cody as a flutist and Ernie LaPointe as a Sun dancer, author, and orator.
+They identify Robert “Tree” Cody as a flutist and Ernie LaPointe as a Sun dancer, author, and orator.
 
 ## Dance & theatre
 
- They identify Ernie LaPointe as a Sun dancer, without describing the dance itself, its ceremonial context, or its performance.
+They identify Ernie LaPointe as a Sun dancer, without describing the dance itself, its ceremonial context, or its performance.
 
 ## Festivals & rituals
 
- The sources mention Sitting Bull College president Tomi Kay Phillips, whose name is given as Cante Wakan Win, and identify Ernie LaPointe as a Sun dancer, but provide no ritual account.
+The sources mention Sitting Bull College president Tomi Kay Phillips, whose name is given as Cante Wakan Win, and identify Ernie LaPointe as a Sun dancer, but provide no ritual account.
 
 ## Foodways
 
- The sources mention buffalo as an important reason for Lakota movement and occupation of hunting grounds.
+The sources mention buffalo as an important reason for Lakota movement and occupation of hunting grounds.
 
 ## Oral tradition & literature
 
- They identify Hunkpapa artists, writers, authors, poets, orators, and ledger artists, including Barbara May Cameron, Ćehu′pa, Dana Claxton, Annie Little Warrior, and Ernie LaPointe. The sources also identify Hunkpapa winter count keeper Ćehu′pa and describe him as a Ledger Art artist.
+They identify Hunkpapa artists, writers, authors, poets, orators, and ledger artists, including Barbara May Cameron, Ćehu′pa, Dana Claxton, Annie Little Warrior, and Ernie LaPointe. The sources also identify Hunkpapa winter count keeper Ćehu′pa and describe him as a Ledger Art artist.
 
 ## Language & religion
 
-The Hunkpapa speak Lakȟóta, one of the three dialects of the Sioux language. The name *Húŋkpapȟa* is identified as a Lakota word meaning “Head of the Circle.” They identify Ernie LaPointe as a Sun dancer but provide no account of Hunkpapa spiritual practices.
+The Hunkpapa speak Lakȟóta, one of the three dialects of the Sioux language. The name *Húŋkpapȟa* is identified as a Lakota word meaning “Head of the Circle.”
 
 ## Sources & further reading
 

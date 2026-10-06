@@ -17,15 +17,15 @@ The typical clothing of the Salar is described as very similar to that of the Hu
 
 ### Architecture
 
- They record that some Salar customs involve placing stones on the corners of houses, following a compromise associated with prayer flags and Tibetan Buddhist practice.
+They record that some Salar customs involve placing stones on the corners of houses, following a compromise associated with prayer flags and Tibetan Buddhist practice.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention the Quran brought by Haraman and Ahman, which is preserved at Jiezi Grand Mosque in Haidong, Qinghai, and was repaired by the Nanjing Museum to protect it from decay. The sources also state that prayer wheels with mantras were part of the demands made by a Tibetan ruler, although the Salars initially refused these demands on religious grounds.
+They mention the Quran brought by Haraman and Ahman, which is preserved at Jiezi Grand Mosque in Haidong, Qinghai, and was repaired by the Nanjing Museum to protect it from decay. The sources also state that prayer wheels with mantras were part of the demands made by a Tibetan ruler, although the Salars initially refused these demands on religious grounds.
 
 ### Jewelry & body adornment
 
- They describe beards, skullcaps and women’s veils as elements of dress, but provide no further account of adornment or its ritual functions.
+They describe beards, skullcaps and women’s veils as elements of dress, but provide no further account of adornment or its ritual functions.
 
 ## Music & performance
 
@@ -43,7 +43,7 @@ The sources describe marriage as an institution in which matchmakers and parents
 
 The Salar practice agriculture and horticulture. They cultivate chili and pepper in their gardens, and grow buckwheat, millet, wheat and barley. Other crops named in the sources are melons, grapes, apples, apricots and walnuts. A few Salar raise livestock, and the local timber industry provides another source of income for some villages.
 
- They state that Salars are predominantly Muslim and profess Sunni Islam, but do not specifically describe dietary rules or food practices associated with Islam. The sources also record that the Salar are an entrepreneurial people involved in multiple businesses and industries.
+They state that Salars are predominantly Muslim and profess Sunni Islam, but do not specifically describe dietary rules or food practices associated with Islam. The sources also record that the Salar are an entrepreneurial people involved in multiple businesses and industries.
 
 ## Oral tradition & literature
 

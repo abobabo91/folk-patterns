@@ -17,19 +17,19 @@ The sources mention clothing traditions only in connection with the historical t
 
 ### Architecture
 
- They state that communities historically lived in villages, camps, remote interiors and settlements, and that state governments later constructed new villages for Indigenous populations relocated from the jungle.
+They state that communities historically lived in villages, camps, remote interiors and settlements, and that state governments later constructed new villages for Indigenous populations relocated from the jungle.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention that Orang Asli exchanged jungle produce, gold and tin ore for fabrics, iron tools, necklaces and food, including rice.
+They do mention that Orang Asli exchanged jungle produce, gold and tin ore for fabrics, iron tools, necklaces and food, including rice.
 
 ### Jewelry & body adornment
 
- Necklaces are mentioned only as goods received by Indigenous people of the Malay Peninsula through exchange.
+Necklaces are mentioned only as goods received by Indigenous people of the Malay Peninsula through exchange.
 
 ## Festivals & rituals
 
- They state that the Malaysian government pursued the conversion of Indigenous people to Islam and their integration into the settled population, while Orang Asli communities preferred to modernise without becoming Malays, including in contexts where they converted to Islam. No specific religious ceremony or festival is identified.
+They state that the Malaysian government pursued the conversion of Indigenous people to Islam and their integration into the settled population, while Orang Asli communities preferred to modernise without becoming Malays, including in contexts where they converted to Islam. No specific religious ceremony or festival is identified.
 
 ## Foodways
 
@@ -37,7 +37,7 @@ The sources mention rice as a food received through exchange and describe severa
 
 ## Oral tradition & literature
 
- They do mention languages and names preserved in ethnographic classification, including Central Aslian, Northern Aslian and Southern Aslian languages, but provide no texts or descriptions of storytelling. The source states that the name “chewong” arose from a misunderstanding by a British huntsman of the name of a Malay employee in the Department of Hunting, Siwang bin Ahmat, before the Second World War period.
+They do mention languages and names preserved in ethnographic classification, including Central Aslian, Northern Aslian and Southern Aslian languages, but provide no texts or descriptions of storytelling. The source states that the name “chewong” arose from a misunderstanding by a British huntsman of the name of a Malay employee in the Department of Hunting, Siwang bin Ahmat, before the Second World War period.
 
 ## Language & religion
 

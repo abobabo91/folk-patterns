@@ -31,15 +31,15 @@ The Mường epic cycle says that the first Mường people lived in a cave on t
 
 ### Ceramics, metalwork & everyday objects
 
- The Mường epic does mention the acquisition of fire, house building, casting bronze drums, and the cutting and movement of a huge tree called Chu, described as having a copper trunk and iron branches. These references occur within the epic account and are not catalogue descriptions of surviving objects.
+The Mường epic does mention the acquisition of fire, house building, casting bronze drums, and the cutting and movement of a huge tree called Chu, described as having a copper trunk and iron branches. These references occur within the epic account and are not catalogue descriptions of surviving objects.
 
 ### Jewelry & body adornment
 
-The sources mention that some Mường women formerly wore neck rings. No other Mường jewelry, tattooing, henna practice, hairstyle, or body-adornment tradition is documented in the supplied sources.
+The sources mention that some Mường women formerly wore neck rings.
 
 ## Music & performance
 
- They mention music in the description of a video concerning the Mường people in Hòa Bình, but provide no musical details.
+They mention music in the description of a video concerning the Mường people in Hòa Bình, but provide no musical details.
 
 ## Festivals & rituals
 

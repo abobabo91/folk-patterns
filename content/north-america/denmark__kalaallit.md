@@ -15,8 +15,6 @@ The Kalaallit are an ethnographic group concentrated in western Greenland and th
 
 *No named textile or pattern traditions are documented in the sources used.*
 
-**Motif vocabulary.** The sources used name no motifs.
-
 ### Clothing & dress
 
 The sources state that the Kalaallit sew animal skins.

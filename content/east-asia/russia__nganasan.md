@@ -17,23 +17,23 @@ The sources provide limited information about Nganasan clothing. They state that
 
 ### Architecture
 
- They state that the Nganasans traditionally followed a semi-nomadic way of life and that, in the early 1970s, the state settled them with the Dolgans and Enets in the villages of Ust-Avam, Volochanka, and Novaya. These settlements were created around combined Nganasan kolkhoz.
+They state that the Nganasans traditionally followed a semi-nomadic way of life and that, in the early 1970s, the state settled them with the Dolgans and Enets in the villages of Ust-Avam, Volochanka, and Novaya. These settlements were created around combined Nganasan kolkhoz.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention tools, machinery, consumer goods, and Soviet equipment as products that entered Nganasan life through trade or the planned economy. Russian traders exchanged sable furs for alcohol, tobacco, tea, and various tools. The sources also state that domesticated reindeer were used primarily for transport or eaten during periods of famine before collectivization.
+They mention tools, machinery, consumer goods, and Soviet equipment as products that entered Nganasan life through trade or the planned economy. Russian traders exchanged sable furs for alcohol, tobacco, tea, and various tools. The sources also state that domesticated reindeer were used primarily for transport or eaten during periods of famine before collectivization.
 
 ## Music & performance
 
- They do, however, document shamanic performance as an important part of traditional religion. Nganasan religion is described as animistic and shamanistic, and shamanism remained a living phenomenon into the beginning of the 20th century because of the group’s geographic isolation. The last notable Nganasan shaman’s séances were recorded on film by anthropologists in the 1970s. The source bibliography also refers to the Nganasan shamanistic tradition and to the incantations of Tubyaku Kosterkin. The Nganasan language source states that Radio Taimyr, broadcasting from Dudinka, has transmitted daily programs in Nganasan since 1990; these broadcasts are described as language media rather than as a musical tradition.
+They do, however, document shamanic performance as an important part of traditional religion. Nganasan religion is described as animistic and shamanistic, and shamanism remained a living phenomenon into the beginning of the 20th century because of the group’s geographic isolation. The last notable Nganasan shaman’s séances were recorded on film by anthropologists in the 1970s. The source bibliography also refers to the Nganasan shamanistic tradition and to the incantations of Tubyaku Kosterkin. The Nganasan language source states that Radio Taimyr, broadcasting from Dudinka, has transmitted daily programs in Nganasan since 1990; these broadcasts are described as language media rather than as a musical tradition.
 
 ## Dance & theatre
 
- They mention films documenting Nganasan shamanism and the last notable shaman’s séances.
+They mention films documenting Nganasan shamanism and the last notable shaman’s séances.
 
 ## Festivals & rituals
 
- The best-documented ritual practice is shamanism. Traditional Nganasan religion is animistic and shamanistic, and the group’s geographic isolation allowed shamanism to remain relatively free of foreign influence until recent history. It continued as a living phenomenon into the beginning of the 20th century. Anthropologists filmed the last notable Nganasan shaman’s séances in the 1970s.
+The best-documented ritual practice is shamanism. Traditional Nganasan religion is animistic and shamanistic, and the group’s geographic isolation allowed shamanism to remain relatively free of foreign influence until recent history. It continued as a living phenomenon into the beginning of the 20th century. Anthropologists filmed the last notable Nganasan shaman’s séances in the 1970s.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ Nganasan foodways are documented chiefly through hunting, trade, and changes ass
 
 ## Oral tradition & literature
 
- They do identify the Nganasan language as a subject of grammatical and lexicographic documentation, including the *Chrestomathia Nganasanica*, a collection involving texts, translation, glossary, and grammar. The bibliography also includes work on Nganasan incantations, including “The Incantations of Tubyaku Kosterkin,” and studies of Nganasan shamans from the Kosterkin family. The Nganasan language source records that the language was spoken rather than written until the 1980s and that a Cyrillic-based alphabet was devised in the 1990s. These materials represent preservation and scholarly documentation.
+They do identify the Nganasan language as a subject of grammatical and lexicographic documentation, including the *Chrestomathia Nganasanica*, a collection involving texts, translation, glossary, and grammar. The bibliography also includes work on Nganasan incantations, including “The Incantations of Tubyaku Kosterkin,” and studies of Nganasan shamans from the Kosterkin family. The Nganasan language source records that the language was spoken rather than written until the 1980s and that a Cyrillic-based alphabet was devised in the 1990s. These materials represent preservation and scholarly documentation.
 
 ## Language & religion
 

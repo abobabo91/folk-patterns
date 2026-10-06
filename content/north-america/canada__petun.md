@@ -25,7 +25,7 @@ The Jesuit Relations in 1652 described tattooing among the Petun and the Neutral
 
 ## Festivals & rituals
 
- They do, however, document funerary practices in the broader Ontario Iroquoian archaeological tradition: the Early Ceramic period saw the appearance of more elaborate funerary practices, including secondary burials and the use of ossuaries.
+They do, however, document funerary practices in the broader Ontario Iroquoian archaeological tradition: the Early Ceramic period saw the appearance of more elaborate funerary practices, including secondary burials and the use of ossuaries.
 
 ## Foodways
 

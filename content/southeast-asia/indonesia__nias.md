@@ -13,7 +13,7 @@ The Nias, also called *Ono Niha* or Niasans, are an Austronesian ethnic group na
 
 ### Textile & pattern traditions
 
- They state that Nias people produce *Katidi*, weavings from bamboo.
+They state that Nias people produce *Katidi*, weavings from bamboo.
 
 **Motif vocabulary.** The sources describe Nias household objects as carved with zoomorphic, floral, or geometric motifs.
 
@@ -41,7 +41,7 @@ The sources identify precious-metal earrings and necklaces as Nias ornaments. *F
 
 ## Music & performance
 
- They identify several performance-related practices. *Fangowai* is a welcoming-of-guest dance. *Maena* is a group dance, and *Tari Moyo* is an eagle dance. *Tari Mogaele* is listed without description. *Fatele*, also called *Faluya* or *Faluaya*, is a war dance.
+They identify several performance-related practices. *Fangowai* is a welcoming-of-guest dance. *Maena* is a group dance, and *Tari Moyo* is an eagle dance. *Tari Mogaele* is listed without description. *Fatele*, also called *Faluya* or *Faluaya*, is a war dance.
 
 The sources connect performance and public display with stone monuments and social rank. The *Owasa* festival is described as a feast for raising a person’s rank. Publicly dedicating stone monuments was one of the requirements for claiming a higher rank and receiving honorary titles. The *osa-osa*, an anthropomorphic form of the *behu* megalith, was paraded around the village before being displayed in front of a house. The host could be seated or even stand on top of it.
 

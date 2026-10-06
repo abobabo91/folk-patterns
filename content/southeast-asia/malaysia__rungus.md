@@ -43,7 +43,7 @@ The Rungus traditional house at Bavanggazo in Matunggong uses locally sourced ru
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe brass ornaments, including coils worn on the arms, legs and neck, brass rings worn around the waist, and the brass ring incorporated into the orot hipband. Women make containers from vine or beadwork, and the community uses backstrap looms for weaving cloth. Plastic spoons heated over a flame are used in the production of yellow beads. The sources also record bamboo as a building material and split bamboo as a material for the communal platform of the longhouse.
+They do describe brass ornaments, including coils worn on the arms, legs and neck, brass rings worn around the waist, and the brass ring incorporated into the orot hipband. Women make containers from vine or beadwork, and the community uses backstrap looms for weaving cloth. Plastic spoons heated over a flame are used in the production of yellow beads. The sources also record bamboo as a building material and split bamboo as a material for the communal platform of the longhouse.
 
 ### Jewelry & body adornment
 

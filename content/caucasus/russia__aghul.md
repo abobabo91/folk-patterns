@@ -13,15 +13,15 @@ The Aghuls are a Northeast Caucasian ethnic group native predominantly to Agulsk
 
 ### Architecture
 
- They state that each *tukhum* had its own cemetery, pastures, and hay fields, but provide no architectural description of these places.
+They state that each *tukhum* had its own cemetery, pastures, and hay fields, but provide no architectural description of these places.
 
 ## Music & performance
 
- No UNESCO Intangible Cultural Heritage inscription supplied for this profile concerns the Aghuls.
+No UNESCO Intangible Cultural Heritage inscription supplied for this profile concerns the Aghuls.
 
 ## Festivals & rituals
 
- They state that the Aghuls were converted to Islam at a fairly early date, subsequent to the Arab conquest of the eighth century. No further ritual detail is supplied.
+They state that the Aghuls were converted to Islam at a fairly early date, subsequent to the Arab conquest of the eighth century. No further ritual detail is supplied.
 
 ## Language & religion
 

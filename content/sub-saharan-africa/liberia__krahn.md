@@ -13,27 +13,27 @@ The Krahn are an ethnic group of Liberia and Ivory Coast. They belong to the Kru
 
 ### Architecture
 
- They state that early Krahn political organization centered on villages, where a village “headman” could rise through social esteem gained through skill, hard work, and luck in hunting and farming. Villages also included councils of young warriors and village elders.
+They state that early Krahn political organization centered on villages, where a village “headman” could rise through social esteem gained through skill, hard work, and luck in hunting and farming. Villages also included councils of young warriors and village elders.
 
 ### Ceramics, metalwork & everyday objects
 
- They do document ceremonial face masks, which could serve both ritual and political purposes. These masks were often modeled after animals and were used in community mediations. The sources also state that masks could help implement social control before the adoption of Western laws during the colonial period.
+They do document ceremonial face masks, which could serve both ritual and political purposes. These masks were often modeled after animals and were used in community mediations. The sources also state that masks could help implement social control before the adoption of Western laws during the colonial period.
 
 ### Jewelry & body adornment
 
- They state that ceremonial masks were important objects in Krahn and related Wee social, ritual, and political life.
+They state that ceremonial masks were important objects in Krahn and related Wee social, ritual, and political life.
 
 ## Music & performance
 
- They do describe the performance functions of masks among the Wee in Ivory Coast, a people identified in the sources as a name used for Krahn-related populations. Bush spirits were believed to communicate with humans through dreams and to demand that ceremonial masks be made in their honor, in either male or female form. These masks served ritual ceremonies, entertainment, and the presentation of moral stories, as well as judicial and political controls. Female masks were regarded as less imposing and more beautiful than male masks and were used more for ritual and entertainment. Male masks were more ferocious-looking and were used in sociopolitical contexts. All Wee masks were believed to deflect sorcery, and their primary functions could change during their lifetimes.
+They do describe the performance functions of masks among the Wee in Ivory Coast, a people identified in the sources as a name used for Krahn-related populations. Bush spirits were believed to communicate with humans through dreams and to demand that ceremonial masks be made in their honor, in either male or female form. These masks served ritual ceremonies, entertainment, and the presentation of moral stories, as well as judicial and political controls. Female masks were regarded as less imposing and more beautiful than male masks and were used more for ritual and entertainment. Male masks were more ferocious-looking and were used in sociopolitical contexts. All Wee masks were believed to deflect sorcery, and their primary functions could change during their lifetimes.
 
 ## Dance & theatre
 
- They state that ceremonial masks were used in rituals, entertainment, moral stories, community mediation, and sociopolitical contexts. The sources therefore document masked performance functions.
+They state that ceremonial masks were used in rituals, entertainment, moral stories, community mediation, and sociopolitical contexts. The sources therefore document masked performance functions.
 
 ## Festivals & rituals
 
- They do describe ritual actions associated with cultivation, expansion, travel, and relations with the natural world. The Wee believe that the natural world includes “bush spirits,” understood as spirits of the world untouched by humans. When new land is cultivated for fields or expansion, or when tribesmen travel outside the village, offerings to these spirits are necessary because keeping them appeased is considered vital to the health of the tribe. Bush spirits are also believed to take corporeal form in order to interact with villagers and participate in ceremonies.
+They do describe ritual actions associated with cultivation, expansion, travel, and relations with the natural world. The Wee believe that the natural world includes “bush spirits,” understood as spirits of the world untouched by humans. When new land is cultivated for fields or expansion, or when tribesmen travel outside the village, offerings to these spirits are necessary because keeping them appeased is considered vital to the health of the tribe. Bush spirits are also believed to take corporeal form in order to interact with villagers and participate in ceremonies.
 
 The sources state that bush spirits can communicate with humans through dreams and may demand ceremonial masks in male or female form. These masks can function in ritual ceremonies, entertainment, moral storytelling, judicial matters, and political control.
 
@@ -45,7 +45,7 @@ The sources state that hunting and farming traditions among both the Krahn in Li
 
 ## Oral tradition & literature
 
- They do state that masks were used as focal points in moral stories among the Wee and that masks could participate in community mediation and social control.
+They do state that masks were used as focal points in moral stories among the Wee and that masks could participate in community mediation and social control.
 
 ## Language & religion
 

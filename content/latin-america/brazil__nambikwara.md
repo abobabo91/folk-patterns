@@ -17,15 +17,15 @@ The sources record that the exonym Nambikwara comes from the Tupi language famil
 
 ## Festivals & rituals
 
- The sources do record that contact with missionaries included Christian education among Mamaindê speakers.
+The sources do record that contact with missionaries included Christian education among Mamaindê speakers.
 
 ## Foodways
 
- The linguistic sources mention “manioc” in examples concerning noun suffixes, including a bone-like manioc root.
+The linguistic sources mention “manioc” in examples concerning noun suffixes, including a bone-like manioc root.
 
 ## Oral tradition & literature
 
- They do record that Claude Lévi-Strauss studied Nambikwara culture and that Jacques Derrida later analyzed those studies in *Of Grammatology*. The sources also identify linguistic documentation, including vocabulary lists and grammatical descriptions.
+They do record that Claude Lévi-Strauss studied Nambikwara culture and that Jacques Derrida later analyzed those studies in *Of Grammatology*. The sources also identify linguistic documentation, including vocabulary lists and grammatical descriptions.
 
 ## Language & religion
 

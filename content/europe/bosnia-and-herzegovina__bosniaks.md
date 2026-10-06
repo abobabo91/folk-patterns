@@ -15,21 +15,17 @@ Bosniaks are a South Slavic ethnic group and nation native to Bosnia and Herzego
 
 The sources describe Bosnia as a rugged, mountainous country with poor communications and note that Bosnians and Bosnian Muslims lived in urban centres during Ottoman rule.
 
-## Music & performance
-
- The sources do mention the Bosnian Church and the religious plurality of medieval Bosnia, but they provide no information about associated musical practices.
-
 ## Festivals & rituals
 
- They do state that Bosniaks traditionally and predominantly adhere to Sunni Islam and that the population of medieval Bosnia was religiously plural and tolerant until the Ottoman invasion in 1463.
+They do state that Bosniaks traditionally and predominantly adhere to Sunni Islam and that the population of medieval Bosnia was religiously plural and tolerant until the Ottoman invasion in 1463.
 
 ## Foodways
 
- They state that Bosnian Muslims traditionally and predominantly adhered to Sunni Islam, but provide no foodways associated with that religious affiliation.
+They state that Bosnian Muslims traditionally and predominantly adhered to Sunni Islam, but provide no foodways associated with that religious affiliation.
 
 ## Oral tradition & literature
 
- They do record historical names and texts associated with Bosnia, including the *De Administrando Imperio*, the work *Essays on the Latin Orient*, the Oxford English Dictionary, and the Miroslav Krleža Lexicographical Institute, but do not present a Bosniak oral or literary tradition.
+They do record historical names and texts associated with Bosnia, including the *De Administrando Imperio*, the work *Essays on the Latin Orient*, the Oxford English Dictionary, and the Miroslav Krleža Lexicographical Institute, but do not present a Bosniak oral or literary tradition.
 
 ## Language & religion
 

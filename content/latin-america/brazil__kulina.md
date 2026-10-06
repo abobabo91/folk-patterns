@@ -11,7 +11,7 @@ The Kulina are an Indigenous people of Brazil and Peru. In Brazil, 2,540 Kulina 
 
 ## Oral tradition & literature
 
- They state only that parts of the Bible have been translated into Kulina.
+They state only that parts of the Bible have been translated into Kulina.
 
 ## Language & religion
 

@@ -21,15 +21,15 @@ The sources mention mills and blacksmith shops as communal structures and descri
 
 ## Festivals & rituals
 
- They record the persecution of Old Believers, their migration to the Bukhtarma region, their incorporation into the Russian Empire on September 15, 1791, and their exemption from conscription, mining and factory work, and some other state duties.
+They record the persecution of Old Believers, their migration to the Bukhtarma region, their incorporation into the Russian Empire on September 15, 1791, and their exemption from conscription, mining and factory work, and some other state duties.
 
 ## Foodways
 
- They state that the Kamenschiks engaged in hunting, agriculture, fishing, beekeeping, cattle breeding, farming, ore mining, and trade.
+They state that the Kamenschiks engaged in hunting, agriculture, fishing, beekeeping, cattle breeding, farming, ore mining, and trade.
 
 ## Oral tradition & literature
 
- The historical account records that the Bukhtarma valley came to be known as Belovodye and names the families of the Berdyugins, Lykovs, Korobeinikovs, and Lysovs.
+The historical account records that the Bukhtarma valley came to be known as Belovodye and names the families of the Berdyugins, Lykovs, Korobeinikovs, and Lysovs.
 
 ## Language & religion
 

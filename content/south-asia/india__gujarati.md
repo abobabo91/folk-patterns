@@ -21,11 +21,11 @@ Gujarati dress described in the sources includes the *choli*, *ghaghra*, and *ba
 
 ### Architecture
 
- They mention the *mandap*, a decorated canopy used for Hindu weddings, whose four pillars represent the parents of the bride and groom. They also mention temples, mosques, community centres, the BAPS Swaminarayan Temple in Neasden, London, the Jain Temple in Leicester, and the Masjid Umar. In Gujarati cuisine, *undhiyu* is traditionally cooked upside down underground in earthen pots fired from above.
+They mention the *mandap*, a decorated canopy used for Hindu weddings, whose four pillars represent the parents of the bride and groom. They also mention temples, mosques, community centres, the BAPS Swaminarayan Temple in Neasden, London, the Jain Temple in Leicester, and the Masjid Umar. In Gujarati cuisine, *undhiyu* is traditionally cooked upside down underground in earthen pots fired from above.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention brass and copper utensils sold at the Bhavnath Mahadev Mela, silver ornaments sold at the Chitra–Vichitra Mela, and embroidered umbrellas associated with the Trinetreshwar Mahadev Fair. The wedding rite described as *Samagree* uses crushed sandalwood, herbs, sugar, rice, ghee, and twigs offered into the sacred fire.
+They mention brass and copper utensils sold at the Bhavnath Mahadev Mela, silver ornaments sold at the Chitra–Vichitra Mela, and embroidered umbrellas associated with the Trinetreshwar Mahadev Fair. The wedding rite described as *Samagree* uses crushed sandalwood, herbs, sugar, rice, ghee, and twigs offered into the sacred fire.
 
 ### Jewelry & body adornment
 

@@ -37,11 +37,11 @@ The sources state that there are ten *tranobe* in Mananjary and twelve in the hi
 
 ### Ceramics, metalwork & everyday objects
 
- They mention amulets used for protection.
+They mention amulets used for protection.
 
 ### Jewelry & body adornment
 
- They mention protective amulets without describing their materials or construction.
+They mention protective amulets without describing their materials or construction.
 
 ## Music & performance
 
@@ -53,7 +53,7 @@ The sources also describe two short films about the Sambatra. The first, *Sambat
 
 ## Dance & theatre
 
- They document music, singing, war reenactments, and a ceremonial march during the Sambatra.
+They document music, singing, war reenactments, and a ceremonial march during the Sambatra.
 
 ## Festivals & rituals
 

@@ -13,7 +13,7 @@ The Arikara, also known as Sahnish, Arikaree, Ree, or Hundi, are Native American
 
 ### Clothing & dress
 
- They state that Arikara people wore two upright bones in their hair in an ancient custom, a practice associated with an interpretation of the name Arikara as meaning “horns.”
+They state that Arikara people wore two upright bones in their hair in an ancient custom, a practice associated with an interpretation of the name Arikara as meaning “horns.”
 
 ### Architecture
 
@@ -21,15 +21,15 @@ Arikara settlements included fortified villages and villages of earth lodges. Th
 
 ### Ceramics, metalwork & everyday objects
 
- They describe the travois, a lightweight transportation device pulled by dogs, consisting of two long poles attached by a harness at the dog’s shoulders, with a ladder-like frame or a hoop made of plaited thongs between the poles. It carried firewood, infants, harvested meat, and loads that might exceed 60 pounds; a single dog could pull a quarter of a bison.
+They describe the travois, a lightweight transportation device pulled by dogs, consisting of two long poles attached by a harness at the dog’s shoulders, with a ladder-like frame or a hoop made of plaited thongs between the poles. It carried firewood, infants, harvested meat, and loads that might exceed 60 pounds; a single dog could pull a quarter of a bison.
 
 ### Jewelry & body adornment
 
- They describe an ancient hair practice involving two upright bones and state that the Arikara traditionally owned 30–40 dogs, which were used for hunting, as sentries, and for transportation.
+They describe an ancient hair practice involving two upright bones and state that the Arikara traditionally owned 30–40 dogs, which were used for hunting, as sentries, and for transportation.
 
 ## Festivals & rituals
 
- They describe seasonal bison hunts, agricultural cycles, village life, warfare, and the Arikara creation myth. In that myth, Nishanu, the great sky chief, created giants; the good giants who survived a great flood became corn kernels under the earth. Nishanu planted corn in the heavens, yielding Mother Corn, who went to the earth to lead the people from the East into the West. She later returned with a leader who taught the people to fight their enemies rather than one another.
+They describe seasonal bison hunts, agricultural cycles, village life, warfare, and the Arikara creation myth. In that myth, Nishanu, the great sky chief, created giants; the good giants who survived a great flood became corn kernels under the earth. Nishanu planted corn in the heavens, yielding Mother Corn, who went to the earth to lead the people from the East into the West. She later returned with a leader who taught the people to fight their enemies rather than one another.
 
 ## Foodways
 

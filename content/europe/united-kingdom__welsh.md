@@ -29,7 +29,7 @@ Welsh pottery was made in Swansea and Llanelli between 1764 and 1922, while porc
 
 ### Jewelry & body adornment
 
- They mention early medieval penannular brooches and other pieces of jewellery found at Dinas Powys, and similar brooches discovered near Abergele at Penycorddyn-mawr, dating to the 8th century.
+They mention early medieval penannular brooches and other pieces of jewellery found at Dinas Powys, and similar brooches discovered near Abergele at Penycorddyn-mawr, dating to the 8th century.
 
 ## Music & performance
 

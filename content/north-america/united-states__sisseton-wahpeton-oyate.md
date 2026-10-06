@@ -13,21 +13,17 @@ The Sisseton Wahpeton Oyate of the Lake Traverse Reservation, formerly known as 
 
 ### Architecture
 
- They do state that the tribal government was based at Agency Village after the reorganization of 1946 and that the reservation contains seven districts: Agency Village, Lake Traverse, Buffalo Lake, Veblen, Big Coulee, Long Hollow, and Enemy Swim.
+They do state that the tribal government was based at Agency Village after the reorganization of 1946 and that the reservation contains seven districts: Agency Village, Lake Traverse, Buffalo Lake, Veblen, Big Coulee, Long Hollow, and Enemy Swim.
 
 ### Ceramics, metalwork & everyday objects
 
- The historical account mentions food and supplies distributed through an Indian agency in 1862.
+The historical account mentions food and supplies distributed through an Indian agency in 1862.
 
 ## Music & performance
 
 The sources identify Bryan Akipa as a Native American flute-player and Floyd Red Crow Westerman as a Sisseton Dakota singer and actor from the Lake Traverse Reservation.
 
 The documented historical record does describe public and political forms of collective action. From 1884 until 1913, the tribal government was based upon the concept of the Soldier’s Lodge. External pressure from federal Indian agents and religious missionaries, together with internal turmoil, led to the creation of an advisory committee in 1913. That committee remained the basis of government until 1946.
-
-## Dance & theatre
-
- They identify Floyd Red Crow Westerman as a singer and actor, but provide no description of his performance traditions or of a specifically Sisseton Wahpeton theatre practice.
 
 ## Festivals & rituals
 
@@ -37,13 +33,13 @@ Large-scale combat ended on September 26, 1862, at the Battle of Wood Lake, and 
 
 ## Foodways
 
- They mention that the Treaty of Traverse des Sioux involved lands valued for agriculture and that the Upper Sioux territory was familiar in terms of hunting and fishing. They also state that Sisseton and Wahpeton people had adopted subsistence farming by 1862.
+They mention that the Treaty of Traverse des Sioux involved lands valued for agriculture and that the Upper Sioux territory was familiar in terms of hunting and fishing. They also state that Sisseton and Wahpeton people had adopted subsistence farming by 1862.
 
 The historical account records disputes over food and supplies during the Dakota War of 1862. On August 4, the Sisseton and Wahpeton bands obtained food and supplies from the Indian agency. On August 17, the Mdewakanton and Wahpekute bands were denied supplies because the United States Indian Agent and Minnesota State Senator Thomas J. Galbraith refused to distribute them without payment from the Sioux.
 
 ## Oral tradition & literature
 
- They identify Paul War Cloud as an author and artist, Isabella Star LaBlanc as an actress, and Floyd Red Crow Westerman as a singer and actor.
+They identify Paul War Cloud as an author and artist, Isabella Star LaBlanc as an actress, and Floyd Red Crow Westerman as a singer and actor.
 
 The sources do document efforts to preserve and teach Dakota language and studies. Sisseton Wahpeton College established Dakota Studies in 1992 and a Dakota language program in 2005. The college was founded in 1979 on the Lake Traverse Reservation and now offers associate degrees in academic studies as well as arrangements enabling students to transfer to four-year colleges.
 

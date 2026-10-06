@@ -19,7 +19,7 @@ No named Wai-wai motifs or pattern vocabulary are given in the sources.
 
 ### Architecture
 
- The Umana Yana in Georgetown, Guyana, takes its name from the Wai-Wai for “meeting place,”.
+The Umana Yana in Georgetown, Guyana, takes its name from the Wai-Wai for “meeting place,”.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -33,7 +33,7 @@ A Waiwai Collection of Niels Fock contains audio recordings of ceremonial chants
 
 ## Festivals & rituals
 
- They do describe several spiritual practices associated with the *yaskomo*, also called a medicine man or shaman in literature. The *yaskomo* is believed to be able to perform a soul flight for healing, to fly to the sky to consult cosmological beings for a name for a newborn baby, to fly to the cave of peccaries’ mountains to ask the father of peccaries for abundance of game, and to fly deep down in a river to obtain the help of other beings.
+They do describe several spiritual practices associated with the *yaskomo*, also called a medicine man or shaman in literature. The *yaskomo* is believed to be able to perform a soul flight for healing, to fly to the sky to consult cosmological beings for a name for a newborn baby, to fly to the cave of peccaries’ mountains to ask the father of peccaries for abundance of game, and to fly deep down in a river to obtain the help of other beings.
 
 Marriage is called *Mansiya*. For women, marriage cannot take place until after the first menses, around age thirteen, and most women are married by age seventeen.
 
@@ -47,7 +47,7 @@ The rainforest is described as providing nuts, fruit, and fresh fish, as well as
 
 ## Oral tradition & literature
 
- The Waiwai Collection of Niels Fock includes audio recordings of ceremonial chants made in the 1950s.
+The Waiwai Collection of Niels Fock includes audio recordings of ceremonial chants made in the 1950s.
 
 ## Language & religion
 

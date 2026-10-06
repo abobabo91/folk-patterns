@@ -1,0 +1,87 @@
+---
+title: "Frafra"
+subtitle: "Ghana"
+region: "Sub Saharan Africa"
+tags: [ethnography, sub-saharan-africa]
+---
+
+## Overview
+
+The Frafra are a subset of the Gurunsi peoples living in Ghana’s Upper East Region, particularly in the northeastern part of the country between the white and red Volta Rivers. Their commercial center is Bolgatanga, with Bongo, Zuarungu, Zoko, and Pwalugu among the other important towns and villages. The name Frafra is associated with the greeting “Yɛ fara fara?” or the repeated phrase “furra furra,” accompanied by hand-clapping. Frafra-language speakers number approximately 300,000. The group includes the Gurensi, Talensi, Nabdam, and Kusasi, who share cultural similarities but remain linguistically and otherwise distinguishable. Most of the region is rural, and agriculture is central to everyday life. Frafra culture includes pottery, decorated architecture, brass jewelry, scarification, ritual clothing, funerals, agriculture, and oral literature.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Cotton smocks** — Cotton smocks are worn by men together with pants or shorts. The sources distinguish several types by name and social significance: *dansika* is widely available in markets; *Banaa* signifies success; *Jampa* represents high status and is worn by a lower-tier chief; and *Kpartikoto* is reserved for the most important chief.
+
+**Men’s smock motifs** — *Tana* is a pottery motif made from pieced-together strips of cloth used in the construction of men’s smocks. The smock is also described as a marker of status, security, good fortune, and personal achievement.
+
+**Animal-skin dress** — Historically, men wore animal skins slung over the back, sewn together at the front and hind legs, or wrapped around the waist. The sources connect these skins with hunting, the earth, and the ability of humans to assert power over natural resources.
+
+**Leaf coverings** — Historically, people working in the fields could wear leaves or skins. Leaves were associated with women’s relationship to crops and could serve as status markers.
+
+**Motif vocabulary.** *Yie*, a curved line resembling the first phase of the moon and symbolizing the beginning of something; *kura*, associated with the grass “ropes” used to secure rafters; *zanlenga*, a net used to store calabash bowls and associated with marriage and women’s burial rites; *wanzageze*, a broken calabash shard representing women’s roles as wife and mother; *tana*, pieced-together strips of cloth associated with men’s smocks and the beginning of a journey.
+
+### Clothing & dress
+
+Present-day clothing consists largely of cotton garments. Women wear blouses with long wrap skirts and tie their hair in a scarf. Men wear pants or shorts with a cotton smock. The sources name four types of smock: *dansika*, *Banaa*, *Jampa*, and *Kpartikoto*. Chiefs also wear the red fez, which signifies status and role. Hunters and warriors wear a calabash helmet decorated with cowrie shells, animal hair, and feathers. Two forms are called *nugo* and *nugo illa*: one has a sheep-hair plume and the other has bush-cow horns. Historically, the *tindaana*, the custodian of the earth and a religious and political leader, wore animal skins and a black twine cap. Skins were required during sacrifices and were worn for particular rituals, including the Talensi planting festival.
+
+### Architecture
+
+The sources identify decorated architecture as one of the most recognized Frafra art forms. They state that each extended family maintains its own house, where magical lineage objects are kept. The pottery motif *kura* refers to grass “ropes” used to secure rafters in homes. Graves are described as resembling domestic objects such as a decanter or the shape of a typical room, emphasizing the deceased’s social role and connecting the worlds of the dead and the living.
+
+### Ceramics, metalwork & everyday objects
+
+Pottery is important to the Frafra and is associated with women’s connection to the earth. Women alone participate in pottery production. Pots are made primarily for domestic and ritual purposes, with a smaller quantity produced for sale. The sources name four major Gurensi pottery motifs: *yie*, *zanlenga*, *wanzageze*, and *tana*. Frafra art also includes anthropomorphic figures sculpted from clay and wood, wooden stools, and other personal objects made to honor spirits. Cast brass jewelry is another recognized art form.
+
+### Jewelry & body adornment
+
+In the nineteenth century, the Frafra were a major production center for jewelry. Women wore bangles made from ivory and bone, which indicated status. The highest-status bangles were cast brass and signified the wearer’s power to protect. Ivory bands could be used during courtship as gifts from a father to his daughter and as an outward display of household success and her availability for marriage.
+
+Scarification is practiced chiefly on the face and torso. Women typically have scars on the chest, stomach, and back. The process normally begins between the ages of four and six and is carried out by a *yagenwata*, who may be a man or a woman. Named patterns include *dovisi*, *dua*, *bone*, and *bene*. Tattoos have also become popular, especially among young adults.
+
+## Music & performance
+
+The sources describe drums in the context of funerals. During the mortuary ceremony, the oldest son announces the beginning of the event by shouting to the compound at midnight. Drums then begin, and men parade through the compound wearing full battle regalia until sunrise.
+
+Funerals are public events lasting from several days to a week, depending on the status of the deceased. They are described as celebrations intended to unite the community rather than solely as solemn ceremonies. The sources also state that men hunt during the long dry season and interact with spirits in the bush for ritual reasons. No UNESCO Intangible Cultural Heritage inscription in the supplied material concerns Frafra music.
+
+## Dance & theatre
+
+They describe funeral processions in which men move through the compound in battle regalia while drums are played, but provide no further account of dance movements or performance terminology.
+
+## Festivals & rituals
+
+Frafra ritual life centers on agriculture and funerals. The sources identify these as the two principal ritual spheres. Agricultural rituals are connected with the earth, land cultivation, and the timing of the agricultural cycle. Religious leaders determine the agricultural cycle and allocate land for cultivation. The *tindaana*, described as the custodian of the earth, performs rituals and traditionally held religious and political authority. Animal skins are worn during specific rituals, including the Talensi planting festival, and are required during sacrifices.
+
+Funerals take place during the dry season and may occur one to three years after death. Until the proper *wuure* is held, the dead are considered to be in a state of limbo. The body is buried on the day of death after being washed and dressed. It is carried around the house three times for a male and four times for a female. Men are buried facing east, while women are traditionally faced west. Children of the deceased shave their heads as a sign of mourning, and the oldest son organizes the later mortuary rites. Three days before the ceremony, or four for a woman, he announces the coming event. The first full day is called *fagba*, when the deceased’s clothing is displayed around the compound.
+
+## Foodways
+
+The Frafra are primarily farmers. Their main crops include millet, sorghum, and yams, while maize, rice, peanuts, and beans are also grown. Women cultivate sesame and tobacco as cash crops in family fields near villages. Farmers traditionally used slash-and-burn cultivation, farming fields for approximately seven or eight years before leaving them fallow for at least a decade. During the dry season, when food supplies are low, some fishing takes place in local swamps.
+
+They state that increasing population pressure has shortened fallow periods and reduced available bushland, while flooding, environmental degradation, and rocky ground have affected farming.
+
+## Oral tradition & literature
+
+Frafra literature is described as emerging. A. Pamzoya wrote the novel *Souvenir for Death* about Frafra culture. Intellectual Agaysika Agambila collected Frafra folktales in *Solma: Tales from Northern Ghana*, followed by *Journey*, a novel set in the Frafra area. The sources also describe a special joking relationship between Frafra peoples and the Dagaare people of northwestern Ghana, associated with an asserted common ancestry.
+
+They do, however, identify folktale collection and contemporary literary production as forms through which Frafra culture is represented.
+
+## Language & religion
+
+Farefare or Frafra, also known by the regional name Gurenɛ or Gurenne, is a Niger–Congo language spoken by the Frafra people of northern Ghana and southern Burkina Faso. It is closely related to Dagbani and other languages of Northern Ghana, and also to Mossi, or Mooré. The language has three principal dialects: Gurenɛ, Nankani, and Boone. The Frafra people also speak or are associated with Nankani, Booni, Tallensi, and Nabdam varieties.
+
+The belief in a supreme creator is central to Frafra religion, and a shrine to this god occupies the center of every village. Extended families maintain houses containing magical lineage objects, which connect them with vital forces of nature and provide protection and social cohesion. The Earth and ancestors are treated as balancing forces in community life. The *tendaana* or *tindaana* is the custodian of the earth.
+
+## Sources & further reading
+
+- Samuel Atintono, *Verb Morphology: Phrase structure in a Gur Language (Gurenɛ)*, Lambert Academic Publishing, 2011.
+- Adams Bodomo, Hasiyatu Abubakari, and Samuel Alhassan Issah, *Handbook of the Mabia Languages of West Africa*, Galda Verlag, 2020.
+- M. E. Kropp-Dakubu, S. Awinkene Antintono, and E. Avea Nsoh, *A Gurenɛ–English Dictionary and accompanying English–Gurenɛ Glossary*.
+- M. E. Kropp-Dakubu, *Parlons farefari (gurenè): langue et culture de Bolgatanga (Ghana) et ses environs*, L’Harmattan, 2009.
+- [Frafra people](https://en.wikipedia.org/wiki/Frafra_people)
+- [Frafra language](https://en.wikipedia.org/wiki/Frafra_language)
+- No UNESCO Intangible Cultural Heritage inscription supplied for this group or country.
+- No museum catalogue records were supplied for the objects shown.

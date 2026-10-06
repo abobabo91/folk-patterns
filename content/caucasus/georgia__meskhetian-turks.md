@@ -21,7 +21,7 @@ Meskhetian Turks’ weddings include gender-separated dancing. After the wedding
 
 ## Festivals & rituals
 
- They do document wedding and circumcision rites.
+They do document wedding and circumcision rites.
 
 A Meskhetian Turk wedding begins with a traditional proposal from the groom’s parents. If the bride’s parents accept, an engagement party called *Nişan* is held, and everyone at the Nişan receives a ceremonial sweet drink called *Sharbat*. The wedding itself lasts two days. On the first day the bride leaves her house; on the second day the marriage takes place. Before entering her husband’s house, she breaks two plates with the heel of her shoe and applies honey to the doorway. The sources state that this practice expresses a wish for happiness for the newly married couple. The wedding concludes with dancing and the newlyweds’ final *Waltz*.
 
@@ -29,11 +29,11 @@ The religious male circumcision ceremony of the Ahiska Turks includes dance, mus
 
 ## Foodways
 
- They state that most Meskhetian Turks are Sunni Muslims and that a minority are Shiite Muslims.
+They state that most Meskhetian Turks are Sunni Muslims and that a minority are Shiite Muslims.
 
 ## Oral tradition & literature
 
- The sources mention the Turkish language and identify several writers, journalists, poets, linguists, literary critics, and educators of Meskhetian Turk origin, including Ali Fuat Azgur, Ömer Faik Nemanzade, Muharrem Ergin, Adil Efendiyev, Şefika Şeyhzade-Efendizade, and Asif Hacılı.
+The sources mention the Turkish language and identify several writers, journalists, poets, linguists, literary critics, and educators of Meskhetian Turk origin, including Ali Fuat Azgur, Ömer Faik Nemanzade, Muharrem Ergin, Adil Efendiyev, Şefika Şeyhzade-Efendizade, and Asif Hacılı.
 
 ## Language & religion
 

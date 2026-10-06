@@ -17,23 +17,23 @@ The Miami, or *Myaamiaki*, are an Indigenous people of the Northeastern Woodland
 
 ### Architecture
 
- They do identify Kekionga as the traditional Miami capital and mention trading posts, forts, villages, and reservations.
+They do identify Kekionga as the traditional Miami capital and mention trading posts, forts, villages, and reservations.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention firearms, alcohol, manufactured goods, deeds, and mansion construction in historical accounts, without describing these as Miami cultural forms.
+They mention firearms, alcohol, manufactured goods, deeds, and mansion construction in historical accounts, without describing these as Miami cultural forms.
 
 ## Music & performance
 
- The Miami–Illinois language record includes prayers, instruction, catechisms, mythological narratives, stories, vocabulary, phrases, conversation, and an origin story.
+The Miami–Illinois language record includes prayers, instruction, catechisms, mythological narratives, stories, vocabulary, phrases, conversation, and an origin story.
 
 ## Festivals & rituals
 
- The sources mention traditional stories, mythological narratives, an origin story, and religious material recorded by missionaries.
+The sources mention traditional stories, mythological narratives, an origin story, and religious material recorded by missionaries.
 
 ## Foodways
 
- The sources do mention maize-based agriculture among Mississippian societies and historical Miami hunting.
+The sources do mention maize-based agriculture among Mississippian societies and historical Miami hunting.
 
 ## Oral tradition & literature
 

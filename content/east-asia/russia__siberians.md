@@ -17,7 +17,7 @@ Ancient Siberian Tatar outerwear is described as similar in cut and color to Cen
 
 ### Ceramics, metalwork & everyday objects
 
- Traditional occupations included hunting, raising horses, and porterage, while some Siberian Tatars later worked in tanneries and sawmills.
+Traditional occupations included hunting, raising horses, and porterage, while some Siberian Tatars later worked in tanneries and sawmills.
 
 ## Music & performance
 

@@ -17,7 +17,7 @@ The sources document a German fort, or *boma*, built in the heart of Waarusha te
 
 ### Ceramics, metalwork & everyday objects
 
- They state that German forces confiscated the people’s weapons and cattle during the occupation of Tanganyika.
+They state that German forces confiscated the people’s weapons and cattle during the occupation of Tanganyika.
 
 ## Festivals & rituals
 
@@ -27,7 +27,7 @@ The sources also document major historical events affecting the Arusha. In the 1
 
 ## Foodways
 
- They state that Kurt Johannes ordered the burning of Arusha homes and food reserves during the German campaign.
+They state that Kurt Johannes ordered the burning of Arusha homes and food reserves during the German campaign.
 
 ## Language & religion
 

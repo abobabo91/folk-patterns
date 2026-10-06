@@ -17,7 +17,7 @@ The Sandawe built very temporary huts away from water holes. Their homesteads we
 
 ### Ceramics, metalwork & everyday objects
 
- They mention hoes in connection with cooperative hoeing, and cattle in the context of colonial-era conflict.
+They mention hoes in connection with cooperative hoeing, and cattle in the context of colonial-era conflict.
 
 ## Music & performance
 

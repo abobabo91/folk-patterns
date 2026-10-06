@@ -17,7 +17,7 @@ The Onondaga people are one of the five original nations of the Haudenosaunee (I
 
 ### Clothing & dress
 
- They state that Onondaga funerals were quiet and solemn, with women covering their faces, but provide no further description of the covering or of clothing used in funerary contexts.
+They state that Onondaga funerals were quiet and solemn, with women covering their faces, but provide no further description of the covering or of clothing used in funerary contexts.
 
 ### Architecture
 
@@ -29,7 +29,7 @@ Archaeological evidence records a gradual evolution of pottery vessels and smoki
 
 ### Jewelry & body adornment
 
- They mention wampum, called *gaswę́hdaʼ*, as an object employed in all matters of public importance and as the medium for public confession of sins.
+They mention wampum, called *gaswę́hdaʼ*, as an object employed in all matters of public importance and as the medium for public confession of sins.
 
 ## Music & performance
 

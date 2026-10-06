@@ -13,7 +13,7 @@ The Guaraní are culturally related Indigenous peoples of South America who are 
 
 ### Clothing & dress
 
- One historical account states that Indigenous women were stripped of clothing during colonial commerce, and describes the exchange of a cloak for an Indigenous woman under the pretext of exchanging her service.
+One historical account states that Indigenous women were stripped of clothing during colonial commerce, and describes the exchange of a cloak for an Indigenous woman under the pretext of exchanging her service.
 
 ### Architecture
 
@@ -23,25 +23,25 @@ The Jesuits established missions in Guarani territory. Loreto, the first Guayrá
 
 ### Ceramics, metalwork & everyday objects
 
- They mention large jars in which the dead were placed, inverted on the ground, and also refer to bows and arrows, firearms, cattle, sheep, horses, fields, orchards, and churches in historical contexts.
+They mention large jars in which the dead were placed, inverted on the ground, and also refer to bows and arrows, firearms, cattle, sheep, horses, fields, orchards, and churches in historical contexts.
 
 ### Jewelry & body adornment
 
- They do record a tradition among Simba Guarani in which men maintained braided hair, although most young men no longer upheld this practice.
+They do record a tradition among Simba Guarani in which men maintained braided hair, although most young men no longer upheld this practice.
 
 ## Music & performance
 
- They do preserve several sound-related elements within mythology. Kuarahy Jára is described as a spirit that whistles like birds and protects them. The Iguazu Falls are said to reveal the sound of ancient battles at certain times. The sources also describe Guarani myths and legends as having been transmitted through word of mouth, with regional differences in the stories of gods and spirits.
+They do preserve several sound-related elements within mythology. Kuarahy Jára is described as a spirit that whistles like birds and protects them. The Iguazu Falls are said to reveal the sound of ancient battles at certain times. The sources also describe Guarani myths and legends as having been transmitted through word of mouth, with regional differences in the stories of gods and spirits.
 
 Guarani religious narratives include Tupã, the supreme god of creation; Arasy, the moon goddess; Ñamandu, described as “the true father, the first one”; Yporú, more frequently known as Tupã; Jasy, who rules the night; and Aña, a malign deity who dwells at the bottom of the Iguazu River.
 
 ## Dance & theatre
 
- They describe communal life, missionary ceremonies, religious conversion, warfare, and oral mythology.
+They describe communal life, missionary ceremonies, religious conversion, warfare, and oral mythology.
 
 ## Festivals & rituals
 
- They do describe religious practices and historical rituals. Early Guarani society practiced a form of animistic pantheism, much of which survived in folklore and myths. Animals, plants, and minerals were understood as animated and capable of becoming anthropomorphic beings, or as transformed souls of people.
+They do describe religious practices and historical rituals. Early Guarani society practiced a form of animistic pantheism, much of which survived in folklore and myths. Animals, plants, and minerals were understood as animated and capable of becoming anthropomorphic beings, or as transformed souls of people.
 
 The sources state that cannibalism was practiced on captives and that Martin Dobrizhoffer recorded its possible use as a funerary ritual. Later accounts describe the dead being placed in large jars set inverted on the ground.
 

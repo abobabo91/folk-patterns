@@ -29,15 +29,15 @@ Rural Ahom houses are made of wood and bamboo and typically have two thatched ro
 
 ### Ceramics, metalwork & everyday objects
 
- They mention earthen lamps called *ban-phai-s* in the Cho Klong marriage ritual and describe the royal insignia Chum Pha Rueng Sheng Mueang.
+They mention earthen lamps called *ban-phai-s* in the Cho Klong marriage ritual and describe the royal insignia Chum Pha Rueng Sheng Mueang.
 
 ### Jewelry & body adornment
 
- They mention forms of ornamentation in connection with rank-specific court dress, without identifying particular objects or materials.
+They mention forms of ornamentation in connection with rank-specific court dress, without identifying particular objects or materials.
 
 ## Music & performance
 
- They do describe ritualistic chants in the Ahom language, which survive in written manuscripts, and religious use of the language in chants and the reading of literature. The Ahom script was used for manuscripts concerning history, society, astrology and rituals, collectively known as *Buranji*. Religious manuscripts also concern divination, prognostication, khwan calling, incantation and Phralung. The priestly clans Mo’sam, Mo’hung and Mo’Plong are described as custodians and users of these texts.
+They do describe ritualistic chants in the Ahom language, which survive in written manuscripts, and religious use of the language in chants and the reading of literature. The Ahom script was used for manuscripts concerning history, society, astrology and rituals, collectively known as *Buranji*. Religious manuscripts also concern divination, prognostication, khwan calling, incantation and Phralung. The priestly clans Mo’sam, Mo’hung and Mo’Plong are described as custodians and users of these texts.
 
 ## Festivals & rituals
 

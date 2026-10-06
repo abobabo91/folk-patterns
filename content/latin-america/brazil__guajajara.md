@@ -11,7 +11,7 @@ The Guajajara are an Indigenous people in the Brazilian state of Maranhão, in B
 
 ## Foodways
 
- The sources do state that a large portion of the Awá tribe living in Arariboia is uncontacted and dependent on the rainforest for subsistence and survival.
+The sources do state that a large portion of the Awá tribe living in Arariboia is uncontacted and dependent on the rainforest for subsistence and survival.
 
 ## Language & religion
 
@@ -21,4 +21,3 @@ Tenetehára is a Tupi–Guarani language spoken in Maranhão. Sociolinguisticall
 
 - “Guajajara,” Wikipedia: https://en.wikipedia.org/wiki/Guajajara
 - “Guajajara language,” Wikipedia: https://en.wikipedia.org/wiki/Guajajara_language
-- The sources used provide no books, named scholars, documentation projects, UNESCO Intangible Cultural Heritage inscriptions, or museum catalogue records for this profile.

@@ -19,7 +19,7 @@ Historical settlement is documented through named places. The oldest known villa
 
 ## Festivals & rituals
 
- They do record a tribal taboo associated with living in places where many people had died.
+They do record a tribal taboo associated with living in places where many people had died.
 
 The sources also describe major events in Mehinaku history. In the 1950s, the Ikpeng invaded Mehinaku territory and drove the Mehinaku from it. The Yawalapiti were forced to migrate as well, producing a political shift in the upper Xingu region. An outbreak of flu and measles killed around 15 people in the 1960s, after which the Mehinaku relocated to a nearby area. They moved again in 1981, without going far from their original community.
 
@@ -29,7 +29,7 @@ The Mehinaku hunt, fish, and farm to provide for themselves. Their primary crops
 
 ## Oral tradition & literature
 
- The sources state that the Mehinaku do not keep detailed, chronological historical records extending back more than a few generations. Their accounts of historical villages, migration, territorial change, and past events therefore form the only described source of historical tradition in the material provided.
+The sources state that the Mehinaku do not keep detailed, chronological historical records extending back more than a few generations. Their accounts of historical villages, migration, territorial change, and past events therefore form the only described source of historical tradition in the material provided.
 
 ## Language & religion
 

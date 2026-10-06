@@ -45,10 +45,6 @@ The sources mention Enggano myths and rituals in the title of a documentation pr
 
 Enggano food is mainly vegetable, while rice is usually bought. The sources list maize, yam, peanuts, taro, and coconut palm among the products of manual farming. They also mention hunting for turtles, breeding chickens, and fishing. No named dishes, cooking methods, ceremonial foods, beverages, dietary rules, or food-related festivals are described. Because currency circulation on the island is limited, items are usually obtained through bartering rather than buying and selling.
 
-## Oral tradition & literature
-
- They refer to documentation of Enggano myths and rituals in order to support national resilience and cultural sustainability, but provide no account of the myths themselves.
-
 ## Language & religion
 
 Enggano, or Engganese, is spoken on Enggano Island off the southwestern coast of Sumatra, Indonesia. It is generally classified within the Austronesian language family, specifically in or near the Northwest Sumatra–Barrier Islands subgroup, although its classification has been controversial. Proposals have ranged from treating it as a language isolate to placing it in the Malayo-Polynesian branch. Edwards’s analysis derives pronouns, numerals, and many affixes from Proto-Malayo-Polynesian, while the language retains a low lexical retention rate: 21%, or 46 out of 217 words, compared with 59%, or 132.5 out of 223 words, for Malay. The language has unusual sound changes, nasal harmony, seven oral and seven nasal vowels, and a historically recorded vigesimal counting system. Most people now use Malay numerals, especially for higher numbers.

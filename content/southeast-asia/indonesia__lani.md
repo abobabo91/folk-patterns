@@ -29,15 +29,15 @@ The most distinguishable feature of the Lani and Dani tribes is identified as th
 
 ## Festivals & rituals
 
- The source does associate the direction of the *kobeba* with social status and describes a left-leaning form as signifying descent from Panglima Perang or Apendabogur, a war chief.
+The source does associate the direction of the *kobeba* with social status and describes a left-leaning form as signifying descent from Panglima Perang or Apendabogur, a war chief.
 
 ## Foodways
 
- They mention tobacco only as one of the valuables held in large *kobewak* or *kobeba*.
+They mention tobacco only as one of the valuables held in large *kobewak* or *kobeba*.
 
 ## Oral tradition & literature
 
- The language source notes that the Baliem Valley tribes were called Oeringoep and Timorini in literature from the 1920s, but says those names are no longer used.
+The language source notes that the Baliem Valley tribes were called Oeringoep and Timorini in literature from the 1920s, but says those names are no longer used.
 
 ## Language & religion
 

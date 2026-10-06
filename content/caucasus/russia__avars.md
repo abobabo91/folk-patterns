@@ -15,21 +15,17 @@ The Avars, also known as *Maharuls'* and *maarulal*, are a Northeast Caucasian e
 
 The Avar region contains ancient villages located approximately 2,000 meters above sea level. The sources also identify the 10th-century Datuna Church in the village of Datuna as the only extant monument of Sarir architecture.
 
-## Music & performance
-
- They do record Rasul Gamzatov as a poet and mention Avarian language history, but they provide no description of musical performance.
-
 ## Festivals & rituals
 
- They state that Sunni Islam has been the prevailing religion of the Avars since the 14th century and describe a history in which Georgian Orthodox Christianity was introduced to the Avar valleys between the 5th and 12th centuries.
+They state that Sunni Islam has been the prevailing religion of the Avars since the 14th century and describe a history in which Georgian Orthodox Christianity was introduced to the Avar valleys between the 5th and 12th centuries.
 
 ## Foodways
 
- They record that many Avars moved after World War II from the barren highlands to fertile plains closer to the shores of the Caspian Sea.
+They record that many Avars moved after World War II from the barren highlands to fertile plains closer to the shores of the Caspian Sea.
 
 ## Oral tradition & literature
 
- They identify Rasul Gamzatov as an Avar poet and Alisa Ganieva as an author who writes in Russian but identifies herself as an Avar. The sources also preserve historical writing about the Avars, including accounts associated with Ibn Rustah, Johannes de Galonifontibus, Vladimir Minorsky, Abbasgulu Bakikhanov, and other writers.
+They identify Rasul Gamzatov as an Avar poet and Alisa Ganieva as an author who writes in Russian but identifies herself as an Avar. The sources also preserve historical writing about the Avars, including accounts associated with Ibn Rustah, Johannes de Galonifontibus, Vladimir Minorsky, Abbasgulu Bakikhanov, and other writers.
 
 ## Language & religion
 

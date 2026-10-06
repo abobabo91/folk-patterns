@@ -11,7 +11,7 @@ Luxembourgers are a Germanic ethnic group native to their nation state of Luxemb
 
 ## Festivals & rituals
 
- The sources do state that Luxembourg City shared the status of European Capital of Culture with the Romanian town of Sibiu in 2007.
+The sources do state that Luxembourg City shared the status of European Capital of Culture with the Romanian town of Sibiu in 2007.
 
 ## Language & religion
 

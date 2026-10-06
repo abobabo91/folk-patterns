@@ -17,23 +17,23 @@ Tagalog settlements are described as generally lowland communities oriented towa
 
 ### Ceramics, metalwork & everyday objects
 
- Historical trade records state that Ma-i imported manufactured wares, iron, and jewelry, while Tondo-Maynila retailed Chinese and Japanese manufactured goods throughout the Philippine archipelago. The religious sources name fishing gear, fishhooks, nets, boats, houses, and larauan, or images representing deities, as objects associated with offerings and ritual practice.
+Historical trade records state that Ma-i imported manufactured wares, iron, and jewelry, while Tondo-Maynila retailed Chinese and Japanese manufactured goods throughout the Philippine archipelago. The religious sources name fishing gear, fishhooks, nets, boats, houses, and larauan, or images representing deities, as objects associated with offerings and ritual practice.
 
 ### Jewelry & body adornment
 
- They mention gold among objects that could be offered during anito rites and describe anting-anting as an amulet associated with sacred sites.
+They mention gold among objects that could be offered during anito rites and describe anting-anting as an amulet associated with sacred sites.
 
 ## Music & performance
 
- They describe *pag-aanito*, also called *manganito* or *baylán*, as a ritual held for a sick chief. In the account attributed to the anonymous 1572 *Relación de la conquista de la isla de Luzón*, a chief invited relatives, prepared a feast of fish, meat, and wine, and gathered with priestesses and older men. The participants placed the idol called Batala among them, offered it some of the food, and prayed for the sick man’s health. The ceremony was reported to last seven or eight days. The sources also state that pre-Hispanic Tagalogs honored spirits with rituals and feast days connected with birth, sickness, death, courtship, marriage, planting, and harvesting.
+They describe *pag-aanito*, also called *manganito* or *baylán*, as a ritual held for a sick chief. In the account attributed to the anonymous 1572 *Relación de la conquista de la isla de Luzón*, a chief invited relatives, prepared a feast of fish, meat, and wine, and gathered with priestesses and older men. The participants placed the idol called Batala among them, offered it some of the food, and prayed for the sick man’s health. The ceremony was reported to last seven or eight days. The sources also state that pre-Hispanic Tagalogs honored spirits with rituals and feast days connected with birth, sickness, death, courtship, marriage, planting, and harvesting.
 
 ## Dance & theatre
 
- They mention the epic *Florante at Laura* and the poetic form *tanaga*.
+They mention the epic *Florante at Laura* and the poetic form *tanaga*.
 
 ## Festivals & rituals
 
- They describe religious rites centered on *anito*, a term applied to deities, non-ancestral spirits, and ancestral spirits. Pre-Hispanic Tagalogs honored these beings through rituals and feast days associated with birth, sickness, death, courtship, marriage, planting, harvesting, and death.
+They describe religious rites centered on *anito*, a term applied to deities, non-ancestral spirits, and ancestral spirits. Pre-Hispanic Tagalogs honored these beings through rituals and feast days associated with birth, sickness, death, courtship, marriage, planting, harvesting, and death.
 
 A ritual called *pag-aanito*, also known as *manganito* or *baylán*, could be held when a chief was ill. Relatives gathered for a meal of fish, meat, and wine, while priestesses and older men offered food to Batala and prayed for the sick person. The sources say that the ceremony usually lasted seven or eight days. They also describe *dambana* practices, including thanksgiving, wish prayers, and memorializing an event. Sacred sites included Lake Taal and Volcano, Mount Cristobal, Mount Banahaw, Mount Makiling, the Southern Sierra Madre, Laguna de Bay, the Pasig River, Mount Arayat, Marinduque, ancient ruins, and caves.
 

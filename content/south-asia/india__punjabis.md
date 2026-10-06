@@ -31,7 +31,7 @@ The *kaintha* is a traditional necklace usually made of gold or steel. It is wor
 
 ### Ceramics, metalwork & everyday objects
 
- They identify gold and steel as materials used for the kaintha necklace.
+They identify gold and steel as materials used for the kaintha necklace.
 
 ### Jewelry & body adornment
 
@@ -65,7 +65,7 @@ The sources associate Phulkari with Vaisakhi, Lohri, and the wedding celebration
 
 ## Foodways
 
- They state that agriculture has been the major economic feature of the Punjab and the foundation of Punjabi culture.
+They state that agriculture has been the major economic feature of the Punjab and the foundation of Punjabi culture.
 
 ## Oral tradition & literature
 

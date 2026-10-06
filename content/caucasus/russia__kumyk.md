@@ -17,19 +17,19 @@ The sources identify Tarki as the historical capital of the Shamkhalate and ment
 
 ## Music & performance
 
- The sources do record a literary and theatrical context for the Kumyk language: Temirbolat Biybolatov is described as a Kumyk poet, writer, translator, and theatre figure, and the first regular Kumyk newspapers and magazines appeared in 1917–18 under his editorship.
+The sources do record a literary and theatrical context for the Kumyk language: Temirbolat Biybolatov is described as a Kumyk poet, writer, translator, and theatre figure, and the first regular Kumyk newspapers and magazines appeared in 1917–18 under his editorship.
 
 ## Dance & theatre
 
- They identify Temirbolat Biybolatov as a theatre figure and state that the Kumyk language appears in literary works by Leo Tolstoy, Mikhail Lermontov, and Bestuzhev-Marlinsky.
+They identify Temirbolat Biybolatov as a theatre figure and state that the Kumyk language appears in literary works by Leo Tolstoy, Mikhail Lermontov, and Bestuzhev-Marlinsky.
 
 ## Festivals & rituals
 
- They do record religious and political changes: some early Kipchaks associated with Kumyk history were Tengrists, Christians, or irreligious, while later Kipchaks were Islamised. The sources also describe Kumyks as participating in the religious and political history of the Caucasus.
+They do record religious and political changes: some early Kipchaks associated with Kumyk history were Tengrists, Christians, or irreligious, while later Kipchaks were Islamised. The sources also describe Kumyks as participating in the religious and political history of the Caucasus.
 
 ## Foodways
 
- The historical sources mention Kumyk bread and cattle in descriptions of warfare and plundering, but these references do not describe Kumyk foodways.
+The historical sources mention Kumyk bread and cattle in descriptions of warfare and plundering, but these references do not describe Kumyk foodways.
 
 ## Oral tradition & literature
 

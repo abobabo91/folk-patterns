@@ -23,19 +23,19 @@ The sources mention the Khan’s palace in Bakhchysaray, which was burned during
 
 ## Music & performance
 
- They mention only that a theatre existed in Aqmescit under Khan Krym-Girei, where Molière was performed in French.
+They mention only that a theatre existed in Aqmescit under Khan Krym-Girei, where Molière was performed in French.
 
 ## Dance & theatre
 
- They state that Aqmescit had a theatre under Khan Krym-Girei, where Molière was performed in French.
+They state that Aqmescit had a theatre under Khan Krym-Girei, where Molière was performed in French.
 
 ## Festivals & rituals
 
- They state that Islam became a state religion throughout the Peninsula by the end of the 15th century and that most Crimean Tatars had adopted Islam in the 14th century.
+They state that Islam became a state religion throughout the Peninsula by the end of the 15th century and that most Crimean Tatars had adopted Islam in the 14th century.
 
 ## Foodways
 
- They state that the Crimean Khanate’s population was predominantly Muslim and that the majority professed Islam of the Hanafi stream.
+They state that the Crimean Khanate’s population was predominantly Muslim and that the majority professed Islam of the Hanafi stream.
 
 ## Oral tradition & literature
 

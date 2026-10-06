@@ -29,7 +29,7 @@ Ornamentation is an important part of Gurung dress. Women’s adornment includes
 
 ## Music & performance
 
- They state that history and details related to Gurung culture and tradition are usually passed from one generation to another by word of mouth.
+They state that history and details related to Gurung culture and tradition are usually passed from one generation to another by word of mouth.
 
 ## Festivals & rituals
 

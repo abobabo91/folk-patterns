@@ -17,7 +17,7 @@ The sources mention that Shona groups built stone structures such as *khami* and
 
 ### Ceramics, metalwork & everyday objects
 
- They mention arms, gold, diamonds, cattle, and properties in historical accounts of conquest.
+They mention arms, gold, diamonds, cattle, and properties in historical accounts of conquest.
 
 ## Music & performance
 
@@ -27,13 +27,13 @@ The sources also record a children’s song: “Kudala kwakunganje, umhlaba uyap
 
 ## Festivals & rituals
 
- They state that Mthwakazi had a long history of diverse cultures and arts and that *imbongi* described its social structure.
+They state that Mthwakazi had a long history of diverse cultures and arts and that *imbongi* described its social structure.
 
 The historical material does record political and military events associated with Mthwakazi. Mthwakazi was invaded on 3 November 1893, and the kingdom’s later history is described in relation to conquest, occupation, and colonial rule. These are historical events rather than festivals or ritual observances.
 
 ## Foodways
 
- The historical account mentions cattle and provisions of forced labour and mineral wealth, but does not present these materials as a description of Mthwakazi foodways.
+The historical account mentions cattle and provisions of forced labour and mineral wealth, but does not present these materials as a description of Mthwakazi foodways.
 
 ## Oral tradition & literature
 

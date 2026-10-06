@@ -21,7 +21,7 @@ The Wolastoqiyik, also known as the Maliseet or Malecite, are an Algonquian-spea
 
 ### Clothing & dress
 
- They state that Wolastoqiyik acquired European clothing during the previous two centuries and that clothing, like wood, bark and basketry items, formed part of the material changes associated with colonial contact. No specific garments, head coverings, belts, footwear or ceremonial dress are named.
+They state that Wolastoqiyik acquired European clothing during the previous two centuries and that clothing, like wood, bark and basketry items, formed part of the material changes associated with colonial contact. No specific garments, head coverings, belts, footwear or ceremonial dress are named.
 
 ### Architecture
 
@@ -29,7 +29,7 @@ The sources describe Wolastoqiyik living in walled villages during the early 17t
 
 ### Ceramics, metalwork & everyday objects
 
- They mention European metal cutting tools and containers, muskets, alcohol, foods and clothing as materials acquired during the previous two centuries. Named Wolastoqiyik everyday objects include birchbark canoes, wigwams, baskets and containers. The sources state that the Wolastoqiyik used the roots of the balsam fir as thread and its pitch to waterproof canoe seams.
+They mention European metal cutting tools and containers, muskets, alcohol, foods and clothing as materials acquired during the previous two centuries. Named Wolastoqiyik everyday objects include birchbark canoes, wigwams, baskets and containers. The sources state that the Wolastoqiyik used the roots of the balsam fir as thread and its pitch to waterproof canoe seams.
 
 ## Music & performance
 
@@ -43,7 +43,7 @@ The sources name a Wolastoqiyik dance song.
 
 ## Festivals & rituals
 
- They state that Wolastoqiyik men and women participated in hunting, fishing, gathering, horticulture, cooking and farming.
+They state that Wolastoqiyik men and women participated in hunting, fishing, gathering, horticulture, cooking and farming.
 
 The sources mention Catholic missions established by French Jesuits and state that some Wolastoqiyik converted to Catholicism. They also describe traditional coastal and river locations used for hunting, fishing and gathering.
 

@@ -21,7 +21,7 @@ The sources describe women’s traditional clothing. A Gadaba woman traditionall
 
 ### Ceramics, metalwork & everyday objects
 
- They mention blacksmiths only in connection with the removal of women’s neck rings.
+They mention blacksmiths only in connection with the removal of women’s neck rings.
 
 ### Jewelry & body adornment
 
@@ -37,7 +37,7 @@ The sources identify the Dhemsa as a tribal dance associated with the Gadabas. N
 
 ## Festivals & rituals
 
- They state only that neck rings are traditionally removed after a woman’s death.
+They state only that neck rings are traditionally removed after a woman’s death.
 
 ## Language & religion
 

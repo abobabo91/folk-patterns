@@ -21,23 +21,23 @@ The Mescalero practiced matrilocal residence patterns. After marriage, a couple 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention stored mescal as a food resource and refer generally to tribal artifacts displayed in the Mescalero cultural center, but do not catalogue particular object forms or materials.
+They mention stored mescal as a food resource and refer generally to tribal artifacts displayed in the Mescalero cultural center, but do not catalogue particular object forms or materials.
 
 ### Jewelry & body adornment
 
- The Mescalero cultural center is said to display tribal artifacts and historical information.
+The Mescalero cultural center is said to display tribal artifacts and historical information.
 
 ## Music & performance
 
- The Mescalero language article states that Chiricahua and Mescalero Apache Texts includes traditional religious and secular stories.
+The Mescalero language article states that Chiricahua and Mescalero Apache Texts includes traditional religious and secular stories.
 
 ## Dance & theatre
 
- They describe the Mescalero as historically mobile mountain people and as innovative, stealthy, fierce, precise, and tactical warriors.
+They describe the Mescalero as historically mobile mountain people and as innovative, stealthy, fierce, precise, and tactical warriors.
 
 ## Festivals & rituals
 
- They do record sacred geography and religious tradition. Sierra Blanca Peak is sacred ground for the Mescalero Apache Tribe, and access is not permitted without a permit. Mescalero identity includes traditions concerning four mountains that represent directions of everyday life: Sierra Blanca Peak, El Capitan within the Guadalupe Mountains, Three Sisters Mountain, and Oscura Mountain Peak; the Salinas Peak is sometimes listed instead of Oscura Mountain Peak. The sources also state that forefathers spoke of a creator giving life on White Mountain, where White Painted Woman gave birth to Child of Water and Killer of Enemies. No birth, coming-of-age, wedding, funeral, or seasonal rite is described.
+They do record sacred geography and religious tradition. Sierra Blanca Peak is sacred ground for the Mescalero Apache Tribe, and access is not permitted without a permit. Mescalero identity includes traditions concerning four mountains that represent directions of everyday life: Sierra Blanca Peak, El Capitan within the Guadalupe Mountains, Three Sisters Mountain, and Oscura Mountain Peak; the Salinas Peak is sometimes listed instead of Oscura Mountain Peak. The sources also state that forefathers spoke of a creator giving life on White Mountain, where White Painted Woman gave birth to Child of Water and Killer of Enemies. No birth, coming-of-age, wedding, funeral, or seasonal rite is described.
 
 ## Foodways
 
@@ -47,7 +47,7 @@ Spanish colonists associated the Mescalero with the mescal agave and named them 
 
 ## Oral tradition & literature
 
- They do record elements of Mescalero oral tradition concerning sacred geography and origins. Four mountains represent directions of everyday life, and forefathers spoke of a creator giving life on White Mountain. White Painted Woman gave birth there to two sons, Child of Water and Killer of Enemies.
+They do record elements of Mescalero oral tradition concerning sacred geography and origins. Four mountains represent directions of everyday life, and forefathers spoke of a creator giving life on White Mountain. White Painted Woman gave birth there to two sons, Child of Water and Killer of Enemies.
 
 The language article states that Chiricahua and Mescalero Apache Texts contains a grammatical sketch and traditional religious and secular stories. The work was associated with the anthropological linguist Harry Hoijer, and the online book was made available through the University of Virginia. Virginia Klinekole was known for efforts to preserve the language. The sources also state that at least one language-immersion school for children exists in Mescalero.
 

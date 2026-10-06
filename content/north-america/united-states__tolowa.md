@@ -13,21 +13,21 @@ The Tolowa, also called *Taa-laa-wa Dee-niʼ*, are an Athabaskan nation of Nativ
 
 ### Architecture
 
- The sources do state that the Yontoket Massacre burned homes at Yontocket, after which the place received the name “Burnt Ranch.”
+The sources do state that the Yontoket Massacre burned homes at Yontocket, after which the place received the name “Burnt Ranch.”
 
 ### Ceramics, metalwork & everyday objects
 
- They do document boats, which allowed the Tolowa to travel into the ocean to hunt seals, sea lions, and sea otters.
+They do document boats, which allowed the Tolowa to travel into the ocean to hunt seals, sea lions, and sea otters.
 
 ## Music & performance
 
- They do describe communal gatherings at Yontocket, where people from surrounding areas assembled for celebrations and discussions. The Tolowa embraced the Ghost Dance religion from 1872 to 1882 in hopes of obtaining relief from European-American encroachment.
+They do describe communal gatherings at Yontocket, where people from surrounding areas assembled for celebrations and discussions. The Tolowa embraced the Ghost Dance religion from 1872 to 1882 in hopes of obtaining relief from European-American encroachment.
 
 The sources also mention Marr / Harrington sound recordings of Tolowa and the Siletz Talking Dictionary as documentation resources. Alfred “Bud” Lane recorded 14,000 words of Siletz Dee-ni in an online audio/picture dictionary, and the Confederated Tribes of Siletz Indians produced a “talking dictionary” in 2007 in coordination with the Living Tongues Institute for Endangered Languages.
 
 ## Dance & theatre
 
- They state that the Tolowa embraced the Ghost Dance religion from 1872 to 1882.
+They state that the Tolowa embraced the Ghost Dance religion from 1872 to 1882.
 
 ## Festivals & rituals
 
@@ -43,7 +43,7 @@ The Tolowa used boats to travel into the ocean to hunt seals, sea lions, and sea
 
 ## Oral tradition & literature
 
- They do describe Yontocket as a place where surrounding communities gathered for celebrations and discussions, and they mention Tolowa traditional narratives as a related subject.
+They do describe Yontocket as a place where surrounding communities gathered for celebrations and discussions, and they mention Tolowa traditional narratives as a related subject.
 
 Contemporary language preservation is documented through the work of Loren Bommelyn, a fluent speaker and linguist who has published pedagogical books and teaches young Tolowa students in Crescent City, California. The Confederated Tribes of Siletz Indians produced a “talking dictionary” in 2007 with the Living Tongues Institute for Endangered Languages. Alfred “Bud” Lane recorded 14,000 words of Siletz Dee-ni for preservation, teaching, and community use.
 
@@ -62,5 +62,4 @@ Siletz Dee-niʼ is a form of Tolowa historically spoken by members of the Confed
 - Living Tongues Institute for Endangered Languages and Confederated Tribes of Siletz Indians, Siletz “talking dictionary” and language-preservation project.
 - Tolowa, https://en.wikipedia.org/wiki/Tolowa
 - Tolowa language, https://en.wikipedia.org/wiki/Tolowa_language
-- The sources used contain no UNESCO Intangible Cultural Heritage inscription for the Tolowa or for the United States.
 - Marr / Harrington sound recordings: Tolowa, Smithsonian Institution Collections Search Center.

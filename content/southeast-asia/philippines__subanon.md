@@ -13,7 +13,7 @@ The Subanon, also spelled Subanen or Subanun, are an Indigenous people of the Za
 
 ### Clothing & dress
 
- They state that forest products, including abaca fiber, were used for making ropes and weaving cloth, and that cloth was obtained through barter.
+They state that forest products, including abaca fiber, were used for making ropes and weaving cloth, and that cloth was obtained through barter.
 
 ### Architecture
 
@@ -27,13 +27,9 @@ The sources describe pottery making as a likely part of the ancestors’ dry-agr
 
 The sources mention shell bracelets, beads, gold ornaments, and jewelry among archaeological and inherited objects. Jewelry could form part of family property, together with Chinese jars and gongs.
 
-## Music & performance
-
- They mention gongs as traded goods and inherited household property, but provide no information about how gongs were played or what musical roles they had.
-
 ## Festivals & rituals
 
- They do describe marriage, birth, illness, and Indigenous religious practices.
+They do describe marriage, birth, illness, and Indigenous religious practices.
 
 Marriage traditionally involved parental arrangement, which could occur before the parties reached puberty. The two families negotiated the bride-price, which could consist of cash, goods, or both, through a go-between unrelated to either family. After the marriage ceremonies and wedding feast, the newlyweds stayed with the girl’s household. The husband was expected to serve his wife’s parents, mainly in producing food, before the couple later selected their own residence.
 

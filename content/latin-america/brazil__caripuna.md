@@ -13,11 +13,11 @@ The Caripuna, also known as the Karipuna do Amapá or Karipúna, are an Indigeno
 
 ### Architecture
 
- They record settlements along the Caripi River and the BR-156 highway, an unpaved road from Manga to the BR-156, and migration to Oiapoque and the urban area around Cayenne.
+They record settlements along the Caripi River and the BR-156 highway, an unpaved road from Manga to the BR-156, and migration to Oiapoque and the urban area around Cayenne.
 
 ## Foodways
 
- They state only that the economy is mainly based on fishing and subsistence farming.
+They state only that the economy is mainly based on fishing and subsistence farming.
 
 ## Language & religion
 

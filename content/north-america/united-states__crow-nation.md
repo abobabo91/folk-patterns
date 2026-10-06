@@ -29,11 +29,11 @@ Before 1700, the Crow used dog travois for carrying goods. In the period after l
 
 ### Ceramics, metalwork & everyday objects
 
- They mention arrows, lances, bullets, dog travois, a pipe-hatchet, and a medicine doll. A Crow medicine doll was given to a poor Arapaho at a Sun Dance before 1765; the Arapaho later made a duplicate, and the Kiowas used it during the Sun Dance as one of their most powerful tribal medicines.
+They mention arrows, lances, bullets, dog travois, a pipe-hatchet, and a medicine doll. A Crow medicine doll was given to a poor Arapaho at a Sun Dance before 1765; the Arapaho later made a duplicate, and the Kiowas used it during the Sun Dance as one of their most powerful tribal medicines.
 
 ### Jewelry & body adornment
 
- They state that Crow woman Pretty Shield remembered Crow mourning for Long Horse, and that mourners brought the dead bodies back to camp with their hair cut off and their fingers and faces cut.
+They state that Crow woman Pretty Shield remembered Crow mourning for Long Horse, and that mourners brought the dead bodies back to camp with their hair cut off and their fingers and faces cut.
 
 ## Music & performance
 
@@ -43,7 +43,7 @@ The sources also describe the Crow Fair, which began after the Crow organized a 
 
 ## Dance & theatre
 
-The sources name the Sun Dance and state that a medicine doll associated with the Crow was used during the Kiowa Sun Dance. No Crow theatrical, masked, shadow-puppet, or dramatic tradition is documented in the sources used.
+The sources name the Sun Dance and state that a medicine doll associated with the Crow was used during the Kiowa Sun Dance.
 
 ## Festivals & rituals
 
@@ -76,5 +76,4 @@ The sources describe sacred tobacco, visions, medicine, the Sun Dance, and the m
 ## Sources & further reading
 
 - Wikipedia, “Crow people”: https://en.wikipedia.org/wiki/Crow_people
-- UNESCO Intangible Cultural Heritage: no United States inscription was supplied in the sources used.
 - Museum catalogue records: none were supplied in the sources used.

@@ -13,7 +13,7 @@ The Khinalugs (Azerbaijani: Xınalıqlılar; Khinalugh: кеттитурдур, 
 
 ### Architecture
 
- They mention a mosque called Jomard, also given as Gomard, or Abu Muslim, located in the settlement.
+They mention a mosque called Jomard, also given as Gomard, or Abu Muslim, located in the settlement.
 
 ## Festivals & rituals
 
@@ -21,7 +21,7 @@ The Khinalugs are overwhelmingly Sunni Muslims. According to a legend, they conv
 
 ## Oral tradition & literature
 
-The sources used provide no account of Khinalug folktales, epic poetry, proverbs, riddles, or storytelling contexts. They state that the first written information about the Khinalug people dates from the 18th century and that there is insufficient information about their history to study their ethnogenesis. The sources mention attempts to identify an ethnogenetical relation with the tribes of Caucasian Albania, including proposals involving the endonym ketid, the Caucasian Albanian tribe ket/gat, and the Khenuks or Khenuts. These proposals are presented as disputed: Anatoly Novoseltsev associated the Khenuks with the Khinalugs, while N. G. Volkova regarded this approach as hardly acceptable, and R. M. Magomedov considered the Khenoks to be Rutuls.
+They state that the first written information about the Khinalug people dates from the 18th century and that there is insufficient information about their history to study their ethnogenesis. The sources mention attempts to identify an ethnogenetical relation with the tribes of Caucasian Albania, including proposals involving the endonym ketid, the Caucasian Albanian tribe ket/gat, and the Khenuks or Khenuts. These proposals are presented as disputed: Anatoly Novoseltsev associated the Khenuks with the Khinalugs, while N. G. Volkova regarded this approach as hardly acceptable, and R. M. Magomedov considered the Khenoks to be Rutuls.
 
 ## Language & religion
 

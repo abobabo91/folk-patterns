@@ -37,7 +37,7 @@ The sources include a bibliographic reference to *Kiowa-Apache Music and Dance*.
 
 ## Festivals & rituals
 
- They identify *The Peyote Ritual of the Plains Apache* in the bibliography and state that Pacer kept the main group of Plains Apaches on the reservation during the Red River War of 1874–75, but they provide no ritual account beyond those references.
+They identify *The Peyote Ritual of the Plains Apache* in the bibliography and state that Pacer kept the main group of Plains Apaches on the reservation during the Red River War of 1874–75, but they provide no ritual account beyond those references.
 
 ## Foodways
 

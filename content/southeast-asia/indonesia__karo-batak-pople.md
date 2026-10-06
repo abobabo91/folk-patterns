@@ -53,7 +53,7 @@ The sources describe changing dietary practice among Karo Muslims, including a r
 
 ## Oral tradition & literature
 
- They mention Karo traditions concerning the origins of the *Merga Silima*. According to this tradition, the five *merga* originated from five villages, each established by a *Sibayak*: Suka by Sibayak Suka, Lingga by Sibayak Lingga, Barusjahe by Sibayak Barusjahe, Sarinembah by Sibayak Sarinembah, and Kutabuluh by Sibayak Kutabuluh.
+They mention Karo traditions concerning the origins of the *Merga Silima*. According to this tradition, the five *merga* originated from five villages, each established by a *Sibayak*: Suka by Sibayak Suka, Lingga by Sibayak Lingga, Barusjahe by Sibayak Barusjahe, Sarinembah by Sibayak Sarinembah, and Kutabuluh by Sibayak Kutabuluh.
 
 The sources also describe the Aru Kingdom, also spelled Haru, which the Karo people established in the 1200s–1500s in the area of modern-day Medan City and Deli Serdang Regency.
 

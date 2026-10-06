@@ -51,7 +51,7 @@ The Banjarese perform *Japin Sigam*, a Zapin dance from Kotabaru Regency. It use
 
 ## Festivals & rituals
 
- They do describe several life-cycle and ceremonial practices. The *baayun anak* tradition was a child-blessing ritual among Kaharingan followers involving the recitation of *balian* mantras. In present-day Banjar society, it uses Quranic verses and *salawat* for the Islamic Prophet Muhammad instead. *Bapukung* is a practice of putting infants to sleep in an upright sling made from tied fabric.
+They do describe several life-cycle and ceremonial practices. The *baayun anak* tradition was a child-blessing ritual among Kaharingan followers involving the recitation of *balian* mantras. In present-day Banjar society, it uses Quranic verses and *salawat* for the Islamic Prophet Muhammad instead. *Bapukung* is a practice of putting infants to sleep in an upright sling made from tied fabric.
 
 Banjar dances are also connected with ritual occasions. *Radap Rahayu* is performed at weddings, bathing rituals, and the erection of new buildings. *Japin Sigam* is a social dance among young people in coastal areas and is also performed as an offering to the royal family; in the present day it is more commonly used to honour guests on special occasions. *Baksa kembang* can be performed at public events such as weddings.
 

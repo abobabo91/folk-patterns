@@ -47,7 +47,7 @@ The Shipibo-Conibo prepare *chapo*, described as a sweet plantain beverage. The 
 
 ## Oral tradition & literature
 
- They do state that medicine songs have influenced the group’s artistic tradition and decorative designs. The language’s historical documentation includes a Konibo grammar sketch and vocabulary produced in 1800; these works remained unpublished until a century later. No contemporary literary revival or preservation project is identified.
+They do state that medicine songs have influenced the group’s artistic tradition and decorative designs. The language’s historical documentation includes a Konibo grammar sketch and vocabulary produced in 1800; these works remained unpublished until a century later. No contemporary literary revival or preservation project is identified.
 
 ## Language & religion
 

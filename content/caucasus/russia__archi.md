@@ -13,23 +13,23 @@ The Archi people (Archi: аршишттиб, arshishttib) are a Lezgic ethnic gr
 
 ### Architecture
 
- They identify the Archi habitat as the Kara-Koisu basin in the Caucasus, about 2,000 meters above sea level, and state that the Archi live in eight villages, but provide no architectural description.
+They identify the Archi habitat as the Kara-Koisu basin in the Caucasus, about 2,000 meters above sea level, and state that the Archi live in eight villages, but provide no architectural description.
 
 ### Ceramics, metalwork & everyday objects
 
- The Archi language source gives lexical examples involving a “ladle,” “spoon,” and “bag,”.
+The Archi language source gives lexical examples involving a “ladle,” “spoon,” and “bag,”.
 
 ## Music & performance
 
- The Archi language article mentions a sample of the Archi language called “the Bear Story,” available as a sound file and in written form.
+The Archi language article mentions a sample of the Archi language called “the Bear Story,” available as a sound file and in written form.
 
 ## Festivals & rituals
 
- The Archi people are overwhelmingly Sunni Muslims, and monuments written in Arabic in the Kufic script suggest conversion to Islam not later than the 10th century.
+The Archi people are overwhelmingly Sunni Muslims, and monuments written in Arabic in the Kufic script suggest conversion to Islam not later than the 10th century.
 
 ## Foodways
 
- They state only that the Archi are overwhelmingly Sunni Muslims; no foodways are described.
+They state only that the Archi are overwhelmingly Sunni Muslims; no foodways are described.
 
 ## Oral tradition & literature
 

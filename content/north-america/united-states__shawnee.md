@@ -17,7 +17,7 @@ Historical accounts describe a Shawnee town as containing approximately forty to
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention bark-covered houses, earthwork mounds associated with Fort Ancient and Hopewell cultures, and a boatload of supplies seized during the conflicts preceding Tecumseh's War.
+They do mention bark-covered houses, earthwork mounds associated with Fort Ancient and Hopewell cultures, and a boatload of supplies seized during the conflicts preceding Tecumseh's War.
 
 ## Music & performance
 
@@ -27,13 +27,13 @@ Shawnee religious and political teachings were also communicated through public 
 
 ## Festivals & rituals
 
- They do record religious interpretations of major historical events. Tecumseh told the Choctaw, Chickasaw, Muscogee, and many others that the comet of March 1811 had signaled his coming and that further signs would confirm that the Great Spirit had sent him. On December 11, 1811, the New Madrid earthquake shook Muscogee lands and much of the Midwestern United States; many Native American peoples viewed the earthquake and its aftershocks as spiritually significant and as a sign that the Shawnee cause should be supported.
+They do record religious interpretations of major historical events. Tecumseh told the Choctaw, Chickasaw, Muscogee, and many others that the comet of March 1811 had signaled his coming and that further signs would confirm that the Great Spirit had sent him. On December 11, 1811, the New Madrid earthquake shook Muscogee lands and much of the Midwestern United States; many Native American peoples viewed the earthquake and its aftershocks as spiritually significant and as a sign that the Shawnee cause should be supported.
 
 The sources also describe Tenskwatawa as a spiritual leader whose teachings were connected to the formation of a broad intertribal alliance.
 
 ## Foodways
 
- They mention maize, apple, raspberry, and tobacco in a discussion of Shawnee grammatical gender: these nouns belong to the animate class, while strawberry does not. This linguistic classification does not provide evidence about cultivation, preparation, or consumption.
+They mention maize, apple, raspberry, and tobacco in a discussion of Shawnee grammatical gender: these nouns belong to the animate class, while strawberry does not. This linguistic classification does not provide evidence about cultivation, preparation, or consumption.
 
 The sources also state that Fort Ancient peoples practiced a “horticulture-centered, sedentary way of life” before changes documented after 1525.
 

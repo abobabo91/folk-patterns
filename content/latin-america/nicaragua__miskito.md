@@ -17,7 +17,7 @@ The Miskito commonly adopted European dress and English names during the indepen
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention wooden masks used in funeral ceremonies.
+They do mention wooden masks used in funeral ceremonies.
 
 ## Music & performance
 
@@ -40,8 +40,6 @@ Funeral practice included a commemorative ceremony held one year after death cal
 Before contact, Miskito people practiced a form of shamanism in which the healer, known as *Sukya*, was understood to obtain cures through dreams and to blow smoke on an affected area. Only one leading shaman, known as the Supreme Sukya or *Okuli*, could exist at a time. The *Okuli* was revered by neighboring tribes and represented the evil spirits called *Lasas*. Miskito people were polytheist in the pre-monarchic era, although the sources state that there are no records of human sacrifices like those of the Maya or Incas.
 
 ## Foodways
-
- They mention drinking a beverage known as *mishla* in connection with group traditions and shamanic practice, but provide no description of its ingredients or preparation.
 
 During the conflict in 1927–1933 between Augusto César Sandino and the United States over the United States occupation of Nicaragua, both sides attempted to enlist the Miskito to provide food and transport. This reference concerns wartime activity rather than a documented food tradition.
 

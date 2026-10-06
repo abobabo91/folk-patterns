@@ -17,19 +17,19 @@ The Menominee, officially the Menominee Indian Tribe of Wisconsin, are a federal
 
 ### Clothing & dress
 
- They do record that traditional spiritual culture includes youth rites of passage involving fasting, residence in a small isolated wigwam, meetings with Elders, and interpretation of dreams.
+They do record that traditional spiritual culture includes youth rites of passage involving fasting, residence in a small isolated wigwam, meetings with Elders, and interpretation of dreams.
 
 ### Architecture
 
- A wigwam is mentioned as the small isolated dwelling used during youth rites of passage. The sources also state that the Menominee lived historically in numerous villages visited by French fur traders.
+A wigwam is mentioned as the small isolated dwelling used during youth rites of passage. The sources also state that the Menominee lived historically in numerous villages visited by French fur traders.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention a small isolated wigwam in connection with youth rites and describe the tribe’s traditional use of plants and animals.
+They mention a small isolated wigwam in connection with youth rites and describe the tribe’s traditional use of plants and animals.
 
 ## Music & performance
 
- They do state that, beginning in 1977, Menominee High School offered Menominee language, drumming, and tribal dance in addition to its academic program.
+They do state that, beginning in 1977, Menominee High School offered Menominee language, drumming, and tribal dance in addition to its academic program.
 
 ## Dance & theatre
 

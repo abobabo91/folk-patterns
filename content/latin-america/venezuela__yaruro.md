@@ -49,7 +49,7 @@ During trance, possession by spirits or deceased Pumé individuals is understood
 
 ## Festivals & rituals
 
- They do describe seasonal movements and ritual performances. Savanna Pumé shift their primary residence during every dry and wet season, with additional temporary camps for fishing, collecting raw materials, and organizing movement between camps.
+They do describe seasonal movements and ritual performances. Savanna Pumé shift their primary residence during every dry and wet season, with additional temporary camps for fishing, collecting raw materials, and organizing movement between camps.
 
 The tohé is held throughout the year, 3–4 nights a week, and lasts 11 hours. During these performances, men, women, and children smoke tobacco, while men also take hallucinogenic snuff in group bouts and sometimes chew a second hallucinogen. No food is consumed during the dances. Tohé performances can be directed toward healing, psychological support, community concerns, and communication involving spirits or deceased Pumé individuals.
 

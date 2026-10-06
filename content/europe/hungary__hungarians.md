@@ -11,43 +11,39 @@ Hungarians, also known as Magyars, are an ethnic group native to present-day Hun
 
 ## Material culture
 
-### Textile & pattern traditions
-
-**Motif vocabulary.** The sources used name no Hungarian textile motifs.
-
 ### Clothing & dress
 
- They do state that, in 10th-century Hungarian cemeteries, women, children and elderly people were buried beside warriors according to the same traditions, wore the same style of ornaments and belonged to the same anthropological group. The sources also mention graves in which Avar descendants were buried in Hungarian clothes. No garment types, head coverings, belts, footwear or other forms of dress are described.
+They do state that, in 10th-century Hungarian cemeteries, women, children and elderly people were buried beside warriors according to the same traditions, wore the same style of ornaments and belonged to the same anthropological group. The sources also mention graves in which Avar descendants were buried in Hungarian clothes. No garment types, head coverings, belts, footwear or other forms of dress are described.
 
 ### Architecture
 
- They mention the Carpathian Basin, the Hungarian state, Hungarian settlements and the county system of King Saint Stephen I.
+They mention the Carpathian Basin, the Hungarian state, Hungarian settlements and the county system of King Saint Stephen I.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention ornaments found in 10th-century Hungarian cemeteries and archaeological findings connected with Hungarian settlement.
+They mention ornaments found in 10th-century Hungarian cemeteries and archaeological findings connected with Hungarian settlement.
 
 ### Jewelry & body adornment
 
- They state only that people in 10th-century Hungarian cemeteries wore the same style of ornaments and that graves associated with Hungarian settlement contain evidence of clothing and burial traditions.
+They state only that people in 10th-century Hungarian cemeteries wore the same style of ornaments and that graves associated with Hungarian settlement contain evidence of clothing and burial traditions.
 
 ## Music & performance
 
- They state that Hungarians share a common culture and that Hungarian pre-history is studied through linguistics, analogies in folklore, archaeology and subsequent written evidence.
+They state that Hungarians share a common culture and that Hungarian pre-history is studied through linguistics, analogies in folklore, archaeology and subsequent written evidence.
 
 ## Dance & theatre
 
- No distinction between ceremonial and entertainment performance is provided.
+No distinction between ceremonial and entertainment performance is provided.
 
 ## Festivals & rituals
 
- They do describe several historical and political events, including the Hungarian conquest of the Carpathian Basin, the coronation of Stephen I as King of Hungary in 1001, the Treaty of Trianon in 1920, the referendum in Hungary in December 2004 and the passing of a dual-citizenship bill on 26 May 2010.
+They do describe several historical and political events, including the Hungarian conquest of the Carpathian Basin, the coronation of Stephen I as King of Hungary in 1001, the Treaty of Trianon in 1920, the referendum in Hungary in December 2004 and the passing of a dual-citizenship bill on 26 May 2010.
 
 The sources mention burial traditions in archaeological contexts. In 10th-century Hungarian cemeteries, women, children and elderly people were buried beside warriors, according to the same traditions, with the same style of ornaments. Prince Álmos is described as having died before reaching Pannonia and having been sacrificed in Transylvania.
 
 ## Foodways
 
- They state that Hungarians neighbouring the Oghuric Bulgars on the Pontic-Caspian Steppe cooperated in gardening, cattle breeding and agriculture.
+They state that Hungarians neighbouring the Oghuric Bulgars on the Pontic-Caspian Steppe cooperated in gardening, cattle breeding and agriculture.
 
 ## Oral tradition & literature
 

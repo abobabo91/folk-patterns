@@ -21,11 +21,11 @@ The sources record iron pots, glass beads, cloth apparel, and tobacco among the 
 
 ## Music & performance
 
- The Koyukon language was documented by Jules Jetté, a French Canadian Jesuit missionary who began recording the language and culture of the Koyukon people in 1898. His notes included material on Koyukon culture, beliefs, and language. The sources also state that traditional stories recorded by Catherine Attla were published in 1983 by the University of Alaska Fairbanks. No specific musical performance tradition is identified.
+The Koyukon language was documented by Jules Jetté, a French Canadian Jesuit missionary who began recording the language and culture of the Koyukon people in 1898. His notes included material on Koyukon culture, beliefs, and language. The sources also state that traditional stories recorded by Catherine Attla were published in 1983 by the University of Alaska Fairbanks. No specific musical performance tradition is identified.
 
 ## Festivals & rituals
 
- They state that Jules Jetté recorded information about Koyukon beliefs and culture, but the supplied material does not specify particular rituals. An epidemic of smallpox preceded the arrival of the first Europeans in Koyukon territory, and subsequent European infectious diseases drastically reduced the population.
+They state that Jules Jetté recorded information about Koyukon beliefs and culture, but the supplied material does not specify particular rituals. An epidemic of smallpox preceded the arrival of the first Europeans in Koyukon territory, and subsequent European infectious diseases drastically reduced the population.
 
 ## Foodways
 

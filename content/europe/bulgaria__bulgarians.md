@@ -11,11 +11,11 @@ Bulgarians are a South Slavic ethnic group and nation native to Bulgaria and its
 
 ## Music & performance
 
- They state that Bulgarian cultural activity developed through the literary schools of Preslav and Ohrid, with authors including Constantine of Preslav, John Exarch, Chernorizets Hrabar, Clement and Naum of Ohrid.
+They state that Bulgarian cultural activity developed through the literary schools of Preslav and Ohrid, with authors including Constantine of Preslav, John Exarch, Chernorizets Hrabar, Clement and Naum of Ohrid.
 
 ## Festivals & rituals
 
- They do describe major historical and religious developments. The Bulgarians adopted Orthodox Christianity in 864, and most Bulgarians are at least nominally members of the Bulgarian Orthodox Church, founded in 870 and autocephalous since 927. The church was abolished during Ottoman rule, revived as the Bulgarian Exarchate in 1873, and later raised again to the Bulgarian Patriarchate. The National awakening of Bulgaria was initiated in 1762 under the influence of the Enlightenment in Western Europe. The April Uprising broke out in 1876 and led, through the Russo-Turkish War of 1877–1878, to the foundation of the third Bulgarian state after the Treaty of San Stefano.
+They do describe major historical and religious developments. The Bulgarians adopted Orthodox Christianity in 864, and most Bulgarians are at least nominally members of the Bulgarian Orthodox Church, founded in 870 and autocephalous since 927. The church was abolished during Ottoman rule, revived as the Bulgarian Exarchate in 1873, and later raised again to the Bulgarian Patriarchate. The National awakening of Bulgaria was initiated in 1762 under the influence of the Enlightenment in Western Europe. The April Uprising broke out in 1876 and led, through the Russo-Turkish War of 1877–1878, to the foundation of the third Bulgarian state after the Treaty of San Stefano.
 
 ## Oral tradition & literature
 

@@ -21,23 +21,23 @@ The Kʼómoks, also spelled Comox, are a Coast Salish Indigenous people whose tr
 
 ### Architecture
 
- They record that the highest-ranking tribes would overwinter at the Whale House on Quadra Island, but provide no architectural description of that building.
+They record that the highest-ranking tribes would overwinter at the Whale House on Quadra Island, but provide no architectural description of that building.
 
 ### Ceramics, metalwork & everyday objects
 
- They identify canoes and wood carving as important cultural practices.
+They identify canoes and wood carving as important cultural practices.
 
 ## Music & performance
 
- They state that property was distributed to guests in potlatches and that elaborate naming ceremonies honoured youth, leaders, and elders of the communities.
+They state that property was distributed to guests in potlatches and that elaborate naming ceremonies honoured youth, leaders, and elders of the communities.
 
 ## Festivals & rituals
 
- They describe several ritual and ceremonial practices. Some tribes practiced above-ground burials and tree burials. Food was often burned as an offering to ancestors. Sacred-energy sites throughout the territory were used for ritual bathing or mortuary ceremonies. Property was distributed to guests in potlatches, and elaborate naming ceremonies honoured youth, leaders, and elders. Flood mythologies are prevalent; the Pentlach and Tla'amin have stories about great floods.
+They describe several ritual and ceremonial practices. Some tribes practiced above-ground burials and tree burials. Food was often burned as an offering to ancestors. Sacred-energy sites throughout the territory were used for ritual bathing or mortuary ceremonies. Property was distributed to guests in potlatches, and elaborate naming ceremonies honoured youth, leaders, and elders. Flood mythologies are prevalent; the Pentlach and Tla'amin have stories about great floods.
 
 ## Foodways
 
- They state that food was often burned as an offering to ancestors. The sources also connect food and social distribution with potlatches, where property was distributed to guests.
+They state that food was often burned as an offering to ancestors. The sources also connect food and social distribution with potlatches, where property was distributed to guests.
 
 ## Oral tradition & literature
 

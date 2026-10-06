@@ -13,7 +13,7 @@ The Gros Ventre, also known as the A'aninin, Atsina, or White Clay, are an histo
 
 ### Clothing & dress
 
- They do record that the Gros Ventre acquired horses in the mid-18th century.
+They do record that the Gros Ventre acquired horses in the mid-18th century.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ The sources describe several buildings connected with Gros Ventre history. Fort 
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention two sacred pipes, the Feathered Pipe and the Flat Pipe, which remain central to traditional spiritual beliefs.
+They do mention two sacred pipes, the Feathered Pipe and the Flat Pipe, which remain central to traditional spiritual beliefs.
 
 ## Music & performance
 
@@ -31,11 +31,11 @@ The sources do record that the Gros Ventre maintained sacred pipes, the Feathere
 
 ## Dance & theatre
 
- They refer to an Owl Dance Song.
+They refer to an Owl Dance Song.
 
 ## Festivals & rituals
 
- They do record that Jesuits came to Fort Belknap in 1862 to convert the Gros Ventre people to Roman Catholicism and that St. Paul's Mission was established in 1887. The mission repressed traditional ceremonies and culture.
+They do record that Jesuits came to Fort Belknap in 1862 to convert the Gros Ventre people to Roman Catholicism and that St. Paul's Mission was established in 1887. The mission repressed traditional ceremonies and culture.
 
 Two sacred pipes, the Feathered Pipe and the Flat Pipe, remained central to traditional spiritual beliefs.
 

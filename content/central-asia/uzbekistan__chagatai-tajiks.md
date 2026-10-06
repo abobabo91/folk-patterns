@@ -11,7 +11,7 @@ The Chagatai Tajiks were a sub-ethnic group of Tajiks living in the Surxondaryo 
 
 ## Music & performance
 
- The sources only state that the Turkic Chagatai language is not the language of the Chagatai Tajiks.
+The sources only state that the Turkic Chagatai language is not the language of the Chagatai Tajiks.
 
 ## Language & religion
 

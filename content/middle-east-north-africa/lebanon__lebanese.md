@@ -21,7 +21,7 @@ Architecture in Lebanon includes legacies associated with the Romans, Phoenician
 
 ### Ceramics, metalwork & everyday objects
 
- They mention earthenware jars and canvas sacks as historical containers for *mouneh*, preserved foods prepared for year-round use.
+They mention earthenware jars and canvas sacks as historical containers for *mouneh*, preserved foods prepared for year-round use.
 
 ## Music & performance
 

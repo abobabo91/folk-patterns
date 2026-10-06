@@ -13,27 +13,27 @@ The Iranun are an Austronesian ethnic group native to southwestern Mindanao in t
 
 ### Architecture
 
- They state that the historically important Carta Indigena Filipina map demonstrates Iranun geographical knowledge and control over many of the seas and coasts of Southeast Asia.
+They state that the historically important Carta Indigena Filipina map demonstrates Iranun geographical knowledge and control over many of the seas and coasts of Southeast Asia.
 
 ### Ceramics, metalwork & everyday objects
 
- They identify ship-building as an important traditional skill and mention the Carta Indigena Filipina as a material object of historical importance.
+They identify ship-building as an important traditional skill and mention the Carta Indigena Filipina as a material object of historical importance.
 
 ## Music & performance
 
- They identify the Iranun as traditionally sailors and describe their maritime activity, including travel and raiding across the South China Sea, Sulu Sea, Moro Gulf, and Celebes Sea.
+They identify the Iranun as traditionally sailors and describe their maritime activity, including travel and raiding across the South China Sea, Sulu Sea, Moro Gulf, and Celebes Sea.
 
 ## Festivals & rituals
 
- They state that most Iranuns are Muslim and that Iranun communities in Kudat and Likas, Kota Kinabalu, assimilated with the Sama-Bajau partly because of shared Muslim religious beliefs and ancestral roots in the Bangsamoro region of the Southern Philippines.
+They state that most Iranuns are Muslim and that Iranun communities in Kudat and Likas, Kota Kinabalu, assimilated with the Sama-Bajau partly because of shared Muslim religious beliefs and ancestral roots in the Bangsamoro region of the Southern Philippines.
 
 ## Foodways
 
- They state that most Iranuns are Muslim but provide no further information about foodways.
+They state that most Iranuns are Muslim but provide no further information about foodways.
 
 ## Oral tradition & literature
 
- The origin of the name “Iranun” is described as contested. The form “Iranun,” also recorded as the archaic “Iranaoan,” may have been the original endonym of an ancestral group that later divided into the Iranun, Maranao, and Maguindanao peoples.
+The origin of the name “Iranun” is described as contested. The form “Iranun,” also recorded as the archaic “Iranaoan,” may have been the original endonym of an ancestral group that later divided into the Iranun, Maranao, and Maguindanao peoples.
 
 ## Language & religion
 

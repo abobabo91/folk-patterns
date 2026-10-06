@@ -21,15 +21,15 @@ Archaeological material described in the sources includes Jōmon pottery, Yayoi-
 
 ### Jewelry & body adornment
 
- They do mention tattooing among the people of the eastern islands in records dating from 57 CE, and state that this practice survived among Okinawan women, Ainu in Hokkaido, and Atayal people in Taiwan.
+They do mention tattooing among the people of the eastern islands in records dating from 57 CE, and state that this practice survived among Okinawan women, Ainu in Hokkaido, and Atayal people in Taiwan.
 
 ## Music & performance
 
- They do, however, describe the social importance of Ryukyuan *Noro* priestesses, who were closely associated with local political power until the 20th century. The sources also describe women sorceresses as having special influence in the political-social institutions of western and southern Japan and Okinawa until the 2nd century CE. These references concern religious and political authority rather than documented musical performance.
+They do, however, describe the social importance of Ryukyuan *Noro* priestesses, who were closely associated with local political power until the 20th century. The sources also describe women sorceresses as having special influence in the political-social institutions of western and southern Japan and Okinawa until the 2nd century CE. These references concern religious and political authority rather than documented musical performance.
 
 ## Festivals & rituals
 
- They describe an indigenous religion and the political-religious significance of *Noro* priestesses, who were associated with local political power until the 20th century. The sources also describe a tradition in which the founder of the Tenson dynasty was descended from the goddess Amamikyu, although they state that this tradition appears in later royal tales influenced by Chinese and Japanese political interests. The Tenson dynasty was said in those tales to have ruled for 17,000 years and to have had 25 kings or chieftains. The supplied material does not describe birth, coming-of-age, wedding, funeral, or other life-cycle rites.
+They describe an indigenous religion and the political-religious significance of *Noro* priestesses, who were associated with local political power until the 20th century. The sources also describe a tradition in which the founder of the Tenson dynasty was descended from the goddess Amamikyu, although they state that this tradition appears in later royal tales influenced by Chinese and Japanese political interests. The Tenson dynasty was said in those tales to have ruled for 17,000 years and to have had 25 kings or chieftains. The supplied material does not describe birth, coming-of-age, wedding, funeral, or other life-cycle rites.
 
 ## Foodways
 

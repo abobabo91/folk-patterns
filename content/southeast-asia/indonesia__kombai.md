@@ -1,0 +1,51 @@
+---
+title: "Kombai"
+subtitle: "Indonesia"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Kombai are a Papuan people living in the Indonesian province of South Papua, specifically in Mappi Regency. Their total population is about 5,650. Their name comes from *khoba*, meaning “people,” while their language is called *khobaye-lu*, meaning “human language.” Kombai is a Papuan language of Boven Digoel Regency in South Papua, Indonesia. It is spoken by the Kombai, including the Kombai Kali, or River Kombai, whose speech is described as the Tayan dialect. The sources document Kombai life through clan territories, tree houses, hunting, fishing, sago cultivation, and social gatherings involving neighboring clans and tribes.
+
+## Material culture
+
+### Architecture
+
+Kombai clans live within territories called *boluf*. The boundaries between a *boluf* and uninhabited forests are called *rerikho*. The central and sacred tree house is the *ramo dumo*, belonging to the eldest member of the patriclan and his immediate family. It is regarded as a defense against enemy attacks and is guarded by men with bows and arrows.
+
+The Kombai build three types of houses. Residential tree houses are called *guoro* and are usually built around 3–15 meters above the ground. A taller lookout tree house is called *walina* and is usually built 15 meters or more above ground. The shortest type, *ibena*, is built near ground level and is used by women during childbirth or menstrual cycles. Large *ibena* are used for sago grub festivals. As sons mature and marry, they move out and build their own tree houses near the primary house.
+
+### Ceramics, metalwork & everyday objects
+
+They mention bows and arrows, small dogs used in hunting, stone axes, large leaves used in cooking, and small dams built in streams for fishing.
+
+## Music & performance
+
+They do mention television documentaries featuring Kombai life, including *Tribe*, *Living with the Kombai*, *World’s Lost Tribes*, *Mark & Olly: Living with the Tribes*, *Going to Extremes*, and *Madventures*.
+
+## Festivals & rituals
+
+The sources describe social festivities involving sago grubs. The larvae of the capricorn beetle, called sago grub, are considered a delicacy. To harvest them, a sago tree is cut down and left for a month, then wrapped in leaves and left to rot for three months. The larvae are then collected. This food is used in festivities with neighboring clans and tribes to strengthen social ties.
+
+Large *ibena* tree houses are used for sago grub festivals. The sources also state that *ibena* are used by women during childbirth or menstrual cycles.
+
+## Foodways
+
+The Kombai are hunter-gatherers who hunt pigs and other forest animals with small dogs. They fish by building small dams in streams and pouring poison from a toxic root into the water, forcing fish to the surface. Food is cooked with stones heated in a fire and placed on top of meat wrapped in large leaves. Because food is abundant in the forest, none is stored.
+
+Within the *boluf*, yards called *yarimo* are cultivated to produce vegetables, sweet potatoes, bananas, and tobacco, while poultry is raised. Swampy areas are cultivated for sago, and women collect leaves for ingredients or medicinal purposes. The larvae of the capricorn beetle, called sago grub, are a delicacy and are eaten during festivities with neighboring clans and tribes.
+
+## Oral tradition & literature
+
+They state that the Kombai language is called *khobaye-lu*, meaning “human language,” and identify Kombai as a Papuan language.
+
+## Language & religion
+
+Kombai, also called Komboy, is a Papuan language of Boven Digoel Regency in South Papua, Indonesia. It is spoken by the Kombai, including the Kombai Kali, or River Kombai, who spoke the Tayan dialect. Ethnologue records a Wanggom language similar to Kombai, spoken by the Wanggom people, but the source states that Wanggom has not been attested as a distinct language.
+
+## Sources & further reading
+
+- [Kombai people — Wikipedia](https://en.wikipedia.org/wiki/Kombai_people)
+- [Kombai language — Wikipedia](https://en.wikipedia.org/wiki/Kombai_language)

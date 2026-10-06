@@ -11,7 +11,7 @@ The Hunzibs are an indigenous people of Dagestan in the North Caucasus. They liv
 
 ## Festivals & rituals
 
- The sources state only that the Hunzib primarily follow Sunni Islam and that Islam spread among them around the 8th or 9th century before becoming consolidated around the 16th and 17th centuries.
+The sources state only that the Hunzib primarily follow Sunni Islam and that Islam spread among them around the 8th or 9th century before becoming consolidated around the 16th and 17th centuries.
 
 ## Language & religion
 

@@ -35,11 +35,11 @@ Two major house types are named: the **Sysol house type** (*Сысольский
 
 ### Ceramics, metalwork & everyday objects
 
- They identify wood as the traditional material for houses and farm buildings and mention *chum* tents among the Izhma Komi, but provide no catalogue of everyday objects.
+They identify wood as the traditional material for houses and farm buildings and mention *chum* tents among the Izhma Komi, but provide no catalogue of everyday objects.
 
 ## Music & performance
 
- The Komi language article reproduces the text of the Komi-Zyryan folk song “Катшасинъяс” (*Kačaśinjas*, meaning “Daisies”), including versions in the Anbur script, the Zyryan Cyrillic alphabet and a modern Latin alphabet.
+The Komi language article reproduces the text of the Komi-Zyryan folk song “Катшасинъяс” (*Kačaśinjas*, meaning “Daisies”), including versions in the Anbur script, the Zyryan Cyrillic alphabet and a modern Latin alphabet.
 
 ## Festivals & rituals
 

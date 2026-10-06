@@ -25,15 +25,15 @@ Caribou antlers were important materials for Netsilik implements, including the 
 
 ## Music & performance
 
- They do mention a later orchestral work with narration, *Tales of the Netilik*, created by Canadian / American composer Raymond Luedeke from excerpts of Knud Rasmussen’s *Journals of the Fifth Thule Expedition*. The work was commissioned by six Canadian orchestras and played throughout Canada in 1988. The available material does not identify a Netsilik musical tradition represented in the work, nor does it describe Netsilik participation in its performance.
+They do mention a later orchestral work with narration, *Tales of the Netilik*, created by Canadian / American composer Raymond Luedeke from excerpts of Knud Rasmussen’s *Journals of the Fifth Thule Expedition*. The work was commissioned by six Canadian orchestras and played throughout Canada in 1988. The available material does not identify a Netsilik musical tradition represented in the work, nor does it describe Netsilik participation in its performance.
 
 ## Dance & theatre
 
- They mention the educational project *Man: A Course of Study*, which made the Netsilik its subject in the 1970s and attracted criticism from American conservative groups, but they do not characterize it as Netsilik theatre or performance.
+They mention the educational project *Man: A Course of Study*, which made the Netsilik its subject in the 1970s and attracted criticism from American conservative groups, but they do not characterize it as Netsilik theatre or performance.
 
 ## Festivals & rituals
 
- They describe seasonal movements associated with subsistence: in summer, Netsilik hunters pursued caribou on the tundra; in winter, they moved onto the sea ice to fish and hunt seal. The sources also report that senicide was still practiced among the Netsilik of King William’s Land according to reports by Knud Rasmussen in the 1920s and Gontran de Poncins in the 1930s. Female infanticide is described as a historical practice in Netsilik culture, with explanations discussed in terms of food scarcity, population control, cultural values, mortality patterns, endogamy, and wife stealing.
+They describe seasonal movements associated with subsistence: in summer, Netsilik hunters pursued caribou on the tundra; in winter, they moved onto the sea ice to fish and hunt seal. The sources also report that senicide was still practiced among the Netsilik of King William’s Land according to reports by Knud Rasmussen in the 1920s and Gontran de Poncins in the 1930s. Female infanticide is described as a historical practice in Netsilik culture, with explanations discussed in terms of food scarcity, population control, cultural values, mortality patterns, endogamy, and wife stealing.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ The Netsilik relied mainly on hunting because their harsh Arctic environment yie
 
 ## Oral tradition & literature
 
- They mention Knud Rasmussen’s *Journals of the Fifth Thule Expedition*, excerpts of which were later used in *Tales of the Netilik*, an orchestral work with narration created by Raymond Luedeke. The sources also identify the Netsilik as the subject of the 1970s U.S. educational project *Man: A Course of Study*.
+They mention Knud Rasmussen’s *Journals of the Fifth Thule Expedition*, excerpts of which were later used in *Tales of the Netilik*, an orchestral work with narration created by Raymond Luedeke. The sources also identify the Netsilik as the subject of the 1970s U.S. educational project *Man: A Course of Study*.
 
 ## Language & religion
 

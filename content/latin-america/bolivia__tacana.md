@@ -17,11 +17,11 @@ The sources state that Tacana residence may be with one or the other of the in-l
 
 ### Ceramics, metalwork & everyday objects
 
- They state that crafts with rubber products form part of Tacana economic activity.
+They state that crafts with rubber products form part of Tacana economic activity.
 
 ## Music & performance
 
- They state that shamans celebrate traditional ceremonies on key dates of the agricultural calendar and that traditional religious beliefs and practices continue to influence daily life.
+They state that shamans celebrate traditional ceremonies on key dates of the agricultural calendar and that traditional religious beliefs and practices continue to influence daily life.
 
 ## Festivals & rituals
 

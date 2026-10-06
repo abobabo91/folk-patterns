@@ -11,19 +11,19 @@ The Khamnigan, also called Hamnigan Mongols or Tungus Evenki, are an ethnic subg
 
 ## Music & performance
 
- They state only that the Khamnigan of Mongolia speak the Khamnigan dialect of Buriat language, without describing its musical traditions.
+They state only that the Khamnigan of Mongolia speak the Khamnigan dialect of Buriat language, without describing its musical traditions.
 
 ## Festivals & rituals
 
- The historical material records that, in the early 16th century, the Evenks of Transbaikalia or Khamnigans were tributary to the Khalkha.
+The historical material records that, in the early 16th century, the Evenks of Transbaikalia or Khamnigans were tributary to the Khalkha.
 
 ## Foodways
 
- The source does state that the Khamnigan community in Inner Mongolia attaches symbolic importance to bread.
+The source does state that the Khamnigan community in Inner Mongolia attaches symbolic importance to bread.
 
 ## Oral tradition & literature
 
- The sources name Semyon Nomokonov, who lived from 1900 to 1973 and was a Soviet sniper during World War II, but provide no literary or oral-traditional material connected with him.
+The sources name Semyon Nomokonov, who lived from 1900 to 1973 and was a Soviet sniper during World War II, but provide no literary or oral-traditional material connected with him.
 
 ## Language & religion
 

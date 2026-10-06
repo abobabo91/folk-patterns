@@ -15,8 +15,6 @@ The Aweti are Indigenous Brazilians living in the Xingu Indigenous Park, near th
 
 **Hammocks** — The Aweti trade hammocks made from Burití palm trees with other upper-Xingu groups.
 
-No other pattern-bearing textile tradition is documented in the sources used.
-
 ### Architecture
 
 Aweti villages are arranged with several huts surrounding a central plaza. The plaza is used for rituals, including funeral rites, and this arrangement is characteristic of villages in the area around the Xingu headwaters. A men's hut stands at the center of the village. It holds ritual flutes that women are not allowed to see.
@@ -35,7 +33,7 @@ The sources also identify Huka-huka wrestling as a popular intertribal sport.
 
 ## Dance & theatre
 
- They mention rituals in the village plaza, including funeral rites.
+They mention rituals in the village plaza, including funeral rites.
 
 ## Festivals & rituals
 

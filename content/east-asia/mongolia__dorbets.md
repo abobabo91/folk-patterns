@@ -11,7 +11,7 @@ The Dörbets, known in English as The Fours, are the second largest subgroup of 
 
 ## Music & performance
 
- The Wikipedia article mentions an ELAR archive of Durvud Oirat language documentation materials but gives no musical information.
+The Wikipedia article mentions an ELAR archive of Durvud Oirat language documentation materials but gives no musical information.
 
 ## Festivals & rituals
 

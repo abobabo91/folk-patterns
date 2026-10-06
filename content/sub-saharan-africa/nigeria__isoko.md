@@ -13,17 +13,13 @@ The Isoko are an ethnolinguistic group in southern Nigeria who inhabit the Isoko
 
 The sources identify several Isoko people as musicians or performers, including D’Prince, Eva Alordiah, Evi Edna Ogholi, Orezi, Daddy Showkey, Solid Star and Bovi, who is identified as a comedian. The sources also identify Zeb Ejiro, Chico Ejiro and Jeta Amata as filmmakers, Fred Amata as an actor, and Moses James as a boxer and Olympic medalist. No specific Isoko theatre, film, sporting ritual or performance tradition is documented.
 
-## Dance & theatre
-
- They identify several Isoko individuals as filmmakers and actors but provide no account of a named Isoko dance or theatre tradition.
-
 ## Festivals & rituals
 
 The Wikipedia material concerning Urhobo culture describes Urhobo practices, including annual fishing festivals, the two-day Ohworu festival in Evwreni, marriage rites, prayers to ancestors and burial customs. Those descriptions concern the Urhobo and are not presented as Isoko traditions, so they are not treated as evidence for this profile.
 
 ## Oral tradition & literature
 
- The Isoko mythology source supplied here is principally an account of Urhobo history, political organization, religion, festivals, foodways and calendar, rather than a description of Isoko mythology. It states that the Okpako Orere is called Okpako Ewo by Isoko-speaking clans.
+The Isoko mythology source supplied here is principally an account of Urhobo history, political organization, religion, festivals, foodways and calendar, rather than a description of Isoko mythology. It states that the Okpako Orere is called Okpako Ewo by Isoko-speaking clans.
 
 ## Language & religion
 

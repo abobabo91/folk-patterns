@@ -35,7 +35,7 @@ The sources describe efforts to preserve and publish Wakhi language, poetry, lit
 
 The Wakhi language article lists several publications. *X̌ikwor zik* is attributed to Master Haqiqat; religious hymns are attributed to Riaz Ahmed Riaz; *Qaida e Wakhi Zaban* is attributed to Ahmed Jami Sakhi; and *Magazines and Parlon Wakhi* is associated with Karim Khan Saka. *Beyoz-e-Bulbul* is described as a collection of old and new poems and folklores compiled by Bulbulik Heritage Center, Gulmit.
 
- They do, however, identify oral literature as a field of documentation, including a work titled *La langue wakhi*, described as a corpus of oral literature.
+They do, however, identify oral literature as a field of documentation, including a work titled *La langue wakhi*, described as a corpus of oral literature.
 
 ## Language & religion
 

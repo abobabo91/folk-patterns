@@ -17,25 +17,25 @@ The Alabama, also known as the Alibamu, are an Indigenous people of the Southeas
 
 ### Architecture
 
- They record that Alabama and Coushatta towns were divided into “red” and “white” towns. The “white” towns were responsible for keeping the peace and providing refuge, while the “red” towns conducted military campaigns.
+They record that Alabama and Coushatta towns were divided into “red” and “white” towns. The “white” towns were responsible for keeping the peace and providing refuge, while the “red” towns conducted military campaigns.
 
 ### Ceramics, metalwork & everyday objects
 
- They do record an emblem associated with the Alabama-Coushatta Tribe of Texas: two intertwined woodpeckers derived from precontact Mississippian culture.
+They do record an emblem associated with the Alabama-Coushatta Tribe of Texas: two intertwined woodpeckers derived from precontact Mississippian culture.
 
 ## Music & performance
 
- They identify Alabama as a Muskogean language and state that an estimated 100 speakers, primarily from Texas, still speak it. Since January 2024, the Alabama–Coushatta Tribe of Texas has engaged in a revitalization and documentation effort with the WOLF (Working on Language in the Field) Lab at Harvard University. The five-year goal is “to document the language, study its grammar and lexicon, and produce educational resources for the Alabama–Coushatta community.”
+They identify Alabama as a Muskogean language and state that an estimated 100 speakers, primarily from Texas, still speak it. Since January 2024, the Alabama–Coushatta Tribe of Texas has engaged in a revitalization and documentation effort with the WOLF (Working on Language in the Field) Lab at Harvard University. The five-year goal is “to document the language, study its grammar and lexicon, and produce educational resources for the Alabama–Coushatta community.”
 
 ## Festivals & rituals
 
- The historical sources record that Alabama and Coushatta towns were organized as “red” and “white” towns. The “white” towns kept the peace and provided refuge, while the “red” towns conducted military campaigns. Although the towns had these responsibilities, the Alabama–Coushatta thought of themselves as peace-loving people.
+The historical sources record that Alabama and Coushatta towns were organized as “red” and “white” towns. The “white” towns kept the peace and provided refuge, while the “red” towns conducted military campaigns. Although the towns had these responsibilities, the Alabama–Coushatta thought of themselves as peace-loving people.
 
 The sources also record Alabama and Coushatta origin narratives. One oral history states that the two tribes sprouted from opposite sides of a cypress tree. Another account, shared by Se-ko-pe-chi in 1857, states that the tribes “sprang out of the ground between the Cohawba and Alabama Rivers.” These accounts concern the interconnectedness of the two tribes.
 
 ## Foodways
 
- The Alabama people’s historical movement is described in relation to land, migration, roaming, and hunting. In the early 19th century, the Alabama and Coushatta developed a strong friendship as they roamed and hunted their new land together.
+The Alabama people’s historical movement is described in relation to land, migration, roaming, and hunting. In the early 19th century, the Alabama and Coushatta developed a strong friendship as they roamed and hunted their new land together.
 
 The only specifically documented plant practice concerns the obtusifolium subspecies of *Pseudognaphalium obtusifolium*. It was used in a compound decoction for nervousness and sleepiness and in a decoction as a face wash for nerves and insomnia. The sources describe these uses as ethnobotanical and medicinal rather than as foodways.
 

@@ -13,33 +13,33 @@ The Shapsugs are one of the twelve major Circassian tribes and historically form
 
 ### Clothing & dress
 
- They record only that, during the *Hantse Guashe* ceremony, a dressed doll was carried through the aul and later drowned in the river as part of rain calling.
+They record only that, during the *Hantse Guashe* ceremony, a dressed doll was carried through the aul and later drowned in the river as part of rain calling.
 
 ### Architecture
 
- They do mention the aul as the setting through which the dressed doll was carried during the *Hantse Guashe* ceremony.
+They do mention the aul as the setting through which the dressed doll was carried during the *Hantse Guashe* ceremony.
 
 ### Ceramics, metalwork & everyday objects
 
- They record agriculture, cattle and horse breeding, horticulture, viticulture, and beekeeping as elements of the traditional economy.
+They record agriculture, cattle and horse breeding, horticulture, viticulture, and beekeeping as elements of the traditional economy.
 
 ## Music & performance
 
- They do record the **Elegy of the Shapsugs**, an Adyghe elegy identified as *Шапсыгъэ л1ыхъужъхэм ягъыбз*. The Shapsug honored their “immortals,” meaning heroes and fighters who sacrificed their lives in the battles and war connected with Circassian resistance and the struggle to keep Circassia independent. The elegy belongs to this commemorative context.
+They do record the **Elegy of the Shapsugs**, an Adyghe elegy identified as *Шапсыгъэ л1ыхъужъхэм ягъыбз*. The Shapsug honored their “immortals,” meaning heroes and fighters who sacrificed their lives in the battles and war connected with Circassian resistance and the struggle to keep Circassia independent. The elegy belongs to this commemorative context.
 
 ## Festivals & rituals
 
- They describe the *Hantse Guashe* ceremony of rain calling, performed during droughts. A dressed doll was carried through the aul and then drowned in the river; it was not taken out before rain had arrived. This practice is recorded as belonging to the pre-Islamic and pre-Christian religious culture of the Shapsugs.
+They describe the *Hantse Guashe* ceremony of rain calling, performed during droughts. A dressed doll was carried through the aul and then drowned in the river; it was not taken out before rain had arrived. This practice is recorded as belonging to the pre-Islamic and pre-Christian religious culture of the Shapsugs.
 
 The sources also describe religious change. In pre-Islamic and pre-Christian times, the Shapsug worshiped Circassian gods including Shible, the god of thunder and lightning; Sozeresh, the god of fertility; Yemish or Yemij, the god of war; Akhin and Khakustash, protectors of cattle breeding; Tlepsh, the god of blacksmithing; and Keshkogwasha, the god of the Black Sea. Since the early 19th century, the Shapsug have been primarily Sunni Muslims of the Hanafi tradition.
 
 ## Foodways
 
- They identify agriculture, horticulture, viticulture, beekeeping, cattle breeding, and horse breeding as activities of the traditional Shapsug economy.
+They identify agriculture, horticulture, viticulture, beekeeping, cattle breeding, and horse breeding as activities of the traditional Shapsug economy.
 
 ## Oral tradition & literature
 
- They do record the **Elegy of the Shapsugs**, an Adyghe elegy associated with the commemoration of the tribe’s “immortals,” heroes and fighters who gave their lives during the Circassian resistance and the battles with the Russian Empire.
+They do record the **Elegy of the Shapsugs**, an Adyghe elegy associated with the commemoration of the tribe’s “immortals,” heroes and fighters who gave their lives during the Circassian resistance and the battles with the Russian Empire.
 
 The sources also preserve a number of Adyghe names and terms connected with Shapsug history and culture, including *Шапсыгъэ л1ыхъужъхэм ягъыбз*, *Hantse Guashe*, *Šapsyġe Nacionalne Rajon*, and *Фэкъул1*.
 

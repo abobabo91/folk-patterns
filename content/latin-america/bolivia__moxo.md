@@ -37,7 +37,7 @@ The Moxo were traditionally farmers as well as hunter-gatherers and pastoralists
 
 ## Oral tradition & literature
 
- They state that a dictionary of Ignaciano-Mojeño has been published and that the New Testament was translated into the language in 1980. A Mojeño Trinitario DoReCo corpus contains audio recordings of narrative texts with transcriptions, translations, and, for some texts, time-aligned morphological annotations.
+They state that a dictionary of Ignaciano-Mojeño has been published and that the New Testament was translated into the language in 1980. A Mojeño Trinitario DoReCo corpus contains audio recordings of narrative texts with transcriptions, translations, and, for some texts, time-aligned morphological annotations.
 
 ## Language & religion
 

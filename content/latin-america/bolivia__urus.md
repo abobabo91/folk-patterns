@@ -11,10 +11,6 @@ The Uru or Uros (*Qhas Qut suñi*) are an Indigenous people of Bolivia and Peru 
 
 ## Material culture
 
-### Clothing & dress
-
- The sources mention that the Uru have darker skin than their neighbours Aymaras and Quechuas, but provide no account of clothing or body adornment.
-
 ### Architecture
 
 The Uru build floating islands from bundles of dried *Totora* reeds, which are also used for reed boats, or *balsas*. The islands are made from several natural layers harvested in Lake Titicaca. Large pallets of floating totora roots form the base; these are tied together with ropes and covered with layers of reeds. The dense interwoven roots form a natural layer called *khili*, about one to two meters thick, which provides flotation and stability.
@@ -31,11 +27,11 @@ Food is cooked in pots on pottery stoves placed on flat stones so that the flamm
 
 ## Music & performance
 
- In modern life, the main island is home to an Uru-run FM radio station that plays music for several hours a day. Most boats have motors, and nearly all islands have shared solar panels that operate appliances such as televisions.
+In modern life, the main island is home to an Uru-run FM radio station that plays music for several hours a day. Most boats have motors, and nearly all islands have shared solar panels that operate appliances such as televisions.
 
 ## Festivals & rituals
 
- They state that the Uru historically considered themselves the owners of the lake and water, and that they called themselves *Lupihaques*, “sons of the Sun.” The sources also record that the Uru bury their dead on the mainland in special cemeteries, but provide no further description of funerary practice.
+They state that the Uru historically considered themselves the owners of the lake and water, and that they called themselves *Lupihaques*, “sons of the Sun.” The sources also record that the Uru bury their dead on the mainland in special cemeteries, but provide no further description of funerary practice.
 
 The original purpose of the island settlements was defensive: the islands could be moved if a threat arose, and many included a watchtower. The Uru traded with the Aymara on the mainland, intermarried with them, and eventually abandoned the Uru language for Aymara. When conquered by the Inca Empire, they had to pay taxes and were often enslaved. A conflict between the Uru and Aymara began in 1722 and ended in the 1970s, when the Aymara defeated the Uru and took permanent control of their lands.
 
@@ -57,7 +53,7 @@ The Uru language is nearly extinct. While most Uru have shifted to Aymara and Sp
 
 The Uru or Uros are also identified by the Uru name *Qhas Qut suñi*. The Uru language is nearly extinct and is closely related to the Chipaya language. Most Uru have shifted to Aymara and Spanish; the sources state that the Uru lost their original language about 500 years ago through contact with Aymara and other historical changes.
 
- They state that the Uru considered themselves the owners of the lake and water, and preserve the legend that they had black blood because they did not feel the cold.
+They state that the Uru considered themselves the owners of the lake and water, and preserve the legend that they had black blood because they did not feel the cold.
 
 ## Sources & further reading
 

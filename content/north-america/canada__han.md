@@ -13,7 +13,7 @@ The Hän, also called Han or Hwëch'in / Han Hwech’in, are a First Nations peo
 
 ### Clothing & dress
 
- They record that Hän communities became increasingly reliant on European goods such as clothing and canvas between 1887 and 1895.
+They record that Hän communities became increasingly reliant on European goods such as clothing and canvas between 1887 and 1895.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ The principal Hän dwelling was a square half-recessed house known as a moss hou
 
 ### Ceramics, metalwork & everyday objects
 
- They do record fishing tools including weirs, traps, gill nets, dip nets, spears, and harpoons, as well as woven spruce-root baskets used in cooking.
+They do record fishing tools including weirs, traps, gill nets, dip nets, spears, and harpoons, as well as woven spruce-root baskets used in cooking.
 
 ## Festivals & rituals
 
- They record seasonal movements connected with subsistence: salmon was caught along the Yukon River in June and August, river camps were abandoned between the salmon runs from June–September, and hunting later took place after the salmon run and for caribou in February and March.
+They record seasonal movements connected with subsistence: salmon was caught along the Yukon River in June and August, river camps were abandoned between the salmon runs from June–September, and hunting later took place after the salmon run and for caribou in February and March.
 
 The sources describe a historical religious transition rather than a detailed ritual calendar. Bishop William Bompas established the first Anglican Church mission in Hän territory, after which the people gradually shifted away from traditional religion while combining it with Christianity in a syncretic fashion.
 
@@ -37,7 +37,7 @@ Women traditionally cooked by boiling food with water heated by stones placed in
 
 ## Oral tradition & literature
 
- They mention that members of the group appear in James A. Michener’s 1989 novel *Journey*, in which Europeans try to reach Dawson overland from Athabasca Landing in Alberta in 1897–99.
+They mention that members of the group appear in James A. Michener’s 1989 novel *Journey*, in which Europeans try to reach Dawson overland from Athabasca Landing in Alberta in 1897–99.
 
 Language preservation efforts include the Hän Language program, hosted by the Robert Service School in Dawson City since 1991. The Trʼondëk Hwëchʼin supports adult language classes and bi-annual cultural gatherings, while FirstVoices and Yukon Native Learning Centre provide online resources for learning Hän and its tradition, culture, and history.
 

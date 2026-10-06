@@ -1,0 +1,28 @@
+---
+title: "Awá-Guajá"
+subtitle: "Brazil"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Awá are an Indigenous people of Brazil living in the Amazon rainforest. There are approximately 350 members, including 100 people who have no contact with the outside world. They speak Guajá, a Tupi–Guaraní language. Originally living in settlements, they adopted an increasingly nomadic lifestyle around 1800 to escape incursions by Europeans. Awá groups traditionally sustained themselves entirely from the forest, usually in nomadic groups of a few dozen people, with little or no outside contact. Their culture is highly endangered because of conflicts with logging interests, land clearance for farming, massacres, and the destruction of the forest on which they depend.
+
+## Foodways
+
+They state only that Awá groups sustained themselves entirely from their forests.
+
+## Oral tradition & literature
+
+The sources do mention a documentary, *Ka'a Zar Ukize Wá – Forest Keepers in Danger*, made by Mídia Índia in collaboration with the Instituto Socioambiental and the Instituto Catitu, with support from Instituto Makarapy, If Not Us Then Who, and Survival International.
+
+## Language & religion
+
+The Awá speak Guajá, a Tupi–Guaraní language.
+
+## Sources & further reading
+
+- [“Awá (Brazil),” Wikipedia](https://en.wikipedia.org/wiki/Aw%C3%A1_%28Brazil%29)
+- Survival International, [“Awa: Earth's Most Threatened Tribe”](https://www.survivalinternational.org/tribes/awa)
+- Instituto Socioambiental, [“Guajá”](https://pib.socioambiental.org/en/Povo:Guaj%C3%A1)

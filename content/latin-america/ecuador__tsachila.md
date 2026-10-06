@@ -23,29 +23,29 @@ Men are distinguished by an elaborate head decoration. They shave the temporal a
 
 ### Ceramics, metalwork & everyday objects
 
- They state that Tagua or Corozo nuts are used to manufacture handicrafts in many communities of Ecuador.
+They state that Tagua or Corozo nuts are used to manufacture handicrafts in many communities of Ecuador.
 
 ### Jewelry & body adornment
 
- They do describe men’s hair styling with grease and achiote sap or seeds. The sources connect the red coloring of achiote with protection against smallpox and explain that the Spaniards called the people “Colorado” because they used to cover their entire bodies in the red juices of achiote seeds.
+They do describe men’s hair styling with grease and achiote sap or seeds. The sources connect the red coloring of achiote with protection against smallpox and explain that the Spaniards called the people “Colorado” because they used to cover their entire bodies in the red juices of achiote seeds.
 
 ## Music & performance
 
- They state that a Tsáchila shaman asked a spirit to guide the people to a cure through ceremony and prayer.
+They state that a Tsáchila shaman asked a spirit to guide the people to a cure through ceremony and prayer.
 
 ## Festivals & rituals
 
- They describe an origin account connected with achiote, smallpox, ceremony, and prayer. According to this account, a Tsáchila shaman asked a spirit for guidance toward a cure, and the people were led to an achiote bush. They covered themselves completely with the red juices of the seed-pods, after which mortality in the group was drastically reduced. The people are described as remaining grateful to the plant for protecting the community from smallpox.
+They describe an origin account connected with achiote, smallpox, ceremony, and prayer. According to this account, a Tsáchila shaman asked a spirit for guidance toward a cure, and the people were led to an achiote bush. They covered themselves completely with the red juices of the seed-pods, after which mortality in the group was drastically reduced. The people are described as remaining grateful to the plant for protecting the community from smallpox.
 
 The sources also state that most Ecuadorians regarded Tsachila shamans as holders of secrets of the rain forest and of healing powers that would work when western medicine had failed. They connect this reputation particularly with Abraham Calazacom, described as a tribal chief who led his tribe in the fifties and sixties.
 
 ## Foodways
 
- They state that Tsáchila economic activity includes harvesting native tropical products for traditional medicine, especially Tagua or Corozo nuts, and cultivating tropical fruits including varieties of the genus Musa, Pineapples, Papayas, and Oranges, as well as farming Cocoa plants.
+They state that Tsáchila economic activity includes harvesting native tropical products for traditional medicine, especially Tagua or Corozo nuts, and cultivating tropical fruits including varieties of the genus Musa, Pineapples, Papayas, and Oranges, as well as farming Cocoa plants.
 
 ## Oral tradition & literature
 
- They do provide an origin account explaining the use of achiote in relation to smallpox and identify Tsafiki as meaning “true word.”
+They do provide an origin account explaining the use of achiote in relation to smallpox and identify Tsafiki as meaning “true word.”
 
 ## Language & religion
 

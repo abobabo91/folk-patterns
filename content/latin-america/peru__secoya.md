@@ -13,23 +13,23 @@ The Secoya, also known as Angotero, Encabellado, Huajoya, Piojé, and Siekopai, 
 
 ### Architecture
 
- The sources identify settlements and river locations.
+The sources identify settlements and river locations.
 
 ## Music & performance
 
- The sources do identify animistic legends as a cultural form and discuss Ramón Piaguaje’s painting *Eternal Amazon*, which was selected from over 22,000 entries by professionals and amateur artists from 51 countries as the winner of the first prize of the United Nations Millennium Art Exhibition in aid of UNICEF, “Our World in the Year 2000.” They provide no further account of Secoya music or performance.
+The sources do identify animistic legends as a cultural form and discuss Ramón Piaguaje’s painting *Eternal Amazon*, which was selected from over 22,000 entries by professionals and amateur artists from 51 countries as the winner of the first prize of the United Nations Millennium Art Exhibition in aid of UNICEF, “Our World in the Year 2000.” They provide no further account of Secoya music or performance.
 
 ## Dance & theatre
 
- They state only that supernatural beings and celestial bodies appear as characters in the animistic legends of the Secoya.
+They state only that supernatural beings and celestial bodies appear as characters in the animistic legends of the Secoya.
 
 ## Festivals & rituals
 
- They mention animistic legends and supernatural beings.
+They mention animistic legends and supernatural beings.
 
 ## Foodways
 
- No UNESCO Intangible Cultural Heritage inscription or museum catalogue record supplied for this profile concerns Secoya foodways.
+No UNESCO Intangible Cultural Heritage inscription or museum catalogue record supplied for this profile concerns Secoya foodways.
 
 ## Oral tradition & literature
 

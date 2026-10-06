@@ -31,11 +31,11 @@ The sources identify baskets and *morrales* as culturally distinctive objects.
 
 ## Music & performance
 
- They do document Triqui-language broadcasting through the CDI radio stations XEQIN-AM, based in San Quintín, Baja California, and XETLA, based in Tlaxiaco, Oaxaca. A 2020 bibliography entry concerns sung performances of children’s songs in Chicahuaxtla Triqui. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
+They do document Triqui-language broadcasting through the CDI radio stations XEQIN-AM, based in San Quintín, Baja California, and XETLA, based in Tlaxiaco, Oaxaca. A 2020 bibliography entry concerns sung performances of children’s songs in Chicahuaxtla Triqui. No UNESCO Intangible Cultural Heritage inscription concerns this ethnic group.
 
 ## Dance & theatre
 
- The documentary film *Gigantes Descalzos* is identified as chronicling a team of Triqui youth basketball players, but the sources give no further information about its form or content.
+The documentary film *Gigantes Descalzos* is identified as chronicling a team of Triqui youth basketball players, but the sources give no further information about its form or content.
 
 ## Festivals & rituals
 
@@ -47,7 +47,7 @@ A notable custom is bride price. During pre-colonial and colonial times, the pra
 
 Triqui agriculture includes corn, beans, pumpkin, chili peppers, *quelite*, and lima beans. The most important crops are described as banana and coffee bean. These products are sold in *tianguis*, or open-air markets, in Chicahuaztla, Copala, San Martín, Itunyoso, Tlaxiaco, Putla, and Juxtlahuaca.
 
-The sources state that men may offer money, food, and other products in bride-price arrangements. No named dish or distinctive culinary tradition is documented in the sources used.
+The sources state that men may offer money, food, and other products in bride-price arrangements.
 
 ## Oral tradition & literature
 

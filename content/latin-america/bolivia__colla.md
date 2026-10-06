@@ -13,7 +13,7 @@ The Colla, also written Qulla or Kolla, are an Indigenous people of western Boli
 
 ### Architecture
 
- They identify Sillustani in Peru as a prehistoric Qulla cemetery with elaborate stone chullpas, but provide no further architectural description.
+They identify Sillustani in Peru as a prehistoric Qulla cemetery with elaborate stone chullpas, but provide no further architectural description.
 
 ## Music & performance
 
@@ -21,7 +21,7 @@ The sources identify Micaela Chauque as an Argentine musician and name no instru
 
 ## Festivals & rituals
 
- They record several historically significant collective actions: representatives of Qulla communities in Jujuy and Salta sent a note to the National Agrarian Council on 31 August 1945 demanding restitution of their lands; Edelmiro Julián Farrell signed an expropriation decree on 17 January 1946; Qulla people joined the Malón de la Paz in 1946; and on 19 March 1997 they regained legal possession of the Santiago Estate.
+They record several historically significant collective actions: representatives of Qulla communities in Jujuy and Salta sent a note to the National Agrarian Council on 31 August 1945 demanding restitution of their lands; Edelmiro Julián Farrell signed an expropriation decree on 17 January 1946; Qulla people joined the Malón de la Paz in 1946; and on 19 March 1997 they regained legal possession of the Santiago Estate.
 
 ## Oral tradition & literature
 

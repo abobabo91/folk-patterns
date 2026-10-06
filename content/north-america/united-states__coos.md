@@ -1,0 +1,38 @@
+---
+title: "Coos"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Coos are an Indigenous people of the southwest Oregon Pacific coast. They are enrolled in the Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians of Oregon, the Confederated Tribes of Siletz Indians of Oregon, and the Coquille Indian Tribe. The total population of Hanis and Miluk Coos in 1780 was estimated at around 2,000; by 1937, their population had dwindled to 55. Their neighbors included the Siuslauan, Kalapuyan, and Umpqua Indians. Coos culture included village life, hunting, fishing, gathering, competitive games, and languages that are now extinct but are being revitalized through a language program.
+
+## Dance & theatre
+
+They do state that Coos people held foot races, canoe races, dice games using bone or sticks, target practice, and shinny, described as field hockey, for entertainment.
+
+## Festivals & rituals
+
+The sources state that the Coos joined with the Umpqua and Siuslaw tribes and became a confederation with the signing of a Treaty in August 1855.
+
+## Foodways
+
+They state that most Coos were hunters, fishermen, and gatherers, and that later programs provided food assistance for low-income families.
+
+## Oral tradition & literature
+
+They identify *Coos Texts*, a collection of origin myths and lore by Leo J. Frachtenberg from 1913, and state that the Confederated Tribes of Coos, Lower Umpqua, and Siuslaw has a language program to revitalize Hanis and Miluk.
+
+## Language & religion
+
+The Coosan language family consists of two extinct languages: Hanis, also known as Coos, and Miluk. The Coosan, also called Coos or Kusan, is described as a small extinct language family consisting of two languages spoken along the southern Oregon coast. The languages share more than half of their vocabulary, although grammatical differences make them look quite different. Miluk is described as having two dialects. The sources discuss proposals connecting Coosan with a larger Oregon Penutian genetic grouping, while more recent work places Hanis and Miluk as separate languages belonging to their own language family.
+
+## Sources & further reading
+
+- Barry Pritzker, *A Native American Encyclopedia: History, Culture, and Peoples*, 3rd print. ed., Oxford University Press, 2000.
+- Leo J. Frachtenberg, “Coos,” in Franz Boas, ed., *Handbook of American Indian Languages, Part 2*, United States Government Printing Office, 1922, pp. 297–430.
+- Leo J. Frachtenberg, *Coos Texts*, collection of origin myths and lore, 1913.
+- “Coos people,” Wikipedia: https://en.wikipedia.org/wiki/Coos_people
+- “Coos language,” Wikipedia: https://en.wikipedia.org/wiki/Coos_language

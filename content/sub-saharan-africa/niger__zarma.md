@@ -17,11 +17,11 @@ Zarma villages traditionally consist of walled compounds called *windi*, where a
 
 ### Ceramics, metalwork & everyday objects
 
- The sources do mention a magical millet silo bottom in an oral account of the migration led by Mali Bero.
+The sources do mention a magical millet silo bottom in an oral account of the migration led by Mali Bero.
 
 ### Jewelry & body adornment
 
- They do describe female genital mutilation, called *Haabize* in Zarma culture, as two rituals: cutting away the hymen of newborn girls and clitoridectomy between the ages of 9 and 15. The operation was traditionally performed by barbers called *wanzam*. The sources state that prevalence in the Zarma ethnic group was 9% in 2006.
+They do describe female genital mutilation, called *Haabize* in Zarma culture, as two rituals: cutting away the hymen of newborn girls and clitoridectomy between the ages of 9 and 15. The operation was traditionally performed by barbers called *wanzam*. The sources state that prevalence in the Zarma ethnic group was 9% in 2006.
 
 ## Music & performance
 
@@ -32,8 +32,6 @@ The Zarma have a historical musical tradition involving music, group dance, and 
 The named Zarma performance tradition documented by the sources is *Bitti Harey*, a group dance associated with music and singing. The sources also connect some music to *folley*, spirit possession-related rituals.
 
 ## Festivals & rituals
-
- They do state that the Zarma are predominantly Muslims of the Maliki-Sunni school, but provide no description of Ramadan, Islamic feast days, or other religious observances.
 
 The sources describe *Haabize* as a ritual practice involving female circumcision. One ritual consists of cutting away the hymen of newborn girls; the second is clitoridectomy between the ages of 9 and 15. They also mention a system of ritualistic acceptance between co-wives within the Islamic system of polygynous marriages. No detailed birth, coming-of-age, wedding, funeral, or initiation ceremonies are described.
 

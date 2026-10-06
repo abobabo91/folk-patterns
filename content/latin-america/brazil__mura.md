@@ -17,7 +17,7 @@ Mura farming villages made up of pacified Mura began to be established after the
 
 ## Music & performance
 
- They do record that Mura has whistled speech and uses tone.
+They do record that Mura has whistled speech and uses tone.
 
 ## Festivals & rituals
 
@@ -29,7 +29,7 @@ The Mura economy includes fishing, farming, livestock farming, logging, and stra
 
 ## Oral tradition & literature
 
- The Mura are discussed in Curt Nimuendajú’s “The Mura” and “The Yahahi” in *Handbook of South American Indians*, but the supplied material does not summarize those texts’ oral traditions.
+The Mura are discussed in Curt Nimuendajú’s “The Mura” and “The Yahahi” in *Handbook of South American Indians*, but the supplied material does not summarize those texts’ oral traditions.
 
 ## Language & religion
 

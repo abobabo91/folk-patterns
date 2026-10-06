@@ -1,0 +1,21 @@
+---
+title: "Aikanã"
+subtitle: "Brazil"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Aikanã are an Indigenous people of Brazil who live in the state of Rondônia, in the western Amazonian lowlands. Their traditional lands are in the region of the Guaporé River. In 1970, the Brazilian government moved them onto the Tubarão-Latundê Indigenous Territory, where the soil is poor. They have three villages and also live in nearby cities, such as Vilhena. About 250 people speak the Aikanã language, while nearly 100 ethnic Aikanã, locally known as Kassupá, live in the Comunidade Indígena Cassupá e Salamãi. The Aikanã language is an unclassified language isolate. The sources document the group chiefly through its territory, language, names, settlement history, and relationships with neighboring peoples.
+
+## Language & religion
+
+Aikanã is an endangered language isolate spoken in Rondônia, Brazil. It uses the Latin script and has the ISO 639-3 code “tba.” Its pragmatically unmarked constituent order in core clauses is subject–object–verb, although constituent word order varies. The language is traditionally spoken in the Terra Indígena Tubarão-Latundê, where it remains dominant, and is also spoken in the Terra Indígena Kwazá do Rio São Pedro, where Kwazá is traditionally spoken. Children are currently learning the language, and it is sometimes used in school. A few Aikanã families live in the Terra Indígena Rio Guaporé, but they do not speak the language there. The final Aikanã speaker in the Comunidade Indígena Cassupá e Salamãi died in 2018.
+
+## Sources & further reading
+
+- Vasconcelos, I. P. *Aspectos da fonologia e morfologia da língua Aikanã*. Maceió: Universidade Federal de Alagoas, 2004.
+- Alain Fabre. *Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos: AIKANA*, 2005.
+- Wikipedia, [“Aikanã people”](https://en.wikipedia.org/wiki/Aikan%C3%A3_people).
+- Wikipedia, [“Aikanã language”](https://en.wikipedia.org/wiki/Aikan%C3%A3_language).

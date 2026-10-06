@@ -17,19 +17,15 @@ The sources used mention that Ibrahim Pasha contributed to the building of Viran
 
 ### Ceramics, metalwork & everyday objects
 
-No Milan ceramics, wooden objects, tools, household goods, or other everyday material culture are documented in the sources used. The account of the Egyptian–Ottoman War states that Muhammad Ali gave Ayub Bey a pair of golden pistols and a gold sword hilt.
-
-## Music & performance
-
- They identify Derwêşê Evdî as a semi-historical Yazidi figure of Kurdish folklore who belonged to the Şerqî tribe of the Milan, but provide no account of the musical form or performance of this folklore.
+The account of the Egyptian–Ottoman War states that Muhammad Ali gave Ayub Bey a pair of golden pistols and a gold sword hilt.
 
 ## Festivals & rituals
 
- They do record a legend in which the Milan and Zilan are regarded by many tribes as legendary parental tribes. One version says that the Milan settled in Dêrsim, after which Sultan Selim ordered some to sedentarize and build houses and others to nomadize southward.
+They do record a legend in which the Milan and Zilan are regarded by many tribes as legendary parental tribes. One version says that the Milan settled in Dêrsim, after which Sultan Selim ordered some to sedentarize and build houses and others to nomadize southward.
 
 ## Foodways
 
- The historical account states that the Millis supplied food, livestock, and logistical support to the Egyptian army during the Egyptian–Ottoman War, but gives no further description of Milan foodways.
+The historical account states that the Millis supplied food, livestock, and logistical support to the Egyptian army during the Egyptian–Ottoman War, but gives no further description of Milan foodways.
 
 ## Oral tradition & literature
 

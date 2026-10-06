@@ -13,17 +13,17 @@ The Achang, also known by their own name *Ngac'ang*, are an ethnic group officia
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that, during Buddhist funerals, the deceased is buried without metallic items such as jewelry because these are believed to contaminate the soul for future reincarnation.
+They do state that, during Buddhist funerals, the deceased is buried without metallic items such as jewelry because these are believed to contaminate the soul for future reincarnation.
 
 ### Jewelry & body adornment
 
- Jewelry is mentioned only in connection with Buddhist funerals, when the deceased is buried without metallic items because such objects are believed to contaminate the soul for future reincarnation.
+Jewelry is mentioned only in connection with Buddhist funerals, when the deceased is buried without metallic items because such objects are believed to contaminate the soul for future reincarnation.
 
 ## Music & performance
 
 Music and songs are central to the Achang cultural account given by the sources. Much of Achang history and tradition has been passed down through music and songs, and music is described as an integral part of their culture. Celebrations typically end with songs and dances, placing musical performance within communal festive contexts.
 
- The Achang language source records that Achang is spoken by communities also known as Maingtha and Ngochang in Yunnan, China, and northern Myanmar.
+The Achang language source records that Achang is spoken by communities also known as Maingtha and Ngochang in Yunnan, China, and northern Myanmar.
 
 ## Dance & theatre
 
@@ -31,7 +31,7 @@ The sources state that Achang celebrations typically conclude with songs and dan
 
 ## Festivals & rituals
 
- They state that celebrations typically end with songs and dances.
+They state that celebrations typically end with songs and dances.
 
 The sources do document Buddhist funerals. During the ceremony, the Achang tie a long fabric tape, about 20 metres (66 ft), to the coffin. A monk walks ahead while holding the tape, which guides the soul of the deceased toward its final destination. The deceased is buried without metallic objects such as jewelry, because these are believed to contaminate the soul for future reincarnation.
 
@@ -39,7 +39,7 @@ The Husa Achang, who live in Longchuan County, are described as practicing a mix
 
 ## Foodways
 
- No museum catalogue records were supplied for foodways or food-related objects.
+No museum catalogue records were supplied for foodways or food-related objects.
 
 ## Oral tradition & literature
 

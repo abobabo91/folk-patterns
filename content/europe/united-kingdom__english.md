@@ -51,7 +51,7 @@ The sources name jigs, hornpipes, and dance music as forms within the traditiona
 
 ## Festivals & rituals
 
- They do mention the RHS Chelsea Flower Show, held every year by the Royal Horticultural Society, and identify gardening and visiting gardens as typically English pursuits.
+They do mention the RHS Chelsea Flower Show, held every year by the Royal Horticultural Society, and identify gardening and visiting gardens as typically English pursuits.
 
 Christian pilgrimage is discussed as a medieval practice. Pilgrims visited churches where saints’ relics were interred, seeking spiritual aid, blessing, or healing. Named pilgrimage centres include St Albans Abbey, Ripon, Durham, Ely, Westminster Abbey, Chichester, Winchester, and Canterbury. Canterbury became a major pilgrimage destination because of the shrine and relics associated with Thomas Becket, who was assassinated in 1170; in the 13th century, Canterbury was second only to Santiago de Compostela as a place of pilgrimage.
 

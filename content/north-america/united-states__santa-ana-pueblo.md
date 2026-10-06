@@ -24,5 +24,4 @@ Santa Ana Pueblo is also called *Tamaya* in Eastern Keres, and its people speak 
 ## Sources & further reading
 
 - “Santa Ana Pueblo, New Mexico,” *Wikipedia*: https://en.wikipedia.org/wiki/Santa_Ana_Pueblo%2C_New_Mexico
-- The UNESCO Intangible Cultural Heritage sources used for this profile list no inscriptions for the United States.
 - No museum catalogue records were supplied for the objects shown.

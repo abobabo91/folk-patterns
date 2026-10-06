@@ -13,7 +13,7 @@ The Tapirapé are an Indigenous people of Brazil who live in the Amazon rainfore
 
 ### Textile & pattern traditions
 
- They mention hammocks, baskets, strings of beads, skirts, anklets, wristbands, special masks, and other clothing.
+They mention hammocks, baskets, strings of beads, skirts, anklets, wristbands, special masks, and other clothing.
 
 **Motif vocabulary.** The sources name no Tapirapé textile motifs.
 
@@ -33,7 +33,7 @@ By 1965, loghouses had become smaller, and some had become single-family houses 
 
 ### Ceramics, metalwork & everyday objects
 
- They do record individually owned tools, hammocks, baskets, strings of beads, and other objects. Tools and trade goods made of iron were introduced by European Brazilians during sporadic contact beginning in 1910.
+They do record individually owned tools, hammocks, baskets, strings of beads, and other objects. Tools and trade goods made of iron were introduced by European Brazilians during sporadic contact beginning in 1910.
 
 Tapirapé material culture was also involved in exchange. Shamans and midwives were paid with goods, goods could serve to make peace, and an annual gift exchange distributed wealth among less fortunate people. By 1965, the Takana was involved in manufacturing artifacts for trade, and some men possessed Brazilian bank notes.
 
@@ -43,7 +43,7 @@ Tapirapé body adornment includes body painting, strings of beads, anklets, wris
 
 ## Music & performance
 
- They do describe ceremonial dancing and the performance of spirit impersonation in the village.
+They do describe ceremonial dancing and the performance of spirit impersonation in the village.
 
 Tapirapé religion includes spirits associated with particular Bird Societies. Spirits were believed to live in the Takana on a cyclic basis. When a spirit was present, two members of the corresponding Bird Society impersonated it by wearing a special mask and other clothing that covered their whole bodies. They then danced around the village and received good kawi from every loghouse. Good kawi is described as a manioc drink.
 

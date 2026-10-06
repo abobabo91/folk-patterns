@@ -13,8 +13,6 @@ The Gnawa, also called Gnaoua, Ghanawa, Ghanawi, or Gnawi, are an ethnic minorit
 
 ### Textile & pattern traditions
 
-
-
 **Motif vocabulary.** The sources name no textile motifs.
 
 ### Clothing & dress
@@ -23,11 +21,11 @@ Gnawa ritual practice includes clothing and accessories determined by the *moqad
 
 ### Architecture
 
-The sources mention sanctuaries associated with Gnawa festivals, including the sanctuary of Moulay Brahim in the Atlas Mountains and the sanctuary of Moulay Abdullah bin Tsain in the village of Tamesloht, between Marrakesh and the town of Amizmiz. They do not describe Gnawa houses, building materials, roof types, workshops, courtyards, or architectural decoration.
+The sources mention sanctuaries associated with Gnawa festivals, including the sanctuary of Moulay Brahim in the Atlas Mountains and the sanctuary of Moulay Abdullah bin Tsain in the village of Tamesloht, between Marrakesh and the town of Amizmiz.
 
 ### Ceramics, metalwork & everyday objects
 
-Gnawa ritual music uses large, heavy iron castanets called *qraqab* or *krakeb*. The sources also mention incense and ritual accessories, but do not document Gnawa ceramics, household vessels, wooden objects, tools, or other everyday material culture.
+Gnawa ritual music uses large, heavy iron castanets called *qraqab* or *krakeb*. The sources also mention incense and ritual accessories.
 
 ## Music & performance
 
@@ -59,7 +57,7 @@ The sources describe songs as repeated phrases or short sequences of lines that 
 
 The Gnawa became part of the Sufi order in the Maghreb and identify as Moroccan and Muslim. Gnawa music combines classical Islamic Sufism with pre-Islamic African folk traditions. Its ritual practices include the *lila* or *derdeba*, possession dances called *jedba*, invocations of saints and *mluk*, incense, trance, and healing.
 
-The name Gnawa is explained through indigenous languages of North Africa and the Sahara Desert. According to Berber grammatical principles, *agnaw* is the singular and *ignawen* the plural, with the meaning “black person.” The sources also associate the community’s linguistic history with West African peoples including the Soninke, Bambara, Fulani, and Hausa. They do not provide a complete account of present-day Gnawa dialects, scripts, or language-family classification.
+The name Gnawa is explained through indigenous languages of North Africa and the Sahara Desert. According to Berber grammatical principles, *agnaw* is the singular and *ignawen* the plural, with the meaning “black person.” The sources also associate the community’s linguistic history with West African peoples including the Soninke, Bambara, Fulani, and Hausa.
 
 ## Sources & further reading
 

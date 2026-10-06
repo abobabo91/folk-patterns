@@ -13,7 +13,7 @@ The Wayana are a Carib-speaking people living in the southeastern Guiana highlan
 
 ### Clothing & dress
 
- They state that the *ëputop*, also called *maraké*, involved applying a wicker frame filled with stinging ants or wasps to the bodies of adolescent boys and girls. This was a coming-of-age ceremony through which participants emerged as adult men and women.
+They state that the *ëputop*, also called *maraké*, involved applying a wicker frame filled with stinging ants or wasps to the bodies of adolescent boys and girls. This was a coming-of-age ceremony through which participants emerged as adult men and women.
 
 ### Architecture
 
@@ -21,19 +21,19 @@ Wayana villages often include a community house called a *tukusipan*. Villages c
 
 ### Ceramics, metalwork & everyday objects
 
- They mention Wayana material arts and publications concerning the fabrication of material objects.
+They mention Wayana material arts and publications concerning the fabrication of material objects.
 
 ### Jewelry & body adornment
 
- They state that *ëputop* or *maraké* involved a wicker frame containing stinging ants or wasps being applied to the bodies of adolescent boys and girls.
+They state that *ëputop* or *maraké* involved a wicker frame containing stinging ants or wasps being applied to the bodies of adolescent boys and girls.
 
 ## Music & performance
 
- They do describe the *ëputop* ceremony and mention a documentary made about a ceremony held in 2004 in Talhuwen. The ceremony was organized by Aïmawale Opoya, grandson of Wayana leader Janomalë, in consultation with French film director Jean-Philippe Isel. No songs, instruments, or performance forms are identified.
+They do describe the *ëputop* ceremony and mention a documentary made about a ceremony held in 2004 in Talhuwen. The ceremony was organized by Aïmawale Opoya, grandson of Wayana leader Janomalë, in consultation with French film director Jean-Philippe Isel. No songs, instruments, or performance forms are identified.
 
 ## Dance & theatre
 
- The *ëputop* or *maraké* is identified as a coming-of-age ritual rather than a dance or theatrical form. The supplied material records a documentary about a 2004 ceremony in Talhuwen.
+The *ëputop* or *maraké* is identified as a coming-of-age ritual rather than a dance or theatrical form. The supplied material records a documentary about a 2004 ceremony in Talhuwen.
 
 ## Festivals & rituals
 
@@ -43,7 +43,7 @@ One recent ceremony took place in 2004 in the village of Talhuwen. It was organi
 
 ## Foodways
 
- They mention hunting and fishing as matters about which village shamans may be consulted, and they refer to a Wayana-Aparai documentation project focused on food systems and traditional knowledge of flora and fauna. The supplied text does not provide the names or preparation of any foods.
+They mention hunting and fishing as matters about which village shamans may be consulted, and they refer to a Wayana-Aparai documentation project focused on food systems and traditional knowledge of flora and fauna. The supplied text does not provide the names or preparation of any foods.
 
 ## Oral tradition & literature
 

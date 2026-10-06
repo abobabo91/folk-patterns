@@ -15,7 +15,7 @@ The sources describe no annual festival calendar or named Baraba Tatar festivals
 
 ## Foodways
 
- They state that Baraba Tatars traditionally engaged in hunting, fishing, agriculture, and breeding some cattle and horses, and that they now live by agriculture.
+They state that Baraba Tatars traditionally engaged in hunting, fishing, agriculture, and breeding some cattle and horses, and that they now live by agriculture.
 
 ## Oral tradition & literature
 

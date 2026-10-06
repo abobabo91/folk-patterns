@@ -17,7 +17,7 @@ The Safwa are an ethnic and linguistic group based in the mountains of the Mbeya
 
 ### Clothing & dress
 
- They state only that men’s weaving was a normal occupation and that European cloth contributed to the decline of the weaving industry. The sources also record that chiefs could not shave their heads, although they could cut their hair, because they were responsible for good rain.
+They state only that men’s weaving was a normal occupation and that European cloth contributed to the decline of the weaving industry. The sources also record that chiefs could not shave their heads, although they could cut their hair, because they were responsible for good rain.
 
 ### Architecture
 
@@ -25,15 +25,15 @@ The sources describe villages that had fences against enemies and wild animals. 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention livestock and agricultural products in connection with cleansing rites following the birth of twins.
+They mention livestock and agricultural products in connection with cleansing rites following the birth of twins.
 
 ### Jewelry & body adornment
 
- They state that after the death of a chief, all men, women, and children shaved their heads, while chiefs themselves were not permitted to shave their heads.
+They state that after the death of a chief, all men, women, and children shaved their heads, while chiefs themselves were not permitted to shave their heads.
 
 ## Music & performance
 
- They state that the Wasafwa were communal hunters and that hunting songs and dances were performed after the hunters had been inoculated against witchcraft. The people then waited for the successful return of the hunters and for the meat to be distributed.
+They state that the Wasafwa were communal hunters and that hunting songs and dances were performed after the hunters had been inoculated against witchcraft. The people then waited for the successful return of the hunters and for the meat to be distributed.
 
 The sources also describe children in the 1890s playing at assaulting fortresses. This is recorded as children’s play rather than as a named dramatic or musical form. No wedding music, funeral music, court performance, instrumental tradition, or named song repertoire is identified.
 
@@ -45,7 +45,7 @@ The account of children playing at assaulting fortresses in the 1890s is the onl
 
 ## Festivals & rituals
 
- They do describe several life-cycle and ritual practices.
+They do describe several life-cycle and ritual practices.
 
 Following birth, a child began to be force-fed two to three days later with millet mush. The child was laid on its back, the mush was placed in its mouth, and the mother continued pushing it beyond nutritional needs. The sources state that this was thought to prepare the child for a later life of feast or famine.
 

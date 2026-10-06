@@ -25,23 +25,23 @@ The smallest Tonto Apache social unit was the matrilocal and matrilineal family 
 
 ### Ceramics, metalwork & everyday objects
 
- They mention hunting and gathering equipment only generally, and state that the Tonto Apache lacked many European goods that Navajo sheep raising enabled the Navajo to obtain through trade, including blankets, foods, and various tools.
+They mention hunting and gathering equipment only generally, and state that the Tonto Apache lacked many European goods that Navajo sheep raising enabled the Navajo to obtain through trade, including blankets, foods, and various tools.
 
 ### Jewelry & body adornment
 
-The sources provide no account of Tonto Apache jewelry, ornaments, hair practices, or ritual adornment. They state only that Yavapai were often tattooed while Apaches seldom had tattoos, and that painted facial designs differed between the two groups.
+They state only that Yavapai were often tattooed while Apaches seldom had tattoos, and that painted facial designs differed between the two groups.
 
 ## Music & performance
 
- They identify the Tonto dialect as one of the three dialects of the Western Apache language and describe bilingual Tonto Apache–Yavapai communities in which people spoke both the Tonto dialect and Yavapai. The sources also state that band headmen commonly had two names, one from each linguistic tradition.
+They identify the Tonto dialect as one of the three dialects of the Western Apache language and describe bilingual Tonto Apache–Yavapai communities in which people spoke both the Tonto dialect and Yavapai. The sources also state that band headmen commonly had two names, one from each linguistic tradition.
 
 ## Dance & theatre
 
- They mention funeral practices as one feature that differed between Yavapai and Apache peoples, without describing those practices.
+They mention funeral practices as one feature that differed between Yavapai and Apache peoples, without describing those practices.
 
 ## Festivals & rituals
 
- They state that funeral practices differed between Yavapai and Apache peoples. Historically, when food stocks were running low, a respected woman, described as a “woman chief” or elder, publicly called attention to the situation and asked rancheria leaders to organize raids to obtain needed supplies. This was part of the social and subsistence system rather than a named festival.
+They state that funeral practices differed between Yavapai and Apache peoples. Historically, when food stocks were running low, a respected woman, described as a “woman chief” or elder, publicly called attention to the situation and asked rancheria leaders to organize raids to obtain needed supplies. This was part of the social and subsistence system rather than a named festival.
 
 The sources describe warfare, raiding, and common defense as important reasons for band organization. The highest social unit was the group or band, usually composed of several local groups, and it was organized mostly for military purposes and common defense. The Tonto Apache and neighboring Yavapai also raided and warred together against enemy peoples such as the Tohono O'odham and the Akimel O'odham.
 
@@ -53,7 +53,7 @@ The Yavapai and Tonto Apache at the Camp Verde Reservation constructed irrigatio
 
 ## Oral tradition & literature
 
- They preserve a vocabulary of personal, place, band, and group names in Apache and Yavapai, including *Dilzhę́’é*, the Western Apache name used by the Tonto Apache and also by the San Carlos Apache. The sources state that the etymology of Dilzhę́’é is unclear, although it may translate as “people with high-pitched voices.”
+They preserve a vocabulary of personal, place, band, and group names in Apache and Yavapai, including *Dilzhę́’é*, the Western Apache name used by the Tonto Apache and also by the San Carlos Apache. The sources state that the etymology of Dilzhę́’é is unclear, although it may translate as “people with high-pitched voices.”
 
 The sources also record names associated with local groups and bands. Examples include *Dasziné Dasdaayé Indee*, “Porcupine Sitting Above People”; *Tsé Hichii Indee*, “Horizontal Red Rock People”; *Tú Dotłʼizh Indee*, “Blue Water People”; *Dotłʼizhi HaʼitʼIndee*, “Turquoise Road Coming Up People”; and *Tsé Nołtłʼizhn*, “Rocks in a Line of Greenness People.” No contemporary literary revival or preservation project is described.
 
@@ -71,4 +71,3 @@ Tonto Apache and Yavapai people often lived together in bilingual mixed-tribal b
 - Willem J. de Reuse, *A practical grammar of the San Carlos Apache language*, LINCOM Studies in Native American Linguistics 51, 2006.
 - Grenville Goodwin, *The Social Organization of the Western Apache*, edited by Janice T. Goodwin, The University of Chicago Press, 1942; reprinted by the University of Arizona Press, 1969.
 - Wikipedia, “Tonto Apache”: https://en.wikipedia.org/wiki/Tonto_Apache
-- The sources used identify no UNESCO Intangible Cultural Heritage inscription for this group.

@@ -31,15 +31,11 @@ The Bokota live in round houses on stilts. They do record a traditional ceremony
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention bows and arrows, spears, fishnets, vegetable-fiber hats, backpacks, baskets, and daily dresses called cobo, without providing further catalogue-style descriptions.
+They do mention bows and arrows, spears, fishnets, vegetable-fiber hats, backpacks, baskets, and daily dresses called cobo, without providing further catalogue-style descriptions.
 
 ### Jewelry & body adornment
 
 Bokota people wear necklaces, use facial paint of black and red, and wear shiny hair combs.
-
-## Music & performance
-
- They do state that many traditional ceremonies are maintained, including the ceremony of lightning, which prevents lightning from striking Bokota houses, but provide no description of music or performance within that ceremony.
 
 ## Festivals & rituals
 

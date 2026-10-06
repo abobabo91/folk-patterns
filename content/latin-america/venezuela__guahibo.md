@@ -13,7 +13,7 @@ The Guahibo are an Indigenous people native to the Llanos, or savanna plains, in
 
 ### Architecture
 
- They state that the Guahibo inhabited the Llanos of Arauca.
+They state that the Guahibo inhabited the Llanos of Arauca.
 
 ## Oral tradition & literature
 

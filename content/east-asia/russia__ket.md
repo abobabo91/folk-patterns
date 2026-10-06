@@ -17,19 +17,19 @@ The Ket people are a Yeniseian-speaking Indigenous people of Siberia who live pr
 
 ### Clothing & dress
 
- They describe spirit images as an animal shoulder bone wrapped in a scrap of cloth simulating clothing. In Ket mythology, Alel is represented as a wooden figurine of a small man dressed in animal skins. These descriptions concern household and protective objects rather than documented human clothing.
+They describe spirit images as an animal shoulder bone wrapped in a scrap of cloth simulating clothing. In Ket mythology, Alel is represented as a wooden figurine of a small man dressed in animal skins. These descriptions concern household and protective objects rather than documented human clothing.
 
 ### Architecture
 
- They state that Kets live in small villages along riversides and are no longer nomadic. The sources also report that Kets regard spirit images as household deities that sleep in the daytime and protect them at night.
+They state that Kets live in small villages along riversides and are no longer nomadic. The sources also report that Kets regard spirit images as household deities that sleep in the daytime and protect them at night.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden protective figures and spirit images. Alel is a wooden figurine of a small man dressed in animal skins, while other spirit images are described as animal shoulder bones wrapped in cloth simulating clothing. These objects are associated with protection, household well-being, illness, and evil spirits.
+They do describe wooden protective figures and spirit images. Alel is a wooden figurine of a small man dressed in animal skins, while other spirit images are described as animal shoulder bones wrapped in cloth simulating clothing. These objects are associated with protection, household well-being, illness, and evil spirits.
 
 ### Jewelry & body adornment
 
- They describe the use of animal skins in the representation of the protective figure Alel, but do not present this as personal adornment.
+They describe the use of animal skins in the representation of the protective figure Alel, but do not present this as personal adornment.
 
 ## Music & performance
 
@@ -37,11 +37,11 @@ Ket musical culture is represented in the sources chiefly by shamanic songs and 
 
 ## Dance & theatre
 
- They describe legends, fairy tales, shamanic rituals, oral traditions, and mythological narratives.
+They describe legends, fairy tales, shamanic rituals, oral traditions, and mythological narratives.
 
 ## Festivals & rituals
 
- The ritual material that the sources do cover concerns shamanic practice, healing, sacral rites, household protection, and mythological beliefs.
+The ritual material that the sources do cover concerns shamanic practice, healing, sacral rites, household protection, and mythological beliefs.
 
 Ket shamans were identified as practitioners of healing and other local ritualistic spiritual practices. Different types of shamans were associated with sacral rites and curing, and with animals including deer and bear. Shamanism in Ket mythology is connected with the reincarnation of a shaman and with the inhabitation of spirits. A shaman becomes a shaman after spirits enter him, while a person becomes an object of the sixth mythological level after the main soul, uļwej, enters him and accompanies him throughout life.
 
@@ -49,7 +49,7 @@ The sources describe spirit images as household deities. These images were belie
 
 ## Foodways
 
- They state that Ket hunter and fishing communities lived in the Yenisei taiga and that, by the 19th century, Kets could no longer sustain themselves without food assistance from the Russian state. They also report that some people died of famine and diseases introduced from Europe. No specific food names or food-preparation traditions are provided.
+They state that Ket hunter and fishing communities lived in the Yenisei taiga and that, by the 19th century, Kets could no longer sustain themselves without food assistance from the Russian state. They also report that some people died of famine and diseases introduced from Europe. No specific food names or food-preparation traditions are provided.
 
 ## Oral tradition & literature
 

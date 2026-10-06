@@ -15,7 +15,7 @@ The Baniwa rely mainly on manioc cultivation and fishing for subsistence.
 
 ## Oral tradition & literature
 
- The source list includes Robin Wright’s *Cosmos, Self and History in Baniwa Religion: For Those Unborn*, published in 1998, as further reading on Baniwa religion.
+The source list includes Robin Wright’s *Cosmos, Self and History in Baniwa Religion: For Those Unborn*, published in 1998, as further reading on Baniwa religion.
 
 ## Language & religion
 

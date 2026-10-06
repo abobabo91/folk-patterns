@@ -17,25 +17,25 @@ Karachay settlement architecture is not described in the sources used. The sourc
 
 ### Ceramics, metalwork & everyday objects
 
- They state only that, after annexation to the Russian Empire, Karachay soldiers were taken from Karachai Amanat, pledged an oath of loyalty, and were assigned arms.
+They state only that, after annexation to the Russian Empire, Karachay soldiers were taken from Karachai Amanat, pledged an oath of loyalty, and were assigned arms.
 
 ## Music & performance
 
- The Wikipedia article’s further reading includes *Karachay-Balkar folksongs*, by János Sipos and Ufuk Tavkul, translated by Judit Pokoly and published in Budapest by L’Harmattan in 2015, but the supplied source material does not summarize the musical contents of that work.
+The Wikipedia article’s further reading includes *Karachay-Balkar folksongs*, by János Sipos and Ufuk Tavkul, translated by Judit Pokoly and published in Budapest by L’Harmattan in 2015, but the supplied source material does not summarize the musical contents of that work.
 
 ## Festivals & rituals
 
- They do document religious and social practices in historical contexts: interactions with neighboring Muslim peoples took place according to folk customs and Sharia law, and the majority of Karachays are followers of Islam. The sources also state that some Karachays began adopting Islam in the 17th and 18th centuries through contact with the Kumyks, Nogais, the Crimean Tatars, and, most significantly, the Circassians. No life-cycle rites, wedding customs, funeral practices, or named festivals are described.
+They do document religious and social practices in historical contexts: interactions with neighboring Muslim peoples took place according to folk customs and Sharia law, and the majority of Karachays are followers of Islam. The sources also state that some Karachays began adopting Islam in the 17th and 18th centuries through contact with the Kumyks, Nogais, the Crimean Tatars, and, most significantly, the Circassians. No life-cycle rites, wedding customs, funeral practices, or named festivals are described.
 
 The history of the Karachays includes several politically significant dates and collective events. The Battle of Khasauka took place on October 20, 1828. The Karachay Uprising of 1855 formed part of a broader North Caucasian rebellion against Russian expansion. The Karachay Uprising of 1930 began in March and was suppressed by April. In 1942, the Germans permitted the establishment of a Karachay National Committee, while the deportation of the Karachays followed the return of Russian control in November 1943. These events are political and historical episodes rather than festivals or ritual observances.
 
 ## Foodways
 
- They mention Islam and Sharia law.
+They mention Islam and Sharia law.
 
 ## Oral tradition & literature
 
- They do describe historical interpretations of Karachay origins and ethnogenesis, including debates among scientists, historians, ethnographers, archaeologists, and ethnolinguists. Ismail Miziev is identified as a Balkar historian, ethnographer, and archaeologist specializing in North Caucasian studies, while Ufuk Tavkul is identified as an Ankara University professor and specialist. The sources also refer to the preservation of Karachay culture through the American Karachay-Kavkaz Benevolent Association, which advocates for the preservation of the Karachay people’s culture.
+They do describe historical interpretations of Karachay origins and ethnogenesis, including debates among scientists, historians, ethnographers, archaeologists, and ethnolinguists. Ismail Miziev is identified as a Balkar historian, ethnographer, and archaeologist specializing in North Caucasian studies, while Ufuk Tavkul is identified as an Ankara University professor and specialist. The sources also refer to the preservation of Karachay culture through the American Karachay-Kavkaz Benevolent Association, which advocates for the preservation of the Karachay people’s culture.
 
 ## Language & religion
 

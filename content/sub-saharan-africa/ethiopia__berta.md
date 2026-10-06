@@ -29,17 +29,13 @@ Music is played by males with large calabash trumpets called *waz'a* during Bert
 
 ## Festivals & rituals
 
- They describe rain-making rituals among the Berta and other Nilo-Saharan and Nilotic communities. Ritual specialists called *neri* are associated with healing and divination and are described as knowing how to deal with evil spirits called *shuman*.
+They describe rain-making rituals among the Berta and other Nilo-Saharan and Nilotic communities. Ritual specialists called *neri* are associated with healing and divination and are described as knowing how to deal with evil spirits called *shuman*.
 
 Wedding ceremonies include male performance on large calabash trumpets called *waz'a*. The groom arrives at the wedding on a donkey while carrying a *bang*, described as a throwing stick. After the wedding, the husband builds a hut and lives in his wife’s village for a year or more while tilling his father-in-law’s land. Divorce is accepted.
 
 ## Foodways
 
 The Berta are mostly mixed farmers who also raise livestock, trade, keep bees, and cultivate coffee. Sorghum is their staple food, and they make porridge with it in ceramic vessels. They also make beer from sorghum. The beer is prepared in large ceramic containers called *awar* and *is'u*. Working parties are important in Berta society: when somebody wants to build a house or cultivate a field, he calls his neighbors for help and provides beer and food. They state that most Berta practice Islam, often together with traditional customs.
-
-## Oral tradition & literature
-
- They identify Berta language resources including a website maintained by the language community, with published literature and an online dictionary, but provide no details about particular literary works or contemporary preservation efforts.
 
 ## Language & religion
 

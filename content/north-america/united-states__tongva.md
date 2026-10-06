@@ -17,11 +17,11 @@ Tongva villages were the centers of social life, and one or two clans usually co
 
 ### Ceramics, metalwork & everyday objects
 
- They do record lithic and shell bead production and use during the mission period, as well as Tongva ancestral remains and artifacts whose control has been affected by the lack of federal recognition.
+They do record lithic and shell bead production and use during the mission period, as well as Tongva ancestral remains and artifacts whose control has been affected by the lack of federal recognition.
 
 ### Jewelry & body adornment
 
- They mention shell bead production and use but provide no further description of bead forms, materials, or ceremonial functions.
+They mention shell bead production and use but provide no further description of bead forms, materials, or ceremonial functions.
 
 ## Music & performance
 
@@ -33,7 +33,7 @@ The sources used describe Tongva dances and ceremonies as important traditional 
 
 ## Festivals & rituals
 
- They do describe a religious worldview in which humans were one strand in a web of life rather than the apex of creation. Humans, plants, animals, and land were understood to participate in a reciprocal relationship of mutual respect and care, expressed in creation stories. The Tongva understand time as nonlinear, and the sources state that there is constant communication with ancestors.
+They do describe a religious worldview in which humans were one strand in a web of life rather than the apex of creation. Humans, plants, animals, and land were understood to participate in a reciprocal relationship of mutual respect and care, expressed in creation stories. The Tongva understand time as nonlinear, and the sources state that there is constant communication with ancestors.
 
 Mourning ceremonies were significant enough that the mission prohibition against dances and ceremonies was cited as a reason for Nicolás José’s participation in the 1785 rebellion. The sources also state that many people returned to their village at the time of death and that many converts retained traditional practices in domestic and spiritual contexts.
 

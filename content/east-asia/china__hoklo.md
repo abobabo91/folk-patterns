@@ -35,11 +35,11 @@ The sources used document Hua'an jade jewellery and carvings. Hua'an jade is cha
 
 Hoklo have historically produced music and opera, most of it sung or expressed in the Hokkien language. Named music and opera traditions include *Lâm-kóan*, literally “southern pipes”; *Pak-kóan*, “northern pipes”; *Phô͘-sian opera*; *Lê-hn̂g opera*, “pear garden opera”; *Ko-kah opera*, “tall-armor opera”; *Tap-chhùi-kó͘*, “replying and drum”; Taiwanese opera, *Koa-á-hì*, “song-opera”; and Hokkien pop, produced mainly in Taiwan and in the Hokkien language.
 
- They state that these forms originated in or are associated with the Hokkien-speaking region and that many are sung and expressed in Hokkien. Hokkien musical culture therefore appears in the sources primarily through named genres and opera forms rather than through descriptions of performance practice.
+They state that these forms originated in or are associated with the Hokkien-speaking region and that many are sung and expressed in Hokkien. Hokkien musical culture therefore appears in the sources primarily through named genres and opera forms rather than through descriptions of performance practice.
 
 ## Dance & theatre
 
- They do document several dramatic traditions, including Phô͘-sian opera, Lê-hn̂g opera, Ko-kah opera, Tap-chhùi-kó͘, and Taiwanese opera.
+They do document several dramatic traditions, including Phô͘-sian opera, Lê-hn̂g opera, Ko-kah opera, Tap-chhùi-kó͘, and Taiwanese opera.
 
 The best-known theatrical form described is **glove puppetry**, *Pò͘-tē-hì*, literally “cloth bag opera.” It originated in Hokkien in around the 17th century and uses cloth puppets and music to tell stories. The puppet heads are hollow and carved from wood; the palms and feet are also wooden, while the torso and limbs consist of cloth costumes. During performance, a gloved hand enters the costume and moves the puppet. The puppets formerly resembled cloth sacks, which accounts for the name.
 
@@ -47,15 +47,15 @@ The best-known theatrical form described is **glove puppetry**, *Pò͘-tē-hì*,
 
 The sources describe a religious observance connected with the Jade Emperor. The Hokkien conduct a grand worship service on the 9th day of the first lunar month as the Jade Emperor’s birthday. The sources also name devotion to Mazu, Siong Teh Gong, Bao Sheng Da Di, Guan Teh Gong, Kuan Yim Hood Chor, Ong Yah Gong, Qing Shui Zhu Shi, Kai Zhang Sheng Wang, and Fu De Zheng Shen.
 
-No annual festival calendar, seasonal cycle, life-cycle rites, wedding customs, coming-of-age ceremonies, funeral practices, or birth rituals are described in the sources used. The sources therefore cover one named lunar religious observance and a list of popular deities.
+The sources therefore cover one named lunar religious observance and a list of popular deities.
 
 ## Foodways
 
- The section on Hokkien cuisine and the section on tea culture contain no substantive information in the supplied material.
+The section on Hokkien cuisine and the section on tea culture contain no substantive information in the supplied material.
 
 ## Oral tradition & literature
 
- They do document written Hokkien and a named literary work. Hokkien gained a writing system as early as the first half of the 16th century during the Ming dynasty through the play *Tale of the Lychee Mirror*, *Nāi-kèng-kì*, which remained popular among Hoklo people. In the 18th century, *Koa-á* books, a form of vernacular Hokkien literature, became popular and attempted to use Chinese characters for writing Hokkien.
+They do document written Hokkien and a named literary work. Hokkien gained a writing system as early as the first half of the 16th century during the Ming dynasty through the play *Tale of the Lychee Mirror*, *Nāi-kèng-kì*, which remained popular among Hoklo people. In the 18th century, *Koa-á* books, a form of vernacular Hokkien literature, became popular and attempted to use Chinese characters for writing Hokkien.
 
 Written Hokkien developed further in the 19th century. Presbyterian Christians devised *Pe̍h-ōe-jī*, a Hokkien writing system using the Latin alphabet, in Amoy, known as Xiamen in Mandarin. Japan also developed the Taiwanese kana writing system while colonizing Taiwan.
 

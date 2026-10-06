@@ -21,7 +21,7 @@ Kumeyaay houses were generally dome-shaped structures made from branches and cov
 
 ### Ceramics, metalwork & everyday objects
 
- They mention tools carried in a hide breechcloth, manos and metates used to grind food, basket granaries made from willow leaves, and baskets associated with Kumeyaay craftwork.
+They mention tools carried in a hide breechcloth, manos and metates used to grind food, basket granaries made from willow leaves, and baskets associated with Kumeyaay craftwork.
 
 ### Jewelry & body adornment
 
@@ -37,7 +37,7 @@ Contemporary preservation includes recordings of Tiipay stories, conversations, 
 
 ## Festivals & rituals
 
- They describe ceremonial practices as part of the traditional transmission of language and culture, and identify the *Kwaapaay* as the person responsible for holding ceremonies.
+They describe ceremonial practices as part of the traditional transmission of language and culture, and identify the *Kwaapaay* as the person responsible for holding ceremonies.
 
 Marriage was arranged by the parents of people from different *sibs*. The future husband was expected to demonstrate his ability to hunt and present the future bride with game he had killed. After marriage, the bride moved into the husband’s *sib*. Marriage relations could also connect different *sibs* or neighboring tribal groups as gestures of peace between warring groups or as part of trade relationships.
 

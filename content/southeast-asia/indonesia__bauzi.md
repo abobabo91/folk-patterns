@@ -1,0 +1,37 @@
+---
+title: "Bauzi"
+subtitle: "Indonesia"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Bauzi, also written Baudi, are an ethnic group living in the north-central part of the Indonesian province of Papua, formerly Irian Jaya. Their area includes much of the west side of the lower Mamberamo River area in northern Papua. Historically, the Bauzi lived by hunting and gathering in the jungle and are known as an ethnic group of crocodile hunters. They are now 60% Christian. Most live in villages accessible by boat, ship, and airplane, although they remain isolated by land access. Their language, Bauzi, belongs to the Papuan East Geelvink Bay family and is spoken in Papua.
+
+## Music & performance
+
+The Bauzi language is reported to use a mode of whistled speech.
+
+## Festivals & rituals
+
+They state that the Bauzi people were historically an animistic people group and that they are now 60% Christian. In general, inter-tribal warfare is no longer a major part of Bauzi culture.
+
+## Foodways
+
+The Bauzi consume crocodile and snake meat, which they consider the finest food. The meat is cooked by grilling it over a fire and eaten with sago, grilled banana, or breadfruit.
+
+## Oral tradition & literature
+
+In recent years, linguists have studied the Bauzi language and translated various literature, including the Bible, into Bauzi.
+
+## Language & religion
+
+Bauzi is also written Baudi, Baudji, Baudzi, and Bauri. It is a Papuan language of the East Geelvink Bay family spoken in the Indonesian province of Papua. Its dialects are Gesda Dae, Neao, and Aumenefa. The sources list the villages Danau Bira, Itaba, Kustera, Neao, Noiadi, Solom, and Vakiadi, and state that Bauzi is the best documented East Geelvink Bay language. The language has directional suffixes meaning “toward” and “away,” as well as aspectual suffixes for imperfective, perfective, prospective, inceptive, conative, resultative or stative, and iterative meanings. They state that the Bauzi were historically animistic and are now 60% Christian.
+
+## Sources & further reading
+
+- “Bauzi people,” *Wikipedia*: https://en.wikipedia.org/wiki/Bauzi_people
+- “Bauzi language,” *Wikipedia*: https://en.wikipedia.org/wiki/Bauzi_language
+- UNESCO Intangible Cultural Heritage inscriptions: none listed in the supplied sources.
+- Museum catalogue records: none supplied.

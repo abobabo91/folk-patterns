@@ -11,23 +11,23 @@ The Abkhaz, sometimes referred to as the Abkhazians, are a Northwest Caucasian e
 
 ## Music & performance
 
- They state that the Abkhaz were described by Procopius as warlike and as worshippers of three deities.
+They state that the Abkhaz were described by Procopius as warlike and as worshippers of three deities.
 
 ## Dance & theatre
 
- They mention that some Abkhazians fought for Greece or worked for the Greek authorities during the Greco-Turkish War, but provide no performance-related information connected with that history.
+They mention that some Abkhazians fought for Greece or worked for the Greek authorities during the Greco-Turkish War, but provide no performance-related information connected with that history.
 
 ## Festivals & rituals
 
- The religious history described in the sources includes the arrival of Christianity through the travels and preaching of Saint Andrew among neighboring Circassians, the dominance of Christianity among Abkhazians in the 6th century during the reign of Byzantine emperor Justinian I, the continuation of Christianity under the kings of Georgia in the High Middle Ages, and the introduction of Islam by the Ottomans in the 16th century. The region became largely Muslim gradually until the 1860s. These historical statements do not provide details of ritual practice.
+The religious history described in the sources includes the arrival of Christianity through the travels and preaching of Saint Andrew among neighboring Circassians, the dominance of Christianity among Abkhazians in the 6th century during the reign of Byzantine emperor Justinian I, the continuation of Christianity under the kings of Georgia in the High Middle Ages, and the introduction of Islam by the Ottomans in the 16th century. The region became largely Muslim gradually until the 1860s. These historical statements do not provide details of ritual practice.
 
 ## Foodways
 
- They state that the typical economy is strong on the breeding of cattle, beekeeping, viticulture, and agriculture.
+They state that the typical economy is strong on the breeding of cattle, beekeeping, viticulture, and agriculture.
 
 ## Oral tradition & literature
 
- They do identify several Abkhazian writers and poets: Dmitry Gulia, described as an Abkhazian Soviet writer and poet; Fazil Iskander, Bagrat Shinkuba, and Alexey Gogua, described as writers; and Aziz Pasha Abaza, described as a poet. Fekry Pasha Abaza is described as a journalist, writer and democratic political activist, while Tharwat Abaza is described as a novelist and journalist.
+They do identify several Abkhazian writers and poets: Dmitry Gulia, described as an Abkhazian Soviet writer and poet; Fazil Iskander, Bagrat Shinkuba, and Alexey Gogua, described as writers; and Aziz Pasha Abaza, described as a poet. Fekry Pasha Abaza is described as a journalist, writer and democratic political activist, while Tharwat Abaza is described as a novelist and journalist.
 
 ## Language & religion
 

@@ -13,7 +13,7 @@ The Panará are an Indigenous people of Mato Grosso in the Brazilian Amazon who 
 
 ### Clothing & dress
 
- They do state that the name Krã jàkàràre refers to a traditional hairstyle that identifies the Panará.
+They do state that the name Krã jàkàràre refers to a traditional hairstyle that identifies the Panará.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ Panará villages have a circular structure around the *inkâ*, meaning “men’
 
 ### Jewelry & body adornment
 
- They mention only the traditional hairstyle associated with the name Krã jàkàràre.
+They mention only the traditional hairstyle associated with the name Krã jàkàràre.
 
 ## Music & performance
 
@@ -41,7 +41,7 @@ The Panará farm and are hunter-gatherers. During the 1970 expedition that sough
 
 ## Oral tradition & literature
 
- They do describe code-switching puns as a culturally important form of language play. These puns arise from the interplay between Panará and Portuguese, including deliberate mispronunciation and deformation of words. The practice was adopted as a form of cultural humour and is described as a way of maintaining Panará identity and agency in the context of inter-tribal tensions and colonization. Documentation of verbal play and pragmatic language is presented as important for understanding and documenting Indigenous cultures and supporting language and cultural revitalization.
+They do describe code-switching puns as a culturally important form of language play. These puns arise from the interplay between Panará and Portuguese, including deliberate mispronunciation and deformation of words. The practice was adopted as a form of cultural humour and is described as a way of maintaining Panará identity and agency in the context of inter-tribal tensions and colonization. Documentation of verbal play and pragmatic language is presented as important for understanding and documenting Indigenous cultures and supporting language and cultural revitalization.
 
 ## Language & religion
 

@@ -13,7 +13,7 @@ The Bribri, also known as Abicetava, are an Indigenous people of eastern Costa R
 
 ### Clothing & dress
 
- They state that Bribri communities collect housing materials in the forest and that some Bribri people sell cacao, bananas, plantains, and other produce.
+They state that Bribri communities collect housing materials in the forest and that some Bribri people sell cacao, bananas, plantains, and other produce.
 
 ### Architecture
 
@@ -21,11 +21,11 @@ The central architectural form described in the sources is the conical house. Br
 
 ### Ceramics, metalwork & everyday objects
 
- They mention housing materials collected in the forest, but provide no catalogue of particular forms or techniques.
+They mention housing materials collected in the forest, but provide no catalogue of particular forms or techniques.
 
 ### Jewelry & body adornment
 
- They state that iguanas are hunted for food and skin in the community of Kekoldi.
+They state that iguanas are hunted for food and skin in the community of Kekoldi.
 
 ## Music & performance
 
@@ -37,11 +37,11 @@ The sources state that the Bribri language is tonal and that its stressed syllab
 
 ## Dance & theatre
 
- They mention ritual songs, funeral songs, ceremonies, and rites of passage.
+They mention ritual songs, funeral songs, ceremonies, and rites of passage.
 
 ## Festivals & rituals
 
- They do describe several ritual contexts. Cacao has special significance in Bribri culture, and the cacao tree is understood to have formerly been a woman whom Sibú turned into a tree. Cacao branches are not used as firewood, and only women may prepare and serve the sacred cacao drink. Cacao is used during special occasions, ceremonies, and rites of passage, including the first menstruation of young girls.
+They do describe several ritual contexts. Cacao has special significance in Bribri culture, and the cacao tree is understood to have formerly been a woman whom Sibú turned into a tree. Cacao branches are not used as firewood, and only women may prepare and serve the sacred cacao drink. Cacao is used during special occasions, ceremonies, and rites of passage, including the first menstruation of young girls.
 
 Bribri social organization is based on clans composed of extended families. The clan system is matrilineal: a child’s clan is determined by the mother’s clan. Women inherit land and prepare the sacred cacao drink essential to ritual life. Men’s roles are defined by their clans; examples include the *awa* and the *oko*.
 

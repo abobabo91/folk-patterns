@@ -13,15 +13,15 @@ The Northern Paiute are a Numic people of the Great Basin, traditionally living 
 
 ### Clothing & dress
 
- They state that women made clothing, while men hunted and protected their families.
+They state that women made clothing, while men hunted and protected their families.
 
 ### Architecture
 
- They do describe small Indian colonies established near farms, cities, and ranches after environmental degradation and settlement made earlier lifeways difficult to maintain.
+They do describe small Indian colonies established near farms, cities, and ranches after environmental degradation and settlement made earlier lifeways difficult to maintain.
 
 ### Ceramics, metalwork & everyday objects
 
- They state that women made household tools, gathered fruit and seeds, cooked, cleaned, cared for children, and made clothing.
+They state that women made household tools, gathered fruit and seeds, cooked, cleaned, cared for children, and made clothing.
 
 ## Music & performance
 
@@ -33,11 +33,11 @@ The sources also describe shamanic performances and practices. A Northern Paiute
 
 ## Dance & theatre
 
- They state that people danced while members of the tribe chanted and acted out story-poems to the beat of a drum. Storytelling and performance transmitted legends, history, values, and knowledge from tribal elders to younger members and from grandmothers and grandfathers to grandchildren.
+They state that people danced while members of the tribe chanted and acted out story-poems to the beat of a drum. Storytelling and performance transmitted legends, history, values, and knowledge from tribal elders to younger members and from grandmothers and grandfathers to grandchildren.
 
 ## Festivals & rituals
 
- They state that the season for storytelling in the American West was during the winter months.
+They state that the season for storytelling in the American West was during the winter months.
 
 Northern Paiute origin stories were transmitted orally. One version tells of a sagehen, also known as Centrocercus, surviving a massive flood, caring for a fire, and witnessing the appearance of a man called Nűműzóho. Another creation story tells of a man and a woman who heard a voice from within a bottle, from which four beings emerged. The sources describe these narratives as stories with spiritual and cultural significance, rather than as named annual rituals.
 

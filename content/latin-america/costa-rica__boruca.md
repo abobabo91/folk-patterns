@@ -23,15 +23,15 @@ The Boruca, also known as the Brunca or Brunka, are an Indigenous people of Cost
 
 ### Clothing & dress
 
- Ceremonial clothing is documented in the Juego de los Diablos. The diablos wear intricate masks and *sacos* made from cloth of *gangoche*, covered with large banana leaves called *munshi* in the Brunka language. The costume represents the natural spirit of the Indigenous people and can help protect participants during the festival. The diablos are played by local males aged 14 or older. The torro costume is made from light balsa wood filled with dry leaves, and its mask is made from durable cedar wood with horns from a real bull. Female diablitos are played by males.
+Ceremonial clothing is documented in the Juego de los Diablos. The diablos wear intricate masks and *sacos* made from cloth of *gangoche*, covered with large banana leaves called *munshi* in the Brunka language. The costume represents the natural spirit of the Indigenous people and can help protect participants during the festival. The diablos are played by local males aged 14 or older. The torro costume is made from light balsa wood filled with dry leaves, and its mask is made from durable cedar wood with horns from a real bull. Female diablitos are played by males.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden masks, drums, bows and arrows, daggers, and jewelry as major Brunca crafts. Masks are generally carved from balsa wood and are sometimes made from cedar; they may be painted or left natural. The torro costume includes a balsa wood structure, while the torro mask is made from cedar. The sources also mention pre-Columbian back-strap looms and the special tool used to grind bananas for *Chocado*, which has five edges and is made from a tree growing in the mountains.
+They do describe wooden masks, drums, bows and arrows, daggers, and jewelry as major Brunca crafts. Masks are generally carved from balsa wood and are sometimes made from cedar; they may be painted or left natural. The torro costume includes a balsa wood structure, while the torro mask is made from cedar. The sources also mention pre-Columbian back-strap looms and the special tool used to grind bananas for *Chocado*, which has five edges and is made from a tree growing in the mountains.
 
 ### Jewelry & body adornment
 
- Jewelry is listed among the major Brunca crafts, but the catalogue material gives no further description. Daggers, or *puñales*, may be decorated with *nene* beads, *pejibaye* seeds, thread, and bird feathers, especially toucan feathers. These objects refer historically to chiefs or *caciques* and were used to capture game.
+Jewelry is listed among the major Brunca crafts, but the catalogue material gives no further description. Daggers, or *puñales*, may be decorated with *nene* beads, *pejibaye* seeds, thread, and bird feathers, especially toucan feathers. These objects refer historically to chiefs or *caciques* and were used to capture game.
 
 ## Music & performance
 
@@ -80,7 +80,6 @@ Boruca is taught as a second language at Escuela Doris Z. Stone, the local prima
 ## Sources & further reading
 
 - Quesada Pacheco, Miguel Ángel, *Hablemos Boruca*, Ministerio de Educación Pública, 1995.
-- Doris Stone’s 1968 anthropological study of the Boruca is mentioned, but its title and publication details are not provided in the sources used.
 
 - [Boruca — Wikipedia](https://en.wikipedia.org/wiki/Boruca)
 - [Boruca language — Wikipedia](https://en.wikipedia.org/wiki/Boruca_language)

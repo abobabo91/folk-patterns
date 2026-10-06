@@ -13,7 +13,7 @@ The Ho are an Austroasiatic Munda ethnic group of India, concentrated mainly in 
 
 ### Architecture
 
- They state that most villages have an *akhra*, a cleared dancing ground of hard earth under a spreading tree.
+They state that most villages have an *akhra*, a cleared dancing ground of hard earth under a spreading tree.
 
 ### Ceramics, metalwork & everyday objects
 

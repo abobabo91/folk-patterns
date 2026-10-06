@@ -13,11 +13,11 @@ The Vai are Mandé peoples living mostly in Liberia, with a small minority in so
 
 ### Clothing & dress
 
- They state that the Vai perform ceremonies for the dead in which articles of clothing and food are left near the graves of deceased people.
+They state that the Vai perform ceremonies for the dead in which articles of clothing and food are left near the graves of deceased people.
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that baskets are among the derivatives of the palm tree, alongside nuts, butter, wine, fuel, and soap.
+They do state that baskets are among the derivatives of the palm tree, alongside nuts, butter, wine, fuel, and soap.
 
 ## Music & performance
 
@@ -29,7 +29,7 @@ The sources state that the Vai perform dances on special occasions. The sources 
 
 ## Festivals & rituals
 
- They state that the Vai are predominantly Muslim and have practiced traditions rooted in studying the Quran for centuries. Islam was adopted through the influence of Mandinka merchants from the 16th century onwards.
+They state that the Vai are predominantly Muslim and have practiced traditions rooted in studying the Quran for centuries. Islam was adopted through the influence of Mandinka merchants from the 16th century onwards.
 
 Monotheistic religious practice coexists with traditional beliefs in the supernatural. Shamanistic practices are common, and people consider themselves surrounded by spirits that can change into living creatures or objects. These spirits are believed to have the power to do evil to individuals or to the whole tribe. The Vai perform ceremonies for the dead, leaving articles of clothing and food near the graves of deceased people.
 

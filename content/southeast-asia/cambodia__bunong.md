@@ -13,15 +13,15 @@ The Bunong, also known as Phnong, Punong, or Pnong, are an indigenous ethnic gro
 
 ### Architecture
 
- They mention only that one work discusses the distinction between peoples of the hills and the plain through a Bunong perspective on the temples of Angkor.
+They mention only that one work discusses the distinction between peoples of the hills and the plain through a Bunong perspective on the temples of Angkor.
 
 ### Ceramics, metalwork & everyday objects
 
- The Wikipedia article mentions an Austroasiatic carrying basket known in Mondolkiri as *kapha*, but provides no further catalogue or ethnographic description.
+The Wikipedia article mentions an Austroasiatic carrying basket known in Mondolkiri as *kapha*, but provides no further catalogue or ethnographic description.
 
 ## Music & performance
 
- They list *Poèmes et chants des Phnong de Mondulkiri*, a work concerning Phnong poems and songs, and documentary films concerning Bunong life. Bunong ritual life includes ceremonies in which spirit-gods and ancestors are called to join, and in which jar wine and sacrificed animals are offered.
+They list *Poèmes et chants des Phnong de Mondulkiri*, a work concerning Phnong poems and songs, and documentary films concerning Bunong life. Bunong ritual life includes ceremonies in which spirit-gods and ancestors are called to join, and in which jar wine and sacrificed animals are offered.
 
 ## Festivals & rituals
 
@@ -33,7 +33,7 @@ Highland rice varieties traditionally formed a staple of Bunong agriculture. The
 
 ## Oral tradition & literature
 
- They list works concerning Bunong and Phnong oral literature, including *Introduction à la langue et aux dits traditionnels des Phnong de Mondulkiri*, *Poèmes et chants des Phnong de Mondulkiri*, and *Voix du Mondulkiri historique*. The sources also mention *Les maisons de pierre du village de Chiang*, which presents a Bunong perspective on the temples of Angkor and the distinction between peoples of the hills and the plain. These references indicate documentation of Bunong language, traditional sayings, poems, songs, and historical voices, but the supplied material does not provide their contents.
+They list works concerning Bunong and Phnong oral literature, including *Introduction à la langue et aux dits traditionnels des Phnong de Mondulkiri*, *Poèmes et chants des Phnong de Mondulkiri*, and *Voix du Mondulkiri historique*. The sources also mention *Les maisons de pierre du village de Chiang*, which presents a Bunong perspective on the temples of Angkor and the distinction between peoples of the hills and the plain. These references indicate documentation of Bunong language, traditional sayings, poems, songs, and historical voices, but the supplied material does not provide their contents.
 
 ## Language & religion
 

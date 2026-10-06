@@ -25,11 +25,11 @@ The homes of elites often resembled American Southern plantation homes. In Monro
 
 ## Music & performance
 
- They state that Americo-Liberian culture was shaped by African-American, Afro-Caribbean, Recaptive, and West Indian settlers.
+They state that Americo-Liberian culture was shaped by African-American, Afro-Caribbean, Recaptive, and West Indian settlers.
 
 ## Festivals & rituals
 
- Weddings are described as following African-American or Afro-Caribbean styles, with the bridegroom in a lounge suit and the bride in a white wedding dress. The sources also mention parades and presidential inaugurations as occasions for elaborate dress, but provide no further account of their rituals, dates, music, dances, or processions.
+Weddings are described as following African-American or Afro-Caribbean styles, with the bridegroom in a lounge suit and the bride in a white wedding dress. The sources also mention parades and presidential inaugurations as occasions for elaborate dress, but provide no further account of their rituals, dates, music, dances, or processions.
 
 ## Foodways
 

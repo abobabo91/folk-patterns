@@ -13,7 +13,7 @@ The Stó꞉lō are First Nations peoples who inhabit the Fraser Valley and lower
 
 ### Clothing & dress
 
- The account of St. Mary's Indian Residential School states that students were given two sets of clothes, which were marked. The sources also describe students being assigned lockers, beds, and dormitory spaces and being checked for lice on arrival, but these details concern institutional life rather than Stó꞉lō dress traditions.
+The account of St. Mary's Indian Residential School states that students were given two sets of clothes, which were marked. The sources also describe students being assigned lockers, beds, and dormitory spaces and being checked for lice on arrival, but these details concern institutional life rather than Stó꞉lō dress traditions.
 
 ### Architecture
 
@@ -21,21 +21,17 @@ The primary shelter of the Stó꞉lō was the longhouse. Entire extended familie
 
 ### Ceramics, metalwork & everyday objects
 
- Archaeological evidence records decorative and sculpted stone items, slate knives, slate points, hand mauls, nephrite chisels, and nephrite adzes. The early period also includes evidence of tools and timber-frame construction. River and lake canoes were built within Stó꞉lō communities, while larger ocean-going canoes were primarily acquired through trade with Indigenous peoples of the coast and Vancouver Island.
+Archaeological evidence records decorative and sculpted stone items, slate knives, slate points, hand mauls, nephrite chisels, and nephrite adzes. The early period also includes evidence of tools and timber-frame construction. River and lake canoes were built within Stó꞉lō communities, while larger ocean-going canoes were primarily acquired through trade with Indigenous peoples of the coast and Vancouver Island.
 
 ### Jewelry & body adornment
 
- They mention decorative and sculpted stone items archaeologically.
+They mention decorative and sculpted stone items archaeologically.
 
 ## Music & performance
 
 Singing and prayer formed part of traditional responses to illness during the smallpox epidemic. The sources state that people gathered around the sick person’s bed to sing and pray, a practice that exposed additional people to the virus. No named Stó꞉lō musical instruments, song genres, dance songs, secular performance forms, or professional performers are identified.
 
 The sources describe oral tradition as central to Stó꞉lō culture. Accounts of arrival in *S'ólh Téméxw* describe people as *Tel Swayel*, or “sky-born” people, and *Tel Temexw*, or “earth-born” people. They also describe transformations of ancestral animals and fish, including the beaver, mountain goat, and sturgeon. *Xexá:ls*, described as transformers, fixed the world, the people, and the animals in it, creating the present landscape. These accounts connect performance, memory, place, and spiritual knowledge.
-
-## Dance & theatre
-
- They describe ceremonies connected with salmon and puberty rites, but provide no account of dance or theatre within those practices.
 
 ## Festivals & rituals
 

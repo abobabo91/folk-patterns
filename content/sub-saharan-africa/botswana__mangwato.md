@@ -13,7 +13,7 @@ The Mangwato, also called the Bamangwato, BagammaNgwato, BaNgwato, or Ngwato, ar
 
 ### Architecture
 
- They state that the chiefs of the Bamangwato built several prior capitals, including Shoshong and Phalatswe, also known as Old Palapye, and that tribal towns could move when the local environment degraded before colonial administration and fixed infrastructure.
+They state that the chiefs of the Bamangwato built several prior capitals, including Shoshong and Phalatswe, also known as Old Palapye, and that tribal towns could move when the local environment degraded before colonial administration and fixed infrastructure.
 
 ## Language & religion
 

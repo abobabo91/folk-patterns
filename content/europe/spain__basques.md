@@ -17,11 +17,11 @@ Basque homes include the *etxe(a)*, meaning “house, home,” especially when r
 
 ## Music & performance
 
- They state only that *Bambuco*, a Colombian folk music, has Basque roots.
+They state only that *Bambuco*, a Colombian folk music, has Basque roots.
 
 ## Festivals & rituals
 
- They state that Elko, Nevada, sponsors an annual Basque festival celebrating the dance, cuisine, and cultures of Basque peoples of Spanish, French, and Mexican nationalities who arrived in Nevada since the late 19th century. The sources also state that two annual Basque festivals in Chino, California, celebrate the dance, cuisine, and culture of the peoples represented there. The Basque Museum and Cultural Center in Boise, Idaho, hosts an annual Basque festival and a festival for the Basque diaspora every five years.
+They state that Elko, Nevada, sponsors an annual Basque festival celebrating the dance, cuisine, and cultures of Basque peoples of Spanish, French, and Mexican nationalities who arrived in Nevada since the late 19th century. The sources also state that two annual Basque festivals in Chino, California, celebrate the dance, cuisine, and culture of the peoples represented there. The Basque Museum and Cultural Center in Boise, Idaho, hosts an annual Basque festival and a festival for the Basque diaspora every five years.
 
 ## Foodways
 
@@ -29,7 +29,7 @@ Basque cuisine is described as being at the heart of Basque culture and as influ
 
 ## Oral tradition & literature
 
- They state that some women in the past participated in collective magical ceremonies and were key participants in a rich folklore that is today largely forgotten. The sources also mention the Spanish book *Compendio Historial*, written in 1571 by the Basque writer Esteban de Garibay, which records the name of the Basque language as *enusquera*. They note that this may have been a writing mistake.
+They state that some women in the past participated in collective magical ceremonies and were key participants in a rich folklore that is today largely forgotten. The sources also mention the Spanish book *Compendio Historial*, written in 1571 by the Basque writer Esteban de Garibay, which records the name of the Basque language as *enusquera*. They note that this may have been a writing mistake.
 
 ## Language & religion
 

@@ -29,11 +29,11 @@ Tsakhurs are known as stonemasons.
 
 ## Festivals & rituals
 
- The historical sources state that Tsakhurs, who had mostly been Christian, converted to Islam by the 11th century.
+The historical sources state that Tsakhurs, who had mostly been Christian, converted to Islam by the 11th century.
 
 ## Oral tradition & literature
 
- The Tsakhur language article records the development of a literary form in the 1930s and the production of Tsakhur-learning materials.
+The Tsakhur language article records the development of a literary form in the 1930s and the production of Tsakhur-learning materials.
 
 ## Language & religion
 

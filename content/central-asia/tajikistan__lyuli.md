@@ -21,7 +21,7 @@ Historically, Mugat worked as wandering musical entertainers, fortune-tellers, p
 
 ## Festivals & rituals
 
- They state that the Mugat are devout Sunni Muslims, while some traces of pre-Islamic beliefs have continued to endure.
+They state that the Mugat are devout Sunni Muslims, while some traces of pre-Islamic beliefs have continued to endure.
 
 ## Oral tradition & literature
 

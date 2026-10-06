@@ -13,27 +13,27 @@ Sardinians, also called Sards, are a Romance ethnolinguistic group indigenous to
 
 ### Architecture
 
- The sources do name Nuragic settlements and ancient cities, including Karalis, Bithia, Sulki, Tharros, Nora, Cagliari, Alghero, Sassari, Iglesias, Olbia and Porto Torres. They also mention the mining town of Carbonia, agrarian villages including Mussolinia di Sardegna, now Arborea, and the relocation of Italian refugees to the Nurra region.
+The sources do name Nuragic settlements and ancient cities, including Karalis, Bithia, Sulki, Tharros, Nora, Cagliari, Alghero, Sassari, Iglesias, Olbia and Porto Torres. They also mention the mining town of Carbonia, agrarian villages including Mussolinia di Sardegna, now Arborea, and the relocation of Italian refugees to the Nurra region.
 
 ### Ceramics, metalwork & everyday objects
 
- They state that the Bell Beaker culture introduced new metallurgical techniques and ceramic styles during the Late Chalcolithic to Early Bronze Age.
+They state that the Bell Beaker culture introduced new metallurgical techniques and ceramic styles during the Late Chalcolithic to Early Bronze Age.
 
 ## Music & performance
 
- They do state that Sardinian developed as the native language of the indigenous Sards after Latin supplanted Paleo-Sardinian, and that Sardinian cultural heritage was recognized in 1997 and 1999.
+They do state that Sardinian developed as the native language of the indigenous Sards after Latin supplanted Paleo-Sardinian, and that Sardinian cultural heritage was recognized in 1997 and 1999.
 
 ## Festivals & rituals
 
- They state that the Sardinians preserved aspects of ancient Sardo-Punic culture into Imperial times and that the indigenous prehistoric religion continued in the mountainous interior until the age of Pope Gregory I. The sources also mention the Sardinian–Aragonese war, the Risorgimento, World War II and the Italian economic miracle as historical periods or events.
+They state that the Sardinians preserved aspects of ancient Sardo-Punic culture into Imperial times and that the indigenous prehistoric religion continued in the mountainous interior until the age of Pope Gregory I. The sources also mention the Sardinian–Aragonese war, the Risorgimento, World War II and the Italian economic miracle as historical periods or events.
 
 ## Foodways
 
- The sources mention that surnames such as Sanna, Piras, Pinna and Melis derive from Sardinian words meaning “fang,” “pears,” “feather, pen” and “honey,” but they do not present these terms as food traditions.
+The sources mention that surnames such as Sanna, Piras, Pinna and Melis derive from Sardinian words meaning “fang,” “pears,” “feather, pen” and “honey,” but they do not present these terms as food traditions.
 
 ## Oral tradition & literature
 
- They mention several traditions about the origin of the ethnonym. According to Timaeus, Sardinia and its people may have been named after Sardo, a legendary Lydian woman from Sardis in western Anatolia. Other authors reported that the Sardinians traced their descent to a mythical ancestor, a Libyan son of Hercules or Makeris, revered as Sardus Pater Babai, meaning “Sardinian Father” or “Father of the Sardinians.” The sources also record that Sardinia was called by the Romans Barbaria, “Land of the Barbarians,” and that the ethnonym was Romanized as sardus and sarda.
+They mention several traditions about the origin of the ethnonym. According to Timaeus, Sardinia and its people may have been named after Sardo, a legendary Lydian woman from Sardis in western Anatolia. Other authors reported that the Sardinians traced their descent to a mythical ancestor, a Libyan son of Hercules or Makeris, revered as Sardus Pater Babai, meaning “Sardinian Father” or “Father of the Sardinians.” The sources also record that Sardinia was called by the Romans Barbaria, “Land of the Barbarians,” and that the ethnonym was Romanized as sardus and sarda.
 
 The sources describe a modern linguistic and cultural revival. Sardinian cultural heritage was recognized in 1997 and 1999, while the Sardinian language has faced decline under an Italian education system that promoted Italian. The sources state that only 10–13 percent of the young native population has some active and passive competence in Sardinian.
 

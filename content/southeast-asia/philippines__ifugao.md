@@ -27,7 +27,7 @@ The house is square in floor plan and has four posts called *tukud*, fitted with
 
 ### Ceramics, metalwork & everyday objects
 
- They identify several wooden household objects. Rice granaries called *alang* are protected by wooden guardian figures called *bulul*. Wooden rice spoons with sacred carved images of bulul, representing deities or ancestral spirits called *anito*, are traditional utensils used for eating rice or soups and serving rice wine. The sources also note the Ifugao skill in carving bulul and identify the *hagabi* as a prestige bench of the upper class. On special occasions, men carry the bolo called *gimbattan*.
+They identify several wooden household objects. Rice granaries called *alang* are protected by wooden guardian figures called *bulul*. Wooden rice spoons with sacred carved images of bulul, representing deities or ancestral spirits called *anito*, are traditional utensils used for eating rice or soups and serving rice wine. The sources also note the Ifugao skill in carving bulul and identify the *hagabi* as a prestige bench of the upper class. On special occasions, men carry the bolo called *gimbattan*.
 
 ### Jewelry & body adornment
 

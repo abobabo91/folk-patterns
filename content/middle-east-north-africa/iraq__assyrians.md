@@ -17,19 +17,19 @@ Assyrian architecture is mentioned only through historical urban sites. Assur ex
 
 ### Ceramics, metalwork & everyday objects
 
- They mention cuneiform tablets and archaeological and numismatic records.
+They mention cuneiform tablets and archaeological and numismatic records.
 
 ## Music & performance
 
- They state that Sumerian was preserved by the ancient Babylonians and Assyrians as a liturgical and classical language for religious, artistic, and scholarly purposes.
+They state that Sumerian was preserved by the ancient Babylonians and Assyrians as a liturgical and classical language for religious, artistic, and scholarly purposes.
 
 ## Festivals & rituals
 
- They record religious and ecclesiastical developments, including the early Christianisation of Assyrians between the first and third centuries in Roman Syria and Roman Assyria. Assyrians were traditionally held to have been evangelised by St. Thomas the Apostle and by St. Addai and St. Mari. In 410, the Council of Seleucia-Ctesiphon organised Christians in the Sasanian Empire into what became known as the Church of the East; a council held in 424 declared its Catholicos independent of Western ecclesiastical authorities.
+They record religious and ecclesiastical developments, including the early Christianisation of Assyrians between the first and third centuries in Roman Syria and Roman Assyria. Assyrians were traditionally held to have been evangelised by St. Thomas the Apostle and by St. Addai and St. Mari. In 410, the Council of Seleucia-Ctesiphon organised Christians in the Sasanian Empire into what became known as the Church of the East; a council held in 424 declared its Catholicos independent of Western ecclesiastical authorities.
 
 ## Foodways
 
- They mention trade networks stretching from the Persian Gulf to Egypt and the movement of populations across Mesopotamia.
+They mention trade networks stretching from the Persian Gulf to Egypt and the movement of populations across Mesopotamia.
 
 ## Oral tradition & literature
 

@@ -43,10 +43,6 @@ The sources mention Peranakan porcelain as an influence on the colours of Kasot 
 
 The sources mention three kerosang, or brooches, worn with the Baju Panjang. They also describe Kasot Manek slippers decorated with faceted glass beads. No further jewellery types, ritual functions, tattooing, henna, hair practices, or other body adornment are covered by the sources used.
 
-## Music & performance
-
- They mention Chinese New Year, the Lantern Festival, and other Chinese festivals, but provide no account of music performed during them.
-
 ## Festivals & rituals
 
 Peranakans celebrate Chinese New Year, the Lantern Festival, and other Chinese festivals. At the same time, they adopt customs of the lands in which they settled and influences associated with their colonial rulers.
@@ -57,7 +53,7 @@ The sources describe marriage and family formation as historically important to 
 
 ## Foodways
 
- They state that Peranakan culture combines Chinese traditions with local cultures and that Peranakans adopted customs from the lands where they settled.
+They state that Peranakan culture combines Chinese traditions with local cultures and that Peranakans adopted customs from the lands where they settled.
 
 ## Oral tradition & literature
 

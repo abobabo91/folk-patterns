@@ -11,7 +11,7 @@ The Bimanese, also called *Dou Mbojo* or Orang Bima, are an Austronesian ethnic 
 
 ## Music & performance
 
- The Bima language has open-access recordings from a 2005 language documentation class and recordings from Robert Blust.
+The Bima language has open-access recordings from a 2005 language documentation class and recordings from Robert Blust.
 
 ## Festivals & rituals
 
@@ -19,11 +19,11 @@ Sunni Islam is the predominant religion of the Bimanese. Lowland communities are
 
 ## Foodways
 
- They do identify wet rice, millet, and maize as crops associated with Dou Donggo subsistence farming, and peanuts and soybean as cash crops cultivated in the lowlands of Bima island.
+They do identify wet rice, millet, and maize as crops associated with Dou Donggo subsistence farming, and peanuts and soybean as cash crops cultivated in the lowlands of Bima island.
 
 ## Oral tradition & literature
 
- Local traditions attribute the introduction of Islam to Malay merchants.
+Local traditions attribute the introduction of Islam to Malay merchants.
 
 ## Language & religion
 

@@ -13,21 +13,21 @@ The Charrúa are an Indigenous people or Indigenous Nation of the Southern Cone,
 
 ### Ceramics, metalwork & everyday objects
 
- They do record *bolas*, stones connected by short ropes and thrown to ensnare prey, as well as bows and arrows used in hunting.
+They do record *bolas*, stones connected by short ropes and thrown to ensnare prey, as well as bows and arrows used in hunting.
 
 ## Music & performance
 
- They do mention the documentary *Perambulantes* (Brazil, 2009), by Giancarla Brunnetto and Karine Emerich, which concerned Acuab, described as the most notable Charrua chief of Rio Grande do Sul and the first female cacique of the Charruas.
+They do mention the documentary *Perambulantes* (Brazil, 2009), by Giancarla Brunnetto and Karine Emerich, which concerned Acuab, described as the most notable Charrua chief of Rio Grande do Sul and the first female cacique of the Charruas.
 
 ## Festivals & rituals
 
- They describe the Massacre of Salsipuedes, also called *La Campaña de Salsipuedes*, a genocide campaign organized in 1831 under the administration of Fructuoso Rivera. The campaign involved attacks at “El Paso del Sauce del Queguay,” “El Salsipuedes,” and “La Cueva del Tigre.” The sources state that the campaign was launched on 11 April 1831 by a group led by Bernabé Rivera, nephew of Fructuoso Rivera.
+They describe the Massacre of Salsipuedes, also called *La Campaña de Salsipuedes*, a genocide campaign organized in 1831 under the administration of Fructuoso Rivera. The campaign involved attacks at “El Paso del Sauce del Queguay,” “El Salsipuedes,” and “La Cueva del Tigre.” The sources state that the campaign was launched on 11 April 1831 by a group led by Bernabé Rivera, nephew of Fructuoso Rivera.
 
 The sources also record the capture of four Charrúas at Salsipuedes: Senacua Sénaqué, a medicine man; Vaimaca-Pirú Sira, a warrior; and the young couple Laureano Tacuavé Martínez and María Micaëla Guyunusa. They were taken to Paris in 1833 and exhibited to the public. The sources state that all four soon died in France, together with a baby daughter born to Sira and Guyunusa and adopted by Tacuavé.
 
 ## Foodways
 
- They state that the Charrúa sustained themselves mainly through hunting and gathering. In summer, they moved to the shore to fish and gather clams, fruits, and roots. In winter, they moved inland to hunt deer, rheas, and smaller game. During the 18th and 19th centuries, cattle exploitation altered their way of life, causing famine and forcing them to rely on cows and sheep, which were increasingly privatized.
+They state that the Charrúa sustained themselves mainly through hunting and gathering. In summer, they moved to the shore to fish and gather clams, fruits, and roots. In winter, they moved inland to hunt deer, rheas, and smaller game. During the 18th and 19th centuries, cattle exploitation altered their way of life, causing famine and forcing them to rely on cows and sheep, which were increasingly privatized.
 
 ## Oral tradition & literature
 
@@ -49,5 +49,4 @@ Teodoro Vilardebó recorded Charrua vocabulary in 1842. José Pedro Rona and Eug
 - “Charrúa language,” *Wikipedia*: https://en.wikipedia.org/wiki/Charr%C3%BAa_language
 - Juan Zorrilla de San Martín, *Tabaré* (1888), as mentioned in the Charrúa article.
 - Giancarla Brunnetto and Karine Emerich, *Perambulantes* (Brazil, 2009), as mentioned in the Charrúa article.
-- The UNESCO Intangible Cultural Heritage sources used contain no inscriptions for this country.
 - The museum catalogue sources supplied contain no records for the objects shown.

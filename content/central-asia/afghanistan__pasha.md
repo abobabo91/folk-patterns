@@ -13,15 +13,15 @@ The Pashayi or Pashai are an Indo-Aryan ethnolinguistic group living primarily i
 
 ### Clothing & dress
 
- They do record that, in the thirteenth century, Marco Polo described local men as wearing brooches and earrings decorated with gemstones.
+They do record that, in the thirteenth century, Marco Polo described local men as wearing brooches and earrings decorated with gemstones.
 
 ### Architecture
 
- They do mention valleys, villages, districts, and permanent land settlements in connection with Pashayi history, but provide no architectural description.
+They do mention valleys, villages, districts, and permanent land settlements in connection with Pashayi history, but provide no architectural description.
 
 ### Ceramics, metalwork & everyday objects
 
- The only specifically described objects are the brooches and earrings decorated with gemstones that Marco Polo reportedly observed among local men in the thirteenth century.
+The only specifically described objects are the brooches and earrings decorated with gemstones that Marco Polo reportedly observed among local men in the thirteenth century.
 
 ### Jewelry & body adornment
 
@@ -29,7 +29,7 @@ The sources used mention brooches and earrings decorated with gemstones in Marco
 
 ## Music & performance
 
- They do describe a communal performance associated with Pashayi weddings and celebrations: young people of all genders gather in a circle, hold one another by the shoulders, and sing songs together. The performance lasts for 20–25 minutes. No name is supplied for the songs, the dance-song form, or any accompanying instruments.
+They do describe a communal performance associated with Pashayi weddings and celebrations: young people of all genders gather in a circle, hold one another by the shoulders, and sing songs together. The performance lasts for 20–25 minutes. No name is supplied for the songs, the dance-song form, or any accompanying instruments.
 
 The source also describes *marat*, meetings in which Pashayi elders lead discussions and resolve issues. This is compared with the Pashtun *jirga*. No information is provided about funeral music, court performance, religious recitation, instrumental traditions, or music-making in domestic settings.
 
@@ -39,7 +39,7 @@ The source describes a Pashayi dance performed at weddings and during celebratio
 
 ## Festivals & rituals
 
- The available description concerns weddings and celebrations, during which the communal circle dance and singing are performed.
+The available description concerns weddings and celebrations, during which the communal circle dance and singing are performed.
 
 Pashayi marriage customs are described as differing from those of other regions. An engaged couple may spend time together and interact freely from the beginning of their engagement. Restrictions commonly imposed on engaged couples elsewhere do not apply, and wedding ceremonies follow distinctive traditions.
 

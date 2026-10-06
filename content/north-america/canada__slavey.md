@@ -13,31 +13,27 @@ The Slavey, also known as Awokanak, Slave, and South Slavey, are a First Nations
 
 ### Clothing & dress
 
- They state that the Gahwié got’iné were known as “Rabbitskin People,” or “Great Hare People,” referring to their dependence on the varying hare for food and clothing.
+They state that the Gahwié got’iné were known as “Rabbitskin People,” or “Great Hare People,” referring to their dependence on the varying hare for food and clothing.
 
 ### Ceramics, metalwork & everyday objects
 
- The Slavey language source gives vocabulary examples including *kǫ́é* “house,” *déh* “land,” *deh* “river,” *xay* “winter,” *bá* “mitts,” *mbeh* “knife,” *ts’ah* “hat,” *tl’uh* “rope,” and *ts’éré* “blanket,”.
+The Slavey language source gives vocabulary examples including *kǫ́é* “house,” *déh* “land,” *deh* “river,” *xay* “winter,” *bá* “mitts,” *mbeh* “knife,” *ts’ah* “hat,” *tl’uh* “rope,” and *ts’éré* “blanket,”.
 
 ## Music & performance
 
- They state that Slavey was the native language spoken by the fictional band in the Canadian television series *North of 60*, and that Nick Sibbeston, a former Premier of the Northwest Territories, served as a Slavey language and culture consultant for the show.
-
-## Dance & theatre
-
- The Slavey language source gives *Dahgogehthe* as “They dance,” but provides no account of a dance tradition.
+They state that Slavey was the native language spoken by the fictional band in the Canadian television series *North of 60*, and that Nick Sibbeston, a former Premier of the Northwest Territories, served as a Slavey language and culture consultant for the show.
 
 ## Festivals & rituals
 
- No UNESCO Intangible Cultural Heritage inscription is provided for this group or country.
+No UNESCO Intangible Cultural Heritage inscription is provided for this group or country.
 
 ## Foodways
 
- They state that the K’ashógot’įne, or Hare dialect, was spoken by the Gahwié got’iné, “Rabbitskin People,” or K’áshogot’ıne, “Great Hare People,” referring to their dependence on the varying hare for food and clothing. The sources also give *ʔeha̒goni̒dhe* as “We go for meat,” but provide no broader account of foodways.
+They state that the K’ashógot’įne, or Hare dialect, was spoken by the Gahwié got’iné, “Rabbitskin People,” or K’áshogot’ıne, “Great Hare People,” referring to their dependence on the varying hare for food and clothing. The sources also give *ʔeha̒goni̒dhe* as “We go for meat,” but provide no broader account of foodways.
 
 ## Oral tradition & literature
 
- They state that the Slavey language was used in the fictional Canadian television series *North of 60*, whose fictional town, Lynx River, is located in Slavey territory.
+They state that the Slavey language was used in the fictional Canadian television series *North of 60*, whose fictional town, Lynx River, is located in Slavey territory.
 
 ## Language & religion
 

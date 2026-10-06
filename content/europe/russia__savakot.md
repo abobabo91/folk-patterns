@@ -15,7 +15,7 @@ The sources identify agriculture as the major occupation of the Savakot. Shoresi
 
 ## Language & religion
 
-The sources identify the Savakot as a subgroup of Ingrian Finns descended from Finnish, specifically Savonian, peasants. They do not specify a language family, dialects, historical scripts, religious landscape, or spiritual practices. In 1929, the literacy level of the “Leningrad Finns” was 72%.
+The sources identify the Savakot as a subgroup of Ingrian Finns descended from Finnish, specifically Savonian, peasants. In 1929, the literacy level of the “Leningrad Finns” was 72%.
 
 ## Sources & further reading
 

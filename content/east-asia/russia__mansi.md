@@ -39,7 +39,7 @@ The bear celebration includes dances and plays and is held in connection with th
 
 ## Festivals & rituals
 
-A notable element of traditional Mansi religion is the bear cult. A bear celebration is held in connection with the bear hunt and lasts for several days, incorporating songs, dances, and plays. The source compares this practice with the Finnish *peijaiset*. No annual festival calendar, fixed festival dates, seasonal observances, or detailed life-cycle rites are described in the sources.
+A notable element of traditional Mansi religion is the bear cult. A bear celebration is held in connection with the bear hunt and lasts for several days, incorporating songs, dances, and plays. The source compares this practice with the Finnish *peijaiset*.
 
 The sources also record attempts to Christianize the Mansi during the period when Kondia was a powerful principality. The first Mansi book was a translation of the Gospel of Matthew into Konda Mansi, published in London in 1868.
 

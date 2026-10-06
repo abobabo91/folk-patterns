@@ -19,7 +19,7 @@ The Wintu, also known as Northern Wintun, are a Native American people of Northe
 
 ### Clothing & dress
 
- They state only that many Wintu women wore woven hats.
+They state only that many Wintu women wore woven hats.
 
 ### Architecture
 
@@ -27,7 +27,7 @@ Wintu homes were small and semi-permanent and were built along waterways. Larger
 
 ### Ceramics, metalwork & everyday objects
 
- They describe baskets used for cooking, storing, sifting, and carrying, as well as traps used by men when hunting animals.
+They describe baskets used for cooking, storing, sifting, and carrying, as well as traps used by men when hunting animals.
 
 ## Music & performance
 
@@ -39,7 +39,7 @@ The *suneh*, or begging dance, is the only Wintu dance named in the sources. It 
 
 ## Festivals & rituals
 
- They state that villages with extra food sometimes invited neighboring tribes to feast, dance, and play games. An earth lodge in larger communities served as a sweat lodge for spiritual renewal, purification, and connection to nature; unmarried men without families also slept there. They do describe a 1850 “friendship feast” in the history of settler violence, when poisoned food was served to local Native people; 100 Nomsuu and 45 Wenemem Wintu died as a result.
+They state that villages with extra food sometimes invited neighboring tribes to feast, dance, and play games. An earth lodge in larger communities served as a sweat lodge for spiritual renewal, purification, and connection to nature; unmarried men without families also slept there. They do describe a 1850 “friendship feast” in the history of settler violence, when poisoned food was served to local Native people; 100 Nomsuu and 45 Wenemem Wintu died as a result.
 
 ## Foodways
 
@@ -49,7 +49,7 @@ Acorns were the primary plant-based food. Other edible plants included manzanita
 
 ## Oral tradition & literature
 
- They list *Wintu Myths* by Cora A. Du Bois and Dorothy Demetracopoulou, *A Bag of Bones: The Wintu Myths of a Trinity River Indian* by Grant Towendolly, and *Dream Songs and Ceremony: Reflections on Traditional California Indian Dance* by Frank R. LaPena. They also identify *Wintu Songs* and *Wintu Texts* in the bibliography. The sources state that Wintu communities seek to preserve, promote, and protect tribal culture and history, and that the Winnemem Wintu have worked with the Indigenous Language Institute on language revitalization.
+They list *Wintu Myths* by Cora A. Du Bois and Dorothy Demetracopoulou, *A Bag of Bones: The Wintu Myths of a Trinity River Indian* by Grant Towendolly, and *Dream Songs and Ceremony: Reflections on Traditional California Indian Dance* by Frank R. LaPena. They also identify *Wintu Songs* and *Wintu Texts* in the bibliography. The sources state that Wintu communities seek to preserve, promote, and protect tribal culture and history, and that the Winnemem Wintu have worked with the Indigenous Language Institute on language revitalization.
 
 ## Language & religion
 

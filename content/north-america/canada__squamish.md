@@ -41,11 +41,11 @@ A standard house was described as 9 metres wide, 12 metres long and 4–6 metres
 
 ### Ceramics, metalwork & everyday objects
 
- Documented wooden and household objects include cedar boxes lined with cedar bark, canoes, fishing hooks, harpoon heads, wooden platters, spoons, baskets and architectural elements. Carvers also produced ceremonial masks, regalia and totem poles. Cedar was especially important, and its harvesting was described as a sacred and carefully regulated practice governed by ceremonies and protocols. Families used canoes, fishing equipment and other objects connected with gathering food and travelling between villages and resource sites.
+Documented wooden and household objects include cedar boxes lined with cedar bark, canoes, fishing hooks, harpoon heads, wooden platters, spoons, baskets and architectural elements. Carvers also produced ceremonial masks, regalia and totem poles. Cedar was especially important, and its harvesting was described as a sacred and carefully regulated practice governed by ceremonies and protocols. Families used canoes, fishing equipment and other objects connected with gathering food and travelling between villages and resource sites.
 
 ### Jewelry & body adornment
 
- They do describe ceremonial regalia with colours and ornaments, as well as several forms of bodily adornment and grooming. In one puberty rite, strands of mountain goat wool were tied to each side of a girl’s forehead. Women of her family pulled out irregular hairs from the edges of her eyebrows, and a plant mixture was used to prevent the hairs from growing again. After bathing, she could be painted with red ochre. During marriage ceremonies, the bride’s regalia and the blanket placed over her head were part of her ceremonial appearance.
+They do describe ceremonial regalia with colours and ornaments, as well as several forms of bodily adornment and grooming. In one puberty rite, strands of mountain goat wool were tied to each side of a girl’s forehead. Women of her family pulled out irregular hairs from the edges of her eyebrows, and a plant mixture was used to prevent the hairs from growing again. After bathing, she could be painted with red ochre. During marriage ceremonies, the bride’s regalia and the blanket placed over her head were part of her ceremonial appearance.
 
 ## Music & performance
 

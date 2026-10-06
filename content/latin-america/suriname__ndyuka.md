@@ -23,15 +23,15 @@ The sources describe clothing, capes, and breech clothes as objects exchanged be
 
 ### Architecture
 
- They state that Ndyuka communities were established along rivers in southeastern Suriname and that, from 1761, many people built camps on the Tapanahony River. The sources also mention villages, tribal areas, and the settlement of Diitabiki.
+They state that Ndyuka communities were established along rivers in southeastern Suriname and that, from 1761, many people built camps on the Tapanahony River. The sources also mention villages, tribal areas, and the settlement of Diitabiki.
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden and calabash household objects. Women made wooden food stirrers, stools, trays, and peanut grinding plates, while calabash carving produced spoons and dishes with intricate designs for everyday use. Woodcarving, calabash carving, and textile arts were practiced within ordinary activities and were connected to the exchange of gifts.
+They do describe wooden and calabash household objects. Women made wooden food stirrers, stools, trays, and peanut grinding plates, while calabash carving produced spoons and dishes with intricate designs for everyday use. Woodcarving, calabash carving, and textile arts were practiced within ordinary activities and were connected to the exchange of gifts.
 
 ## Music & performance
 
- They identify Ndyuka as a Maroon people and discuss artistic work, religious practice, and oral political traditions.
+They identify Ndyuka as a Maroon people and discuss artistic work, religious practice, and oral political traditions.
 
 ## Festivals & rituals
 
@@ -43,11 +43,11 @@ The sources describe extensive traditional funerary rites. Winti remains a major
 
 ## Foodways
 
- They mention household objects used in food preparation and consumption, including food stirrers, trays, peanut grinding plates, spoons, and dishes.
+They mention household objects used in food preparation and consumption, including food stirrers, trays, peanut grinding plates, spoons, and dishes.
 
 ## Oral tradition & literature
 
- They identify the Ndyuka language and include an example of Ndyuka text describing travel along the Commewijne River toward Mama Ndyuka, but do not interpret it as a literary genre.
+They identify the Ndyuka language and include an example of Ndyuka text describing travel along the Commewijne River toward Mama Ndyuka, but do not interpret it as a literary genre.
 
 The sources mention André Pakosie as a writer and activist and list his 1990 article “Arrogantie versus traditie.”
 

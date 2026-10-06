@@ -19,7 +19,7 @@ The Harari people, also called *Gēy Usuach* (“People of the City”), are a S
 
 ### Clothing & dress
 
- They mention only that Harari women make handcrafted wall baskets used in house decoration.
+They mention only that Harari women make handcrafted wall baskets used in house decoration.
 
 ### Architecture
 
@@ -35,8 +35,6 @@ The sources document black clay pots called *Aflala*, which are placed on a carv
 
 The sources mention the Zeila songs, which are considered to use Old Harari and are described as originating in the thirteenth century. They are popular in Somaliland. The sources also state that the language spoken by the imams and sultans of Adal would have closely resembled contemporary Harari.
 
-No Harari musical instruments, song genres, performance settings, musical structures or ceremonial uses are described in the supplied sources.
-
 ## Festivals & rituals
 
 Weddings and mournings are mentioned as occasions when Harari baskets are used, especially for decoration. The sources also state that the first Qur’anic school was built approximately 10 kilometres (6.2 mi) south of the city center by Aw Sofi Yahya, a Harari scholar and the earliest kabir or Islamic teacher in the community. No further ritual details are supplied.
@@ -51,7 +49,7 @@ The supplied material states that the majority of Harari are Sunni Muslim and th
 
 The sources mention an Oromo proverb associated with the historical experience of the Hararis: “On that day Hararis were eliminated from earth.” They also describe the legendary patriarch Sheikh Abadir, who is said to have arrived on the Harar plateau in the early thirteenth century and met the Harla, Gaturi and Argobba people.
 
-The sources refer to Old Harari literary material and ancient texts containing Arabic loanwords. The Zeila songs of thirteenth-century origin are considered to use Old Harari. No Harari epic, folktale cycle, riddle tradition, oral performance genre or contemporary literary revival is documented in the supplied sources.
+The sources refer to Old Harari literary material and ancient texts containing Arabic loanwords. The Zeila songs of thirteenth-century origin are considered to use Old Harari.
 
 ## Language & religion
 

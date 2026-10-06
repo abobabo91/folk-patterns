@@ -13,7 +13,7 @@ The Somba, also known as the Tammari, Batammariba, Tamberma, Otamari, or Ottamar
 
 ### Clothing & dress
 
- They do describe traditional body scarring as a form of visible identification. These marks begin between the ages of two and three and identify a person as belonging to the person’s tribe while also conveying coded personal information. Additional scars are added at puberty, at readiness for marriage, and after childbirth. The marks can occur on the face, belly, and back and are described as lifelong forms of communication.
+They do describe traditional body scarring as a form of visible identification. These marks begin between the ages of two and three and identify a person as belonging to the person’s tribe while also conveying coded personal information. Additional scars are added at puberty, at readiness for marriage, and after childbirth. The marks can occur on the face, belly, and back and are described as lifelong forms of communication.
 
 ### Architecture
 
@@ -25,25 +25,25 @@ Building a fortress takes several months and requires skilled labor. Until 2000,
 
 ### Ceramics, metalwork & everyday objects
 
- They state that the upper levels of the traditional dwellings contain granaries and rooftop courtyards used for drying grain, while the ground floor provides shelter for livestock and internal alcoves are used for cooking.
+They state that the upper levels of the traditional dwellings contain granaries and rooftop courtyards used for drying grain, while the ground floor provides shelter for livestock and internal alcoves are used for cooking.
 
 ### Jewelry & body adornment
 
- They do document traditional scarification. The marks begin in early childhood, serve as lifelong tribal identification, and communicate additional personal information connected with puberty, readiness for marriage, and childbirth. Scarring can extend across the face, belly, and back.
+They do document traditional scarification. The marks begin in early childhood, serve as lifelong tribal identification, and communicate additional personal information connected with puberty, readiness for marriage, and childbirth. Scarring can extend across the face, belly, and back.
 
 ## Music & performance
 
- They do, however, describe ritual and ceremonial contexts in which cultural knowledge and authority are maintained. Initiation ceremonies and funeral rites are central institutions, and a ritual center is organized around a cemetery, a large initiation house for youth, and a head serpent sanctuary. Those responsible for rituals are selected according to rigorous ethical expectations, especially discretion and self-mastery.
+They do, however, describe ritual and ceremonial contexts in which cultural knowledge and authority are maintained. Initiation ceremonies and funeral rites are central institutions, and a ritual center is organized around a cemetery, a large initiation house for youth, and a head serpent sanctuary. Those responsible for rituals are selected according to rigorous ethical expectations, especially discretion and self-mastery.
 
 The sources also describe ceremonies as preserving warrior traditions, hunting skills, pride, care for the land, and respect for ancestral obligations. The youngest members of the community, whether schooled or not and whether they leave or remain in the village, very rarely abandon the cycle of initiation tradition. No source used here provides names for musical instruments, repertories, dances accompanied by music, or specialized performance settings.
 
 ## Dance & theatre
 
- They describe initiation ceremonies, funeral rites, ancestral devotional ceremonies, and ritual meetings with underground forces.
+They describe initiation ceremonies, funeral rites, ancestral devotional ceremonies, and ritual meetings with underground forces.
 
 ## Festivals & rituals
 
- They do document a ritual system organized around clans, territorial groups, cemeteries, initiation houses, serpent sanctuaries, and sacred relationships with the land.
+They do document a ritual system organized around clans, territorial groups, cemeteries, initiation houses, serpent sanctuaries, and sacred relationships with the land.
 
 Two, four, or six clans can form what the source calls a village, or more precisely a territorial groupement, centered on rituals upheld by each clan. The ritual center is the foundation of the village. Clans recognize family bonds because they descend from the same founding fathers, while the society rejects centralized power and hereditary chieftains. It maintains an age-based hierarchy between elders and younger residents.
 
@@ -53,13 +53,13 @@ Funeral rites are described as exceptionally well preserved. The souls of ancest
 
 ## Foodways
 
- They state that the Batammariba are agronomic herdsmen and that their traditional houses contain cooking alcoves, livestock areas, granaries, and rooftop courtyards used for drying grain.
+They state that the Batammariba are agronomic herdsmen and that their traditional houses contain cooking alcoves, livestock areas, granaries, and rooftop courtyards used for drying grain.
 
 The relationship between food production and sacred land is described through an alliance between the ancestors of the Batammariba and underground forces regarded as the true owners of the region. The ancestors swore to respect agricultural rules and the pieces of land belonging to those forces. In exchange, the forces allowed them to build houses and harvest the soil. The sources therefore connect agriculture with ritual obligations.
 
 ## Oral tradition & literature
 
- They do identify the Batammariba as affirming allegiance as “Serpent Children” and describing themselves as descendants of a grand, invisible, underground “Serpent Mother” who bore the first eggs of their ancestors.
+They do identify the Batammariba as affirming allegiance as “Serpent Children” and describing themselves as descendants of a grand, invisible, underground “Serpent Mother” who bore the first eggs of their ancestors.
 
 The sources also describe the mythological first village, Linaba, where Kuiye first created humans and deities. The Batammariba’s relationship to ancestors, underground forces, serpent sanctuaries, and sacred places forms part of the cultural knowledge maintained through ritual institutions. Researchers and writers listed in the source include Rigobert Kouagou, a specialist in the Tammari language and author of poems and stories translated into French, and Dominique Sewane, whose work has focused on Batammariba funeral and initiation rites.
 

@@ -15,17 +15,13 @@ The Andis, called *къӀваннал* in Andi and *ГӀандал* in Avar, are
 
 The supplied sources describe Andia as a valley bordered by the Andi ridge and its spurs. In the past, access to Andia was guarded on the south by the Mynin Tower and on the north by the fortress of Butsurkha.
 
-## Music & performance
-
- They contain no information about music performed at weddings, funerals, religious occasions, courts, or other gatherings.
-
 ## Festivals & rituals
 
- They state only that the Andis are Sunni Muslims.
+They state only that the Andis are Sunni Muslims.
 
 ## Oral tradition & literature
 
- The Andi language article states that Andi is usually unwritten, although there have been some nineteenth-century texts written in Andi. Speakers generally use Avar or Russian as their literary language. A 2015 translation of the Gospel of Luke uses an Andi alphabet.
+The Andi language article states that Andi is usually unwritten, although there have been some nineteenth-century texts written in Andi. Speakers generally use Avar or Russian as their literary language. A 2015 translation of the Gospel of Luke uses an Andi alphabet.
 
 ## Language & religion
 

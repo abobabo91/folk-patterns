@@ -39,7 +39,7 @@ Flemish architectural history is connected with the trading cities of Ghent, Bru
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention windmills used for grain among customs associated with Flemish-descended people in the Azores.
+They do mention windmills used for grain among customs associated with Flemish-descended people in the Azores.
 
 ## Music & performance
 
@@ -67,7 +67,7 @@ Belgian fries are deep-fried chipped potatoes, traditionally fried twice. They a
 
 ## Oral tradition & literature
 
- They do describe a Flemish literary and political movement: the Flemish Movement developed from earlier anti-French feelings of injustice and helped facilitate the de jure social, political and linguistic equality of Dutch from the end of the 19th century. Jan Verlooy is named as a late 18th-century writer whose writings criticized the Southern Francophile elites.
+They do describe a Flemish literary and political movement: the Flemish Movement developed from earlier anti-French feelings of injustice and helped facilitate the de jure social, political and linguistic equality of Dutch from the end of the 19th century. Jan Verlooy is named as a late 18th-century writer whose writings criticized the Southern Francophile elites.
 
 ## Language & religion
 

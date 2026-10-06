@@ -23,19 +23,19 @@ Rai women used to weave homespun cloth from khadi, cotton, wool, and allo nettle
 
 ### Architecture
 
- They state that *Teen Chula*, also called *Suptulung*, is present in every Rai house and is buried on one side of the inner corner. The hearth consists of three stones and is described as central to rituals from birth to death. In the Bantawa Rai dialect it is also called *Samkhalung*: *Samkha* means ancestors and *Lung* means stones.
+They state that *Teen Chula*, also called *Suptulung*, is present in every Rai house and is buried on one side of the inner corner. The hearth consists of three stones and is described as central to rituals from birth to death. In the Bantawa Rai dialect it is also called *Samkhalung*: *Samkha* means ancestors and *Lung* means stones.
 
 ### Ceramics, metalwork & everyday objects
 
- They name the *khukuri* or *dabhay*, described as a large knife in men’s dress, and mention the bamboo knife used in a death ritual involving a pregnant woman. No further information is supplied about manufacture, decoration, ownership, or use of these objects.
+They name the *khukuri* or *dabhay*, described as a large knife in men’s dress, and mention the bamboo knife used in a death ritual involving a pregnant woman. No further information is supplied about manufacture, decoration, ownership, or use of these objects.
 
 ### Jewelry & body adornment
 
-Rai men wear *Wachinari Mala*, identified as a Dzi bead, *Potlung* or *Puwalo Mala* garlands, and animal tooth necklaces. No Rai tattooing, henna, hair practice, or women’s jewelry tradition is documented in the supplied sources.
+Rai men wear *Wachinari Mala*, identified as a Dzi bead, *Potlung* or *Puwalo Mala* garlands, and animal tooth necklaces.
 
 ## Music & performance
 
- They state that Sakela is a gathering of Rai people for the celebration of Udhauli and Ubhauli, and that it is a dance performed while Rai people gather together. The sources associate Sakela particularly with the Chamling group of the Kirati Rai community.
+They state that Sakela is a gathering of Rai people for the celebration of Udhauli and Ubhauli, and that it is a dance performed while Rai people gather together. The sources associate Sakela particularly with the Chamling group of the Kirati Rai community.
 
 The sources list several names used among different linguistic groups: *Sakenwa*, *Sakela*, *Tosh* or *Toshi*, *Bhume*, *Sakel*, *Wass*, *Segro*, *Sakewa*, *Dhuulu*, *Phagulak*, *Gelang*, and *Gayapuja*. These names are presented as names for the event or its associated practice rather than as separately described musical genres. No instruments are named in the Rai material.
 
@@ -53,7 +53,7 @@ Natural death may be followed by burial or cremation according to the wish of th
 
 ## Foodways
 
- They mention a salt-eating and oil-drinking ceremony performed three days after death, but provide no further description of the foods, their preparation, or their symbolic meanings.
+They mention a salt-eating and oil-drinking ceremony performed three days after death, but provide no further description of the foods, their preparation, or their symbolic meanings.
 
 ## Oral tradition & literature
 

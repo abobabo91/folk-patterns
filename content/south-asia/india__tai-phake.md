@@ -1,0 +1,85 @@
+---
+title: "Tai Phake"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Tai Phake, also known as Phakial or Phake, are a Tai-speaking indigenous ethnic group living in Dibrugarh district and Tinsukia district of Assam, principally along the Dihing river and in adjacent parts of Lohit and Changlang district in Arunachal Pradesh. As of 1990, their population stood at 5,000, consisting of less than 250 families. They are believed to have originated from the Shan kingdom of Möng Mao and migrated to Assam in 1775. Their main occupation is agriculture, supplemented by cattle and buffalo rearing and fishing. Their culture includes Theravada Buddhism, an independent writing system, elevated bamboo houses, distinctive woven clothing, village-elder governance, and festivals connected with the Tai calendar.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Sheenn** — The *sheenn* is an ankle-long skirt worn by Tai Phake women. Women weave colourful dresses themselves, and the colours of their clothing are expressive of their ages.
+
+**Nang-wat** — The *nang-wat* is a blouse open at the front and fastened around the armpits. It forms part of the women’s general dress.
+
+**Chai-chin** — The *chai-chin* is a girdle used to tighten the skirt around the waist.
+
+**Chin** — The *Chin* is worn by elderly women around the waist and extends to the ankles. It resembles men’s lungi, but its stripes run breadthwise and its waist portion is much thicker.
+
+**Fa Nangwait** — *Fa Nangwait* is a long stripped cloth used by women to cover the upper half of the body. It is about 2.3 meters long and 1 meter wide.
+
+**Fafek** — *Fafek* is a white cloth about 2 meters long and 1 meter wide, worn by girls before they attain puberty or by a girl whose unmarried elder sister has not married. Wearing it signifies unpreparedness for marriage.
+
+**Fa Fek Mai** — *Fa Fek Mai* is a white scarf with a plain border, about 2 meters long and 1 meter wide, worn by elderly men and unmarried grownup girls.
+
+### Clothing & dress
+
+Tai Phake women wear colourful woven dresses consisting of a *sheenn* skirt, *nang-wat* blouse, and *chai-chin* girdle. A white turban called *pha-ho* is worn according to individual preference. The sources distinguish general dress for everyday use from special dress for particular occasions, but state that the Phakes do not possess a traditional ceremonial dress. On festive occasions, washed clothes are used.
+
+Elderly men generally wear a house-woven checkered green-and-black lungi called *Phaa*, an undershirt, a shirt called *Sho*, and a white turban called *Fa Ho*. A white scarf and white long-sleeved shirt are worn when visiting the Vihar or travelling to distant places. In congregational prayer, everyone except boys and girls below the age of 10 years wears the scarf.
+
+Monks wear yellow clothing, including a lungi called *Cham Paying*, a chaddar-like cloth called *Chang Kan*, a locally prepared genji called *sanghati*, and a cloth used to cover their secret parts. Boys wear trousers and shirts when travelling to Naharkatia or attending school, but use a traditional lungi in the village. Girls wear bazaar-made frocks, while school-going girls use their traditional *Chin*.
+
+### Architecture
+
+Tai Phake houses are elevated bamboo huts built on wooden piles above the ground. This elevated form is locally known as *haun hang*. Construction materials include Livistona Jenkinsiana leaves, timber, and bamboo. Each house has two hearts, of which the inner one is considered sacred. The drawing room is called *kan nok*, the prayer room *khok pai-frah*, and the kitchen *haun aom*.
+
+### Jewelry & body adornment
+
+Tai Phake women wear few ornaments. The sources name *Kenhu*, an ear ornament made of transparent crystal material, and state that elderly women used it until 1950, when the supply became irregular. Other ornaments include earrings, bracelets, gold rings, necklaces, and bangles called *Beyan*, made of gold or silver. A gold or silver ring called *Ungehop* is worn by those who can afford it.
+
+Small children wear necklaces made of small beads to avoid dangers from evil spirits, and some elderly people use bead armlets for a similar purpose. Flowers are worn in the hair by teenage girls. Most women wear their hair long, while men crop theirs short, except those following the eight precept of Buddhism. Tattooing and bodily marks are not present where they should be.
+
+## Music & performance
+
+They describe congregational prayer, Buddhist monastery gatherings, and religious festivals.
+
+## Festivals & rituals
+
+*Poi Sangken* is the major festival of the Tai Phakes. It resembles Songkran, is the beginning of the new year in the Tai calendar, and lasts three days. It generally starts on 13 or 14 April every year. People throw water on one another, signifying the washing away of one another’s sins. They also cleanse Buddha images and statues from household shrines and monasteries by gently pouring water over them.
+
+*Buddha Purnima* is another major festival and marks the birthday of Lord Gautama Buddha. People gather at the Buddhist monastery to offer prayers, followed by a feast. The festival generally falls in May.
+
+*Naun-wa* is a three-month period during which marriages and construction work are not undertaken because the period is considered inauspicious. During the day of *purnima* in each month, villagers gather in the monastery and offer prayers. *Poi Ok-wa* follows this period and marks its end. People from different villages and a union of monks gather in one village, offer prayers, and ask God to forgive their faults.
+
+*Poi Mai-ko-chum-fai* takes place during the full moon in February. People burn small piles of wood and hay in the late evening and prepare traditional dishes such as *khau-laam*. Other festivals named in the sources are *Poi Lu-fra*, *Poi Lu-kyong*, and *Poi Kithing*.
+
+Marriage is celebrated with a detailed ceremony. Divorce is decided by the *chow mann* in a meeting of village elders. Cremation is the rule for normal death, while burial is prescribed for abnormal death. After a normal death, a purification ceremony is held on the seventh day, featuring a village feast and gifts to monks. A monk’s body is kept for about a year in a watertight coffin before a large festival and ceremonial cremation.
+
+## Foodways
+
+Rice is the staple food of the Tai Phakes. Meals include cooked or steamed rice wrapped in banana, tara, or kau leaves, a preparation known as *khau how*, together with boiled vegetables. Wild leafy vegetables such as *pukut* and *khi kai* are eaten. Other foods include meat, fish, eggs, dry fish, sour fish, dry meat, and rice cakes. Tea is their favourite beverage.
+
+During *Poi Mai-ko-chum-fai*, people prepare traditional dishes including *khau-laam*. The sources also state that a feast follows the prayers of *Buddha Purnima*, and that a feast and gifts to monks form part of the purification ceremony after a normal death.
+
+## Oral tradition & literature
+
+They state that the Tai Phakes have preserved manuscripts, most of which are religious scriptures.
+
+## Language & religion
+
+Phake, or Tai Phake, is a Tai language spoken in the Buri Dihing Valley of Assam, India. It is closely related to Aiton, Khamti, Khamyang, and Turung. The language is tonal, monosyllabic, and has its own writing system called *Lik-Tai*, shared with the Khamti and Tai Aiton peoples. *Lik-Tai* closely resembles the Northern Shan script of Myanmar, a variant of the Burmese script. The Tai Phake language has 10 vowel phonemes, 18 consonant phonemes, 2 semivowels, 3 diphthongs, and up to 13 consonant clusters. Tai Phake people are able to read Pali because they follow Theravada Buddhism.
+
+The Tai Phakes follow the Theravada sect of Buddhism alongside some old animistic beliefs. Their village elders use a written code called *thamchat* when deciding local matters, and the inner heart of the house is considered sacred.
+
+## Sources & further reading
+
+- Wikipedia, “Tai Phake people”: https://en.wikipedia.org/wiki/Tai_Phake_people
+- Wikipedia, “Tai Phake language”: https://en.wikipedia.org/wiki/Tai_Phake_language
+- No UNESCO Intangible Cultural Heritage inscription for this ethnic group was provided in the sources.
+- No museum catalogue records were provided in the sources.

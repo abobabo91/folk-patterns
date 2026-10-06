@@ -9,17 +9,13 @@ tags: [ethnography, central-asia]
 
 The Shughni, also known as the Shughnan, are an Iranian sub-ethnic group of Pamiris who reside in the Pamir Mountains of the Badakhshan region of Central Asia. They mostly live in Tajikistan, while minorities live in Afghanistan, Pakistan, and China. In Tajikistan, Shughni is spoken primarily in Gorno-Badakhshan, including the regional capital Khorog, and in Afghanistan in Badakhshan Province and Sheghnan. According to the 1980s data, about 50,000 Shughnis lived in GBAO; as of 1997, approximately 100,000 people spoke Shughni. The language is an Eastern Iranian language of the Pamiri subgroup. The sources document Shughni history, multilingualism, dialects, orthographic development, mountain agriculture, migration for work, and oral traditions.
 
-## Music & performance
-
- They mention oral traditions in Ghoron, but provide no information about their content, performance, or musical form.
-
 ## Festivals & rituals
 
- They mention oral traditions in Ghoron and conflicts involving Shughni communities.
+They mention oral traditions in Ghoron and conflicts involving Shughni communities.
 
 ## Foodways
 
- They state that the Shughani supplemented “scanty” resources in Shughnan, but provide no further information about food production or consumption.
+They state that the Shughani supplemented “scanty” resources in Shughnan, but provide no further information about food production or consumption.
 
 ## Oral tradition & literature
 

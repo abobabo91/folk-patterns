@@ -11,11 +11,11 @@ Moldovans, sometimes called Moldavians, are an ethnic group native to Moldova. T
 
 ## Music & performance
 
- The sources mention *Deşteaptă-te, române* (“Awaken thee, Romanian!”), which was the first anthem adopted by the independent Republic of Moldova, but provide no ethnographic account of its performance.
+The sources mention *Deşteaptă-te, române* (“Awaken thee, Romanian!”), which was the first anthem adopted by the independent Republic of Moldova, but provide no ethnographic account of its performance.
 
 ## Festivals & rituals
 
- The sources do record that Bessarabia joined the Kingdom of Romania in March 1918 following a vote of Sfatul Țării.
+The sources do record that Bessarabia joined the Kingdom of Romania in March 1918 following a vote of Sfatul Țării.
 
 ## Oral tradition & literature
 

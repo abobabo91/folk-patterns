@@ -9,13 +9,9 @@ tags: [ethnography, latin-america]
 
 The Puruhá are an Indigenous people of Ecuador whose traditional area in the Andean highlands includes much of Chimborazo Province and parts of Bolívar Province. Their early economy included subsistence crops, guinea-pig raising, and trade with the Inca before the Inca takeover of the Andean region in the 15th century. At the time of the Spanish invasion and conquest in the 16th century, their population may have been as high as 155,000. The Puruhá are significant to the region’s cultural history because their language became extinct, their communities experienced major demographic and social disruption after colonization, and their religious practices combined older mountain-centered beliefs with Catholic Christianity.
 
-## Music & performance
-
- The sources do mention *jambiri*, identified as medicine people or shamans, but they provide no information about musical or theatrical practices associated with them.
-
 ## Festivals & rituals
 
- They do document religious practices associated with the traditional religion: *jambiri* led it, and the people believed that gods were linked to mountains, which were sacred and dominated the skyline of the region. Offerings to the gods included tobacco and rum, practices described as typical of other Andean traditional religions as well.
+They do document religious practices associated with the traditional religion: *jambiri* led it, and the people believed that gods were linked to mountains, which were sacred and dominated the skyline of the region. Offerings to the gods included tobacco and rum, practices described as typical of other Andean traditional religions as well.
 
 The sources describe Catholic Christianity among the Puruhá as a syncretic faith. Many Puruhá gradually combined traditional ideas with their understanding and practice of Catholicism. In the 1960s, Protestant Evangelicalism became increasingly popular as an alternative to Catholicism. The sources connect this shift partly with opposition to alcohol: many Puruhá were attracted to the teetotalism of missionaries, and Evangelical missionaries were considered to emphasize healthy living.
 
@@ -27,7 +23,7 @@ The sources document an early Puruhá subsistence economy based on crops and the
 
 ## Oral tradition & literature
 
- They do state that the 1871 rebellion led by Fernando Daquilema has had legendary status in the history of Chimborazo Province among Indigenous peoples.
+They do state that the 1871 rebellion led by Fernando Daquilema has had legendary status in the history of Chimborazo Province among Indigenous peoples.
 
 ## Language & religion
 

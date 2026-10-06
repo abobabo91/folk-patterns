@@ -1,0 +1,73 @@
+---
+title: "Mahican"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Mahican, also called Mohican, are an Indigenous people of the Northeastern Woodlands who historically lived in the upper tidal Hudson River Valley, including the confluence of the Mohawk River near present-day Albany, and in western New England around the upper Housatonic River watershed. Their territory extended along the Hudson River, the eastern Mohawk River, the Hoosic River, and watersheds reaching toward Lake Champlain. Today, descendants are enrolled in the federally recognized Stockbridge Munsee Community in Wisconsin; another group lives with the Six Nations of the Grand River in Ontario, Canada. The Mahican language belongs to the Eastern Algonquian branch of the Algonquian language family. Their documented culture includes matrilineal clans, hereditary sachems, dispersed villages, longhouses, horticulture, hunting, fishing, and a history of movement shaped by warfare, disease, European trade, and land dispossession.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name the Turkey, Turtle, Wolf, and Bear clans.
+
+### Clothing & dress
+
+They record that Mahican society was divided into phratries associated with Turkey, Turtle, and Wolf, and that a potentially prominent Bear Clan existed.
+
+### Architecture
+
+Mahican villages generally followed a dispersed settlement pattern, with each community likely dominated by a single lineage or clan. Villages usually consisted of small clusters of small and mid-sized longhouses located along floodplains. During warfare, the Mahican built fortifications in defensive locations, including ridges, as places of retreat. A Moravian chapel was built for the Mahican people in 1743 at Shekomeko.
+
+### Ceramics, metalwork & everyday objects
+
+They describe cornfields, cultivated plants, gathered nuts, fruits, and roots, as well as hunting and fishing.
+
+## Music & performance
+
+The material on Mahican language includes an eighteenth-century manuscript dictionary compiled by Johann Schmick and linguistic materials collected by Truman Michelson and Morris Swadesh, but these records are not described as musical documentation.
+
+## Dance & theatre
+
+The sources mention that Papscanee Island was used for ceremonies by the Mahicans before its acquisition by Kiliaen Van Rensselaer in 1637.
+
+## Festivals & rituals
+
+They record several political, religious, and ceremonial events. A general council of sachems met regularly at Scodac, east of present-day Albany, to decide matters affecting the confederacy. The sources state that Papscanee Island was used for ceremonies before colonization.
+
+Mahican religious life changed through contact with Protestant and Moravian missionaries. In the 18th century, many Stockbridge Indians converted to Christianity while retaining certain traditions of their own. At Shekomeko, Maumauntissekun, also known as Shabash, and Wassamapah became associated with the Moravian mission. Shabash and two other Mahicans accompanied Henry Rauch to Bethlehem, Pennsylvania, and the three were baptized on 11 February 1742 at Oley, Pennsylvania. The Moravians built a chapel for the Mahican people in 1743.
+
+The sources also describe political and military gatherings involving neighboring peoples. In August 1775, the Six Nations staged a council fire near Albany. The Mahicans, who were not part of the Haudenosaunee Confederacy, sided with the Patriots and served at the Siege of Boston and the battles of Saratoga and Monmouth.
+
+## Foodways
+
+Mahican foodways centered on horticulture, gathering, hunting, and fishing. Women cultivated corn, varieties of squash, beans, sunflowers, and other crops from the Eastern Agricultural Complex. Communities also gathered and processed hickory nuts, butternuts, black walnuts, acorns, blueberries, raspberries, juneberries, groundnuts, wood lilies, and arrowroot.
+
+Men hunted turkeys, deer, elk, bears, and moose in the Taconics. Fishing supplied sturgeon, alewives, shad, eels, lamprey, and striped bass. The sources describe these foods as contributing to the Mahican diet.
+
+## Oral tradition & literature
+
+They do record Haudenosaunee oral tradition concerning a war between the Mohawks and an alliance of the Susquehannock and Algonquin sometime between 1580 and 1600, but this is not presented as a Mahican literary tradition.
+
+The Mahican language has been documented through materials collected by missionaries, linguists, and others. Johann Schmick compiled an eighteenth-century manuscript dictionary, and Truman Michelson and Morris Swadesh collected materials from surviving speakers in Wisconsin during the twentieth century. The last recorded documentation of Mahican was made in the 1930s. Preliminary efforts to revive Mahican began in 2017; present-day tribal members prefer the term “slumbering” to “extinct,” because elders have continued teaching children a limited number of words and phrases.
+
+## Language & religion
+
+Mahican, also known as Mahican, belonged to the Eastern Algonquian subgroup of the Algonquian language family and the Algic language family. It was spoken in present-day eastern New York state and Vermont. The sources identify two dialects, Moravian and Stockbridge, which emerged after 1740 through aggregations resulting from the dislocation of Mahican and other groups.
+
+The Stockbridge dialect developed at Stockbridge, Massachusetts, among New York Mahican and members of other linguistic groups, including Wappinger, Housatonic, and Wawyachtonoc. The Moravian dialect arose from population aggregations centered at Bethlehem, Pennsylvania. The Mahican language became extinct in the early twentieth century according to one source, while another states that the last semi-proficient speaker died in the 1930s and that tribal members describe the language as slumbering.
+
+Mahican villages were governed by hereditary sachems advised by a council of clan elders, and society was matrilineal. Christianity became influential through Protestant and Moravian missionaries, while the Stockbridge Indians retained certain traditions of their own.
+
+## Sources & further reading
+
+- Hendrick Aupaumut, “History of the Muh-he-con-nuk Indians,” in *American Indian Nonfiction, An Anthology of Writings, 1760s–1930s*, University of Oklahoma Press, 1990.
+- William A. Starna, *From Homeland to New Land: A History of the Mahican Indians, 1600–1830*, University of Nebraska Press, 2013.
+- T. J. Brasser, “Mahican,” in Bruce G. Trigger, ed., *Northeast*, *Handbook of North American Indians*, vol. 15, Smithsonian Institution, 1978.
+- Carl Masthay, ed., *Schmick’s Mahican Dictionary*, American Philosophical Society.
+- *Mohicans*: https://en.wikipedia.org/wiki/Mohicans
+- *Mahican language*: https://en.wikipedia.org/wiki/Mahican_language

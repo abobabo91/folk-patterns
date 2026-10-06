@@ -17,7 +17,7 @@ The Cahuilla, also known as *’Ivilluwenetem*, are a Native American people of 
 
 ### Clothing & dress
 
- They state that palm leaves were used to make sandals. The mythology source says that *Kutya’i*, a spirit of wind, steals clothing. The sources also mention that Cahuilla men hunted deer and rabbits.
+They state that palm leaves were used to make sandals. The mythology source says that *Kutya’i*, a spirit of wind, steals clothing. The sources also mention that Cahuilla men hunted deer and rabbits.
 
 ### Architecture
 
@@ -25,11 +25,11 @@ The Cahuilla used palm leaves as roofing thatch for dwellings. In connection wit
 
 ### Ceramics, metalwork & everyday objects
 
- They record the use of palm leaves for baskets, sandals, and roofing thatch, and they mention bows and arrows in the creation narrative: Mukat taught his people the art of fighting with a bow and arrow. No catalogue records of museum objects were supplied.
+They record the use of palm leaves for baskets, sandals, and roofing thatch, and they mention bows and arrows in the creation narrative: Mukat taught his people the art of fighting with a bow and arrow. No catalogue records of museum objects were supplied.
 
 ### Jewelry & body adornment
 
- They mention clothing only in the context of the spirit Kutya’i, who steals it.
+They mention clothing only in the context of the spirit Kutya’i, who steals it.
 
 ## Music & performance
 
@@ -37,7 +37,7 @@ The sources mention Cahuilla bird songs and state that traditional bird songs we
 
 ## Dance & theatre
 
- They mention mourning ceremonies, funerary ritual, initiatory rites during puberty, and bird songs.
+They mention mourning ceremonies, funerary ritual, initiatory rites during puberty, and bird songs.
 
 ## Festivals & rituals
 

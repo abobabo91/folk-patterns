@@ -43,14 +43,6 @@ Kumukh was famed for its jewelers and coppersmiths, while Balkar was known for c
 
 Kumukh was famed for its jewelers.
 
-## Music & performance
-
- They mention a Lak newspaper and broadcasting station, but provide no description of music transmitted through them.
-
-## Dance & theatre
-
- Tsovkra is identified as a village known for acrobats, but the sources provide no account of acrobatic performance, choreography, or theatrical context.
-
 ## Festivals & rituals
 
 The sources describe religious and life-cycle institutions. Most Laks believe in Sunni Islam of the Shafi'i school. Sunni Islam is described as encouraging group solidarity through assistance with work and housing, marriage arrangements, payment of the kalim, maintenance of burial societies, and dispute resolution. The first mosque of the Lak people was built in 777–778 in Kumukh. Shamkhals of Kumukh embraced Islam at the end of the 13th century, and Kumukh became a gazi-center in the 14th century.
@@ -61,7 +53,7 @@ Traditional Lak economy and diet were shaped by mountainous and dry lands. Meat 
 
 ## Oral tradition & literature
 
- They do preserve historical statements about Lak self-designations and expressions, including *zhu Lak buru* (“we are Lak”), *zhu Lakral khalq buru* (“we are Lak people”), and *Lakku maz* (“Lakian language”). These expressions are presented as evidence concerning ethnonym, language, and place names rather than as an oral-literary tradition.
+They do preserve historical statements about Lak self-designations and expressions, including *zhu Lak buru* (“we are Lak”), *zhu Lakral khalq buru* (“we are Lak people”), and *Lakku maz* (“Lakian language”). These expressions are presented as evidence concerning ethnonym, language, and place names rather than as an oral-literary tradition.
 
 ## Language & religion
 

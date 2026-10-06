@@ -17,7 +17,7 @@ Boat Dwellers traditionally lived on boats and junks. In Hong Kong, Walter Schof
 
 ## Music & performance
 
- The article identifies Sinn Sing Hoi as a composer from Macau and mentions a poem by the Chinese poet Wu Li about Boat Dwellers supplying fish to the Portuguese.
+The article identifies Sinn Sing Hoi as a composer from Macau and mentions a poem by the Chinese poet Wu Li about Boat Dwellers supplying fish to the Portuguese.
 
 ## Festivals & rituals
 

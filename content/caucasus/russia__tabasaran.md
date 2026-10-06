@@ -17,8 +17,6 @@ Tabasarans are a Lezgin sub-ethnic group native predominantly to Tabasaransky di
 
 **Woolen clothes** are also identified as a domestic industry.
 
-No other documented Tabasaran pattern-bearing textile traditions are described in the supplied sources.
-
 ### Clothing & dress
 
 The sources mention woolen clothes as one of the domestic industries associated with Tabasaran traditional economy.
@@ -29,13 +27,13 @@ The sources mention woodworking as a domestic industry and identify agriculture,
 
 ## Music & performance
 
- No UNESCO Intangible Cultural Heritage inscription concerning this ethnic group is included in the supplied material.
+No UNESCO Intangible Cultural Heritage inscription concerning this ethnic group is included in the supplied material.
 
 ## Festivals & rituals
 
 The vast majority of Tabasarans profess Sunni Islam and belong to the Shafi'i school. Elements originating from pre-Islamic Tabasaran beliefs have been preserved in contemporary society, including deity names and an annual spring celebration known as *Elbetsan*. The source compares Elbetsan with Iranian *Nowruz* and Lezgian *Yaran-Suvar*.
 
- They state that Tabasarans were converted to Islam at a fairly early date and that Arab historians referred to their land as “Tabarstan,”.
+They state that Tabasarans were converted to Islam at a fairly early date and that Arab historians referred to their land as “Tabarstan,”.
 
 ## Foodways
 
@@ -43,9 +41,9 @@ The sources do state that the traditional economy was based on agriculture and a
 
 ## Oral tradition & literature
 
- They do identify Zumrud Khanmagomedova as the first Tabasaran woman to receive a higher education and the first Tabasaran poetess.
+They do identify Zumrud Khanmagomedova as the first Tabasaran woman to receive a higher education and the first Tabasaran poetess.
 
- They state that Tabasaran has a literary language based on the Southern dialect and provide several sample sentences, including “You are falling,” “I love you,” “Who are you?,” “How are you?,” “I'll come tomorrow,” and “I'll be back.”
+They state that Tabasaran has a literary language based on the Southern dialect and provide several sample sentences, including “You are falling,” “I love you,” “Who are you?,” “How are you?,” “I'll come tomorrow,” and “I'll be back.”
 
 ## Language & religion
 

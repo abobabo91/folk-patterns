@@ -11,7 +11,7 @@ The Siraya are a Taiwanese indigenous ethnic group and Plains Indigenous people 
 
 ## Music & performance
 
- The Siraya language article records that a group of Siraya children in Sinhua District of Tainan are able to speak and sing in Siraya as part of a cultural and language revitalization movement.
+The Siraya language article records that a group of Siraya children in Sinhua District of Tainan are able to speak and sing in Siraya as part of a cultural and language revitalization movement.
 
 ## Festivals & rituals
 

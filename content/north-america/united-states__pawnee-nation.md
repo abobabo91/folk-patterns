@@ -17,7 +17,7 @@ The Pawnee, also known by their endonym *Chatiks si chatiks*, are an Indigenous 
 
 ### Clothing & dress
 
- They state that buffalo skins were processed for clothing and accessories, storage bags, foot coverings, fastening ropes, and ties. During the Morning Star ritual, a scaffold was constructed from sacred woods and leathers from different animals. The sources also describe an earlier account in which Quivirans were “nearly naked,” but this is not presented as a general description of Pawnee dress.
+They state that buffalo skins were processed for clothing and accessories, storage bags, foot coverings, fastening ropes, and ties. During the Morning Star ritual, a scaffold was constructed from sacred woods and leathers from different animals. The sources also describe an earlier account in which Quivirans were “nearly naked,” but this is not presented as a general description of Pawnee dress.
 
 ### Architecture
 
@@ -27,21 +27,21 @@ A hole in the center served as both chimney and smoke vent and as a skylight. Th
 
 ### Ceramics, metalwork & everyday objects
 
- They describe household and hunting materials including buffalo meat, skins, and bones, which women processed for various uses. Buffalo skins became clothing, accessories, storage bags, and foot coverings; they were also used for fastening ropes and ties. Lodge construction used posts, horizontal beams, willow withes, thatch, earth, mats, and buffalo-skin doors. Sacred bundles included materials such as an ear of sacred corn.
+They describe household and hunting materials including buffalo meat, skins, and bones, which women processed for various uses. Buffalo skins became clothing, accessories, storage bags, and foot coverings; they were also used for fastening ropes and ties. Lodge construction used posts, horizontal beams, willow withes, thatch, earth, mats, and buffalo-skin doors. Sacred bundles included materials such as an ear of sacred corn.
 
 ### Jewelry & body adornment
 
- In the account of Coronado’s visit to Quivira, a copper pendant is described as the only evidence of wealth discovered there.
+In the account of Coronado’s visit to Quivira, a copper pendant is described as the only evidence of wealth discovered there.
 
 ## Music & performance
 
- They describe ceremonies conducted by Pawnee priests using sacred bundles and materials with symbolic value. Religious ceremonies were connected with maintaining the balance of nature and the Pawnee relationship with gods and spirits. The sources also state that Pawnee cosmology gave a central role to the stars and that crops were planted according to their positions.
+They describe ceremonies conducted by Pawnee priests using sacred bundles and materials with symbolic value. Religious ceremonies were connected with maintaining the balance of nature and the Pawnee relationship with gods and spirits. The sources also state that Pawnee cosmology gave a central role to the stars and that crops were planted according to their positions.
 
 The Morning Star ritual involved a sequence of prescribed actions, prayers, a procession, and the participation of men and boys from the village. The preparations took four days. Most of the ceremony took place in the earth lodge of the visionary, while the wider village participated in actions surrounding the scaffold. These materials do not identify songs, instruments, melodies, or dance forms associated with the ceremony.
 
 ## Dance & theatre
 
- They describe processions and other public actions connected with the Morning Star ritual, including the accompaniment of a captive girl from the village to the scaffold by men and boys. The account does not identify this as a dance or theatrical performance.
+They describe processions and other public actions connected with the Morning Star ritual, including the accompaniment of a captive girl from the village to the scaffold by men and boys. The account does not identify this as a dance or theatrical performance.
 
 ## Festivals & rituals
 
@@ -61,7 +61,7 @@ Buffalo hunting also shaped Pawnee foodways. After successful kills, women slice
 
 ## Oral tradition & literature
 
- They do describe a creation account in which the Morning Star and Evening Star gave birth to the first Pawnee woman, while the first Pawnee man was the offspring of the Moon and the Sun. The Pawnee understood themselves as descendants of the stars, and this cosmology shaped daily and spiritual life.
+They do describe a creation account in which the Morning Star and Evening Star gave birth to the first Pawnee woman, while the first Pawnee man was the offspring of the Moon and the Sun. The Pawnee understood themselves as descendants of the stars, and this cosmology shaped daily and spiritual life.
 
 The sources also describe the Morning Star ritual through accounts of visionary dreams, priests, sacred actions, prayers, and the belief that the ceremony renewed life. They name Knife Chief and Petalesharo as Skidi leaders who opposed the old rite; Petalesharo cut loose a Comanche captive from the scaffold in 1817 and carried her to safety.
 

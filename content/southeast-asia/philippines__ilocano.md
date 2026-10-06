@@ -37,7 +37,7 @@ The sources also mention literary duels called *bucanegan*. These are presented 
 
 ## Festivals & rituals
 
- They do describe several life-cycle contexts in which *basi* was culturally important. Basi, a sugarcane-based alcoholic beverage, was integral to rituals surrounding childbirth, marriage, and death. Its production was also a vital industry in Ilocos.
+They do describe several life-cycle contexts in which *basi* was culturally important. Basi, a sugarcane-based alcoholic beverage, was integral to rituals surrounding childbirth, marriage, and death. Its production was also a vital industry in Ilocos.
 
 The sources describe early Ilocano religious life as animistic and polytheistic, with the belief that *anitos*, or spirits, resided in the natural environment. Named figures in the Ilocano belief system included Buni, the god of the earth; Parsua, the creator; and Apo Langit, the lord of heaven. Regional variations developed because Ilocano settlements were dispersed, and Ilocano religious traditions were influenced by Cordillerans, Tagalogs, and Chinese culture.
 

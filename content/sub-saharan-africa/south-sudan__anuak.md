@@ -13,15 +13,11 @@ The Anyuak, also known as Anyuaa and Anywaa, are a Luo Nilotic ethnic group livi
 
 ### Architecture
 
- They state that Anuak villages are tightly knit and largely self-contained, and that many Anuak people establish temporary villages in good fishing areas.
-
-## Music & performance
-
- The cited further reading includes *The Anuak Legacy: Music & Culture*, but the supplied material gives no description of the music or performance practices themselves.
+They state that Anuak villages are tightly knit and largely self-contained, and that many Anuak people establish temporary villages in good fishing areas.
 
 ## Festivals & rituals
 
- They do describe religious practices associated with traditional Anuak religion: some villages had “holy” trees, and traditional belief placed emphasis on an almighty spirit known as Jwøk. Anuak philosophy stated that there were no “God-men,” and village Headmen could be removed if the people considered their conduct unsatisfactory or dictatorial.
+They do describe religious practices associated with traditional Anuak religion: some villages had “holy” trees, and traditional belief placed emphasis on an almighty spirit known as Jwøk. Anuak philosophy stated that there were no “God-men,” and village Headmen could be removed if the people considered their conduct unsatisfactory or dictatorial.
 
 ## Foodways
 
@@ -29,7 +25,7 @@ Anuak livelihoods are based substantially on agriculture, hunting, fishing, past
 
 ## Oral tradition & literature
 
- They identify several works concerned with Anuak history, religion, language, social structures, political authority, and art, including Conradin Perner’s eight-volume *The Anyuak: Living on Earth in the Sky* and David C. Osterlund’s *The Anuak Legacy: Music & Culture*. The supplied material does not describe the oral contents of these works or contemporary literary preservation efforts.
+They identify several works concerned with Anuak history, religion, language, social structures, political authority, and art, including Conradin Perner’s eight-volume *The Anyuak: Living on Earth in the Sky* and David C. Osterlund’s *The Anuak Legacy: Music & Culture*. The supplied material does not describe the oral contents of these works or contemporary literary preservation efforts.
 
 ## Language & religion
 

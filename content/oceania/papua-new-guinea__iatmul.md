@@ -33,7 +33,7 @@ The sources identify male initiation, men’s houses, art, totemic systems, and 
 
 ## Festivals & rituals
 
- They do describe a ritual called *naven*, male initiation, and ritual performances involving *tsagi*. No dates, festival seasons, or annual observances are supplied.
+They do describe a ritual called *naven*, male initiation, and ritual performances involving *tsagi*. No dates, festival seasons, or annual observances are supplied.
 
 Iatmul origin traditions begin with a primal sea. A wind stirred waves, land surfaced, and a large pit opened from which emerged the first generation of ancestral spirits and culture-heroes. The ancestors then undertook mythic-historic migrations. Where they travelled, land appeared, and through naming they created the features of the world, including trees, mountains, stars, winds, rains, tributaries, villages, and actions.
 

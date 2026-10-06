@@ -15,7 +15,7 @@ The Bahnar play many traditional musical instruments, including ensembles of pit
 
 ## Dance & theatre
 
-The sources mention group dancing in connection with occasions when Bahnar musical instruments are played. No theatrical tradition is documented in the sources used.
+The sources mention group dancing in connection with occasions when Bahnar musical instruments are played.
 
 ## Festivals & rituals
 

@@ -37,7 +37,7 @@ The sources describe wooden furniture, household goods, balcony decoration, wood
 
 ### Jewelry & body adornment
 
- They state that valiha players traditionally allowed their fingernails to grow long for plucking strings, and that, from the mid-19th century, long fingernails became symbolic of Merina aristocratic status.
+They state that valiha players traditionally allowed their fingernails to grow long for plucking strings, and that, from the mid-19th century, long fingernails became symbolic of Merina aristocratic status.
 
 ## Music & performance
 

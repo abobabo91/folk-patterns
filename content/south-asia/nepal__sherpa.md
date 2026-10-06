@@ -29,7 +29,7 @@ When a son marries and has children, the community may help build a new house. N
 
 ### Ceramics, metalwork & everyday objects
 
- They mention ritual objects kept in shrine rooms and an embossed silver buckle called a *kyetig*, used to fasten women’s aprons. The sources also describe the *namdok*, a pouch formed by tying a chuba with a kara.
+They mention ritual objects kept in shrine rooms and an embossed silver buckle called a *kyetig*, used to fasten women’s aprons. The sources also describe the *namdok*, a pouch formed by tying a chuba with a kara.
 
 ## Music & performance
 
@@ -39,7 +39,7 @@ The *damian* is a stringed instrument in the lute family. It provides a strong r
 
 ## Dance & theatre
 
- They state that Sherpa social gatherings include singing and dancing after food is served.
+They state that Sherpa social gatherings include singing and dancing after food is served.
 
 ## Festivals & rituals
 
@@ -51,7 +51,7 @@ Village lamas preside over ceremonies and rituals. Shamans called *lhawa* and so
 
 ## Foodways
 
- They mention beer served at social gatherings, followed by food, singing, and dancing. At community parties, hospitality is expected to be reciprocated. Manipulating neighbours into cooperation by hosting such a party is called *Yangdzi*.
+They mention beer served at social gatherings, followed by food, singing, and dancing. At community parties, hospitality is expected to be reciprocated. Manipulating neighbours into cooperation by hosting such a party is called *Yangdzi*.
 
 ## Oral tradition & literature
 

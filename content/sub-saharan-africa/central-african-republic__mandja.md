@@ -11,7 +11,7 @@ The Mandja, also known as Mandjia, Mandija, or Manja, are an ethnic group found 
 
 ## Oral tradition & literature
 
- The linguistic source cites *Hârâ nɛ mɛ̈ yɔ̂ rɔ̂ nû mandja*—“Lire et écrire en mandja”—as a work concerning reading and writing in Mandja, but the supplied material does not describe its contents beyond that bibliographic information.
+The linguistic source cites *Hârâ nɛ mɛ̈ yɔ̂ rɔ̂ nû mandja*—“Lire et écrire en mandja”—as a work concerning reading and writing in Mandja, but the supplied material does not describe its contents beyond that bibliographic information.
 
 ## Language & religion
 

@@ -9,13 +9,9 @@ tags: [ethnography, latin-america]
 
 The Sanapaná are a nomadic people of the lower Gran Chaco of western Paraguay. Following the introduction of Mennonite settlements in the central Chaco in the 1930s, many nomadic groups became semi-settled near the Mennonites. The Sanapaná and Lengua were settled at La Esperanza mission, southeast of Filadelfia, near the Pan-American Highway. Sanapaná belongs to the Mascoian, or Enlhet-Enenlhet, language group. The Sanapaná call themselves *Nenhlet*, meaning “the people.” Their cultural documentation in the sources concerns mobility and settlement, multilingual interaction, and the continued transmission and use of their language.
 
-## Music & performance
-
- They state that the language is used in everyday life, including religious contexts, but provide no description of musical practice.
-
 ## Festivals & rituals
 
- They report only that Sanapaná is used in religious contexts.
+They report only that Sanapaná is used in religious contexts.
 
 ## Language & religion
 

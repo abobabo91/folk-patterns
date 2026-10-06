@@ -13,7 +13,7 @@ The Normans (Norman: *Normaunds*; French: *Normands*; Latin: *Nortmanni* or *Nor
 
 ### Clothing & dress
 
- The Wikipedia source mentions the “garb of war” in a historical characterization of the Normans.
+The Wikipedia source mentions the “garb of war” in a historical characterization of the Normans.
 
 ### Architecture
 
@@ -21,7 +21,7 @@ Norman architecture is described as a distinctive cultural feature, especially R
 
 ### Ceramics, metalwork & everyday objects
 
- They mention military equipment in connection with the Norman campaign of 1107.
+They mention military equipment in connection with the Norman campaign of 1107.
 
 ## Music & performance
 
@@ -29,11 +29,11 @@ The Normans are noted for musical traditions. It also describes the Norman langu
 
 ## Festivals & rituals
 
- They do document religious and political changes associated with the settlement of Normandy. Rollo accepted baptism and conversion to Christianity and swore fealty to King Charles III after the treaty of Saint-Clair-sur-Epte. The descendants of the Vikings replaced the Norse religion with Catholicism and adopted the Christianity and language of the local population.
+They do document religious and political changes associated with the settlement of Normandy. Rollo accepted baptism and conversion to Christianity and swore fealty to King Charles III after the treaty of Saint-Clair-sur-Epte. The descendants of the Vikings replaced the Norse religion with Catholicism and adopted the Christianity and language of the local population.
 
 ## Foodways
 
- The Wikipedia material mentions hunger and cold in a historical characterization of Norman endurance, but gives no food traditions.
+The Wikipedia material mentions hunger and cold in a historical characterization of Norman endurance, but gives no food traditions.
 
 ## Oral tradition & literature
 

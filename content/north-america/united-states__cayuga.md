@@ -13,27 +13,23 @@ The Cayuga, or *Gayogo̱hó꞉nǫˀ*, are one of the five original constituent n
 
 ### Architecture
 
- They mention Cayuga longhouses only as institutions associated with the Lower Cayuga and Upper Cayuga dialects at Six Nations of the Grand River.
+They mention Cayuga longhouses only as institutions associated with the Lower Cayuga and Upper Cayuga dialects at Six Nations of the Grand River.
 
 ### Ceramics, metalwork & everyday objects
 
- The Pickering Treaty is described as requiring the United States government to send a gift of muslin fabric to the Haudenosaunee nations each year.
+The Pickering Treaty is described as requiring the United States government to send a gift of muslin fabric to the Haudenosaunee nations each year.
 
 ## Music & performance
 
- The sources do identify *Cayuga: Our Oral Legacy* as a language-related documentation project and mention Six Nations Polytechnic apps and study programs developed as part of Cayuga language revitalization.
+The sources do identify *Cayuga: Our Oral Legacy* as a language-related documentation project and mention Six Nations Polytechnic apps and study programs developed as part of Cayuga language revitalization.
 
 ## Festivals & rituals
 
- They do describe a dedication held on August 2, 1997, after the Cayuga Nation purchased land in Seneca Falls. Members of all the Haudenosaunee Confederacy nations were present, and elder women of the Cayuga Nation broke the ground and planted a pine tree as a symbol that the Cayuga people were still alive and wished to return to their home territory.
-
-## Foodways
-
- They state that the 1779 Sullivan Expedition destroyed crops and winter stores in Haudenosaunee homelands, but provide no description of Cayuga foodways.
+They do describe a dedication held on August 2, 1997, after the Cayuga Nation purchased land in Seneca Falls. Members of all the Haudenosaunee Confederacy nations were present, and elder women of the Cayuga Nation broke the ground and planted a pine tree as a symbol that the Cayuga people were still alive and wished to return to their home territory.
 
 ## Oral tradition & literature
 
- They do identify language revitalization work, including *Cayuga: Our Oral Legacy*, Cayuga teaching materials, study programs, and a 2024 grammar and dictionary of *Gayogo̱hó:nǫˀ*.
+They do identify language revitalization work, including *Cayuga: Our Oral Legacy*, Cayuga teaching materials, study programs, and a 2024 grammar and dictionary of *Gayogo̱hó:nǫˀ*.
 
 ## Language & religion
 

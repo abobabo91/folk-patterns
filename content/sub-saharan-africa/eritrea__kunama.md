@@ -11,11 +11,11 @@ The Kunama are an ethnic group native to Eritrea and northern Ethiopia. Most of 
 
 ## Music & performance
 
- The Kunama language has appeared in publications, including a translation of the Gospel of Mark first published in 1906.
+The Kunama language has appeared in publications, including a translation of the Gospel of Mark first published in 1906.
 
 ## Festivals & rituals
 
- They report that the Kunama traditionally worshipped a god called Anna and were ruled by a community of elders. Although some Kunama still practice traditional beliefs, most have adopted Islam or Christianity.
+They report that the Kunama traditionally worshipped a god called Anna and were ruled by a community of elders. Although some Kunama still practice traditional beliefs, most have adopted Islam or Christianity.
 
 ## Foodways
 

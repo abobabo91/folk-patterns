@@ -27,19 +27,19 @@ Urarina settlements are composed of multiple longhouse groups. These settlements
 
 ## Music & performance
 
- They do state that the Urarina have an elaborate animistic cosmological system based on ayahuasca shamanism and that men are esteemed for shamanic skills.
+They do state that the Urarina have an elaborate animistic cosmological system based on ayahuasca shamanism and that men are esteemed for shamanic skills.
 
 The sources mention a cassava-beer festival in an Urarina deluge myth. In that story, a deluge was produced by the urination of the daughter of the ayahuasca-god, giving rise to the chthonic world of spirits. This is presented as mythological narrative rather than as an account of a documented musical or festival performance.
 
 ## Festivals & rituals
 
- One Urarina deluge myth takes place on the occasion of a cassava-beer festival.
+One Urarina deluge myth takes place on the occasion of a cassava-beer festival.
 
 Urarina cosmology includes ayahuasca shamanism and the profoundly ritualized consumption of *Brugmansia suaveolens*. The sources also state that the Urarina have an elaborate animistic cosmological system. The sources mention brideservice, uxorilocal patterns of post-nuptial residence, debt peonage, and sororal polygyny as customary social practices.
 
 ## Foodways
 
- They mention cassava beer in connection with an Urarina deluge myth and identify horticulture as part of Urarina subsistence.
+They mention cassava beer in connection with an Urarina deluge myth and identify horticulture as part of Urarina subsistence.
 
 The Urarina are described as a semi-mobile hunting and horticultural society. The sources therefore identify hunting and horticulture as important subsistence practices.
 

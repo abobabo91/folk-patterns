@@ -1,0 +1,37 @@
+---
+title: "Jakaltek"
+subtitle: "Guatemala"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Jakaltek are a Maya people living alongside the border of the State of Chiapas in southern Mexico and the Department of Huehuetenango in northwestern Guatemala. Since pre-Columbian times, they have lived near the foothills of the Cuchumatán Mountains, mainly around the municipality of Jacaltenango. Jacaltenango is a governmental, religious, and market center on a plateau overlooking Mexico. The Jakaltek language, also known as *Poptiʼ*, is a Mayan language of the Qʼanjobalan or Qʼanjobʼalan-chujean branch. The community’s relative isolation helped preserve customs that have disappeared elsewhere, including the use of the blowgun for hunting small animals and birds and a belief system involving Naguals and Tonals. The people and language extend across the Mexico–Guatemala border.
+
+## Material culture
+
+### Architecture
+
+Jacaltenango is described as a town on a plateau overlooking Mexico and as a governmental, religious, and market center of the region.
+
+### Ceramics, metalwork & everyday objects
+
+They state that a few Jakaltek people still use the blowgun for hunting small animals and birds.
+
+## Music & performance
+
+Jakaltek-language programming is carried by the INPI radio station XEVFS, broadcasting from Las Margaritas, Chiapas.
+
+## Festivals & rituals
+
+They state that the Jakaltek maintain a belief system involving Naguals and Tonals, but provide no further description of its rituals or life-cycle practices.
+
+## Language & religion
+
+Jakaltek, also called Jakaltec, Jakalteko, Jacalteco, or *Poptiʼ*, is a Mayan language from the Qʼanjobalan or Qʼanjobʼalan-chujean branch. It is closely related to Qʼanjobʼal and Akatek and more distantly related to Tojol-abʼal, Chuj, and Mochoʼ. In Mexico it is also known as *Abʼxubʼal*. Jakaltek was spoken at the site of El Lagartero in present-day La Trinitaria in Chiapas, which was inhabited from 300 AD to 1400 AD. The language is spoken in communities in Chiapas and in municipalities of Huehuetenango, including Concepción Huista, Jacaltenango, Nentón, San Antonio Huista, and Santa Ana Huista. It has Eastern and Western varieties, with complex agglutinative morphology, ergative–absolutive case alignment, verb–subject–object syntax, and four systems of noun and numeral classifiers. The sources mention Naguals and Tonals.
+
+## Sources & further reading
+
+- [Jakaltek people — Wikipedia](https://en.wikipedia.org/wiki/Jakaltek_people)
+- [Jakaltek language — Wikipedia](https://en.wikipedia.org/wiki/Jakaltek_language)

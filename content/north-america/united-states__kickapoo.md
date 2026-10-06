@@ -13,31 +13,31 @@ The Kickapoo are an Algonquian-speaking Native American tribe and Indigenous peo
 
 ### Architecture
 
- They do identify the Kickapoo Indian Reservation of Kansas, the Kickapoo Indian Reservation of Texas, and the reservation associated with the Kickapoo Tribe of Oklahoma.
+They do identify the Kickapoo Indian Reservation of Kansas, the Kickapoo Indian Reservation of Texas, and the reservation associated with the Kickapoo Tribe of Oklahoma.
 
 ### Ceramics, metalwork & everyday objects
 
- The Wikipedia article states that the 1819 treaty of Edwardsville involved an exchange for $3,000 worth of goods.
+The Wikipedia article states that the 1819 treaty of Edwardsville involved an exchange for $3,000 worth of goods.
 
 ## Music & performance
 
- The sources do identify Kickapoo whistled speech as a related topic and state that the Kickapoo in Mexico are known for their whistled speech. The language article also reports that texts, recordings, and a vocabulary of Kickapoo are available.
+The sources do identify Kickapoo whistled speech as a related topic and state that the Kickapoo in Mexico are known for their whistled speech. The language article also reports that texts, recordings, and a vocabulary of Kickapoo are available.
 
 ## Dance & theatre
 
- The sources mention the film *The Only Good Indian* (2009), directed by Greg Wilmott and starring Wes Studi, but describe it as a fictionalized account rather than a Kickapoo theatrical tradition.
+The sources mention the film *The Only Good Indian* (2009), directed by Greg Wilmott and starring Wes Studi, but describe it as a fictionalized account rather than a Kickapoo theatrical tradition.
 
 ## Festivals & rituals
 
- They do describe religious revivals among the Kansas Kickapoo during the 1820s and 1830s. Kennekuk combined Protestantism and Catholicism in his teaching and instructed his followers and white audiences to obey God’s commands.
+They do describe religious revivals among the Kansas Kickapoo during the 1820s and 1830s. Kennekuk combined Protestantism and Catholicism in his teaching and instructed his followers and white audiences to obey God’s commands.
 
 ## Foodways
 
- They state that, after relocation to Kansas, the Kickapoo focused more on farming so they could provide food for the rest of the tribe.
+They state that, after relocation to Kansas, the Kickapoo focused more on farming so they could provide food for the rest of the tribe.
 
 ## Oral tradition & literature
 
- They describe Kennekuk as a prominent, nonviolent spiritual leader among the Kickapoo and identify him as the “Kickapoo Prophet.” He led followers during the Indian Removal in the 1830s to their current tribal lands in Kansas and died there of smallpox in 1852. The language article states that texts, recordings, and a vocabulary of Kickapoo are available. The Kickapoo Nation’s School in Horton, Kansas, began a language-immersion program in 1985 for elementary school grades, and language-education efforts continue at most Kickapoo sites.
+They describe Kennekuk as a prominent, nonviolent spiritual leader among the Kickapoo and identify him as the “Kickapoo Prophet.” He led followers during the Indian Removal in the 1830s to their current tribal lands in Kansas and died there of smallpox in 1852. The language article states that texts, recordings, and a vocabulary of Kickapoo are available. The Kickapoo Nation’s School in Horton, Kansas, began a language-immersion program in 1985 for elementary school grades, and language-education efforts continue at most Kickapoo sites.
 
 ## Language & religion
 

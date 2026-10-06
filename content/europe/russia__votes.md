@@ -13,27 +13,27 @@ Votians, also referred to as Votes, Vots and Vods, are a Finnic ethnic group nat
 
 ### Architecture
 
- During fishing trips as far as the Finnish outer islands like Seskar, fishermen lived in wooden sleds called *pudka*.
+During fishing trips as far as the Finnish outer islands like Seskar, fishermen lived in wooden sleds called *pudka*.
 
 ### Ceramics, metalwork & everyday objects
 
- Fishing equipment included clubs, spears, seines, and wooden sleds called *pudka*.
+Fishing equipment included clubs, spears, seines, and wooden sleds called *pudka*.
 
 ## Music & performance
 
- The sources state that Votes were quite poorly educated and that only one Vote, Dmitri Tsvetkov, is known to have attended and graduated from a university. No music tradition is identified in the supplied material.
+The sources state that Votes were quite poorly educated and that only one Vote, Dmitri Tsvetkov, is known to have attended and graduated from a university. No music tradition is identified in the supplied material.
 
 ## Festivals & rituals
 
- They state that ancient Votic religion is not known well, although it is assumed to have been similar to other Finnic beliefs. Missionary efforts began in 1534 after Novgorod’s archbishop Macarius complained that Votes were still practicing pagan beliefs; monk Ilja destroyed old holy shrines and worshipping places. Conversion was slow, and priest Nikifor was later sent to continue this work. Votes gradually became devoted Christians.
+They state that ancient Votic religion is not known well, although it is assumed to have been similar to other Finnic beliefs. Missionary efforts began in 1534 after Novgorod’s archbishop Macarius complained that Votes were still practicing pagan beliefs; monk Ilja destroyed old holy shrines and worshipping places. Conversion was slow, and priest Nikifor was later sent to continue this work. Votes gradually became devoted Christians.
 
 ## Foodways
 
- They state that historically most Votes were farmers and that cattle, horses and geese were the most important livestock. Some people made their living from fishing. Slash and burn, called *sardo*, was practiced until the early 20th century. Seine fishing was practiced during the winter, and Votian fishing groups, called *artelli*, made trips as far as the Finnish outer islands like Seskar.
+They state that historically most Votes were farmers and that cattle, horses and geese were the most important livestock. Some people made their living from fishing. Slash and burn, called *sardo*, was practiced until the early 20th century. Seine fishing was practiced during the winter, and Votian fishing groups, called *artelli*, made trips as far as the Finnish outer islands like Seskar.
 
 ## Oral tradition & literature
 
- The earliest literary references to the Votes by their traditional name come from medieval Russian sources, where they are called Voď. Older Russian sources grouped them under the name Chudes with Estonians. The sources also mention that the Votian flag and coat of arms were developed between 2002 and 2005 within the activities of the Votian Cultural Society, and that VAĐĐA TODAY is an open project run by a non-governmental organization to popularize Votes’ culture among the Internet community.
+The earliest literary references to the Votes by their traditional name come from medieval Russian sources, where they are called Voď. Older Russian sources grouped them under the name Chudes with Estonians. The sources also mention that the Votian flag and coat of arms were developed between 2002 and 2005 within the activities of the Votian Cultural Society, and that VAĐĐA TODAY is an open project run by a non-governmental organization to popularize Votes’ culture among the Internet community.
 
 ## Language & religion
 

@@ -31,8 +31,6 @@ Music and Christianity are both connected with Toba Batak social and ceremonial 
 
 The sources mention Sigale Gale in connection with cultural demonstrations, performances, and festivities often held for tourists.
 
-No other named Toba Batak dance or dramatic tradition is documented in the sources used.
-
 ## Festivals & rituals
 
 The Toba Batak practice adat, the customary system called *Dalihan Na Tolu*, or “The Three Legged Stove.” Toba Batak adat traditions are incorporated into Christian ceremonies such as baptism, confirmation, marriage, and burial. Church hymns, psalms, and prayers are also used in traditional ethnic Toba Batak ceremonies.

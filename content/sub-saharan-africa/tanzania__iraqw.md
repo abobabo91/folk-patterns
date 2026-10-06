@@ -17,19 +17,15 @@ The Iraqw are associated in historical accounts with the Engaruka complex in Mon
 
 ### Ceramics, metalwork & everyday objects
 
- They describe irrigation structures at Engaruka, including stone-walled canals, dams, and furrows.
-
-## Music & performance
-
- The Iraqw people article mentions Saigilo as a prophet of Iraqw Folk Religion, but gives no information about music or performance associated with that religious tradition.
+They describe irrigation structures at Engaruka, including stone-walled canals, dams, and furrows.
 
 ## Festivals & rituals
 
- The Iraqw people article refers to Iraqw Folk Religion and identifies Saigilo as its prophet.
+The Iraqw people article refers to Iraqw Folk Religion and identifies Saigilo as its prophet.
 
 ## Foodways
 
- They do describe agriculture and animal husbandry as practices associated with the Iraqw and with related historical populations, and they characterize Iraqw agriculture as intensive and self-contained. No particular crop, preparation, or food tradition is specified.
+They do describe agriculture and animal husbandry as practices associated with the Iraqw and with related historical populations, and they characterize Iraqw agriculture as intensive and self-contained. No particular crop, preparation, or food tradition is specified.
 
 ## Oral tradition & literature
 

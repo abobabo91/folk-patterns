@@ -27,11 +27,11 @@ The *pelazon* ceremony includes black body painting, the drawing of a clan symbo
 
 ## Music & performance
 
- They do mention recordings of the Magütá, Miraña, and Murui, made to preserve oral histories and traditions of Indigenous groups in the Colombian Amazon. The sources also state that a weekday radio show is broadcast in Ticuna, Portuguese, and Spanish by the Latin American Ministries. No instrument names, musical forms, or performance occasions are provided.
+They do mention recordings of the Magütá, Miraña, and Murui, made to preserve oral histories and traditions of Indigenous groups in the Colombian Amazon. The sources also state that a weekday radio show is broadcast in Ticuna, Portuguese, and Spanish by the Latin American Ministries. No instrument names, musical forms, or performance occasions are provided.
 
 ## Dance & theatre
 
- The *pelazon* ceremony includes the requirement that the girl continuously jump over a fire, but the sources do not characterize this as a dance or theatrical performance.
+The *pelazon* ceremony includes the requirement that the girl continuously jump over a fire, but the sources do not characterize this as a dance or theatrical performance.
 
 ## Festivals & rituals
 

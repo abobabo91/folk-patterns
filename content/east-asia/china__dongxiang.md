@@ -23,17 +23,9 @@ Men’s traditional clothing includes buttoned robes and a broad waistband. The 
 
 Women wear embroidered outfits consisting of wide-sleeved shirts and trousers. Older women wear kerchiefs, while younger women tend to wear brightly decorated cotton caps and silk veils. On special occasions, women wear embroidered shoes with a medium heel.
 
-### Ceramics, metalwork & everyday objects
-
- They mention knives, snuff bottles and small bags as objects worn from men’s waistbands, but provide no information about their manufacture, decoration or cultural symbolism.
-
-## Music & performance
-
- They state that Dongxiang have a rich tradition of oral literature and use the Arabic alphabet, but provide no description of musical performance.
-
 ## Festivals & rituals
 
- They record that Dongxiang were converted to Islam in the 1340s by a missionary named Hamzeh.
+They record that Dongxiang were converted to Islam in the 1340s by a missionary named Hamzeh.
 
 ## Foodways
 

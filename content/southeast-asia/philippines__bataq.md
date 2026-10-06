@@ -17,15 +17,15 @@ The sources mention clothing materials only as goods received by the Batak throu
 
 ### Architecture
 
- They state that the Batak, once nomadic, have settled in small villages and that government efforts in the 1930s attempted to establish reservations in the coastal plains.
+They state that the Batak, once nomadic, have settled in small villages and that government efforts in the 1930s attempted to establish reservations in the coastal plains.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention bows and arrows, spears, dogs, and homemade guns as means of capturing animals, and clothing materials, rice, and other goods as items received through trade.
+They mention bows and arrows, spears, dogs, and homemade guns as means of capturing animals, and clothing materials, rice, and other goods as items received through trade.
 
 ## Music & performance
 
- They state that shamans undergo spiritual possession in order to communicate with spirits and heal the sick, but provide no musical details about these practices.
+They state that shamans undergo spiritual possession in order to communicate with spirits and heal the sick, but provide no musical details about these practices.
 
 ## Festivals & rituals
 
@@ -41,12 +41,11 @@ A few Batak cultivate rice, corn, sweet potato, and cassava. The sources also st
 
 ## Language & religion
 
- They describe the Batak religious system as animism: spirits reside in nature, and the *Panya'en* are malevolent while the *Diwata* are generally benevolent but capricious. Regular offerings are made to these spirits. Shamans undergo spiritual possession in order to communicate with spirits and heal the sick.
+They describe the Batak religious system as animism: spirits reside in nature, and the *Panya'en* are malevolent while the *Diwata* are generally benevolent but capricious. Regular offerings are made to these spirits. Shamans undergo spiritual possession in order to communicate with spirits and heal the sick.
 
 The sources state that rapid depopulation, restricted forest access, sedentary living, and immigration have caused severe cultural disruption. Very few Batak now marry other Batak, and children of marriages with neighboring groups often do not follow Batak cultural ways. The sources describe the Batak as being absorbed into a more diffuse group of upland indigenous peoples, with the loss of tribal identities, spirituality, and culture debated alongside the question of whether they continue to exist as a distinct ethnic entity.
 
 ## Sources & further reading
 
 - Wikipedia, “Batak people (Philippines),” https://en.wikipedia.org/wiki/Batak_people_(Philippines)
-- UNESCO Intangible Cultural Heritage inscriptions: the sources used identify no UNESCO inscriptions for this group or country.
 - The museum catalogue records supplied for this atlas contain no objects for the group.

@@ -21,7 +21,7 @@ Ancient Susu houses were typically made from mud or cement blocks, depending on 
 
 ### Ceramics, metalwork & everyday objects
 
- They do identify blacksmithing as an old Susu association and describe smiths, carpenters, jewelers, and leatherworkers as artisan castes. Rice fields, fishing, gardening, palm nuts, trade, and salt production are documented livelihoods.
+They do identify blacksmithing as an old Susu association and describe smiths, carpenters, jewelers, and leatherworkers as artisan castes. Rice fields, fishing, gardening, palm nuts, trade, and salt production are documented livelihoods.
 
 ### Jewelry & body adornment
 

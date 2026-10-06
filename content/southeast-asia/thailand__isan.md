@@ -21,7 +21,7 @@ The sources mention houses, roads, railways, shanty towns, and slums. The region
 
 ### Ceramics, metalwork & everyday objects
 
- They mention palm-leaf manuscripts, monastery libraries, Thai-script manuscripts, and written materials.
+They mention palm-leaf manuscripts, monastery libraries, Thai-script manuscripts, and written materials.
 
 ## Music & performance
 
@@ -35,7 +35,7 @@ The sources mention local dances native to the area and student clubs that promo
 
 ## Festivals & rituals
 
- They mention festivals as contexts in which passages from old literature were read, and they state that traveling troupes performed old stories set to song. The supplied material does not identify festival names, dates, agricultural ceremonies, or ritual objects.
+They mention festivals as contexts in which passages from old literature were read, and they state that traveling troupes performed old stories set to song. The supplied material does not identify festival names, dates, agricultural ceremonies, or ritual objects.
 
 The sources describe Buddhist institutions and religious change. During the integration of Isan into Siam, the state introduced the Siamese religious sangha and Buddhist calendar instead of the Lao sangha and religious calendar, identified as *hit sipsong khong sipsii*. During Thaification, ancient Lao Buddhist manuscripts and records were burned or destroyed, monastery libraries were seized, and old Lao religious texts were replaced by Thai-script, Thai-centric manuscripts.
 

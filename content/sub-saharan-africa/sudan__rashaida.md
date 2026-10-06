@@ -37,7 +37,7 @@ Rashaida tents used for residence and hospitality are mostly made from goatskin 
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention the groom’s ceremonial sword, used during wedding dances and gifted by his parents, as well as knives used in hospitality: when an animal is killed for a meal, the knife is presented to the guests.
+They do mention the groom’s ceremonial sword, used during wedding dances and gifted by his parents, as well as knives used in hospitality: when an animal is killed for a meal, the knife is presented to the guests.
 
 ### Jewelry & body adornment
 
@@ -57,7 +57,7 @@ The sources name dancing as part of the seven-day traditional Rashaida wedding a
 
 ## Festivals & rituals
 
- They do describe a seven-day wedding as a major life-cycle ritual. During the first six days, the bride is concealed and cannot see anyone during daylight except her mother, sisters and her father’s other wives. She wears the *mangheb*, the young girl’s veil. On the seventh day, she joins her husband in daylight for the festivities and begins public life as his wife.
+They do describe a seven-day wedding as a major life-cycle ritual. During the first six days, the bride is concealed and cannot see anyone during daylight except her mother, sisters and her father’s other wives. She wears the *mangheb*, the young girl’s veil. On the seventh day, she joins her husband in daylight for the festivities and begins public life as his wife.
 
 The bride wears a specific *burqa* on the seventh day. It is given to her by her mother and decorated with metallic thread and pendants gifted by her husband. She continues wearing this wedding burqa for a year. She may uncover herself outside the presence of her family on the seventh night, after she is married to her husband; this is when he sees her uncovered for the first time.
 

@@ -1,0 +1,64 @@
+---
+title: "Tetum"
+subtitle: "Timor-Leste"
+region: "Southeast Asia"
+tags: [ethnography, southeast-asia]
+---
+
+## Overview
+
+The Tetun, also known as Belu in Indonesia, are an ethnic group indigenous to the island of Timor. They inhabit Belu Regency and Malaka Regency in Indonesia and most of Timor-Leste; they are also found in Jakarta. The Malayo-Polynesian Tetun are described as the largest ethnic group in East Timor, with approximately 450,000 people, and the second largest in West Timor, with 500,000. Their language belongs to the Austronesian family. According to the sources, Tetun communities occupy the centre of the island on both sides of the border and the southeastern coast. Their folk-cultural profile includes the Likurai dance, distinctive wedding clothing, tattoos associated with social status, matriarchal organisation among Tetun Terik Fehan, and beliefs concerning sacred worlds and the origins of humanity.
+
+## Material culture
+
+### Clothing & dress
+
+Tetun brides and grooms traditionally wear clothing equipped with headdresses, fabrics, necklaces, studs, and other jewellery. The sources describe these garments as bearing distinctive patterns and meanings.
+
+### Architecture
+
+They state more generally that East Timorese architecture and landscaping combine Portuguese and indigenous Timorese influences, and that Timor-Leste retains indigenous and colonial architecture. They also state that the country does not yet have a policy to conserve its architecture and landscapes.
+
+### Jewelry & body adornment
+
+Married and formerly married Tetun women traditionally wear tattoos with particular motifs that symbolise social status. Tetun brides and grooms wear necklaces, studs, and other jewellery with distinctive patterns and meanings, together with traditional headdresses and fabrics.
+
+## Music & performance
+
+The Tetum culture source includes a Music heading but provides no content under it.
+
+## Dance & theatre
+
+**Likurai** is identified as a traditional dance of the Tetun ethnic group. Women perform it to welcome guests or fighters returning from war.
+
+## Festivals & rituals
+
+Wedding dress is documented: brides and grooms wear traditional clothing with headdresses, fabrics, necklaces, studs, and other jewellery whose patterns and meanings are described as distinctive.
+
+Among the Tetun Terik of Viqueque, beliefs concerning the origins of humanity describe two orifices or vaginas, *Mahuma* and *Lequi Bui*, from which the first humans emerged by climbing sacred tendrils. In this account, the house door is traditionally referred to as the vagina, while the interior is called WOMB, the women’s room. The universe is divided into an underworld and an upper world connected through a woman’s vagina. The lower or sacred world is feminine and dominated by women, while the secular and masculine upper world is occupied by men. According to these beliefs, the two worlds must remain united because otherwise infertility, disease, and death threaten.
+
+## Foodways
+
+The Tetum culture source states generally that the cuisine of Timor-Leste includes pork, fish, basil, tamarind, legumes, corn, rice, root vegetables, and tropical fruit, and that it reflects Southeast Asian and Portuguese influences.
+
+## Oral tradition & literature
+
+The sources state that stories passed down from generation to generation describe the Tetun people as originally coming from Malacca on the Malay Peninsula before moving to several places and eventually arriving in the eastern part of Timor. This story is also presented as the origin of the founding of the Kingdom of Malaka in West Timor, described as one of the kingdoms led by the Tetun ethnic group.
+
+Among the Tetun Terik of Viqueque, beliefs about *Mahuma* and *Lequi Bui* explain the emergence of the first humans and the relationship between the sacred lower world and the masculine upper world.
+
+## Language & religion
+
+Tetun is an Austronesian language spoken on Timor. The sources identify two principal forms: Tetun Terik, described as a more indigenous variety, and Tetun Prasa, also called Tetun Dili, which developed in Dili and was heavily influenced by Portuguese. Tetun has four described dialects: Tetun-Dili or Tetun-Prasa, Tetun-Terik, Tetun-Belu, and Nana’ek. Tetun Prasa is an official language of Timor-Leste alongside Portuguese and is also spoken in Belu Regency and Malaka Regency.
+
+The sources state that Tetun became the liturgical language of the Roman Catholic Church during the Indonesian occupation and later became an official language of Timor-Leste. Timor-Leste is nominally Catholic, although the secular republic permits freedom of religion and traditional beliefs are also described. Among Tetun Terik, sacred and secular worlds are associated with feminine and masculine domains, respectively.
+
+## Sources & further reading
+
+- David Hicks, *A maternal religion, the role of women in Tetun myth and ritual*, Special Report no. 22, Monograph series of Southeast Asia, DeKalb Center for Southeast Asian Studies, Northern Illinois University, 1984.
+- B. A. G. Vroklage, *Ethnographie der Belu in Zentral-Timor*, Band 1, Leiden, 1952.
+- W. Woertelboer, “Zur Sprache und Kultur der Belu (Timor),” *Anthropos* 50.1, 1955, pp. 155–200.
+- Geoffrey Hull, *Standard Tetum-English Dictionary*, 2nd ed., Allen & Unwin Publishers.
+- [Tetun people](https://en.wikipedia.org/wiki/Tetun_people)
+- [Tetum culture](https://en.wikipedia.org/wiki/Tetum_culture)
+- [Tetum language](https://en.wikipedia.org/wiki/Tetum_language)

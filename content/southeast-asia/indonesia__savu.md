@@ -17,7 +17,7 @@ The Savunese people, also known as Sawu, Sabu, or Hawu, are an ethnic group inha
 
 ### Clothing & dress
 
- They state only that dancers in the **Ledo Hawu** dance wear particular items: men wear bells, while participants in the **dho’a** dance wear *kedhu'e*, beans wrapped in palm leaf to create a rattle.
+They state only that dancers in the **Ledo Hawu** dance wear particular items: men wear bells, while participants in the **dho’a** dance wear *kedhu'e*, beans wrapped in palm leaf to create a rattle.
 
 ### Architecture
 
@@ -27,11 +27,11 @@ Traditional settlements are cumulus structured. A temple and stone shrines stand
 
 ### Ceramics, metalwork & everyday objects
 
- They mention *kedhu'e*, a rattle made from beans wrapped in palm leaf, as an object used in the **dho’a** dance.
+They mention *kedhu'e*, a rattle made from beans wrapped in palm leaf, as an object used in the **dho’a** dance.
 
 ### Jewelry & body adornment
 
- They state that men performing the **Ledo Hawu** dance wear bells.
+They state that men performing the **Ledo Hawu** dance wear bells.
 
 ## Music & performance
 
@@ -49,7 +49,7 @@ The **Ledo Hawu** is performed by mixed pairs, and men wear bells.
 
 ## Festivals & rituals
 
- They state that the Savunese measure time in units ranging from six to 49 years, depending on the domain.
+They state that the Savunese measure time in units ranging from six to 49 years, depending on the domain.
 
 Genealogy is important in Savunese ritual life. Names are chosen to avoid repetition, and genealogies are recited during ritual performances such as funerals, where the connection of the departed person to his or her ancestors is memorialised. *Wini* and *hubi* have roles in weddings, funerals, and baptisms.
 
@@ -67,7 +67,7 @@ The Savunese make sweet syrup and wine from the juice of a lone palm tree. Cockf
 
 ## Oral tradition & literature
 
- They document genealogy as an important verbal and ritual tradition: genealogies are tracked through many generations and recited during ritual performances, especially funerals.
+They document genealogy as an important verbal and ritual tradition: genealogies are tracked through many generations and recited during ritual performances, especially funerals.
 
 The Alan T. Walker Collection contains audio recordings, handwritten field notes, and narrative texts produced through Hawu language documentation. An accompanying Finding Aid and Inventory was created to help navigate the collection in the PARADISEC archive. Another PARADISEC collection contains audio recordings of Hawu conversations, narratives, elicitation, genealogies, and wordlists; several items are accompanied by video files.
 

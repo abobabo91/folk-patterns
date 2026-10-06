@@ -13,19 +13,19 @@ The Quinnipiac were a historical Indigenous people of the Northeastern Woodlands
 
 ### Architecture
 
- They record that a reservation near New Haven, Connecticut, was established in 1638 and included 1,200 acres.
+They record that a reservation near New Haven, Connecticut, was established in 1638 and included 1,200 acres.
 
 ## Music & performance
 
- They record three early hymns written circa 1740 at the Moravian Shekomeko mission near Kent, Connecticut, which were translated by Carl Masthay.
+They record three early hymns written circa 1740 at the Moravian Shekomeko mission near Kent, Connecticut, which were translated by Carl Masthay.
 
 ## Festivals & rituals
 
- They record Christian mission activity from around 1651 to 1669, when Reverend Abraham Pierson translated Christian texts into Quiripi and proselytized near Branford, Connecticut.
+They record Christian mission activity from around 1651 to 1669, when Reverend Abraham Pierson translated Christian texts into Quiripi and proselytized near Branford, Connecticut.
 
 ## Oral tradition & literature
 
- They do record linguistic documentation: a bilingual catechism compiled in 1658 by Abraham Pierson, a vocabulary collected by Reverend Ezra Stiles in the late 1700s, and a 202-word Unquachog vocabulary recorded by Thomas Jefferson in 1791. The language was poorly attested, and the catechism remains the chief source of modern conclusions about Quiripi.
+They do record linguistic documentation: a bilingual catechism compiled in 1658 by Abraham Pierson, a vocabulary collected by Reverend Ezra Stiles in the late 1700s, and a 202-word Unquachog vocabulary recorded by Thomas Jefferson in 1791. The language was poorly attested, and the catechism remains the chief source of modern conclusions about Quiripi.
 
 ## Language & religion
 

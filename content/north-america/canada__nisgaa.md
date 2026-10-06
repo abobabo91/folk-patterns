@@ -29,7 +29,7 @@ The sources also record the Nisgaʼa Museum, which opened in Lax̱g̱altsʼap in
 
 ### Ceramics, metalwork & everyday objects
 
- They do record cedar-plank houses, cedar-shake roofs, beds, boxes, masks, blankets, basket hats, wicker shields, weapons and canoes.
+They do record cedar-plank houses, cedar-shake roofs, beds, boxes, masks, blankets, basket hats, wicker shields, weapons and canoes.
 
 ### Jewelry & body adornment
 
@@ -37,11 +37,11 @@ Both men and women made and wore shell and bone necklaces. They rubbed seal blub
 
 ## Music & performance
 
- They do record songs among the resources archived by the Nisgaʼa First Voices project, alongside stories, alphabets, an online dictionary, a phrasebook and interactive online games with sounds, pictures and videos.
+They do record songs among the resources archived by the Nisgaʼa First Voices project, alongside stories, alphabets, an online dictionary, a phrasebook and interactive online games with sounds, pictures and videos.
 
 ## Dance & theatre
 
- Masks are mentioned as objects that might decorate the walls of traditional houses.
+Masks are mentioned as objects that might decorate the walls of traditional houses.
 
 ## Festivals & rituals
 
@@ -59,7 +59,7 @@ The Nisgaʼa also trade dried fish, seal oil, fish oil, blubber and cedar. The c
 
 ## Oral tradition & literature
 
- They do record that the Nisgaʼa First Voices archive contains songs and stories, and that the Nisgaʼa app is a bilingual dictionary and phrase collection with audio recordings, images and videos.
+They do record that the Nisgaʼa First Voices archive contains songs and stories, and that the Nisgaʼa app is a bilingual dictionary and phrase collection with audio recordings, images and videos.
 
 Language documentation includes translations of parts of the Bible and Book of Common Prayer prepared by Anglican missionary James Benjamin McCullagh and published in 1890, as well as a Nisgaʼa primer published in 1897. In 1973, Bruce Rigsby and Lonnie Hindle compiled *A Short Practical Dictionary of the Gitksan Language*, and Rigsby created a simple alphabet for Nisgaʼa that is widely used today.
 

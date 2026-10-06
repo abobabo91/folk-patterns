@@ -13,11 +13,11 @@ The Inughuit, also called Inuhuit, are an ethnic subgroup of the Greenlandic Inu
 
 ### Clothing & dress
 
- They state that the Inughuit developed a distinctive fashion during the period when climate change and isolation restricted contact with other Inuit communities.
+They state that the Inughuit developed a distinctive fashion during the period when climate change and isolation restricted contact with other Inuit communities.
 
 ### Architecture
 
- They identify Uummannaq, also known as “Dundas” or “Thule” to Europeans, as the chief settlement until 1953, and Qaanaaq as the largest Inughuit settlement.
+They identify Uummannaq, also known as “Dundas” or “Thule” to Europeans, as the chief settlement until 1953, and Qaanaaq as the largest Inughuit settlement.
 
 ### Ceramics, metalwork & everyday objects
 
@@ -29,7 +29,7 @@ Amulets were popular among the Inughuit and were believed to protect their weare
 
 ## Festivals & rituals
 
- They state that the Inughuit historically practiced their native Inuit religion. Shamans, called *angakkoq* by the Inughuit, acted as healers and were believed to possess spiritual powers that enabled them to counter supernatural hazards posed by nature. Amulets were also associated with protection from misfortune and danger.
+They state that the Inughuit historically practiced their native Inuit religion. Shamans, called *angakkoq* by the Inughuit, acted as healers and were believed to possess spiritual powers that enabled them to counter supernatural hazards posed by nature. Amulets were also associated with protection from misfortune and danger.
 
 ## Foodways
 
@@ -37,7 +37,7 @@ The Inughuit traditionally engaged in hunting and fishing. Animals hunted includ
 
 ## Oral tradition & literature
 
- They state that the Inughuit developed a distinctive language and culture during a period when climate change and isolation cut them off from other Inuit and regions. The language was first described by the explorers Knud Rasmussen and Peter Freuchen, who travelled through northern Greenland in the early twentieth century.
+They state that the Inughuit developed a distinctive language and culture during a period when climate change and isolation cut them off from other Inuit and regions. The language was first described by the explorers Knud Rasmussen and Peter Freuchen, who travelled through northern Greenland in the early twentieth century.
 
 ## Language & religion
 

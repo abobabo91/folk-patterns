@@ -27,7 +27,7 @@ The sources describe mummification among Hamtai communities in the Aseki area. T
 
 ## Foodways
 
- The account of the Toulambi says that two members of the group tasted store food after being taken to a government station, but it provides no further information about Angu foodways.
+The account of the Toulambi says that two members of the group tasted store food after being taken to a government station, but it provides no further information about Angu foodways.
 
 ## Oral tradition & literature
 

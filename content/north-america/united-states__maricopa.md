@@ -1,0 +1,60 @@
+---
+title: "Maricopa"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Maricopa, also called Piipaash, are a Native American tribe living in the Salt River Pima-Maricopa Indian Community and the Gila River Indian Community in Arizona, alongside the Akimel O'odham. At Salt River, Maricopa communities are concentrated in Lehi; at Gila River, they are concentrated in Maricopa Colony. The Maricopa are a River Yuman group whose ancestors formerly lived along the banks of the Colorado River. Their modern population is described as an amalgamation of five separate but related groups, with Piipaash and Xalychidom dialects. There are about 100 speakers out of an ethnic population of 800. Their cultural significance in the available sources is especially connected with pottery, basket weaving, textiles, and language preservation.
+
+## Material culture
+
+### Textile & pattern traditions
+
+*No named textile traditions or pattern-bearing textile forms are documented in the sources used.*
+
+**Basket weaving and textiles** — The Maricopa are known for basket weaving and textiles.
+
+**Maricopa pottery** — Maricopa pottery is especially associated with highly burnished red-on-redware vessels. The sources describe a revival of traditional pottery practices from 1937 to 1940 through the Maricopa Pottery Cooperative, formed by Elizabeth Hart and Ida Redbird. Decorative pottery was made with the paddle and anvil method and had no temper, while utilitarian cookware was tempered.
+
+**Motif vocabulary.** Swastikas — a common traditional motif that was abandoned in the 1940s because of the Nazi usurpation of the symbol.
+
+### Ceramics, metalwork & everyday objects
+
+**Highly burnished red-on-redware pottery** is the principal named material form in the sources. The Maricopa used the paddle and anvil method of construction. Utilitarian cookware was tempered, whereas decorative Maricopa pottery had no temper. The Maricopa Pottery Cooperative had 17 to 19 master potters, and Elizabeth Hart encouraged its members to sign their work.
+
+## Music & performance
+
+Robert Tree Cody is identified as a flutist and an enrolled member of the Hunkpapa tribe.
+
+## Festivals & rituals
+
+They do record historical and political events involving the community. In the 19th century, the Maricopa formed a confederation with the Akimel O'odham, and in 1857 they defeated the Quechan and Mojave at the Battle of Pima Butte near Maricopa Wells. In 1936, the Akimel O'odham and Maricopa agreed on a constitution intended to restore some measure of self-governance.
+
+## Foodways
+
+They do describe farming history. In 1870, the Maricopa produced three million pounds of wheat. Later, drought and water diversion by non-Indians caused widespread crop failures. During the 1930s, the loss of surface flow on the Gila River led the tribe to use brackish well water, which did not support growing edible crops. The Maricopa then began cultivating cotton as a commodity crop.
+
+## Oral tradition & literature
+
+They do identify Ida Redbird as a translator and informant for Leslie Spier’s *Yuma Tribes of the Gila River*, helping to preserve her American Indian heritage. The sources also describe the O'odham Piipaash Language Program at Salt River, which offers immersion classes, language-based cultural arts classes, community language-based social activities, translation assistance, cultural information, and language learning.
+
+## Language & religion
+
+Maricopa or Piipaash is a Yuman language spoken in the Salt River Pima-Maricopa Indian Community and the Gila River Indian Community. It is unrelated to the language of the Pima, which belongs to the Uto-Aztecan language family. The Maricopa language is considered severely endangered by UNESCO. Most speakers live in Maricopa Colony, while Salt River has around 15 fluent native speakers, with many others possessing varying degrees of fluency.
+
+The language has two dialects, Piipaash and Xalychidom. Xalychidom is the dialect of the formerly distinct Xalychidom people. The heritage languages of the Maricopa are described as dialects of the Maricopa and Cocopah language, belonging to the Yuman language family. Presbyterian missionaries were brought into the communities during the 19th and 20th centuries as part of Bureau of Indian Affairs assimilation policies.
+
+## Sources & further reading
+
+- Barry Pritzker, *A Native American Encyclopedia*, Oxford University Press, 1998. ISBN 978-0195138771.
+- Natale A. Zappia, *Traders and Raiders: The Indigenous World of the Colorado Basin, 1540–1859*, University of North Carolina Press, 2014. ISBN 978-1469615844.
+- Lindsey Lianne Vogel, *Forty Years Later: A Reexamination of Maricopa Pottery*, Arizona State University, 2010.
+- Lynn Gordon, *Maricopa Morphology and Syntax*, University of California Press, 1986. ISBN 0520099656.
+- David Gil, “Aristotle goes to Arizona, and finds a language without ‘and’,” in D. Zaefferer, ed., *Semantic Universals and Universal Semantics*, Foris, 1991, pp. 96–130.
+- [Maricopa people](https://en.wikipedia.org/wiki/Maricopa_people)
+- [Maricopa language](https://en.wikipedia.org/wiki/Maricopa_language)
+- No UNESCO Intangible Cultural Heritage inscription is identified in the sources used.
+- No museum catalogue records were supplied for the objects shown.

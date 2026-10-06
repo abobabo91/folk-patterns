@@ -47,7 +47,7 @@ The main meal, roughly from 13:00 to 14:30, usually comprised three dishes: past
 
 ## Oral tradition & literature
 
- They identify the local terms *seny*, meaning “common sense” or a pragmatic attitude toward life, and *rauxa*, associated with madness and the eccentric and creative character attributed to Catalan artists.
+They identify the local terms *seny*, meaning “common sense” or a pragmatic attitude toward life, and *rauxa*, associated with madness and the eccentric and creative character attributed to Catalan artists.
 
 ## Language & religion
 

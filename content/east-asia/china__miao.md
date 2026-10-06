@@ -29,7 +29,7 @@ Women’s clothing and adornment are especially important during weddings, funer
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe silver jewelry as completely handmade and carved with fine decorative patterns, but provide no separate account of metalworking beyond this jewelry production.
+They do describe silver jewelry as completely handmade and carved with fine decorative patterns, but provide no separate account of metalworking beyond this jewelry production.
 
 ### Jewelry & body adornment
 
@@ -39,7 +39,7 @@ Silver headdresses and jewelry are especially important during weddings, funeral
 
 ## Music & performance
 
- They mention arts and culture among the activities to which Miao women contribute, but provide no further musical information.
+They mention arts and culture among the activities to which Miao women contribute, but provide no further musical information.
 
 ## Festivals & rituals
 
@@ -51,7 +51,7 @@ The sources also describe women presiding over weddings in some Southeast Asian 
 
 ## Foodways
 
- They mention swidden or slash-and-burn cultivation as a farming technique used on mountainous or marginal lands.
+They mention swidden or slash-and-burn cultivation as a farming technique used on mountainous or marginal lands.
 
 ## Oral tradition & literature
 

@@ -27,7 +27,7 @@ The sources document native regalia made from buckskin and identify silver jewel
 
 ### Ceramics, metalwork & everyday objects
 
- They do record silver jewelry, which is taught and made within the community. They also mention bows, arrows, spears, shields, and cradles for infants as native handicrafts taught in tribal schools. The Western Apache writing system of Silas John used symbols written on buckskin or paper, and the symbols could represent verbal speech as well as nonverbal actions.
+They do record silver jewelry, which is taught and made within the community. They also mention bows, arrows, spears, shields, and cradles for infants as native handicrafts taught in tribal schools. The Western Apache writing system of Silas John used symbols written on buckskin or paper, and the symbols could represent verbal speech as well as nonverbal actions.
 
 ### Jewelry & body adornment
 
@@ -35,13 +35,13 @@ Silver jewelry is a documented Western Apache craft. Tribal schools teach girls 
 
 ## Music & performance
 
- They do record a writing system created by Silas John in 1904 to record 62 prayers that he believed came to him from heaven. The prayer-texts were written on buckskin or paper using graphic symbols arranged in horizontal lines.
+They do record a writing system created by Silas John in 1904 to record 62 prayers that he believed came to him from heaven. The prayer-texts were written on buckskin or paper using graphic symbols arranged in horizontal lines.
 
 The sources also mention dances in connection with the Cibecue Apache medicine man Nakąįdotł’ini, who held dances and claimed to bring two dead chiefs, Diablo and Es-ki-ol-e, to life. The account does not name the dances, describe their movements, identify accompanying music, or explain their broader ceremonial form.
 
 ## Dance & theatre
 
- They state that Nakąįdotł’ini, a respected medicine man and chief of the Cañon Creek band, held dances and claimed to bring two dead chiefs to life. The account concerns the events that led to the Battle of Cibecue Creek on Aug. 30, 1881.
+They state that Nakąįdotł’ini, a respected medicine man and chief of the Cañon Creek band, held dances and claimed to bring two dead chiefs to life. The account concerns the events that led to the Battle of Cibecue Creek on Aug. 30, 1881.
 
 ## Festivals & rituals
 
@@ -49,7 +49,7 @@ The sources do document ritual and religious activity associated with prayers, d
 
 ## Foodways
 
- They do state that several Western Apache groups lived near waterways used for crops, including the East Fork and North Fork of the White River, Willow Creek, Black River, and the Gila River. The Fossil Creek band had a few tiny farms on Fossil Creek, Clear Creek, and a site on the Verde River below the mouth of Deer Creek. The Mormon Lake band depended entirely on hunting and gathering wild plant foods for sustenance. The Bald Mountain band lived entirely by hunting and gathering plant foods.
+They do state that several Western Apache groups lived near waterways used for crops, including the East Fork and North Fork of the White River, Willow Creek, Black River, and the Gila River. The Fossil Creek band had a few tiny farms on Fossil Creek, Clear Creek, and a site on the Verde River below the mouth of Deer Creek. The Mormon Lake band depended entirely on hunting and gathering wild plant foods for sustenance. The Bald Mountain band lived entirely by hunting and gathering plant foods.
 
 ## Oral tradition & literature
 

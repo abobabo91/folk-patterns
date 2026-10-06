@@ -19,7 +19,7 @@ Malayali architecture developed in Kerala’s tropical climate, characterized by
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention the *idakka*, a small hourglass-shaped ethnic drum, and the *chengila*, a metallic gong used to mark beats in Sopanam music.
+They do mention the *idakka*, a small hourglass-shaped ethnic drum, and the *chengila*, a metallic gong used to mark beats in Sopanam music.
 
 ## Music & performance
 
@@ -49,7 +49,7 @@ In the *tharavadu*, a clan deity called *Para Devatha* was revered, and temples 
 
 ## Foodways
 
- They describe the Malabar coast as a major center of international spice trade and state that this contact contributed to Malayali culture.
+They describe the Malabar coast as a major center of international spice trade and state that this contact contributed to Malayali culture.
 
 ## Oral tradition & literature
 

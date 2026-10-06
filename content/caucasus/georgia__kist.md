@@ -30,5 +30,3 @@ The position of Islam strengthened during the Soviet period, partly through the 
 ## Sources & further reading
 
 - “Kist people,” Wikipedia: https://en.wikipedia.org/wiki/Kist_people
-- UNESCO Intangible Cultural Heritage inscriptions: the sources used identify no UNESCO inscriptions for this group or country.
-- Museum catalogue records: the sources used identify no museum catalogue records for the objects shown.

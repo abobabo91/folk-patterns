@@ -13,7 +13,7 @@ The Taíno were Indigenous peoples of most of the West Indies, extending from th
 
 ### Textile & pattern traditions
 
- They describe cotton, woven goods, and feathered adornments.
+They describe cotton, woven goods, and feathered adornments.
 
 **Cotton hammocks** — Taíno household furnishings included cotton hammocks, used for sleeping and sitting.
 
@@ -55,7 +55,7 @@ The principal named performance tradition is the *areito*, a communal sacred per
 
 ## Festivals & rituals
 
- They identify *areitos* as communal sacred performances connected with harvest time, births, marriages, and the deaths of chiefs. The central plaza of a *yucayeque* was used for festivals, religious rituals, public ceremonies, and games.
+They identify *areitos* as communal sacred performances connected with harvest time, births, marriages, and the deaths of chiefs. The central plaza of a *yucayeque* was used for festivals, religious rituals, public ceremonies, and games.
 
 Taíno religious practice centered on the veneration of zemis, ancestors, and mythic heroes. Priests called *behikes* or *bohikes* interpreted the will of the gods, cured the sick, healed the wounded, and advised caciques. Before performing these functions, they carried out cleansing and purification rituals, including fasting for several days and inhaling sacred tobacco snuff. The cohoba ritual involved fasting, river bathing, and sacred “vomit sticks,” followed by the insufflation of a powder made from the seeds of *Anadenanthera peregrina*. The sources describe caves as important ritual sites and identify the caves of Iguanaboina and Cacibajagua in Taíno mythology. Funerary practice included burning the deceased and placing the skull and long bones inside a gourd or woven basket hung from the roof of the house.
 

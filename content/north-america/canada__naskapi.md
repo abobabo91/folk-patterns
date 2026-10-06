@@ -13,23 +13,23 @@ The Naskapi, also called Nascapi, Naskapee, and Nascapee, are an Indigenous peop
 
 ### Clothing & dress
 
- They do state that, in 1948, a biologist observed Naskapi men, women, and children near Fort Chimo, with the women and children picking berries on the barrens within a three-mile radius.
+They do state that, in 1948, a biologist observed Naskapi men, women, and children near Fort Chimo, with the women and children picking berries on the barrens within a three-mile radius.
 
 ### Architecture
 
- They do describe several modern housing situations: shacks built at Pearce Lake from scavenged and donated materials; 30 houses built by Indian and Northern Affairs by 1962; row-housing units constructed at Matimekosh by 1972; and the present community of Kawawachikamach, built largely by Naskapi between 1980 and 1983.
+They do describe several modern housing situations: shacks built at Pearce Lake from scavenged and donated materials; 30 houses built by Indian and Northern Affairs by 1962; row-housing units constructed at Matimekosh by 1972; and the present community of Kawawachikamach, built largely by Naskapi between 1980 and 1983.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention tents, houses, ammunition used for hunting, and the transport of large vehicles, gasoline and fuel oil, and refrigerated goods in the regional rail system.
+They do mention tents, houses, ammunition used for hunting, and the transport of large vehicles, gasoline and fuel oil, and refrigerated goods in the regional rail system.
 
 ## Music & performance
 
- They do describe a spiritual figure called “Moose-Fly,” or *Məsəna´kʷ*, who was often accompanied by actual moose-flies during the summer salmon-fishing season. People were required to obey the spirit’s commands, including a taboo against making fun of fish because they had extra-large eyes. Salmon was a vital resource, and the spirit’s commands therefore carried considerable weight.
+They do describe a spiritual figure called “Moose-Fly,” or *Məsəna´kʷ*, who was often accompanied by actual moose-flies during the summer salmon-fishing season. People were required to obey the spirit’s commands, including a taboo against making fun of fish because they had extra-large eyes. Salmon was a vital resource, and the spirit’s commands therefore carried considerable weight.
 
 ## Festivals & rituals
 
- They describe seasonal activities connected with subsistence and spirituality. Salmon-fishing season occurred in the summer, and the Moose-Fly spirit’s commands governed conduct during that period. The Naskapi continue to rely substantially on hunting, fishing, and trapping, and harvesting is described as being at the heart of Naskapi spirituality.
+They describe seasonal activities connected with subsistence and spirituality. Salmon-fishing season occurred in the summer, and the Moose-Fly spirit’s commands governed conduct during that period. The Naskapi continue to rely substantially on hunting, fishing, and trapping, and harvesting is described as being at the heart of Naskapi spirituality.
 
 ## Foodways
 
@@ -37,7 +37,7 @@ The sources used describe a subsistence economy based on hunting, fishing, and t
 
 ## Oral tradition & literature
 
- They record several historical names and descriptions applied to the people, including “Ounackkapiouek,” “Annes-carps,” “Nascopies,” “Nascopie,” and “Nascappe.” The sources also explain that the word “Naskapi” appeared in the 17th century and was subsequently applied to Innu groups living beyond the reach of missionary influence, especially in lands bordering Ungava Bay and the inland area between Hudson’s Bay and the Torngat Mountain range.
+They record several historical names and descriptions applied to the people, including “Ounackkapiouek,” “Annes-carps,” “Nascopies,” “Nascopie,” and “Nascappe.” The sources also explain that the word “Naskapi” appeared in the 17th century and was subsequently applied to Innu groups living beyond the reach of missionary influence, especially in lands bordering Ungava Bay and the inland area between Hudson’s Bay and the Torngat Mountain range.
 
 ## Language & religion
 

@@ -1,0 +1,61 @@
+---
+title: "Sinti"
+subtitle: "Germany"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The Sinti are a subgroup of the Romani people, found mostly in Germany, France, Italy and Central Europe. They number some 200,000 people. Traditionally itinerant, they are now mostly settled, with only a small percentage remaining unsettled. In earlier times, they frequently lived on the outskirts of communities. The Sinti include groups such as the Manouche in France and speak the Sinti-Manouche variety of Romani, which exhibits strong German influence. Their history includes migration from the Indian subcontinent, regional differentiation, persecution under Nazi Germany, and the continuing significance of music in Sinti identity. Their occupations have included musicians, gardeners, waiters, iron pickers and mechanics.
+
+## Material culture
+
+### Clothing & dress
+
+They do record that, in concentration camps, Sinti were forced to wear either a black triangle, indicating their classification as “asocial,” or a brown triangle reserved for Sinti, Roma and Yenish peoples. This was an imposed system of classification rather than a Sinti clothing tradition.
+
+### Architecture
+
+They state that Sinti were traditionally itinerant and that, in earlier times, they frequently lived on the outskirts of communities. They also describe a wider effort in Switzerland to assimilate traditionally nomadic communities into sedentary Swiss society through the forced removal of children.
+
+### Ceramics, metalwork & everyday objects
+
+They mention only the occupations of iron pickers and mechanics, without describing the objects, techniques or tools associated with those occupations.
+
+## Music & performance
+
+Music plays a significant role in shaping Sinti identity. The sources identify musicians as one of the traditional occupations of the Sinti and describe Gypsy jazz as a style of jazz music popular with Sinti people. They also identify several Sinti musicians among notable people, including Wawau Adler, a jazz guitarist; Schnuckenack Reinhardt, a jazz musician; and Häns’che Weiss, a jazz musician. Ayo is identified as a singer, songwriter and actress, while Drafi Deutscher and Oto Pestner are identified as singers and songwriters. Other listed figures include Tayo Awosusi-Onutor, a singer-songwriter, and Sido, a rapper.
+
+The sources therefore support the importance of music and the association of Sinti identity with jazz and musicians.
+
+## Festivals & rituals
+
+They do record that **Roma and Sinti Holocaust Remembrance Day** is commemorated on 2 August. This date refers to remembrance of the murder of Sinti and Roma at Auschwitz-Birkenau, where approximately 4,000 Sinti and Roma were gassed during the night of 2–3 August 1944 and burnt in the crematoria.
+
+The sources also describe historical violence and state persecution affecting Sinti communities. From 1926 to 1973, Pro Juventute, with the support of Swiss authorities, forcibly removed Yenish, Manouche and Sinti children from their families and placed them in foster homes, adoptive families and correctional institutions through the Kinder der Landstrasse project. In February 2025, the Swiss government formally acknowledged that the forced removals and assimilation efforts constituted a crime against humanity under international law.
+
+## Foodways
+
+A well-known dish among the Sinti is *hedgehog stew*, prepared using hedgehog meat.
+
+## Oral tradition & literature
+
+They do identify several Sinti writers and authors, including Anita Awosusi, Lily Franz, Philomena Franz and Otto Rosenberg. Lily Franz and Philomena Franz are identified as writers and Holocaust survivors; Otto Rosenberg is identified as a writer, activist and Holocaust survivor. Tayo Awosusi-Onutor is identified as an author as well as a singer-songwriter and activist.
+
+## Language & religion
+
+The Sinti speak the Sinti-Manouche variety of Romani, which exhibits strong German influence. The sources describe Romani as connected to the broader history of the Sinti and state that the origin of the Sinti people lies generally in the Indian subcontinent. They state that the Sinti and other Romani people originated in the northern Indian subcontinent.
+
+The origin of the name “Sinti” is disputed. Jan Kochanowski and many Sinti believe it derives from Sindhi, the name of the people of Sindh in medieval India. Ian Hancock states that this connection is not tenable on linguistic grounds and that the earliest samples of Sinte Romani used the endonym of Kale. Yaron Matras argued that Sinti is a later term used by the Sinti from only the 18th century on and is likely a European loanword. Ronald Lee associated its origin with the German word Reisende, meaning “travellers.”
+
+## Sources & further reading
+
+- Michael Burleigh and Wolfgang Wippermann, *The Racial State: Germany 1933–1945*, Cambridge University Press, 1991.
+- Nicholas Saul and Susan Tebbutt, eds., *Role of the Romanies: Images and Counter Images of “Gypsies”/Romanies in European Cultures*, Liverpool University Press, 2004.
+- Roni Stauber and Raphael Vago, eds., *The Roma: A Minority in Europe: Historical, Political and Social Perspectives*, Central European University Press, 2007.
+- Katrin Reemtsma, *Sinti und Roma: Geschichte, Kultur, Gegenwart*, C.H. Beck, 1996.
+- Michael Zimmermann, *Rassenutopie und Genozid. Die Nationalsozialistische Lösung der Zigeunerfrage*, Christians, 1996.
+- Wikipedia, “[Sinti](https://en.wikipedia.org/wiki/Sinti)”.
+- No UNESCO Intangible Cultural Heritage inscription was supplied for this group or country.
+- No museum catalogue records were supplied for the objects shown.

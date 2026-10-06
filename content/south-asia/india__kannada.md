@@ -35,11 +35,11 @@ Named architectural centres include Hampi, Pattadakal, Badami, Aihole, Basavakal
 
 ### Ceramics, metalwork & everyday objects
 
- They mention the locally available stones used in temple construction and the copper and gold coins bearing Kannada inscriptions.
+They mention the locally available stones used in temple construction and the copper and gold coins bearing Kannada inscriptions.
 
 ### Jewelry & body adornment
 
- They mention embroidered clothing through *Kasuti*.
+They mention embroidered clothing through *Kasuti*.
 
 ## Music & performance
 

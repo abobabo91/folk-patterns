@@ -27,19 +27,19 @@ Pottery is one of the best-known arts practiced at Santa Clara Pueblo. It was tr
 
 ## Music & performance
 
- The Tewa name *Khaˀpʼoe Ówîngeh* is described as meaning “singing water village” or “rose water village,”.
+The Tewa name *Khaˀpʼoe Ówîngeh* is described as meaning “singing water village” or “rose water village,”.
 
 ## Festivals & rituals
 
- They do describe the Pueblo Revolt of 1680, when this Pueblo joined forces with nearby pueblos and fought against the Spanish Royal Government. The sources also record the construction and abandonment of missions and chapels, including the abandonment of the mission before the Great Pueblo Revolt of 1680.
+They do describe the Pueblo Revolt of 1680, when this Pueblo joined forces with nearby pueblos and fought against the Spanish Royal Government. The sources also record the construction and abandonment of missions and chapels, including the abandonment of the mission before the Great Pueblo Revolt of 1680.
 
 ## Foodways
 
- The word “melon” appears in the description of Angela Baca as matriarch of the Santa Clara melon potters.
+The word “melon” appears in the description of Angela Baca as matriarch of the Santa Clara melon potters.
 
 ## Oral tradition & literature
 
- Gregory Cajete is identified as an author and educator, and Nora Naranjo Morse as an artist and filmmaker.
+Gregory Cajete is identified as an author and educator, and Nora Naranjo Morse as an artist and filmmaker.
 
 ## Language & religion
 

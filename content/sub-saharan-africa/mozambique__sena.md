@@ -33,15 +33,15 @@ The **Nyau dance** is the only named Sena dance in the supplied sources. It is p
 
 ## Festivals & rituals
 
- They do describe several life-cycle and religious practices. Traditional death rituals have been burials. Weddings among Sena people in river-valley regions required a brideprice called *lobolo*, a payment to the bride’s family compensating them for the loss of her work output in her birth home. Some Sena people of Mozambique have retained traditional beliefs in polygamy, child marriage and tribal religious practices, although Sena people converted to Catholicism in bulk during the colonial era under Portuguese Christian missionaries.
+They do describe several life-cycle and religious practices. Traditional death rituals have been burials. Weddings among Sena people in river-valley regions required a brideprice called *lobolo*, a payment to the bride’s family compensating them for the loss of her work output in her birth home. Some Sena people of Mozambique have retained traditional beliefs in polygamy, child marriage and tribal religious practices, although Sena people converted to Catholicism in bulk during the colonial era under Portuguese Christian missionaries.
 
 ## Foodways
 
- They mention farming and fishing among Sena occupations but give no further account of the foods produced, prepared or consumed.
+They mention farming and fishing among Sena occupations but give no further account of the foods produced, prepared or consumed.
 
 ## Oral tradition & literature
 
- They state that Sena culture developed through interaction with Portuguese settlers from the 1500s through contemporary times and that this interaction led Sena people to absorb many Portuguese customs. The source material therefore does not support a fuller account of Sena oral literature.
+They state that Sena culture developed through interaction with Portuguese settlers from the 1500s through contemporary times and that this interaction led Sena people to absorb many Portuguese customs. The source material therefore does not support a fuller account of Sena oral literature.
 
 ## Language & religion
 

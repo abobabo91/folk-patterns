@@ -13,7 +13,7 @@ The Kamayurá are an Indigenous tribe in the Amazonian Basin of Brazil. They liv
 
 ### Clothing & dress
 
- They state that snail-shell belts are traded with other tribes. The sources also state that teenage girls in seclusion learn to weave mats. Boys are taught to create a basket, while girls learn to weave mats as part of their preparation for later family responsibilities.
+They state that snail-shell belts are traded with other tribes. The sources also state that teenage girls in seclusion learn to weave mats. Boys are taught to create a basket, while girls learn to weave mats as part of their preparation for later family responsibilities.
 
 ### Architecture
 
@@ -35,7 +35,7 @@ The sources describe the meeting area in front of the flute house as a place whe
 
 ## Dance & theatre
 
- They state that teenage girls learn how to dance during their seclusion, but provide no name, choreography, occasion or distinction between ceremonial and entertainment performance.
+They state that teenage girls learn how to dance during their seclusion, but provide no name, choreography, occasion or distinction between ceremonial and entertainment performance.
 
 ## Festivals & rituals
 
@@ -51,7 +51,7 @@ Manioc is harvested and processed into beiju and a sweet soup called *mohete*.
 
 ## Oral tradition & literature
 
- The Kamayurá language article includes a sample text taken from Seki (2000), described as a small excerpt of a folk tale about the hero *Arawitará*. In the tale, Arawitará is summoned by his deceased friend to help the souls of the dead in their eternal war against the birds. The excerpt describes his return to the world of the living and his journey to the friend’s old mother.
+The Kamayurá language article includes a sample text taken from Seki (2000), described as a small excerpt of a folk tale about the hero *Arawitará*. In the tale, Arawitará is summoned by his deceased friend to help the souls of the dead in their eternal war against the birds. The excerpt describes his return to the world of the living and his journey to the friend’s old mother.
 
 The language sources also document work by Lucy Seki, who completed a book detailing Kamayurá grammar and published other works on the language. The Kamayurá people do not have their own specific schools and rely on teaching each other the language; since 2000, a couple of youths have participated in the Teacher Training Course, which strives to keep Kamayurá alive and also teaches Portuguese.
 

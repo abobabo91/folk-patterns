@@ -13,7 +13,7 @@ Russians (Russian: *русские*, romanized: *russkiye*) are an East Slavic e
 
 ### Architecture
 
- They do identify Staraya Ladoga, Novgorod, Kiev, and Moscow as important historical cities, and describe Moscow as a political and cultural center after the 13th century.
+They do identify Staraya Ladoga, Novgorod, Kiev, and Moscow as important historical cities, and describe Moscow as a political and cultural center after the 13th century.
 
 ## Music & performance
 
@@ -29,11 +29,11 @@ The sources used mention Russian folk songs and dances. They do document Russian
 
 ## Festivals & rituals
 
- They state that the majority of Russians adhere to Orthodox Christianity and that the state adopted Christianity from the Byzantine Empire in 988.
+They state that the majority of Russians adhere to Orthodox Christianity and that the state adopted Christianity from the Byzantine Empire in 988.
 
 ## Foodways
 
- They do state that the Russian population contains historical and contemporary communities with differing religious and ethnic backgrounds, including Old Believers, Lipovans, Cossacks, and Russian Chinese, but provide no foodways for them.
+They do state that the Russian population contains historical and contemporary communities with differing religious and ethnic backgrounds, including Old Believers, Lipovans, Cossacks, and Russian Chinese, but provide no foodways for them.
 
 ## Oral tradition & literature
 

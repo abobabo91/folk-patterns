@@ -29,7 +29,7 @@ The sources state that music is part of Kassena cultural life. They name **Djong
 
 ## Dance & theatre
 
-The Kassena traditional dance festival is called *Djongon*. The sources state that gatherers dance the *Djongo* or *nagila* dance at this festival. No Kassena theatrical, dramatic, puppet, or mask-performance tradition is documented in the supplied sources.
+The Kassena traditional dance festival is called *Djongon*. The sources state that gatherers dance the *Djongo* or *nagila* dance at this festival.
 
 ## Festivals & rituals
 
@@ -37,7 +37,7 @@ The sources identify **Djongon** as a traditional Kassena dance festival, during
 
 ## Oral tradition & literature
 
- They mention the anthropologist Ann Cassiman and her book *Stirring Life: Women’s Paths and Places Among the Kasena of Northern Ghana*, which contains ethnographic accounts of material culture, rituals, and social practices in a rural Kassena village.
+They mention the anthropologist Ann Cassiman and her book *Stirring Life: Women’s Paths and Places Among the Kasena of Northern Ghana*, which contains ethnographic accounts of material culture, rituals, and social practices in a rural Kassena village.
 
 ## Language & religion
 
@@ -47,7 +47,6 @@ Historically, the Kassena are described as monotheistic animists. They worship t
 
 ## Sources & further reading
 
-- Ann Cassiman, *Stirring Life: Women’s Paths and Places Among the Kasena of Northern Ghana*. Publisher and year are not supplied in the sources used.
 - Ann Cassiman’s ethnographic research also led to the museum exhibition *Home Call*, housed by the Museum Aan de Stroom in Antwerp, Belgium.
 - [Kassena — Wikipedia](https://en.wikipedia.org/wiki/Kassena)
 - [Kassena language — Wikipedia](https://en.wikipedia.org/wiki/Kassena_language)

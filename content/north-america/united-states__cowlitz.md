@@ -23,7 +23,7 @@ Cowlitz families lived in cedar houses along rivers and streams during the cold 
 
 ### Ceramics, metalwork & everyday objects
 
- They do document canoes, wooden boards used in head flattening, leather bands, cedar bark, baskets, mats, and fishnets, but provide no further catalogue of these objects.
+They do document canoes, wooden boards used in head flattening, leather bands, cedar bark, baskets, mats, and fishnets, but provide no further catalogue of these objects.
 
 ### Jewelry & body adornment
 
@@ -31,11 +31,11 @@ The Cowlitz practiced head flattening. Infants were placed on a wooden board, us
 
 ## Music & performance
 
- They state that the Cowlitz peoples were fluent in Chinook Jargon, an intertribal trade language used to bridge language differences among groups speaking different Salish and Sahaptin dialects. The sources also identify Native spirituality as continuing among Cowlitz communities during the period of Catholic missionary activity.
+They state that the Cowlitz peoples were fluent in Chinook Jargon, an intertribal trade language used to bridge language differences among groups speaking different Salish and Sahaptin dialects. The sources also identify Native spirituality as continuing among Cowlitz communities during the period of Catholic missionary activity.
 
 ## Festivals & rituals
 
- They describe a yearly subsistence cycle organized by season. In spring, people left their cedar houses to harvest camas bulbs, roots, barks, and grasses. In summer, they moved into higher country to pick seasonal berries. In fall, they returned to river houses to harvest salmon for the coming season. Hunting and fishing were practiced throughout the year, while roots and fruits were harvested seasonally.
+They describe a yearly subsistence cycle organized by season. In spring, people left their cedar houses to harvest camas bulbs, roots, barks, and grasses. In summer, they moved into higher country to pick seasonal berries. In fall, they returned to river houses to harvest salmon for the coming season. Hunting and fishing were practiced throughout the year, while roots and fruits were harvested seasonally.
 
 The sources also describe head flattening as a practice carried out on newborn infants until they reached eight to twelve months old. The child was placed on a wooden board and pressure was applied to the forehead with bark, a pad, and leather bands. No Cowlitz wedding, funeral, coming-of-age, or other life-cycle rites are described. Catholic missionaries visited the Cowlitz beginning in December 1838, but the sources state that many people retained elements of Native spirituality rather than fully immersing themselves in Catholicism.
 
@@ -45,7 +45,7 @@ Salmon was important to the Cowlitz diet, although the sources state that it was
 
 ## Oral tradition & literature
 
- They record a debate concerning Cowlitz history, territory, ancestry, ethnicity, and language, and preserve several accounts of historical figures and encounters, including Simon Plamondon’s relationship with the Lower Cowlitz and the missionary activities of Herbert Beaver, François N. Blanchet, and Modeste Demers.
+They record a debate concerning Cowlitz history, territory, ancestry, ethnicity, and language, and preserve several accounts of historical figures and encounters, including Simon Plamondon’s relationship with the Lower Cowlitz and the missionary activities of Herbert Beaver, François N. Blanchet, and Modeste Demers.
 
 Language documentation and revitalization are better represented. In the 1960s, Dale M. Kinkade conducted interviews and audio recordings with Emma Mesplie and Lucy Foster for the Cowlitz language. This material became much of the basis for the Lower Cowlitz dictionary used by the Cowlitz Indian Tribe. Cowlitz went dormant in the 1960s and, as of 2022, was being revitalized by the Cowlitz Tribe in collaboration with the Language Conservancy.
 

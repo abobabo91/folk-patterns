@@ -43,7 +43,7 @@ Modern adaptations introduced six-hole designs and twelve-tone equal temperament
 
 ## Dance & theatre
 
- They state only that dance attire does not differ from ordinary clothing and that people commonly wear their finest clothes for special occasions.
+They state only that dance attire does not differ from ordinary clothing and that people commonly wear their finest clothes for special occasions.
 
 ## Festivals & rituals
 

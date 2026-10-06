@@ -13,7 +13,7 @@ The Kutchi people traditionally hail from the Kutch district of the western Indi
 
 ### Ceramics, metalwork & everyday objects
 
- The Kutchi-language article says that samples of a possible Kutchi script may be in the Kutch Museum, but the sources provide no catalogue record or description of such objects.
+The Kutchi-language article says that samples of a possible Kutchi script may be in the Kutch Museum, but the sources provide no catalogue record or description of such objects.
 
 ## Music & performance
 
@@ -37,7 +37,7 @@ The sources list numerous named dishes, including undhiyu, dabeli, bhajiya, dal 
 
 ## Oral tradition & literature
 
- They identify Mamai Dev as the first and earliest writer of Kutchi literature. The Kutchi-language article also mentions Vadhod, meaning “Inquiry,” as a book or publication in the modified Gujarati script, and states that books and magazines are published in Kutchi using that script.
+They identify Mamai Dev as the first and earliest writer of Kutchi literature. The Kutchi-language article also mentions Vadhod, meaning “Inquiry,” as a book or publication in the modified Gujarati script, and states that books and magazines are published in Kutchi using that script.
 
 The sources further mention the archived Kutchi Language Online website, which maintained a list of Kutchi vocabulary words.
 

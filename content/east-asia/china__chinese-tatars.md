@@ -13,11 +13,11 @@ Chinese Tatars are the smallest of the 56 ethnic groups officially recognized by
 
 ### Architecture
 
- They record that Tatar communities opened mosques, Jadid schools, libraries, and institutions for girls in Xinjiang during the second half of the 19th century and the first decades of the 20th century.
+They record that Tatar communities opened mosques, Jadid schools, libraries, and institutions for girls in Xinjiang during the second half of the 19th century and the first decades of the 20th century.
 
 ### Ceramics, metalwork & everyday objects
 
- They state that Tatar dining rooms and kitchens are known for being spotless, and that cleanliness and orderliness are important aspects of Tatar etiquette at home.
+They state that Tatar dining rooms and kitchens are known for being spotless, and that cleanliness and orderliness are important aspects of Tatar etiquette at home.
 
 ## Music & performance
 
@@ -29,11 +29,11 @@ The Tatar language in China is limited to conversation and singing among older a
 
 ## Foodways
 
- They state that Tatars are a Muslim people and that Tatar dining rooms and kitchens are known for being spotless. Cleanliness and orderliness are described as important aspects of Tatar etiquette at home.
+They state that Tatars are a Muslim people and that Tatar dining rooms and kitchens are known for being spotless. Cleanliness and orderliness are described as important aspects of Tatar etiquette at home.
 
 ## Oral tradition & literature
 
- They state that the Tatar language in China is limited to conversation and singing among older adults.
+They state that the Tatar language in China is limited to conversation and singing among older adults.
 
 ## Language & religion
 

@@ -33,7 +33,7 @@ Qiang settlements include fortress villages known as *zhai*, generally composed 
 
 ### Ceramics, metalwork & everyday objects
 
- They do describe wooden carving marks, used before the development of a writing system to represent events or communicate. Qiang people are also skilled in constructing roads and bamboo bridges, using wooden boards and piers; some bridges stretch up to 100 meters. Other skilled workers are described as masons who dig wells and undertake chiseling and digging in neighbouring places during poor farming seasons.
+They do describe wooden carving marks, used before the development of a writing system to represent events or communicate. Qiang people are also skilled in constructing roads and bamboo bridges, using wooden boards and piers; some bridges stretch up to 100 meters. Other skilled workers are described as masons who dig wells and undertake chiseling and digging in neighbouring places during poor farming seasons.
 
 ### Jewelry & body adornment
 

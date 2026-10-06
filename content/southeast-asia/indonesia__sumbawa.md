@@ -19,7 +19,7 @@ Traditional framed houses are built on stilts and have high roofing. They are di
 
 ### Ceramics, metalwork & everyday objects
 
- They state that agriculture uses slash-and-burn cultivation, while plows and irrigation methods are very rarely used.
+They state that agriculture uses slash-and-burn cultivation, while plows and irrigation methods are very rarely used.
 
 ## Music & performance
 

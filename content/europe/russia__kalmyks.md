@@ -17,11 +17,11 @@ The Oirats, the ancestors of the Kalmyks, pitched yurts while moving across the 
 
 ### Ceramics, metalwork & everyday objects
 
- Kalmyk livestock and its products were exchanged at Astrakhan, Tsaritsyn and Saratov for brick tea, grain, textiles and metal articles. Erdeni Batur also sought to build small industry, including metal works, to supply the Dzungar military with weapons. No Kalmyk ceramic forms, household objects, tools, or locally distinctive metalwork are described.
+Kalmyk livestock and its products were exchanged at Astrakhan, Tsaritsyn and Saratov for brick tea, grain, textiles and metal articles. Erdeni Batur also sought to build small industry, including metal works, to supply the Dzungar military with weapons. No Kalmyk ceramic forms, household objects, tools, or locally distinctive metalwork are described.
 
 ### Jewelry & body adornment
 
- They record *Ulan Zalata*, translated as the “red-buttoned ones,” as another generally accepted name for Kalmyks.
+They record *Ulan Zalata*, translated as the “red-buttoned ones,” as another generally accepted name for Kalmyks.
 
 ## Music & performance
 
@@ -31,11 +31,11 @@ The sources also describe the political and religious setting in which Oirat cul
 
 ## Festivals & rituals
 
- They do record the religious and political significance of the Gelug school of Tibetan Buddhism. The Oirat summit near the Tarbagatai Mountains in 1640 ratified the “Great Code of the Nomads” while seeking unity under the banner of the Gelug school. Güshi Khan formed the Khoshut Khanate to protect Tibet and the Gelug from internal and external enemies, and the Khoshut rulers Baibagas Khan and Güshi Khan were the first Oirat leaders to convert to that school.
+They do record the religious and political significance of the Gelug school of Tibetan Buddhism. The Oirat summit near the Tarbagatai Mountains in 1640 ratified the “Great Code of the Nomads” while seeking unity under the banner of the Gelug school. Güshi Khan formed the Khoshut Khanate to protect Tibet and the Gelug from internal and external enemies, and the Khoshut rulers Baibagas Khan and Güshi Khan were the first Oirat leaders to convert to that school.
 
 ## Foodways
 
- They do mention pastoral livestock and historical exchange. The Oirats kept herds of cattle, flocks of sheep, horses, donkeys and camels, while Kalmyk livestock and its products were exchanged for brick tea, grain, textiles and metal articles at Astrakhan, Tsaritsyn and Saratov.
+They do mention pastoral livestock and historical exchange. The Oirats kept herds of cattle, flocks of sheep, horses, donkeys and camels, while Kalmyk livestock and its products were exchanged for brick tea, grain, textiles and metal articles at Astrakhan, Tsaritsyn and Saratov.
 
 ## Oral tradition & literature
 

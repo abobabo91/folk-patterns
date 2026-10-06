@@ -21,19 +21,19 @@ Traditional Buru houses are made from bamboo and are often built on stilts. Thei
 
 ### Ceramics, metalwork & everyday objects
 
- They identify the straight machete, or *parang*, and the short spear as traditional Buru weapons.
+They identify the straight machete, or *parang*, and the short spear as traditional Buru weapons.
 
 ### Jewelry & body adornment
 
- They mention decorative items only in connection with differences among the clothing of the Masarete, Wae Sama, and Rana groups.
+They mention decorative items only in connection with differences among the clothing of the Masarete, Wae Sama, and Rana groups.
 
 ## Music & performance
 
- No named musical tradition is identified.
+No named musical tradition is identified.
 
 ## Festivals & rituals
 
- They do describe religious divisions between Sunni Muslims, who mostly live in the north of Buru, and Christian-Protestants in the south. Traditional local beliefs persist in many areas. In the central parts of the island, many people openly profess the cult of the supreme deity *Opo Hebe Snulat* and his messenger *Nabiat*. The sources also record religious conflicts in December 1999, when 43 people were killed and at least 150 houses were burned in Wainibe village.
+They do describe religious divisions between Sunni Muslims, who mostly live in the north of Buru, and Christian-Protestants in the south. Traditional local beliefs persist in many areas. In the central parts of the island, many people openly profess the cult of the supreme deity *Opo Hebe Snulat* and his messenger *Nabiat*. The sources also record religious conflicts in December 1999, when 43 people were killed and at least 150 houses were burned in Wainibe village.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ Buru subsistence includes farming rice, millet, sago, sweet potato, and various 
 
 ## Oral tradition & literature
 
- They state that explanations for language taboos are found in associated myths and legends. These taboos concern kinship terms, nature, harvest, hunting, and fishing. Words for taboo items are not omitted but replaced by alternatives.
+They state that explanations for language taboos are found in associated myths and legends. These taboos concern kinship terms, nature, harvest, hunting, and fishing. Words for taboo items are not omitted but replaced by alternatives.
 
 ## Language & religion
 

@@ -21,21 +21,21 @@ The sources identify houses only through the Kaqchikel word *jay*, meaning “ho
 
 ### Ceramics, metalwork & everyday objects
 
- They mention *tlincheʼ*, meaning “marimba,”.
+They mention *tlincheʼ*, meaning “marimba,”.
 
 ## Music & performance
 
-The sources name *tlincheʼ* as the Kaqchikel word for “marimba,” but provide no description of the instrument, its construction, musical repertoire, or performance context. They also identify the 2015 film *Ixcanul*, directed by Jayro Bustamante, as having been filmed mostly in Kaqchikel. No Kaqchikel song genres, musical ensembles, dances, performance settings, or ceremonial uses of music are described.
+They also identify the 2015 film *Ixcanul*, directed by Jayro Bustamante, as having been filmed mostly in Kaqchikel. No Kaqchikel song genres, musical ensembles, dances, performance settings, or ceremonial uses of music are described.
 
 The sources do provide information about language use in education and media. Kaqchikel is taught in Guatemala’s intercultural bilingual education programs, and the language has been used in film. A Kaqchikel translation of the New Testament was produced with José Chicol and the missionary William Cameron Townsend; it was published in 1931, and Chicol’s revision was published in 1954.
 
 ## Dance & theatre
 
- The 2015 film *Ixcanul* is identified as having been filmed mostly in Kaqchikel.
+The 2015 film *Ixcanul* is identified as having been filmed mostly in Kaqchikel.
 
 ## Festivals & rituals
 
- They describe earlier Kaqchikel political organization, in which four lords—Tzotzil, Xahil, Tucuché, and Acajal—were responsible for administrative, military, and religious affairs.
+They describe earlier Kaqchikel political organization, in which four lords—Tzotzil, Xahil, Tucuché, and Acajal—were responsible for administrative, military, and religious affairs.
 
 Kaqchikel historical tradition describes four political “dawns,” written *saqarik* or *saqer*, each representing a transition away from dependence on other groups, especially the Kʼicheʼ. The first followed an alliance with the Kʼicheʼ maintained through marriages between Kaqchikel men and Kʼicheʼ women. The second followed relocation to present-day Chichicastenango in Quiché Department under Kʼicheʼ rule. The third involved permission to establish a separate government and the founding of Chi Awär around 1430 CE. The fourth followed independence from the Kʼicheʼ and the establishment of Iximche around 1470 CE.
 

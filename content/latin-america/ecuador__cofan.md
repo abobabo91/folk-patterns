@@ -13,27 +13,27 @@ The Cofán, who call themselves *Aʼi*, are an Indigenous people of Sucumbíos P
 
 ### Architecture
 
- They state that traditional skills include housebuilding, but provide no further description.
+They state that traditional skills include housebuilding, but provide no further description.
 
 ### Ceramics, metalwork & everyday objects
 
- They do state that Cofán communities traditionally used wooden dugout canoes for river travel and have more recently built large fiberglass canoes for sale and for their own use.
+They do state that Cofán communities traditionally used wooden dugout canoes for river travel and have more recently built large fiberglass canoes for sale and for their own use.
 
 ## Music & performance
 
- They describe Aʼingae language documentation and mention the translation of the New Testament into the language.
+They describe Aʼingae language documentation and mention the translation of the New Testament into the language.
 
 ## Festivals & rituals
 
- The Cofán religious tradition is described as shamanistic, and the sources identify drinking *yaje* as a cultural practice associated with participation in Cofán life.
+The Cofán religious tradition is described as shamanistic, and the sources identify drinking *yaje* as a cultural practice associated with participation in Cofán life.
 
 ## Foodways
 
- They state that a Cofán foundation works to preserve traditional foods in the rivers, that communities in Zabalo are raising turtles and caimans for release, and that they are beginning to raise chickens as a food source. The sources also identify traditional hunter-gathering and mention hunting as a cultural practice.
+They state that a Cofán foundation works to preserve traditional foods in the rivers, that communities in Zabalo are raising turtles and caimans for release, and that they are beginning to raise chickens as a food source. The sources also identify traditional hunter-gathering and mention hunting as a cultural practice.
 
 ## Oral tradition & literature
 
- They mention Randall Borman’s work on Cofán cosmology and history as revealed in legends, and identify *The North Wind and the Sun* as a text translated into Aʼingae. The sources also describe efforts connected with language preservation, including a school conducted in the Cofán language and the development and adoption of a new Cofán writing system.
+They mention Randall Borman’s work on Cofán cosmology and history as revealed in legends, and identify *The North Wind and the Sun* as a text translated into Aʼingae. The sources also describe efforts connected with language preservation, including a school conducted in the Cofán language and the development and adoption of a new Cofán writing system.
 
 ## Language & religion
 

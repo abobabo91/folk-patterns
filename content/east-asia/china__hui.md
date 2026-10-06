@@ -17,23 +17,23 @@ Hui traditional dress includes white caps, or *taqiyah*, worn by some men, and h
 
 ### Architecture
 
- They mention Islamic mosques and Jewish synagogues in connection with the historical term *Qīngzhēnsì*, translated in the source as “Temple of Purity and Truth,”.
+They mention Islamic mosques and Jewish synagogues in connection with the historical term *Qīngzhēnsì*, translated in the source as “Temple of Purity and Truth,”.
 
 ### Ceramics, metalwork & everyday objects
 
- They mention Islamic dietary practices and halal food preparation.
+They mention Islamic dietary practices and halal food preparation.
 
 ## Music & performance
 
- The Hui language article states that merchants in the later imperial period sponsored operas and performances in the Hui dialect. It also says that some works of literature produced in Yangzhou, including *Qingfengzha*, contain Jianghuai Mandarin, and that large numbers of merchants from Huizhou lived in Yangzhou. These statements concern the Hui dialect region and performances in the Hui dialect rather than a documented musical tradition of the Hui ethnic group.
+The Hui language article states that merchants in the later imperial period sponsored operas and performances in the Hui dialect. It also says that some works of literature produced in Yangzhou, including *Qingfengzha*, contain Jianghuai Mandarin, and that large numbers of merchants from Huizhou lived in Yangzhou. These statements concern the Hui dialect region and performances in the Hui dialect rather than a documented musical tradition of the Hui ethnic group.
 
 ## Dance & theatre
 
- They mention operas and performances in the Hui dialect in the context of merchants in the later imperial period, but provide no title, theatrical form, movement vocabulary, performance setting or ceremonial function.
+They mention operas and performances in the Hui dialect in the context of merchants in the later imperial period, but provide no title, theatrical form, movement vocabulary, performance setting or ceremonial function.
 
 ## Festivals & rituals
 
- They do document Islamic dietary rules and historical disputes over halal and kosher food preparation. During the Yuan dynasty, *Huihui* was used for Muslims and other groups, and a passage concerning Kublai Khan describes regulations requiring Muslims to eat animals slaughtered by others and to cease slaughtering sheep themselves and cease the rite of circumcision. They also state that Hui identity can include people who do not practise Islam, and that some Hui clans in Fujian and Taiwan no longer practise Islam while retaining Hui ancestry.
+They do document Islamic dietary rules and historical disputes over halal and kosher food preparation. During the Yuan dynasty, *Huihui* was used for Muslims and other groups, and a passage concerning Kublai Khan describes regulations requiring Muslims to eat animals slaughtered by others and to cease slaughtering sheep themselves and cease the rite of circumcision. They also state that Hui identity can include people who do not practise Islam, and that some Hui clans in Fujian and Taiwan no longer practise Islam while retaining Hui ancestry.
 
 ## Foodways
 
@@ -41,7 +41,7 @@ Hui foodways are connected in the sources with Islamic dietary laws and a distin
 
 ## Oral tradition & literature
 
- They mention a mythical Hui legendary folklore account in which 3,000 Chinese soldiers were supposedly exchanged for 300 “Hui” soldiers during the conflict against An Lushan, with only 3 Hui said to have survived and populated Ningxia. The source presents this as a mythical account rather than established history.
+They mention a mythical Hui legendary folklore account in which 3,000 Chinese soldiers were supposedly exchanged for 300 “Hui” soldiers during the conflict against An Lushan, with only 3 Hui said to have survived and populated Ningxia. The source presents this as a mythical account rather than established history.
 
 The sources also mention *Qingfengzha*, a novel produced in Yangzhou that contains Jianghuai Mandarin, and describe identity formation based on dialect.
 

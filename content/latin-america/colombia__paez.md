@@ -33,7 +33,7 @@ Many Páez are agriculturists. Crops named in the sources include potatoes, coff
 
 ## Oral tradition & literature
 
- The references include a study titled “History, myth, the dynamics of territorial maintenance in Tierradentro, Colombia,” but the supplied material does not summarize its contents.
+The references include a study titled “History, myth, the dynamics of territorial maintenance in Tierradentro, Colombia,” but the supplied material does not summarize its contents.
 
 ## Language & religion
 

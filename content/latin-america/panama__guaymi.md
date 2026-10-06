@@ -35,11 +35,11 @@ Men typically wear collared cotton-and-polyester-blend shirts with polyester tro
 
 ### Architecture
 
- They state that many Ngäbe formerly lived in dispersed villages and family units, while roads, schools, clinics and other infrastructure built in designated points encouraged the formation of larger communities.
+They state that many Ngäbe formerly lived in dispersed villages and family units, while roads, schools, clinics and other infrastructure built in designated points encouraged the formation of larger communities.
 
 ### Ceramics, metalwork & everyday objects
 
- They do mention handmade bags from plant fibers, plant-fiber hats, beaded ornaments, knotted ropes used to count down the days before balsería, animal horns and improvised trumpets.
+They do mention handmade bags from plant fibers, plant-fiber hats, beaded ornaments, knotted ropes used to count down the days before balsería, animal horns and improvised trumpets.
 
 ### Jewelry & body adornment
 
@@ -47,13 +47,13 @@ Ngäbe women make beaded bracelets and necklaces, both for personal and family u
 
 ## Music & performance
 
- They describe several sound-making practices associated with social life and public events. In the weeks before balsería, people in each participating town blow animal horns and other makeshift trumpets to announce that the festival is approaching. Horns, whistles and improvised trumpets are widely used during the event.
+They describe several sound-making practices associated with social life and public events. In the weeks before balsería, people in each participating town blow animal horns and other makeshift trumpets to announce that the festival is approaching. Horns, whistles and improvised trumpets are widely used during the event.
 
 Ngäbere-speaking people may greet one another or pass the time while working by making a noise known in Spanish as a *saloma* or *grito*. The sources also mention songs translated into the Guaymi dialect by the Methodist missionary Ephraim S. Alphonse. Alphonse translated the four Gospels of the New Testament and many hymns, devised a written form of the language, and created a Guaymi Grammar and a dictionary in Guaymi, Spanish and English.
 
 ## Dance & theatre
 
- Balsería is described as a traditional sport and four-day festival rather than as a dance or theatrical form. Its public procession, costumes, horns, whistles and improvised trumpets form part of the event’s performance context.
+Balsería is described as a traditional sport and four-day festival rather than as a dance or theatrical form. Its public procession, costumes, horns, whistles and improvised trumpets form part of the event’s performance context.
 
 ## Festivals & rituals
 
