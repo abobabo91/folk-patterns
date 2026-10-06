@@ -460,7 +460,10 @@ def _stub_jitter(people_key: str) -> tuple[float, float]:
 
 def _site_region(continent: str, region: str) -> str:
     text = f"{continent} {region}".casefold()
-    if any(x in text for x in ("middle east", "north africa", "mena")):
+    if "caucasus" in text:
+        return "caucasus"
+    if any(x in text for x in ("middle east", "north africa", "mena", "west asia", "southwest asia", "anatolia",
+                               "levant", "mesopotamia", "arabia", "iran")):
         return "middle-east-north-africa"
     if "europe" in text:
         return "europe"
@@ -506,13 +509,24 @@ def _existing_country_regions() -> dict[str, str]:
             for country, regions in counts.items()}
 
 
+# Countries whose region the classifier's free text gets wrong: "Asia" alone
+# fell through to East Asia (Georgia, Iraq, Lebanon), and existing shards then
+# carried the error forward through `country_regions`.
+_COUNTRY_REGION = {
+    **dict.fromkeys(("Georgia", "Armenia", "Azerbaijan"), "caucasus"),
+    **dict.fromkeys(("Iraq", "Iran", "Turkey", "Syria", "Lebanon", "Israel", "Palestine", "Jordan", "Saudi Arabia",
+                     "Yemen", "Oman", "United Arab Emirates", "Kuwait", "Qatar", "Bahrain"), "middle-east-north-africa"),
+    "Cyprus": "europe",
+}
+
+
 def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dict | None:
     country = str(candidate.get("country") or "").strip()
     centroid = _country_centroid(country)
     if centroid is None:
         print(f"  country polygon miss: {candidate.get('key')} {country}", flush=True)
         return None
-    region = country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
+    region = _COUNTRY_REGION.get(country) or country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
     # Russia's atlas cultures are Siberian, so its majority region and its
     # centroid put Komi, Udmurts and Vepsians in Siberia and the Avars there too.
     place = _PLACES.get(str(candidate.get("key") or ""))
@@ -531,7 +545,7 @@ def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dic
         if country == "Russia":
             region = _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
     elif country == "Russia" and "caucasus" in str(candidate.get("region") or "").casefold():
-        centroid = _NORTH_CAUCASUS
+        region, centroid = "caucasus", _NORTH_CAUCASUS
     elif country == "Russia" and str(candidate.get("continent") or "") == "Europe":
         region, centroid = "europe", _EUROPEAN_RUSSIA
     name = _stub_name(candidate)

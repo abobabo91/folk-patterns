@@ -8,21 +8,28 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 
 | site region | living peoples | with source evidence | vetted cultures | unreviewed-only cultures |
 |---|---:|---:|---:|---:|
+| caucasus | 65 | 20 | 1 | 7 |
 | central-asia | 40 | 13 | 14 | 2 |
-| east-asia | 304 | 133 | 16 | 53 |
-| europe | 214 | 113 | 4 | 69 |
+| east-asia | 202 | 100 | 15 | 41 |
+| europe | 205 | 111 | 5 | 70 |
 | latin-america | 517 | 335 | 46 | 133 |
-| middle-east-north-africa | 21 | 15 | 15 | 8 |
+| middle-east-north-africa | 67 | 30 | 14 | 12 |
 | north-america | 105 | 83 | 70 | 105 |
 | oceania | 64 | 43 | 17 | 11 |
 | south-asia | 116 | 80 | 16 | 46 |
 | southeast-asia | 200 | 154 | 50 | 73 |
-| sub-saharan-africa | 445 | 366 | 212 | 115 |
+| sub-saharan-africa | 445 | 366 | 212 | 114 |
 
 ## By country
 
 | site region | country | living peoples | with source evidence | vetted cultures | unreviewed-only cultures |
 |---|---|---:|---:|---:|---:|
+| caucasus | Armenia | 0 | 0 | 1 | 0 |
+| caucasus | Azerbaijan | 13 | 4 | 0 | 1 |
+| caucasus | Georgia | 12 | 4 | 0 | 3 |
+| caucasus | Iran | 1 | 0 | 0 | 0 |
+| caucasus | Russia | 37 | 10 | 0 | 3 |
+| caucasus | Turkey | 2 | 2 | 0 | 0 |
 | central-asia | Afghanistan | 5 | 2 | 4 | 1 |
 | central-asia | China | 6 | 3 | 0 | 0 |
 | central-asia | China (Xinjiang) | 0 | 0 | 2 | 0 |
@@ -36,56 +43,41 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 | central-asia | Turkmenistan | 4 | 2 | 1 | 1 |
 | central-asia | Uzbekistan | 3 | 1 | 3 | 0 |
 | east-asia | Afghanistan | 1 | 0 | 0 | 0 |
-| east-asia | Armenia | 1 | 1 | 0 | 0 |
-| east-asia | Azerbaijan | 12 | 4 | 0 | 1 |
-| east-asia | Bahrain | 1 | 0 | 0 | 0 |
 | east-asia | Bangladesh | 1 | 1 | 0 | 0 |
 | east-asia | Bhutan | 2 | 0 | 0 | 0 |
 | east-asia | China | 47 | 24 | 4 | 17 |
 | east-asia | China (Tibet) | 0 | 0 | 1 | 0 |
-| east-asia | Cyprus | 1 | 1 | 0 | 1 |
+| east-asia | Cyprus | 1 | 1 | 0 | 0 |
 | east-asia | Egypt | 1 | 0 | 0 | 0 |
-| east-asia | Georgia | 11 | 3 | 0 | 3 |
 | east-asia | India | 27 | 11 | 0 | 0 |
 | east-asia | Indonesia | 13 | 6 | 0 | 0 |
-| east-asia | Iran | 20 | 5 | 0 | 0 |
-| east-asia | Iraq | 6 | 4 | 0 | 3 |
-| east-asia | Israel | 3 | 1 | 0 | 0 |
+| east-asia | Iran | 5 | 0 | 0 | 0 |
 | east-asia | Japan | 4 | 3 | 1 | 2 |
 | east-asia | Laos | 1 | 0 | 0 | 0 |
-| east-asia | Lebanon | 2 | 1 | 0 | 1 |
 | east-asia | Malaysia | 1 | 0 | 0 | 0 |
 | east-asia | Mongolia | 6 | 2 | 1 | 1 |
 | east-asia | Myanmar | 1 | 1 | 0 | 0 |
 | east-asia | Nepal | 6 | 4 | 0 | 0 |
-| east-asia | Oman | 1 | 0 | 0 | 0 |
 | east-asia | Pakistan | 2 | 0 | 0 | 0 |
-| east-asia | Palestine | 1 | 1 | 0 | 0 |
 | east-asia | Philippines | 5 | 4 | 0 | 0 |
-| east-asia | Russia | 75 | 37 | 6 | 16 |
-| east-asia | Saudi Arabia | 2 | 0 | 0 | 0 |
+| east-asia | Russia | 45 | 28 | 5 | 13 |
 | east-asia | South Korea | 1 | 1 | 0 | 1 |
 | east-asia | Sri Lanka | 1 | 0 | 0 | 0 |
-| east-asia | Syria | 2 | 0 | 0 | 0 |
 | east-asia | Taiwan | 25 | 12 | 3 | 7 |
 | east-asia | Thailand | 1 | 1 | 0 | 0 |
-| east-asia | Turkey | 11 | 4 | 0 | 0 |
 | east-asia | Vietnam | 5 | 1 | 0 | 0 |
-| east-asia | Yemen | 4 | 0 | 0 | 0 |
 | europe | Albania | 7 | 3 | 0 | 1 |
 | europe | Austria | 3 | 1 | 0 | 1 |
-| europe | Azerbaijan | 1 | 0 | 0 | 0 |
 | europe | Belarus | 1 | 1 | 0 | 0 |
 | europe | Belgium | 2 | 2 | 0 | 1 |
 | europe | Bosnia and Herzegovina | 1 | 1 | 0 | 1 |
 | europe | Bulgaria | 4 | 3 | 0 | 2 |
 | europe | Croatia | 5 | 1 | 0 | 1 |
-| europe | Cyprus | 1 | 1 | 0 | 0 |
+| europe | Cyprus | 1 | 1 | 0 | 1 |
 | europe | Czech Republic | 3 | 2 | 0 | 2 |
 | europe | Estonia | 5 | 3 | 0 | 2 |
 | europe | Finland | 6 | 5 | 0 | 4 |
 | europe | France | 5 | 4 | 1 | 2 |
-| europe | Georgia | 1 | 1 | 0 | 0 |
 | europe | Germany | 8 | 5 | 0 | 4 |
 | europe | Greece | 9 | 4 | 1 | 2 |
 | europe | Hungary | 9 | 2 | 0 | 1 |
@@ -107,7 +99,7 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 | europe | Poland | 12 | 3 | 0 | 1 |
 | europe | Portugal | 1 | 1 | 0 | 1 |
 | europe | Romania | 10 | 6 | 1 | 4 |
-| europe | Russia | 38 | 19 | 0 | 10 |
+| europe | Russia | 31 | 18 | 1 | 10 |
 | europe | Serbia | 3 | 1 | 0 | 1 |
 | europe | Slovakia | 2 | 1 | 0 | 1 |
 | europe | Slovenia | 2 | 1 | 0 | 0 |
@@ -144,17 +136,24 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 | latin-america | Uruguay | 1 | 1 | 0 | 1 |
 | latin-america | Venezuela | 12 | 9 | 3 | 5 |
 | middle-east-north-africa | Algeria | 3 | 1 | 1 | 0 |
-| middle-east-north-africa | Armenia | 0 | 0 | 1 | 0 |
+| middle-east-north-africa | Armenia | 1 | 1 | 0 | 0 |
+| middle-east-north-africa | Bahrain | 1 | 0 | 0 | 0 |
 | middle-east-north-africa | Chad | 1 | 1 | 0 | 0 |
 | middle-east-north-africa | Egypt | 5 | 4 | 2 | 3 |
 | middle-east-north-africa | Greece | 1 | 1 | 0 | 0 |
-| middle-east-north-africa | Iran | 2 | 1 | 5 | 0 |
+| middle-east-north-africa | Iran | 16 | 6 | 5 | 0 |
+| middle-east-north-africa | Iraq | 6 | 4 | 0 | 3 |
+| middle-east-north-africa | Israel | 3 | 1 | 0 | 0 |
+| middle-east-north-africa | Lebanon | 2 | 1 | 0 | 1 |
 | middle-east-north-africa | Morocco | 5 | 3 | 2 | 2 |
-| middle-east-north-africa | Palestine | 0 | 0 | 1 | 0 |
-| middle-east-north-africa | Saudi Arabia | 1 | 1 | 0 | 1 |
+| middle-east-north-africa | Oman | 1 | 0 | 0 | 0 |
+| middle-east-north-africa | Palestine | 1 | 1 | 1 | 0 |
+| middle-east-north-africa | Saudi Arabia | 3 | 1 | 0 | 1 |
 | middle-east-north-africa | Sudan | 2 | 2 | 0 | 0 |
+| middle-east-north-africa | Syria | 2 | 0 | 0 | 0 |
 | middle-east-north-africa | Tunisia | 1 | 1 | 1 | 1 |
-| middle-east-north-africa | Turkey | 0 | 0 | 2 | 1 |
+| middle-east-north-africa | Turkey | 9 | 2 | 2 | 1 |
+| middle-east-north-africa | Yemen | 4 | 0 | 0 | 0 |
 | north-america | Canada | 26 | 22 | 16 | 20 |
 | north-america | Canada / Greenland | 0 | 0 | 1 | 0 |
 | north-america | Canada / United States | 0 | 0 | 1 | 0 |
@@ -220,9 +219,9 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 | sub-saharan-africa | Eswatini | 1 | 1 | 1 | 0 |
 | sub-saharan-africa | Ethiopia | 26 | 16 | 5 | 5 |
 | sub-saharan-africa | Gabon | 4 | 2 | 2 | 1 |
-| sub-saharan-africa | Ghana | 32 | 20 | 11 | 8 |
+| sub-saharan-africa | Ghana | 33 | 21 | 11 | 8 |
 | sub-saharan-africa | Guinea | 10 | 10 | 4 | 3 |
-| sub-saharan-africa | Guinea-Bissau | 5 | 3 | 2 | 1 |
+| sub-saharan-africa | Guinea-Bissau | 4 | 2 | 2 | 0 |
 | sub-saharan-africa | Ivory Coast | 4 | 2 | 0 | 0 |
 | sub-saharan-africa | Kenya | 26 | 23 | 15 | 4 |
 | sub-saharan-africa | Liberia | 8 | 8 | 3 | 6 |
@@ -254,6 +253,40 @@ Living peoples are classified Wikidata items with `people: true`. Source evidenc
 
 Peoples below have at least 20 Wikipedia sitelinks, are classified as people, and have no evidence in the current museum-source report.
 
+### Azerbaijan (caucasus)
+
+- Talysh people (Q10290517, 53 sitelinks)
+- Tsakhur people (Q139760, 37 sitelinks)
+- Karapapakhs (Q10985965, 35 sitelinks)
+- Ingiloy people (Q2385630, 21 sitelinks)
+
+### Georgia (caucasus)
+
+- Ossetians (Q106974, 76 sitelinks)
+- Abkhazians (Q171795, 71 sitelinks)
+- Meskhetian Turks (Q1055319, 44 sitelinks)
+- Mingrelians (Q747580, 42 sitelinks)
+- Adjarians (Q26291, 39 sitelinks)
+
+### Iran (caucasus)
+
+- Iranian Azerbaijanis (Q2426677, 26 sitelinks)
+
+### Russia (caucasus)
+
+- Chechens (Q31230, 91 sitelinks)
+- Rutulians (Q933163, 86 sitelinks)
+- Lezgins (Q1129737, 67 sitelinks)
+- Kumyk people (Q211018, 66 sitelinks)
+- Karachays (Q243274, 61 sitelinks)
+- Dargins (Q274356, 60 sitelinks)
+- Abazins (Q213040, 58 sitelinks)
+- Tabasaran people (Q623813, 49 sitelinks)
+- Kuban Cossacks (Q861646, 27 sitelinks)
+- Shapsugs (Q1473943, 25 sitelinks)
+- Ubykh people (Q969667, 25 sitelinks)
+- Tsez people (Q2476783, 21 sitelinks)
+
 ### Afghanistan (central-asia)
 
 - Wakhi people (Q2604583, 31 sitelinks)
@@ -284,16 +317,6 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 
 - Karakalpaks (Q276315, 56 sitelinks)
 
-### Azerbaijan (east-asia)
-
-- Talysh people (Q10290517, 53 sitelinks)
-- Karapapakhs (Q10985965, 35 sitelinks)
-- Ingiloy people (Q2385630, 21 sitelinks)
-
-### Bahrain (east-asia)
-
-- Bahrani people (Q2879337, 21 sitelinks)
-
 ### Bhutan (east-asia)
 
 - Lhotshampa (Q1549801, 23 sitelinks)
@@ -316,14 +339,6 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 - Pumi (Q877377, 28 sitelinks)
 - Jino people (Q1054249, 26 sitelinks)
 
-### Georgia (east-asia)
-
-- Ossetians (Q106974, 76 sitelinks)
-- Abkhazians (Q171795, 71 sitelinks)
-- Meskhetian Turks (Q1055319, 44 sitelinks)
-- Mingrelians (Q747580, 42 sitelinks)
-- Adjarians (Q26291, 39 sitelinks)
-
 ### India (east-asia)
 
 - Meitei people (Q930821, 33 sitelinks)
@@ -333,31 +348,11 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 
 ### Iran (east-asia)
 
-- Achomi people (Q12210943, 37 sitelinks)
-- Bakhtiari people (Q798284, 37 sitelinks)
-- Mazanderani people (Q46531, 37 sitelinks)
-- Gilaki people (Q1346254, 35 sitelinks)
-- Basseri (Q6418904, 29 sitelinks)
 - Daylamites (Q1157592, 26 sitelinks)
-- Iranian Azerbaijanis (Q2426677, 26 sitelinks)
-- Iranian Arabs (Q2859361, 23 sitelinks)
-
-### Iraq (east-asia)
-
-- Iraqi Turkmen (Q1165171, 40 sitelinks)
-- Shabak people (Q1515909, 28 sitelinks)
-
-### Israel (east-asia)
-
-- Arab citizens of Israel (Q204333, 43 sitelinks)
 
 ### Japan (east-asia)
 
 - Ryukyuans (Q1208167, 39 sitelinks)
-
-### Lebanon (east-asia)
-
-- Maronites (Q4988656, 37 sitelinks)
 
 ### Pakistan (east-asia)
 
@@ -365,15 +360,7 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 
 ### Russia (east-asia)
 
-- Chechens (Q31230, 91 sitelinks)
-- Rutulians (Q933163, 86 sitelinks)
-- Lezgins (Q1129737, 67 sitelinks)
-- Kumyk people (Q211018, 66 sitelinks)
-- Karachays (Q243274, 61 sitelinks)
-- Dargins (Q274356, 60 sitelinks)
-- Abazins (Q213040, 58 sitelinks)
 - Khakass people (Q240293, 56 sitelinks)
-- Tabasaran people (Q623813, 49 sitelinks)
 - Tofalar (Q655404, 39 sitelinks)
 - Chulyms (Q979326, 35 sitelinks)
 - Ulch people (Q1465429, 32 sitelinks)
@@ -381,40 +368,18 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 - Oroks (Q8426825, 29 sitelinks)
 - Kumandins (Q1556876, 27 sitelinks)
 - Negidals (Q1361998, 27 sitelinks)
-- Shapsugs (Q1473943, 25 sitelinks)
 - Teleuts (Q1123129, 25 sitelinks)
-- Ubykh people (Q969667, 25 sitelinks)
 - Tubalar (Q1313979, 22 sitelinks)
 - Chelkans (Q2632800, 21 sitelinks)
 - Chuvans (Q1945649, 21 sitelinks)
-- Tsez people (Q2476783, 21 sitelinks)
-
-### Syria (east-asia)
-
-- Syrian Turkmen (Q1290529, 31 sitelinks)
 
 ### Taiwan (east-asia)
 
 - Sakizaya (Q710817, 22 sitelinks)
 
-### Turkey (east-asia)
-
-- Zaza people (Q142897, 80 sitelinks)
-- Pontic Greeks (Q679524, 44 sitelinks)
-- Yörüks (Q170056, 39 sitelinks)
-- Hemshin peoples (Q1133458, 31 sitelinks)
-
-### Yemen (east-asia)
-
-- Qahtanites (Q2575646, 23 sitelinks)
-
 ### Albania (europe)
 
 - Cham Albanians (Q7641172, 23 sitelinks)
-
-### Azerbaijan (europe)
-
-- Tsakhur people (Q139760, 37 sitelinks)
 
 ### Croatia (europe)
 
@@ -494,7 +459,6 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 - Volga Tatars (Q1484689, 30 sitelinks)
 - Doukhobors (Q1144579, 28 sitelinks)
 - Nağaybäk (Q1480718, 28 sitelinks)
-- Kuban Cossacks (Q861646, 27 sitelinks)
 - Besermyan (Q830176, 24 sitelinks)
 - Kryashens (Q2509263, 24 sitelinks)
 - Mishar Tatars (Q2643116, 20 sitelinks)
@@ -549,9 +513,50 @@ Peoples below have at least 20 Wikipedia sitelinks, are classified as people, an
 - Natchez people (Q56389, 27 sitelinks)
 - Apalachee people (Q49306, 22 sitelinks)
 
+### Bahrain (middle-east-north-africa)
+
+- Bahrani people (Q2879337, 21 sitelinks)
+
+### Iran (middle-east-north-africa)
+
+- Achomi people (Q12210943, 37 sitelinks)
+- Bakhtiari people (Q798284, 37 sitelinks)
+- Mazanderani people (Q46531, 37 sitelinks)
+- Gilaki people (Q1346254, 35 sitelinks)
+- Basseri (Q6418904, 29 sitelinks)
+- Iranian Arabs (Q2859361, 23 sitelinks)
+
+### Iraq (middle-east-north-africa)
+
+- Iraqi Turkmen (Q1165171, 40 sitelinks)
+- Shabak people (Q1515909, 28 sitelinks)
+
+### Israel (middle-east-north-africa)
+
+- Arab citizens of Israel (Q204333, 43 sitelinks)
+
+### Lebanon (middle-east-north-africa)
+
+- Maronites (Q4988656, 37 sitelinks)
+
 ### Morocco (middle-east-north-africa)
 
 - Riffian people (Q1541828, 22 sitelinks)
+
+### Syria (middle-east-north-africa)
+
+- Syrian Turkmen (Q1290529, 31 sitelinks)
+
+### Turkey (middle-east-north-africa)
+
+- Zaza people (Q142897, 80 sitelinks)
+- Pontic Greeks (Q679524, 44 sitelinks)
+- Yörüks (Q170056, 39 sitelinks)
+- Hemshin peoples (Q1133458, 31 sitelinks)
+
+### Yemen (middle-east-north-africa)
+
+- Qahtanites (Q2575646, 23 sitelinks)
 
 ### Canada (north-america)
 

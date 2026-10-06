@@ -975,9 +975,12 @@ def _unvetted_only(r: dict, queue_skips: dict[str, str] | None = None) -> bool:
 
 
 def _site_region(continent: str, region: str) -> str:
-    """Map the classifier's free-text geography to one of the ten site regions."""
+    """Map the classifier's free-text geography to one of the eleven site regions."""
     text = f"{continent} {region}".casefold()
-    if any(x in text for x in ("middle east", "north africa", "mena")):
+    if "caucasus" in text:
+        return "caucasus"
+    if any(x in text for x in ("middle east", "north africa", "mena", "west asia", "southwest asia", "anatolia",
+                               "levant", "mesopotamia", "arabia", "iran")):
         return "middle-east-north-africa"
     if "europe" in text:
         return "europe"

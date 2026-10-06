@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The index has 10 regions, 460 cultures and 17,871 objects (2026-10-04). Maya, Betsimisaraka and 8 peoples rescued by new source rules and a higher per-category limit (Shuar, Kiga, Diola, Wichita, Cherokee, Choctaw, Rizeigat, Ambonese) were added on 2026-10-04, written and reviewed by local Codex. The 237 before them came from pick batch p003 (`docs/vetting.md` → "Pick coverage"), each with at least 5 vetted objects; their profiles were written from sources only (57 in a cloud session, 180 by local Codex) and pass the term-and-number audit. 25 queue peoples still keep fewer than 5 objects and stay in `data/world/pick_coverage.jsonl` for a later round. The onboarding queue is `data/world/onboard_queue.json` (nations such as Japanese or French and umbrella names that duplicate atlas cultures are skipped, with the reason). The site publishes 1,820 editorially reviewed Commons photos (the last 46 that had failed to download were judged by local Codex on 2026-10-05: 28 accepted, 25 of them passed the editorial check). Object images are on R2. The site is https://folk-patterns.vercel.app.
+**Status:** The index has 11 regions, 460 cultures and 17,871 objects (2026-10-04). Maya, Betsimisaraka and 8 peoples rescued by new source rules and a higher per-category limit (Shuar, Kiga, Diola, Wichita, Cherokee, Choctaw, Rizeigat, Ambonese) were added on 2026-10-04, written and reviewed by local Codex. The 237 before them came from pick batch p003 (`docs/vetting.md` → "Pick coverage"), each with at least 5 vetted objects; their profiles were written from sources only (57 in a cloud session, 180 by local Codex) and pass the term-and-number audit. 25 queue peoples still keep fewer than 5 objects and stay in `data/world/pick_coverage.jsonl` for a later round. The onboarding queue is `data/world/onboard_queue.json` (nations such as Japanese or French and umbrella names that duplicate atlas cultures are skipped, with the reason). The site publishes 1,820 editorially reviewed Commons photos (the last 46 that had failed to download were judged by local Codex on 2026-10-05: 28 accepted, 25 of them passed the editorial check). Object images are on R2. The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -96,6 +96,7 @@ FOLK_LLM_BACKEND=codex python scripts/generate_writeups.py --stubs [--limit 5]  
 python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch w001
 python scripts/generate_writeups.py --import-batch w001 --force  # after the cloud run; see docs/cloud-vetting.md
 python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
+python scripts/move_culture.py east-asia__russia__bashkir europe --commit   # region change: library, R2 keys, content, territories, seed
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
 python scripts/audit_profile.py --region north_america --only Hopi --fix   # short profile vs sources; add_culture runs it
 
@@ -169,6 +170,17 @@ mapped to kinds by local Codex (`FOLK_LLM_BACKEND=codex python scripts/normalize
 at 214 living peoples, 113 with evidence, 73 on the site, and South Asia at
 116, 80, 62. The rest have no
 record under any of their names in the current sources.
+
+Regions: the Caucasus (Armenia, Georgia, Azerbaijan, the North Caucasus) is its
+own region since 2026-10-05. Before that the classifier's free text "Asia" fell
+through to East Asia for Georgia, Azerbaijan, Iraq, Lebanon and Cyprus, and
+existing shards then carried the error forward to new stubs of the same country.
+`unvetted.py` now maps those countries explicitly (`_COUNTRY_REGION`) and
+`_site_region` sends "caucasus" and West Asia / Anatolia / Iran text to their
+regions. Armenian (from MENA) and Bashkir (East Asia to Europe) were moved with
+`move_culture.py`, which also rewrites `local_path` and `cultural.region` in the
+library metadata; its images were uploaded to R2 under the new keys and the old
+keys left in the bucket. 12 stubs changed key in the same rebuild.
 
 Stub writeups: `generate_writeups.py --stubs` writes one per stub culture from
 its English Wikipedia article plus related articles (sitelinks of its Wikidata

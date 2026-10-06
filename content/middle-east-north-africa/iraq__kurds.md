@@ -1,0 +1,44 @@
+---
+title: "Kurds"
+subtitle: "Iraq"
+region: "Middle East North Africa"
+tags: [ethnography, middle-east-north-africa]
+---
+
+## Overview
+
+Kurds, also called the Kurdish people, are an Iranic ethnic group from West Asia, indigenous to Kurdistan, a geographic region spanning southeastern Turkey, northwestern Iran, northern Iraq, and northeastern Syria. Their population is estimated at between 30 and 45 million in West Asia, with another one or two million in the Kurdish diaspora. Kurdish populations are concentrated in Kurdistan, while significant communities live elsewhere in West Asia and in Europe, including Germany, France, Sweden, and the Netherlands. The Kurdish languages and the Zaza–Gorani languages belong to the Western Iranic branch of the Iranic language family. Kurds are culturally significant in the sources because of their distinct language, religious diversity, historical associations with Kurdistan, and long political history as a stateless nation.
+
+## Music & performance
+
+The sources mention one musical instrument in connection with Kurdish religious practice. In 2016, the first official Zoroastrian fire temple of Iraqi Kurdistan opened in Sulaymaniyah. Attendees celebrated by lighting a ritual fire and beating the frame drum or *daf*.
+
+The religious traditions associated with Kurdish communities include Sunni Islam, Shia Islam, Alevism, Yazidism, Yarsanism, Zoroastrianism, and Christianity. Yazidism is described as the ethnic religion of the Kurdish-speaking Yazidi people. Yarsanism is also known as Ahl-I-Haqq, Ahl-e-Hagh, or Kakai, and its sacred texts are mainly in Gorani. These religious traditions provide the only performance-related contexts covered by the sources: ritual practice, religious observance, and the celebration held at the Zoroastrian fire temple.
+
+## Festivals & rituals
+
+They do describe several religious practices and historical religious contexts. Yazidism is a monotheistic ethnic religion rooted in a western branch of an Iranic pre-Zoroastrian religion. It teaches belief in one God who created the world and entrusted it to seven Holy Beings. The leader of this heptad is Tawûsê Melek, symbolized by a peacock. Yazidism is indigenous to the Kurdish regions of Iraq, Syria, and Turkey, with communities in Russia, Georgia, and Armenia established by refugees fleeing persecution by Muslims in Ottoman Empire.
+
+Zoroastrian practice is also documented in Iraqi Kurdistan. In 2016, attendees at the opening of the first official Zoroastrian fire temple of Iraqi Kurdistan in Sulaymaniyah lit a ritual fire and beat the frame drum or *daf*. The sources state that Awat Tayib, the chief of followers of Zoroastrianism in the Kurdistan region, said that many were returning to Zoroastrianism while others kept their religion secret because of fear of reprisals from Islamists.
+
+## Oral tradition & literature
+
+The sources connect Kurdish identity with several historical and literary texts. The term Kurd appears in Arabic sources of the seventh century. Early Islamic-era books, including the *Shahnameh* and the Middle Persian *Kar-Namag i Ardashir i Pabagan*, provide early attestations of the name Kurd.
+
+The *Kar-Namag i Ardashir i Pabagan*, a short prose work written in Middle Persian, depicts Ardashir I as having battled the Kurds and their leader, Madig. It also records a letter from Ardavan V in which Ardashir I is referred to as a Kurd. The sources state that the term Kurd in this period most likely functioned as a social term for Northwestern Iranian nomads rather than as the designation of a concrete ethnic group.
+
+The sources also mention a seventh-century text by an unidentified author about the legendary Christian martyr Mar Qardagh. During his travels, Mar Qardagh is said to have encountered Mar Abdisho, a deacon and martyr, whose parents had been driven from an Assyrian village called Hazza and later settled in Tamanon, a village in “the land of the Kurds.”
+
+## Language & religion
+
+Kurdish, written in the sources as Kurdish or *Kurdî*, is a collection of related dialects spoken by the Kurds. It is mainly spoken in the parts of Iran, Iraq, Syria, and Turkey that comprise Kurdistan. Kurdish has official status in Iraq as a national language alongside Arabic, is recognized in Iran as a regional language, and is recognized in Armenia as a minority language. Kurdish dialects are grouped into a Northern group, the Kurmanji dialect group; a Central group, part of the Sorani dialect group; and a Southern group, part of the Xwarin dialect group, including Laki. Zaza and Gorani are described as ethnic Kurds, although the Zaza–Gorani languages are not classified as Kurdish.
+
+Many Kurds are bilingual or multilingual. Languages spoken alongside Kurdish include Arabic, Persian, and Turkish. Kurds in diaspora communities often speak three or more languages, while Turkified and Arabised Kurds often speak little or no Kurdish.
+
+The most prevalent religion among Kurds is Sunni Islam, especially adherence to the Shafiʽi school. A significant minority follows the Hanafi school or Alevism, and many Shafi'i Kurds belong to the Sufi orders Naqshbandi or Qadiriyya. Shia Islam also has millions of Kurdish followers. Other traditions associated with Kurdistan include Yazidism, Yarsanism, Zoroastrianism, and Christianity.
+
+## Sources & further reading
+
+- The Wikipedia article “Kurds”: https://en.wikipedia.org/wiki/Kurds
+- UNESCO Intangible Cultural Heritage: the supplied UNESCO material lists no inscriptions for Iraq concerning this ethnic group.
+- The supplied museum catalogue records contain no objects for this atlas.

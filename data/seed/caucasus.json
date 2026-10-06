@@ -1,0 +1,95 @@
+{
+  "region": "caucasus",
+  "notes": "Caucasus: Armenia, Georgia, Azerbaijan and the North Caucasus republics of Russia. Split out of East Asia and MENA on 2026-10-05, where the classifier's free-text geography had filed them.",
+  "countries": [
+    {
+      "country": "Armenia",
+      "met_queries": [
+        "Armenia"
+      ],
+      "majority_ethnicity": "Armenian",
+      "met_gate_tokens": [],
+      "ethnicities": [
+        {
+          "name": "Armenian",
+          "homeland": {
+            "lat": 40.16,
+            "lon": 44.29
+          },
+          "homeland_place": "Vagharshapat",
+          "traditions": [
+            "Armenian cross-stone carving",
+            "khachkar",
+            "Armenian embroidery",
+            "Armenian carpet",
+            "Armenian letter art",
+            "Gyumri blacksmithing",
+            "duduk",
+            "lavash"
+          ],
+          "arch_commons_categories": [
+            "Classical Armenian architecture",
+            "Armenian monasteries",
+            "Monasteries in Armenia",
+            "Armenian Apostolic Church monasteries",
+            "Architecture of Armenia",
+            "Architectural elements in Armenia"
+          ],
+          "source_queries": {
+            "cleveland": [
+              "Armenian",
+              "Armenia"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "region_places": {
+    "place_to_country": {
+      "armenia": "Armenia",
+      "armenian": "Armenia",
+      "yerevan": "Armenia",
+      "gyumri": "Armenia",
+      "vanadzor": "Armenia",
+      "echmiadzin": "Armenia",
+      "etchmiadzin": "Armenia",
+      "syunik": "Armenia",
+      "lori": "Armenia",
+      "georgia (country)": "Georgia",
+      "tbilisi": "Georgia",
+      "tiflis": "Georgia",
+      "kutaisi": "Georgia",
+      "svaneti": "Georgia",
+      "khevsureti": "Georgia",
+      "kakheti": "Georgia",
+      "imereti": "Georgia",
+      "adjara": "Georgia",
+      "batumi": "Georgia",
+      "tusheti": "Georgia",
+      "pshavi": "Georgia",
+      "azerbaijan": "Azerbaijan",
+      "baku": "Azerbaijan",
+      "ganja": "Azerbaijan",
+      "shusha": "Azerbaijan",
+      "sheki": "Azerbaijan",
+      "shirvan": "Azerbaijan",
+      "quba": "Azerbaijan",
+      "kuba": "Azerbaijan",
+      "karabakh": "Azerbaijan",
+      "nakhchivan": "Azerbaijan",
+      "dagestan": "Russia",
+      "daghestan": "Russia",
+      "kubachi": "Russia",
+      "chechnya": "Russia",
+      "ingushetia": "Russia",
+      "kabardino-balkaria": "Russia",
+      "karachay-cherkessia": "Russia",
+      "north ossetia": "Russia",
+      "adygea": "Russia",
+      "circassia": "Russia"
+    },
+    "reject_places": [],
+    "signature_traditions": {}
+  }
+}
