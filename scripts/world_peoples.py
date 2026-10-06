@@ -1736,6 +1736,116 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
               f"   not listed {sum(not r['listed'] for r in rs):3d}   unreviewed-only {sum(r['unvetted_only'] for r in rs):3d}")
 
 
+SCREEN_PROMPT = """You check entries before they are added as cultures to a world atlas of folk
+culture. Each entry is a Wikidata item already classified as a people. Using the
+Wikipedia summary and your own knowledge, give one verdict per entry:
+
+- keep: a living people or ethnic group (or a distinct regional people inside a
+  nation, such as Catalans or Cornish) with a community today.
+- extinct: no community identifies as this people today; it died out or was fully
+  assimilated (Westo, Slovincians). A people with present-day descendant
+  communities that still carry the name is keep.
+- duplicate: the same people as one of the names already on the map for that
+  country, or as another entry in this list, under another name, spelling or a
+  historical exonym (Arnauts = Albanians). Give that name in duplicate_of.
+  When two entries (or an entry and another candidate below) are the same
+  people, keep the one with more Wikipedia language editions (sl=) and mark
+  only the other as duplicate. A
+  distinct subgroup of a people on the map (Hoklo inside Han Chinese,
+  Carinthian Slovenes beside Slovenes) is keep.
+- not_people: a government, tribal nation as a political body, band, reserve,
+  organisation, religious community without its own ethnicity, caste, clan or
+  confederation of peoples. When the people it governs is already on the map or
+  in the list, use duplicate instead and name it.
+
+Reply with JSON only: {{"entries": [{{"key": "...", "verdict": "...", "duplicate_of": "", "reason": "..."}}]}},
+one object per entry, same order; reason is at most 15 words.
+
+Country: {country}
+Names already on the map for this country: {on_map}
+Other candidates from this country, judged in other batches: {candidates}
+
+Entries:
+{entries}
+"""
+
+SCREEN_SCHEMA = {
+    "type": "object", "required": ["entries"], "additionalProperties": False,
+    "properties": {"entries": {"type": "array", "items": {
+        "type": "object", "required": ["key", "verdict", "duplicate_of", "reason"], "additionalProperties": False,
+        "properties": {"key": {"type": "string"},
+                       "verdict": {"type": "string", "enum": ["keep", "extinct", "duplicate", "not_people"]},
+                       "duplicate_of": {"type": "string"}, "reason": {"type": "string"}}}}},
+}
+
+
+def _missing_peoples() -> list[str]:
+    """Classified living peoples with no culture on the map yet (neither a
+    vetted atlas culture nor an unreviewed stub)."""
+    cl = json.loads((OUT / "classified.json").read_text(encoding="utf-8"))
+    wd = {r["qid"] for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
+    atlas = {r["key"] for r in _rows() if r.get("in_atlas")}
+    stubs_p = REPO / "data" / "unvetted" / "stubs.json"
+    stubs = {s["people_key"] for s in json.loads(stubs_p.read_text(encoding="utf-8"))} if stubs_p.exists() else set()
+    return [k for k, r in cl.items() if r.get("people") is True and k in wd and k not in atlas and k not in stubs]
+
+
+def cmd_screen(only: list[str], limit: int = 0, workers: int = 3) -> None:
+    """Sort the living peoples not yet on the map into keep / extinct /
+    duplicate / not_people before they get map points and writeups.
+    -> data/world/screened.json (cache), screen_raw.jsonl (every reply)."""
+    from collections import defaultdict
+    from concurrent.futures import ThreadPoolExecutor
+    from folk_patterns.codex_cli import ask
+    cache_p, raw_p = OUT / "screened.json", OUT / "screen_raw.jsonl"
+    cache = json.loads(cache_p.read_text(encoding="utf-8")) if cache_p.exists() else {}
+    cl = json.loads((OUT / "classified.json").read_text(encoding="utf-8"))
+    wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
+    missing = _missing_peoples()
+    keys = list(dict.fromkeys(only)) or [k for k in missing if k not in cache]
+    if limit:
+        keys = keys[:limit]
+    on_map: dict[str, set[str]] = defaultdict(set)
+    for path in (REPO / "data" / "ethnicities").glob("*.json"):
+        s = json.loads(path.read_text(encoding="utf-8"))
+        on_map[str(s.get("country") or "")].add(str(s.get("ethnicity") or ""))
+    missing_by_country: dict[str, list[str]] = defaultdict(list)
+    for k in missing:
+        missing_by_country[str(cl[k].get("country") or "")].append(k)
+    by_country: dict[str, list[str]] = defaultdict(list)
+    for k in keys:
+        by_country[str(cl[k].get("country") or "")].append(k)
+    batches = [(c, ks[i:i + 30]) for c, ks in sorted(by_country.items()) for i in range(0, len(ks), 30)]
+    print(f"screen: {len(keys)} peoples in {len(batches)} batches ({len(cache)} cached)", flush=True)
+    with httpx.Client(timeout=30, headers=UA, follow_redirects=True) as http:
+        def one(batch: tuple[str, list[str]]) -> list[dict]:
+            country, ks = batch
+            entries = "\n".join(
+                f'- key: {k} | name: {wd[k]["label"]} | sl={wd[k].get("sitelinks", 0)} | region: {cl[k].get("region") or "-"} | '
+                f'text: {(_summary(http, wd[k]["article"]) if wd[k].get("article") else "") or "(no article text)"}'
+                for k in ks)
+            others = sorted(n for n in on_map.get(country, set())
+                            if n) or ["(none)"]
+            rest = [f'{wd[k]["label"]} (sl={wd[k].get("sitelinks", 0)})' for k in missing_by_country.get(country, [])
+                    if k not in ks]
+            prompt = SCREEN_PROMPT.format(country=country or "-", on_map=", ".join(others),
+                                          candidates=", ".join(rest) or "(none)", entries=entries)
+            reply = ask(prompt, schema=SCREEN_SCHEMA, timeout=900)
+            got = (json.loads(reply) if isinstance(reply, str) else reply).get("entries", [])
+            with open(raw_p, "a", encoding="utf-8") as raw:
+                raw.write(json.dumps({"country": country, "keys": ks, "reply": got}, ensure_ascii=False) + "\n")
+            return [g for g in got if g.get("key") in ks]
+        with ThreadPoolExecutor(workers) as ex:
+            for n, got in enumerate(ex.map(one, batches), 1):
+                for g in got:
+                    cache[g["key"]] = {"label": wd[g["key"]]["label"], "country": cl[g["key"]].get("country"),
+                                       **{x: g[x] for x in ("verdict", "duplicate_of", "reason")}}
+                    print(f'  {g["verdict"]:10} {wd[g["key"]]["label"][:40]:40} {g["duplicate_of"][:25]:25} {g["reason"]}', flush=True)
+                cache_p.write_text(json.dumps(cache, ensure_ascii=False, indent=0), encoding="utf-8")
+    from collections import Counter
+    print(Counter(v["verdict"] for v in cache.values()))
+
+
 def cmd_gaps() -> None:
     """Write source/site coverage gaps from the classified world list."""
     classified = json.loads((OUT / "classified.json").read_text(encoding="utf-8")) if (OUT / "classified.json").exists() else {}
@@ -1864,15 +1974,15 @@ def _write_doc(keep: list[dict], threshold: int) -> None:
 if __name__ == "__main__":
     sys.stdout.reconfigure(line_buffering=True, encoding="utf-8")
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import"])
-    ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name")
+    ap.add_argument("step", choices=["wikidata", "bm", "aliases", "labels", "europeana", "europeana-objects", "local", "classify", "harvest", "cleanup", "report", "candidates", "gaps", "pick", "coverage", "pick-import", "screen"])
+    ap.add_argument("--only", nargs="*", default=[], help="pick/europeana-objects: peoples by Wikidata key, label or atlas name; screen: Wikidata keys")
     ap.add_argument("--shard", default="", help="pick: i/n, this process takes every n-th people (run n processes)")
     ap.add_argument("--cached-only", action="store_true", help="pick: no judge calls, no pick file written; record outcomes only")
     ap.add_argument("--export-batch", default="", help="pick --cached-only: write awaiting_judge candidates as a cloud batch")
     ap.add_argument("--batch", default="", help="pick-import: the batch name")
     ap.add_argument("--tries", type=int, default=0, help="pick: candidates shown to the judge per category (default 10); earlier verdicts come from the cache")
     ap.add_argument("--no-judge", action="store_true", help="pick: no judge calls; write the pick file from cached verdicts")
-    ap.add_argument("--limit", type=int, default=0, help="cleanup: only the first N (a test batch)")
+    ap.add_argument("--limit", type=int, default=0, help="cleanup/screen: only the first N (a test batch)")
     ap.add_argument("--min-cats", type=int, default=1, help="cleanup/report: categories with 3+ objects a listed people needs")
     ap.add_argument("--pages", type=int, default=5, help="harvest: BM list pages (100 objects each) per people")
     ap.add_argument("--refill", action="store_true", help="harvest: re-fetch in full the peoples that hit the page cap")
@@ -1888,6 +1998,6 @@ if __name__ == "__main__":
      "europeana-objects": lambda: cmd_europeana_objects(a.only),
      "classify": lambda: cmd_classify(a.threshold, a.backend, a.all_min_sitelinks),
      "harvest": lambda: cmd_harvest(a.pages, a.threshold, a.refill), "cleanup": lambda: cmd_cleanup(a.min_cats, a.limit),
-     "candidates": cmd_candidates, "gaps": cmd_gaps,
+     "candidates": cmd_candidates, "gaps": cmd_gaps, "screen": lambda: cmd_screen(a.only, a.limit),
      "pick": lambda: cmd_pick(a.only, a.shard, a.cached_only, a.no_judge, a.export_batch),
      "coverage": lambda: cmd_coverage(a.only), "pick-import": lambda: cmd_pick_import(a.batch)}.get(a.step, lambda: cmd_report(a.threshold, a.min_cats))()

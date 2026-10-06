@@ -370,11 +370,15 @@ _COUNTRY_ALIASES = {
     "North Macedonia": "Macedonia",
     "Côte d'Ivoire": "Ivory Coast",
     "Serbia": "Republic of Serbia",
+    "Timor-Leste": "East Timor",
 }
 # Island states too small for the 1:110m country polygons.
 _EUROPEAN_RUSSIA = (59.0, 42.0)
 _NORTH_CAUCASUS = (43.2, 45.0)
-_COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2), "Maldives": (3.2, 73.22)}
+_COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2), "Maldives": (3.2, 73.22),
+                   "Isle of Man": (54.23, -4.55), "Federated States of Micronesia": (7.42, 151.85),
+                   "Northern Mariana Islands": (15.2, 145.75), "Bahrain": (26.07, 50.55),
+                   "Cook Islands": (-21.23, -159.78)}
 
 
 def _country_rings(country: str) -> list[list]:
@@ -520,6 +524,31 @@ _COUNTRY_REGION = {
 }
 
 
+def _screened_keep() -> set[str]:
+    """Peoples `world_peoples.py screen` kept (living, not a duplicate, a
+    people); data/world/screened.json."""
+    p = WORLD_DIR / "screened.json"
+    if not p.exists():
+        return set()
+    return {k for k, v in json.loads(p.read_text(encoding="utf-8")).items() if v.get("verdict") == "keep"}
+
+
+def _bare_candidate(key: str) -> dict:
+    """A candidate row for a people with no museum evidence, from the
+    classifier and Wikidata."""
+    global _CLASSIFIED, _WIKIDATA
+    if _CLASSIFIED is None:
+        _CLASSIFIED = json.loads((WORLD_DIR / "classified.json").read_text(encoding="utf-8"))
+        _WIKIDATA = {r["qid"]: r for r in json.loads((WORLD_DIR / "wikidata.json").read_text(encoding="utf-8"))}
+    c, w = _CLASSIFIED.get(key) or {}, _WIKIDATA.get(key) or {}
+    return {"key": key, "label": w.get("label") or key, "continent": c.get("continent"), "region": c.get("region"),
+            "country": c.get("country") or w.get("country"), "unvetted_only": True, "objects": {}}
+
+
+_CLASSIFIED: dict | None = None
+_WIKIDATA: dict | None = None
+
+
 def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dict | None:
     country = str(candidate.get("country") or "").strip()
     centroid = _country_centroid(country)
@@ -619,9 +648,17 @@ def cmd_build(only: list[str]) -> None:
                 old_index.pop(str(old_stub.get("ethnicity_key") or ""), None)
     else:
         stubs = {}
+    kept = _screened_keep()
+    if not only:
+        # Living peoples the screen kept that have no candidate row at all (no
+        # museum evidence): a stub with no objects.
+        have = {str(c.get("key", "")) for c in candidates}
+        candidates = candidates + [_bare_candidate(k) for k in sorted(kept - have)]
     for candidate in candidates:
         matches = _ethnicity_shards(candidate)
         stub = False
+        if matches and not candidate.get("objects"):
+            continue   # a bare candidate whose people is already on the map adds nothing
         if matches:
             meta = matches[0]
             ethkey = str(meta.get("key") or meta.get("_ethkey") or "")
@@ -659,8 +696,10 @@ def cmd_build(only: list[str]) -> None:
                 else:
                     buckets.setdefault(category, []).append(item)
         count = sum(len(items) for items in buckets.values()) + len(other)
-        if stub and not count:
-            # A culture with nothing to show is not put on the map.
+        if stub and not count and str(candidate.get("key", "")) not in kept:
+            # A culture with nothing to show is put on the map only when the
+            # screen kept it (world_peoples.py screen); it then shows its
+            # writeup and home area without objects.
             stubs.pop(str(candidate.get("key", "")), None)
             continue
         shard = {

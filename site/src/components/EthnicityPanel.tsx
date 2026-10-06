@@ -553,8 +553,14 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               <h2 className="mt-1 font-serif text-4xl font-medium leading-tight">{point.ethnicity}</h2>
               {unvettedOnly ? (
                 <>
-                  <p className="mt-2 text-sm text-amber-400">Not yet reviewed — museum objects matched by text only</p>
-                  <p className="sub-meta mt-2 text-sm">{shard?.unvetted_count ?? 0} unreviewed objects</p>
+                  {(shard?.unvetted_count ?? 0) > 0 ? (
+                    <>
+                      <p className="mt-2 text-sm text-amber-400">Not yet reviewed — museum objects matched by text only</p>
+                      <p className="sub-meta mt-2 text-sm">{shard?.unvetted_count} unreviewed objects</p>
+                    </>
+                  ) : (
+                    <p className="mt-2 text-sm text-amber-400">No museum objects found yet</p>
+                  )}
                 </>
               ) : (
                 <p className="sub-meta mt-2 text-sm">
@@ -597,8 +603,8 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
           ) : null}
 
           {/* An unreviewed-only culture has at most a Wikipedia-based writeup
-              above; its candidates are the rest of the page. Existing vetted cultures keep this section last. */}
-          {shard && point && unvettedOnly && (
+              above; its candidates, if any, are the rest of the page. Existing vetted cultures keep this section last. */}
+          {shard && point && unvettedOnly && (shard.unvetted_count ?? 0) > 0 && (
             <UnvettedSection key={point.key} ethKey={point.key} count={shard.unvetted_count ?? 0} openByDefault />
           )}
           {shard && point && !unvettedOnly && (shard.unvetted_count ?? 0) > 0 && (
