@@ -302,7 +302,9 @@ function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
                 onError={() => setFailed((current) => new Set(current).add(key))}
                 className="h-full w-full object-contain p-1 transition group-hover:scale-105"
               />
-              <span className="tile-tag absolute bottom-1 left-1 rounded-sm bg-ink/70 px-1.5 py-0.5 text-[9px]">
+              {/* Long museum descriptions are clamped to two lines so they
+                  never cover the photo; the full text is in the hover title. */}
+              <span className="tile-tag absolute bottom-1 left-1 right-1 line-clamp-2 w-fit rounded-sm bg-ink/70 px-1.5 py-0.5 text-[9px] leading-tight">
                 {item.title}
               </span>
             </a>
