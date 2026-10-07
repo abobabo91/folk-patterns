@@ -491,10 +491,12 @@ so the record survives the gitignored logs. `not_reached` is a candidate the
 pick never tried: the 10-per-category cap, or a BM candidate in a run without
 `BM_CDP_URL`. A judged candidate is not judged again: reruns read the cache.
 
-**Unreviewed objects.** Culture pages can show a separate set of museum
-candidates matched to a people by text only. For a picked culture, the section
-remains collapsed; for an `unvetted_only` culture it is the only content and
-opens by default. Resolve and build it with
+**Unreviewed objects.** Culture pages also show museum candidates matched to
+a people by text only, marked "unreviewed". Each category sits in the writeup
+section of its art form, like the reviewed galleries: below the reviewed
+objects behind a collapsed "Unreviewed (N)" toggle, or shown directly with an
+"Unreviewed" tag when the category has no reviewed objects. Uncategorised ones
+join "Other". Resolve and build it with
 `python scripts/unvetted.py resolve --only KEY` and
 `python scripts/unvetted.py build`; images are hotlinked from the museums and
 these candidates are not counted in the vetted object totals.
