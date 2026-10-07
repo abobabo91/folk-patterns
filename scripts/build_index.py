@@ -75,6 +75,18 @@ if not R2_PUBLIC_BASE:
             R2_PUBLIC_BASE = ((_v.get("apis") or {}).get("cloudflare_r2") or {}).get("public_base_url", "").rstrip("/")
 
 
+_LIBRARY_FILES: dict[str, str] | None = None
+
+
+def _library_files() -> dict[str, str]:
+    """{file name: path under library/} for every image, read once."""
+    global _LIBRARY_FILES
+    if _LIBRARY_FILES is None:
+        root = REPO_ROOT / "library"
+        _LIBRARY_FILES = {p.name: p.relative_to(root).as_posix() for p in root.rglob("images/*") if p.is_file()}
+    return _LIBRARY_FILES
+
+
 def _image_url(local_path: str | None) -> str | None:
     """Convert a local library path to a public R2 URL if configured, else fall back.
 
@@ -87,6 +99,11 @@ def _image_url(local_path: str | None) -> str | None:
     key = local_path.replace("\\", "/").lstrip("/")
     if key.startswith("library/"):
         key = key[len("library/"):]
+    if not (REPO_ROOT / "library" / key).exists():
+        # A stale local_path: 19 V&A Xinjiang records named
+        # china-xinjiang/china-xinjiang/ while their files (and R2 keys) sit
+        # in china-xinjiang/_regional/ (2026-10-06). Use where the file is.
+        key = _library_files().get(key.rsplit("/", 1)[-1], key)
     if R2_PUBLIC_BASE:
         return f"{R2_PUBLIC_BASE}/{key}"
     return "/library/" + key
