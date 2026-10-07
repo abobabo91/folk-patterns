@@ -328,9 +328,12 @@ the `CJK` rules in `kind_lexicon.py`, where the match that ends last wins
 rest "Other". The Taiwan catalogue has no people field, so only the quoted
 title, the "used by" phrase or a title starting with the people count; read by
 hand on 2026-10-07: 10 of 10 attributions right, and every classified title in a sample of 40.
-Its pictures are 400 x 300 behind an encrypted token per page load; a token
-still answered 10 minutes later, and how long one lasts is not known, so a
-broken Taiwan tile hides itself like any other. Néprajzi Múzeum images carry
+Its pictures are 400 x 300 behind an encrypted token per page load; all
+2,117 harvested tokens still loaded about two hours later, and how long one
+lasts beyond that is not known, so a broken Taiwan tile hides itself like any
+other. The parts of a set (AT001171-001 to -006, a loom) often share the set's
+one photo under different tokens, so a people keeps one object per picture,
+compared by its bytes (`ntm.image_hash`): 84 of 2,117 dropped. Néprajzi Múzeum images carry
 no open licence and are shown linked to the museum's record.
 
 Up to 300 objects and 60 field photographs per people per museum. Berlin sound

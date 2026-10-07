@@ -865,6 +865,7 @@ def _ntm_people(cl: httpx.Client, key: str) -> list[dict]:
     if not names:
         return []
     out: list[dict] = []
+    seen: set[str] = set()
     for rec in ntm.catalog(OUT / "ntm_catalog.json"):
         if len(out) >= ETHNO_CAP:
             break
@@ -872,7 +873,11 @@ def _ntm_people(cl: httpx.Client, key: str) -> list[dict]:
             continue
         img = ntm.image_url(cl, rec)
         time.sleep(0.3)
-        if img:
+        # the parts of a set (AT001171-001 ... -006) often share the set's one
+        # photo, under a different token each: compare the picture itself
+        h = ntm.image_hash(cl, img) if img else ""
+        if img and h and h not in seen:
+            seen.add(h)
             out.append({"source": "ntm", "id": ntm.object_id(rec), "name": (rec.get("MainTitle") or "").strip()[:120],
                         "item": {"title": (rec.get("MainTitle") or "").strip(), "image_url": img,
                                  "ethnos": [ntm.attribution(rec)]}})

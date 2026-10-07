@@ -9,8 +9,8 @@ of Culture's collections site, https://collections.culture.tw. Checked 2026-10-0
         the record page; <img id="imgLarge" src="/ShowGalImage.aspx?...">
         is the picture, 400 x 300. The src carries an encrypted token that
         differs on every page load; it redirects (302) to /ShowGalImage?...,
-        which answers without cookie or Referer. A token was still valid 10
-        minutes later; how long it stays valid is not known.
+        which answers without cookie or Referer. 2,117 tokens were still valid
+        about two hours later; how long one stays valid beyond that is not known.
 
 The indigenous objects are Type "人類學\\原住民類" (7,393). The catalogue has no
 people field: the description names the people in the object's quoted full
@@ -107,6 +107,16 @@ def image_url(cl: httpx.Client, rec: dict) -> str:
     if h.status_code in (301, 302) and loc:
         return loc if loc.startswith("http") else BASE + "/" + loc.lstrip("/")
     return src if h.status_code == 200 else ""
+
+
+def image_hash(cl: httpx.Client, url: str) -> str:
+    """md5 of the picture's bytes, "" when it does not load. The parts of a set
+    often share one photo (AT001171-001 to -006, a loom), each under its own token."""
+    import hashlib
+    r = cl.get(url)
+    if r.status_code != 200 or not r.headers.get("content-type", "").startswith("image"):
+        return ""
+    return hashlib.md5(r.content).hexdigest()
 
 
 def object_id(rec: dict) -> str:
