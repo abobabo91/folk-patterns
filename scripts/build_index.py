@@ -177,6 +177,8 @@ def _image_features(img: dict | None) -> list | None:
     if not local_path:
         return None
     p = REPO_ROOT / local_path
+    if not p.exists():   # the stale Xinjiang paths, as in _image_url
+        p = REPO_ROOT / "library" / _library_files().get(p.name, "-")
     if not p.exists():
         return None
     if _hash_cache is None:
