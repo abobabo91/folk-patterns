@@ -1,12 +1,12 @@
 // Theme state stored on <html data-theme="dark|light"> AND localStorage.
-// Default: dark. Read once at hydration, updated on toggle.
+// Default: light. Read once at hydration, updated on toggle.
 
 export type Theme = 'dark' | 'light';
 
 export function getTheme(): Theme {
-  if (typeof document === 'undefined') return 'dark';
+  if (typeof document === 'undefined') return 'light';
   const t = document.documentElement.getAttribute('data-theme') as Theme | null;
-  return t ?? 'dark';
+  return t ?? 'light';
 }
 
 export function setTheme(t: Theme) {

@@ -18,7 +18,7 @@ export function GlobeSwitcher({ points }: Props) {
   const [earthMode, setEarthMode] = useState<EarthMode>('satellite');
   const [activeKey, setActiveKey] = useState<string | null>(null);
   const [shard, setShard] = useState<EthnicityShard | null>(null);
-  const [theme, setTheme] = useState<Theme>('dark');
+  const [theme, setTheme] = useState<Theme>('light');
 
   useEffect(() => {
     setTheme(getTheme());

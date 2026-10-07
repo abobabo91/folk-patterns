@@ -7,7 +7,7 @@ export interface Props {
 const { title = 'folk-patterns', description = 'A visual atlas of world folk culture — textiles, music, dance, festivals, foodways, and the museum objects that record them.' } = Astro.props;
 ---
 <!doctype html>
-<html lang="en" data-theme="dark" class="dark">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content={description} />
@@ -19,12 +19,12 @@ const { title = 'folk-patterns', description = 'A visual atlas of world folk cul
       href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono&display=swap"
     />
     <title>{title}</title>
-    {/* Read theme from localStorage BEFORE hydration to avoid a light-flash on dark loads (or vice versa). */}
+    {/* Read theme from localStorage BEFORE hydration to avoid a flash of the wrong theme. Default: light. */}
     <script is:inline>
       (() => {
         try {
           const t = localStorage.getItem('folk-patterns-theme');
-          const theme = t === 'light' ? 'light' : 'dark';
+          const theme = t === 'dark' ? 'dark' : 'light';
           document.documentElement.setAttribute('data-theme', theme);
           document.documentElement.classList.toggle('dark', theme === 'dark');
         } catch {}

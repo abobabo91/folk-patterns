@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { getTheme, setTheme, type Theme } from '../lib/theme';
 
 export function ThemeToggle() {
-  const [theme, setLocalTheme] = useState<Theme>('dark');
+  const [theme, setLocalTheme] = useState<Theme>('light');
 
   useEffect(() => {
     setLocalTheme(getTheme());
