@@ -33,14 +33,14 @@ interface Props {
   index: number;
   onIndex: (i: number) => void;
   onClose: () => void;
+  // The image at this index failed to load; dir is the last step (+1 or -1).
+  onBroken: (index: number, dir: number) => void;
 }
 
-export function Lightbox({ items, index, onIndex, onClose }: Props) {
+export function Lightbox({ items, index, onIndex, onClose, onBroken }: Props) {
   const item = items[index];
-  const [broken, setBroken] = useState(false);
-  const go = (d: number) => onIndex((index + d + items.length) % items.length);
-
-  useEffect(() => setBroken(false), [index]);
+  const [dir, setDir] = useState(1);
+  const go = (d: number) => { setDir(d); onIndex((index + d + items.length) % items.length); };
 
   // Capture phase, so Escape closes only the lightbox and not the panel under it.
   useEffect(() => {
@@ -72,18 +72,14 @@ export function Lightbox({ items, index, onIndex, onClose }: Props) {
           <button onClick={(e) => { e.stopPropagation(); go(1); }} className={`${btn} absolute right-2 top-1/2 -translate-y-1/2 px-3 py-2 text-xl sm:right-4`} aria-label="Next (→)">›</button>
         </>
       )}
-      {broken ? (
-        <div className="font-mono text-sm text-white/60">Image unavailable</div>
-      ) : (
-        <img
-          key={item.key}
-          src={item.image}
-          alt={item.title}
-          onClick={(e) => e.stopPropagation()}
-          onError={() => setBroken(true)}
-          className="max-h-[72vh] max-w-[88vw] object-contain"
-        />
-      )}
+      <img
+        key={item.key}
+        src={item.image}
+        alt={item.title}
+        onClick={(e) => e.stopPropagation()}
+        onError={() => onBroken(index, dir)}
+        className="max-h-[72vh] max-w-[88vw] object-contain"
+      />
       <div className="mt-4 max-w-3xl text-center text-white" onClick={(e) => e.stopPropagation()}>
         <div className="font-mono text-[10px] uppercase tracking-widest text-white/50">
           {item.label}{item.unreviewed && <span className="text-amber-400"> · unreviewed</span>} · {index + 1} / {items.length}

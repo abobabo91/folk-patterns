@@ -17,7 +17,7 @@ What counts as in and out of scope in detail, and how the vetter enforces it: [d
 
 Live map: a spinnable dark globe with a marker per ethnicity. Click a marker → per-ethnicity sidebar with a source-grounded culture writeup + every indexed object grouped by art form. Click any object → full detail page showing all provenance data captured from the source museum (dimensions, materials, techniques, gallery number, credit line, IIIF-resolvable image, deep-links to Wikidata and AAT vocab where present).
 
-**Status:** The index has 11 regions, 460 cultures and 17,871 objects (2026-10-04). Maya, Betsimisaraka and 8 peoples rescued by new source rules and a higher per-category limit (Shuar, Kiga, Diola, Wichita, Cherokee, Choctaw, Rizeigat, Ambonese) were added on 2026-10-04, written and reviewed by local Codex. The 237 before them came from pick batch p003 (`docs/vetting.md` → "Pick coverage"), each with at least 5 vetted objects; their profiles were written from sources only (57 in a cloud session, 180 by local Codex) and pass the term-and-number audit. 25 queue peoples still keep fewer than 5 objects and stay in `data/world/pick_coverage.jsonl` for a later round. The onboarding queue is `data/world/onboard_queue.json` (nations such as Japanese or French and umbrella names that duplicate atlas cultures are skipped, with the reason). The site publishes 1,820 editorially reviewed Commons photos (the last 46 that had failed to download were judged by local Codex on 2026-10-05: 28 accepted, 25 of them passed the editorial check). Object images are on R2. The site is https://folk-patterns.vercel.app.
+**Status:** The index has 11 regions, 460 cultures and 17,871 objects (2026-10-04). Maya, Betsimisaraka and 8 peoples rescued by new source rules and a higher per-category limit (Shuar, Kiga, Diola, Wichita, Cherokee, Choctaw, Rizeigat, Ambonese) were added on 2026-10-04, written and reviewed by local Codex. The 237 before them came from pick batch p003 (`docs/vetting.md` → "Pick coverage"), each with at least 5 vetted objects; their profiles were written from sources only (57 in a cloud session, 180 by local Codex) and pass the term-and-number audit. 25 queue peoples still keep fewer than 5 objects and stay in `data/world/pick_coverage.jsonl` for a later round. The onboarding queue is `data/world/onboard_queue.json` (nations such as Japanese or French and umbrella names that duplicate atlas cultures are skipped, with the reason). The site publishes 1,820 editorially reviewed Commons photos (the last 46 that had failed to download were judged by local Codex on 2026-10-05: 28 accepted, 25 of them passed the editorial check). Object images load from the holding museum where that works and from R2 otherwise ("Images" below). The site is https://folk-patterns.vercel.app.
 
 The earlier 17 world-list additions on 2026-09-26 were Tiv, Akan, Ambundu,
 Songye, Gbagyi, Mambila, Boya, Chamba, Bwa, Sukuma, Haida, Inuit, Ainu, Rukai,
@@ -67,7 +67,7 @@ data/objects/*.json                    # per-object detail shards
 site/                                  # Astro static site consumes the shards
   │
   ▼
-Vercel project folk-patterns           # vercel --prod from site/; images on R2
+Vercel project folk-patterns           # vercel --prod from site/; images from the museums, the rest on R2
 ```
 
 ## Quickstart
@@ -100,9 +100,11 @@ python scripts/move_culture.py east-asia__russia__bashkir europe --commit   # re
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
 python scripts/audit_profile.py --region north_america --only Hopi --fix   # short profile vs sources; add_culture runs it
 
-# 5. images to R2, then the site index shards
+# 5. images to R2, then the site index shards, then drop the copies it does not serve
 python scripts/upload_to_r2.py --commit -j 8
 python scripts/build_index.py
+python scripts/check_hotlinks.py                 # broken museum URLs -> data/hotlink_broken.json; rerun build_index if any
+python scripts/prune_images.py --commit          # after deploying and checking the site
 
 # 6. run the site (Astro dev on :4321), or deploy it
 cd site && npm run dev
@@ -500,6 +502,25 @@ join "Other". Resolve and build it with
 `python scripts/unvetted.py resolve --only KEY` and
 `python scripts/unvetted.py build`; images are hotlinked from the museums and
 these candidates are not counted in the vetted object totals.
+
+**Images.** The site loads 16,809 object images straight from the museum
+(`HOTLINK_HOSTS` in `build_index.py`: British Museum, Stockholm, V&A,
+Cleveland, Europeana, ceres.mcu.es, MAK and two single images) and serves 2,086
+from R2. The hosts were chosen on 2026-10-07 by loading 25 random images per
+host in a browser tab on the live site: the British Museum loaded 25/25 in a
+median 0.8 s. Kept on R2: Wikimedia (`check_hotlinks.py` got 429 for 1,141 of
+1,172 even at two requests at a time), the Met and the Smithsonian (2000 and
+3000 px originals, slow tiles), micr.io (5760 px), Wereldculturen (16/25), the
+Finnish zetcom repository (0/25), esbirky.cz (0/20) and any host not measured.
+`check_hotlinks.py` fetched all 16,819 of those museum URLs then: 59 Stockholm "zoom"
+URLs answer 200 with text, not an image, and stay on R2 through
+`data/hotlink_broken.json`. `prune_images.py` deletes every R2 object and
+`library/**/images/` file the build no longer serves (`metadata.json` stays);
+the duplicate-picture check reads deleted images' features from
+`data/image_features.json`, keyed by sha256. A tile whose image fails to load
+hides itself in the panel and is skipped in the lightbox, and the object page
+hides a broken image, so a museum moving a file costs that one tile.
+Unreviewed objects were always hotlinked.
 
 **Panel viewing.** The ⤢ button next to ✕ widens a culture page to the full
 window (six-column galleries); ✕ still closes it. Clicking a tile opens it

@@ -97,10 +97,14 @@ const tileImage = (obj: SlimObject) =>
 
 function ArtFormBucket({ af, label, items }: { af: string; label: string; items: SlimObject[] }) {
   const [expanded, setExpanded] = useState(false);
-  const shown = expanded ? items : items.slice(0, INITIAL_PER_BUCKET);
-  const hidden = items.length - shown.length;
+  // A museum image that fails to load (moved, deleted, blocked) hides its tile.
+  const [failed, setFailed] = useState<Set<string>>(new Set());
+  const visible = items.filter((obj) => !failed.has(obj.id));
+  const shown = expanded ? visible : visible.slice(0, INITIAL_PER_BUCKET);
+  const hidden = visible.length - shown.length;
   const full = useContext(FullContext);
   const open = useLightboxOpen();
+  if (!visible.length) return null;
   return (
     <section>
       <h3 className="mb-3 flex items-baseline gap-2 font-serif text-xl font-medium">
@@ -136,6 +140,7 @@ function ArtFormBucket({ af, label, items }: { af: string; label: string; items:
                 fetchpriority={i === 0 ? 'high' : (eager ? 'auto' : 'low')}
                 decoding="async"
                 onLoad={(e) => { (e.currentTarget.parentElement as HTMLElement).classList.remove('animate-pulse-slow'); }}
+                onError={() => setFailed((cur) => new Set(cur).add(obj.id))}
                 className="h-full w-full object-contain p-1 transition group-hover:scale-105"
               />
             )}
@@ -178,7 +183,8 @@ const AF_LABEL: Record<string, string> = {
 };
 
 function MediaSection({ shard, unreviewed = false }: { shard: EthnicityShard; unreviewed?: boolean }) {
-  const photos = shard.commons_photos ?? [];
+  const [failed, setFailed] = useState<Set<string>>(new Set());
+  const photos = (shard.commons_photos ?? []).filter((p) => !failed.has(p.thumb_url ?? ''));
   const ich = shard.unesco_ich ?? [];
   const folkways = shard.folkways ?? [];
   const full = useContext(FullContext);
@@ -204,6 +210,7 @@ function MediaSection({ shard, unreviewed = false }: { shard: EthnicityShard; un
                 {p.thumb_url && (
                   <img
                     src={p.thumb_url}
+                    onError={() => setFailed((cur) => new Set(cur).add(p.thumb_url ?? ''))}
                     alt={p.title ?? ''}
                     loading="lazy"
                     className="h-full w-full object-cover transition group-hover:scale-105"
@@ -680,7 +687,13 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
         </div>
       )}
     </aside>
-    {lb && <Lightbox items={lb.items} index={lb.index} onIndex={(index) => setLb({ ...lb, index })} onClose={() => setLb(null)} />}
+    {lb && <Lightbox items={lb.items} index={lb.index} onIndex={(index) => setLb({ ...lb, index })} onClose={() => setLb(null)}
+      onBroken={(i, dir) => {
+        // Drop the broken image and show its neighbour in the direction of travel.
+        const items = lb.items.filter((_, j) => j !== i);
+        if (!items.length) return setLb(null);
+        setLb({ items, index: dir > 0 ? i % items.length : (i - 1 + items.length) % items.length });
+      }} />}
     </LightboxContext.Provider>
     </FullContext.Provider>
   );

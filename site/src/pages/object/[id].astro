@@ -61,6 +61,7 @@ const dimLines = [...dimGroups].map(([part, v]) => (part ? `${part}: ` : '') + v
             src={primaryImg.url ?? `/${(primaryImg.local_path ?? '').replace(/\\/g, '/')}`}
             alt={p.title ?? ''}
             class="w-full rounded-md border border-dusk"
+            onerror="this.style.display='none'"
           />
         )}
         {altImgs.length > 0 && (
@@ -70,6 +71,7 @@ const dimLines = [...dimGroups].map(([part, v]) => (part ? `${part}: ` : '') + v
                 src={i.url ?? `/${(i.local_path ?? '').replace(/\\/g, '/')}`}
                 alt=""
                 class="aspect-square rounded-sm border border-dusk object-cover"
+                onerror="this.style.display='none'"
               />
             ))}
           </div>

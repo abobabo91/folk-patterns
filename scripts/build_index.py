@@ -109,15 +109,71 @@ def _image_url(local_path: str | None) -> str | None:
     return "/library/" + key
 
 
+# Hosts whose own image URL the site loads directly instead of our R2 copy.
+# Measured 2026-10-07 by loading 25 random images per host in a browser tab on
+# the live site: all of these loaded (British Museum 25/25, 0.8 s median).
+# Left on R2: Wikimedia (the link check got 429 for 1,141 of 1,172 even at two
+# requests at a time, so visitors could be refused too, and the panel hides a
+# tile whose image fails), Met and Smithsonian (2000 and 3000 px originals),
+# micr.io (5760 px), Wereldculturen (16/25 loaded, 4134 px, 8.5 s), the
+# Finnish zetcom repository (0/25) and esbirky.cz (0/20), plus any host not
+# measured. A URL that fails scripts/check_hotlinks.py is listed in
+# data/hotlink_broken.json and stays on R2 too.
+HOTLINK_HOSTS = {
+    "media.britishmuseum.org", "collections.smvk.se",
+    "openaccess-cdn.clevelandart.org", "api.europeana.eu", "framemark.vam.ac.uk",
+    "ceres.mcu.es", "sammlung.mak.at", "sgdap.girona.cat", "gallica.bnf.fr",
+}
+_HOTLINK_BROKEN_PATH = REPO_ROOT / "data" / "hotlink_broken.json"
+_hotlink_broken: set | None = None
+
+
+def _hotlink(img: dict) -> str | None:
+    """The museum's own image URL when the site may load it directly."""
+    global _hotlink_broken
+    url = img.get("url") or ""
+    if url.startswith("http://"):   # ceres.mcu.es and gallica are stored as http://
+        url = "https://" + url[len("http://"):]
+    if not url.startswith("https://") or url.split("/")[2] not in HOTLINK_HOSTS:
+        return None
+    if _hotlink_broken is None:
+        try:
+            _hotlink_broken = set(json.loads(_HOTLINK_BROKEN_PATH.read_text(encoding="utf-8")))
+        except (OSError, ValueError):
+            _hotlink_broken = set()
+    return None if url in _hotlink_broken else url
+
+
+def _display_url(img: dict) -> str | None:
+    """What the site shows for one image: the museum's URL, else our R2 copy."""
+    return _hotlink(img) or _image_url(img.get("local_path"))
+
+
 # Perceptual image features for duplicate detection, cached by path, size and
 # mtime in .cache/ (gitignored) — hashing ~3,700 images takes about a minute.
+# The features are also kept by the image's sha256 in data/image_features.json
+# (committed), so the check keeps working once the local copy is deleted for a
+# hotlinked image.
 _HASH_CACHE_PATH = REPO_ROOT / ".cache" / "image_hashes.json"
+_FEATURES_PATH = REPO_ROOT / "data" / "image_features.json"
 _hash_cache: dict | None = None
+_features: dict | None = None
 
 
-def _image_features(local_path: str | None) -> list | None:
+def _image_features(img: dict | None) -> list | None:
     """[16x16 dHash of the autocontrasted grey image, aspect ratio, mean RGB]."""
-    global _hash_cache
+    global _hash_cache, _features
+    if not img:
+        return None
+    if _features is None:
+        try:
+            _features = json.loads(_FEATURES_PATH.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            _features = {}
+    sha = img.get("sha256")
+    if sha and sha in _features:
+        return _features[sha]
+    local_path = img.get("local_path")
     if not local_path:
         return None
     p = REPO_ROOT / local_path
@@ -141,6 +197,8 @@ def _image_features(local_path: str | None) -> list | None:
         h = sum(1 << i for i, (r, c) in enumerate((r, c) for r in range(16) for c in range(16))
                 if px[r * 17 + c] > px[r * 17 + c + 1])
         _hash_cache[ck] = [str(h), im.width / im.height, list(im.resize((1, 1), Image.BOX).getpixel((0, 0)))]
+    if sha:
+        _features[sha] = _hash_cache[ck]
     return _hash_cache[ck]
 
 
@@ -148,6 +206,8 @@ def _save_hash_cache() -> None:
     if _hash_cache is not None:
         _HASH_CACHE_PATH.parent.mkdir(exist_ok=True)
         _HASH_CACHE_PATH.write_text(json.dumps(_hash_cache), encoding="utf-8")
+    if _features is not None:
+        _FEATURES_PATH.write_text(json.dumps(_features, sort_keys=True), encoding="utf-8")
 
 
 def _same_picture(a: list | None, b: list | None) -> bool:
@@ -496,7 +556,7 @@ def build() -> None:
         for r in objs_sorted:
             for img in r.get("images") or []:
                 if img.get("local_path"):
-                    top_image = _image_url(img["local_path"])
+                    top_image = _display_url(img)
                     break
             if top_image:
                 break
@@ -606,7 +666,7 @@ def build() -> None:
             img_path = None
             for i in imgs:
                 if i.get("local_path"):
-                    img_path = _image_url(i["local_path"])
+                    img_path = _display_url(i)
                     break
             phys = r.get("physical") or {}
             src = r.get("source") or {}
@@ -637,7 +697,7 @@ def build() -> None:
             cul = r.get("cultural") or {}
             if cul.get("pick_quality"):
                 score += 20 * cul["pick_quality"] + (10 if cul.get("pick_featured") else 0)
-            local = next((i["local_path"] for i in imgs if i.get("local_path")), None)
+            local = next((i for i in imgs if i.get("local_path")), None)
             acc = (src.get("accession_number") or "").strip()
             return {
                 "id": r.get("id"),
@@ -769,7 +829,7 @@ def build() -> None:
             for img in r.get("images") or []:
                 img2 = dict(img)
                 if img.get("local_path"):
-                    img2["url"] = _image_url(img["local_path"]) or img.get("url")
+                    img2["url"] = _display_url(img) or img.get("url")
                 new_imgs.append(img2)
             r2rec["images"] = new_imgs
             (out_root / "objects" / f"{oid}.json").write_text(
