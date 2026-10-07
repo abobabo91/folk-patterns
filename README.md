@@ -501,6 +501,13 @@ join "Other". Resolve and build it with
 `python scripts/unvetted.py build`; images are hotlinked from the museums and
 these candidates are not counted in the vetted object totals.
 
+**Panel viewing.** The ⤢ button next to ✕ widens a culture page to the full
+window (six-column galleries); ✕ still closes it. Clicking a tile opens it
+large in a lightbox instead of leaving the site: ←/→ step through every image
+of the culture in page order (reviewed, then unreviewed, including tiles still
+behind "show more"), "Go to site" opens the museum's page, "Details" our object
+page, Esc closes the lightbox only. Ctrl/middle-click keeps the plain link.
+
 The 2026-09-29 replay over the 155 picked peoples, and what it found about
 the "multiple peoples" rule, is in `docs/vetting.md` → "Pick coverage".
 

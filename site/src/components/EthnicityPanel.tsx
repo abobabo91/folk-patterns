@@ -1,4 +1,6 @@
-import { useEffect, useMemo, useState } from 'react';
+import { createContext, useCallback, useContext, useEffect, useMemo, useState } from 'react';
+import { Lightbox, LightboxContext, lightboxClick, useLightboxOpen } from './Lightbox';
+import type { LightboxItem } from './Lightbox';
 import { marked } from 'marked';
 import type { EthnicityShard, GlobePoint, SlimObject, CommonsPhoto, UnescoIchEntry, FolkwaysEntry, UnvettedItem, UnvettedShard } from '../lib/types';
 
@@ -85,10 +87,20 @@ function tileLabel(obj: SlimObject): string {
 // sub-category before repeating any.
 const INITIAL_PER_BUCKET = 9;
 
+// Full-screen mode widens the panel to the whole window; the galleries then
+// use more columns instead of three huge tiles.
+const FullContext = createContext(false);
+const gridCols = (full: boolean) => 'grid gap-1.5 ' + (full ? 'grid-cols-4 md:grid-cols-6' : 'grid-cols-3');
+
+const tileImage = (obj: SlimObject) =>
+  !obj.image ? '' : obj.image.startsWith('http') || obj.image.startsWith('/') ? obj.image : `/${obj.image.replace(/\\/g, '/')}`;
+
 function ArtFormBucket({ af, label, items }: { af: string; label: string; items: SlimObject[] }) {
   const [expanded, setExpanded] = useState(false);
   const shown = expanded ? items : items.slice(0, INITIAL_PER_BUCKET);
   const hidden = items.length - shown.length;
+  const full = useContext(FullContext);
+  const open = useLightboxOpen();
   return (
     <section>
       <h3 className="mb-3 flex items-baseline gap-2 font-serif text-xl font-medium">
@@ -97,7 +109,7 @@ function ArtFormBucket({ af, label, items }: { af: string; label: string; items:
           {items.length}
         </span>
       </h3>
-      <div className="grid grid-cols-3 gap-1.5">
+      <div className={gridCols(full)}>
         {shown.map((obj, i) => {
           // Load the top-6 tiles eagerly (they're above the fold on most
           // panel scrolls) and mark the first tile fetchpriority=high so
@@ -112,12 +124,13 @@ function ArtFormBucket({ af, label, items }: { af: string; label: string; items:
             key={obj.id}
             href={external ? obj.object_url : `/object/${obj.id}`}
             {...(external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
+            onClick={lightboxClick(open, `r:${obj.id}`)}
             className="card group relative aspect-square block bg-gradient-to-br from-dusk/40 to-dusk/10 animate-pulse-slow overflow-hidden"
             title={obj.title || obj.tradition || ''}
           >
             {obj.image && (
               <img
-                src={obj.image.startsWith('http') || obj.image.startsWith('/') ? obj.image : `/${obj.image.replace(/\\/g, '/')}`}
+                src={tileImage(obj)}
                 alt={obj.title || ''}
                 loading={eager ? 'eager' : 'lazy'}
                 fetchpriority={i === 0 ? 'high' : (eager ? 'auto' : 'low')}
@@ -280,9 +293,11 @@ function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
   const visible = items.filter((item) => !failed.has(`${item.source}:${item.id}`));
   const slice = visible.slice(0, shown);
   const hidden = visible.length - slice.length;
+  const full = useContext(FullContext);
+  const open = useLightboxOpen();
   return (
     <>
-      <div className="grid grid-cols-3 gap-1.5">
+      <div className={gridCols(full)}>
         {slice.map((item) => {
           const key = `${item.source}:${item.id}`;
           return (
@@ -291,6 +306,7 @@ function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
               href={item.object_url}
               target="_blank"
               rel="noopener noreferrer"
+              onClick={lightboxClick(open, `u:${key}`)}
               className="card group relative aspect-square block overflow-hidden border border-parchment/15 opacity-80"
               title={item.title}
             >
@@ -354,7 +370,7 @@ function CategoryBlock({ af, reviewed, unreviewed }: { af: string; reviewed?: Sl
   const label = AF_LABEL[af] ?? af;
   if (reviewed?.length) {
     return (
-      <div className="mt-3 mb-6">
+      <div className="mt-3 mb-6" data-af={af}>
         <ArtFormBucket af={af} label={label} items={reviewed} />
         {unreviewed.length > 0 && (
           <details className="mt-3">
@@ -369,7 +385,7 @@ function CategoryBlock({ af, reviewed, unreviewed }: { af: string; reviewed?: Sl
   }
   if (!unreviewed.length) return null;
   return (
-    <div className="mt-3 mb-6">
+    <div className="mt-3 mb-6" data-af={af}>
       <section>
         <h3 className="mb-3 flex items-baseline gap-2 font-serif text-xl font-medium">
           {label}
@@ -508,6 +524,34 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
   const unvettedOnly = !!(point?.unvetted_only || shard?.unvetted_only);
   const unvettedCount = shard?.unvetted_count ?? 0;
   const unv = useUnvetted(shard ? point?.key : undefined, unvettedCount);
+  const [full, setFull] = useState(false);
+  const [lb, setLb] = useState<{ items: LightboxItem[]; index: number } | null>(null);
+  useEffect(() => { if (!isOpen) setFull(false); }, [isOpen]);
+  useEffect(() => setLb(null), [point?.key]);
+
+  // Every image of the culture, in the order its categories appear on the
+  // page (read from the data-af blocks), reviewed before unreviewed — so the
+  // arrows also reach tiles still behind "show more" or a closed toggle.
+  const openLightbox = useCallback((key: string) => {
+    const buckets = shard?.art_form_buckets ?? {};
+    const order = [...new Set([...document.querySelectorAll<HTMLElement>('aside [data-af]')].map((el) => el.dataset.af!))];
+    const items: LightboxItem[] = [];
+    for (const af of order) {
+      const label = AF_LABEL[af] ?? af;
+      for (const obj of buckets[af] ?? []) {
+        if (!obj.image) continue;
+        const commons = obj.source === 'commons';
+        items.push({ key: `r:${obj.id}`, image: tileImage(obj), title: obj.title || obj.tradition || '', label, unreviewed: false,
+          site: obj.object_url, details: commons ? null : `/object/${obj.id}` });
+      }
+      for (const it of unvettedFor(unv, af)) {
+        items.push({ key: `u:${it.source}:${it.id}`, image: it.image, title: it.title, label, unreviewed: true, site: it.object_url, details: null });
+      }
+    }
+    const index = items.findIndex((x) => x.key === key);
+    if (index >= 0) setLb({ items, index });
+  }, [shard, unv]);
+
   // Escape closes the panel, except while typing (the search box takes it).
   useEffect(() => {
     if (!isOpen) return;
@@ -520,19 +564,30 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
     return () => window.removeEventListener('keydown', onKey);
   }, [isOpen, onClose]);
   return (
+    <FullContext.Provider value={full}>
+    <LightboxContext.Provider value={openLightbox}>
     <aside
       className={
-        'sidebar-panel fixed right-0 top-0 z-30 h-screen w-full max-w-[520px] overflow-y-auto border-l border-dusk bg-night/95 backdrop-blur-xl transition-transform duration-300 ' +
+        'sidebar-panel fixed right-0 top-0 z-30 h-screen w-full overflow-y-auto border-l border-dusk bg-night/95 backdrop-blur-xl transition-transform duration-300 ' +
+        (full ? 'max-w-none ' : 'max-w-[520px] ') +
         (isOpen ? 'translate-x-0' : 'translate-x-full')
       }
     >
       {point && (
-        // Zero-height sticky row: the close button stays in the corner while
-        // the panel scrolls, without pushing the content down.
-        <div className="sticky top-0 z-20 flex h-0 items-start justify-end">
+        // Zero-height sticky row: the buttons stay in the corner while the
+        // panel scrolls, without pushing the content down.
+        <div className="sticky top-0 z-20 flex h-0 items-start justify-end gap-2 pr-6 pt-6">
+          <button
+            onClick={() => setFull((f) => !f)}
+            className="close-btn rounded-full border border-dusk bg-night px-2 py-1 text-[11px] shadow-sm"
+            aria-label={full ? 'Exit full screen' : 'Full screen'}
+            title={full ? 'Exit full screen' : 'Full screen'}
+          >
+            {full ? '⤡' : '⤢'}
+          </button>
           <button
             onClick={onClose}
-            className="close-btn mr-6 mt-6 rounded-full border border-dusk bg-night px-2 py-1 text-[11px] shadow-sm"
+            className="close-btn rounded-full border border-dusk bg-night px-2 py-1 text-[11px] shadow-sm"
             aria-label="Close (Esc)"
             title="Close (Esc)"
           >
@@ -541,7 +596,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
         </div>
       )}
       {point && (
-        <div className="p-8">
+        <div className={'p-8' + (full ? ' mx-auto max-w-6xl' : '')}>
           <div className="flex items-start justify-between pr-10">
             <div>
               <div className="sub-mono font-mono text-[10px] uppercase tracking-widest">
@@ -614,5 +669,8 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
         </div>
       )}
     </aside>
+    {lb && <Lightbox items={lb.items} index={lb.index} onIndex={(index) => setLb({ ...lb, index })} onClose={() => setLb(null)} />}
+    </LightboxContext.Provider>
+    </FullContext.Provider>
   );
 }
