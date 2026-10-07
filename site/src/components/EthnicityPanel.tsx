@@ -275,7 +275,7 @@ function MediaSection({ shard, unreviewed = false }: { shard: EthnicityShard; un
 const UNVETTED_PAGE_SIZE = 24;
 
 function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
-  const [shown, setShown] = useState(UNVETTED_PAGE_SIZE);
+  const [shown, setShown] = useState(INITIAL_PER_BUCKET);
   const [failed, setFailed] = useState<Set<string>>(new Set());
   const visible = items.filter((item) => !failed.has(`${item.source}:${item.id}`));
   const slice = visible.slice(0, shown);
@@ -322,66 +322,61 @@ function UnvettedGrid({ items }: { items: UnvettedItem[] }) {
   );
 }
 
-function UnvettedSection({ ethKey, count, openByDefault = false }: { ethKey: string; count: number; openByDefault?: boolean }) {
-  const [requested, setRequested] = useState(false);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+// The culture's unreviewed objects (museum records matched by text only),
+// fetched with the panel so each category shows next to its text.
+function useUnvetted(ethKey: string | undefined, count: number): UnvettedShard | null {
   const [data, setData] = useState<UnvettedShard | null>(null);
-
-  const load = () => {
-    if (requested) return;
-    setRequested(true);
-    setLoading(true);
+  useEffect(() => {
+    setData(null);
+    if (!ethKey || !count) return;
+    let live = true;
     fetch(`/data/unvetted/${ethKey}.json`)
-      .then((response) => {
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        return response.json() as Promise<UnvettedShard>;
-      })
-      .then(setData)
-      .catch((reason) => setError(reason instanceof Error ? reason.message : 'Could not load unreviewed objects'))
-      .finally(() => setLoading(false));
-  };
+      .then((r) => (r.ok ? (r.json() as Promise<UnvettedShard>) : null))
+      .then((d) => { if (live) setData(d); })
+      .catch(() => {});
+    return () => { live = false; };
+  }, [ethKey, count]);
+  return data;
+}
 
-  const categories = data ? [
-    ...AF_ORDER.filter((af) => data.buckets[af]?.length),
-    ...Object.keys(data.buckets).filter((af) => !AF_ORDER.includes(af) && data.buckets[af]?.length),
-  ] : [];
+// Unreviewed objects of one category; "Other" also takes the uncategorised.
+function unvettedFor(data: UnvettedShard | null, af: string): UnvettedItem[] {
+  if (!data) return [];
+  const items = data.buckets[af] ?? [];
+  return af === 'unclassified' ? [...items, ...(data.other ?? [])] : items;
+}
 
+// One category: the reviewed gallery, with the unreviewed objects behind a
+// toggle below it; with nothing reviewed, the unreviewed ones shown directly.
+function CategoryBlock({ af, reviewed, unreviewed }: { af: string; reviewed?: SlimObject[]; unreviewed: UnvettedItem[] }) {
+  const label = AF_LABEL[af] ?? af;
+  if (reviewed?.length) {
+    return (
+      <div className="mt-3 mb-6">
+        <ArtFormBucket af={af} label={label} items={reviewed} />
+        {unreviewed.length > 0 && (
+          <details className="mt-3">
+            <summary className="sub-mono cursor-pointer text-[10px] uppercase tracking-widest text-parchment/60 hover:text-amber-400">
+              Unreviewed ({unreviewed.length})
+            </summary>
+            <div className="mt-3"><UnvettedGrid items={unreviewed} /></div>
+          </details>
+        )}
+      </div>
+    );
+  }
+  if (!unreviewed.length) return null;
   return (
-    <details open={openByDefault} className="mt-8 border-t border-dusk/60 pt-5" onToggle={(event) => {
-      if ((event.currentTarget as HTMLDetailsElement).open) load();
-    }}>
-      <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/80">
-        Unreviewed museum objects ({count})
-      </summary>
-      <p className="mt-3 border border-amber-400/25 bg-amber-400/5 p-3 text-xs leading-relaxed text-parchment/70">
-        These objects come from museum records matched to this culture by text only. We have not reviewed them, so some may be wrongly attributed, modern, or poor images. Images load from the museum&apos;s own server.
-      </p>
-      {loading && <p className="sub-mono mt-4 text-sm">Loading…</p>}
-      {error && <p className="sub-mono mt-4 text-sm text-red-300">Could not load unreviewed objects: {error}</p>}
-      {data && (
-        <div className="mt-6 space-y-8">
-          {categories.map((af) => (
-            <section key={af}>
-              <h3 className="mb-3 flex items-baseline gap-2 font-serif text-xl font-medium text-parchment/80">
-                {AF_LABEL[af] ?? af}
-                <span className="sub-mono font-mono text-[10px] uppercase tracking-widest">{data.buckets[af].length}</span>
-              </h3>
-              <UnvettedGrid items={data.buckets[af]} />
-            </section>
-          ))}
-          {data.other.length > 0 && (
-            <details className="border-t border-dusk/50 pt-4">
-              <summary className="cursor-pointer font-serif text-lg font-medium text-parchment/75">
-                Other, uncategorised ({data.other.length})
-              </summary>
-              <p className="mt-2 text-xs text-parchment/60">Not reviewed and not sorted into a category.</p>
-              <div className="mt-4"><UnvettedGrid items={data.other} /></div>
-            </details>
-          )}
-        </div>
-      )}
-    </details>
+    <div className="mt-3 mb-6">
+      <section>
+        <h3 className="mb-3 flex items-baseline gap-2 font-serif text-xl font-medium">
+          {label}
+          <span className="sub-mono font-mono text-[10px] uppercase tracking-widest">{unreviewed.length}</span>
+          <span className="sub-mono font-mono text-[10px] uppercase tracking-widest text-amber-400/80">Unreviewed</span>
+        </h3>
+        <UnvettedGrid items={unreviewed} />
+      </section>
+    </div>
   );
 }
 
@@ -437,10 +432,12 @@ function _splitByHeading(md: string): { level: number; text: string; body: strin
   return chunks;
 }
 
-function WriteupSection({ markdown, shard }: { markdown: string; shard: EthnicityShard }) {
+function WriteupSection({ markdown, shard, unv }: { markdown: string; shard: EthnicityShard; unv: UnvettedShard | null }) {
   const stripped = useMemo(() => stripFrontmatter(markdown), [markdown]);
   const chunks = useMemo(() => _splitByHeading(stripped), [stripped]);
-  const hasPhotos = (shard.art_form_buckets['photo']?.length ?? 0) > 0;
+  const buckets = shard.art_form_buckets ?? {};
+  const has = (af: string) => (buckets[af]?.length ?? 0) > 0 || unvettedFor(unv, af).length > 0;
+  const hasPhotos = has('photo');
   const sections = useMemo(() => {
     const s = extractSections(stripped);
     if (!hasPhotos) return s;
@@ -457,7 +454,7 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
   const photoBlock = hasPhotos ? (
     <div key="photographs" id={PHOTO_SECTION.id} className="scroll-mt-4">
       <div className="mt-6 mb-6">
-        <ArtFormBucket af="photo" label={AF_LABEL['photo']} items={shard.art_form_buckets['photo']} />
+        <CategoryBlock af="photo" reviewed={buckets['photo']} unreviewed={unvettedFor(unv, 'photo')} />
       </div>
     </div>
   ) : null;
@@ -469,14 +466,9 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
       <div key={idx}>
         <div className="prose-writeup" dangerouslySetInnerHTML={{ __html: html }} />
         {bucketKeys.map((bk) => {
-          const items = shard.art_form_buckets[bk];
-          if (!items?.length) return null;
+          if (!has(bk)) return null;
           bucketsUsed.add(bk);
-          return (
-            <div key={bk} className="mt-3 mb-6">
-              <ArtFormBucket af={bk} label={AF_LABEL[bk] ?? bk} items={items} />
-            </div>
-          );
+          return <CategoryBlock key={bk} af={bk} reviewed={buckets[bk]} unreviewed={unvettedFor(unv, bk)} />;
         })}
       </div>
     );
@@ -484,9 +476,7 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
 
   // Any bucket that didn't match a section header — render at the end so
   // nothing is hidden. (photo / documentary photos, unclassified.)
-  const trailing = AF_ORDER.filter(
-    (af) => shard.art_form_buckets[af]?.length && !bucketsUsed.has(af)
-  );
+  const trailing = AF_ORDER.filter((af) => has(af) && !bucketsUsed.has(af));
 
   return (
     <div className="mt-8 border-t border-dusk pt-6">
@@ -501,10 +491,9 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
       )}
       <div>{photoAt < 0 ? rendered : [...rendered.slice(0, photoAt), photoBlock, ...rendered.slice(photoAt)]}</div>
       {trailing.length > 0 && (
-        <div className="mt-6 space-y-8">
+        <div className="mt-6">
           {trailing.map((af) => (
-            <ArtFormBucket key={af} af={af} label={AF_LABEL[af] ?? af}
-                            items={shard.art_form_buckets[af]} />
+            <CategoryBlock key={af} af={af} reviewed={buckets[af]} unreviewed={unvettedFor(unv, af)} />
           ))}
         </div>
       )}
@@ -515,6 +504,8 @@ function WriteupSection({ markdown, shard }: { markdown: string; shard: Ethnicit
 export function EthnicityPanel({ point, shard, onClose }: Props) {
   const isOpen = !!point;
   const unvettedOnly = !!(point?.unvetted_only || shard?.unvetted_only);
+  const unvettedCount = shard?.unvetted_count ?? 0;
+  const unv = useUnvetted(shard ? point?.key : undefined, unvettedCount);
   // Escape closes the panel, except while typing (the search box takes it).
   useEffect(() => {
     if (!isOpen) return;
@@ -557,11 +548,8 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               <h2 className="mt-1 font-serif text-4xl font-medium leading-tight">{point.ethnicity}</h2>
               {unvettedOnly ? (
                 <>
-                  {(shard?.unvetted_count ?? 0) > 0 ? (
-                    <>
-                      <p className="mt-2 text-sm text-amber-400">Not yet reviewed — museum objects matched by text only</p>
-                      <p className="sub-meta mt-2 text-sm">{shard?.unvetted_count} unreviewed objects</p>
-                    </>
+                  {unvettedCount > 0 ? (
+                    <p className="sub-meta mt-2 text-sm">{unvettedCount} objects · <span className="text-amber-400">unreviewed</span></p>
                   ) : (
                     <p className="mt-2 text-sm text-amber-400">
                       No museum objects found yet
@@ -572,6 +560,7 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               ) : (
                 <p className="sub-meta mt-2 text-sm">
                   {point.object_count} object{point.object_count === 1 ? '' : 's'}
+                  {unvettedCount > 0 && <> · {unvettedCount} <span className="text-amber-400">unreviewed</span></>}
                 </p>
               )}
             </div>
@@ -593,16 +582,16 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
               When there's no writeup yet (new region, or ethnicity we
               haven't written up), fall back to rendering all art_form
               buckets in order so tiles still appear on the page. */}
-          {shard?.writeup_markdown && shard.art_form_buckets ? (
-            <WriteupSection markdown={shard.writeup_markdown} shard={shard} />
-          ) : !unvettedOnly && shard ? (
-            <div className="mt-8 border-t border-dusk pt-6 space-y-8">
-              {AF_ORDER.filter((af) => shard.art_form_buckets[af]?.length).map((af) => (
-                <ArtFormBucket key={af} af={af} label={AF_LABEL[af] ?? af}
-                                items={shard.art_form_buckets[af]} />
+          {shard?.writeup_markdown ? (
+            <WriteupSection markdown={shard.writeup_markdown} shard={shard} unv={unv} />
+          ) : shard ? (
+            <div className="mt-8 border-t border-dusk pt-6">
+              {AF_ORDER.map((af) => (
+                <CategoryBlock key={af} af={af} reviewed={shard.art_form_buckets?.[af]} unreviewed={unvettedFor(unv, af)} />
               ))}
             </div>
           ) : null}
+          {shard && unvettedCount > 0 && !unv && <div className="sub-mono mt-4 text-sm">Loading unreviewed objects…</div>}
 
           {/* Media: Commons photos + UNESCO ICH + Folkways audio */}
           {!unvettedOnly && shard && (shard.commons_photos?.length || shard.unesco_ich?.length || shard.folkways?.length) ? (
@@ -610,14 +599,6 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
           ) : null}
           {unvettedOnly && shard?.commons_photos?.length ? <MediaSection shard={shard} unreviewed /> : null}
 
-          {/* An unreviewed-only culture has at most a Wikipedia-based writeup
-              above; its candidates, if any, are the rest of the page. Existing vetted cultures keep this section last. */}
-          {shard && point && unvettedOnly && (shard.unvetted_count ?? 0) > 0 && (
-            <UnvettedSection key={point.key} ethKey={point.key} count={shard.unvetted_count ?? 0} openByDefault />
-          )}
-          {shard && point && !unvettedOnly && (shard.unvetted_count ?? 0) > 0 && (
-            <UnvettedSection key={point.key} ethKey={point.key} count={shard.unvetted_count ?? 0} />
-          )}
 
           {!shard && (
             <div className="sub-mono mt-8 text-sm">Loading…</div>
