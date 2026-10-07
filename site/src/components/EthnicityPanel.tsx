@@ -181,20 +181,23 @@ function MediaSection({ shard, unreviewed = false }: { shard: EthnicityShard; un
   const photos = shard.commons_photos ?? [];
   const ich = shard.unesco_ich ?? [];
   const folkways = shard.folkways ?? [];
+  const full = useContext(FullContext);
+  const open = useLightboxOpen();
   return (
     <div className="mt-10 border-t border-dusk pt-6 space-y-8">
       {photos.length > 0 && (
-        <section>
+        <section data-af="commons">
           <h3 className="mb-3 font-serif text-lg font-medium">
             Photographs (Wikimedia Commons{unreviewed ? ', unreviewed' : ''})
           </h3>
-          <div className="grid grid-cols-3 gap-1.5">
+          <div className={gridCols(full)}>
             {photos.map((p) => (
               <a
                 key={p.page_url ?? p.title ?? Math.random()}
                 href={p.page_url ?? undefined}
                 target="_blank"
                 rel="noopener noreferrer"
+                onClick={lightboxClick(open, `c:${p.page_url ?? p.thumb_url}`)}
                 className="card group relative aspect-square block"
                 title={[p.title, p.credit].filter(Boolean).join(' — ')}
               >
@@ -537,6 +540,14 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
     const order = [...new Set([...document.querySelectorAll<HTMLElement>('aside [data-af]')].map((el) => el.dataset.af!))];
     const items: LightboxItem[] = [];
     for (const af of order) {
+      if (af === 'commons') {
+        for (const ph of shard?.commons_photos ?? []) {
+          if (!ph.thumb_url) continue;
+          items.push({ key: `c:${ph.page_url ?? ph.thumb_url}`, image: ph.thumb_url, title: ph.title || '', label: 'Wikimedia Commons',
+            unreviewed: !!(shard?.unvetted_only), site: ph.page_url, details: null });
+        }
+        continue;
+      }
       const label = AF_LABEL[af] ?? af;
       for (const obj of buckets[af] ?? []) {
         if (!obj.image) continue;

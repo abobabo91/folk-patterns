@@ -504,7 +504,8 @@ these candidates are not counted in the vetted object totals.
 **Panel viewing.** The ⤢ button next to ✕ widens a culture page to the full
 window (six-column galleries); ✕ still closes it. Clicking a tile opens it
 large in a lightbox instead of leaving the site: ←/→ step through every image
-of the culture in page order (reviewed, then unreviewed, including tiles still
+of the culture in page order (reviewed, then unreviewed, then the Commons
+photos, including tiles still
 behind "show more"), "Go to site" opens the museum's page, "Details" our object
 page, Esc closes the lightbox only. Ctrl/middle-click keeps the plain link.
 
