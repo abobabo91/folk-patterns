@@ -502,6 +502,16 @@ join "Other". Resolve and build it with
 `python scripts/unvetted.py resolve --only KEY` and
 `python scripts/unvetted.py build`; images are hotlinked from the museums and
 these candidates are not counted in the vetted object totals.
+When two peoples land on one map point (Lithuanians and the medieval Litva
+tribe, Fulani and the Wodaabe, Kongo with Yombe and Vili, Chin with Mara and
+Khumi) their objects are merged into one shard, listing both in `people_keys`;
+until 2026-10-07 the second overwrote the first (Lithuanians showed 11 of 402,
+Fulani 276 of 1,086, Chin 19 of 637). A bare name match also has to stay on
+the people's continent (`_REGION_CONTINENTS` in `unvetted.py`): the Barí of
+Colombia had filled the South Sudanese Bari page with 408 Colombian objects and
+are now their own point (1,937 cultures; 17,811 reviewed and 246,227
+unreviewed objects on the map). The Barí point sits at Colombia's fallback
+coordinates until `unvetted.py places` runs for it.
 
 **Images.** The site loads 16,809 object images straight from the museum
 (`HOTLINK_HOSTS` in `build_index.py`: British Museum, Stockholm, V&A,

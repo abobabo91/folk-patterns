@@ -306,6 +306,15 @@ def _vetted_shards() -> list[tuple[dict, set[str]]]:
     return _SHARDS
 
 
+_REGION_CONTINENTS = {
+    "sub-saharan-africa": {"Africa"}, "middle-east-north-africa": {"Africa", "Asia"},
+    "latin-america": {"Americas", "South America", "North America"},
+    "north-america": {"Americas", "North America"}, "europe": {"Europe", "Asia"},
+    "east-asia": {"Asia", "Europe"}, "southeast-asia": {"Asia", "Oceania"}, "south-asia": {"Asia"},
+    "central-asia": {"Asia", "Europe"}, "caucasus": {"Asia", "Europe"}, "oceania": {"Oceania", "Asia"},
+}
+
+
 def _ethnicity_shards(candidate: dict) -> list[dict]:
     pick_path = WORLD_DIR / "picks" / f"{candidate.get('key')}.json"
     pick_name = ""
@@ -316,6 +325,13 @@ def _ethnicity_shards(candidate: dict) -> list[dict]:
             pass
     name_variants = _name_variants(_candidate_name(candidate, pick_name))
     matches = [dict(shard) for shard, variants in _vetted_shards() if variants & name_variants]
+    if not candidate.get("atlas") and candidate.get("continent"):
+        # A bare name match must stay on the people's continent: the Barí of
+        # Colombia matched the Bari of South Sudan and filled its page with 408
+        # Colombian objects (2026-10-07). Measured over all candidates, this
+        # drops that one match and no other.
+        matches = [m for m in matches if candidate["continent"] in
+                   _REGION_CONTINENTS.get(str(m.get("region") or (m.get("key") or m.get("_ethkey") or "").split("__")[0]), {candidate["continent"]})]
     if len(matches) > 1:
         country = _norm(str(candidate.get("country", "")))
         same_country = [m for m in matches if _norm(str(m.get("country", ""))) == country]
@@ -638,6 +654,29 @@ def _object_url(source: str, oid: str) -> str:
     return ""
 
 
+def _merge_shards(a: dict, b: dict) -> dict:
+    """One shard for two peoples on the same map point, objects deduplicated;
+    people_key is the people with more objects, people_keys lists both."""
+    big, small = (a, b) if a["count"] >= b["count"] else (b, a)
+    seen: set[tuple[str, str]] = set()
+
+    def take(items: list[dict]) -> list[dict]:
+        out = []
+        for it in items:
+            ref = (it["source"], it["id"])
+            if ref not in seen:
+                seen.add(ref)
+                out.append(it)
+        return out
+
+    buckets = {cat: take(big["buckets"].get(cat, []) + small["buckets"].get(cat, []))
+               for cat in dict.fromkeys([*big["buckets"], *small["buckets"]])}
+    other = take(big.get("other", []) + small.get("other", []))
+    keys = list(dict.fromkeys((big.get("people_keys") or [big["people_key"]]) + (small.get("people_keys") or [small["people_key"]])))
+    return {"ethnicity_key": big["ethnicity_key"], "people_key": big["people_key"], "people_keys": keys,
+            "count": sum(len(v) for v in buckets.values()) + len(other), "buckets": buckets, "other": other}
+
+
 def cmd_build(only: list[str]) -> None:
     global _SHARDS, _PLACES
     _SHARDS = None
@@ -656,6 +695,7 @@ def cmd_build(only: list[str]) -> None:
             old_index = {}
 
     written: dict[str, int] = {}
+    merged: dict[str, dict] = {}
     unmatched: list[str] = []
     country_regions = _existing_country_regions()
     stubs_path = UNVETTED_DIR / "stubs.json"
@@ -733,8 +773,22 @@ def cmd_build(only: list[str]) -> None:
             "ethnicity_key": ethkey, "people_key": candidate["key"], "count": count,
             "buckets": buckets, "other": other,
         }
+        # Two peoples can share one map point (Lithuanians Q186192 and the
+        # medieval Litva tribe Q4263549; Siberians, Arara and Assyrians too).
+        # Their objects are merged; the second one used to overwrite the first,
+        # which left Lithuanians with 11 of its 402 objects (2026-10-07).
+        path = UNVETTED_DIR / f"{ethkey}.json"
+        prev = merged.get(ethkey)
+        if prev is None and only and path.exists():
+            old = json.loads(path.read_text(encoding="utf-8"))
+            if candidate["key"] not in (old.get("people_keys") or [old.get("people_key")]):
+                prev = old
+        if prev:
+            shard = _merge_shards(prev, shard)
+        merged[ethkey] = shard
         UNVETTED_DIR.mkdir(parents=True, exist_ok=True)
-        (UNVETTED_DIR / f"{ethkey}.json").write_text(json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8")
+        path.write_text(json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8")
+        count = shard["count"]
         written[ethkey] = count
         print(f"{candidate.get('label', candidate.get('key'))}: {count}{' (stub)' if stub else ''}", flush=True)
 

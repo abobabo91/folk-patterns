@@ -1,7 +1,11 @@
 {
   "ethnicity_key": "sub-saharan-africa__ethiopia__tigray",
   "people_key": "Q427036",
-  "count": 13,
+  "people_keys": [
+    "Q427036",
+    "Q101837620"
+  ],
+  "count": 20,
   "buckets": {
     "photo": [
       {
@@ -72,6 +76,13 @@
         "title": "Figura",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMT%26img%3D%2FMT%2Ffondos_pre%2FMTFCE114210_P.JPG%26Ninv%3DCE114210&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_195784_inventary_CE114210_table_FMUS_museum_MT"
+      },
+      {
+        "id": "317830",
+        "source": "met",
+        "title": "Hand Cross (mäsqäl)",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-30681-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/317830"
       }
     ],
     "painting-mss": [
@@ -81,6 +92,48 @@
         "title": "karta",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25426311%2Ftext-Karta-Amazonas.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91666/SMVK_EM_arkiv_25426307"
+      },
+      {
+        "id": "307601",
+        "source": "met",
+        "title": "Tälsäm or yä bərana kətab (healing scroll)",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326513.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/307601"
+      },
+      {
+        "id": "317829",
+        "source": "met",
+        "title": "Double Diptych Icon Pendant",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-25652-001.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/317829"
+      },
+      {
+        "id": "320635",
+        "source": "met",
+        "title": "Healing Scroll",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326504.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/320635"
+      },
+      {
+        "id": "320962",
+        "source": "met",
+        "title": "Tälsäm or yä bərana kətab (healing scroll)",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/DP326509.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/320962"
+      },
+      {
+        "id": "771515",
+        "source": "met",
+        "title": "Healing Scroll",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-TR_473_1_2017.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/771515"
+      },
+      {
+        "id": "771531",
+        "source": "met",
+        "title": "Healing Scroll",
+        "image": "https://images.metmuseum.org/CRDImages/ao/web-large/LC-TR_473_3_2017.jpg",
+        "object_url": "https://www.metmuseum.org/art/collection/search/771531"
       }
     ],
     "ceramic": [

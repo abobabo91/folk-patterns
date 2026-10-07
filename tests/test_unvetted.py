@@ -126,6 +126,19 @@ class UnvettedTests(unittest.TestCase):
             with patch.object(unvetted, "WORLD_DIR", world):
                 self.assertEqual(unvetted._candidate_status("Q-no-pick", ("Q-no-pick", "met", "1"), {}), "no_pick")
 
+    def test_two_peoples_on_one_map_point_merge(self):
+        tile = lambda source, oid: {"id": oid, "source": source, "title": oid, "image": "x", "object_url": "y"}
+        people = {"ethnicity_key": "e", "people_key": "Q-people", "count": 3,
+                  "buckets": {"garment": [tile("rem", "1"), tile("rem", "2")]}, "other": [tile("qb", "3")]}
+        tribe = {"ethnicity_key": "e", "people_key": "Q-tribe", "count": 2,
+                 "buckets": {"garment": [tile("rem", "1")], "ceramic": [tile("prm", "4")]}, "other": []}
+        merged = unvetted._merge_shards(tribe, people)
+        self.assertEqual(merged["people_key"], "Q-people")
+        self.assertEqual(merged["people_keys"], ["Q-people", "Q-tribe"])
+        self.assertEqual(merged["count"], 4)
+        self.assertEqual([t["id"] for t in merged["buckets"]["garment"]], ["1", "2"])
+        self.assertEqual([t["id"] for t in merged["buckets"]["ceramic"]], ["4"])
+
 
 if __name__ == "__main__":
     unittest.main()

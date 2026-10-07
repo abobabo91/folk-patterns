@@ -1,7 +1,11 @@
 {
   "ethnicity_key": "middle-east-north-africa__iraq__assyrians",
   "people_key": "Q745718",
-  "count": 26,
+  "people_keys": [
+    "Q745718",
+    "Q377085"
+  ],
+  "count": 31,
   "buckets": {
     "photo": [
       {
@@ -186,7 +190,45 @@
         "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/513272/preview",
         "object_url": "https://collections.peabody.harvard.edu/objects/details/666128"
       }
+    ],
+    "jewelry": [
+      {
+        "id": "505675",
+        "source": "maa",
+        "title": "Metal necklace with multiple pendants on chains. Penannular twited torc necklace with hook and eye fitting set with an oval red stone; eleven circular loops welded onto the torc supporting a decorative fringe with pendants; six long lengths of chain each with a subrectangular metal plate, a hollow sphere and semi-circular plate alternating with five shorter lengths of chain with teardrop-shaped pendant; metal pendants are set with blue and red glass beads.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1033173_1953.162_A_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/505675/"
+      },
+      {
+        "id": "591013",
+        "source": "maa",
+        "title": "Silver nose ring with coral and glass beads. Loop of thick wire, flattened at one end and decorated with two circular metal and bead elements; smaller circular element decorated with granulated projections and with a blue bead at the centre; larger circular element decorated with granulated projections, three blue glass beads and four coral beads on thin wire.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1084749_1953.162_B_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/591013/"
+      },
+      {
+        "id": "591014",
+        "source": "maa",
+        "title": "Pair of metal earrings with blue glass beads. Semicircular filigree earring with fringe of curved teardrop shapes; one blue glass bead set into the centre of each side; wire loop for fastening.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1084750_1953.162_C.1-2_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/591014/"
+      },
+      {
+        "id": "591015",
+        "source": "maa",
+        "title": "Metal bracelet with glass beads and a hook and eye fastening. Triangular end plates and a central spacer plate supporting two lengths of three chains; chain links made up of circular discs with two rings attached to each sides; blue and red glass seed beads set into the end and spacer plates with filigree decoration.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1084751_1953.162_D_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/591015/"
+      }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "591016",
+      "source": "maa",
+      "title": "Metal hair ornament consisting of a string of beads with coin fringe. String of hollow spherical beads alternating with hollow drop-shaped filigree pendants with two coins hanging from each; strung on a length of cord.",
+      "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1084752_1953.162_E_001.jpg",
+      "object_url": "https://collections.maa.cam.ac.uk/objects/591016/"
+    }
+  ]
 }
