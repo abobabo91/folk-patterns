@@ -1,7 +1,24 @@
 {
   "ethnicity_key": "sub-saharan-africa__somalia__somali-bantu",
   "people_key": "Q1651019",
-  "count": 0,
-  "buckets": {},
+  "count": 2,
+  "buckets": {
+    "household": [
+      {
+        "id": "523676",
+        "source": "maa",
+        "title": "Wooden paddle with cylindrical handle and flat, straight-sided blade.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1036434_1931.130_A_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/523676/"
+      },
+      {
+        "id": "591903",
+        "source": "maa",
+        "title": "Wooden paddle with cylindrical handle and flat, triangular blade.",
+        "image": "https://collections.maa.cam.ac.uk/media/library_images/web/1085559_1931.130_B_001.jpg",
+        "object_url": "https://collections.maa.cam.ac.uk/objects/591903/"
+      }
+    ]
+  },
   "other": []
 }
