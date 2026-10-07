@@ -651,6 +651,12 @@ def _object_url(source: str, oid: str) -> str:
     if source == "peabody":
         from folk_patterns.museums import peabody
         return peabody.object_url(oid)
+    if source == "museudoindio":
+        from folk_patterns.museums import museudoindio
+        return museudoindio.object_url(oid)
+    if source == "ntm":
+        from folk_patterns.museums import ntm
+        return ntm.object_url(oid)
     return ""
 
 

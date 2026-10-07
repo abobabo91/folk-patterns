@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__kenya__kalenjin",
   "people_key": "Q56932",
-  "count": 11,
+  "count": 13,
   "buckets": {
     "arms": [
       {
@@ -17,6 +17,15 @@
         "title": "pil",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1188221%2Fzoom&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_23697"
+      }
+    ],
+    "household": [
+      {
+        "id": "101148161",
+        "source": "neprajz",
+        "title": "Keverőkanál",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201256134.large.jpg",
+        "object_url": ""
       }
     ],
     "photo": [
@@ -85,6 +94,13 @@
       "title": "pigment",
       "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1877534%2Fimage.jpg&type=IMAGE&size=w400",
       "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1560825"
+    },
+    {
+      "id": "101140848",
+      "source": "neprajz",
+      "title": "Karék",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/7/multimedia-201245947.large.jpg",
+      "object_url": ""
     }
   ]
 }

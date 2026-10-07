@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__brazil__guajajara",
   "people_key": "Q2592663",
-  "count": 39,
+  "count": 55,
   "buckets": {
     "household": [
       {
@@ -24,6 +24,27 @@
         "title": "maniokpress, Maniokapress, taptí",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2209283%2F1931.41.0223.jpg&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_18529"
+      },
+      {
+        "id": "56593",
+        "source": "museudoindio",
+        "title": "Colher de cabaça",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2272art_foto_1-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=56593"
+      },
+      {
+        "id": "56598",
+        "source": "museudoindio",
+        "title": "Colher de cabaça",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2271art_foto_1-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=56598"
+      },
+      {
+        "id": "69373",
+        "source": "museudoindio",
+        "title": "Cesto alguidariforme",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2277art_foto_1-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=69373"
       }
     ],
     "photo": [
@@ -210,6 +231,20 @@
         "title": "Pendiente",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF18896B_P.JPG%26Ninv%3D18896B&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_28469_inventary_18896B_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "27818",
+        "source": "museudoindio",
+        "title": "Saia emplumada",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/tainacan-items/471/27818/838_art-1-205x175.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=27818"
+      },
+      {
+        "id": "71723",
+        "source": "museudoindio",
+        "title": "Colar emplumado",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/tainacan-items/471/71723/87_6_3_0001-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=71723"
       }
     ],
     "garment": [
@@ -261,6 +296,87 @@
         "title": "Coiffe",
         "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Objets/IDENTIFICATION_OBJETS/Photos_YMAGO/400000/435033y.jpg&width=400&height=400&cache=yes",
         "object_url": "https://collections.quaibranly.fr/#/search?q=70.2008.41.182"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "42063",
+        "source": "museudoindio",
+        "title": "Miniatura rede de dormir",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2270-art_foto_01_DSC0132.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=42063"
+      },
+      {
+        "id": "50938",
+        "source": "museudoindio",
+        "title": "Figura de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2420art__3_-205x307.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=50938"
+      },
+      {
+        "id": "50943",
+        "source": "museudoindio",
+        "title": "Figura de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2419art__1_-205x307.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=50943"
+      },
+      {
+        "id": "50948",
+        "source": "museudoindio",
+        "title": "Figura de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2365art__2_-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=50948"
+      },
+      {
+        "id": "50953",
+        "source": "museudoindio",
+        "title": "Figura de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2366art__2_-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=50953"
+      },
+      {
+        "id": "50958",
+        "source": "museudoindio",
+        "title": "Figura de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2367art__3_-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=50958"
+      },
+      {
+        "id": "50963",
+        "source": "museudoindio",
+        "title": "Figura de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2368art__1_-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=50963"
+      },
+      {
+        "id": "51003",
+        "source": "museudoindio",
+        "title": "Bolsa de cabaça",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2274__1_-205x137.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=51003"
+      },
+      {
+        "id": "53698",
+        "source": "museudoindio",
+        "title": "Pião de madeira",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2262_art_foto_01_DSC9987.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=53698"
+      }
+    ],
+    "instruments": [
+      {
+        "id": "48708",
+        "source": "museudoindio",
+        "title": "Chocalho globular",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/2276art__3_.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=48708"
+      },
+      {
+        "id": "52563",
+        "source": "museudoindio",
+        "title": "Flauta transversa com orifícios",
+        "image": "https://tainacan.museudoindio.gov.br/wp-content/uploads/2018/10/87_30_189__1_.jpg",
+        "object_url": "https://tainacan.museudoindio.gov.br/?p=52563"
       }
     ]
   },

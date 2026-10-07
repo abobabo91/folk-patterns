@@ -304,6 +304,34 @@ had matched the Edo of Nigeria.
 | `maa` | Museum of Archaeology and Anthropology, Cambridge | "Cultural Affiliation" on the record page; English + German names | South and Southeast Asia, Oceania |
 | `peabody` | Peabody Museum, Harvard (eMuseum HTML; JSON export is 403) | culture facet term (`cultureThesFilter`), departments Ethnographic and Photographic; English + German names | North America (Haida 321, Pomo 307), Africa (Zulu, Maasai, Fang) |
 | `quaibranly` | Musée du quai Branly, Paris | `Ethnonyme` (objects), `IThesTerm` Populations (photographs); English + French singular names | Latin America (Wayana, Bororo, Yanomami, Huichol, Mapuche) |
+| `museudoindio` | Museu do Índio (FUNAI), Rio de Janeiro: Tainacan REST API, whole collection cached in `data/world/museudoindio_items.jsonl` | `Povo`; English, German and Portuguese names (Portuguese plurals also singular), plus `_MI_ALIASES` | Brazil (Akuntsu, Korubo, Zo'é, Karitiana, Kayapó) |
+| `neprajz` | Néprajzi Múzeum, Budapest: the Solr index of its online collection (`gyujtemeny.neprajz.hu/solr/published/select`) | `search_ethnicity_hu_ss` (484 terms); Hungarian Wikidata names and their singulars ("palócok" → "palóc"), plus `_NM_ALIASES` | Hungarian and Balkan groups (Šokci, Palóc, Danube Swabians, Székelys of Bukovina, Lovari), Finno-Ugric and Siberian peoples, Africa, Amazonia |
+| `ntm` | National Taiwan Museum: open catalogue (`data/world/ntm_catalog.json`, 97 MB) + one record page per object for its picture | no people field: the people named in the quoted title or the "used by" phrase of the description, `ntm.NAMES` (Chinese) | Taiwan (Tsou, Truku, Kavalan, Yami, Atayal) |
+
+Added 2026-10-07 for the peoples with no object: `museudoindio` (80 peoples,
+6,400 objects; 11,275 of its 20,965 records have an image, the 2022
+acquisitions none), `ntm` and `neprajz`. Each has a hand-read alias table
+(`_MI_ALIASES`, `_NM_ALIASES` in `world_peoples.py`, `ntm.NAMES`) for the
+museum terms no Wikidata name reaches: "Txicão" is the Ikpeng, "vend" the
+Hungarian Slovenes, "csagga" the Chaga. Collisions found on the way and fixed:
+the Wodaabe are also "Bororo" and Madagascar's Bara spell like the Bará, so
+`museudoindio` serves only peoples of Brazil and its neighbours
+(`_MI_COUNTRIES`); in the Néprajzi Múzeum "sváb" is the Danube Swabians, not
+the Swabians, "vend" not the Sorbs, and a term naming Roma or Jews ("oláh
+cigány", "magyar zsidó") never goes to the nation it starts with (`_NM_NOT`).
+Ambiguous terms are left out ("Maku", "Karipuna", "kuba", "tonga", "bororo").
+Art forms: the Museu do Índio's ten "Categoria" values (`museudoindio.CLASS`);
+Néprajzi titles by a Hungarian keyword, else its collection
+(`neprajz.art_form`, passed on as the object's `art_form`); Chinese titles by
+the `CJK` rules in `kind_lexicon.py`, where the match that ends last wins
+(Chinese puts the head noun last): 89% of the Taiwan objects get one, the
+rest "Other". The Taiwan catalogue has no people field, so only the quoted
+title, the "used by" phrase or a title starting with the people count; read by
+hand on 2026-10-07: 10 of 10 attributions right, and every classified title in a sample of 40.
+Its pictures are 400 x 300 behind an encrypted token per page load; a token
+still answered 10 minutes later, and how long one lasts is not known, so a
+broken Taiwan tile hides itself like any other. Néprajzi Múzeum images carry
+no open licence and are shown linked to the museum's record.
 
 Up to 300 objects and 60 field photographs per people per museum. Berlin sound
 carriers (shellac records, cassettes, tapes, DAT, CD) are skipped: their picture is a label.
@@ -372,6 +400,9 @@ python scripts/world_peoples.py ethno-objects --museums prm --workers 4
 python scripts/world_peoples.py ethno-objects --museums maa --workers 1 --only <thin stub keys>
 python scripts/world_peoples.py ethno-objects --museums quaibranly --workers 4
 python scripts/world_peoples.py ethno-objects --museums peabody --workers 2
+python scripts/world_peoples.py ethno-objects --museums museudoindio --workers 1   # first run downloads ~21k records, ~10 min
+python scripts/world_peoples.py ethno-objects --museums ntm --workers 2 --only <the Taiwanese keys of ntm.NAMES>
+python scripts/world_peoples.py ethno-objects --museums neprajz --workers 3
 python scripts/world_peoples.py candidates
 ```
 

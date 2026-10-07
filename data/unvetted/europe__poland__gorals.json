@@ -1,7 +1,85 @@
 {
   "ethnicity_key": "europe__poland__gorals",
   "people_key": "Q498700",
-  "count": 0,
-  "buckets": {},
-  "other": []
+  "count": 10,
+  "buckets": {
+    "garment": [
+      {
+        "id": "101037569",
+        "source": "neprajz",
+        "title": "Női kötény",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201040394.large.jpg",
+        "object_url": ""
+      },
+      {
+        "id": "101039284",
+        "source": "neprajz",
+        "title": "Fejkendő",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201042894.large.jpg",
+        "object_url": ""
+      }
+    ],
+    "sculpture": [
+      {
+        "id": "101086975",
+        "source": "neprajz",
+        "title": "Faszobor",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/5/multimedia-201152345.large.jpg",
+        "object_url": ""
+      },
+      {
+        "id": "101086976",
+        "source": "neprajz",
+        "title": "Faszobor",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/7/multimedia-201152347.large.jpg",
+        "object_url": ""
+      },
+      {
+        "id": "101194902",
+        "source": "neprajz",
+        "title": "Faszobor",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201327044.large.jpg",
+        "object_url": ""
+      }
+    ],
+    "household": [
+      {
+        "id": "101194098",
+        "source": "neprajz",
+        "title": "Fakulacs",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201325044.large.jpg",
+        "object_url": ""
+      },
+      {
+        "id": "101194903",
+        "source": "neprajz",
+        "title": "Fakanál",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/5/multimedia-201327045.large.jpg",
+        "object_url": ""
+      }
+    ]
+  },
+  "other": [
+    {
+      "id": "101194891",
+      "source": "neprajz",
+      "title": "Fa életkép",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/3/multimedia-201327033.large.jpg",
+      "object_url": ""
+    },
+    {
+      "id": "101194901",
+      "source": "neprajz",
+      "title": "Csanak",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/3/multimedia-201327043.large.jpg",
+      "object_url": ""
+    },
+    {
+      "id": "101194904",
+      "source": "neprajz",
+      "title": "Könyvjelző",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/6/multimedia-201327046.large.jpg",
+      "object_url": ""
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "latin-america__venezuela__yukpa",
   "people_key": "Q589718",
-  "count": 1,
+  "count": 7,
   "buckets": {
     "household": [
       {
@@ -10,8 +10,53 @@
         "title": "Bandeja",
         "image": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMAM%26img%3D%2FMAM%2Ffondos_pre%2FMAMF1991_06_05_SEQ_001_P.JPG%26Ninv%3D1991%2F06%2F05&type=IMAGE&size=w400",
         "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_14613_inventary_1991_06_05_table_FMUS_museum_MAM"
+      },
+      {
+        "id": "101152886",
+        "source": "neprajz",
+        "title": "Pipa",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/6/multimedia-201261976.large.jpg",
+        "object_url": ""
+      },
+      {
+        "id": "101154690",
+        "source": "neprajz",
+        "title": "Pipa",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/2/multimedia-201264032.large.jpg",
+        "object_url": ""
+      }
+    ],
+    "jewelry": [
+      {
+        "id": "101153302",
+        "source": "neprajz",
+        "title": "Nyaklánc",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/3/multimedia-201262573.large.jpg",
+        "object_url": ""
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "101150070",
+      "source": "neprajz",
+      "title": "Fejkorona",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/2/multimedia-201258472.large.jpg",
+      "object_url": ""
+    },
+    {
+      "id": "101153297",
+      "source": "neprajz",
+      "title": "Nyakdísz",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/8/multimedia-201262568.large.jpg",
+      "object_url": ""
+    },
+    {
+      "id": "101153347",
+      "source": "neprajz",
+      "title": "Melldísz",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201262634.large.jpg",
+      "object_url": ""
+    }
+  ]
 }

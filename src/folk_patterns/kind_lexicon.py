@@ -174,8 +174,49 @@ def _segment(s: str) -> tuple[str, str] | None:
     return (best[1], best[2]) if best else None
 
 
+# Chinese object names (National Taiwan Museum, 2026-10-07) put the head noun
+# LAST ("男子羽飾皮帽" is a hat, "鄒族單鏃鐵箭" an arrow), so for them the match
+# that ends last wins, the longer one at the same end ("腿布" leg cloth before
+# "布" cloth). Built from the title endings of the 3,466 attributed records;
+# endings that name no clear kind (棒 stick, 板 board, 片 piece) are left out.
+CJK = [
+    ("照片|明信片|寫真|相片", "photograph", "photo"),
+    ("面具", "mask", "masks-ritual"),
+    ("頭飾|額帶|頭巾|髮飾", "headdress", "garment"),
+    ("耳飾|頸飾|腕飾|胸飾|腿飾|手飾|飾|項鍊|項圈|手鐲|鐲|戒指|環|珠", "ornament", "jewelry"),
+    ("衣|服|裙|褲|帽|兜|披肩|袖|鞋|套|腰帶|帶|腿布|腳布|綁腿|背心", "garment", "garment"),
+    ("織布|布|繩|網|蓆|毯|緯板|布夾|經卷|捲布|紡錘|織機|織具", "cloth", "textile"),
+    ("刀|劍|箭|槍|矛|弓|盾|鏃|箭袋", "weapon", "arms"),
+    ("笛|琴|鈴|鼓|螺|口簧", "musical instrument", "instruments"),
+    ("像|偶|雕板|雕刻|人頭", "figure", "sculpture"),
+    ("柱|門|楣", "house part", "architectural"),
+    ("壺|罐|甕|碗|杯|盆|缽|盤|甑", "vessel", "household"),
+    ("袋|籠|籃|筐|簍|匙|勺|盒|斗|杵|臼|桶|箱|笊|筌|枕|梳|架|鍬|籩|匏器|筒", "utensil", "household"),
+]
+_CJK_RX = [(re.compile(p), k, a) for p, k, a in CJK]
+_HAN = re.compile(r"[一-鿿]")
+
+
+def _cjk(name: str) -> dict | None:
+    name = re.sub(r"[（(][^）)]*[）)]\s*$", "", name).strip()   # "背籠（含背帶）": the object, not its part
+    best = None
+    for rx, k, a in _CJK_RX:
+        for m in rx.finditer(name):
+            key = (m.end(), len(m.group()))
+            if best is None or key > best[0]:
+                best = (key, k, a)
+    if not best:
+        return None
+    k, a = best[1], best[2]
+    if k == "vessel":
+        a = "ceramic" if "陶" in name else ("metalwork" if re.search("銅|鐵|銀|錫", name) else "household")
+    return {"kind": k, "art_form": a}
+
+
 def classify(name: str) -> dict | None:
     """{"kind", "art_form"} for a museum object name, or None when no keyword fits."""
+    if _HAN.search(name or ""):
+        return _cjk(name.strip())
     name = _fold((name or "").strip())
     for seg in _SEG.split(name)[:3]:
         hit = _segment(seg)

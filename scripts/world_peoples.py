@@ -39,6 +39,7 @@ resumes.
 from __future__ import annotations
 
 import argparse
+import contextlib
 import glob
 import hashlib
 import json
@@ -838,7 +839,73 @@ def _peabody_people(cl: httpx.Client, names: list[str]) -> list[dict]:
     return out
 
 
-ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly", "peabody")
+def _museudoindio_people(names: list[str]) -> list[dict]:
+    """Museu do Índio: records whose "Povo" is the people. The whole collection
+    is cached locally (museudoindio.download), so this makes no request."""
+    from folk_patterns.museums import museudoindio as mi
+    folded = [_fold(n) for n in names]
+    out: list[dict] = []
+    for row in mi.download(OUT / "museudoindio_items.jsonl"):
+        if len(out) >= ETHNO_CAP:
+            break
+        povo = mi.peoples(row)
+        if row["image"] and any(_ethno_match(p, folded) for p in povo):
+            out.append({"source": "museudoindio", "id": row["id"], "name": row["title"][:120],
+                        "museum_class": row["categoria"],
+                        "item": {"title": row["title"], "image_url": row["image"], "ethnos": povo}})
+    return out
+
+
+def _ntm_people(cl: httpx.Client, key: str) -> list[dict]:
+    """National Taiwan Museum: indigenous records whose quoted title or "used by"
+    phrase names the people (ntm.NAMES, keyed by Wikidata id). One record page
+    per object is read for its picture."""
+    from folk_patterns.museums import ntm
+    names = ntm.NAMES.get(key)
+    if not names:
+        return []
+    out: list[dict] = []
+    for rec in ntm.catalog(OUT / "ntm_catalog.json"):
+        if len(out) >= ETHNO_CAP:
+            break
+        if not ntm.matches(rec, names):
+            continue
+        img = ntm.image_url(cl, rec)
+        time.sleep(0.3)
+        if img:
+            out.append({"source": "ntm", "id": ntm.object_id(rec), "name": (rec.get("MainTitle") or "").strip()[:120],
+                        "item": {"title": (rec.get("MainTitle") or "").strip(), "image_url": img,
+                                 "ethnos": [ntm.attribution(rec)]}})
+    return out
+
+
+def neprajz_singulars(name: str) -> list[str]:
+    from folk_patterns.museums.neprajz import singulars
+    return singulars(name)
+
+
+def _neprajz_people(cl: httpx.Client, key: str, names: list[str]) -> list[dict]:
+    """Néprajzi Múzeum, Budapest: records under a people term (search_ethnicity_hu_ss)
+    that is the people, matched with its Hungarian names and their singulars."""
+    from folk_patterns.museums import neprajz
+    folded = [_fold(n) for n in names]
+    terms = [g for g in neprajz.groups() if g in names or _ethno_match(g, folded)]
+    terms = [g for g in terms if g not in _NM_NOT.get(key, ())
+             and (not _NM_NOT_WORDS.search(g) or any(_NM_NOT_WORDS.search(n) for n in names))]
+    if not terms:
+        return []
+    out: list[dict] = []
+    for photos, cap in ((False, ETHNO_CAP), (True, ETHNO_PHOTO_CAP)):
+        for d in neprajz.records(cl, terms, cap, photos):
+            title = d.get("list_title_hu_s") or ""
+            out.append({"source": "neprajz", "id": str(d["oid"]), "name": "fénykép" if photos else title[:120],
+                        "art_form": "photo" if photos else neprajz.art_form(d),   # the museum's collection, not the lexicon
+                        "item": {"title": title, "image_url": neprajz.image_url(d),
+                                 "ethnos": sorted(set(d.get("search_ethnicity_hu_ss") or []))}})
+    return out
+
+
+ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz")
 
 
 def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...] = ("kamis", "smb")) -> None:
@@ -902,6 +969,26 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
         if "peabody" in sources:
             from folk_patterns.museums import peabody
             jobs.append(("peabody", peabody.client, lambda c: _peabody_people(c, lat)))
+        country = r.get("country") or (screened.get(r["key"]) or {}).get("country") or ""
+        if "museudoindio" in sources and country in _MI_COUNTRIES:
+            # its Povo terms are Portuguese singulars ("Kayabí"); add the Portuguese
+            # Wikidata names, their singulars, and the hand-read aliases
+            pt = list(dict.fromkeys([*lat, *(x for v in lab.get("pt") or [] if len(v.strip()) >= 3 and "(" not in v
+                                                for x in (v.strip(), re.sub(r"(?<=[^s])s$", "", v.strip())))]))
+            pt += _MI_ALIASES.get(r["key"], [])
+            jobs.append(("museudoindio", contextlib.nullcontext, lambda c: _museudoindio_people(pt)))
+        if "neprajz" in sources:
+            # Hungarian names only: the museum's terms are Hungarian ("sokác"), and
+            # English ones would collide ("bari"); plus the hand-read aliases
+            hu = list(dict.fromkeys(x for v in lab.get("hu") or [] if len(v.strip()) >= 3 and "(" not in v
+                                    for x in neprajz_singulars(v.strip())))
+            hu += _NM_ALIASES.get(r["key"], [])
+            if hu:
+                from folk_patterns.museums import neprajz
+                jobs.append(("neprajz", neprajz.client, lambda c: _neprajz_people(c, r["key"], hu)))
+        if "ntm" in sources:
+            from folk_patterns.museums import ntm
+            jobs.append(("ntm", ntm.client, lambda c: _ntm_people(c, r["key"])))
         for name, mk, fn in jobs:
             try:
                 with mk() as c:
@@ -1338,6 +1425,195 @@ _QB_CLASS = {"Photographie": "photo", "Textile ou vêtement": "textile", "Sculpt
              "Instrument de musique": "instruments", "Arts graphiques": "painting-mss", "Peinture": "painting-mss",
              "Manuscrit": "painting-mss", "Maquette ou modèle": "sculpture", "Moulage": "sculpture"}
 
+from folk_patterns.museums.museudoindio import CLASS as _MI_CLASS   # noqa: E402  Museu do Índio's "Categoria"
+
+# Museu do Índio "Povo" terms that no English or Portuguese Wikidata name of
+# the people reaches, read by hand from the museum's 187 terms (2026-10-07).
+_MI_ALIASES: dict[str, list[str]] = {
+    "Q4001119": ["Txicão"],                 # Ikpeng: their older name
+    "Q5363631": ["Tikuna"],                 # Ticuna
+    "Q1882676": ["Manchineri"],             # Machinere
+    "Q2549328": ["Pacaa Nova"],             # Wari'
+    "Q1099072": ["Urubu"],                  # Ka'apor (Urubu-Ka'apor)
+    "Q1114291": ["Salumã"],                 # Enawenê-Nawê: their older name
+    "Q10375164": ["Suruí"],                 # Paiter Suruí; "Suruí do Tocantins" is the Aikewara
+    "Q1028240": ["A'Ukre", "Gorotire", "Kubenkrankégn", "Menkrangnotí", "Txukahamãe", "Xikrin"],  # Kayapó subgroups
+    "Q34188": ["Waiká", "Guaharibo", "Xamatari"],                                               # Yanomami subgroups
+}
+# The museum holds Brazil and its neighbours only; other continents' peoples
+# share its names: the Wodaabe are also "Bororo", Madagascar's Bara spell like
+# the Bará of the Vaupés (both matched on 2026-10-07 before this).
+_MI_COUNTRIES = {"Brazil", "Paraguay", "Bolivia", "Peru", "Colombia", "Venezuela", "Guyana", "Suriname",
+                 "French Guiana", "Argentina", "Ecuador"}
+# Néprajzi Múzeum people terms that no Hungarian Wikidata name of the people
+# reaches, read by hand from the museum's 484 terms (2026-10-07).
+_NM_ALIASES: dict[str, list[str]] = {
+    "Q178419": ["mohácsi sokác", "Dráva-menti sokác"],
+    "Q510403": ["Dráva-menti horvát"],
+    "Q1760969": ["oláh cigány"],
+    "Q832474": ["vend"],
+    "Q699958": ["sváb"],
+    "Q498700": ["gorál"],
+    "Q855178": ["moldvai csángó", "gyimesi csángó", "hétfalusi csángó"],
+    "Q171336": ["tót", "pilisi szlovák"],
+    "Q47246": ["mordvin-erza"],
+    "Q1943269": ["mordvin-moksa"],
+    "Q203319": ["zürjén"],
+    "Q80040": ["kazah"],
+    "Q101828": ["ajnu"],
+    "Q690126": ["lív"],
+    "Q483569": ["belorusz"],
+    "Q191730": ["tunguz"],
+    "Q486316": ["szaha"],
+    "Q476030": ["hanti, osztják", "keleti osztják"],
+    "Q60046": ["nyivh"],
+    "Q810714": ["batak"],
+    "Q504685": ["bamana (bambara)", "bambara"],
+    "Q1295544": ["fang", "pangve", "pongve"],
+    "Q640090": ["kongo"],
+    "Q805841": ["luba"],
+    "Q2088223": ["lega", "warega", "rega"],
+    "Q793575": ["zande"],
+    "Q1602764": ["mangbetu"],
+    "Q810544": ["szongé"],
+    "Q811078": ["teke"],
+    "Q2576790": ["punu"],
+    "Q48885": ["makonde"],
+    "Q1143929": ["kamba"],
+    "Q1453190": ["turkana"],
+    "Q170088": ["herero"],
+    "Q577576": ["szoto"],
+    "Q1262400": ["mende"],
+    "Q930128": ["kpelle"],
+    "Q1804699": ["dan törzs"],
+    "Q1266038": ["szenufo"],
+    "Q1165955": ["moszi"],
+    "Q961201": ["lobi"],
+    "Q811460": ["baule"],
+    "Q415693": ["akan"],
+    "Q12257903": ["fon"],
+    "Q806017": ["bamileke"],
+    "Q1262591": ["duala"],
+    "Q239577": ["ibibio"],
+    "Q244157": ["ibo"],
+    "Q1478209": ["ogoni"],
+    "Q192647": ["hutu"],
+    "Q193092": ["tuszi"],
+    "Q1474755": ["szukuma"],
+    "Q1262850": ["nyamvézi"],
+    "Q147725": ["szaramo"],
+    "Q920233": ["csagga"],
+    "Q210332": ["haida"],
+    "Q536129": ["tlingit"],
+    "Q1929613": ["pomo"],
+    "Q331789": ["crow"],
+    "Q1937531": ["papagó"],
+    "Q1162132": ["huichol"],
+    "Q429921": ["tarahumara"],
+    "Q1132647": ["otomi"],
+    "Q623215": ["mixtec"],
+    "Q147401": ["zatopec"],
+    "Q826591": ["nahua"],
+    "Q1130354": ["huastek", "uaszték"],
+    "Q45009": ["tarasco", "taraszka"],
+    "Q1355029": ["lakandon"],
+    "Q134936": ["kecsua"],
+    "Q36411": ["shipibo"],
+    "Q948636": ["yagua"],
+    "Q1969828": ["uitoto"],
+    "Q1179410": ["piaroa"],
+    "Q589718": ["yukpa"],
+    "Q891077": ["goajiro"],
+    "Q1261048": ["guarauno"],
+    "Q5363631": ["tikuna"],
+    "Q2299416": ["tiriyó"],
+    "Q2299931": ["wayana"],
+    "Q1431998": ["wayampi"],
+    "Q1853257": ["waiwai"],
+    "Q1028240": ["kayapo", "kajapó, sikrin csoport"],
+    "Q3509829": ["krahó"],
+    "Q2630736": ["kuikuro"],
+    "Q2520155": ["kalapalo"],
+    "Q1722872": ["kamayurá"],
+    "Q2530880": ["mehinacu"],
+    "Q1099056": ["waura"],
+    "Q978982": ["savante"],
+    "Q176203": ["serente"],
+    "Q1099041": ["tapirape"],
+    "Q1728924": ["karazsa"],
+    "Q1476741": ["nambikuara"],
+    "Q432324": ["patasó"],
+    "Q1099072": ["urubú-kaapor"],
+    "Q34188": ["yanoama", "janoama", "janomami", "waika", "guaharibo", "guaica", "shamatari"],
+    "Q545219": ["kreen-akarore"],
+    "Q1115972": ["kajabi"],
+    "Q617636": ["apalai"],
+    "Q3621312": ["araweté", "araveti"],
+    "Q2522489": ["chamacoco"],
+    "Q1092569": ["cinta larga"],
+    "Q2259699": ["mawé"],
+    "Q894756": ["botokudo"],
+    "Q774436": ["botokudo (sokleng)"],
+    "Q1542227": ["toba"],
+    "Q1284276": ["mataco"],
+    "Q3388372": ["pilagá"],
+    "Q3485276": ["siriono"],
+    "Q1289028": ["guahibo"],
+    "Q750479": ["lahu"],
+    "Q417628": ["akha"],
+    "Q476550": ["hani"],
+    "Q857626": ["liszu"],
+    "Q461282": ["ji", "déli ji (niszu)", "északi ji (noszu)"],
+    "Q217815": ["nahszi"],
+    "Q72805": ["muong"],
+    "Q1347290": ["bahnar"],
+    "Q2467559": ["gia-rai"],
+    "Q383946": ["lao"],
+    "Q842323": ["halha"],
+    "Q1628371": ["darhat"],
+    "Q1355221": ["sakalava"],
+    "Q643103": ["aszmat"],
+    "Q172717": ["avar"],
+    "Q1193813": ["kalanga"],
+    "Q973254": ["iban dajak"],
+    "Q1743773": ["kissi"],
+    "Q1859406": ["loma"],
+    "Q2002234": ["vei"],
+    "Q2275739": ["mambila"],
+    "Q888796": ["bobo"],
+    "Q1018432": ["bwa"],
+    "Q4351953": ["marka"],
+    "Q819186": ["mandingo"],
+    "Q1226906": ["diola"],
+    "Q799815": ["baga"],
+    "Q1537493": ["kru"],
+    "Q1534501": ["gola"],
+    "Q377119": ["pende"],
+    "Q2749225": ["jaka"],
+    "Q1717132": ["jombe"],
+    "Q1465429": ["olcsa"],
+    "Q1290677": ["meru"],
+    "Q612976": ["pare"],
+    "Q1276078": ["teita"],
+    "Q1276229": ["murszi"],
+    "Q1171957": ["dasszanecs"],
+    "Q1134682": ["silluk"],
+    "Q1427215": ["tsogho"],
+}
+# Terms a Hungarian name reaches by the prefix rule but that are another group:
+# "vend" is the Hungarian name of the Rába Slovenes, not the Sorbs; "sváb" in
+# a Hungarian museum is the Danube Swabians; "bena lulua" is the Luluwa of the
+# Kasai, not the Bena of Tanzania. A term naming Roma or Jews ("oláh cigány",
+# "román cigány", "magyar zsidó") never goes to the nation it starts with.
+_NM_NOT = {"Q146521": {"vend"}, "Q1970302": {"sváb"}, "Q1115893": {"bena lulua"}}
+_NM_NOT_WORDS = re.compile(r"cigány|zsidó")
+# Left out on purpose, ambiguous: "kuba" (Kuba of the Kasai, but the name
+# search reaches the Kuban Cossacks), "tonga" (Zambia or Polynesia), "bororo"
+# (Brazil, or the Wodaabe), "afgán", "tatár", "szász", "sziú", "arab".
+
+# Left out on purpose: "Maku" (several peoples: Hup, Dâw, Nadëb, Yuhup) and
+# "Karipuna" (the Karipuna of Amapá and of Rondônia are two peoples).
+
 
 # Peoples whose old court art the judge files as "archaeological" although the
 # tradition is still practised. Edo: the Benin brass-casters' guild (Igun
@@ -1486,10 +1762,10 @@ def cmd_candidates() -> None:
                 if owner[(o.get("source"), o["id"])] != r["key"]:
                     moved += 1
                     continue
-                af = _art_form(kinds, o.get("name"))
+                af = o.get("art_form") or _art_form(kinds, o.get("name"))   # a source may set its own (neprajz)
                 if af == "unclassified":   # the museum's own class: quai Branly's, Peabody's ("Headrest")
                     mc = o.get("museum_class") or (o.get("item") or {}).get("classification") or ""
-                    af = _QB_CLASS.get(mc) or _art_form(kinds, mc)
+                    af = _QB_CLASS.get(mc) or _MI_CLASS.get(mc) or _art_form(kinds, mc)
                 cats.setdefault(af, []).append(
                     {"source": o.get("source"), "id": o["id"], "name": o.get("name"),
                      "kind": _kind(kinds, o.get("name")).get("kind")})
@@ -1543,7 +1819,7 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
                        # edmPlaceLabel is one {"def": name} per language: the first Latin-script one
                        "place": next((p for p in ((x.get("def") if isinstance(x, dict) else x) for x in it.get("edmPlaceLabel") or [])
                                       if p and p.isascii()), "")}
-    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly", "peabody"):
+    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz"):
         it = _ethno_index().get((o["source"], o["id"]))
         return it and {"title": it.get("title") or o.get("name") or "", "image_url": it["image_url"],
                        "description": "Museum's people term: " + ", ".join(it.get("ethnos") or []), "place": ""}

@@ -1,8 +1,17 @@
 {
   "ethnicity_key": "sub-saharan-africa__kenya__meru",
   "people_key": "Q1290677",
-  "count": 6,
+  "count": 8,
   "buckets": {
+    "arms": [
+      {
+        "id": "101191729",
+        "source": "neprajz",
+        "title": "Íj, húr nélkül",
+        "image": "https://gyujtemeny.neprajz.hu/multimedia/4/multimedia-201298304.large.jpg",
+        "object_url": ""
+      }
+    ],
     "household": [
       {
         "id": "prm-object-260515",
@@ -54,5 +63,13 @@
       }
     ]
   },
-  "other": []
+  "other": [
+    {
+      "id": "101140843",
+      "source": "neprajz",
+      "title": "Nyílvessző",
+      "image": "https://gyujtemeny.neprajz.hu/multimedia/8/multimedia-201245938.large.jpg",
+      "object_url": ""
+    }
+  ]
 }
