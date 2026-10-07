@@ -112,9 +112,10 @@ def _image_url(local_path: str | None) -> str | None:
 # Hosts whose own image URL the site loads directly instead of our R2 copy.
 # Measured 2026-10-07 by loading 25 random images per host in a browser tab on
 # the live site: all of these loaded (British Museum 25/25, 0.8 s median).
-# Left on R2: Wikimedia (the link check got 429 for 1,141 of 1,172 even at two
-# requests at a time, so visitors could be refused too, and the panel hides a
-# tile whose image fails), Met and Smithsonian (2000 and 3000 px originals),
+# Wikimedia: a bulk link check gets 429 (1,141 of 1,172 even at two requests
+# at a time), but a browser tab loading all 1,172 in rounds of 60, as a visitor
+# would, got them all; originals are shown as 960 px thumbnails (_hotlink).
+# Left on R2: Met and Smithsonian (2000 and 3000 px originals),
 # micr.io (5760 px), Wereldculturen (16/25 loaded, 4134 px, 8.5 s), the
 # Finnish zetcom repository (0/25) and esbirky.cz (0/20), plus any host not
 # measured. A URL that fails scripts/check_hotlinks.py is listed in
@@ -123,7 +124,9 @@ HOTLINK_HOSTS = {
     "media.britishmuseum.org", "collections.smvk.se",
     "openaccess-cdn.clevelandart.org", "api.europeana.eu", "framemark.vam.ac.uk",
     "ceres.mcu.es", "sammlung.mak.at", "sgdap.girona.cat", "gallica.bnf.fr",
+    "upload.wikimedia.org",
 }
+_WM_COMMONS = "https://upload.wikimedia.org/wikipedia/commons/"
 _HOTLINK_BROKEN_PATH = REPO_ROOT / "data" / "hotlink_broken.json"
 _hotlink_broken: set | None = None
 
@@ -136,6 +139,11 @@ def _hotlink(img: dict) -> str | None:
         url = "https://" + url[len("http://"):]
     if not url.startswith("https://") or url.split("/")[2] not in HOTLINK_HOSTS:
         return None
+    if url.startswith(_WM_COMMONS) and "/thumb/" not in url:
+        # Commons originals can be 6000 px; already-stored /thumb/ URLs must stay
+        # as they are (rewriting them again gives 404)
+        path = url[len(_WM_COMMONS):]
+        url = f"{_WM_COMMONS}thumb/{path}/960px-{path.rsplit('/', 1)[-1]}"
     if _hotlink_broken is None:
         try:
             _hotlink_broken = set(json.loads(_HOTLINK_BROKEN_PATH.read_text(encoding="utf-8")))

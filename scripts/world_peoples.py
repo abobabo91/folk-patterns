@@ -1211,6 +1211,12 @@ def _europeana_count(key: str, english: dict[str, dict], multilingual: dict[str,
     return max(en, ml)
 
 
+# Wikidata labels that name a different people than the item is: Q1983600's
+# English label read "Siberians" while its article is Siberian Tatars, so its
+# objects landed on the Siberians (Siberiaks, Q4418370) point (2026-10-07).
+_LABEL_FIX = {"Q1983600": "Siberian Tatars"}
+
+
 def _rows() -> list[dict]:
     wd = {r["qid"]: r for r in json.loads((OUT / "wikidata.json").read_text(encoding="utf-8"))}
     bm, bma, eu, eu_ml = _counts("bm"), _counts("bm_alias"), _counts("europeana"), _counts("europeana_ml")
@@ -1221,6 +1227,7 @@ def _rows() -> list[dict]:
         b = max(list((bm.get(k) or {}).get("hits", {0: 0}).values()) + list((bma.get(k) or {}).get("hits", {0: 0}).values()))
         e = _europeana_count(k, eu, eu_ml)
         w = wd.get(k, {})
+        l = _LABEL_FIX.get(k, l)
         rows.append({"key": k, "label": l, "country": w.get("country"), "sitelinks": w.get("sitelinks"),
                      "article": w.get("article"), "bm": b, "local": len(loc.get(k, [])), "europeana": e,
                      "in_atlas": k.startswith("atlas:") or any(v in atlas for v in variants(l))})

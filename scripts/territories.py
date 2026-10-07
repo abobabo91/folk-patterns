@@ -108,8 +108,14 @@ def cmd_ids() -> None:
         part = qs[n:n + 200]
         query = ("SELECT ?p ?g WHERE { VALUES ?p {" + " ".join(f"wd:{q}" for q in part) + "} "
                  "{ ?p wdt:P1394 ?g } UNION { ?p (wdt:P103|wdt:P2936) ?l . ?l wdt:P1394 ?g } }")
-        rows = client.post("https://query.wikidata.org/sparql", data={"query": query},
-                           headers={"Accept": "application/sparql-results+json"}).json()["results"]["bindings"]
+        for attempt in range(5):
+            r = client.post("https://query.wikidata.org/sparql", data={"query": query},
+                            headers={"Accept": "application/sparql-results+json"})
+            if r.status_code == 200 and r.content:
+                break
+            print(f"  SPARQL {r.status_code}, retrying", flush=True)  # 429 / timeout page, not JSON
+            time.sleep(int(r.headers.get("Retry-After", 0) or 0) or 10 * (attempt + 1))
+        rows = r.json()["results"]["bindings"]
         found: dict[str, set[str]] = {}
         for row in rows:
             found.setdefault(row["p"]["value"].rsplit("/", 1)[1], set()).add(row["g"]["value"])

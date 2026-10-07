@@ -509,17 +509,22 @@ until 2026-10-07 the second overwrote the first (Lithuanians showed 11 of 402,
 Fulani 276 of 1,086, Chin 19 of 637). A bare name match also has to stay on
 the people's continent (`_REGION_CONTINENTS` in `unvetted.py`): the Barí of
 Colombia had filled the South Sudanese Bari page with 408 Colombian objects and
-are now their own point (1,937 cultures; 17,811 reviewed and 246,227
-unreviewed objects on the map). The Barí point sits at Colombia's fallback
-coordinates until `unvetted.py places` runs for it.
+are now their own point (17,811 reviewed and 246,227 unreviewed objects on the
+map). Wikidata labels Q1983600 "Siberians"; `_LABEL_FIX` in `world_peoples.py`
+names it Siberian Tatars, so it no longer shares the Siberians point (1,938
+points).
 
-**Images.** The site loads 16,809 object images straight from the museum
-(`HOTLINK_HOSTS` in `build_index.py`: British Museum, Stockholm, V&A,
-Cleveland, Europeana, ceres.mcu.es, MAK and two single images) and serves 2,086
-from R2. The hosts were chosen on 2026-10-07 by loading 25 random images per
+**Images.** The site loads 17,980 object images straight from the museum
+(`HOTLINK_HOSTS` in `build_index.py`: British Museum, Wikimedia Commons,
+Stockholm, V&A, Cleveland, Europeana, ceres.mcu.es, MAK and two single images)
+and serves 915 from R2. The hosts were chosen on 2026-10-07 by loading 25 random images per
 host in a browser tab on the live site: the British Museum loaded 25/25 in a
-median 0.8 s. Kept on R2: Wikimedia (`check_hotlinks.py` got 429 for 1,141 of
-1,172 even at two requests at a time), the Met and the Smithsonian (2000 and
+median 0.8 s. Wikimedia answers 429 to `check_hotlinks.py` (1,141 of 1,172
+even at two requests at a time), so it was checked in a browser tab instead,
+all 1,172 in rounds of 60 with 30 s pauses: 1,171 loaded. Commons originals are
+shown as 960 px thumbnails; stored `/thumb/` URLs are kept as they are. The one
+failure (a `.webp` original, whose thumbnail has another name) is in
+`data/hotlink_broken.json`. Kept on R2: the Met and the Smithsonian (2000 and
 3000 px originals, slow tiles), micr.io (5760 px), Wereldculturen (16/25), the
 Finnish zetcom repository (0/25), esbirky.cz (0/20) and any host not measured.
 `check_hotlinks.py` fetched all 16,819 of those museum URLs then: 59 Stockholm "zoom"
