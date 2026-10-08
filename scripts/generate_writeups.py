@@ -30,7 +30,7 @@ import re
 import sys
 from pathlib import Path
 
-if hasattr(sys.stdout, "buffer"):
+if __name__ == "__main__" and hasattr(sys.stdout, "buffer"):
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace", line_buffering=True)
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
