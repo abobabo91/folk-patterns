@@ -132,12 +132,12 @@ python scripts/world_peoples.py classify --backend codex --all-min-sitelinks 20
 python scripts/world_peoples.py harvest --threshold 1
 python scripts/world_peoples.py report
 python scripts/world_peoples.py europeana-objects
-python scripts/world_peoples.py ethno-objects [--museums kamis,smb,prm,maa,quaibranly]
+python scripts/world_peoples.py ethno-objects [--museums kamis,smb,prm,maa,quaibranly,peabody,museudoindio,ntm,neprajz,joconde]
 python scripts/normalize_kinds.py --world
 python scripts/world_peoples.py candidates
 FOLK_LLM_BACKEND=codex python scripts/world_peoples.py local-audit   # then candidates again
 FOLK_LLM_BACKEND=codex python scripts/world_peoples.py screen
-python scripts/unvetted.py resolve
+python scripts/unvetted.py resolve        # detail cache: data/world/unvetted_details/part-0..7.jsonl
 python scripts/unvetted.py places
 python scripts/unvetted.py build
 python scripts/build_index.py
@@ -307,6 +307,7 @@ had matched the Edo of Nigeria.
 | `museudoindio` | Museu do Índio (FUNAI), Rio de Janeiro: Tainacan REST API, whole collection cached in `data/world/museudoindio_items.jsonl` | `Povo`; English, German and Portuguese names (Portuguese plurals also singular), plus `_MI_ALIASES` | Brazil (Akuntsu, Korubo, Zo'é, Karitiana, Kayapó) |
 | `neprajz` | Néprajzi Múzeum, Budapest: the Solr index of its online collection (`gyujtemeny.neprajz.hu/solr/published/select`) | `search_ethnicity_hu_ss` (484 terms); Hungarian Wikidata names and their singulars ("palócok" → "palóc"), plus `_NM_ALIASES` | Hungarian and Balkan groups (Šokci, Palóc, Danube Swabians, Székelys of Bukovina, Lovari), Finno-Ugric and Siberian peoples, Africa, Amazonia |
 | `ntm` | National Taiwan Museum: open catalogue (`data/world/ntm_catalog.json`, 97 MB) + one record page per object for its picture | no people field: the people named in the quoted title or the "used by" phrase of the description, `ntm.NAMES` (Chinese) | Taiwan (Tsou, Truku, Kavalan, Yami, Atayal) |
+| `joconde` | Joconde, the French museums' catalogue, via POP: the 1.24 GB CSV streamed once into `data/world/joconde_places.jsonl` (only the rows of `joconde.PLACES`), one POP notice per object for its picture | no people field: the place of making or use (`Lieu_de_creation_utilisation`), so only for a people that is one place, `joconde.PLACES` | Corsicans (18 objects, mostly the Musée d'ethnographie corse, Bastia) |
 
 Added 2026-10-07 for the peoples with no object: `museudoindio` (80 peoples,
 6,400 objects; 11,275 of its 20,965 records have an image, the 2022
@@ -335,6 +336,21 @@ other. The parts of a set (AT001171-001 to -006, a loom) often share the set's
 one photo under different tokens, so a people keeps one object per picture,
 compared by its bytes (`ntm.image_hash`): 84 of 2,117 dropped. Néprajzi Múzeum images carry
 no open licence and are shown linked to the museum's record.
+
+`joconde` (2026-10-07) serves the Corsicans only, by place: of 1,059,942
+records 85 are made or used in Corsica and 47 of those have a picture. Read by
+hand: the MuCEM's Corsican traps, guns and cartridge belts have no picture,
+and most of the rest is the Bastia museum's heraldry and commemorative
+plaques, plus landscapes painted in Corsica by visiting artists. `joconde.keep`
+drops heraldry, epigraphy, archaeology and contemporary art, and keeps a
+painting only when the Bastia museum holds it or its title names the
+Corsicans: 18 objects (baskets, a processional group, a carved portal, Léon
+Alègre's portraits of Corsican women, the Bastia portraits). Pictures come
+from `pop-perf-assets.s3.gra.io.cloud.ovh.net/<IMG>`; the rights holder is in the notice's `COPY`.
+
+The detail cache `resolve` writes is 8 files, `data/world/unvetted_details/part-N.jsonl`,
+a record's file chosen by a CRC32 of (source, id): as one file it reached
+82 MB (269,530 rows), past GitHub's 50 MB warning; split, each is about 10 MB.
 
 Up to 300 objects and 60 field photographs per people per museum. Berlin sound
 carriers (shellac records, cassettes, tapes, DAT, CD) are skipped: their picture is a label.

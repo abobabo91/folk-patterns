@@ -4,7 +4,7 @@ Commands:
 
 ``resolve [--only KEY ...] [--limit N]``
     Resolve eligible rows from ``data/world/candidates.jsonl`` and cache one
-    detail response per ``(source, id)`` in ``data/world/unvetted_details.jsonl``.
+    detail response per ``(source, id)`` in ``data/world/unvetted_details/part-N.jsonl``.
 
 ``build [--only KEY ...]``
     Join the cached details to the candidate rows and ethnicity shards, writing
@@ -27,6 +27,7 @@ import re
 import sys
 import time
 import unicodedata
+import zlib
 from datetime import date
 from pathlib import Path
 from typing import Iterable
@@ -141,7 +142,48 @@ def _already_in_library(obj: dict, object_stems: set[str]) -> bool:
     ))
 
 
-def _append_detail(path: Path, record: dict) -> None:
+# The detail cache is split into DETAIL_SHARDS files by a stable hash of
+# (source, id): as one file it reached 82 MB (2026-10-07), past GitHub's 50 MB
+# warning, and GitHub refuses files over 100 MB. A record always lands in the
+# same shard, so an append touches one file. The single file it replaced,
+# unvetted_details.jsonl, is still read and is folded in by the next resolve.
+DETAIL_SHARDS = 8
+
+
+def _details_dir() -> Path:
+    return WORLD_DIR / "unvetted_details"
+
+
+def _legacy_details() -> Path:
+    return WORLD_DIR / "unvetted_details.jsonl"
+
+
+def _detail_shard(source: str, oid: str) -> Path:
+    n = zlib.crc32(f"{source}\t{oid}".encode("utf-8")) % DETAIL_SHARDS
+    return _details_dir() / f"part-{n}.jsonl"
+
+
+def _read_details() -> list[dict]:
+    """Every cached detail row, the legacy single file first so a shard's row wins."""
+    rows = _jsonl(_legacy_details())
+    for n in range(DETAIL_SHARDS):
+        rows += _jsonl(_details_dir() / f"part-{n}.jsonl")
+    return rows
+
+
+def _write_details(rows: Iterable[dict]) -> None:
+    """Rewrite the shards from `rows` (one per (source, id)) and drop the legacy file."""
+    parts: dict[Path, list[dict]] = {_details_dir() / f"part-{n}.jsonl": [] for n in range(DETAIL_SHARDS)}
+    for r in rows:
+        parts[_detail_shard(str(r.get("source", "")), str(r.get("id", "")))].append(r)
+    for path, part in parts.items():
+        _write_jsonl(path, part)
+    if _legacy_details().exists():
+        _legacy_details().unlink()
+
+
+def _append_detail(record: dict) -> None:
+    path = _detail_shard(str(record.get("source", "")), str(record.get("id", "")))
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("a", encoding="utf-8") as f:
         f.write(json.dumps(record, ensure_ascii=False) + "\n")
@@ -161,12 +203,10 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
     candidates = [r for r in _jsonl(WORLD_DIR / "candidates.jsonl") if _only(r, wanted)]
     coverage = _coverage()
     exclusions = _exclusions()
-    cache_path = WORLD_DIR / "unvetted_details.jsonl"
-    cached_rows = _jsonl(cache_path)
-    cached = {(str(x.get("source", "")), str(x.get("id", ""))): x for x in cached_rows}
+    cached = {(str(x.get("source", "")), str(x.get("id", ""))): x for x in _read_details()}
     # Rewriting also drops an incomplete tail before new lines are appended.
-    if cache_path.exists():
-        _write_jsonl(cache_path, cached.values())
+    if cached:
+        _write_details(cached.values())
 
     object_stems = _object_stems()
     bm_client = None
@@ -189,7 +229,7 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
         }
         if error or not ok:
             row["error"] = error or ("human remains" if remains else _detail_error(detail))
-        _append_detail(cache_path, row)
+        _append_detail(row)
         cached[(obj["source"], obj["id"])] = row
         resolved += 1
 
@@ -657,6 +697,12 @@ def _object_url(source: str, oid: str) -> str:
     if source == "ntm":
         from folk_patterns.museums import ntm
         return ntm.object_url(oid)
+    if source == "neprajz":
+        from folk_patterns.museums import neprajz
+        return neprajz.object_url(oid)
+    if source == "joconde":
+        from folk_patterns.museums import joconde
+        return joconde.object_url(oid)
     return ""
 
 
@@ -691,7 +737,7 @@ def cmd_build(only: list[str]) -> None:
     candidates = [r for r in _jsonl(WORLD_DIR / "candidates.jsonl") if _only(r, wanted)]
     coverage = _coverage()
     exclusions = _exclusions()
-    details = {(str(x.get("source", "")), str(x.get("id", ""))): x for x in _jsonl(WORLD_DIR / "unvetted_details.jsonl")}
+    details = {(str(x.get("source", "")), str(x.get("id", ""))): x for x in _read_details()}
     old_index: dict[str, int] = {}
     index_path = UNVETTED_DIR / "index.json"
     if only and index_path.exists():

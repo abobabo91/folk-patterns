@@ -910,7 +910,27 @@ def _neprajz_people(cl: httpx.Client, key: str, names: list[str]) -> list[dict]:
     return out
 
 
-ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz")
+def _joconde_people(cl: httpx.Client, key: str) -> list[dict]:
+    """Joconde (French museums, via POP): records made or used in the people's
+    one place (joconde.PLACES, keyed by Wikidata id); one notice read per object
+    for its picture."""
+    from folk_patterns.museums import joconde
+    out: list[dict] = []
+    for row in joconde.records(key, OUT / "joconde_places.jsonl")[:ETHNO_CAP]:
+        img = joconde.image_url(cl, row["Reference"])
+        time.sleep(0.3)
+        if not img:
+            continue
+        title = row.get("Titre") or row.get("Denomination") or ""
+        o = {"source": "joconde", "id": row["Reference"], "name": (row.get("Denomination") or title)[:120],
+             "item": {"title": title, "image_url": img, "ethnos": [row.get("Lieu_de_creation_utilisation") or ""]}}
+        if joconde.art_form(row):
+            o["art_form"] = joconde.art_form(row)
+        out.append(o)
+    return out
+
+
+ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz", "joconde")
 
 
 def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...] = ("kamis", "smb")) -> None:
@@ -994,6 +1014,10 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
         if "ntm" in sources:
             from folk_patterns.museums import ntm
             jobs.append(("ntm", ntm.client, lambda c: _ntm_people(c, r["key"])))
+        if "joconde" in sources:
+            from folk_patterns.museums import joconde
+            if r["key"] in joconde.PLACES:
+                jobs.append(("joconde", joconde.client, lambda c: _joconde_people(c, r["key"])))
         for name, mk, fn in jobs:
             try:
                 with mk() as c:
@@ -1824,7 +1848,7 @@ def _detail(o: dict, bm_client, http: httpx.Client) -> dict | None:
                        # edmPlaceLabel is one {"def": name} per language: the first Latin-script one
                        "place": next((p for p in ((x.get("def") if isinstance(x, dict) else x) for x in it.get("edmPlaceLabel") or [])
                                       if p and p.isascii()), "")}
-    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz"):
+    if o["source"] in ("rem", "kunstkamera", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz", "joconde"):
         it = _ethno_index().get((o["source"], o["id"]))
         return it and {"title": it.get("title") or o.get("name") or "", "image_url": it["image_url"],
                        "description": "Museum's people term: " + ", ".join(it.get("ethnos") or []), "place": ""}

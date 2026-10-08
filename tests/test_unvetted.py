@@ -68,7 +68,11 @@ class UnvettedTests(unittest.TestCase):
                  patch.object(unvetted, "_in_library", lambda oid: False):
                 unvetted.cmd_resolve([])
 
-            rows = unvetted._jsonl(world / "unvetted_details.jsonl")
+            with patch.object(unvetted, "WORLD_DIR", world):
+                rows = unvetted._read_details()
+            # The legacy single file is folded into the shards and removed.
+            self.assertFalse((world / "unvetted_details.jsonl").exists())
+            self.assertTrue(any((world / "unvetted_details").glob("part-*.jsonl")))
             self.assertEqual({(r["source"], r["id"]) for r in rows}, {("bm", "good"), ("bm", "cached")})
             self.assertTrue(next(r for r in rows if r["id"] == "good")["ok"])
             self.assertNotIn("skull", {r["id"] for r in rows})
