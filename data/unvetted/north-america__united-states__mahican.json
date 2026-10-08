@@ -3,14 +3,23 @@
   "people_key": "Q776280",
   "count": 8,
   "buckets": {
-    "photo": [
+    "household": [
       {
-        "id": "PP0152862",
-        "source": "quaibranly",
-        "title": "Le Dernier des Mohikains",
-        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0002.11_08/PP0152862_01.JPG&width=400&height=400&cache=yes",
-        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0152862"
+        "id": "677571",
+        "source": "peabody",
+        "title": "Covered splint storage basket with orange and brown pigment",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/583848/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/677571"
       },
+      {
+        "id": "749168",
+        "source": "peabody",
+        "title": "Covered storage basket",
+        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675932/preview",
+        "object_url": "https://collections.peabody.harvard.edu/objects/details/749168"
+      }
+    ],
+    "photo": [
       {
         "id": "582474",
         "source": "peabody",
@@ -45,22 +54,13 @@
         "title": "Wooden bowl from Mahicans, with handle-like decoration on one edge",
         "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/366675/preview",
         "object_url": "https://collections.peabody.harvard.edu/objects/details/571624"
-      }
-    ],
-    "household": [
-      {
-        "id": "677571",
-        "source": "peabody",
-        "title": "Covered splint storage basket with orange and brown pigment",
-        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/583848/preview",
-        "object_url": "https://collections.peabody.harvard.edu/objects/details/677571"
       },
       {
-        "id": "749168",
-        "source": "peabody",
-        "title": "Covered storage basket",
-        "image": "https://collections.peabody.harvard.edu/internal/media/dispatcher/675932/preview",
-        "object_url": "https://collections.peabody.harvard.edu/objects/details/749168"
+        "id": "PP0152862",
+        "source": "quaibranly",
+        "title": "Le Dernier des Mohikains",
+        "image": "https://collections.quaibranly.fr/cc/imageproxy.ashx?server=localhost&port=15012&filename=Icono/iconomedia/MQB-P-0002.11_08/PP0152862_01.JPG&width=400&height=400&cache=yes",
+        "object_url": "https://collections.quaibranly.fr/#/search?q=PP0152862"
       }
     ]
   },

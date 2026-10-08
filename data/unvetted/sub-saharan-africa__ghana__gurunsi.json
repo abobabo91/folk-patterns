@@ -1,7 +1,7 @@
 {
   "ethnicity_key": "sub-saharan-africa__ghana__gurunsi",
   "people_key": "Q766258",
-  "count": 20,
+  "count": 24,
   "buckets": {
     "arms": [
       {
@@ -112,11 +112,43 @@
     ],
     "household": [
       {
+        "id": "E_Af1954-23-2862",
+        "source": "bm",
+        "title": "pick-axe",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/7_9/df4ba974_0b17_407e_92ed_a9af00989822/preview_EAF7168.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-2862"
+      },
+      {
         "id": "obj-1501870",
         "source": "smb",
         "title": "Beutel",
         "image": "https://search.smb.museum/media/images/thumbs/large/192/005/5192371.jpg",
         "object_url": "https://id.smb.museum/object/1501870"
+      }
+    ],
+    "garment": [
+      {
+        "id": "E_Af1954-23-3278",
+        "source": "bm",
+        "title": "head-dress",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/18_9/debfe649_6c0f_4f11_9f48_a95f00a018a3/preview_EAF7247.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-3278"
+      },
+      {
+        "id": "E_Af1922-1109-92",
+        "source": "bm",
+        "title": "textile; garment",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/a4985e8d_a0c0_45ff_9806_a3be01244de5/preview_00451257_001.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1922-1109-92"
+      }
+    ],
+    "masks-ritual": [
+      {
+        "id": "E_Af1956-27-289",
+        "source": "bm",
+        "title": "mask",
+        "image": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_12/78e86ce0_a2e4_4484_b7f7_a9a000d25782/preview_EAF7967.jpg",
+        "object_url": "https://www.britishmuseum.org/collection/object/E_Af1956-27-289"
       }
     ]
   },

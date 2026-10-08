@@ -65,7 +65,9 @@ class UnvettedTests(unittest.TestCase):
                  patch.object(unvetted, "OBJECTS_DIR", objects), \
                  patch.object(unvetted, "UNVETTED_DIR", unvetted_dir), \
                  patch.object(unvetted, "_detail", detail), \
-                 patch.object(unvetted, "_in_library", lambda oid: False):
+                 patch.object(unvetted, "_in_library", lambda oid: False), \
+                 patch.object(unvetted, "_client", lambda: object()), \
+                 patch.dict(unvetted.os.environ, {"BM_CDP_URL": "http://127.0.0.1:1"}):
                 unvetted.cmd_resolve([])
 
             with patch.object(unvetted, "WORLD_DIR", world):

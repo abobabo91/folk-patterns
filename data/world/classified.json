@@ -883,10 +883,10 @@
 },
 "Q27106": {
 "key": "Q27106",
-"people": false,
-"continent": null,
-"region": null,
-"country": null
+"people": true,
+"continent": "Americas",
+"region": "Caribbean",
+"country": "Dominica"
 },
 "Q461282": {
 "key": "Q461282",
@@ -3536,7 +3536,7 @@
 },
 "Q6127426": {
 "key": "Q6127426",
-"people": false,
+"people": true,
 "continent": "Americas",
 "region": "Caribbean",
 "country": "Jamaica"
@@ -14211,7 +14211,7 @@
 },
 "Q1289481": {
 "key": "Q1289481",
-"people": false,
+"people": true,
 "continent": "Americas",
 "region": "Caribbean",
 "country": "Bahamas"
@@ -26769,10 +26769,10 @@
 },
 "Q735922": {
 "key": "Q735922",
-"people": false,
+"people": true,
 "continent": "Americas",
 "region": "Caribbean",
-"country": "Dominica"
+"country": "Puerto Rico"
 },
 "Q776493": {
 "key": "Q776493",
@@ -28012,5 +28012,12 @@
 "continent": "Europe",
 "region": "Western Europe",
 "country": "France"
+},
+"Q3118725": {
+"key": "Q3118725",
+"people": true,
+"continent": "Americas",
+"region": "Caribbean",
+"country": "Cuba"
 }
 }

@@ -1,0 +1,66 @@
+---
+title: "Jamaican Maroons"
+subtitle: "Jamaica"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+Jamaican Maroons are descended from Africans who freed themselves from slavery in the Colony of Jamaica and established communities of free black people in the island’s mountainous interior, primarily in the eastern parishes. Their settlements developed through resistance to Spanish and English colonial rule, the formation of refugee communities, slave uprisings, subsistence farming, plantation raids, and treaties that recognized landholding and a degree of autonomy. The principal communities still in existence are Accompong Town, Moore Town, Charles Town and Scott’s Hall. Accompong Town is in the parish of St. Elizabeth, while Moore Town lies between the Blue Mountains and John Crow Mountains in Portland Parish, in and around the Rio Grande valley. They describe the Maroons as culturally heterogeneous and preserve West African, especially Akan and Ashanti, elements in their institutions and practices.
+
+## Material culture
+
+### Architecture
+
+The sources describe Maroon settlements, towns, villages, stockaded mountain farms and provision grounds. Some Spanish Maroons created *palenques*, or stockaded mountain farms, first at Lluidas Vale in modern-day Saint Catherine Parish. Other named settlements include Cudjoe’s Town, also called Trelawny Town, Nanny Town, New Nanny Town, Crawford’s Town, Accompong Town, Moore Town, Charles Town and Scott’s Hall. The Maroon communities were located in Jamaica’s mountainous interior, including the Cockpit Country, the Blue Mountains, the Rio Grande valley and the region near Hellshire Beach.
+
+### Ceramics, metalwork & everyday objects
+
+They do mention subsistence farming, preparation of traditional foods, plantation raids, military weapons and the use of canoes by Sierra Leone Maroons returning to Jamaica.
+
+## Music & performance
+
+Singing, dancing, drum-playing and the preparation of traditional foods form a central part of many Maroon gatherings. Native-born Jamaicans and island tourists are allowed to attend many of these events, while others considered sacred are held in secret and are described as being shrouded in mystery.
+
+Moore Town was relisted on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity in 2008 for its Maroon heritage, particularly music. The supplied UNESCO material, however, states that there are no UNESCO Intangible Cultural Heritage inscriptions for this country, so it provides no inscription title or identifier to add here.
+
+Music and performance are connected in the sources with community events and commemorations. Accompong holds a large annual festival on 6 January to commemorate the signing of the peace treaty with the British after the First Maroon War.
+
+## Dance & theatre
+
+The sources state that dancing forms a central part of many Maroon gatherings. No distinction between entertainment and ritual dance is provided beyond the statement that some gatherings are public and that others considered sacred are held in secret.
+
+## Festivals & rituals
+
+The Maroons maintain traditional celebrations and practices, some of which have West African origin. In Accompong, a large festival is held annually on 6 January to commemorate the signing of the peace treaty with the British after the First Maroon War.
+
+The sources describe the council of a Maroon settlement as an *Asofo*, from the Akan word *asafo*, meaning “assembly, church, society.” This term identifies a community institution rather than a life-cycle ceremony.
+
+Queen Nanny’s remains are reputedly buried at “Bump Grave” in Moore Town. She is also known as Granny Nanny, is described as an Ashanti woman and is the only woman honoured as one of Jamaica’s National Heroes. The sources state that she has been immortalised in songs and legends.
+
+The First Maroon War is dated from 1728 to 1740 in the town description and from 1728 to 1739 in the section heading. Treaties with the British were signed in 1739 and 1740. The Maroon towns still hold lands allotted through the 1739–1740 treaties.
+
+## Foodways
+
+The sources mention subsistence farming and the preparation of traditional foods as part of Maroon gatherings. No specific food tradition can therefore be described from the supplied material.
+
+## Oral tradition & literature
+
+The sources state that Queen Nanny has been immortalised in songs and legends. They also describe traditional celebrations and practices.
+
+The word “maroon” is derived via French from the Spanish word *cimarrón*, meaning “wild” or “untamed.” The article explains that this word usually referred to runaways, castaways or the shipwrecked, while the etymology of the Spanish word is unknown. The term “Jamaican Maroons” refers to Africans who were stranded in Jamaica.
+
+The sources record the names of important leaders and figures in Maroon history, including Juan de Bolas, also known as Lubolo; Juan de Serras; Cudjoe; Quao; Queen Nanny; Montague James; Johnson; Parkinson; Palmer; and Accompong.
+
+## Language & religion
+
+They describe the Maroon communities as culturally heterogeneous and identify Akan and Ashanti connections, including the Akan-derived term *asafo*. The council of a Maroon settlement is called an *Asofo*. Queen Nanny is described as an Ashanti woman and the spiritual leader of the community around Nanny Town.
+
+The sources state that some Maroon celebrations and practices have West African origin. They distinguish between public events, which Native-born Jamaicans and island tourists may attend, and other events considered sacred, which are held in secret and shrouded in mystery.
+
+## Sources & further reading
+
+- “Jamaican Maroons,” *Wikipedia*: https://en.wikipedia.org/wiki/Jamaican_Maroons
+- UNESCO Intangible Cultural Heritage: the supplied material states that there are no UNESCO ICH inscriptions for this country.
+- No museum catalogue records were supplied for the objects shown.

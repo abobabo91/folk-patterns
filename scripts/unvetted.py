@@ -253,6 +253,11 @@ def cmd_resolve(only: list[str], limit: int = 0) -> None:
                     if (source, oid) in cached:
                         continue
 
+                    if source == "bm" and bm_client is None and not os.environ.get("BM_CDP_URL"):
+                        # Without a Chrome's cookie there is no BM client: the object
+                        # stays uncached for a run with BM_CDP_URL. Runs without it
+                        # cached 1,067 BM objects as "AttributeError" (found 2026-10-08).
+                        continue
                     processed += 1
                     detail = None
                     error = ""
@@ -440,7 +445,7 @@ _NORTH_CAUCASUS = (43.2, 45.0)
 _COUNTRY_POINTS = {"Samoa": (-13.76, -172.1), "Tonga": (-21.18, -175.2), "Maldives": (3.2, 73.22),
                    "Isle of Man": (54.23, -4.55), "Federated States of Micronesia": (7.42, 151.85),
                    "Northern Mariana Islands": (15.2, 145.75), "Bahrain": (26.07, 50.55),
-                   "Cook Islands": (-21.23, -159.78)}
+                   "Cook Islands": (-21.23, -159.78), "Dominica": (15.42, -61.35), "Bahamas": (24.25, -76.0)}
 
 
 def _country_rings(country: str) -> list[list]:
@@ -587,12 +592,12 @@ _COUNTRY_REGION = {
 
 
 def _screened_keep() -> set[str]:
-    """Peoples `world_peoples.py screen` kept (living, not a duplicate, a
-    people); data/world/screened.json."""
+    """Peoples `world_peoples.py screen` put on the map (a people, not a
+    duplicate; living, or extinct and marked so); data/world/screened.json."""
     p = WORLD_DIR / "screened.json"
     if not p.exists():
         return set()
-    return {k for k, v in json.loads(p.read_text(encoding="utf-8")).items() if v.get("verdict") == "keep"}
+    return {k for k, v in json.loads(p.read_text(encoding="utf-8")).items() if v.get("verdict") in ("keep", "extinct")}
 
 
 def _bare_candidate(key: str) -> dict:

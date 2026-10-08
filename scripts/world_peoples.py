@@ -576,7 +576,7 @@ def cmd_europeana_objects(only: list[str]) -> None:
     # weakest cultures had no Europeana search until 2026-10-06.
     screened = json.loads((OUT / "screened.json").read_text(encoding="utf-8")) if (OUT / "screened.json").exists() else {}
     seen = {r["key"] for r in pe}
-    pe += [{"key": k, "label": v.get("label") or k} for k, v in screened.items() if v.get("verdict") == "keep" and k not in seen]
+    pe += [{"key": k, "label": v.get("label") or k} for k, v in screened.items() if v.get("verdict") in SCREEN_ON_MAP and k not in seen]
     want = {s.lower() for s in only}
     if want:
         pe = [r for r in pe if {r["key"].lower(), r["label"].lower(), re.sub(r"\s+peoples?$", "", r["label"].lower()),
@@ -930,6 +930,27 @@ def _joconde_people(cl: httpx.Client, key: str) -> list[dict]:
     return out
 
 
+# Wikidata names (folded substrings) that a museum uses for another people, checked by hand
+# (2026-10-08): Berlin's and the Kunstkamera's "Kariben" / "караибы" are the
+# mainland Caribs (Kali'na; Suriname, British Guiana), not the island Kalinago,
+# and Berlin's "Maroons" are Suriname's (Matawai, Aucaner), not Jamaica's.
+# quai Branly's bare "Caraïbes" mixes in the mainland (5 of 36 also "Kali'na"),
+# so only its "Kalinago" term counts. Every museum's "Santee" is the Santee
+# Dakota ("Dakota Santee" photographs), not the extinct Santee of South Carolina.
+_ETHNO_NOT_NAMES = {
+    "Q27106": ("carai", "carib", "karib", "караиб", "кариб"),
+    "Q6127426": ("=maroons", "=maroon"),
+    "Q7420117": ("santee",),
+}
+
+
+def _refused(key: str, name: str) -> bool:
+    """A name of `key` that _ETHNO_NOT_NAMES refuses: a folded substring, or
+    the whole name for an entry starting with "="."""
+    f = _fold(name)
+    return any(f == b[1:] if b.startswith("=") else b in f for b in _ETHNO_NOT_NAMES.get(key, ()))
+
+
 ETHNO_SOURCES = ("kamis", "smb", "prm", "maa", "quaibranly", "peabody", "museudoindio", "ntm", "neprajz", "joconde")
 
 
@@ -954,7 +975,7 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
     pe = [r for r in json.loads((OUT / "peoples.json").read_text(encoding="utf-8")) if r.get("listed") or r.get("unvetted_only")]
     screened = json.loads((OUT / "screened.json").read_text(encoding="utf-8")) if (OUT / "screened.json").exists() else {}
     seen = {r["key"] for r in pe}
-    pe += [{"key": k, "label": v.get("label") or k} for k, v in screened.items() if v.get("verdict") == "keep" and k not in seen]
+    pe += [{"key": k, "label": v.get("label") or k} for k, v in screened.items() if v.get("verdict") in SCREEN_ON_MAP and k not in seen]
     want = {s.lower() for s in only}
     if want:
         pe = [r for r in pe if {r["key"].lower(), r["label"].lower()} & want]
@@ -975,6 +996,7 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
         lab = labels.get(r["key"]) or {}
         cyr = list(dict.fromkeys(v.strip() for v in lab.get("ru") or [] if len(v.strip()) >= 4 and "(" not in v))
         lat = list(dict.fromkeys([*variants(r["label"]), *(v.strip() for v in lab.get("de") or [] if len(v.strip()) >= 4 and "(" not in v)]))
+        cyr, lat = [n for n in cyr if not _refused(r["key"], n)], [n for n in lat if not _refused(r["key"], n)]
         objs: list[dict] = []
         errs = []
         jobs = []
@@ -990,6 +1012,7 @@ def cmd_ethno_objects(only: list[str], workers: int = 6, sources: tuple[str, ...
             # its thesaurus is French and singular ("Kurde"); variants() adds the singular
             fr = list(dict.fromkeys([*variants(r["label"]), *(x for v in lab.get("fr") or [] if len(v.strip()) >= 4 and "(" not in v
                                                               for x in variants(v.strip()))]))
+            fr = [n for n in fr if not _refused(r["key"], n)]
             jobs.append(("quaibranly", qb.client, lambda c: _qb_people(c, fr)))
         if "peabody" in sources:
             from folk_patterns.museums import peabody
@@ -1701,8 +1724,13 @@ _BM_DEPT_BOTH = {
 # removed from aliases.json (Nzema came back with 5 Zimba objects), so they are
 # refused here. Sihasapa are the "Blackfoot Sioux", a Lakota band; the BM's
 # Blackfoot are the Blackfoot Confederacy. "Lozi" is "Lozi (Indic people)"
-# with its qualifier stripped; the BM's Lozi are the Zambian people.
-_BM_NAME_WRONG = {("Q1722812", "Zimba"), ("Q1680351", "Blackfoot"), ("Q6666357", "Lozi")}
+# with its qualifier stripped; the BM's Lozi are the Zambian people. The BM's
+# "Maroon" objects are Suriname's (38 of 41 found or made there, 1 in Jamaica's
+# John Crow District; checked 2026-10-08), not the Jamaican Maroons'; its
+# "Santee" (photographs, 1990s regalia) are the Santee Dakota, not the extinct
+# Santee of South Carolina.
+_BM_NAME_WRONG = {("Q1722812", "Zimba"), ("Q1680351", "Blackfoot"), ("Q6666357", "Lozi"), ("Q6127426", "Maroon"),
+                  ("Q7420117", "Santee")}
 
 
 def _bm_dept_ok(obj_id: str, people: dict) -> bool:
@@ -1731,7 +1759,7 @@ def cmd_candidates() -> None:
     # peoples.json keeps the country of the report run that wrote it.
     pe = [dict(r, country=(cls.get(r["key"]) or {}).get("country") or r.get("country")) for r in pe]
     for k, v in screened.items():
-        if v.get("verdict") == "keep" and k not in seen and (cls.get(k) or {}).get("people"):
+        if v.get("verdict") in SCREEN_ON_MAP and k not in seen and (cls.get(k) or {}).get("people"):
             c = cls[k]
             pe.append({"key": k, "label": v.get("label") or k, "continent": c.get("continent"),
                        "region": c.get("region"), "country": c.get("country") or v.get("country"),
@@ -2434,6 +2462,11 @@ def cmd_report(threshold: int, min_cats: int = 1) -> None:
         l = [r for r in rs if r["listed"]]
         print(f"  {c:9s} listed {len(l):3d} (new {sum(not r['in_atlas'] for r in l):3d}, breadth>=6 {sum((r.get('breadth') or 0) >= 6 for r in l):3d})"
               f"   not listed {sum(not r['listed'] for r in rs):3d}   unreviewed-only {sum(r['unvetted_only'] for r in rs):3d}")
+
+
+# Screen verdicts that put a people on the map: an extinct people gets a
+# stub too, marked "extinct" on its page (build_index reads screened.json).
+SCREEN_ON_MAP = ("keep", "extinct")
 
 
 SCREEN_PROMPT = """You check entries before they are added as cultures to a world atlas of folk

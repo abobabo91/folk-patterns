@@ -621,6 +621,12 @@ export function EthnicityPanel({ point, shard, onClose }: Props) {
                 {point.country} · {point.homeland_place ?? point.region}
               </div>
               <h2 className="mt-1 font-serif text-4xl font-medium leading-tight">{point.ethnicity}</h2>
+              {(point.extinct || shard?.extinct) && (
+                <span className="sub-mono mt-2 inline-block rounded border border-current px-1.5 py-0.5 font-mono text-[10px] uppercase tracking-widest"
+                      title="No longer exists as a distinct people">
+                  Extinct
+                </span>
+              )}
               {unvettedOnly ? (
                 <>
                   {unvettedCount > 0 ? (

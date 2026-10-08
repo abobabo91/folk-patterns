@@ -1,0 +1,49 @@
+---
+title: "Cheraw"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Cheraw, also known as the Saraw or Saura, were an Indigenous people of the Southeastern Woodlands who lived in the Piedmont region of North Carolina near the Sauratown Mountains, east of Pilot Mountain and north of the Yadkin River. They lived in villages near the Catawba River, later moved along the Dan and Pee Dee rivers, and eventually settled among the Catawba in the lower Catawba River valley. Their language is unattested and is associated by scholars with the Catawban language family. The Cheraw are significant in folk-cultural history because archaeological and documentary evidence records their settlements, pottery, food-processing systems, political relationships, migrations, and incorporation into the Catawba Nation. Their descendants contributed to the Saraw and Esaw dialects of Catawba and to the formation of the modern Catawba people.
+
+## Material culture
+
+### Architecture
+
+Cheraw settlements included houses and fortified communities. Houses at the Dan River Saratown were circular, while Sara and Occaneechi settlements had defensive palisades in the late seventeenth century. The final Saratown settlement on the Dan River, occupied between 1670 and 1710, was spread across 6.5 acres and was not enclosed by a palisade. Charraw Town, formed among the Catawba in the 1730s, was surrounded by a circular palisade. After the Catawba settlement was destroyed during the American Revolutionary War, it was rebuilt in two divisions across the Catawba River: Old Town on the east bank and Ayers Town on the west bank.
+
+### Ceramics, metalwork & everyday objects
+
+Cheraw pottery is documented archaeologically. Pottery from the Dan River Saratown was burnished, smoothed, and net-impressed. Potsherds from Charraw Town were not net-impressed and used fewer stamped impressions than pottery from the neighboring Catawba settlements of Nasaw and Weyapee. The sources state that pottery traditions from diverse groups within the Catawba settlement merged over time and became associated with Catawba identity and nationhood. Joara functioned as a trade center where copper and salt were exchanged with other Native Americans.
+
+## Music & performance
+
+The sources mention that Catawba militarism drew on heroes and stories rooted in conflict.
+
+## Festivals & rituals
+
+They record the Cheraw’s participation in the Yamasee War from 1715 to 1717 and their military involvement in the Tuscarora War, but these were historical conflicts rather than festivals. The sources also record epidemics, migration, treaty negotiations, adoption into the Catawba settlement, and the abandonment and rebuilding of settlements.
+
+## Foodways
+
+Cheraw foodways are documented through archaeological and historical descriptions. Joara exchanged copper and salt with other Native Americans, and De Soto’s chroniclers noted that the settlement had low stocks of grain. At Charraw Town, citizens ate corn supplied by Nasaw Town. Women in Nasaw Town shelled and processed the corn before it was sent to Charraw Town for consumption, indicating a specialized labor system between the settlements. Archaeological samples from Charraw Town also contained beans, nuts, fruit, and brambles, and nuts were more heavily harvested there than in other Catawba settlements.
+
+## Oral tradition & literature
+
+They state that Catawba militarism provided groups such as the Cheraw with a shared heritage drawn from heroes and stories rooted in conflict, but do not preserve the contents or forms of those stories. The written record includes colonial maps, journals, treaties, and historical works concerning the Cheraw, including John Lawson’s 1709 book *A New Voyage to Carolina*, The Journal of Barnwell, and later archaeological and historical studies.
+
+## Language & religion
+
+The Cheraw language is unattested, but the sources associate it with the Catawban language family. The Cheraw were also known by names including Sara, Saraw, Saura, Charáh, Charraw, Chara, Joara, and Xuala. Xuala was Joara in Spanish. The sources state that linguistic differences in the Catawba-Wateree Valley settled into the dialects of Esaw and Saraw, and that both dialects lasted into the 20th century. Cheraw was still spoken in the settlement in 1743. After the Cheraw joined the Catawba, the Catawba language gradually transitioned into the Esaw and Saraw dialects.
+
+## Sources & further reading
+
+- Robin A. Beck Jr., *Chiefdoms, Collapse, and Coalescence in the Early American South*, Cambridge University Press, 2013.
+- Mary Elizabeth Fitts, *Fit for War: Sustenance and Order in the Mid-Eighteenth-Century Catawba Nation*, University Press of Florida, 2017.
+- Alan Gallay, *The Indian Slave Trade: The Rise of the English Empire in the American South 1670–1717*, Yale University Press, 2002.
+- Brooke M. Bauer, *Becoming Catawba: Catawba Indian Women and Nation-Building, 1540–1840*, University of Alabama Press, 2023.
+- Blair A. Rudes, Thomas J. Blumer, and J. Alan May, “Catawba and Neighboring Groups,” in *Handbook of North American Indians: Volume 14, Southeast*, Smithsonian Institution, 2004.
+- Wikipedia, “Cheraw”: https://en.wikipedia.org/wiki/Cheraw

@@ -1,0 +1,68 @@
+---
+title: "Nicoleño"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Nicoleño were the people who lived on San Nicolas Island in California at the time of European contact. They spoke a Uto-Aztecan language, and archaeological evidence indicates that San Nicolas Island, like the other Channel Islands, had been populated for at least 10,000 years, though not necessarily continuously. The population was devastated by a massacre in 1811 involving sea otter hunters from Russian Alaska. By the 1830s, only around twenty people remained, while some sources gave the number as seven. The last surviving member, Juana Maria, died in 1853. Their name for themselves is unknown; *Nicoleño* became a conventional name, while the Chumash called them the *Niminocotch* and called San Nicolas *Ghalas-at*. Their material culture was closely adapted to an island environment and depended heavily on the ocean.
+
+## Material culture
+
+### Textile & pattern traditions
+
+They do record grass matting, clothing fragments, basket weaving, and a dress made of cormorant skins decorated with feathers.
+
+**Basket weaving** — The Nicoleño were apparently skilled basket weavers, and Juana Maria was described as making four different shapes.
+
+**Grass matting** — Grass matting was among the artifacts collected from surface sites on San Nicolas Island.
+
+**Cormorant-skin dress** — Juana Maria was wearing a dress made of cormorant skins when she was found; it was decorated with feathers.
+
+**Motif vocabulary.** The sources name no Nicoleño motifs.
+
+### Clothing & dress
+
+The sources provide limited information about Nicoleño clothing. When Juana Maria was found, she wore a dress made of cormorant skins decorated with feathers. Clothing fragments were also among the artifacts collected from surface sites on San Nicolas Island.
+
+### Architecture
+
+Juana Maria lived in a round brush enclosure about 6 feet (1.8 m) in diameter and 5 feet (1.5 m) high, with a narrow opening on one side. She cooked food over a fire inside her home. Several similar enclosures were still standing when she was found. Another structure consisted of brush walls supported by whale ribs. In 1939, Arthur Woodward documented the remnants of a whalebone structure attributed to the Lone Woman.
+
+### Ceramics, metalwork & everyday objects
+
+Recorded objects include bone knives and fishhooks, soapstone fish and bird effigies, grass matting, clothing fragments, two redwood boxes, and possessions made of sinew and bone. The redwood boxes were found with a whale rib marker on top and contained roughly 200 artifacts of Nicoleño, Euro-American, and Native Alaskan materials or styles.
+
+### Jewelry & body adornment
+
+Juana Maria’s cormorant-skin dress was decorated with feathers, and she possessed objects made of sinew and bone.
+
+## Music & performance
+
+The Nicoleño language article states that only four words and two songs attributed to Juana Maria remain as extant remnants of the language.
+
+## Festivals & rituals
+
+They state that 469 human remains and 436 burial objects have been found on San Nicolas Island, and that leaders from the Pechanga Band of Luiseño Mission Indians established a cultural claim to human remains and artifacts related to burial, with the approval of the Navy.
+
+## Foodways
+
+Nicoleño culture was entirely dependent on the ocean for sustenance. San Nicolas Island had only four types of land animals, none of which were valuable for food, while it had an abundance of fish, sea mammals, and birds. The Nicoleño were skilled at catching birds and other marine resources. Juana Maria cooked food over a fire inside her brush enclosure and hung seal meat from poles or ropes around the structures.
+
+## Oral tradition & literature
+
+They state that two songs attributed to Juana Maria survive as remnants of the extinct Nicoleño language, but provide no titles or contents. Contemporary accounts also recorded that no one could be found who understood Juana Maria’s language.
+
+## Language & religion
+
+Nicoleño was an extinct language formerly spoken on San Nicolas Island. It went extinct with Juana Maria’s death in 1853, and only four translated words and two songs attributed to her remain. The four translated words are *tocah*, meaning “animal hide”; *nache*, meaning “man”; *toygwah*, meaning “sky”; and *puoochay*, meaning “body.” Alfred L. Kroeber identified Nicoleño as a “Shoshonean language” and classified it within the Takic branch of Uto-Aztecan. Pamela Munro argued in 2000 that it belonged to the Cupan group of Takic languages and was not closely related to Tongva.
+
+## Sources & further reading
+
+- Alfred L. Kroeber, *Handbook of Indians of California*.
+- Pamela Munro, “Takic Foundations of Nicoleño Vocabulary,” *Proceedings of the Fifth California Islands Symposium*, United States Department of the Interior, 2000.
+- Susan L. Morris, Glenn J. Farris, Steven J. Schwartz, Irina Vladi L. Wender, and Boris Dralyuk, “Murder, Massacre, and Mayhem on the California Coast, 1814–1815: Newly Translated Russian American Company Documents Reveal Company Concern Over Violent Clashes,” *Journal of California and Great Basin Anthropology*, 2014.
+- Nicoleño, https://en.wikipedia.org/wiki/Nicole%C3%B1o
+- Nicoleño language, https://en.wikipedia.org/wiki/Nicole%C3%B1o_language

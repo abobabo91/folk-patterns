@@ -1,0 +1,52 @@
+---
+title: "Daylamites"
+subtitle: "Iran"
+region: "Middle East North Africa"
+tags: [ethnography, middle-east-north-africa]
+---
+
+## Overview
+
+The Daylamites or Dailamites were an Iranian people inhabiting Daylam, the mountainous regions of northern Iran on the southwest coast of the Caspian Sea, now comprising the southeastern half of Gilan Province. They lived in the highlands of Daylam, part of the Alborz range, between Tabaristan and Gilan. Their language was Daylami, a now-extinct Northwestern Iranian language similar to that of the neighbouring Gilites. The Daylamites were known in historical records as warlike people skilled in close combat, and served as soldiers under the Sasanian Empire and subsequent Muslim empires. From the 9th century, Daylamite infantry became an important element of armies in Iran. In the 930s, the Daylamite Buyid dynasty gained control over much of modern-day Iran.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Motif vocabulary.** The sources name no textile motifs.
+
+### Clothing & dress
+
+Historical records do describe their military equipment: swords, shields, battle-axes, slings, daggers, pikes, javelins, and two-pronged spears. Their tall shields were painted in gray colours, and Islamic sources record painted shields and two-pronged short spears, called *zhūpīn* in Persian and *mizrāq* in Arabic.
+
+### Architecture
+
+Daylam was a mountainous region in the Alborz range, and the sources describe its settlements as located on sheer mountainsides that were altogether inaccessible. The old Iranian fortress-city of Qazvin continued in its Sasanian-era role as a bulwark against Daylamite raids. The sources also mention Rudkhan Castle, Alamut Castle, and Lambsar Castle.
+
+### Ceramics, metalwork & everyday objects
+
+They record military objects and weapons, including swords, shields, battle-axes known as *tabar-zīn*, slings, daggers, pikes, and two-pronged javelins known as *zhūpīn*. Daylamite soldiers characteristically advanced with a shield wall and used spears and battle-axes from behind it.
+
+## Festivals & rituals
+
+Local rulers such as the Buyids and the Ziyarids made a point of celebrating old Iranian and Zoroastrian festivals. In 963, the Buyid ruler of Iraq, Mu'izz al-Dawla, popularized the Mourning of Muharram in Baghdad; this may have played a part in the evolution of the *ta'ziyeh*. They state that Daylamites exaggeratedly mourned over their dead and even over themselves in failure.
+
+## Foodways
+
+They state that the Daylamites practised agriculture, grew rice, fished, produced silk textiles, and kept herds. The sources also report that they had only a few horses.
+
+## Oral tradition & literature
+
+The sources record Daylamite names, historical accounts, and descriptions by Byzantine and Muslim writers. A poetic portrayal of Daylamite armed combat appears in Fakhruddin As'ad Gurgani's *Vis and Rāmin*. Procopius described the Daylamites as autonomous inhabitants of inaccessible mountains who marched as mercenaries with the Persians. Agathias described them as “one of the largest nations on the other side of the Tigris, whose territory borders on Persia.”
+
+## Language & religion
+
+Daylami was a now-extinct Northwestern Iranian language similar to that of the neighbouring Gilites. The term “Deylami” is most closely associated with the South Alborz varieties, such as Gozarkhani, spoken in the historical region of Daylam, although it was sometimes applied to Galeshi and, by extension, Eastern Gilaki as a whole. The Daylamites were most likely adherents of some form of Iranian paganism, while a minority were Zoroastrian and Nestorian Christian. The Church of the East spread among them through the activities of John of Dailam, and bishoprics were reported in the remote area as late as the 790s. In the 9th century many Daylamites adopted Zaidi Islam; in the 10th century some adopted Isma'ilism, followed in the 11th century by Fatimid Isma'ilism and subsequently Nizari Isma'ilism. The Safavids later espoused the Twelver sect of Shia Islam.
+
+## Sources & further reading
+
+- Hugh Kennedy, *The Prophet and the Age of the Caliphates: The Islamic Near East from the 6th to the 11th Century*, Second edition, Longman, 2004.
+- Wilferd Madelung and Wolfgang Felix, “Deylamites,” in *Encyclopædia Iranica*, Volume VII/4, Routledge & Kegan Paul, 1995.
+- V. Minorsky, “Daylam,” in *The Encyclopaedia of Islam, Second Edition*, Volume II, E. J. Brill, 1965.
+- Mohsen Zakeri, *Sāsānid Soldiers in Early Muslim Society: The Origins of ʿAyyārān and Futuwwa*, Otto Harrassowitz, 1995.
+- [Daylamites — Wikipedia](https://en.wikipedia.org/wiki/Daylamites)

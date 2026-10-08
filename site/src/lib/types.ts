@@ -9,6 +9,7 @@ export interface GlobePoint {
   object_count: number;
   unvetted_count?: number;
   unvetted_only?: boolean;
+  extinct?: boolean; // no longer exists as a distinct people
   seed_traditions: string[];
   top_image: string | null;
 }
@@ -77,6 +78,7 @@ export interface EthnicityShard {
   object_count: number;
   unvetted_count?: number;
   unvetted_only?: boolean;
+  extinct?: boolean;
   writeup_markdown: string | null;
   art_form_buckets: Record<string, SlimObject[]>;
   // media enrichment (optional — sidecars may be missing)

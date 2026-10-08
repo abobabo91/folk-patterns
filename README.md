@@ -137,7 +137,7 @@ python scripts/normalize_kinds.py --world
 python scripts/world_peoples.py candidates
 FOLK_LLM_BACKEND=codex python scripts/world_peoples.py local-audit   # then candidates again
 FOLK_LLM_BACKEND=codex python scripts/world_peoples.py screen
-python scripts/unvetted.py resolve        # detail cache: data/world/unvetted_details/part-0..7.jsonl
+BM_CDP_URL=http://127.0.0.1:9226 python scripts/unvetted.py resolve   # detail cache: data/world/unvetted_details/part-0..7.jsonl; BM objects stay uncached without BM_CDP_URL
 python scripts/unvetted.py places
 python scripts/unvetted.py build
 python scripts/build_index.py
@@ -154,13 +154,22 @@ no vetted objects or facets; their writeup comes from Wikipedia alone (Stub
 writeups below). `unvetted.py build` creates a quiet stub
 shard when no existing atlas ethnicity matches, placed as described under
 Stub placement below.
-Every living people gets a stub, also with no objects: `world_peoples.py
+Every people gets a stub, also with no objects: `world_peoples.py
 screen` has local Codex judge each classified people not yet on the map, in
 batches of 30 per country with the names already on the map and the other
 candidates of that country as context, as keep / extinct / duplicate /
 not_people (`data/world/screened.json`, raw replies in `screen_raw.jsonl`).
 On 2026-10-05 it judged 967: 865 keep, 50 extinct, 38 duplicate, 14 not a
-people. A kept people with no resolvable image becomes a zero-object stub
+people. Extinct peoples (Calusa, Timucua, Crimean Goths, Varangians) are on the
+map too, as stubs whose page carries an "Extinct" badge: `build_index` sets
+`extinct` on the stub's point and shard from the verdict (`SCREEN_ON_MAP` in
+`world_peoples.py`). The Caribbean was nearly empty because the classifier had
+read the Kalinago, Jamaican Maroons, Lucayans and Igneri as not a people, and
+the Guanahatabey were not in the Wikidata list; all five were corrected by hand
+in `classified.json` / `screened.json` (and `wikidata.json` for the
+Guanahatabey) on 2026-10-08, the Lucayans, Igneri and Guanahatabey as extinct.
+The BM's "Maroon" objects are refused for the Jamaican Maroons
+(`_BM_NAME_WRONG`): 38 of 41 come from Suriname. A kept people with no resolvable image becomes a zero-object stub
 ("No museum objects found yet"); 857 of the 1,471 stubs were such. `candidates`
 adds the screened peoples to the `peoples.json` rows (they were never in it, so
 their harvested BM objects never became candidates: Kota had 25) and takes the

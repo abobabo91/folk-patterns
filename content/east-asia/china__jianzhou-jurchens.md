@@ -1,0 +1,60 @@
+---
+title: "Jianzhou Jurchens"
+subtitle: "China"
+region: "East Asia"
+tags: [ethnography, east-asia]
+---
+
+## Overview
+
+The Jianzhou Jurchens were one of the three major groups of Jurchens identified by the Ming dynasty. Their geographic location changed over time. During the 14th century, they lived south of the Wild Jurchens and the Haixi Jurchens, in areas corresponding to modern-day Liaoning and Jilin provinces in China. Their earlier home included the lower reaches of the Songhua River and Mudanjiang. Three tribes later settled around the Tumen River near the present border of China, Russia, and North Korea. In the Ming period, Jianzhou communities moved west and south, living north of the Yalu River and close to Asian agricultural civilizations. They became a major component of the later Manchus.
+
+## Material culture
+
+### Textile & pattern traditions
+
+**Dyeing of cloth** — The Jianzhou Jurchens possessed industrial knowledge of dyeing cloth. The source gives no specific textile name, pattern, material, or technique beyond this description.
+
+**Processing ginseng** — They were known for industrial knowledge in processing ginseng. The source connects this expertise with the natural resources of their territory and with trade at Ming border towns.
+
+**Dyed clothing** — Dyed clothing was traded at Fushan, which the source describes as a licensed center for trade and a stopping place for Jianzhou embassy members.
+
+**Motif vocabulary.** The sources name no motifs.
+
+### Clothing & dress
+
+They mention dyed clothing as a traded commodity and state that the Jianzhou Jurchens possessed industrial knowledge of cloth dyeing. No garment types, distinctions between men's and women's dress, head coverings, belts, footwear, or ceremonial clothing are identified.
+
+### Architecture
+
+They mention villages of about twenty households or fewer, clustered along forested riverbanks, and identify Fort Gure as a stronghold. Fushan was fortified by the Ming during the early 17th century because it served as a border location in Liaodong.
+
+### Ceramics, metalwork & everyday objects
+
+The Jianzhou Jurchens acquired knowledge of fertilization, draft animals, and iron plows as they moved south toward agricultural civilizations. From 1599, they acquired iron-smelting and mining knowledge, bought iron plowshares from the Chinese, and learned from Koreans how to turn iron into weapons.
+
+## Music & performance
+
+They do state that Jianzhou communities commonly used Jurchen, Mongolian, and Chinese, and that Mongolian served for some time as their lingua franca. The source attributes to the Jianzhou leader Nurgaci an effort to devise a system integrating phonetic Mongolian and Jurchen language; this resulted in the creation of the Manchu language. This linguistic development is discussed as part of political unification, not as a musical or performance tradition. The sources also describe ritual visits by Jurchen leaders to Peking to “make ritual obeisance” to the Ming emperor.
+
+## Festivals & rituals
+
+They do describe political and diplomatic rituals associated with the Ming tributary system. Jurchen leaders made scheduled visits to Peking to “make ritual obeisance” to the Ming emperor. These visits helped satisfy the Ming tributary system, establish lists of Jurchen elites and military occupancies, and reduce tensions between the groups. The sources also record that Nurgaci took part in at least two such tributaries, one with his father when he was young and another led by himself. No UNESCO Intangible Cultural Heritage inscription is supplied for the Jianzhou Jurchens.
+
+## Foodways
+
+The Jianzhou Jurchens possessed abundant natural resources and were especially associated in the sources with processing ginseng. Fushan was renowned for cured ginseng, horse trade, and dyed clothing. The sources state that Jianzhou communities adopted agriculture during the Ming dynasty and acquired knowledge of fertilization, draft animals, and iron plows. A detailed account by Sin Chun-li describes villages clustered along forested riverbanks and says that their inhabitants lived from the river and its surrounding terrain.
+
+## Oral tradition & literature
+
+The sources do not present Jianzhou folktales, epic poetry, proverbs, riddles, or named storytelling cycles. They identify a detailed written record by Sin Chun-li, who described his journey through Jianzhou territory during the winter connected with the incident of 1594. His account describes rivers, forests, industrialization, villages of about twenty households or fewer, and communities living from the river and surrounding terrain.
+
+## Language & religion
+
+The Jianzhou Jurchens commonly used three languages: Jurchen, Mongolian, and Chinese. Mongolian served for some time as their lingua franca. The source distinguishes their Jurchen language from the Jin Jurchen language associated with the Jurchen people and the phonetic Kitan language established in the Jin dynasty. According to the Qing imperial history cited by the source, Nurgaci sought a system integrating phonetic Mongolian and Jurchen language, resulting in the creation of the Manchu language.
+
+## Sources & further reading
+
+- Wikipedia, “[Jianzhou Jurchens](https://en.wikipedia.org/wiki/Jianzhou_Jurchens).”
+- The source material supplied includes no UNESCO Intangible Cultural Heritage inscription for this group.
+- The source material supplied includes no museum catalogue records for the objects shown.

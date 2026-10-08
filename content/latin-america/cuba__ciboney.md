@@ -1,0 +1,42 @@
+---
+title: "Ciboney"
+subtitle: "Cuba"
+region: "Latin America"
+tags: [ethnography, latin-america]
+---
+
+## Overview
+
+The Ciboney, also called Siboney, were an Indigenous people of Cuba, the Tiburon Peninsula of Haiti, and possibly Jamaica. At the time of Spanish colonization, they were the most populous group in Cuba and inhabited the central part of the island, between western Pinar del Río Province and eastern Oriente Province. Some scholars classify them as a Western Taíno group with a dialect and culture distinct from Classic Taíno, while other scholars do not classify them as Taíno. Their society was distinct from the highly organized Indigenous peoples of Hispaniola: they had no integrated chiefdoms or wider political structure. Their history is important to Caribbean ethnography because later scholars confused them with the Guanahatabey and with archaic populations around the Caribbean.
+
+## Festivals & rituals
+
+The sources do record that Hispaniola Taíno chief Hatuey fled to Cuba with most of his people and remained there until the Spanish captured and executed him.
+
+## Oral tradition & literature
+
+They do preserve historical statements about the people through colonial writings, including accounts by Bartolomé de las Casas, who lived among the Ciboney in the early 16th century. The sources also state that modern Neo-Taíno projects seek to construct a modern lexicon through comparative linguistics with better-attested Arawakan languages.
+
+## Language & religion
+
+The Ciboney spoke a dialect of the Taíno language conventionally known as Ciboney Taíno. It was distinct from, but mutually intelligible with, Classic Taíno, and colonial sources suggest that it was very similar to the Lucayan dialects of the Bahamas. The dialect was spoken in central Cuba, parts of western Hispaniola, and possibly Jamaica, although it is essentially unattested. Taíno is described as an extinct Arawakan language, and the Taíno language was not written; what is known of it was recorded in Spanish transcription.
+
+The sources distinguish Ciboney Taíno from Classic Taíno. Ciboney Taíno belonged to the western cultural area associated with central-western Cuba, the Lucayan Archipelago, and probably rural areas of western Hispaniola and Jamaica. Classic Taíno was associated with the eastern cultural areas, including the Lesser Antilles north of Guadeloupe, Puerto Rico, central Hispaniola, and the southernmost Turks & Caicos. Classic Taíno was also described as the lingua franca of the Indies.
+
+The Ciboney were dominant in Cuba until around 1450. In the mid-15th century, according to Julian Granberry and Gary Vescelius, Classic Taíno groups from Hispaniola began migrating into eastern Cuba and overcoming the Indigenous Ciboney. These Cuban Taíno established chiefdoms concentrated in Oriente Province and settlements as far west as Havana Province.
+
+The Ciboney shared Cuba with the Guanahatabey, an archaic people inhabiting western Pinar del Río Province. Bartolomé de las Casas described the two peoples as different: the Guanahatabey were a hunter-gatherer society in western Cuba and spoke a language separate from Taíno. In the 20th century, confusion in historical sources led scholars to apply the name “Ciboney” to the Guanahatabey and to aceramic archaeological sites elsewhere in the Caribbean. Scholars recognized this error in the 1980s and restored the name “Ciboney” to the Western Taíno people of Cuba.
+
+They state only that the Ciboney were the most populous group in Cuba at the time of Spanish colonization. Following the Spanish conquest of Cuba in 1511 under Diego Velázquez de Cuéllar, the population of all Native groups declined precipitously until they had disappeared as distinct groups by the end of the century.
+
+The classification of the Ciboney remains disputed in the supplied sources. L. Antonio Curet questioned whether they should be referred to as Taínos, arguing that the term had been criticized and that its scientific basis and value had been questioned. Cayetano Coll y Toste also did not use “Taino” for the Ciboney or other Indigenous peoples in the Greater Antilles. By contrast, Julian Granberry and Gary Vescelius classified the Ciboney as a Western Taíno group and distinguished their language and culture from those of Classic Taíno.
+
+## Sources & further reading
+
+- Julian Granberry and Gary Vescelius, *Languages of the Pre-Columbian Antilles*, University of Alabama Press, 1992.
+- Irving Rouse, *The Tainos*, Yale University Press, 1992.
+- Nicholas J. Saunders, *The Peoples of the Caribbean: An Encyclopedia of Archeology and Traditional Culture*, ABC-CLIO, 2005.
+- Mark Raymond Harrington, *Cuba Before Columbus*, Museum of the American Indian, Heye Foundation, 1921.
+- Julian Granberry and Gary Vescelius, documentation on Ciboney Taíno and Classic Taíno dialects.
+- [Ciboney](https://en.wikipedia.org/wiki/Ciboney)
+- [Ciboney language](https://en.wikipedia.org/wiki/Ciboney_language)

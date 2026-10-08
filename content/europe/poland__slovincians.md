@@ -1,0 +1,30 @@
+---
+title: "Slovincians"
+subtitle: "Poland"
+region: "Europe"
+tags: [ethnography, europe]
+---
+
+## Overview
+
+The Slovincians, also known as Łeba Kashubians, are a near-extinct ethnic subgroup of the Kashubian people. They originated in north western Kashubia, in the Pomeranian Voivodeship of Poland, around the lakes of Łebsko and Gardno. Their original language, Slovincian, belonged to the Slavic linguistic context of the West Slavic Pomeranians, but became extinct in the early 20th century. After World War II, Slovincians emigrated en masse to Germany, and virtually all remaining Slovincian families had emigrated there by the 1980s. Their historical importance lies in their changing language, Lutheran religious affiliation, and position between Kashubian, Polish, German, and Low German cultural spheres.
+
+## Music & performance
+
+The sources describe religious song books and biblical publications associated with the introduction of Kashubian into the Lutheran Church. Simon Krofey, pastor in Bytów, published a religious song book in 1586, written in Polish and containing some Kashubian words. Michael Brüggemann, also known as Pontanus or Michał Mostnik, published a Polish translation of works of Martin Luther and biblical texts that also contained Kashubian elements. J.M. Sporgius published other biblical texts in 1700, including the *Schmolsiner Perikopen*, most of which followed the Polish-Kashubian style of Krofey’s and Brüggemann’s books, while small passages were written in pure Kashubian.
+
+## Festivals & rituals
+
+They do record the adoption of Lutheranism in the Duchy of Pomerania in 1534, which distinguished the Slovincians from the Kashubes in Pomerelia, who remained Roman Catholic. The sources also associate religious language use with Lutheran church publishing by Simon Krofey, Michael Brüggemann, and J.M. Sporgius.
+
+## Oral tradition & literature
+
+They do record several religious and biblical publications containing Polish, Kashubian, or Polish-Kashubian language. Simon Krofey’s religious song book appeared in 1586; Michael Brüggemann published translations of works of Martin Luther and biblical texts; and J.M. Sporgius published biblical texts in 1700.
+
+## Language & religion
+
+The Slovincians originally spoke Slovincian, as well as Kashubian, Polish, German, and Low German. Slovincian became extinct in the early 20th century. Their ancestors were the West Slavic Pomeranians, who moved into the region after the Migration Period. Following the Ostsiedlung, the Slovincians, like most other Wends, gradually became Germanized. The adoption of Lutheranism in the Duchy of Pomerania in 1534 distinguished them from the Kashubes in Pomerelia, who remained Roman Catholic. Hilferding in 1862 and Parczewski in 1896 described a progressive language shift from the Slovincians’ Slavonic vernacular to local West-Germanic dialects, including Low German Ostpommersch and High German, and in eastern Kashubian areas Low German Low Prussian. By the 1920s, the Slovincian villages had become linguistically Germanic, although a Slovincian consciousness remained.
+
+## Sources & further reading
+
+- Wikipedia, “Slovincians”: https://en.wikipedia.org/wiki/Slovincians

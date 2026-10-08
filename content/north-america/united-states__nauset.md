@@ -1,0 +1,50 @@
+---
+title: "Nauset"
+subtitle: "United States"
+region: "North America"
+tags: [ethnography, north-america]
+---
+
+## Overview
+
+The Nauset, sometimes called the Cape Cod Indians, were a Native American tribe living on Cape Cod, Massachusetts, east of Bass River and neighboring Wampanoag lands. They were a distinct tribe but often deferred to the Wampanoag chief sachem and shared cultural practices, agricultural methods, and the Massachusett language with the Wampanoag. European explorers and colonists visited them early; abductions and introduced diseases reduced their population before large-scale colonization of New England. Their lifeways combined intensive use of Atlantic Ocean seafood with swidden agriculture, hunting, silviculture, and material practices involving leather, plant fibers, pigments, shell beads, bows, arrows, clubs, and spears.
+
+## Material culture
+
+### Clothing & dress
+
+In the summer of 1605, Nauset clothing consisted of leather loincloths for both men and women. People sometimes wore grass or hemp dogbane tunics, while women wore open-front skin wraps. Both genders decorated their skins with black, yellow, and red pigments. Hair was plaited or twisted and decorated with shell beads. Men plucked their beards and cut the hair on top of the head short, leaving the rest long.
+
+### Architecture
+
+They mention a deserted village encountered near present-day Provincetown in November, 1620, but provide no architectural details.
+
+### Ceramics, metalwork & everyday objects
+
+The Nauset prepared maize by boiling it whole in earthen pots or grinding it with a mortar and pestle into maize flour for corn cakes. Their hunting and defensive equipment included bows and arrows tipped with the spines of horseshoe crabs, turkey-feather fletching, clubs, and spears. The historical record also mentions a metal kettle involved in a dispute at Nauset Harbor in July of 1605.
+
+### Jewelry & body adornment
+
+The sources describe shell beads used to decorate plaited or twisted hair. Both men and women decorated their skins with black, yellow, and red pigments. Men plucked their beards and altered their hair by cutting the top short while leaving the rest long. No further jewelry types, tattooing, ritual body adornment, or ceremonial functions are documented.
+
+## Festivals & rituals
+
+They record historical encounters and seasonal activities: the Pilgrims encountered a deserted village near present-day Provincetown in November, 1620, when the Nauset were away at their winter hunting grounds; during the autumn, Nauset hunters pursued wild turkey. Most Nauset later became Christianized, and Nauset people aided colonists as scouts and warriors against the Wampanoag during King Philip’s War.
+
+## Foodways
+
+Living along the Atlantic Ocean, the Nauset relied heavily on seafood. Their swidden agriculture was productive and included the “three sisters” of maize, beans, and squash, as well as Jerusalem artichokes, tobacco, and silviculture of mast trees. Maize was boiled whole in earthen pots or ground with a mortar and pestle into maize flour, which was then made into corn cakes. During the autumn, they hunted wild turkey with bows and arrows tipped with horseshoe-crab spines and fletched with turkey feathers.
+
+## Oral tradition & literature
+
+The historical record does mention a written note in English left by the Pilgrims promising to repay maize taken from a Nauset cache; the promise was eventually kept when the Nauset, led by Aspinet, returned months later. The Nauset also returned a small boy who had wandered away from the colony.
+
+## Language & religion
+
+The Nauset shared a common tongue, the Massachusett language, with the Wampanoag. Most Nauset became Christianized after colonization.
+
+## Sources & further reading
+
+- “Nauset,” *Wikipedia*: https://en.wikipedia.org/wiki/Nauset
+- No UNESCO Intangible Cultural Heritage inscription is identified in the supplied sources.
+- No museum catalogue records were supplied for the objects shown.

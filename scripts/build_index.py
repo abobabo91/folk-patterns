@@ -338,6 +338,10 @@ def build() -> None:
     wd_path = DATA_DIR / "world" / "wikidata.json"
     sitelinks = ({r["qid"]: int(r.get("sitelinks") or 0) for r in json.loads(wd_path.read_text(encoding="utf-8"))}
                  if wd_path.exists() else {})
+    # Peoples the screen step judged extinct are on the map as stubs, marked so.
+    screened_path = DATA_DIR / "world" / "screened.json"
+    extinct = ({k for k, v in json.loads(screened_path.read_text(encoding="utf-8")).items() if v.get("verdict") == "extinct"}
+               if screened_path.exists() else set())
     for stub in stubs:
         key = str(stub.get("ethnicity_key") or "")
         if not key or key in eth_meta:
@@ -352,6 +356,7 @@ def build() -> None:
             "seed_traditions": [],
             "unvetted_only": True,
             "stub": True,
+            **({"extinct": True} if str(stub.get("people_key") or "") in extinct else {}),
             "_sitelinks": sitelinks.get(str(stub.get("people_key") or ""), 0),
         }
     _spread_markers(eth_meta)
@@ -582,6 +587,7 @@ def build() -> None:
             "seed_traditions": meta["seed_traditions"][:6],
             "top_image": top_image,
             **({"unvetted_only": True} if meta.get("unvetted_only") else {}),
+            **({"extinct": True} if meta.get("extinct") else {}),
         })
 
     # Write shards. Wipe first so records that were dropped by junk /
@@ -816,6 +822,8 @@ def build() -> None:
         }
         if meta.get("unvetted_only"):
             shard["unvetted_only"] = True
+        if meta.get("extinct"):
+            shard["extinct"] = True
         shard["unvetted_count"] = int((unvetted_counts or {}).get(key, 0) or 0)
         (out_root / "ethnicities" / f"{key}.json").write_text(
             json.dumps(shard, indent=2, ensure_ascii=False), encoding="utf-8"
