@@ -121,10 +121,9 @@ etc.) for targeted re-runs; `scrape_all.py` is the one-command wrapper.
 the dropped ones with their reasons) is tracked; only its images are not. The
 site serves 915 images from R2 and hotlinks the rest from the museums, so local
 images are not needed (`build_index.py` reads the duplicate-check features of
-missing files from `data/image_features.json`). Clone it to
-`~/Desktop/github/folk-patterns` or set `R2_PUBLIC_BASE`: `build_index.py` reads the
-R2 public URL from `../tools/vault/vault.toml`, and without it writes 915 dead
-`/library/...` image paths with no error (seen in a clone under Temp, 2026-10-08). The gitignored crawl caches
+missing files from `data/image_features.json`). The R2 public URL comes from `R2_PUBLIC_BASE`, the vault, or the default in
+`build_index.py` (it is public; every shard carries it), so a clone anywhere
+builds working image URLs. The gitignored crawl caches
 and run logs are in `archive/local-data-2026-10-08.tar.xz` (65 MB, 417 MB
 unpacked): the `data/world/` caches (`bm_objects`, `eu_objects`,
 `ethno_objects_*`, `candidates`, `ntm_catalog`, the pick ledger and raw replies),

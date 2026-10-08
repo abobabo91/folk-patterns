@@ -73,6 +73,10 @@ if not R2_PUBLIC_BASE:
         if _vault.exists():
             _v = _tomllib.loads(_vault.read_text(encoding="utf-8"))
             R2_PUBLIC_BASE = ((_v.get("apis") or {}).get("cloudflare_r2") or {}).get("public_base_url", "").rstrip("/")
+# The bucket's public URL is no secret (every shard carries it), so a clone
+# without the vault still builds the right image URLs. Without this default a
+# clone under Temp wrote 915 dead /library/ paths with no error (2026-10-08).
+R2_PUBLIC_BASE = R2_PUBLIC_BASE or "https://pub-9a4c9e6d89854eae8d6e54f82caa852e.r2.dev"
 
 
 _LIBRARY_FILES: dict[str, str] | None = None
@@ -104,9 +108,7 @@ def _image_url(local_path: str | None) -> str | None:
         # china-xinjiang/china-xinjiang/ while their files (and R2 keys) sit
         # in china-xinjiang/_regional/ (2026-10-06). Use where the file is.
         key = _library_files().get(key.rsplit("/", 1)[-1], key)
-    if R2_PUBLIC_BASE:
-        return f"{R2_PUBLIC_BASE}/{key}"
-    return "/library/" + key
+    return f"{R2_PUBLIC_BASE}/{key}"
 
 
 # Hosts whose own image URL the site loads directly instead of our R2 copy.
