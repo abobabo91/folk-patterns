@@ -1,0 +1,54 @@
+---
+title: "Bunt"
+subtitle: "India"
+region: "South Asia"
+tags: [ethnography, south-asia]
+---
+
+## Overview
+
+The Bunt people are an ethnic Tuluva community historically associated with the Tulu Nadu region in South India. Traditionally a warrior-class or martial caste community with agrarian origins, they became the landed gentry and a major land-owning, farming and banking community of Tulu Nadu. They speak Tulu and Kundagannada as mother tongues. Today, the Bunts are largely urbanised, with a population of less than one million worldwide. Their folk-culture significance in the sources lies especially in their matrilineal social organisation, manor-house culture, patronage of Buta Kola, and association with tutelary deities, ancestral spirits and heroes.
+
+## Material culture
+
+### Architecture
+
+Bunt families traditionally controlled several villages and lived in manor houses. Named houses preserving medieval architecture include Nadibettu Aramane in Shirva, Chavadi Aramane of Nandalike, Suralu Aramane of the Tolaha dynasty in Udupi district, and Kodial Guthu house of Mangalore. Nadibettu Aramane was built in the 14th century and has copper plate inscriptions of the Vijayanagara Empire. Chavadi Aramane has inscriptions from the 16th century, while Suralu Aramane dates from the 15th century. The Suralu Mud Palace is a State protected Monument, partially restored in 2016 with help from the Government of Karnataka. Other named houses include Badila Guthu in Kannur, Shetty Bettu, Puthige Guthu, Markada Guthu and Kodethur Guthu.
+
+### Ceramics, metalwork & everyday objects
+
+They do mention copper plate inscriptions at Nadibettu Aramane and ritual objects, ornaments and other paraphernalia associated with the worship of Butas and daivas.
+
+## Music & performance
+
+They associate the Bunts with the Buta Kola festival, traditionally patronised by the community as principal landowners of the region. Buta Kola included aspects akin to theatrical forms such as Yakshagana. The religious performance of Buta Kola involved the worship of Butas and daivas, tutelary deities connected with families, villages, manorial estates, districts and former small kingdoms. Jumadi, a royal deity, was worshiped mainly by rich land-owning Bunts, who were described as the chief patrons of his cult. In the myth and religious Buta Kola dance, Jumadi was accompanied by his warrior attendant Bante.
+
+## Dance & theatre
+
+Buta Kola is the named ritual performance associated with Bunt religious life. It is a dance connected with the worship of Butas and daivas, which the sources describe as protective figures, ancestral spirits and heroes assimilated to the ranks of minor deities. The Bunts were traditional patrons of the festival, and the performance included aspects akin to theatrical forms like Yakshagana. The sources also name Bante as the warrior attendant of Jumadi in the religious Buta Kola dance.
+
+## Festivals & rituals
+
+The principal named festival is Buta Kola, an annual ritual festival for the worship of Butas and daivas. These beings were not worshiped daily like mainstream Hindu gods, although daily pujas could be conducted for ritual objects, ornaments and other paraphernalia. Buta worship was congregational, and every caste in the Tulu-speaking region had its own set of Butas and daivas. Depending on their significance, these could be family deities, local or village deities, deities associated with manorial estates, groups of estates, districts or former small kingdoms.
+
+The sources name Jumadi as a royal deity and also identify Kodamanthaye, Kukkinanthaye, Jaranthaye, Ullaya and Ullalthi among the deities of the royal Buta cult.
+
+## Foodways
+
+One historical legend reported among the Bunts states that one of their Jain kings abandoned Jainism and began eating peacock meat to cure a disease; this is presented in the source as a legend rather than as a description of ordinary Bunt foodways.
+
+## Oral tradition & literature
+
+The sources record a legend among the Bunts concerning a Jain king who abandoned Jainism and ate peacock meat to cure a disease. They also describe myths connected with Jumadi and his warrior attendant Bante in the religious Buta Kola dance.
+
+## Language & religion
+
+The Bunts speak Tulu and Kundagannada as their mother tongues and native languages. The sources describe Tulu as the language of the Tulu Nadu region.
+
+The Bunts practice Hinduism as well as Jainism. A section of the community believes that they were originally Jains who later became a caste group, and Heggade, the hereditary administrator of the Dharmasthala Temple, has spoken publicly about a Jain origin. The Bunts traditionally patronised Butas and daivas, whose worship coexisted with nominal Hindu affiliation. Named categories include family deities, local or village deities, estate deities and royal deities.
+
+## Sources & further reading
+
+- “Bunt (community),” *Wikipedia*: https://en.wikipedia.org/wiki/Bunt_%28community%29
+- UNESCO Intangible Cultural Heritage inscriptions: no relevant inscription was supplied in the sources.
+- Museum catalogue records: none were supplied in the sources.

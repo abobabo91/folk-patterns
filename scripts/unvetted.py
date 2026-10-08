@@ -368,6 +368,9 @@ def _ethnicity_shards(candidate: dict) -> list[dict]:
             pick_name = str(json.loads(pick_path.read_text(encoding="utf-8")).get("name") or "")
         except json.JSONDecodeError:
             pass
+    if candidate.get("key") in _SAME_AS:
+        candidate = {**candidate, "atlas": _SAME_AS[candidate["key"]]}
+        pick_name = ""
     name_variants = _name_variants(_candidate_name(candidate, pick_name))
     matches = [dict(shard) for shard, variants in _vetted_shards() if variants & name_variants]
     if not candidate.get("atlas") and candidate.get("continent"):
@@ -385,7 +388,34 @@ def _ethnicity_shards(candidate: dict) -> list[dict]:
     return matches
 
 
+# Stub names fixed by hand after the audit of 2026-10-08 (scripts/audit_places.py):
+# the pick or Wikidata label was a misspelling ("Embera peoplee"), a language
+# ("Kannada"), a demonym or a tribal-government name ("Fort Yuma Quechan Indian Tribe").
+_STUB_NAME_FIX = {
+    "Q2603574": "Khinalug", "Q584462": "Batsbi", "Q1479503": "Kists", "Q846578": "Svans",
+    "Q244028": "Kabardians", "Q3595760": "Pashai", "Q217815": "Naxi", "Q167395": "Jász",
+    "Q47246": "Erzya", "Q836660": "Votians", "Q1028240": "Kayapó",
+    "Q34188": "Yanomami", "Q2162816": "Xinka", "Q2025212": "Tepehuán", "Q898658": "Totonac",
+    "Q1335017": "Emberá", "Q180688": "Bedouin", "Q7395442": "Sa'idis", "Q2062219": "Opelousa",
+    "Q1754503": "Quechan", "Q852431": "Pueblo peoples", "Q3521909": "Bunt", "Q118281": "Kannadigas",
+    "Q1241443": "Kondh", "Q156274": "Kota", "Q3428765": "Meo", "Q6932164": "Mughal",
+    "Q140713": "Tuluvas", "Q4829787": "Awan", "Q4203419": "Iron Ossetians", "Q340520": "Acehnese",
+    "Q2608045": "Cirebonese", "Q633375": "Karo Batak", "Q588870": "Orang Laut",
+    "Q3267945": "Americo-Liberians", "Q1726724": "Manjak", "Q58843": "Tuareg", "Q2929727": "Bedik",
+    "Q1061544": "Il Chamus", "Q4446080": "Finns proper", "Q4940333": "Bawm", "Q4120474": "Hadhrami",
+    "Q1541828": "Riffians", "Q1267932": "Shilha",
+}
+# Stubs that are the same people as a seeded culture, found by the same audit:
+# their objects join the seed's page instead of a second marker.
+_SAME_AS = {
+    "Q117244": "Arawak", "Q331789": "Crow", "Q1783171": "Navajo", "Q947650": "Osage",
+    "Q750947": "Pawnee", "Q6078806": "Lao Isan", "Q216151": "Kinh", "Q1721908": "Kalabari",
+}
+
+
 def _stub_name(candidate: dict) -> str:
+    if candidate.get("key") in _STUB_NAME_FIX:
+        return _STUB_NAME_FIX[candidate["key"]]
     pick_path = WORLD_DIR / "picks" / f"{candidate.get('key')}.json"
     name = ""
     if pick_path.exists():
@@ -589,6 +619,9 @@ _COUNTRY_REGION = {
                      "Yemen", "Oman", "United Arab Emirates", "Kuwait", "Qatar", "Bahrain"), "middle-east-north-africa"),
     "Cyprus": "europe",
 }
+# Per-people exceptions to the country rule: Denmark's seeded cultures are
+# Greenlandic, which would put the Danes in North America.
+_STUB_REGION = {"Q164714": "europe"}
 
 
 def _screened_keep() -> set[str]:
@@ -622,7 +655,7 @@ def _stub_for_candidate(candidate: dict, country_regions: dict[str, str]) -> dic
     if centroid is None:
         print(f"  country polygon miss: {candidate.get('key')} {country}", flush=True)
         return None
-    region = _COUNTRY_REGION.get(country) or country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
+    region = _STUB_REGION.get(str(candidate.get("key") or "")) or _COUNTRY_REGION.get(country) or country_regions.get(_norm(country)) or _site_region(str(candidate.get("continent") or ""), str(candidate.get("region") or ""))
     # Russia's atlas cultures are Siberian, so its majority region and its
     # centroid put Komi, Udmurts and Vepsians in Siberia and the Avars there too.
     place = _PLACES.get(str(candidate.get("key") or ""))
@@ -889,8 +922,10 @@ PLACES_SCHEMA = {"type": "object", "additionalProperties": False, "required": ["
 _OVERSEAS = {"United States", "France", "United Kingdom", "Netherlands", "Denmark", "Chile", "New Zealand",
              "Australia", "Spain", "Portugal", "Ecuador", "Norway"}
 # The country polygons leave out some island groups: India's has no Andaman
-# and Nicobar Islands, so Onge and Shompen sit ~1,000 km off its border.
-_OFFSHORE_KM = {"India": 1500}
+# and Nicobar Islands, so Onge and Shompen sit ~1,000 km off its border (Great
+# Nicobar more). Japan's leaves out Okinawa and the Bonin Islands, Colombia's
+# San Andrés (all found by the audit of 2026-10-08).
+_OFFSHORE_KM = {"India": 2000, "Japan": 1500, "Colombia": 1000}
 
 
 def _places() -> dict[str, dict]:

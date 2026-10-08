@@ -372,6 +372,11 @@ def cmd_build() -> None:
                     # the polygon is a part elsewhere (Dayak -> Malayic Dayak only)
                     print(f"  {c['ethnicity']}: polygon {_off(geom, marker):.0f} km off, ellipse used", flush=True)
                     geom = None
+                elif str(places.get(stub_people.get(c["key"], ""), {}).get("source", "")).startswith("audit"):
+                    # a point checked by hand (scripts/audit_places.py) outranks
+                    # the old polygon: Taz, Lom and the Danes sat at a wrong one
+                    print(f"  {c['ethnicity']}: polygon {_off(geom, marker):.0f} km off an audited marker, ellipse used", flush=True)
+                    geom = None
                 elif c["key"] in stub_people:
                     # polygon and ellipse agree, the marker is the odd one out
                     # (a Codex homeland point: Tapirapé 4 degrees too far north)

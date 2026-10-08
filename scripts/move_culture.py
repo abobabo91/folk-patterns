@@ -1,4 +1,5 @@
-"""Move a culture to another site region, or to another region's seed file.
+"""Move a culture to another site region, or to another region's seed file,
+or rename its key outright (a new country or name).
 
 A culture's region is part of its key (`east-asia__russia__bashkir`) and of
 every path that holds it: the library folder (and so its R2 image keys), the
@@ -8,6 +9,7 @@ territory caches under data/, and its seed entry. This renames all of them in on
     python scripts/move_culture.py east-asia__russia__bashkir europe            # dry run
     python scripts/move_culture.py east-asia__russia__bashkir europe --commit
     python scripts/move_culture.py middle-east-north-africa__armenia__armenian caucasus --commit
+    python scripts/move_culture.py south-asia__india__lom caucasus__armenia__lom --title Lom --country Armenia --commit
 
 Afterwards: `python scripts/upload_to_r2.py --commit` (uploads the images under
 their new keys; the old keys stay in the bucket), `unvetted.py build`,
@@ -19,6 +21,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import shutil
 import sys
 from pathlib import Path
@@ -39,20 +42,24 @@ def _slug_name(seed_country: dict, eth_slug: str) -> dict | None:
     return next((e for e in seed_country["ethnicities"] if slugify(e["name"]) == eth_slug), None)
 
 
-def move(key: str, new_region: str, commit: bool) -> None:
+def move(key: str, target: str, commit: bool, title: str = "", country: str = "") -> None:
+    """`target` is a region, or a whole new key. A new key renames the files to
+    its country and name slugs too; `title` / `country` then rewrite the
+    writeup frontmatter and the media sidecar. Seed entries move by region only."""
     old_region, country_slug, eth_slug = key.split("__")
-    new_key = f"{new_region}__{country_slug}__{eth_slug}"
+    new_key = target if "__" in target else f"{target}__{country_slug}__{eth_slug}"
+    new_region, new_country, new_eth = new_key.split("__")
     ops: list[tuple[str, Path, Path]] = []
 
     lib_old = REPO / "library" / old_region / country_slug / eth_slug
-    lib_new = REPO / "library" / new_region / country_slug / eth_slug
+    lib_new = REPO / "library" / new_region / new_country / new_eth
     if lib_old.exists():
         ops.append(("dir", lib_old, lib_new))
     for suffix in (".md", ".long.md"):
         ops.append(("file", REPO / "content" / old_region / f"{country_slug}__{eth_slug}{suffix}",
-                    REPO / "content" / new_region / f"{country_slug}__{eth_slug}{suffix}"))
+                    REPO / "content" / new_region / f"{new_country}__{new_eth}{suffix}"))
     ops.append(("file", REPO / "content" / "media" / old_region / f"{country_slug}__{eth_slug}.json",
-                REPO / "content" / "media" / new_region / f"{country_slug}__{eth_slug}.json"))
+                REPO / "content" / "media" / new_region / f"{new_country}__{new_eth}.json"))
     for sub in ("ethnicities", "unvetted", "territories"):
         ops.append(("file", REPO / "data" / sub / f"{key}.json", REPO / "data" / sub / f"{new_key}.json"))
     ops = [o for o in ops if o[1].exists()]
@@ -74,6 +81,8 @@ def move(key: str, new_region: str, commit: bool) -> None:
             if e:
                 seed_move = (src, c, e)
                 break
+    if seed_move and (new_country, new_eth) != (country_slug, eth_slug):
+        sys.exit("renaming a seeded culture: edit its seed entry by hand")
     if seed_move:
         if not dst_seed:
             sys.exit(f"no seed file with region {new_region!r}; create data/seed/<name>.json first")
@@ -100,14 +109,23 @@ def move(key: str, new_region: str, commit: bool) -> None:
         print(f"  rewrote local_path and region in {n} metadata files")
     # Writeup frontmatter names the region too ("region: \"East Asia\"", tags).
     for suffix in (".md", ".long.md"):
-        md = REPO / "content" / new_region / f"{country_slug}__{eth_slug}{suffix}"
+        md = REPO / "content" / new_region / f"{new_country}__{new_eth}{suffix}"
         if md.exists():
             t = md.read_text(encoding="utf-8")
-            title = lambda r: r.replace("-", " ").title()
-            t2 = t.replace(f'region: "{title(old_region)}"', f'region: "{title(new_region)}"').replace(
+            label = lambda r: r.replace("-", " ").title()
+            t2 = t.replace(f'region: "{label(old_region)}"', f'region: "{label(new_region)}"').replace(
                 f"tags: [ethnography, {old_region}]", f"tags: [ethnography, {new_region}]")
+            if title:
+                t2 = re.sub(r'^title: ".*"$', lambda _: f'title: {json.dumps(title, ensure_ascii=False)}', t2, count=1, flags=re.M)
+            if country:
+                t2 = re.sub(r'^subtitle: ".*"$', lambda _: f'subtitle: {json.dumps(country, ensure_ascii=False)}', t2, count=1, flags=re.M)
             if t2 != t:
                 md.write_text(t2, encoding="utf-8")
+    media = REPO / "content" / "media" / new_region / f"{new_country}__{new_eth}.json"
+    if media.exists() and (title or country):
+        m = json.loads(media.read_text(encoding="utf-8"))
+        m.update({k: v for k, v in (("ethnicity", title), ("country", country)) if v})
+        media.write_text(json.dumps(m, ensure_ascii=False, indent=2), encoding="utf-8")
     # Territory caches are keyed by culture key; renaming the key keeps the
     # Codex verdicts instead of judging the culture again.
     for p in sorted((REPO / "data" / "world").glob("territory_*")):
@@ -134,10 +152,12 @@ def move(key: str, new_region: str, commit: bool) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("key")
-    ap.add_argument("region")
+    ap.add_argument("target", help="a region, or a whole new key")
+    ap.add_argument("--title", default="", help="new display name for the writeup and media sidecar")
+    ap.add_argument("--country", default="", help="new country for the writeup and media sidecar")
     ap.add_argument("--commit", action="store_true")
     a = ap.parse_args()
-    move(a.key, a.region, a.commit)
+    move(a.key, a.target, a.commit, a.title, a.country)
 
 
 if __name__ == "__main__":

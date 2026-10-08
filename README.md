@@ -97,6 +97,8 @@ python scripts/generate_writeups.py east_asia --only Ainu --force --export-batch
 python scripts/generate_writeups.py --import-batch w001 --force  # after the cloud run; see docs/cloud-vetting.md
 python scripts/restructure_writeups.py --only Yoruba --preview   # -> work/writeup-preview/
 python scripts/move_culture.py east-asia__russia__bashkir europe --commit   # region change: library, R2 keys, content, territories, seed
+python scripts/move_culture.py south-asia__india__lom caucasus__armenia__lom --title Lom --country Armenia --commit   # stub rename / new country
+python scripts/audit_places.py facts|judge|report   # name / country / point / Wikipedia check of every culture (local Codex)
 python scripts/restructure_writeups.py                            # all; ~$0.05 each on Haiku
 python scripts/audit_profile.py --region north_america --only Hopi --fix   # short profile vs sources; add_culture runs it
 
@@ -238,6 +240,39 @@ regions. Armenian (from MENA) and Bashkir (East Asia to Europe) were moved with
 `move_culture.py`, which also rewrites `local_path` and `cultural.region` in the
 library metadata; its images were uploaded to R2 under the new keys and the old
 keys left in the bucket. 12 stubs changed key in the same rebuild.
+
+Audit of names and places: `scripts/audit_places.py` checks every culture on
+the map. `facts` writes each marker with the country polygon its point falls in
+and the Wikipedia article its page links (`work/audit/facts.jsonl`); `judge`
+has local Codex read them in batches of 25 sorted by country (so duplicates
+within a country are seen together) for a wrong name, country, point,
+Wikipedia article or duplicate; `report` lists the flagged ones (the run below: [docs/audit-2026-10-08.txt](docs/audit-2026-10-08.txt), with the judge's reasons). The verdicts
+are advice, applied by hand. Run of 2026-10-08 over 1,992 cultures: 204 flagged
+(point 113, name 64, Wikipedia 24, country 15, duplicate 12). The judge also
+erred: it moved the Santee tribe of South Carolina to the Santee Dakota of
+Nebraska, put the Taz of Primorye at the Taz river, wanted the Machinere
+renamed although Wikipedia's article is "Machinere", and flagged Xinjiang and
+Tibet as countries. What was applied:
+- 44 stub names in `unvetted.py` `_STUB_NAME_FIX` (Embera peoplee -> Emberá,
+  Kannada -> Kannadigas, Fort Yuma Quechan Indian Tribe -> Quechan, Sum' ->
+  Finns proper, Camus -> Il Chamus). Seeds keep their names.
+- 8 stubs that duplicate a seed merge into it through `_SAME_AS` (Navajo
+  Nation -> Navajo, Vietnamese -> Kinh, Isan -> Lao Isan); their objects join
+  the seed's page and their old write-ups are no longer used.
+- 8 countries in `classified.json` (Danes from Egypt to Denmark, Lom from India
+  to Armenia, Banu Ka'b to Iran, Sakai to Indonesia, Lamet and Mal to Laos);
+  `_STUB_REGION` keeps the Danes in Europe, where Denmark's seeds are Greenlandic.
+- 99 stub points in `stub_places.json` (source `audit 2026-10-08`) and 13 seed
+  homelands. `_OFFSHORE_KM` lets India, Japan and Colombia stubs sit on their
+  outlying islands (Shompen, Ryukyuans, Bonin Islanders, Raizal), which their
+  1:110m polygons leave out. `territories.py build` keeps an audited marker
+  and draws an ellipse around it instead of moving it back to an old polygon.
+- 23 Wikipedia links in the media sidecars, with the intro fetched again
+  (Diola had linked a rice dish, Bongo the drum, Fulani "Anti-Fulani sentiment").
+Renamed stubs keep their files through `move_culture.py OLD_KEY NEW_KEY --title
+--country`. Many points still fall "in the sea" on the coarse polygons, mostly
+coastal and island peoples; markers crowded together (Dagestan, Georgia) are
+moved apart by `_spread_markers` and can cross a border.
 
 Stub writeups: `generate_writeups.py --stubs` writes one per stub culture from
 its English Wikipedia article plus related articles (sitelinks of its Wikidata
