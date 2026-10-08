@@ -1,0 +1,596 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_14873",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_14873",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14873?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Tewa",
+      "tradition": "Tewa",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Blackware carved pottery vessel by Madeline Naranjo of Santa Clara Pueblo, signed on the base — Santa Clara is a Tewa-speaking pueblo, so this is a directly attributed Tewa ceramic.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, Lerkärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1116250/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e6015a3ba0a31c18c8072a11b200925bddfe8a6090f14164a0ca968725ba91ab",
+        "bytes": 21126,
+        "local_path": "library\\north-america\\united-states\\tewa\\ceramic\\tewa\\images\\eu_91608_SMVK_VKM_objekt_14873.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1116250%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:31:07.331061+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_14873",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_14873?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, Lerkärl"
+      ],
+      "dcCreator": [
+        "Naranjo, Madeline"
+      ],
+      "dcDescription": [
+        "1983.06.0001 Santa Clara Pueblo, New Mexico, USA Santa Clara Pueblo, New Mexico skiss Tewa Amerika United States santa clara pueblo Svart lerkärl med stiliserad djurmotv. I botten signerat \"Madeleine M, Santa Clara Pueblo\".\n\nH: ca. 11,5cm,  B: ca. 11,5 cm. Gåva från Eskil Hultin Sthlm"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1116250%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1116250/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_16912",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_16912",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16912?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Tewa",
+      "tradition": "Tewa",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A polychrome earthenware bowl with classic Tewa/Hano (Hopi-Tewa) painted design in brown and red on a cream slip, consistent with Pueblo pottery from Arizona attributed to the Tewa people at Hano. The shape, slip, and geometric/curvilinear motifs match traditional Tewa ceramic work.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, skål, Lerskål",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155682/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1df46ddb347dfbec951297aea2511287769bb075342949ba4c74fc7e51c27285",
+        "bytes": 64678,
+        "local_path": "library\\north-america\\united-states\\tewa\\ceramic\\tewa\\images\\eu_91608_SMVK_VKM_objekt_16912.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155682%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:31:08.043860+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_16912",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16912?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, skål, Lerskål"
+      ],
+      "dcDescription": [
+        "1927.12.0010 Tewa eller Hano, Arizona    I    I   V Tewa eller Hano, Arizona. [[Haga]] skiss Amerika United States Tewa Skål av lergods. Ornamentik i brunt och rött på gulvit botten.  (Coll. G. H.  Peppar).  Byte med Museum for Anthropology, University of California utställt \"Former för måltiden\" 1974 Röhska."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155682%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155682/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_16915",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_16915",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16915?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Tewa",
+      "tradition": "Tewa",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A hand-painted polychrome pottery bowl attributed to Tewa/Hano potters of Arizona, with typical geometric Hopi-Tewa style decoration — a classic form of Puebloan ceramic art made by this people.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, skål",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155694/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f59579161df0ae4a54f82901a53e534698fca70126e0688269b8b88293ba8734",
+        "bytes": 28112,
+        "local_path": "library\\north-america\\united-states\\tewa\\ceramic\\tewa\\images\\eu_91608_SMVK_VKM_objekt_16915.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155694%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:31:08.806043+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_16915",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16915?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, skål"
+      ],
+      "dcDescription": [
+        "1927.12.0014 Tewa eller Hano, Arizona     I     I    V Towa eller Hano, Arizona, USA [[Haga]] skiss Amerika United States Tewa Skål av lergods, målad invändigt, vit bottenfärg. Handtag.  (Coll. G. H.  Peppar).  Erhållit genom byte med Museum for Anthropology, University of California."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155694%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155694/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

@@ -1,0 +1,977 @@
+[
+  {
+    "id": "europeana-2021606_resource_document_rijksmuseum_van_oudheden_AU45",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of Antiquities",
+      "object_id": "2021606_resource_document_rijksmuseum_van_oudheden_AU45",
+      "object_url": "https://www.europeana.eu/item/2021606/resource_document_rijksmuseum_van_oudheden_AU45?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian Coptic textile",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "garment",
+      "vision_reason": "The image shows a plain undyed linen tunic (bag tunic) with faint woven stripe patterning near the edges, consistent with a Egyptian mummy/burial garment as described; the object is clearly the subject, photographed flat against a neutral background.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "mummiekleed ; weefsel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of Antiquities",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimg.rmo.nl%2Fimageproxy%2Fproxy.aspx%3Fmaxwidth%3D500%26cache%3Dyes%26filename%3D018612.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "baaf63cb9e0fd664273f290511d495da09ee97afa7c0a7db07db29d0578d70c2",
+        "bytes": 36439,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\egyptian-coptic-textile\\images\\eu_2021606_resource_document_rijksmuseum_van_oudheden_AU45.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T14:50:49.923190+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of Antiquities"
+      ],
+      "dcDescription": [
+        "A complete adult-size bag tunic with warp (vertical) fringes. Although this garment is made from undyed linen cloth it features several colorful elements. These include a stripe pattern of blue and undyed threads along the selvedges (the outer edges of the original fabric) as well as stripes of blue and undyed thread at the end bands which run horizontally across the bottom of the tunic. This garment was woven in one piece, then folded in half and sewn along the sides to create the tunic shape. There is evidence of mending suggesting that this piece of clothing was worn many times. For an example of an Egyptian tunic from the Late Antique/Coptic Period see museum number F 1984/11.1."
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "A complete adult-size bag tunic with warp (vertical) fringes. Although this garment is made from undyed linen cloth it features several colorful elements. These include a stripe pattern of blue and undyed threads along the selvedges (the outer edges of the original fabric) as well as stripes of blue and undyed thread at the end bands which run horizontally across the bottom of the tunic. This garment was woven in one piece, then folded in half and sewn along the sides to create the tunic shape. There is evidence of mending suggesting that this piece of clothing was worn many times. For an example of an Egyptian tunic from the Late Antique/Coptic Period see museum number F 1984/11.1."
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "mummiekleed ; weefsel"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2058",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Flachsfaser"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Льняная ткань"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Pellava"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Linne"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Linho"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Лен"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Λινό"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Drobė"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Linen"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Lino"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Lin"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Vászon"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Lino textil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Linane"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Lněná tkanina"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehungintzarako liho"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Ľan"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Laneno platno"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Línéadach"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tkanina lniana"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Linned"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Pânză"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Lli"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Linnen"
+        },
+        {
+          "def": "Textiel"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Flachsfaser",
+          "Textilie"
+        ],
+        "ru": [
+          "Текстиль",
+          "Льняная ткань"
+        ],
+        "fi": [
+          "Pellava",
+          "Tekstiili"
+        ],
+        "pt": [
+          "Têxtil",
+          "Linho"
+        ],
+        "bg": [
+          "Текстил",
+          "Лен"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Drobė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Lin",
+          "Textile"
+        ],
+        "hu": [
+          "Vászon",
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia",
+          "Ľan"
+        ],
+        "sl": [
+          "Tekstil",
+          "Laneno platno"
+        ],
+        "ga": [
+          "Línéadach",
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil",
+          "Lli"
+        ],
+        "sv": [
+          "Linne",
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα",
+          "Λινό"
+        ],
+        "en": [
+          "Textile",
+          "Linen"
+        ],
+        "it": [
+          "Tessuto",
+          "Lino"
+        ],
+        "es": [
+          "Lino textil",
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil",
+          "Linane"
+        ],
+        "cs": [
+          "Textilie",
+          "Lněná tkanina"
+        ],
+        "eu": [
+          "Ehungintzarako liho",
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia",
+          "Tkanina lniana"
+        ],
+        "da": [
+          "Tekstil",
+          "Linned"
+        ],
+        "ro": [
+          "Pânză",
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel",
+          "Linnen"
+        ]
+      },
+      "edmDatasetName": [
+        "2021606_DigitaleCollectie_RM_Oudheden"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/21.12126/21825"
+      ],
+      "edmIsShownBy": [
+        "http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&cache=yes&filename=018612.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Arabische Republik Ägypten"
+        },
+        {
+          "def": "Арабская Республика Египет"
+        },
+        {
+          "def": "АРЕ"
+        },
+        {
+          "def": "Egyptin tasavalta"
+        },
+        {
+          "def": "Arabrepubliken Egypten"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "República Árabe do Egipto"
+        },
+        {
+          "def": "Republica Arabe do Egipto"
+        },
+        {
+          "def": "Арабска република Египет"
+        },
+        {
+          "def": "Αραβική Δημοκρατία της Αιγύπτου"
+        },
+        {
+          "def": "Repubblika Għarbija tal-Eġittu"
+        },
+        {
+          "def": "Repubblika tal-Eġittu"
+        },
+        {
+          "def": "Republic of Egypt"
+        },
+        {
+          "def": "Eg"
+        },
+        {
+          "def": "EGY"
+        },
+        {
+          "def": "Arab Republic of Egypt"
+        },
+        {
+          "def": "Arab Rep. Egypt"
+        },
+        {
+          "def": "Rep. Egypt"
+        },
+        {
+          "def": "Repubblica Araba d'Egitto"
+        },
+        {
+          "def": "Egypte"
+        },
+        {
+          "def": "EG"
+        },
+        {
+          "def": "La République arabe d’Égypte"
+        },
+        {
+          "def": "Ég."
+        },
+        {
+          "def": "Egyiptomi Arab Köztársaság"
+        },
+        {
+          "def": "República Árabe de Egipto"
+        },
+        {
+          "def": "Republica Arabpastas Marcelino e de Egipto"
+        },
+        {
+          "def": "Egyptská arabská republika"
+        },
+        {
+          "def": "Arabska Republika Egiptu"
+        },
+        {
+          "def": "Ægypten"
+        },
+        {
+          "def": "República Àrab d'Egipte"
+        },
+        {
+          "def": "EG"
+        },
+        {
+          "def": "EGY"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Arabische Republik Ägypten"
+        ],
+        "ru": [
+          "Арабская Республика Египет",
+          "АРЕ"
+        ],
+        "fi": [
+          "Egyptin tasavalta"
+        ],
+        "sv": [
+          "Arabrepubliken Egypten"
+        ],
+        "pt": [
+          "Egipto",
+          "República Árabe do Egipto",
+          "Republica Arabe do Egipto"
+        ],
+        "bg": [
+          "Арабска република Египет"
+        ],
+        "el": [
+          "Αραβική Δημοκρατία της Αιγύπτου"
+        ],
+        "mt": [
+          "Repubblika Għarbija tal-Eġittu",
+          "Repubblika tal-Eġittu"
+        ],
+        "en": [
+          "Republic of Egypt",
+          "Eg",
+          "EGY",
+          "Arab Republic of Egypt",
+          "Arab Rep. Egypt",
+          "Rep. Egypt"
+        ],
+        "it": [
+          "Repubblica Araba d'Egitto"
+        ],
+        "fr": [
+          "Egypte",
+          "EG",
+          "La République arabe d’Égypte",
+          "Ég."
+        ],
+        "hu": [
+          "Egyiptomi Arab Köztársaság"
+        ],
+        "es": [
+          "República Árabe de Egipto",
+          "Republica Arabpastas Marcelino e de Egipto"
+        ],
+        "sk": [
+          "Egyptská arabská republika"
+        ],
+        "pl": [
+          "Arabska Republika Egiptu"
+        ],
+        "da": [
+          "Ægypten"
+        ],
+        "ca": [
+          "República Àrab d'Egipte"
+        ],
+        "nl": [
+          "EG",
+          "EGY"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Ägypten"
+        },
+        {
+          "def": "Египет"
+        },
+        {
+          "def": "Egypti"
+        },
+        {
+          "def": "Egito"
+        },
+        {
+          "def": "Египет"
+        },
+        {
+          "def": "Egiptas"
+        },
+        {
+          "def": "Ēģipte"
+        },
+        {
+          "def": "Egipat"
+        },
+        {
+          "def": "Égypte"
+        },
+        {
+          "def": "Egyiptom"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "An Éigipt"
+        },
+        {
+          "def": "Egipte"
+        },
+        {
+          "def": "Egypten"
+        },
+        {
+          "def": "Eġittu"
+        },
+        {
+          "def": "Αίγυπτος"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Egitto"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "Egiptus"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Egypten"
+        },
+        {
+          "def": "Egypte"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Ägypten"
+        ],
+        "ru": [
+          "Египет"
+        ],
+        "fi": [
+          "Egypti"
+        ],
+        "pt": [
+          "Egito"
+        ],
+        "bg": [
+          "Египет"
+        ],
+        "lt": [
+          "Egiptas"
+        ],
+        "lv": [
+          "Ēģipte"
+        ],
+        "hr": [
+          "Egipat"
+        ],
+        "fr": [
+          "Égypte"
+        ],
+        "hu": [
+          "Egyiptom"
+        ],
+        "sk": [
+          "Egypt"
+        ],
+        "sl": [
+          "Egipt"
+        ],
+        "ga": [
+          "An Éigipt"
+        ],
+        "ca": [
+          "Egipte"
+        ],
+        "sv": [
+          "Egypten"
+        ],
+        "mt": [
+          "Eġittu"
+        ],
+        "el": [
+          "Αίγυπτος"
+        ],
+        "en": [
+          "Egypt"
+        ],
+        "it": [
+          "Egitto"
+        ],
+        "es": [
+          "Egipto"
+        ],
+        "et": [
+          "Egiptus"
+        ],
+        "eu": [
+          "Egipto"
+        ],
+        "cs": [
+          "Egypt"
+        ],
+        "pl": [
+          "Egipt"
+        ],
+        "ro": [
+          "Egipt"
+        ],
+        "da": [
+          "Egypten"
+        ],
+        "nl": [
+          "Egypte"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "27.0"
+      ],
+      "edmPlaceLongitude": [
+        "29.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimg.rmo.nl%2Fimageproxy%2Fproxy.aspx%3Fmaxwidth%3D500%26cache%3Dyes%26filename%3D018612.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021606_DigitaleCollectie_RM_Oudheden"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2021606/resource_document_rijksmuseum_van_oudheden_AU45?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021606/resource_document_rijksmuseum_van_oudheden_AU45",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/2021606/resource_document_rijksmuseum_van_oudheden_AU45.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Dutch Collections for Europe"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 22.670872,
+      "timestamp": 1752032507847,
+      "timestamp_created": "2024-03-06T11:01:28.214Z",
+      "timestamp_created_epoch": 1709722888214,
+      "timestamp_update": "2024-03-06T11:01:28.214Z",
+      "timestamp_update_epoch": 1709722888214,
+      "title": [
+        "mummiekleed ; weefsel"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-92040_URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Library of Serbia",
+      "object_id": "92040_URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho",
+      "object_url": "https://www.europeana.eu/item/92040/URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian Coptic textile",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned journal cover page (Зограф 29, Belgrade 2002–2003) with only title text and a decorative monogram, not an actual photograph of a textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "A note on two unpublished Coptic textiles from Belgrade",
+      "titles_alt": [],
+      "date_text": {
+        "def": "2017"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Library of Serbia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F03501361_0.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3f8f44b00bf11f482923978dbc8cd79350e75da9b62fe8cbd0b6065f3901c0ae",
+        "bytes": 18076,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\textile\\egyptian-coptic-textile\\images\\eu_92040_URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:46.918992+00:00",
+    "raw": {
+      "completeness": 7,
+      "country": [
+        "Serbia"
+      ],
+      "dataProvider": [
+        "National Library of Serbia"
+      ],
+      "dcCreator": [
+        "/direct/2264072"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "/direct/2264072"
+        ]
+      },
+      "dcDescription": [
+        "A note on two unpublished Coptic textiles from Belgrade"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "A note on two unpublished Coptic textiles from Belgrade"
+        ]
+      },
+      "dcLanguage": [
+        "eng",
+        "en"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "eng",
+          "en"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "A note on two unpublished Coptic textiles from Belgrade"
+        ]
+      },
+      "edmConcept": [
+        "/direct/2264066",
+        "/direct/2264069",
+        "/direct/2264067",
+        "/direct/2264068",
+        "/direct/2264073",
+        "/direct/2264070",
+        "/direct/2264071"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Late Antique Egypt"
+        },
+        {
+          "def": "Coptic textile"
+        },
+        {
+          "def": "Dionysos"
+        },
+        {
+          "def": "Christ"
+        },
+        {
+          "def": "syncretism"
+        },
+        {
+          "def": "Nonnos of Panopolis"
+        },
+        {
+          "def": "Journal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "en": [
+          "Coptic textile",
+          "syncretism",
+          "Late Antique Egypt",
+          "Journal",
+          "Dionysos",
+          "Christ",
+          "Nonnos of Panopolis"
+        ]
+      },
+      "edmDatasetName": [
+        "92040_NL_DOI_Serbia"
+      ],
+      "edmIsShownAt": [
+        "http://doiserbia.nb.rs/Article.aspx?id=0350-13611741019E"
+      ],
+      "edmIsShownBy": [
+        "http://doiserbia.nb.rs/ft.aspx?id=0350-13611741019E"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F03501361_0.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2017"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "2017"
+        ]
+      },
+      "europeanaCollectionName": [
+        "92040_NL_DOI_Serbia"
+      ],
+      "europeanaCompleteness": 7,
+      "guid": "https://www.europeana.eu/item/92040/URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/92040/URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/92040/URN_RS_NAE_1ea6b0f4_6959_435d_b96b_8638e0da89decho.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Serbia"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 75.21728,
+      "timestamp": 1752057951232,
+      "timestamp_created": "2020-10-26T18:21:39.866Z",
+      "timestamp_created_epoch": 1603736499866,
+      "timestamp_update": "2021-06-07T09:45:37.842Z",
+      "timestamp_update_epoch": 1623059137842,
+      "title": [
+        "A note on two unpublished Coptic textiles from Belgrade"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

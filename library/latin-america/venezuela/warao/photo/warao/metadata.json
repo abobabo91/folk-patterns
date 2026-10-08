@@ -1,0 +1,116 @@
+[
+  {
+    "id": "europeana-91609_SMVK_VKM_fotografi_1900940",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91609_SMVK_VKM_fotografi_1900940",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1900940?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Venezuela",
+      "ethnicity": "Warao",
+      "tradition": "Warao",
+      "art_form": "photo",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A wood-engraving after an 1881 photograph showing a raised platform burial with a canoe/bark coffin in the Orinoco Delta forest, documented as Warao (Guarauno) funerary practice — this is a documentary depiction of the people's own customs.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "begravning, träsnitt, plattform, skog, fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1902206/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0fc2a7260d0b39d90ccb892998b2586f0ebbad7ec74944b549fba5037b23c66d",
+        "bytes": 163001,
+        "local_path": "library\\latin-america\\venezuela\\warao\\photo\\warao\\images\\eu_91609_SMVK_VKM_fotografi_1900940.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1902206%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:15:38.138282+00:00",
+    "raw": {
+      "id": "/91609/SMVK_VKM_fotografi_1900940",
+      "guid": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1900940?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "begravning, träsnitt, plattform, skog, fotografi, photograph"
+      ],
+      "dcDescription": [
+        "006889 Warao Waroa Warrau Amerika Delta del Orinoco Venezuela Motiv: Plattformsbegravning hos guarauno. Träsnitt efter foto taget 1881. \nLokal: Orinocodeltat, Sydamerika, Venezuela.\nStam: Guarauno.\nFoto av: ? avfoto. Dato: ?\nErh.: genom Erl. Nordenskiöld. Dato: ?\nNr. Neg.: 2612.\nPubl. J. Crevaux: Voyages dans l' Amérique du Sud. Paris 1883, sid. 613 / förf. av detta avsnitt E. Le Janne/.\n(katalogkort) Warao Waroa Amerika Delta del Orinoco Venezuela Warrau 006889"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1902206%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1902206/image.jpg"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

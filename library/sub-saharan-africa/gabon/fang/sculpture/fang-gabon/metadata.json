@@ -1,0 +1,3354 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31295",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31295",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31295?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a carved wooden canoe model with figures of paddlers, described as from the Gabon/Ogooué region of Africa where the Fang people live; this is a plausible ethnographic object from that area (or a neighboring group along the Ogooué river).",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "modell, Kanotmodell, kanot",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123073%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3883211d053378ac131a6d4c6dadeed3b6a0da278917f4ae19cd74de08de20bc",
+        "bytes": 7527,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31295.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T07:01:11.230991+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Kanotmodell m. 12 roddare. \nLängd: 125 cm.",
+        "0000.00.1420",
+        "Gabun el. Ogove, Afrika",
+        "Gabun el. Ogove",
+        "Gabun eller Ogove, Kongo, Afrika. [[Haga]]",
+        "skiss",
+        "Fang?",
+        "These canoe models usually come from Duala, but in this case there are no obvious Duala features, and the figures seem rather in the style of the Fang figure in lightwood in this collection. The boat is more or less similar to those in use on the Ogowe according to a French film 'Pirogues sur I´Ogowe' by J.-J. Dupont which I saw recently.  W. B. Fagg. 5/9 1957.",
+        "Fans",
+        "Pangwe",
+        "Fang"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Kanotmodell m. 12 roddare. \nLängd: 125 cm."
+        ],
+        "def": [
+          "0000.00.1420",
+          "Gabun el. Ogove, Afrika",
+          "Gabun el. Ogove",
+          "Gabun eller Ogove, Kongo, Afrika. [[Haga]]",
+          "skiss",
+          "Fang?",
+          "These canoe models usually come from Duala, but in this case there are no obvious Duala features, and the figures seem rather in the style of the Fang figure in lightwood in this collection. The boat is more or less similar to those in use on the Ogowe according to a French film 'Pirogues sur I´Ogowe' by J.-J. Dupont which I saw recently.  W. B. Fagg. 5/9 1957.",
+          "Fans",
+          "Pangwe",
+          "Fang"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "modell, Kanotmodell, kanot"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/187",
+        "http://data.europeana.eu/concept/1954"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Liikenne"
+        },
+        {
+          "def": "Malli"
+        },
+        {
+          "def": "Транспорт"
+        },
+        {
+          "def": "Модель"
+        },
+        {
+          "def": "Transporte"
+        },
+        {
+          "def": "Modelo"
+        },
+        {
+          "def": "Транспорт"
+        },
+        {
+          "def": "Модел"
+        },
+        {
+          "def": "Transportas"
+        },
+        {
+          "def": "Modelis"
+        },
+        {
+          "def": "Promet"
+        },
+        {
+          "def": "Maneken"
+        },
+        {
+          "def": "Transports"
+        },
+        {
+          "def": "Modele"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Mannequin"
+        },
+        {
+          "def": "Szállítás"
+        },
+        {
+          "def": "Modell"
+        },
+        {
+          "def": "Doprava"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Promet"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Iompar"
+        },
+        {
+          "def": "Mainicín"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Modell"
+        },
+        {
+          "def": "Μεταφορές"
+        },
+        {
+          "def": "Μοντέλο"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Trasporto"
+        },
+        {
+          "def": "Modello"
+        },
+        {
+          "def": "Transporte"
+        },
+        {
+          "def": "Modelo"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Modell"
+        },
+        {
+          "def": "Doprava"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Garraio"
+        },
+        {
+          "def": "Modelo"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Transport"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Vervoer"
+        },
+        {
+          "def": "Model"
+        },
+        {
+          "def": "Mudell"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Model",
+          "Transport"
+        ],
+        "fi": [
+          "Liikenne",
+          "Malli"
+        ],
+        "ru": [
+          "Транспорт",
+          "Модель"
+        ],
+        "pt": [
+          "Transporte",
+          "Modelo"
+        ],
+        "bg": [
+          "Транспорт",
+          "Модел"
+        ],
+        "lt": [
+          "Transportas",
+          "Modelis"
+        ],
+        "hr": [
+          "Promet",
+          "Maneken"
+        ],
+        "lv": [
+          "Transports",
+          "Modele"
+        ],
+        "fr": [
+          "Mannequin",
+          "Transport"
+        ],
+        "hu": [
+          "Modell",
+          "Szállítás"
+        ],
+        "sk": [
+          "Model",
+          "Doprava"
+        ],
+        "sl": [
+          "Promet",
+          "Model"
+        ],
+        "ga": [
+          "Mainicín",
+          "Iompar"
+        ],
+        "ca": [
+          "Model",
+          "Transport"
+        ],
+        "sv": [
+          "Modell",
+          "Transport"
+        ],
+        "el": [
+          "Μοντέλο",
+          "Μεταφορές"
+        ],
+        "mt": [
+          "Mudell"
+        ],
+        "en": [
+          "Model",
+          "Transport"
+        ],
+        "it": [
+          "Modello",
+          "Trasporto"
+        ],
+        "es": [
+          "Transporte",
+          "Modelo"
+        ],
+        "et": [
+          "Modell",
+          "Transport"
+        ],
+        "cs": [
+          "Model",
+          "Doprava"
+        ],
+        "eu": [
+          "Garraio",
+          "Modelo"
+        ],
+        "pl": [
+          "Model",
+          "Transport"
+        ],
+        "da": [
+          "Model",
+          "Transport"
+        ],
+        "ro": [
+          "Model",
+          "Transport"
+        ],
+        "nl": [
+          "Vervoer",
+          "Model"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31295"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123073/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123073%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31295?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31295",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31295.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 31.92743,
+      "timestamp": 1752047549547,
+      "timestamp_created": "2014-10-01T16:16:32.894Z",
+      "timestamp_created_epoch": 1412180192894,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "modell, Kanotmodell, kanot"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31460",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31460",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31460?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The figure is a smooth, naturalistic, jointed wooden mannequin (pegged shoulders, elbows, hips, ball-jointed limbs, painted glass-like eyes) — this is the style of a European articulated doll/lay figure, not the stylized bulbous-forehead, columnar-torso reliquary carving typical of Fang byeri figures.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "fetisch, skulptur, figur, fetish, figure, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123013%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "708b102fae6a742d0ecd53973f9e4ca6a591f9fec6434f83eb2b9bcef72dc2ec",
+        "bytes": 16119,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31460.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.794430+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch.\nHöjd: 84 cm.",
+        "0000.00.1402",
+        "Gabun eller Ogove, Afrika.",
+        "8209",
+        "Gabun eller Ogove",
+        "Gabun el. Ogove, Kongo [[Haga]]",
+        "skiss",
+        "bild nr 13 690",
+        "Bavili Fang enl. Kjersm.",
+        "Probably Fang (Pangwe). W.B.Fagg. 14.9.57.",
+        "Fans",
+        "Pangwe",
+        "Fang"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch.\nHöjd: 84 cm."
+        ],
+        "def": [
+          "0000.00.1402",
+          "Gabun eller Ogove, Afrika.",
+          "8209",
+          "Gabun eller Ogove",
+          "Gabun el. Ogove, Kongo [[Haga]]",
+          "skiss",
+          "bild nr 13 690",
+          "Bavili Fang enl. Kjersm.",
+          "Probably Fang (Pangwe). W.B.Fagg. 14.9.57.",
+          "Fans",
+          "Pangwe",
+          "Fang"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "fetisch, skulptur, figur, fetish, figure, sculpture"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31460"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123013/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123013%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31460?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31460",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31460.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 40.99629,
+      "timestamp": 1752047519085,
+      "timestamp_created": "2014-10-01T16:16:38.785Z",
+      "timestamp_created_epoch": 1412180198785,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "fetisch, skulptur, figur, fetish, figure, sculpture"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31470",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31470",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31470?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A pale wooden standing figure with raffia waist skirt, carved facial features and articulated limbs, consistent with a Fang byeri-type ancestor figure from the Gabon/Ogooué region; the museum's own field attribution notes Fang (Pangwe).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "skulptur, fetisch, Fetisch., figur, sculpture, fetish, figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123017%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "721794f480d0f1a6641cc41aca671df7878991ba72d57d0ec7ac01ad1dd628fc",
+        "bytes": 18924,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31470.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.803706+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch, större.\nHöjd: 81 cm.",
+        "0000.00.1403",
+        "Gabun eller Ogove, Afrika.",
+        "Gabun eller Ogove",
+        "Fang, (Pangwe) enl. W.B.F. [[Haga]]",
+        "skiss",
+        "Bavili enl. Kjersm."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch, större.\nHöjd: 81 cm."
+        ],
+        "def": [
+          "0000.00.1403",
+          "Gabun eller Ogove, Afrika.",
+          "Gabun eller Ogove",
+          "Fang, (Pangwe) enl. W.B.F. [[Haga]]",
+          "skiss",
+          "Bavili enl. Kjersm."
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "skulptur, fetisch, Fetisch., figur, sculpture, fetish, figure"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31470"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123017/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123017%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31470?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31470",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31470.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.5581,
+      "timestamp": 1752047519871,
+      "timestamp_created": "2014-10-01T16:16:38.853Z",
+      "timestamp_created_epoch": 1412180198853,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "skulptur, fetisch, Fetisch., figur, sculpture, fetish, figure"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31474",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31474",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31474?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A carved wooden standing male figure, consistent with Fang reliquary guardian (byeri) figures from Gabon; the museum's own documentation attributes it to Fang (Pangwe).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Fetisch., skulptur, fetisch, figur, sculpture, fetish, figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123021%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8b4372612c4c5d686852c579dadc62b5d58b4e1f393f95d884ea98fa71269702",
+        "bytes": 22900,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31474.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.829989+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch, manlig.\nHöjd: 70 cm.",
+        "0000.00.1404",
+        "Gabun eller Ogove, Afrika.",
+        "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+        "Gabun",
+        "skiss",
+        "Bavili Fang enl. Kjersm.",
+        "Probably Fang (Pangwe). W.B.Fagg. 14.9.57.",
+        "Fans",
+        "Pangwe",
+        "Fang"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch, manlig.\nHöjd: 70 cm."
+        ],
+        "def": [
+          "0000.00.1404",
+          "Gabun eller Ogove, Afrika.",
+          "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+          "Gabun",
+          "skiss",
+          "Bavili Fang enl. Kjersm.",
+          "Probably Fang (Pangwe). W.B.Fagg. 14.9.57.",
+          "Fans",
+          "Pangwe",
+          "Fang"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Fetisch., skulptur, fetisch, figur, sculpture, fetish, figure"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31474"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123021/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123021%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31474?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31474",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31474.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 44.899025,
+      "timestamp": 1752047520217,
+      "timestamp_created": "2014-10-01T16:16:38.876Z",
+      "timestamp_created_epoch": 1412180198876,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Fetisch., skulptur, fetisch, figur, sculpture, fetish, figure"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31479",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31479",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31479?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A wooden standing figure with reflective eye inlays, a classic Fang-style ancestor/reliquary guardian figure (byeri) form, consistent with Gabon/Ogooué attribution given in the museum's own field notes.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "skulptur, fetisch, Fetisch., figur, fetish, sculpture, figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123025%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "14b551234c6ca483515d1864ec5a878030d7967f5c4938104065d7f2683172c3",
+        "bytes": 20189,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31479.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.855795+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch, manlig, större.\nHöjd: 68 cm.",
+        "0000.00.1405",
+        "Gabun eller Ogove, Afrika.",
+        "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+        "Gabun eller Ogove",
+        "skiss",
+        "Bavili enl. Kjersm."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch, manlig, större.\nHöjd: 68 cm."
+        ],
+        "def": [
+          "0000.00.1405",
+          "Gabun eller Ogove, Afrika.",
+          "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+          "Gabun eller Ogove",
+          "skiss",
+          "Bavili enl. Kjersm."
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "skulptur, fetisch, Fetisch., figur, fetish, sculpture, figure"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31479"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123025/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123025%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31479?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31479",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31479.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.522564,
+      "timestamp": 1752047520653,
+      "timestamp_created": "2014-10-01T16:16:38.892Z",
+      "timestamp_created_epoch": 1412180198892,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "skulptur, fetisch, Fetisch., figur, fetish, sculpture, figure"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31481",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31481",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31481?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A carved wooden standing female figure, plain unpatinated wood with simple features—consistent with a Fang-region reliquary/ancestor figure (\"fetisch\") from Gabon as noted in the museum's own record.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "fetisch, Fetisch., figur, skulptur, fetish, figure, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123029%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0483d956f3ac191f3d11248db02208cf4879cef5aa15a3e16190645613043acc",
+        "bytes": 23693,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31481.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.880154+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch, kvinnlig.\nHöjd: 66 cm.",
+        "0000.00.1406",
+        "Gabun eller Ogove, Afrika.",
+        "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+        "Gabun eller Ogove",
+        "skiss",
+        "Bavili enl. Kjersm."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch, kvinnlig.\nHöjd: 66 cm."
+        ],
+        "def": [
+          "0000.00.1406",
+          "Gabun eller Ogove, Afrika.",
+          "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+          "Gabun eller Ogove",
+          "skiss",
+          "Bavili enl. Kjersm."
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "fetisch, Fetisch., figur, skulptur, fetish, figure, sculpture"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31481"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123029/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123029%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31481?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31481",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31481.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.5581,
+      "timestamp": 1752047520895,
+      "timestamp_created": "2014-10-01T16:16:38.909Z",
+      "timestamp_created_epoch": 1412180198909,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "fetisch, Fetisch., figur, skulptur, fetish, figure, sculpture"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31485",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31485",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31485?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a carved wooden standing figure, plain and unpatinated (\"skiss\"/sketch style), consistent with a Fang (Pangwe) reliquary-type ancestor figure from Gabon/Ogooué as noted in the museum's own attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Fetisch., fetisch, figur, skulptur, sculpture, fetish, figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123033%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c970f4935df2fea36a138726e0946acec556011abeb282439a31339754f1c983",
+        "bytes": 19977,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31485.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.905076+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch, kvinnlig.?\nHöjd: 61 cm.",
+        "0000.00.1407",
+        "Gabun eller Ogove, Afrika.",
+        "Gabun eller Ogove",
+        "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+        "skiss",
+        "Bavili enl. Kjersm."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch, kvinnlig.?\nHöjd: 61 cm."
+        ],
+        "def": [
+          "0000.00.1407",
+          "Gabun eller Ogove, Afrika.",
+          "Gabun eller Ogove",
+          "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+          "skiss",
+          "Bavili enl. Kjersm."
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Fetisch., fetisch, figur, skulptur, sculpture, fetish, figure"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31485"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123033/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123033%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31485?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31485",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31485.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.77836,
+      "timestamp": 1752047521211,
+      "timestamp_created": "2014-10-01T16:16:38.912Z",
+      "timestamp_created_epoch": 1412180198912,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Fetisch., fetisch, figur, skulptur, sculpture, fetish, figure"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_31487",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_31487",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31487?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A carved wooden standing female figure, plain unadorned style attributed to Fang (Pangwe) peoples of Gabon, consistent with a reliquary or ancestor figure type used by this culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "skulptur, figur, Fetisch., fetisch, sculpture, fetish, figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123037%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "81d5df558d5c65a8e1e79f8c3e396b9bb60eea1a571484b103d780dfe63c4d63",
+        "bytes": 18770,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\sculpture\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_31487.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:13.929817+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fetisch, kvinnlig.\nHöjd: 61 cm.",
+        "0000.00.1408",
+        "Gabun eller Ogove, Afrika.",
+        "8209",
+        "Gabun eller Ogove",
+        "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+        "skiss",
+        "Bild nr.13.690",
+        "Bavili enl. Kjersm."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fetisch, kvinnlig.\nHöjd: 61 cm."
+        ],
+        "def": [
+          "0000.00.1408",
+          "Gabun eller Ogove, Afrika.",
+          "8209",
+          "Gabun eller Ogove",
+          "Fang (Pangwe) enl. W.B.F. [[Haga]]",
+          "skiss",
+          "Bild nr.13.690",
+          "Bavili enl. Kjersm."
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "skulptur, figur, Fetisch., fetisch, sculpture, fetish, figure"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/31487"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123037/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123037%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_31487?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_31487",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_31487.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 31.414028,
+      "timestamp": 1752047521424,
+      "timestamp_created": "2014-10-01T16:16:38.938Z",
+      "timestamp_created_epoch": 1412180198938,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "skulptur, figur, Fetisch., fetisch, sculpture, fetish, figure"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

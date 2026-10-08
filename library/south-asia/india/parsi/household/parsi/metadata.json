@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As-3455",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As-3455",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As-3455",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As.3455",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "south-asia",
+      "country": "India",
+      "ethnicity": "Parsi",
+      "tradition": "Parsi",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows an expandable calico concertina lantern with copper fittings and a brass carrying handle, a household lighting object attributed by the museum to Parsi makers; this is a plausible everyday craft item for the community and fits the claimed category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "lantern",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "lantern",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Expanding lantern, made of calico with copper top and base and cast brass carrying handle.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2020_9/14_20/04aa30dc_0804_4980_82b7_ac360158a405/preview_IMG_8625.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c464fe1648e665515721601502905918fc451fa0a1774e301f91c3b32f4629b8",
+        "bytes": 46612,
+        "local_path": "library\\south-asia\\india\\parsi\\household\\parsi\\images\\bm_A_As_3455.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:56:29.660750+00:00",
+    "raw": {
+      "title": "lantern",
+      "description": "Expanding lantern, made of calico with copper top and base and cast brass carrying handle.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_9/14_20/04aa30dc_0804_4980_82b7_ac360158a405/preview_IMG_8625.jpg",
+      "production_ethnic_groups": [
+        "Parsee"
+      ],
+      "production_ethnic_attribution": "Made by: Parsee"
+    }
+  }
+]

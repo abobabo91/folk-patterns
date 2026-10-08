@@ -1,0 +1,3872 @@
+[
+  {
+    "id": "europeana-2022706_https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Galiciana: Digital Library of Galicia",
+      "object_id": "2022706_https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0",
+      "object_url": "https://www.europeana.eu/item/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a blank book cover/page from a Spanish 18th-century royal pragmática (legal decree), with no connection to Khmer culture or material.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo à las Leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ò deudos mas cercanos, y à falta de éllos habiles à los tutores, y curadores, bajo las declaraciones, y penas, que expressa ..",
+      "titles_alt": [],
+      "date_text": "1776",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Galiciana: Digital Library of Galicia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbiblioteca.galiciana.gal%2Fes%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D11148449&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "42e26bd5d1fb649ac77f5cff55e8841f263da78f28584e9e6cc00cdf056b2241",
+        "bytes": 111083,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_2022706_https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.161834+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Galiciana: Digital Library of Galicia"
+      ],
+      "dcCreator": [
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent2",
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent3",
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent4"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent2",
+          "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent3",
+          "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent4"
+        ]
+      },
+      "dcDescription": [
+        "Pragmática dada en: el Pardo à veinte y tres de Marzo de mil setecientos setenta y seis ; Copia da Pragmática e da Cédula certificadas por Antonio Martínez Salazar ; Auto dado en: la Coruña à dos de Mayo proximo passado de este año",
+        "[Cruz grega]",
+        "Sign.: []\\p1\\s, B-D\\p3\\s, []\\p4\\s",
+        "Port. con esc. real xil.",
+        "Texto con reclamos"
+      ],
+      "dcDescriptionLangAware": {
+        "gl": [
+          "Pragmática dada en: el Pardo à veinte y tres de Marzo de mil setecientos setenta y seis ; Copia da Pragmática e da Cédula certificadas por Antonio Martínez Salazar ; Auto dado en: la Coruña à dos de Mayo proximo passado de este año",
+          "[Cruz grega]",
+          "Sign.: []\\p1\\s, B-D\\p3\\s, []\\p4\\s",
+          "Port. con esc. real xil.",
+          "Texto con reclamos"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "es": [
+          "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo à las Leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ò deudos mas cercanos, y à falta de éllos habiles à los tutores, y curadores, bajo las declaraciones, y penas, que expressa .."
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent5",
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:5738#ent6"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Cédula, 1776-03-23"
+        },
+        {
+          "def": "Matrimonio"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "gl": [
+          "Matrimonio"
+        ],
+        "es": [
+          "Cédula, 1776-03-23"
+        ]
+      },
+      "edmDatasetName": [
+        "2022706_Ag_ES_Hispana_gal"
+      ],
+      "edmIsShownAt": [
+        "http://biblioteca.galiciana.gal/es/consulta/registro.do?id=5738"
+      ],
+      "edmIsShownBy": [
+        "http://biblioteca.galiciana.gal/es/catalogo_imagenes/imagen_id.do?idImagen=11148449"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "España - Galicia - A Coruña - Santiago de Compostela"
+        },
+        {
+          "def": "España - . - Galicia - . - A Coruña - . - Santiago de Compostela"
+        },
+        {
+          "def": "España - . - Galicia - . - A Coruña¿ - . - Santiago de Compostela"
+        },
+        {
+          "def": "España - . Galicia - . A Coruña - . Santiago de Compostela"
+        },
+        {
+          "def": "España - Santiago de Compostela"
+        },
+        {
+          "def": "España - Santiago"
+        },
+        {
+          "def": "España - . - Santiago de Compostela"
+        },
+        {
+          "def": "España - Santaigo de Compostela"
+        },
+        {
+          "def": "España - Compostela"
+        },
+        {
+          "def": "Espaa¿ - . - Galicia - . - A Corua¿ - . - Santiago de Compostela"
+        },
+        {
+          "def": "Espaa¿ - Galicia - A Corua¿ - Santiago de Compostela"
+        },
+        {
+          "def": "Espan~a - . , Santiago de Compostela"
+        },
+        {
+          "def": "Santiago de Compostela"
+        },
+        {
+          "def": "España - Galicia - La Coruña - Santiago de Compostela"
+        },
+        {
+          "def": "España - Santiago de Compostela"
+        },
+        {
+          "def": "España - Galicia - Santiago de Compostela"
+        },
+        {
+          "def": "Galicia - Santiago de Compostela"
+        },
+        {
+          "def": "España - A Coruña - Santiago de Compostela"
+        },
+        {
+          "def": "Santiago de Compostela"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "def": [
+          "España - Galicia - A Coruña - Santiago de Compostela",
+          "España - . - Galicia - . - A Coruña - . - Santiago de Compostela",
+          "España - . - Galicia - . - A Coruña¿ - . - Santiago de Compostela",
+          "España - . Galicia - . A Coruña - . Santiago de Compostela",
+          "España - Santiago de Compostela",
+          "España - Santiago",
+          "España - . - Santiago de Compostela",
+          "España - Santaigo de Compostela",
+          "España - Compostela",
+          "Espaa¿ - . - Galicia - . - A Corua¿ - . - Santiago de Compostela",
+          "Espaa¿ - Galicia - A Corua¿ - Santiago de Compostela",
+          "Espan~a - . , Santiago de Compostela",
+          "Santiago de Compostela",
+          "España - Galicia - La Coruña - Santiago de Compostela",
+          "España - Santiago de Compostela",
+          "España - Galicia - Santiago de Compostela",
+          "Galicia - Santiago de Compostela",
+          "España - A Coruña - Santiago de Compostela",
+          "Santiago de Compostela"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "España - Galicia - A Coruña - Santiago de Compostela"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "España - Galicia - A Coruña - Santiago de Compostela"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbiblioteca.galiciana.gal%2Fes%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D11148449&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1776"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1776"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2022706_Ag_ES_Hispana_gal"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_5738_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.457216,
+      "timestamp": 1752001677684,
+      "timestamp_created": "2017-04-07T12:46:14.069Z",
+      "timestamp_created_epoch": 1491569174069,
+      "timestamp_update": "2024-11-05T16:19:00.076Z",
+      "timestamp_update_epoch": 1730823540076,
+      "title": [
+        "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo à las Leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ò deudos mas cercanos, y à falta de éllos habiles à los tutores, y curadores, bajo las declaraciones, y penas, que expressa ..",
+        "Pragmática, 1776-03-27"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1776"
+      ]
+    }
+  },
+  {
+    "id": "europeana-2022706_https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Galiciana: Digital Library of Galicia",
+      "object_id": "2022706_https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0",
+      "object_url": "https://www.europeana.eu/item/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned page of a Spanish-language legal document (a 1776 Pragmática-Sanción printed in Santiago, Spain), with no connection to Khmer culture or material.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Pragmática-sanción a consulta del Consejo : en que S.M. establece lo conveniente para que los hijos de familias con arreglo á las Leyes del Reyno pidan el consejo y consentimiento paterno antes de celebrar esponsales ..",
+      "titles_alt": [],
+      "date_text": "1776",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Galiciana: Digital Library of Galicia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbiblioteca.galiciana.gal%2Fes%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D11180816%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0803be7edbc13a5d0abeaf3bedccbf92ae05394bafc34c9f4212d765480a0b81",
+        "bytes": 38794,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_2022706_https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.355178+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Galiciana: Digital Library of Galicia"
+      ],
+      "dcCreator": [
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:6156#ent2"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:6156#ent2"
+        ]
+      },
+      "dcDescription": [
+        "Sinaturas: A-B1, C5"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Sinaturas: A-B1, C5"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "es": [
+          "Pragmática-sanción a consulta del Consejo : en que S.M. establece lo conveniente para que los hijos de familias con arreglo á las Leyes del Reyno pidan el consejo y consentimiento paterno antes de celebrar esponsales .."
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:galiciana-bibliotecadegalicia.xunta.es:6156#ent3"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Matrimonio"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "gl": [
+          "Matrimonio"
+        ]
+      },
+      "edmDatasetName": [
+        "2022706_Ag_ES_Hispana_gal"
+      ],
+      "edmIsShownAt": [
+        "http://biblioteca.galiciana.gal/es/consulta/registro.do?id=6156"
+      ],
+      "edmIsShownBy": [
+        "http://biblioteca.galiciana.gal/es/catalogo_imagenes/imagen_id.do?idImagen=11180816"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fbiblioteca.galiciana.gal%2Fes%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D11180816%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1776"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1776"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2022706_Ag_ES_Hispana_gal"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/2022706/https___hispana_mcu_es_lod_oai_galiciana_bibliotecadegalicia_xunta_es_6156_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 35.83582,
+      "timestamp": 1752001726907,
+      "timestamp_created": "2024-11-05T16:19:00.076Z",
+      "timestamp_created_epoch": 1730823540076,
+      "timestamp_update": "2024-11-05T16:19:00.076Z",
+      "timestamp_update_epoch": 1730823540076,
+      "title": [
+        "Pragmática-sanción a consulta del Consejo : en que S.M. establece lo conveniente para que los hijos de familias con arreglo á las Leyes del Reyno pidan el consejo y consentimiento paterno antes de celebrar esponsales ..",
+        "[Pragmática Sanción, 1776]"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1776"
+      ]
+    }
+  },
+  {
+    "id": "europeana-546_https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Digital Library of Madrid",
+      "object_id": "546_https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0",
+      "object_url": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a page from a Spanish-language manuscript document about municipal regulations of religious brotherhoods (cofradías) in Spain, held by a Madrid library — it has nothing to do with Khmer culture or Cambodia.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Sobre contener y remediar los abusos que se cometen por los individuos de hermandades y cofradias, en comidas, refrescos, meriendas, y otros gastos profanos [Manuscrito] . Sobre que el Ayuntamiento de Madrid en los informes que se le pidan inserte los votos de sus vocales quedandose con los originales",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1767/1785"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Digital Library of Madrid",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtualmadrid.comunidad.madrid%2Fbvmadrid_publicacion%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D10694369&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8a67b6e15211ad97c0d981f0cf94c02ab4d63a4c64ee43f0d5dd2399937fa947",
+        "bytes": 53293,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_546_https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.407814+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Digital Library of Madrid"
+      ],
+      "dcDescription": [
+        "Títulos tomados de las cabeceras de los textos",
+        "Fechas deducidas del texto",
+        "Hojas escritas por ambas caras"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Títulos tomados de las cabeceras de los textos",
+          "Fechas deducidas del texto",
+          "Hojas escritas por ambas caras"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "es": [
+          "Sobre contener y remediar los abusos que se cometen por los individuos de hermandades y cofradias, en comidas, refrescos, meriendas, y otros gastos profanos [Manuscrito] . Sobre que el Ayuntamiento de Madrid en los informes que se le pidan inserte los votos de sus vocales quedandose con los originales"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:2156#ent2",
+        "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:2156#ent3",
+        "https://hispana.mcu.es/lod/oai:bibliotecavirtualmadrid.comunidad.madrid:2156#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Cofradías-Madrid-Historia-Fuentes"
+        },
+        {
+          "def": "Madrid-Administración-S.XVIII"
+        },
+        {
+          "def": "Cofradías"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Madrid-Administración-S.XVIII",
+          "Cofradías",
+          "Cofradías-Madrid-Historia-Fuentes"
+        ]
+      },
+      "edmDatasetName": [
+        "546_Hispana_BDComunidadMadrid"
+      ],
+      "edmIsShownAt": [
+        "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/es/consulta/registro.do?id=2156"
+      ],
+      "edmIsShownBy": [
+        "https://bibliotecavirtualmadrid.comunidad.madrid/bvmadrid_publicacion/i18n/catalogo_imagenes/imagen_id.do?idImagen=10724830"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Madrid"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Madrid"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtualmadrid.comunidad.madrid%2Fbvmadrid_publicacion%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D10694369&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1767/1785"
+        },
+        {
+          "def": "17XX"
+        },
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1767/1785",
+          "17XX"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "546_Hispana_BDComunidadMadrid"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/546/https___hispana_mcu_es_lod_oai_bibliotecavirtualmadrid_comunidad_madrid_2156_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 30.895872,
+      "timestamp": 1752049767111,
+      "timestamp_created": "2022-09-14T02:01:59.405Z",
+      "timestamp_created_epoch": 1663120919405,
+      "timestamp_update": "2023-06-07T11:25:38.768Z",
+      "timestamp_update_epoch": 1686137138768,
+      "title": [
+        "Sobre contener y remediar los abusos que se cometen por los individuos de hermandades y cofradias, en comidas, refrescos, meriendas, y otros gastos profanos [Manuscrito] . Sobre que el Ayuntamiento de Madrid en los informes que se le pidan inserte los votos de sus vocales quedandose con los originales"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-164_https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Autonomous University of Barcelona",
+      "object_id": "164_https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1",
+      "object_url": "https://www.europeana.eu/item/164/https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a printed Spanish royal legal decree (Pragmática-Sanción) from Madrid, 1776, with a Spanish royal coat of arms — a scanned page of a Spanish legal document with no connection whatsoever to Khmer culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo á las leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ó deudos mas cercanos, y á falta de ellos hábiles à los tutores, y curadores, baxo de las declaraciones y penas que expresa",
+      "titles_alt": [],
+      "date_text": "1776",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Autonomous University of Barcelona",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fddd.uab.cat%2Fpub%2Fpragmatiques%2Fpragmatiques_377.pdf&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "996057b239fa3aef0e5ad960b64ddcfe4ab2f9dd6729d739b50683d5c051c692",
+        "bytes": 452625,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_164_https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.456964+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Autonomous University of Barcelona"
+      ],
+      "dcCreator": [
+        "Espanya",
+        "Carles III,",
+        "Marín, Pedro,",
+        "Espanya. Monarca (1759-1788 : Carles III)"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Espanya",
+          "Carles III,",
+          "Marín, Pedro,",
+          "Espanya. Monarca (1759-1788 : Carles III)"
+        ]
+      },
+      "dcDescription": [
+        "Creu i escut reial xil. a port.",
+        "Pragmàtica, 1776-03-27: \"En la Villa de Madrid, á veinte y seis dias del mes de Marzo de mil setecientos setenta y seis\"",
+        "Reclams",
+        "Sign.: A8",
+        "Pragmàtica-Sanció a consulta del Consell, en la qual S.M estableix allò convingut, per que els fills de famílies tenint en compte les lleis del Regne demanin al consell, i consentiment patern, abans de celebrar esposalles, fent el mateix en defecte de pares a les mares, avis, o persones més properes, i a falta d'ells els tutors, i curaors, sota de les declaracions, i penes que s'expressa.."
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Creu i escut reial xil. a port.",
+          "Pragmàtica, 1776-03-27: \"En la Villa de Madrid, á veinte y seis dias del mes de Marzo de mil setecientos setenta y seis\"",
+          "Reclams",
+          "Sign.: A8",
+          "Pragmàtica-Sanció a consulta del Consell, en la qual S.M estableix allò convingut, per que els fills de famílies tenint en compte les lleis del Regne demanin al consell, i consentiment patern, abans de celebrar esposalles, fent el mateix en defecte de pares a les mares, avis, o persones més properes, i a falta d'ells els tutors, i curaors, sota de les declaracions, i penes que s'expressa.."
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo á las leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ó deudos mas cercanos, y á falta de ellos hábiles à los tutores, y curadores, baxo de las declaraciones y penas que expresa"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/6"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Buch"
+        },
+        {
+          "def": "Kirja"
+        },
+        {
+          "def": "Книга"
+        },
+        {
+          "def": "Livro"
+        },
+        {
+          "def": "Книга"
+        },
+        {
+          "def": "Knyga"
+        },
+        {
+          "def": "Knjiga"
+        },
+        {
+          "def": "Grāmata"
+        },
+        {
+          "def": "Livre"
+        },
+        {
+          "def": "Könyv"
+        },
+        {
+          "def": "Kniha"
+        },
+        {
+          "def": "Knjiga"
+        },
+        {
+          "def": "Leabhar"
+        },
+        {
+          "def": "Llibre"
+        },
+        {
+          "def": "Bok"
+        },
+        {
+          "def": "Βιβλίο"
+        },
+        {
+          "def": "Ktieb"
+        },
+        {
+          "def": "Book"
+        },
+        {
+          "def": "Libro"
+        },
+        {
+          "def": "Libro"
+        },
+        {
+          "def": "Raamat"
+        },
+        {
+          "def": "Kniha"
+        },
+        {
+          "def": "Liburu"
+        },
+        {
+          "def": "Książka"
+        },
+        {
+          "def": "Bog"
+        },
+        {
+          "def": "Carte"
+        },
+        {
+          "def": "Boek"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Buch"
+        ],
+        "fi": [
+          "Kirja"
+        ],
+        "ru": [
+          "Книга"
+        ],
+        "pt": [
+          "Livro"
+        ],
+        "bg": [
+          "Книга"
+        ],
+        "lt": [
+          "Knyga"
+        ],
+        "hr": [
+          "Knjiga"
+        ],
+        "lv": [
+          "Grāmata"
+        ],
+        "fr": [
+          "Livre"
+        ],
+        "hu": [
+          "Könyv"
+        ],
+        "sk": [
+          "Kniha"
+        ],
+        "sl": [
+          "Knjiga"
+        ],
+        "ga": [
+          "Leabhar"
+        ],
+        "ca": [
+          "Llibre"
+        ],
+        "sv": [
+          "Bok"
+        ],
+        "el": [
+          "Βιβλίο"
+        ],
+        "mt": [
+          "Ktieb"
+        ],
+        "en": [
+          "Book"
+        ],
+        "it": [
+          "Libro"
+        ],
+        "es": [
+          "Libro"
+        ],
+        "et": [
+          "Raamat"
+        ],
+        "cs": [
+          "Kniha"
+        ],
+        "eu": [
+          "Liburu"
+        ],
+        "pl": [
+          "Książka"
+        ],
+        "da": [
+          "Bog"
+        ],
+        "ro": [
+          "Carte"
+        ],
+        "nl": [
+          "Boek"
+        ]
+      },
+      "edmDatasetName": [
+        "164_Universitat_Autonoma_de_Barcelona"
+      ],
+      "edmIsShownAt": [
+        "https://ddd.uab.cat/record/61154"
+      ],
+      "edmIsShownBy": [
+        "https://ddd.uab.cat/pub/pragmatiques/pragmatiques_377.pdf"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fddd.uab.cat%2Fpub%2Fpragmatiques%2Fpragmatiques_377.pdf&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1776"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1776"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "164_Universitat_Autonoma_de_Barcelona"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/164/https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/164/https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/164/https___catalonica_bnc_cat_catalonicahub_lod_oai_ddd_uab_cat_61154_ent1.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Catalònica"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 23.686968,
+      "timestamp": 1752062602513,
+      "timestamp_created": "2020-02-03T09:21:29.432Z",
+      "timestamp_created_epoch": 1580721689432,
+      "timestamp_update": "2024-04-18T14:27:16.485Z",
+      "timestamp_update_epoch": 1713450436485,
+      "title": [
+        "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo á las leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ó deudos mas cercanos, y á falta de ellos hábiles à los tutores, y curadores, baxo de las declaraciones y penas que expresa"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1776"
+      ]
+    }
+  },
+  {
+    "id": "europeana-307_https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Sancho el Sabio Foundation",
+      "object_id": "307_https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1",
+      "object_url": "https://www.europeana.eu/item/307/https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned page of a Spanish royal decree (18th-century Basque legal document about iron duties in Vizcaya and Álava), with no connection whatsoever to Khmer culture or Cambodia.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "El Rey, por quanto haviéndome representado el Señorío de Vizcaya y la Provincia de Alaba oponerse a sus fueros la exacción de derechos del fierro que se extrae de sus territorios, ya sea introduciéndole en Castilla o ya sacándole de mis dominios y puéstose también en mi Real comprehensión, que con la Provincia de Guipúzcoa milita razón igual... he resuelto que del fierro que saliere del citado Señorío y provincias, no se cobren en aquellos puertos secos y mojados los derechos de Almirantazgo... y mando a todos los governadores, asistentes, corregidores, jueces, justicias de estos mis Reynos y Señoríos... por concurrir igual razón en la referida Provincia de Alaba, que en el expressado Señorío de Vizcaya y Provincia de Guipúzcoa, no se pidan y cobren en ella derechos algunos del Almirantazgo del fierro que se extrae de su territorio",
+      "titles_alt": [],
+      "date_text": "1738",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Sancho el Sabio Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.euskalmemoriadigitala.eus%2Fapplet%2Flibros%2FJPG%2F043766%2Fthumb_europeana%2F043766.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e1bc85f18a66eb47def89d0bfa175c5f3cc583329499cbfb0d8ea6339a9e61b9",
+        "bytes": 40044,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_307_https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.510097+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Sancho el Sabio Foundation"
+      ],
+      "dcDescription": [
+        "Datos de impresión tomados de \"La imprenta en Álava\", v. I, p. 68"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Datos de impresión tomados de \"La imprenta en Álava\", v. I, p. 68"
+        ]
+      },
+      "dcLanguage": [
+        "es",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "es",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "El Rey, por quanto haviéndome representado el Señorío de Vizcaya y la Provincia de Alaba oponerse a sus fueros la exacción de derechos del fierro que se extrae de sus territorios, ya sea introduciéndole en Castilla o ya sacándole de mis dominios y puéstose también en mi Real comprehensión, que con la Provincia de Guipúzcoa milita razón igual... he resuelto que del fierro que saliere del citado Señorío y provincias, no se cobren en aquellos puertos secos y mojados los derechos de Almirantazgo... y mando a todos los governadores, asistentes, corregidores, jueces, justicias de estos mis Reynos y Señoríos... por concurrir igual razón en la referida Provincia de Alaba, que en el expressado Señorío de Vizcaya y Provincia de Guipúzcoa, no se pidan y cobren en ella derechos algunos del Almirantazgo del fierro que se extrae de su territorio"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:www.memoriadigitalvasca.eus:10357_--_65732#ent5"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Aduanas Euskadi S.XVIII"
+        },
+        {
+          "def": "Hierro Comercio Euskadi S.XVIII"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "def": [
+          "Aduanas Euskadi S.XVIII",
+          "Hierro Comercio Euskadi S.XVIII"
+        ]
+      },
+      "edmDatasetName": [
+        "307_Hispana_MemoriaVasca"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10357/65732"
+      ],
+      "edmIsShownBy": [
+        "http://www.memoriadigitalvasca.es/applet/libros/JPG/043766/043766.pdf"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Euskadi"
+        },
+        {
+          "def": "Euskadi"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "def": [
+          "Euskadi",
+          "Euskadi"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.euskalmemoriadigitala.eus%2Fapplet%2Flibros%2FJPG%2F043766%2Fthumb_europeana%2F043766.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1738"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1738"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "307_Hispana_MemoriaVasca"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/307/https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/307/https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/307/https___hispana_mcu_es_lod_oai_www_memoriadigitalvasca_eus_10357____65732_ent1.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 13.564225,
+      "timestamp": 1752070063621,
+      "timestamp_created": "2024-01-22T10:09:47.655Z",
+      "timestamp_created_epoch": 1705918187655,
+      "timestamp_update": "2024-01-22T10:09:47.655Z",
+      "timestamp_update_epoch": 1705918187655,
+      "title": [
+        "El Rey, por quanto haviéndome representado el Señorío de Vizcaya y la Provincia de Alaba oponerse a sus fueros la exacción de derechos del fierro que se extrae de sus territorios, ya sea introduciéndole en Castilla o ya sacándole de mis dominios y puéstose también en mi Real comprehensión, que con la Provincia de Guipúzcoa milita razón igual... he resuelto que del fierro que saliere del citado Señorío y provincias, no se cobren en aquellos puertos secos y mojados los derechos de Almirantazgo... y mando a todos los governadores, asistentes, corregidores, jueces, justicias de estos mis Reynos y Señoríos... por concurrir igual razón en la referida Provincia de Alaba, que en el expressado Señorío de Vizcaya y Provincia de Guipúzcoa, no se pidan y cobren en ella derechos algunos del Almirantazgo del fierro que se extrae de su territorio"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1738"
+      ]
+    }
+  },
+  {
+    "id": "europeana-773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Digital Memory of Catalonia",
+      "object_id": "773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0",
+      "object_url": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Spanish colonial-era printed legal circular/royal decree from 1819 Madrid, entirely unrelated to Khmer culture, craft, or daily life — it is a scanned page of a Spanish government document.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Con fecha 3 de este mes ha comunicado al Consejo el Excmo. Sr. Secretario de Estado y del Despacho de Gracia y Justicia, por medio del Excmo. Sr. Duque del Infantado, su presidente, la Real órden que dice asi: Excmo. Sr., conformándose el Rey nuestro señor con la propuesta de V.E. para la mayor expedicion de las licencias que solicitan los corregidores y alcaldes mayores para salir de su domicilio, se ha servido resolver que cuando los corregidores y alcaldes mayores soliciten y pidan licencia para ausentarse de sus destinos y dirigirse á otros pueblos dentro del territorio del respectivo Tribunal, pueda el Real Acuerdo del mismo concederlas ó negarlas ...",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1819?"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Digital Memory of Catalonia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2FfullBonsoms%3A173279%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2f5938e8a19b0cc93fc08cdf81161249215688b2ca9d5d44aec772850a6b7072",
+        "bytes": 47311,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.828027+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Digital Memory of Catalonia"
+      ],
+      "dcCreator": [
+        "Espanya. Consejo Real de Castilla"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Espanya. Consejo Real de Castilla"
+        ]
+      },
+      "dcDescription": [
+        "Circular signada per Josef de Ayala; Tít. obtingut de les 1es línies de text; Text datat a Madrid el 18 de desembre de 1819; Últim f. en blanc"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Circular signada per Josef de Ayala; Tít. obtingut de les 1es línies de text; Text datat a Madrid el 18 de desembre de 1819; Últim f. en blanc"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "es"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "es"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Con fecha 3 de este mes ha comunicado al Consejo el Excmo. Sr. Secretario de Estado y del Despacho de Gracia y Justicia, por medio del Excmo. Sr. Duque del Infantado, su presidente, la Real órden que dice asi: Excmo. Sr., conformándose el Rey nuestro señor con la propuesta de V.E. para la mayor expedicion de las licencias que solicitan los corregidores y alcaldes mayores para salir de su domicilio, se ha servido resolver que cuando los corregidores y alcaldes mayores soliciten y pidan licencia para ausentarse de sus destinos y dirigirse á otros pueblos dentro del territorio del respectivo Tribunal, pueda el Real Acuerdo del mismo concederlas ó negarlas ..."
+        ]
+      },
+      "edmDatasetName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "edmIsShownAt": [
+        "http://mdc.csuc.cat/cdm/ref/collection/fullBonsoms/id/173283"
+      ],
+      "edmIsShownBy": [
+        "https://mdc.csuc.cat/iiif/2/fullBonsoms:173279/full/730,/0/default.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2FfullBonsoms%3A173279%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1819?"
+        },
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "zxx": [
+          "1819?"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____173283_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Catalònica"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 17.047943,
+      "timestamp": 1752005685978,
+      "timestamp_created": "2025-02-13T08:30:08.201Z",
+      "timestamp_created_epoch": 1739435408201,
+      "timestamp_update": "2025-02-13T08:30:08.201Z",
+      "timestamp_update_epoch": 1739435408201,
+      "title": [
+        "Con fecha 3 de este mes ha comunicado al Consejo el Excmo. Sr. Secretario de Estado y del Despacho de Gracia y Justicia, por medio del Excmo. Sr. Duque del Infantado, su presidente, la Real órden que dice asi: Excmo. Sr., conformándose el Rey nuestro señor con la propuesta de V.E. para la mayor expedicion de las licencias que solicitan los corregidores y alcaldes mayores para salir de su domicilio, se ha servido resolver que cuando los corregidores y alcaldes mayores soliciten y pidan licencia para ausentarse de sus destinos y dirigirse á otros pueblos dentro del territorio del respectivo Tribunal, pueda el Real Acuerdo del mismo concederlas ó negarlas ..."
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Digital Memory of Catalonia",
+      "object_id": "773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0",
+      "object_url": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a printed Spanish royal decree (Pragmática-Sanción) from Barcelona, 1776, with the Spanish royal coat of arms — a scanned page of a Spanish legal document with no connection to Khmer culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Pragmatica-sancion, a consulta del Consejo, en que S.M. establece lo conveniente para que los hijos de familias con arreglo à las leyes del reyno pidan el consejo y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ò deudos mas cercanos y à falta de ellos habiles à los tutores y curadores, baxo de las declaraciones y penas que expresa",
+      "titles_alt": [],
+      "date_text": "1776",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Digital Memory of Catalonia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2FfullBonsoms%3A88094%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f5e22e3d5573e73138c7498536f869d24b0df5a32b3f31f2234e8e3acc96efe8",
+        "bytes": 43259,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.890895+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Digital Memory of Catalonia"
+      ],
+      "dcCreator": [
+        "Espanya"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Espanya"
+        ]
+      },
+      "dcDescription": [
+        "Pragmàtica-sanció datada al Pardo el 23 de març de 1776; Sign.: A4; Reclams; Escut reial i caplletra ornada"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Pragmàtica-sanció datada al Pardo el 23 de març de 1776; Sign.: A4; Reclams; Escut reial i caplletra ornada"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "es"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "es"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Pragmatica-sancion, a consulta del Consejo, en que S.M. establece lo conveniente para que los hijos de familias con arreglo à las leyes del reyno pidan el consejo y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ò deudos mas cercanos y à falta de ellos habiles à los tutores y curadores, baxo de las declaraciones y penas que expresa"
+        ]
+      },
+      "edmDatasetName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "edmIsShownAt": [
+        "http://mdc.csuc.cat/cdm/ref/collection/fullBonsoms/id/88102"
+      ],
+      "edmIsShownBy": [
+        "https://mdc.csuc.cat/iiif/2/fullBonsoms:88094/full/730,/0/default.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2FfullBonsoms%3A88094%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1776"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1776"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____88102_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Catalònica"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 23.833523,
+      "timestamp": 1752005707837,
+      "timestamp_created": "2025-02-13T08:30:08.201Z",
+      "timestamp_created_epoch": 1739435408201,
+      "timestamp_update": "2025-02-13T08:30:08.201Z",
+      "timestamp_update_epoch": 1739435408201,
+      "title": [
+        "Pragmatica-sancion, a consulta del Consejo, en que S.M. establece lo conveniente para que los hijos de familias con arreglo à las leyes del reyno pidan el consejo y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ò deudos mas cercanos y à falta de ellos habiles à los tutores y curadores, baxo de las declaraciones y penas que expresa"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1776"
+      ]
+    }
+  },
+  {
+    "id": "europeana-773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Digital Memory of Catalonia",
+      "object_id": "773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0",
+      "object_url": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned page of a Spanish royal legal decree (Pragmática-Sanción) from Madrid, 1776, with no connection to Khmer culture or Cambodia whatsoever.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo á las leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ó deudos mas cercanos, y á falta de ellos hábiles à los tutores, y curadores, baxo de las declaraciones y penas que expresa",
+      "titles_alt": [],
+      "date_text": "1776",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Digital Memory of Catalonia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2FfullBonsoms%3A96336%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7b5d4ec1a2d37f253d6095503890563c021df4eb1093ce7f8e50813ae4faba99",
+        "bytes": 40002,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:35.954308+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Digital Memory of Catalonia"
+      ],
+      "dcCreator": [
+        "Espanya"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Espanya"
+        ]
+      },
+      "dcDescription": [
+        "Pragmàtica sanció datada a el Pardo el 23 de març de 1776; Sign.: A8; Reclams; Escut reial"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Pragmàtica sanció datada a el Pardo el 23 de març de 1776; Sign.: A8; Reclams; Escut reial"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "es"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "es"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo á las leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ó deudos mas cercanos, y á falta de ellos hábiles à los tutores, y curadores, baxo de las declaraciones y penas que expresa"
+        ]
+      },
+      "edmDatasetName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "edmIsShownAt": [
+        "http://mdc.csuc.cat/cdm/ref/collection/fullBonsoms/id/96352"
+      ],
+      "edmIsShownBy": [
+        "https://mdc.csuc.cat/iiif/2/fullBonsoms:96336/full/730,/0/default.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2FfullBonsoms%3A96336%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1776"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1776"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_fullBonsoms____96352_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Catalònica"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 25.029593,
+      "timestamp": 1752005707167,
+      "timestamp_created": "2025-02-13T08:30:08.201Z",
+      "timestamp_created_epoch": 1739435408201,
+      "timestamp_update": "2025-02-13T08:30:08.201Z",
+      "timestamp_update_epoch": 1739435408201,
+      "title": [
+        "Pragmatica-sancion a consulta del Consejo, en que S.M. establece lo conveniente, para que los hijos de familias con arreglo á las leyes del Reyno pidan el consejo, y consentimiento paterno, antes de celebrar esponsales, haciendo lo mismo en defecto de padres à las madres, abuelos, ó deudos mas cercanos, y á falta de ellos hábiles à los tutores, y curadores, baxo de las declaraciones y penas que expresa"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1776"
+      ]
+    }
+  },
+  {
+    "id": "europeana-773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Digital Memory of Catalonia",
+      "object_id": "773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0",
+      "object_url": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned page of an 18th-century Spanish legal pamphlet (a \"pragmática sanción\" on marriage consent) printed in Barcelona in 1776, with no connection to Khmer culture whatsoever.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Pragmatica-sancion, a consulta del Consejo, en que S.M. establece lo conveniente para que los hijos de familias ... pidan el consejo y consentimiento paterno antes de celebrar esponsales ...",
+      "titles_alt": [],
+      "date_text": "1776",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Digital Memory of Catalonia",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2Fimpresosahg%3A3040%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7166a546ff35bbecbf7f87621487ecbb85cb1028146ca0dc9c37c22d69f33fcc",
+        "bytes": 49034,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\eu_773_https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:36.017367+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Digital Memory of Catalonia"
+      ],
+      "dcDescription": [
+        "Sign.: A4. -- Reclams. -- Sense enq. -- Notes manuscrites als marges",
+        "Pragmàtica sanció sobre els permisos per a contraure matrimoni"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Sign.: A4. -- Reclams. -- Sense enq. -- Notes manuscrites als marges",
+          "Pragmàtica sanció sobre els permisos per a contraure matrimoni"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "es"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "es"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Pragmatica-sancion, a consulta del Consejo, en que S.M. establece lo conveniente para que los hijos de familias ... pidan el consejo y consentimiento paterno antes de celebrar esponsales ..."
+        ]
+      },
+      "edmDatasetName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "edmIsShownAt": [
+        "http://mdc.csuc.cat/cdm/ref/collection/impresosahg/id/3048"
+      ],
+      "edmIsShownBy": [
+        "https://mdc.csuc.cat/iiif/2/impresosahg:3040/full/730,/0/default.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmdc.csuc.cat%2Fiiif%2F2%2Fimpresosahg%3A3040%2Ffull%2F730%2C%2F0%2Fdefault.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "18. Jahrhundert"
+        },
+        {
+          "def": "1700-luku"
+        },
+        {
+          "def": "XVIII век"
+        },
+        {
+          "def": "Século XVIII"
+        },
+        {
+          "def": "18 век"
+        },
+        {
+          "def": "XVIII amžius"
+        },
+        {
+          "def": "18. stoljeće"
+        },
+        {
+          "def": "18. gadsimts"
+        },
+        {
+          "def": "XVIIIe siècle"
+        },
+        {
+          "def": "18. század"
+        },
+        {
+          "def": "18. storočie"
+        },
+        {
+          "def": "18. stoletje"
+        },
+        {
+          "def": "18ú haois"
+        },
+        {
+          "def": "Segle XVIII"
+        },
+        {
+          "def": "1700-talet"
+        },
+        {
+          "def": "18ος αιώνας"
+        },
+        {
+          "def": "18th century"
+        },
+        {
+          "def": "XVIII secolo"
+        },
+        {
+          "def": "Siglo XVIII"
+        },
+        {
+          "def": "18. sajand"
+        },
+        {
+          "def": "18. století"
+        },
+        {
+          "def": "XVIII. mendea"
+        },
+        {
+          "def": "XVIII wiek"
+        },
+        {
+          "def": "18. århundrede"
+        },
+        {
+          "def": "Secolul al XVIII-lea"
+        },
+        {
+          "def": "18e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7015"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012474"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85041401"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049671"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b33"
+        },
+        {
+          "def": "https://g.co/kg/m/08b33"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.875"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404512"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814699n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/18th_century"
+        },
+        {
+          "def": "1776"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "18. Jahrhundert"
+        ],
+        "fi": [
+          "1700-luku"
+        ],
+        "ru": [
+          "XVIII век"
+        ],
+        "pt": [
+          "Século XVIII"
+        ],
+        "bg": [
+          "18 век"
+        ],
+        "lt": [
+          "XVIII amžius"
+        ],
+        "hr": [
+          "18. stoljeće"
+        ],
+        "lv": [
+          "18. gadsimts"
+        ],
+        "fr": [
+          "XVIIIe siècle"
+        ],
+        "hu": [
+          "18. század"
+        ],
+        "sk": [
+          "18. storočie"
+        ],
+        "sl": [
+          "18. stoletje"
+        ],
+        "ga": [
+          "18ú haois"
+        ],
+        "ca": [
+          "Segle XVIII"
+        ],
+        "sv": [
+          "1700-talet"
+        ],
+        "el": [
+          "18ος αιώνας"
+        ],
+        "en": [
+          "18th century"
+        ],
+        "it": [
+          "XVIII secolo"
+        ],
+        "es": [
+          "Siglo XVIII"
+        ],
+        "et": [
+          "18. sajand"
+        ],
+        "cs": [
+          "18. století"
+        ],
+        "eu": [
+          "XVIII. mendea"
+        ],
+        "zxx": [
+          "1776"
+        ],
+        "pl": [
+          "XVIII wiek"
+        ],
+        "da": [
+          "18. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVIII-lea"
+        ],
+        "nl": [
+          "18e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "773_Catalonica_MemoriaDigitalCatalunya"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0",
+      "index": 0,
+      "language": [
+        "ca"
+      ],
+      "link": "https://api.europeana.eu/record/773/https___catalonica_bnc_cat_catalonicahub_lod_oai_mdc_csuc_cat_impresosahg____3048_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Catalònica"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 43.54659,
+      "timestamp": 1752005765077,
+      "timestamp_created": "2022-06-09T07:31:18.568Z",
+      "timestamp_created_epoch": 1654759878568,
+      "timestamp_update": "2025-02-13T08:30:08.201Z",
+      "timestamp_update_epoch": 1739435408201,
+      "title": [
+        "Pragmatica-sancion, a consulta del Consejo, en que S.M. establece lo conveniente para que los hijos de familias ... pidan el consejo y consentimiento paterno antes de celebrar esponsales ..."
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1776"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-A_1979-1113-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1979-1113-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1979-1113-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1979.1113.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Brown-glazed stoneware globular ewer with strap handle and animal-head decoration, a classic Khmer \"honey-pot\" type stoneware vessel from the Angkorian-era kilns, matching Khmer material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological",
+      "art_form_vision": "ceramic"
+    },
+    "physical": {
+      "title": "ewer",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "ewer",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Ewer in globular form with small mouth and short neck, tiny spout on shoulder opposite a strap handle decorated with a small head. Khmer &#039;honey-pot&#039; type.  Made of brown glazed stoneware.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/9a61a7d6_4cf7_4897_bb18_a3bb005cc1c7/preview_00304654_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9c2abe70bc278124a7aa58305e2d4133fd272528f2103e5a2ff49cf5fc906a7e",
+        "bytes": 86185,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\bm_A_1979-1113-1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:27:07.830618+00:00",
+    "raw": {
+      "title": "ewer",
+      "description": "Ewer in globular form with small mouth and short neck, tiny spout on shoulder opposite a strap handle decorated with a small head. Khmer &#039;honey-pot&#039; type.  Made of brown glazed stoneware.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/9a61a7d6_4cf7_4897_bb18_a3bb005cc1c7/preview_00304654_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-Y_EA46666",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "Y_EA46666",
+      "object_url": "https://www.britishmuseum.org/collection/object/Y_EA46666",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "Y,EA46666",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Cambodia",
+      "ethnicity": "Khmer",
+      "tradition": "Khmer",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an ancient Egyptian wooden coffin fragment with hieroglyphic text, not a Khmer (Cambodian) object at all.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological",
+      "art_form_vision": "sculpture",
+      "reattribution": {
+        "to": "middle-east-north-africa__egypt__egyptian",
+        "people": "Egyptian",
+        "belongs": true,
+        "art_form": "sculpture",
+        "image": "good",
+        "era": "archaeological",
+        "reason": "The image shows a wooden coffin board fragment with painted hieroglyphic text, an ancient Egyptian funerary object made and used by Egyptians. This fits the claimed ethnicity as genuine archaeological material culture."
+      }
+    },
+    "physical": {
+      "title": "coffin",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "coffin",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Narrow board of wood from the end of a wooden coffin; paint on plaster(worn); ends mitred for joins and dowel-hol;es present. The exterior bears a line of hieroglyphic text in green on a yellow ground. Interior surface covered by cream plaster. Left end damaged.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2020_3/27_9/42f47860_97cc_4a1f_b4c6_ab8b0099c49c/preview_EA46666__1_.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "759015cd6b1fb50b1c3cdbcc588757b6837db224d87256e5d0e6a6636b5c0c45",
+        "bytes": 97674,
+        "local_path": "library\\southeast-asia\\cambodia\\khmer\\unclassified\\khmer\\images\\bm_Y_EA46666.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:28:16.295721+00:00",
+    "raw": {
+      "title": "coffin",
+      "description": "Narrow board of wood from the end of a wooden coffin; paint on plaster(worn); ends mitred for joins and dowel-hol;es present. The exterior bears a line of hieroglyphic text in green on a yellow ground. Interior surface covered by cream plaster. Left end damaged.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_3/27_9/42f47860_97cc_4a1f_b4c6_ab8b0099c49c/preview_EA46666__1_.jpg"
+    }
+  }
+]

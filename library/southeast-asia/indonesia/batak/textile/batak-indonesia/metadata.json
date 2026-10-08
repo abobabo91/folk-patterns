@@ -1,0 +1,5926 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_86587",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_86587",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_86587?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a handwoven Ulos Sadum shoulder cloth with weft-ikat/supplementary weft geometric patterning and woven Indonesian text, matching the museum's own attribution to Toba-Batak textile tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "axelkläde, väv, fabric",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1246672%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d6c2e75ec6b83176d2a53084fe92a9f9a9dfb7bacff670bcb24fb6772b28ccbb",
+        "bytes": 47227,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_86587.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:29.022818+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "\"Ulos Sadum\" inslagsmönstrad vävnad, (axelkläde) av bomull i varprips, vid fransen pärldekor i svart och vitt. Vävnaden har texten \"Selamat pakai ulos sekeluarga\" invävt.   \nFärger: vinröd, svart, vit, grön, orange, gul, blå, rosa och \ngrå.\nStorlek: 192x67 cm",
+        "Gunilla Amnehäll",
+        "1981.32.0006",
+        "Sumata",
+        "Övrigt: Lit. Birgitte Khan Majlis, Indonesische Textilien, ethnologica NF-Band 10, p 186.",
+        "Toba-Batak",
+        "Indonesia"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "\"Ulos Sadum\" inslagsmönstrad vävnad, (axelkläde) av bomull i varprips, vid fransen pärldekor i svart och vitt. Vävnaden har texten \"Selamat pakai ulos sekeluarga\" invävt.   \nFärger: vinröd, svart, vit, grön, orange, gul, blå, rosa och \ngrå.\nStorlek: 192x67 cm",
+          "Gunilla Amnehäll"
+        ],
+        "def": [
+          "1981.32.0006",
+          "Sumata",
+          "Övrigt: Lit. Birgitte Khan Majlis, Indonesische Textilien, ethnologica NF-Band 10, p 186.",
+          "Toba-Batak",
+          "Indonesia"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "axelkläde, väv, fabric"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/86587"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1246672/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1246672%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_86587?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_86587",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_86587.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 16.601553,
+      "timestamp": 1752047715744,
+      "timestamp_created": "2014-10-01T16:46:44.411Z",
+      "timestamp_created_epoch": 1412182004411,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "axelkläde, väv, fabric"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_71871",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_71871",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71871?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a skein of black raw thread/yarn used to make \"Ragi hotang\" (a traditional Batak textile pattern from Sumatra), prepared with rice-starch sizing — this is a raw material used in Batak textile production, plausible for the region and culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "garn",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247242%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b175c61ccfa6cd9c4fa1a46f69b8f2a36ba09631a6b1ba897bfff0087b0c0856",
+        "bytes": 12934,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71871.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:30.130652+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Svart garn för tillverkning av \"Ragi hotang\". Garnet har spänts upp i en ram och förstärkts. Appreturen består av risgröt. Längd: 23 cm.",
+        "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum",
+        "1977.09.0046",
+        "G. Sonnhagen",
+        "Sumatra",
+        "Sumatra. [[Haga]]",
+        "Sumatra, Indonesien",
+        "skiss",
+        "Bataker",
+        "Indonesia",
+        "Bataker",
+        "Karo Batak"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Svart garn för tillverkning av \"Ragi hotang\". Garnet har spänts upp i en ram och förstärkts. Appreturen består av risgröt. Längd: 23 cm.",
+          "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum"
+        ],
+        "def": [
+          "1977.09.0046",
+          "G. Sonnhagen",
+          "Sumatra",
+          "Sumatra. [[Haga]]",
+          "Sumatra, Indonesien",
+          "skiss",
+          "Bataker",
+          "Indonesia",
+          "Bataker",
+          "Karo Batak"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "garn"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2156"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Garn"
+        },
+        {
+          "def": "Lanka"
+        },
+        {
+          "def": "Пряжа"
+        },
+        {
+          "def": "Tråd"
+        },
+        {
+          "def": "Fio têxtil"
+        },
+        {
+          "def": "Прежда"
+        },
+        {
+          "def": "Νήμα"
+        },
+        {
+          "def": "Yarn"
+        },
+        {
+          "def": "Dzija"
+        },
+        {
+          "def": "Filato"
+        },
+        {
+          "def": "Fil textile"
+        },
+        {
+          "def": "Fonal"
+        },
+        {
+          "def": "Hilo"
+        },
+        {
+          "def": "Lõng"
+        },
+        {
+          "def": "Příze"
+        },
+        {
+          "def": "Hari"
+        },
+        {
+          "def": "Priadza"
+        },
+        {
+          "def": "Preja"
+        },
+        {
+          "def": "Snáth"
+        },
+        {
+          "def": "Przędza"
+        },
+        {
+          "def": "Ață"
+        },
+        {
+          "def": "Strikkegarn"
+        },
+        {
+          "def": "Fil tèxtil"
+        },
+        {
+          "def": "Garen"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Garn"
+        ],
+        "fi": [
+          "Lanka"
+        ],
+        "ru": [
+          "Пряжа"
+        ],
+        "sv": [
+          "Tråd"
+        ],
+        "pt": [
+          "Fio têxtil"
+        ],
+        "bg": [
+          "Прежда"
+        ],
+        "el": [
+          "Νήμα"
+        ],
+        "en": [
+          "Yarn"
+        ],
+        "lv": [
+          "Dzija"
+        ],
+        "it": [
+          "Filato"
+        ],
+        "fr": [
+          "Fil textile"
+        ],
+        "hu": [
+          "Fonal"
+        ],
+        "es": [
+          "Hilo"
+        ],
+        "et": [
+          "Lõng"
+        ],
+        "cs": [
+          "Příze"
+        ],
+        "eu": [
+          "Hari"
+        ],
+        "sk": [
+          "Priadza"
+        ],
+        "sl": [
+          "Preja"
+        ],
+        "ga": [
+          "Snáth"
+        ],
+        "pl": [
+          "Przędza"
+        ],
+        "ro": [
+          "Ață"
+        ],
+        "da": [
+          "Strikkegarn"
+        ],
+        "ca": [
+          "Fil tèxtil"
+        ],
+        "nl": [
+          "Garen"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/71871"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247242/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247242%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71871?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_71871",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_71871.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.3733,
+      "timestamp": 1752047660655,
+      "timestamp_created": "2014-10-01T16:38:47.601Z",
+      "timestamp_created_epoch": 1412181527601,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "garn"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_71865",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_71865",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71865?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a wound skein of black yarn with white speckled resist-dyed sections (ikat thread bundle), a raw material for weaving \"ragi hotang\" cloth as noted in the museum description — this is a traditional Sumatran (Batak) textile-making item, plainly shown against a neutral background.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "garnhärva",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247230%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7537660bd4989d85ef25f401eeeb96b94c92c446a5d88e37cfc59ad5fa734e93",
+        "bytes": 10309,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71865.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:30.156080+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Garnhärva för tillverkning av \"Ragi hotang\". (Varpikatteknik). Härvan med det skyddande höljet avlägsnat.\nOmkrets: 252 cm.\n1977.09.0043-45 en serie (Se även 1977.09.0052)",
+        "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum",
+        "1977.09.0043",
+        "G. Sonnhagen",
+        "Sumatra",
+        "Sumatra. [[Haga]]",
+        "Sumatra, Indonesien",
+        "skiss",
+        "Bataker",
+        "Indonesia",
+        "Bataker",
+        "Karo Batak"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Garnhärva för tillverkning av \"Ragi hotang\". (Varpikatteknik). Härvan med det skyddande höljet avlägsnat.\nOmkrets: 252 cm.\n1977.09.0043-45 en serie (Se även 1977.09.0052)",
+          "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum"
+        ],
+        "def": [
+          "1977.09.0043",
+          "G. Sonnhagen",
+          "Sumatra",
+          "Sumatra. [[Haga]]",
+          "Sumatra, Indonesien",
+          "skiss",
+          "Bataker",
+          "Indonesia",
+          "Bataker",
+          "Karo Batak"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "garnhärva"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/71865"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247230/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247230%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71865?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_71865",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_71865.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 31.655972,
+      "timestamp": 1752047660193,
+      "timestamp_created": "2014-10-01T16:38:47.370Z",
+      "timestamp_created_epoch": 1412181527370,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "garnhärva"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_71868",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_71868",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71868?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a bundled, tied and dyed skein of yarn (garnhärva) used in ikat preparation for weaving \"ragi hotang\" cloth, a technique associated with Batak textile traditions of Sumatra. This is a raw material stage of a traditional textile process from the correct region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "garnhärva",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247234%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1fb4dbc43bf820daaef715cb265d17ddc695ee40d0f916b60ad6ec9b179c804d",
+        "bytes": 9655,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71868.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:30.180918+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Garnhärva för tillverkning av \"Ragi hotang\". (Varpikatteknik). Garnhärvan omknuten med skyddande hölje och färgad.\nOmkrets: 215 cm.\n1977.09.0043-45 en serie (Se även 1977.09.0052)",
+        "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum",
+        "1977.09.0044",
+        "G. Sonnhagen",
+        "Sumatra",
+        "Sumatra, Indonesien",
+        "Sumatra. [[Haga]]",
+        "skiss",
+        "Bataker",
+        "Indonesia",
+        "Bataker",
+        "Karo Batak"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Garnhärva för tillverkning av \"Ragi hotang\". (Varpikatteknik). Garnhärvan omknuten med skyddande hölje och färgad.\nOmkrets: 215 cm.\n1977.09.0043-45 en serie (Se även 1977.09.0052)",
+          "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum"
+        ],
+        "def": [
+          "1977.09.0044",
+          "G. Sonnhagen",
+          "Sumatra",
+          "Sumatra, Indonesien",
+          "Sumatra. [[Haga]]",
+          "skiss",
+          "Bataker",
+          "Indonesia",
+          "Bataker",
+          "Karo Batak"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "garnhärva"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/71868"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247234/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247234%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71868?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_71868",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_71868.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 31.4123,
+      "timestamp": 1752047660308,
+      "timestamp_created": "2014-10-01T16:38:47.372Z",
+      "timestamp_created_epoch": 1412181527372,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "garnhärva"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_71869",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_71869",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71869?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a hank/skein of yarn prepared for the \"ragi hotang\" ikat-dyeing technique, a traditional Batak textile process from Sumatra; the raw material for a Batak textile technique fits the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "garnhärva",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247238%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4b5a453357b4c3955fb379b3bd46a89017d42a175adba223d89ace6df1a8fc61",
+        "bytes": 9380,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_91608_SMVK_VKM_objekt_71869.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:30.203409+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Garnhärva för tillverkning av \"Ragi hotang\". (varpikatteknik). Garnhärvan före omknytning och färgning. Längd: 20 cm.\n\n1977.09.0043-45 en serie (Se även 1977.09.0052)",
+        "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum",
+        "1977.09.0045",
+        "G. Sonnhagen",
+        "Sumatra",
+        "Sumatra, Indonesien",
+        "skiss",
+        "Bataker",
+        "Indonesia",
+        "Bataker",
+        "Karo Batak"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Garnhärva för tillverkning av \"Ragi hotang\". (varpikatteknik). Garnhärvan före omknytning och färgning. Längd: 20 cm.\n\n1977.09.0043-45 en serie (Se även 1977.09.0052)",
+          "Årsberättelse 1977, Årstryck 1977, Göteborgs Etnografiska Museum"
+        ],
+        "def": [
+          "1977.09.0045",
+          "G. Sonnhagen",
+          "Sumatra",
+          "Sumatra, Indonesien",
+          "skiss",
+          "Bataker",
+          "Indonesia",
+          "Bataker",
+          "Karo Batak"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "garnhärva"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/71869"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1247238/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1247238%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_71869?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_71869",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_71869.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.508495,
+      "timestamp": 1752047660355,
+      "timestamp_created": "2014-10-01T16:38:47.375Z",
+      "timestamp_created_epoch": 1412181527375,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "garnhärva"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_52353",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_52353",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_52353?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a handwoven cotton shoulder cloth (sadum) with typical Batak striped and geometric border patterning, consistent with the described Batak weaving traditions (Mandailing/Angkola/Toba).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Cotton shoulder cloth",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1921"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-137-139.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "658d16bf7babe266c772a4dd179306de00695b8aafbe9e6a4ade6a2ed9fe4460",
+        "bytes": 27801,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_2048221_europeana_fashion_52353.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:30.234785+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "The 'sadum' originated in the southern Batak region. In his dictionary, published in 1861, Van der Tuuk writes about a Mandailing version.  The 'sadum' is however also a very important and frequently made cloth in the Angkola-Batak culture area north of Mandailing.  The southern Toba Batak weavers made their own versions, based on the examples of these cloths. These were very popular in the Silindung valley in the early twentieth century. In the course of the twentieth century, the popularity of these cloths increased so that they also found a place in Toba Batak ritual ceremonies. The use of the cloths also spread further and further in a northern direction. By the beginning of the twenty-first century, versions of the cloth are popular as far north as the Toba, Karo and Simalungun areas.‖ In all cases, the older Toba Batak versions are not easily distinguished. Over the years, the more modern Toba Batak versions become more recognizable as such, but what is certain is that the Toba Batak have adopted the motifs, the stripes in the chain direction in the side strips and the colors of the cloth and applied them in their own weaving.  \\In the middle strip of this cloth, the words 'selamat pakai' (good luck wish for the wearer) are woven into suppletive weft thread.  \\The beaded pattern border in the fringe ends of the cloth characterize this cloth as originating from Angkola. The red tassels attached to them are also typical.\\The cloth is used as a shoulder cloth.\\Angkola-Batak 'sadum' fabrics of this kind contain some special weaving techniques. One of these is a kind of kelim technique or weft wrapping. This is usually applied to a row of large diamond motifs running from selvedge to selvedge of the cloth. The weaver adds the weft by hand into the warp while the cloth is still hanging in the loom. A thicker 'woolly' thread was used for this purpose (see Jasper and Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).According to Jasper and Pirngadie (1912:226), beads in the weft are a typical Angkola method of decoration. The beads are strung on the weft and when the weft is added, the weaver places the beads in place between the warp threads.",
+        "De 'sadum' stamt uit het zuidelijk Batakgebied. In zijn woordenboek, gepubliceerd in 1861, schrijft Van der Tuuk over een Mandailingversie.  De 'sadum' is echter ook een zeer belangrijke en veelvuldig gemaakte doek in het Angkola-Batak cultuurgebied ten noorden van Mandailing.  De zuidelijke Toba Batak wevers maakten eigen versies, naar de voorbeelden van deze doeken. Deze waren zeer geliefd in het Silindungdal in het begin van de twintigste eeuw. In de loop van de twintigste eeuw is de populariteit van deze doeken toegenomen  waardoor zij ook een plaats hebben gekregen in Toba Batak rituele ceremoniën. Het gebruik van de doeken verspreidden ook steeds verder in een noordelijke richting. Bij het begin van de éénentwintigste eeuw zijn versies van de doek tot aan de noordelijke gebieden van Toba, Karo en Simalungun geliefd.\n\nAngkolaversies zijn niet altijd makkelijk van de oudere Toba Batak versies te onderscheiden. Door de jaren heen worden de modernere Toba Batak versies steeds meer herkenbaar als zodanig, maar zeker is dat de Toba Batak de motieven, de strepen in de kettingrichting in de zijbanen en de kleuren van de doek hebben overgenomen en toegepast in hun eigen weefkunst.  \n\nIn de middenbaan van deze doek zijn de woorden 'selamat pakai' (gelukswens voor de drager) in suppletoire inslagdraad ingeweven.  \n\nDe kralen patroonrand in de franje einden van de doek kenmerken deze doek als afkomstig uit Angkola. De rode kwasten die daar aanvast zijn gemaakt zijn ook typerend.\n\nDe doek wordt als schouderdoek gebruikt.\n\nVervaardiging\nAngkola-Batak 'sadum' weefsels van deze soort bevatten enkele bijzondere weeftechnieken. Eén daarvan is een soort kelimtechniek of inslag wikkeltechniek (weft wrapping). Het is gebruikelijk dat dit toegepast wordt op een rij van grote ruitmotieven die van zelfkant tot zelfkant van de doek loopt. De weefster voegt de inslag met de hand in de ketting toe terwijl de doek nog in het weefgetouw hangt. Hiervoor is een dikkere 'wollige' draad gebruikt (zie Jasper en Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).\n\nKralen in de inslag zijn volgens Jasper en Pirngadie (1912:226) een typische Angkola versieringswijze. De kralen worden op de inslag geregen en als de inslag wordt toegevoegd, plaatst de weefster de kralen tussen de scheringdraden op hun plaats."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The 'sadum' originated in the southern Batak region. In his dictionary, published in 1861, Van der Tuuk writes about a Mandailing version.  The 'sadum' is however also a very important and frequently made cloth in the Angkola-Batak culture area north of Mandailing.  The southern Toba Batak weavers made their own versions, based on the examples of these cloths. These were very popular in the Silindung valley in the early twentieth century. In the course of the twentieth century, the popularity of these cloths increased so that they also found a place in Toba Batak ritual ceremonies. The use of the cloths also spread further and further in a northern direction. By the beginning of the twenty-first century, versions of the cloth are popular as far north as the Toba, Karo and Simalungun areas.‖ In all cases, the older Toba Batak versions are not easily distinguished. Over the years, the more modern Toba Batak versions become more recognizable as such, but what is certain is that the Toba Batak have adopted the motifs, the stripes in the chain direction in the side strips and the colors of the cloth and applied them in their own weaving.  \\In the middle strip of this cloth, the words 'selamat pakai' (good luck wish for the wearer) are woven into suppletive weft thread.  \\The beaded pattern border in the fringe ends of the cloth characterize this cloth as originating from Angkola. The red tassels attached to them are also typical.\\The cloth is used as a shoulder cloth.\\Angkola-Batak 'sadum' fabrics of this kind contain some special weaving techniques. One of these is a kind of kelim technique or weft wrapping. This is usually applied to a row of large diamond motifs running from selvedge to selvedge of the cloth. The weaver adds the weft by hand into the warp while the cloth is still hanging in the loom. A thicker 'woolly' thread was used for this purpose (see Jasper and Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).According to Jasper and Pirngadie (1912:226), beads in the weft are a typical Angkola method of decoration. The beads are strung on the weft and when the weft is added, the weaver places the beads in place between the warp threads."
+        ],
+        "nl": [
+          "De 'sadum' stamt uit het zuidelijk Batakgebied. In zijn woordenboek, gepubliceerd in 1861, schrijft Van der Tuuk over een Mandailingversie.  De 'sadum' is echter ook een zeer belangrijke en veelvuldig gemaakte doek in het Angkola-Batak cultuurgebied ten noorden van Mandailing.  De zuidelijke Toba Batak wevers maakten eigen versies, naar de voorbeelden van deze doeken. Deze waren zeer geliefd in het Silindungdal in het begin van de twintigste eeuw. In de loop van de twintigste eeuw is de populariteit van deze doeken toegenomen  waardoor zij ook een plaats hebben gekregen in Toba Batak rituele ceremoniën. Het gebruik van de doeken verspreidden ook steeds verder in een noordelijke richting. Bij het begin van de éénentwintigste eeuw zijn versies van de doek tot aan de noordelijke gebieden van Toba, Karo en Simalungun geliefd.\n\nAngkolaversies zijn niet altijd makkelijk van de oudere Toba Batak versies te onderscheiden. Door de jaren heen worden de modernere Toba Batak versies steeds meer herkenbaar als zodanig, maar zeker is dat de Toba Batak de motieven, de strepen in de kettingrichting in de zijbanen en de kleuren van de doek hebben overgenomen en toegepast in hun eigen weefkunst.  \n\nIn de middenbaan van deze doek zijn de woorden 'selamat pakai' (gelukswens voor de drager) in suppletoire inslagdraad ingeweven.  \n\nDe kralen patroonrand in de franje einden van de doek kenmerken deze doek als afkomstig uit Angkola. De rode kwasten die daar aanvast zijn gemaakt zijn ook typerend.\n\nDe doek wordt als schouderdoek gebruikt.\n\nVervaardiging\nAngkola-Batak 'sadum' weefsels van deze soort bevatten enkele bijzondere weeftechnieken. Eén daarvan is een soort kelimtechniek of inslag wikkeltechniek (weft wrapping). Het is gebruikelijk dat dit toegepast wordt op een rij van grote ruitmotieven die van zelfkant tot zelfkant van de doek loopt. De weefster voegt de inslag met de hand in de ketting toe terwijl de doek nog in het weefgetouw hangt. Hiervoor is een dikkere 'wollige' draad gebruikt (zie Jasper en Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).\n\nKralen in de inslag zijn volgens Jasper en Pirngadie (1912:226) een typische Angkola versieringswijze. De kralen worden op de inslag geregen en als de inslag wordt toegevoegd, plaatst de weefster de kralen tussen de scheringdraden op hun plaats."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Cotton shoulder cloth"
+        ],
+        "nl": [
+          "Katoenen schouderdoek"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10370",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10040",
+        "http://data.europeana.eu/concept/2235",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textile Techniken"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "textila tekniker"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "técnicas têxteis"
+        },
+        {
+          "def": "capa"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "Τεχνικές κλωστοϋφαντουργίας"
+        },
+        {
+          "def": "κάπα"
+        },
+        {
+          "def": "Κάπα (ένδυμα)"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "textile techniques"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "tecniche tessili"
+        },
+        {
+          "def": "cappa"
+        },
+        {
+          "def": "Cappa"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "techniques textiles"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "טכניקות טקסטיל"
+        },
+        {
+          "def": "שכמיה"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "textieltechnieken"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "textile techniken"
+        },
+        {
+          "def": "capa corta"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "tekstilne tehnike"
+        },
+        {
+          "def": "ogrtač"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "Keeppi"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Ogrinjalo"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Kappe"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Capa",
+          "Baumwolle",
+          "Cape",
+          "Baumwollfaser",
+          "Textile Techniken"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Keeppi"
+        ],
+        "ru": [
+          "Хлопок"
+        ],
+        "pt": [
+          "Capa",
+          "capa",
+          "Algodão",
+          "algodão",
+          "técnicas têxteis"
+        ],
+        "bg": [
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "coton",
+          "techniques textiles",
+          "Coton",
+          "Cape",
+          "cape"
+        ],
+        "hu": [
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž",
+          "Ogrinjalo"
+        ],
+        "ga": [
+          "Cadás"
+        ],
+        "ca": [
+          "Capa",
+          "Cotó"
+        ],
+        "sr": [
+          "tekstilne tehnike",
+          "pamuk",
+          "ogrtač"
+        ],
+        "sv": [
+          "Bomull",
+          "Cape",
+          "cape",
+          "textila tekniker",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "Τεχνικές κλωστοϋφαντουργίας",
+          "Κάπα (ένδυμα)",
+          "Βαμβάκι",
+          "κάπα"
+        ],
+        "en": [
+          "textile techniques",
+          "cotton (fiber)",
+          "Cape",
+          "Cotton",
+          "cape"
+        ],
+        "it": [
+          "tecniche tessili",
+          "cappa",
+          "Cotone",
+          "cotone",
+          "Cappa"
+        ],
+        "es": [
+          "Capa",
+          "Algodón",
+          "capa corta",
+          "textile techniken",
+          "algodón"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "cs": [
+          "Bavlna"
+        ],
+        "eu": [
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna"
+        ],
+        "he": [
+          "כותנה",
+          "טכניקות טקסטיל",
+          "שכמיה"
+        ],
+        "da": [
+          "Kappe",
+          "Bomuld"
+        ],
+        "ro": [
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "Cape",
+          "katoen (vezel)",
+          "cape",
+          "textieltechnieken"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/52353"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-137-139.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-137-139.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1921"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1921"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_52353?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_52353",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_52353.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 21.999886,
+      "timestamp": 1762961211202,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Cotton shoulder cloth",
+        "Katoenen schouderdoek"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_91048",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_91048",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_91048?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a handwoven dark shoulder cloth (sadum) with red borders and geometric weft motifs, consistent with Batak (Mandailing/Angkola/Toba) textile traditions as described in the museum record.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Shoulder cloth",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1959"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-2761-949.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7fe6aafbfac5897008f25e450a14f70141ea925d767d51b7fab4232b7e6b1a5e",
+        "bytes": 23932,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_2048221_europeana_fashion_91048.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:32.439513+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "The 'sadum' originated in the southern Batak region. In his dictionary, published in 1861, Van der Tuuk writes about a Mandailing version.  The 'sadum' is however also a very important and frequently made cloth in the Angkola-Batak culture area north of Mandailing.  The southern Toba Batak weavers made their own versions based on the examples of these cloths. These were very popular in the Silindung valley in the early twentieth century. In the course of the twentieth century, the popularity of these cloths increased so that they also found a place in Toba Batak ritual ceremonies. The use of the cloths also spread further and further in a northern direction. By the beginning of the twenty-first century, versions of the cloth are popular as far north as the Toba, Karo and Simalungun areas.‖ In all cases, the older Toba Batak versions are not easily distinguished. Over the years, the more modern Toba Batak versions become more recognizable as such, but what is certain is that the Toba Batak adopted the motifs, the stripes in the chain direction in the side strips and the colors of the cloth and applied them in their own weaving.  \\In the middle strip of this cloth, the words 'selamat pakai' (good luck wish for the wearer) are woven into suppletive weft thread.  \\The beaded pattern border in the fringe ends of the cloth characterize this cloth as originating from Angkola. The red tassels attached to them are also typical.\\The cloth is used as a shoulder cloth.\\Angkola-Batak 'sadum' fabrics of this type contain some special weaving techniques.\\One of these is a kind of kelim technique or weft wrapping technique. This is usually applied to a row of large diamond motifs running from selvedge to selvedge of the cloth. The weaver adds the weft by hand into the warp while the cloth is still hanging in the loom. A thicker 'woolly' thread was used for this purpose (see Jasper and Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).According to Jasper and Pirngadie (1912:226), beads in the weft are a typical Angkola method of decoration. The beads are strung on the weft and when the weft is added, the weaver places the beads in place between the warp threads.",
+        "De 'sadum' stamt uit het zuidelijk Batakgebied. In zijn woordenboek, gepubliceerd in 1861, schrijft Van der Tuuk over een Mandailingversie.  De 'sadum' is echter ook een zeer belangrijke en veelvuldig gemaakte doek in het Angkola-Batak cultuurgebied ten noorden van Mandailing.  De zuidelijke Toba Batakwevers maakten eigen versies naar de voorbeelden van deze doeken. Deze waren zeer geliefd in het Silindungdal in het begin van de twintigste eeuw. In de loop van de twintigste eeuw is de populariteit van deze doeken toegenomen  waardoor zij ook een plaats hebben gekregen in Toba Batak rituele ceremoniën. Het gebruik van de doeken verspreidden ook steeds verder in een noordelijke richting. Bij het begin van de éénentwintigste eeuw zijn versies van de doek tot aan de noordelijke gebieden van Toba, Karo en Simalungun geliefd.\n\nAngkolaversies zijn niet altijd makkelijk van de oudere Toba Batakversies te onderscheiden. Door de jaren heen worden de modernere Toba Batak versies steeds meer herkenbaar als zodanig, maar zeker is dat de Toba Batak de motieven, de strepen in de kettingrichting in de zijbanen en de kleuren van de doek hebben overgenomen en toegepast in hun eigen weefkunst.  \n\nIn de middenbaan van deze doek zijn de woorden 'selamat pakai' (gelukswens voor de drager) in suppletoire inslagdraad ingeweven.  \n\nDe kralen patroonrand in de franje einden van de doek kenmerken deze doek als afkomstig uit Angkola. De rode kwasten die daar aanvast zijn gemaakt zijn ook typerend.\n\nDe doek wordt als schouderdoek gebruikt.\n\nVervaardiging\nAngkola-Batak 'sadum' weefsels van deze soort bevatten enkele bijzondere weeftechnieken.\n\nEén daarvan is een soort kelimtechniek of inslag wikkeltechniek (weft wrapping). Het is gebruikelijk dat dit toegepast wordt op een rij van grote ruitmotieven die van zelfkant tot zelfkant van de doek loopt. De weefster voegt de inslag met de hand in de ketting toe terwijl de doek nog in het weefgetouw hangt. Hiervoor is een dikkere 'wollige' draad gebruikt (zie Jasper en Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).\n\nKralen in de inslag zijn volgens Jasper en Pirngadie (1912:226) een typische Angkola versieringswijze. De kralen worden op de inslag geregen en als de inslag wordt toegevoegd, plaatst de weefster de kralen tussen de scheringdraden op hun plaats."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The 'sadum' originated in the southern Batak region. In his dictionary, published in 1861, Van der Tuuk writes about a Mandailing version.  The 'sadum' is however also a very important and frequently made cloth in the Angkola-Batak culture area north of Mandailing.  The southern Toba Batak weavers made their own versions based on the examples of these cloths. These were very popular in the Silindung valley in the early twentieth century. In the course of the twentieth century, the popularity of these cloths increased so that they also found a place in Toba Batak ritual ceremonies. The use of the cloths also spread further and further in a northern direction. By the beginning of the twenty-first century, versions of the cloth are popular as far north as the Toba, Karo and Simalungun areas.‖ In all cases, the older Toba Batak versions are not easily distinguished. Over the years, the more modern Toba Batak versions become more recognizable as such, but what is certain is that the Toba Batak adopted the motifs, the stripes in the chain direction in the side strips and the colors of the cloth and applied them in their own weaving.  \\In the middle strip of this cloth, the words 'selamat pakai' (good luck wish for the wearer) are woven into suppletive weft thread.  \\The beaded pattern border in the fringe ends of the cloth characterize this cloth as originating from Angkola. The red tassels attached to them are also typical.\\The cloth is used as a shoulder cloth.\\Angkola-Batak 'sadum' fabrics of this type contain some special weaving techniques.\\One of these is a kind of kelim technique or weft wrapping technique. This is usually applied to a row of large diamond motifs running from selvedge to selvedge of the cloth. The weaver adds the weft by hand into the warp while the cloth is still hanging in the loom. A thicker 'woolly' thread was used for this purpose (see Jasper and Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).According to Jasper and Pirngadie (1912:226), beads in the weft are a typical Angkola method of decoration. The beads are strung on the weft and when the weft is added, the weaver places the beads in place between the warp threads."
+        ],
+        "nl": [
+          "De 'sadum' stamt uit het zuidelijk Batakgebied. In zijn woordenboek, gepubliceerd in 1861, schrijft Van der Tuuk over een Mandailingversie.  De 'sadum' is echter ook een zeer belangrijke en veelvuldig gemaakte doek in het Angkola-Batak cultuurgebied ten noorden van Mandailing.  De zuidelijke Toba Batakwevers maakten eigen versies naar de voorbeelden van deze doeken. Deze waren zeer geliefd in het Silindungdal in het begin van de twintigste eeuw. In de loop van de twintigste eeuw is de populariteit van deze doeken toegenomen  waardoor zij ook een plaats hebben gekregen in Toba Batak rituele ceremoniën. Het gebruik van de doeken verspreidden ook steeds verder in een noordelijke richting. Bij het begin van de éénentwintigste eeuw zijn versies van de doek tot aan de noordelijke gebieden van Toba, Karo en Simalungun geliefd.\n\nAngkolaversies zijn niet altijd makkelijk van de oudere Toba Batakversies te onderscheiden. Door de jaren heen worden de modernere Toba Batak versies steeds meer herkenbaar als zodanig, maar zeker is dat de Toba Batak de motieven, de strepen in de kettingrichting in de zijbanen en de kleuren van de doek hebben overgenomen en toegepast in hun eigen weefkunst.  \n\nIn de middenbaan van deze doek zijn de woorden 'selamat pakai' (gelukswens voor de drager) in suppletoire inslagdraad ingeweven.  \n\nDe kralen patroonrand in de franje einden van de doek kenmerken deze doek als afkomstig uit Angkola. De rode kwasten die daar aanvast zijn gemaakt zijn ook typerend.\n\nDe doek wordt als schouderdoek gebruikt.\n\nVervaardiging\nAngkola-Batak 'sadum' weefsels van deze soort bevatten enkele bijzondere weeftechnieken.\n\nEén daarvan is een soort kelimtechniek of inslag wikkeltechniek (weft wrapping). Het is gebruikelijk dat dit toegepast wordt op een rij van grote ruitmotieven die van zelfkant tot zelfkant van de doek loopt. De weefster voegt de inslag met de hand in de ketting toe terwijl de doek nog in het weefgetouw hangt. Hiervoor is een dikkere 'wollige' draad gebruikt (zie Jasper en Pirngadie 1912:225, 226; Niessen up/2004, Techniques: Weft wrapping).\n\nKralen in de inslag zijn volgens Jasper en Pirngadie (1912:226) een typische Angkola versieringswijze. De kralen worden op de inslag geregen en als de inslag wordt toegevoegd, plaatst de weefster de kralen tussen de scheringdraden op hun plaats."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Shoulder cloth"
+        ],
+        "nl": [
+          "Schouderdoek"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10040",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10370",
+        "http://data.europeana.eu/concept/2235",
+        "http://data.europeana.eu/concept/2820",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Textile Techniken"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Bindung"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "textila tekniker"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Vävteknik"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "capa"
+        },
+        {
+          "def": "técnicas têxteis"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Técnica de tecelagem"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "κάπα"
+        },
+        {
+          "def": "Τεχνικές κλωστοϋφαντουργίας"
+        },
+        {
+          "def": "Κάπα (ένδυμα)"
+        },
+        {
+          "def": "Τεχνικές ύφανσης"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "textile techniques"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Weave"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "cappa"
+        },
+        {
+          "def": "tecniche tessili"
+        },
+        {
+          "def": "Cappa"
+        },
+        {
+          "def": "Tecniche di tessitura"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "techniques textiles"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Technique de tissage"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "שכמיה"
+        },
+        {
+          "def": "טכניקות טקסטיל"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "textieltechnieken"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Weeftechniek"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "capa corta"
+        },
+        {
+          "def": "textile techniken"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Técnica de tejido"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "ogrtač"
+        },
+        {
+          "def": "tekstilne tehnike"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "Keeppi"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Ogrinjalo"
+        },
+        {
+          "def": "Vezava"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Kappe"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Vazba"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Capa",
+          "Bindung",
+          "Baumwolle",
+          "Cape",
+          "ambra",
+          "Baumwollfaser",
+          "Textile Techniken"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Keeppi"
+        ],
+        "ru": [
+          "Хлопок"
+        ],
+        "pt": [
+          "Capa",
+          "capa",
+          "âmbar cinza",
+          "Algodão",
+          "Técnica de tecelagem",
+          "algodão",
+          "técnicas têxteis"
+        ],
+        "bg": [
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "coton",
+          "ambre gris",
+          "techniques textiles",
+          "Coton",
+          "Technique de tissage",
+          "Cape",
+          "cape"
+        ],
+        "hu": [
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž",
+          "Ogrinjalo",
+          "Vezava"
+        ],
+        "ga": [
+          "Cadás"
+        ],
+        "ca": [
+          "Capa",
+          "Cotó"
+        ],
+        "sr": [
+          "tekstilne tehnike",
+          "ćilibar",
+          "pamuk",
+          "ogrtač"
+        ],
+        "sv": [
+          "Vävteknik",
+          "Bomull",
+          "Cape",
+          "ambra",
+          "cape",
+          "textila tekniker",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "άμπαρο",
+          "Τεχνικές ύφανσης",
+          "Τεχνικές κλωστοϋφαντουργίας",
+          "Κάπα (ένδυμα)",
+          "Βαμβάκι",
+          "κάπα"
+        ],
+        "en": [
+          "textile techniques",
+          "cotton (fiber)",
+          "ambergris",
+          "Weave",
+          "Cape",
+          "Cotton",
+          "cape"
+        ],
+        "it": [
+          "cappa",
+          "tecniche tessili",
+          "ambra grigia",
+          "Cotone",
+          "cotone",
+          "Tecniche di tessitura",
+          "Cappa"
+        ],
+        "es": [
+          "Capa",
+          "Algodón",
+          "capa corta",
+          "ámbar gris",
+          "textile techniken",
+          "Técnica de tejido",
+          "algodón"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "cs": [
+          "Bavlna",
+          "Vazba"
+        ],
+        "eu": [
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna"
+        ],
+        "he": [
+          "כותנה",
+          "טכניקות טקסטיל",
+          "ענבר אפור",
+          "שכמיה"
+        ],
+        "da": [
+          "Kappe",
+          "Bomuld"
+        ],
+        "ro": [
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "Weeftechniek",
+          "amber",
+          "Cape",
+          "katoen (vezel)",
+          "cape",
+          "textieltechnieken"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/91048"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-2761-949.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-2761-949.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1959"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1959"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_91048?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_91048",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_91048.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 21.712936,
+      "timestamp": 1762959501435,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Shoulder cloth",
+        "Schouderdoek"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_198926",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_198926",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_198926?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a handwoven shoulder cloth (sadum-type) with characteristic banded weft-stripe patterning and fringed ends, matching the Batak textile tradition described in the museum's record.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "textile",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Shoulder cloth",
+      "titles_alt": [],
+      "date_text": {
+        "def": "19. Jahrhundert"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-H-1273.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d0eb7e12607a47682cc19d7694033e70c92a1a9905ebbc79bfe973400184743f",
+        "bytes": 23242,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_2048221_europeana_fashion_198926.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:33.580562+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "The 'sadum' originated in the southern Batak region. In his dictionary, published in 1861, Van der Tuuk writes about a Mandailing version.  The 'sadum' is however also a very important and elaborately made cloth in the Angkola Batak culture area north of Mandailing. The southern Toba-Batak weavers made their own versions after the examples of these cloths. These were very popular in the Silindung valley in the early twentieth century. In the course of the twentieth century, the popularity of these cloths has only increased so that they have also found a place in Toba Batak ritual ceremonies. The distribution of the cloths in a northern direction also continued. By the beginning of the twenty-first century, several versions of the cloth were popular as far north as Toba, Karo and Simalungun areas.There are several varieties of Angkola 'sadum'. This species is relatively broad. There are also different versions of this species which can be distinguished by the decorations, mainly suppletive weft motifs. The entire format of the cloth, however, contains light red side stripes with stripes in chain direction and a darker three-part middle strip consisting of a midfield and two ends. The ends, decorated with suppletive weft, are mirror images of each other. The suppletire weft runs into the side stripes of the cloth. The fringe ends of the cloth are decorated with both a twined weft edge and a relatively wide, mainly white, beaded edge.\\ This version has a plain indigo blue midfield and relatively simple suppletive weft decorations in the ends (see 'Manufacture Description' for particular weaving techniques used in this cloth).  \\The cloth is used as a shoulder cloth or shawl by women (Sibeth 1991:83, fig. 90).‖Angkola Batak 'sadum' fabrics of this type contain several special weaving techniques, seven of which are briefly described here.  \\ÒFirst is the relatively exceptional manipulation of color in the weft. Because the cloth is in warp strips, the weft is barely detectable, but the alternating blue and red wefts in this cloth stand out as light horizontal stripes in the cloth. \\Second, there is a form of twill weave (Bolland 1979). This weaving technique has not been used over the entire cloth, only in certain parts of both side and middle stripes. The rest of the cloth has an ordinary twill weave as is common in Batak textiles.‖ The third is a type of kelim technique or weft wrapping. This is usually applied to a large diamond motif running from selvedge to selvedge of the cloth. The weaver inserts the weft into the warp by hand while the cloth is still hanging in the loom. A thicker 'woolly' thread is used for this purpose (see Niessen up/2004, Techniques: Weft wrapping).Fourth, there is the use of beads in the weft. The beads are strung onto the weft and when the weft is added, the weaver places the beads between the warp threads.Fifth, the Angkola-Batak have developed a special device to make the beaded border in the cloth. The warp is jointed by hand between the rows of beads (Niessen up/2004).Sixth, red tassels are often attached to the cloth. These have not been described in the literature.\\And seventh, the cloth is made of two separately woven panels.  These were sewn together by hand. The seam runs across the middle of the cloth.",
+        "De 'sadum' stamt uit het zuidelijk Batakgebied. In zijn woordenboek, gepubliceerd in 1861, schrijft Van der Tuuk over een Mandailingversie.  De 'sadum' is echter ook een zeer belangrijke en uitvoerig gemaakte doek in het Angkola Batak cultuurgebied ten noorden van Mandailing. De zuidelijke Toba-Batak wevers maakten eigen versies naar de voorbeelden van deze doeken. Deze waren zeer geliefd in het Silindungdal in het begin van de twintigste eeuw. In de loop van de twintigste eeuw is de populariteit van deze doeken alleen maar toegenomen waardoor zij ook een plaats hebben gekregen in Toba Batak rituele ceremoniën. Het verspreiden van de doeken in een noordelijke richting ging ook steeds verder. Bij het begin van de eenentwintigste eeuw waren verschillende versies van de doek tot aan de noordelijke gebieden van Toba, Karo en Simalungun geliefd.\n\nEr zijn verschillende soorten Angkola 'sadum'. Deze soort is relatief breed. Van deze soort zijn er ook verschillende versies die door de versieringen, voornamelijk suppletoire inslagmotieven, te onderscheiden zijn. Het gehele formaat van de doek echter bevat lichtrode zijbanen met strepen in ketting richting en een donkerder driedelige middenbaan die bestaat uit een middenveld en twee uiteinden. De met suppletoire inslag versierde uiteinden zijn spiegelbeelden van elkaar. De suppletoire inslag loopt over in de zijbanen van de doek. De franje-einden van de doek zijn versierd met zowel een getwijnde inslagrand als een relatief brede, voornamelijk witte, kralenrand.\n\nDeze versie heeft een effen indigoblauw middenveld en relatief simpele suppletoire inslagversieringen in de uiteinden (zie 'Omschrijving Vervaardiging' voor bijzondere weeftechnieken die in deze doek zijn toegepast).  \n\nDe doek wordt als schouderdoek of omslagdoek door vrouwen gebruikt (Sibeth 1991:83, fig. 90).\n\nVervaardiging\nAngkola Batak 'sadum' weefsels van deze soort bevatten meerdere bijzondere weeftechnieken, waarvan er zeven hier in het kort zijn beschreven.  \nTen eerste is er het relatief uitzonderlijk manipuleren van kleur in de inslag. Omdat de doek in kettingrips is, is de inslag nauwelijks te bespeuren, maar de afwisselende blauwe en rode inslag in deze doek vallen op als lichte horizontale strepen in de doek. \nTen tweede is er een vorm van keperbinding (Bolland 1979). Deze weeftechniek is niet toegepast over de gehele doek, alleen in bepaalde delen van zowel zij- als middenbaan. De rest van de doek heeft een gewone keperbinding zoals gebruikelijk is in Batak textiel.\nDe derde is een soort kelimtechniek of inslagwikkeltechniek (weft wrapping). Het is gebruikelijk dat dit toegepast wordt op een groot ruitmotief dat van zelfkant tot zelfkant van de doek loopt. De weefster voegt de inslag met de hand in de ketting terwijl de doek nog in het weefgetouw hangt. Hiervoor is een dikkere 'wollige' draad gebruikt (zie Niessen up/2004, Techniques:  Weft wrapping).\nTen vierde is er het gebruik van kralen in de inslag. De kralen worden op de inslag geregen en als de inslag wordt toegevoegd, plaatst de weefster de kralen tussen de scheringdraden.\nTen vijfde hebben de Angkola-Batak een speciaal toestel ontwikkeld om de kralenrand in de doek te maken. De ketting wordt met de hand gevoegd tussen de rijen kralen (Niessen up/2004).\nTen zesde zijn er vaak rode kwastjes aan de doek aangebracht. Deze zijn niet in de literatuur beschreven.\nEn ten zevende is de doek van twee apart geweven panelen gemaakt.  Deze zijn handmatig aan elkaar genaaid. De naad loopt over het midden van de doek."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The 'sadum' originated in the southern Batak region. In his dictionary, published in 1861, Van der Tuuk writes about a Mandailing version.  The 'sadum' is however also a very important and elaborately made cloth in the Angkola Batak culture area north of Mandailing. The southern Toba-Batak weavers made their own versions after the examples of these cloths. These were very popular in the Silindung valley in the early twentieth century. In the course of the twentieth century, the popularity of these cloths has only increased so that they have also found a place in Toba Batak ritual ceremonies. The distribution of the cloths in a northern direction also continued. By the beginning of the twenty-first century, several versions of the cloth were popular as far north as Toba, Karo and Simalungun areas.There are several varieties of Angkola 'sadum'. This species is relatively broad. There are also different versions of this species which can be distinguished by the decorations, mainly suppletive weft motifs. The entire format of the cloth, however, contains light red side stripes with stripes in chain direction and a darker three-part middle strip consisting of a midfield and two ends. The ends, decorated with suppletive weft, are mirror images of each other. The suppletire weft runs into the side stripes of the cloth. The fringe ends of the cloth are decorated with both a twined weft edge and a relatively wide, mainly white, beaded edge.\\ This version has a plain indigo blue midfield and relatively simple suppletive weft decorations in the ends (see 'Manufacture Description' for particular weaving techniques used in this cloth).  \\The cloth is used as a shoulder cloth or shawl by women (Sibeth 1991:83, fig. 90).‖Angkola Batak 'sadum' fabrics of this type contain several special weaving techniques, seven of which are briefly described here.  \\ÒFirst is the relatively exceptional manipulation of color in the weft. Because the cloth is in warp strips, the weft is barely detectable, but the alternating blue and red wefts in this cloth stand out as light horizontal stripes in the cloth. \\Second, there is a form of twill weave (Bolland 1979). This weaving technique has not been used over the entire cloth, only in certain parts of both side and middle stripes. The rest of the cloth has an ordinary twill weave as is common in Batak textiles.‖ The third is a type of kelim technique or weft wrapping. This is usually applied to a large diamond motif running from selvedge to selvedge of the cloth. The weaver inserts the weft into the warp by hand while the cloth is still hanging in the loom. A thicker 'woolly' thread is used for this purpose (see Niessen up/2004, Techniques: Weft wrapping).Fourth, there is the use of beads in the weft. The beads are strung onto the weft and when the weft is added, the weaver places the beads between the warp threads.Fifth, the Angkola-Batak have developed a special device to make the beaded border in the cloth. The warp is jointed by hand between the rows of beads (Niessen up/2004).Sixth, red tassels are often attached to the cloth. These have not been described in the literature.\\And seventh, the cloth is made of two separately woven panels.  These were sewn together by hand. The seam runs across the middle of the cloth."
+        ],
+        "nl": [
+          "De 'sadum' stamt uit het zuidelijk Batakgebied. In zijn woordenboek, gepubliceerd in 1861, schrijft Van der Tuuk over een Mandailingversie.  De 'sadum' is echter ook een zeer belangrijke en uitvoerig gemaakte doek in het Angkola Batak cultuurgebied ten noorden van Mandailing. De zuidelijke Toba-Batak wevers maakten eigen versies naar de voorbeelden van deze doeken. Deze waren zeer geliefd in het Silindungdal in het begin van de twintigste eeuw. In de loop van de twintigste eeuw is de populariteit van deze doeken alleen maar toegenomen waardoor zij ook een plaats hebben gekregen in Toba Batak rituele ceremoniën. Het verspreiden van de doeken in een noordelijke richting ging ook steeds verder. Bij het begin van de eenentwintigste eeuw waren verschillende versies van de doek tot aan de noordelijke gebieden van Toba, Karo en Simalungun geliefd.\n\nEr zijn verschillende soorten Angkola 'sadum'. Deze soort is relatief breed. Van deze soort zijn er ook verschillende versies die door de versieringen, voornamelijk suppletoire inslagmotieven, te onderscheiden zijn. Het gehele formaat van de doek echter bevat lichtrode zijbanen met strepen in ketting richting en een donkerder driedelige middenbaan die bestaat uit een middenveld en twee uiteinden. De met suppletoire inslag versierde uiteinden zijn spiegelbeelden van elkaar. De suppletoire inslag loopt over in de zijbanen van de doek. De franje-einden van de doek zijn versierd met zowel een getwijnde inslagrand als een relatief brede, voornamelijk witte, kralenrand.\n\nDeze versie heeft een effen indigoblauw middenveld en relatief simpele suppletoire inslagversieringen in de uiteinden (zie 'Omschrijving Vervaardiging' voor bijzondere weeftechnieken die in deze doek zijn toegepast).  \n\nDe doek wordt als schouderdoek of omslagdoek door vrouwen gebruikt (Sibeth 1991:83, fig. 90).\n\nVervaardiging\nAngkola Batak 'sadum' weefsels van deze soort bevatten meerdere bijzondere weeftechnieken, waarvan er zeven hier in het kort zijn beschreven.  \nTen eerste is er het relatief uitzonderlijk manipuleren van kleur in de inslag. Omdat de doek in kettingrips is, is de inslag nauwelijks te bespeuren, maar de afwisselende blauwe en rode inslag in deze doek vallen op als lichte horizontale strepen in de doek. \nTen tweede is er een vorm van keperbinding (Bolland 1979). Deze weeftechniek is niet toegepast over de gehele doek, alleen in bepaalde delen van zowel zij- als middenbaan. De rest van de doek heeft een gewone keperbinding zoals gebruikelijk is in Batak textiel.\nDe derde is een soort kelimtechniek of inslagwikkeltechniek (weft wrapping). Het is gebruikelijk dat dit toegepast wordt op een groot ruitmotief dat van zelfkant tot zelfkant van de doek loopt. De weefster voegt de inslag met de hand in de ketting terwijl de doek nog in het weefgetouw hangt. Hiervoor is een dikkere 'wollige' draad gebruikt (zie Niessen up/2004, Techniques:  Weft wrapping).\nTen vierde is er het gebruik van kralen in de inslag. De kralen worden op de inslag geregen en als de inslag wordt toegevoegd, plaatst de weefster de kralen tussen de scheringdraden.\nTen vijfde hebben de Angkola-Batak een speciaal toestel ontwikkeld om de kralenrand in de doek te maken. De ketting wordt met de hand gevoegd tussen de rijen kralen (Niessen up/2004).\nTen zesde zijn er vaak rode kwastjes aan de doek aangebracht. Deze zijn niet in de literatuur beschreven.\nEn ten zevende is de doek van twee apart geweven panelen gemaakt.  Deze zijn handmatig aan elkaar genaaid. De naad loopt over het midden van de doek."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Shoulder cloth"
+        ],
+        "nl": [
+          "Schouderdoek"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10370",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textile Techniken"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "textila tekniker"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "técnicas têxteis"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "Τεχνικές κλωστοϋφαντουργίας"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "textile techniques"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "tecniche tessili"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "techniques textiles"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "טכניקות טקסטיל"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "textieltechnieken"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "textile techniken"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "tekstilne tehnike"
+        },
+        {
+          "def": "ćilibar"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "ambra",
+          "Textile Techniken"
+        ],
+        "sv": [
+          "ambra",
+          "textila tekniker"
+        ],
+        "pt": [
+          "âmbar cinza",
+          "técnicas têxteis"
+        ],
+        "el": [
+          "άμπαρο",
+          "Τεχνικές κλωστοϋφαντουργίας"
+        ],
+        "en": [
+          "textile techniques",
+          "ambergris"
+        ],
+        "it": [
+          "tecniche tessili",
+          "ambra grigia"
+        ],
+        "fr": [
+          "ambre gris",
+          "techniques textiles"
+        ],
+        "he": [
+          "טכניקות טקסטיל",
+          "ענבר אפור"
+        ],
+        "nl": [
+          "amber",
+          "textieltechnieken"
+        ],
+        "es": [
+          "ámbar gris",
+          "textile techniken"
+        ],
+        "sr": [
+          "tekstilne tehnike",
+          "ćilibar"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/198926"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-H-1273.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-H-1273.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        },
+        {
+          "def": "1900/2000"
+        },
+        {
+          "def": "1871/1871"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku",
+          "1900-luku"
+        ],
+        "ru": [
+          "XIX век",
+          "XX век"
+        ],
+        "pt": [
+          "Século XIX",
+          "Século XX"
+        ],
+        "bg": [
+          "19 век",
+          "20 век"
+        ],
+        "lt": [
+          "XIX amžius",
+          "XX amžius"
+        ],
+        "hr": [
+          "19. stoljeće",
+          "20. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts",
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle",
+          "XXe siècle"
+        ],
+        "hu": [
+          "19. század",
+          "20. század"
+        ],
+        "sk": [
+          "19. storočie",
+          "20. storočie"
+        ],
+        "sl": [
+          "19. stoletje",
+          "20. stoletje"
+        ],
+        "ga": [
+          "19ú haois",
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XIX",
+          "Segle XX"
+        ],
+        "sv": [
+          "1800-talet",
+          "1900-talet"
+        ],
+        "el": [
+          "19ος αιώνας",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "19th century",
+          "20th century"
+        ],
+        "it": [
+          "XIX secolo",
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XIX",
+          "Siglo XX"
+        ],
+        "et": [
+          "19. sajand",
+          "20. sajand"
+        ],
+        "cs": [
+          "19. století",
+          "20. století"
+        ],
+        "eu": [
+          "XIX. mendea",
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1900/2000",
+          "1871/1871"
+        ],
+        "pl": [
+          "XIX wiek",
+          "XX wiek"
+        ],
+        "da": [
+          "19. århundrede",
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea",
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "19e eeuw",
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_198926?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_198926",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_198926.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 20.312706,
+      "timestamp": 1762959559054,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Shoulder cloth",
+        "Schouderdoek"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_52321",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_52321",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_52321?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A handwoven cotton shoulder cloth with striped borders and a small geometric weft pattern, consistent with Batak weaving traditions from Sumatra, matching the museum's description referencing Toba/Silindung weaving conventions.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Cotton shoulder cloth",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1921"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-137-110.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0df957fe2009fa3216b20429a1a7bb8b26f99e47227d828ae8a2ce788af9c151",
+        "bytes": 27137,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-indonesia\\images\\eu_2048221_europeana_fashion_52321.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:34.055124+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Probably this textile was inspired by the Aceh textile (Tillman 1940:7; Niessen 1993:24, fig 15) named 'plang rutha'. However, the arrowhead motif is also found in India (Desai 1987). Jasper observed that the 'plang motif' was known throughout Sumatra (1909:23). In old descriptions, the names 'padang rusa' and 'padang ursa' for this cloth also occur. 'Ursa' is a Toba word for the Indonesian 'rusa' or 'deer' (Sinaga 1994:380). 'Padang rusak' is the name that was used in the Silindung valley at the turn of the 20th century (Jasper and Pirngadie 1912, plate 22 of textile 48-194 in the Tropenmuseum, Amsterdam; Rouffaer 1902:9). Regarding a so-called 'pelang rusa' originating in Silindung, Rouffaer has written that, \"if this cloth were silk, instead of coarse cotton, it would be a genuine Aceh fabric\" (Rouffaer 1901:11). The whole series of Batak textiles for which the arrowhead motif is characteristic (e.g., 'mangiring', 'padangpadang', 'simpar', 'simancuman', etc.) is probably derived from this cloth type.‖ The 'padang rusak' has plain red side stripes ('sisi') and white selvedge edges ('topi'). The middle band has narrow, alternating red and black stripes. The white iridescent arrowhead motif is usually found in the black stripes.  \\In this cloth, the arrowheads all point in the same direction. \\This cloth was used as a shoulder cloth, sash (Niessen 1993:85, fig. 66), and headdress.‖ The Aceh version of this cloth was made in silk, but this Batak version is woven of cotton thread.‖ Jasper and Pirngadie (1912: 173-175) give a detailed description of the making of the itched arrowhead motif.",
+        "Waarschijnlijk is deze textielsoort geïnspireerd op de Aceh textielsoort (Tillman 1940:7; Niessen 1993:24, fig 15) met de naam 'plang rutha'. Het pijlspitsmotief komt echter ook in India voor (Desai 1987). Jasper heeft geconstateerd dat de 'plangmotief' door heel Sumatra bekend was (1909:23). In oude beschrijvingen komen de namen 'padang rusa' en 'padang ursa' voor deze doek ook voor. 'Ursa' is een Toba woord voor het Indonesische 'rusa' of 'hert' (Sinaga 1994:380). 'Padang rusak' is de naam die rond de 20ste eeuwwisseling in het Silindungdal werd gebruikt (Jasper and Pirngadie 1912, plaat 22 van textiel 48-194 in het  Tropenmuseum, Amsterdam; Rouffaer 1902:9). Over een zogenaamd 'pelang rusa' herkomstig uit Silindung, heeft Rouffaer geschreven dat, \"indien dit doek zijde was, in plaats van grof katoen, dan zou het een echt Atjeh-weefsel zijn\" (Rouffaer 1901:11). De hele reeks Batak textielen waarvoor het  pijlspitsmotief kenmerkend is (bijv. 'mangiring', 'padangpadang', 'simpar', 'simancuman' enz.) is waarschijnlijk van deze doek soort afgeleid.\n\nDe 'padang rusak' heeft effen rode zijbanen ('sisi') en witte zelfkantranden ('topi'). De middenbaan is voorzien van smalle, afwisselend rode en zwarte strepen. Het wit geïkatte pijlspitsmotief wordt meestal in de zwarte strepen aangetroffen.  \n\nIn deze doek wijzen de pijlpunten allemaal in dezelfde richting. \n\nDeze doek werd als schouderdoek, sjerp (Niessen 1993:85, fig. 66) en hoofddoek gebruikt.\n\nVervaardiging\nDe Aceh versie van deze doek werd in zijde gemaakt, maar deze Batakversie is van katoendraad geweven.\n\nJasper and Pirngadie (1912: 173-175) geven een gedetailleerde beschrijving van het maken van het geïkatte pijlspitsmotief."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Probably this textile was inspired by the Aceh textile (Tillman 1940:7; Niessen 1993:24, fig 15) named 'plang rutha'. However, the arrowhead motif is also found in India (Desai 1987). Jasper observed that the 'plang motif' was known throughout Sumatra (1909:23). In old descriptions, the names 'padang rusa' and 'padang ursa' for this cloth also occur. 'Ursa' is a Toba word for the Indonesian 'rusa' or 'deer' (Sinaga 1994:380). 'Padang rusak' is the name that was used in the Silindung valley at the turn of the 20th century (Jasper and Pirngadie 1912, plate 22 of textile 48-194 in the Tropenmuseum, Amsterdam; Rouffaer 1902:9). Regarding a so-called 'pelang rusa' originating in Silindung, Rouffaer has written that, \"if this cloth were silk, instead of coarse cotton, it would be a genuine Aceh fabric\" (Rouffaer 1901:11). The whole series of Batak textiles for which the arrowhead motif is characteristic (e.g., 'mangiring', 'padangpadang', 'simpar', 'simancuman', etc.) is probably derived from this cloth type.‖ The 'padang rusak' has plain red side stripes ('sisi') and white selvedge edges ('topi'). The middle band has narrow, alternating red and black stripes. The white iridescent arrowhead motif is usually found in the black stripes.  \\In this cloth, the arrowheads all point in the same direction. \\This cloth was used as a shoulder cloth, sash (Niessen 1993:85, fig. 66), and headdress.‖ The Aceh version of this cloth was made in silk, but this Batak version is woven of cotton thread.‖ Jasper and Pirngadie (1912: 173-175) give a detailed description of the making of the itched arrowhead motif."
+        ],
+        "nl": [
+          "Waarschijnlijk is deze textielsoort geïnspireerd op de Aceh textielsoort (Tillman 1940:7; Niessen 1993:24, fig 15) met de naam 'plang rutha'. Het pijlspitsmotief komt echter ook in India voor (Desai 1987). Jasper heeft geconstateerd dat de 'plangmotief' door heel Sumatra bekend was (1909:23). In oude beschrijvingen komen de namen 'padang rusa' en 'padang ursa' voor deze doek ook voor. 'Ursa' is een Toba woord voor het Indonesische 'rusa' of 'hert' (Sinaga 1994:380). 'Padang rusak' is de naam die rond de 20ste eeuwwisseling in het Silindungdal werd gebruikt (Jasper and Pirngadie 1912, plaat 22 van textiel 48-194 in het  Tropenmuseum, Amsterdam; Rouffaer 1902:9). Over een zogenaamd 'pelang rusa' herkomstig uit Silindung, heeft Rouffaer geschreven dat, \"indien dit doek zijde was, in plaats van grof katoen, dan zou het een echt Atjeh-weefsel zijn\" (Rouffaer 1901:11). De hele reeks Batak textielen waarvoor het  pijlspitsmotief kenmerkend is (bijv. 'mangiring', 'padangpadang', 'simpar', 'simancuman' enz.) is waarschijnlijk van deze doek soort afgeleid.\n\nDe 'padang rusak' heeft effen rode zijbanen ('sisi') en witte zelfkantranden ('topi'). De middenbaan is voorzien van smalle, afwisselend rode en zwarte strepen. Het wit geïkatte pijlspitsmotief wordt meestal in de zwarte strepen aangetroffen.  \n\nIn deze doek wijzen de pijlpunten allemaal in dezelfde richting. \n\nDeze doek werd als schouderdoek, sjerp (Niessen 1993:85, fig. 66) en hoofddoek gebruikt.\n\nVervaardiging\nDe Aceh versie van deze doek werd in zijde gemaakt, maar deze Batakversie is van katoendraad geweven.\n\nJasper and Pirngadie (1912: 173-175) geven een gedetailleerde beschrijving van het maken van het geïkatte pijlspitsmotief."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Cotton shoulder cloth"
+        ],
+        "nl": [
+          "Katoenen schouderdoek"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10040",
+        "http://data.europeana.eu/concept/2764",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10416",
+        "http://data.europeana.eu/concept/2235",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10352",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10371",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10422",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10586",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "Weiß"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Gewebebindung"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "Wachs"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "vit"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "siden"
+        },
+        {
+          "def": "väva"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "vax"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "capa"
+        },
+        {
+          "def": "branco"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "estrutura de tecelagem"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "κάπα"
+        },
+        {
+          "def": "λευκό"
+        },
+        {
+          "def": "Κάπα (ένδυμα)"
+        },
+        {
+          "def": "μετάξι"
+        },
+        {
+          "def": "ύφανση"
+        },
+        {
+          "def": "ικάτ"
+        },
+        {
+          "def": "κερί"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "white"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "silk (silkworm material)"
+        },
+        {
+          "def": "weave"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "wax"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "cappa"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "bianco"
+        },
+        {
+          "def": "Cappa"
+        },
+        {
+          "def": "seta"
+        },
+        {
+          "def": "tessitura"
+        },
+        {
+          "def": "ikat (un tipo di tintura a riserva)"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "blanc"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "soie"
+        },
+        {
+          "def": "tissé"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "cire"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "שכמיה"
+        },
+        {
+          "def": "לבן"
+        },
+        {
+          "def": "משי"
+        },
+        {
+          "def": "מארג"
+        },
+        {
+          "def": "איקאט"
+        },
+        {
+          "def": "שעווה"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "cape"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "wit"
+        },
+        {
+          "def": "Cape"
+        },
+        {
+          "def": "zijde (vezel)"
+        },
+        {
+          "def": "binding"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "was"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "capa corta"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "blanco"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "ligamento"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "ogrtač"
+        },
+        {
+          "def": "бела"
+        },
+        {
+          "def": "svila"
+        },
+        {
+          "def": "tkanje"
+        },
+        {
+          "def": "ikat"
+        },
+        {
+          "def": "vosak"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "Keeppi"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Ikat"
+        },
+        {
+          "def": "Capa"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Ogrinjalo"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Kappe"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Capa",
+          "Wachs",
+          "Baumwolle",
+          "Ikat",
+          "Seide",
+          "Gewebebindung",
+          "Cape",
+          "ambra",
+          "Weiß",
+          "Baumwollfaser"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Keeppi",
+          "Ikat"
+        ],
+        "ru": [
+          "Хлопок"
+        ],
+        "pt": [
+          "Capa",
+          "capa",
+          "âmbar cinza",
+          "Algodão",
+          "ikat",
+          "branco",
+          "seda",
+          "algodão",
+          "estrutura de tecelagem"
+        ],
+        "bg": [
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "tissé",
+          "coton",
+          "ambre gris",
+          "Coton",
+          "ikat",
+          "Ikat",
+          "cire",
+          "blanc",
+          "Cape",
+          "cape",
+          "soie"
+        ],
+        "hu": [
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž",
+          "Ogrinjalo"
+        ],
+        "ga": [
+          "Cadás"
+        ],
+        "ca": [
+          "Capa",
+          "Ikat",
+          "Cotó"
+        ],
+        "sr": [
+          "svila",
+          "бела",
+          "ćilibar",
+          "ikat",
+          "vosak",
+          "pamuk",
+          "ogrtač",
+          "tkanje"
+        ],
+        "sv": [
+          "vit",
+          "väva",
+          "siden",
+          "ikat",
+          "Bomull",
+          "Cape",
+          "vax",
+          "ambra",
+          "cape",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "λευκό",
+          "άμπαρο",
+          "μετάξι",
+          "ικάτ",
+          "Κάπα (ένδυμα)",
+          "κερί",
+          "Βαμβάκι",
+          "κάπα",
+          "ύφανση"
+        ],
+        "en": [
+          "white",
+          "ikat",
+          "Ikat",
+          "cotton (fiber)",
+          "ambergris",
+          "silk (silkworm material)",
+          "Cape",
+          "Cotton",
+          "cape",
+          "weave",
+          "wax"
+        ],
+        "it": [
+          "bianco",
+          "ikat (un tipo di tintura a riserva)",
+          "cappa",
+          "ambra grigia",
+          "Ikat",
+          "tessitura",
+          "Cotone",
+          "seta",
+          "cotone",
+          "Cappa",
+          "cera"
+        ],
+        "es": [
+          "Capa",
+          "Algodón",
+          "ikat",
+          "capa corta",
+          "ámbar gris",
+          "Ikat",
+          "blanco",
+          "seda",
+          "ligamento",
+          "algodón",
+          "cera"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "cs": [
+          "Bavlna",
+          "Ikat"
+        ],
+        "eu": [
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna"
+        ],
+        "he": [
+          "איקאט",
+          "כותנה",
+          "שעווה",
+          "משי",
+          "ענבר אפור",
+          "לבן",
+          "מארג",
+          "שכמיה"
+        ],
+        "da": [
+          "Kappe",
+          "Bomuld"
+        ],
+        "ro": [
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "wit",
+          "ikat",
+          "Ikat",
+          "was",
+          "zijde (vezel)",
+          "binding",
+          "amber",
+          "Cape",
+          "katoen (vezel)",
+          "cape"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/52321"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-137-110.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-137-110.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1921"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1921"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_52321?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_52321",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_52321.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 12.294154,
+      "timestamp": 1762964415105,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Cotton shoulder cloth",
+        "Katoenen schouderdoek"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

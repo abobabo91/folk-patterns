@@ -1,0 +1,698 @@
+[
+  {
+    "id": "met-449929",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "449929",
+      "object_url": "https://www.metmuseum.org/art/collection/search/449929",
+      "iiif_manifest": null,
+      "credit_line": "Rogers Fund, 1940",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "40.170.245",
+      "accession_year": "1940"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A cast bronze amuletic pendant with pseudo-Kufic script border and a lion/scorpion talismanic design, from Nishapur, Iran — consistent with Persian metalwork amulets of the early Islamic period.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "metalwork",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "Pendant with Lion and Scorpion",
+      "titles_alt": [],
+      "date_text": "10th century",
+      "date_earliest": 900,
+      "date_latest": 999,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Bronze",
+        "cast"
+      ],
+      "techniques": [],
+      "medium_raw": "Bronze; cast",
+      "classification": "Metal",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Diam. 15/16 in. (2.4 cm)\r\nThickness. 3/16 in. (0.5 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Nishapur, Iran",
+      "made_in_place_alt": [],
+      "current_gallery": "453",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116256781",
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300311341",
+        "http://vocab.getty.edu/page/aat/300310388"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP246015.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "caa666a0410d07262e53cf05f4a82ed421d0eae6ecafa3e87e1cfa9d8df02e42",
+        "bytes": 2765078,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_449929.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/40.170.245-D.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0ddbc091f09e4fb2a8c0389edef22b56775b8fff69058bb530d4f47412732d72",
+        "bytes": 16593,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_449929_1.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:16:56.488040+00:00",
+    "raw": {
+      "objectID": 449929,
+      "isHighlight": false,
+      "accessionNumber": "40.170.245",
+      "accessionYear": "1940",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP246015.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP246015.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/40.170.245-D.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Pendant",
+      "title": "Pendant with Lion and Scorpion",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "10th century",
+      "objectBeginDate": 900,
+      "objectEndDate": 999,
+      "medium": "Bronze; cast",
+      "dimensions": "Diam. 15/16 in. (2.4 cm)\r\nThickness. 3/16 in. (0.5 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Diameter": 2.4,
+            "Thickness": 0.5
+          }
+        }
+      ],
+      "creditLine": "Rogers Fund, 1940",
+      "geographyType": "Found",
+      "city": "Nishapur",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Metal",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-11-21T10:05:27.96Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/449929",
+      "tags": [
+        {
+          "term": "Scorpions",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300311341",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q19125"
+        },
+        {
+          "term": "Lions",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+        }
+      ],
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116256781",
+      "isTimelineWork": false,
+      "GalleryNumber": "453"
+    }
+  },
+  {
+    "id": "met-24007",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "24007",
+      "object_url": "https://www.metmuseum.org/art/collection/search/24007",
+      "iiif_manifest": null,
+      "credit_line": "Bequest of George C. Stone, 1935",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "36.25.18a–d",
+      "accession_year": "1936"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a char-aina (mail-and-plate cuirass) with mail body, gilt-decorated mirror plates and arm plates—an armor type historically used in Iran and worn by Persian warriors, consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms"
+    },
+    "physical": {
+      "title": "Cuirass (<i>Char-aina</i>)",
+      "titles_alt": [],
+      "date_text": "17th–early 18th century",
+      "date_earliest": 1601,
+      "date_latest": 1750,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Steel",
+        "iron",
+        "gold",
+        "leather",
+        "textile (wool)"
+      ],
+      "techniques": [],
+      "medium_raw": "Steel, iron, gold, leather, textile (wool)",
+      "classification": "Armor Parts-Cuirasses",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Breast- and backplates: 11 x 11 in. (28 x 28 cm); side plates: 11 5/8 x 6 1/8 in. (29.5 x 15.5 cm); Wt. 6 lb. 8 oz. (2948 g)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116321942",
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147307.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8211233f5f26ffcb9036ea80a615aea06930c2f598c2e9f8980fbfa9b1435aed",
+        "bytes": 4062818,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_001apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "bfd0b969fcd03bb742b7d213ad0daf406fa6034ce60eb9a14769de05af4c6026",
+        "bytes": 4596874,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_008apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c10ed35e8f819fb838bf35b97321d495e92552388412293dd92d941362dcc7ca",
+        "bytes": 4127329,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_010apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1913af0109c89ccef367afb6aeb05d8b057e326f74c62f6b837de1cb38d7df47",
+        "bytes": 4046782,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_012apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "711caf0ff477033f1d2026234ae88b13af8ab6b65b5e092d590869bc3496e8ee",
+        "bytes": 4582374,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_015apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "7e1f0750850e12f17ad82d038dc7ffe6499ced887d481feff0094a0f7755231a",
+        "bytes": 4136175,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_017apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c9997217df39a133fbbf57753dea903e104a19c61b7c27b008197b319810ede2",
+        "bytes": 4174033,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_018apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "375d4e02e2a95d8128152aed9b55efc0d984640e39722588c07c40969964a7a3",
+        "bytes": 3354968,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_023apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "a2a51ff4b298e1980db1a31348d71a9639642e35b7bd400d0b36808de57031e0",
+        "bytes": 3408162,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_8.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_024apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "7c464f4275253a4d1e72c4b0e10e2aabd4b40e75223b58ba24d3a0b22510caa6",
+        "bytes": 3810564,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_9.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_025apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1dbfa17d2bab07657987016763b1560104db65113a8d8815e1b5083926dfbbf8",
+        "bytes": 3694149,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_10.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_026apr2014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8d1fdeb8aed0b6dae613945d42d6af9a386aa4db15d51edc360e0d672dea9eea",
+        "bytes": 3979272,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_11.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147305.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "ae2dd6721e2ce01ba875f9770718698b85680d639f6f081d6841317b1be66b05",
+        "bytes": 6169227,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_12.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147306.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "cb8cf59a1f848749c8059fefe892e2fb103857ff315c3b5d44c5f40313c6616b",
+        "bytes": 4078979,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24007_13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:04:55.482783+00:00",
+    "raw": {
+      "objectID": 24007,
+      "isHighlight": false,
+      "accessionNumber": "36.25.18a–d",
+      "accessionYear": "1936",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/aa/original/DP147307.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/DP147307.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_001apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_008apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_010apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_012apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_015apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_017apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_018apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_023apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_024apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_025apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/36.25.18abcd_026apr2014.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147305.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147306.jpg"
+      ],
+      "constituents": null,
+      "department": "Arms and Armor",
+      "objectName": "Cuirass (<i>Char-aina</i>)",
+      "title": "Cuirass (<i>Char-aina</i>)",
+      "culture": "Persian, Safavid",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "17th–early 18th century",
+      "objectBeginDate": 1601,
+      "objectEndDate": 1750,
+      "medium": "Steel, iron, gold, leather, textile (wool)",
+      "dimensions": "Breast- and backplates: 11 x 11 in. (28 x 28 cm); side plates: 11 5/8 x 6 1/8 in. (29.5 x 15.5 cm); Wt. 6 lb. 8 oz. (2948 g)",
+      "measurements": null,
+      "creditLine": "Bequest of George C. Stone, 1935",
+      "geographyType": "Country of Origin",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Armor Parts-Cuirasses",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/24007",
+      "tags": null,
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116321942",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-24182",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "24182",
+      "object_url": "https://www.metmuseum.org/art/collection/search/24182",
+      "iiif_manifest": null,
+      "credit_line": "Bequest of George C. Stone, 1935",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "36.25.342",
+      "accession_year": "1936"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a segmented lacquered-metal cuirass (body armor) with gilt calligraphic cartouches typical of Safavid/Qajar Persian arms, consistent with the claimed Persian ethnicity and origin.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms"
+    },
+    "physical": {
+      "title": "Cuirass",
+      "titles_alt": [],
+      "date_text": "late 18th–early 19th century",
+      "date_earliest": 1750,
+      "date_latest": 1850,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Leather",
+        "lacquer",
+        "pigment",
+        "iron",
+        "copper alloy",
+        "gold"
+      ],
+      "techniques": [],
+      "medium_raw": "Leather, lacquer, pigment, iron, copper alloy, gold",
+      "classification": "Armor Parts-Cuirasses",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "of breastplate H. 14 in. (35.6 cm); of backplate H. 15 3/16 in. (38.5 cm); of sideplates H. 11 in. (28 cm); of whole cuirass W. 13 1/2 in. (34.3 cm); of whole cuirass D. 10 3/8 in. (26.5 cm); of whole cuirass Wt. 7 lb. 14 oz. (3566 g)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300387843"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147316.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "093610a461858d0d100696fd22a0d78007a0ec67f2880f435bc4f58a0f67932d",
+        "bytes": 3137336,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147317.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "dedc17604863dba32395e64f9f2281e16a3d5cf23940f8bdc86d8fa70b90c6dc",
+        "bytes": 3188031,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147318.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "5361455b0936ce4928d4ce8ce60e08280d0868177cdfe893d6d6b54703d8546d",
+        "bytes": 3047265,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147311.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "28ca384fb7be9c81648205280879a078030b5617b53ec9f67f3e6b3213627641",
+        "bytes": 3665759,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147312.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "a0138d9725a8ae8f2def5f65371be5212b2e2d9f1999a90445ab0ae73b6c4534",
+        "bytes": 5244916,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147313.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c94a5810de9581a4d673dfed275f3ea2ef30c84b9264e211f4edbb3e16b821e6",
+        "bytes": 3475703,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147314.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "abfb16c19213aa938f30cbb5a4cc32e25ccae6884d22d1351dc82163f0a28e25",
+        "bytes": 2843198,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/aa/original/DP147315.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "60e67ff5ef974f26d192142f623049266945fa1658178f073fbd58103458bfa4",
+        "bytes": 2920759,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\metalwork\\general\\images\\met_24182_7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:05:43.938916+00:00",
+    "raw": {
+      "objectID": 24182,
+      "isHighlight": false,
+      "accessionNumber": "36.25.342",
+      "accessionYear": "1936",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/aa/original/DP147316.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/aa/web-large/DP147316.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147317.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147318.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147311.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147312.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147313.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147314.jpg",
+        "https://images.metmuseum.org/CRDImages/aa/original/DP147315.jpg"
+      ],
+      "constituents": null,
+      "department": "Arms and Armor",
+      "objectName": "Cuirass",
+      "title": "Cuirass",
+      "culture": "Iranian",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "late 18th–early 19th century",
+      "objectBeginDate": 1750,
+      "objectEndDate": 1850,
+      "medium": "Leather, lacquer, pigment, iron, copper alloy, gold",
+      "dimensions": "of breastplate H. 14 in. (35.6 cm); of backplate H. 15 3/16 in. (38.5 cm); of sideplates H. 11 in. (28 cm); of whole cuirass W. 13 1/2 in. (34.3 cm); of whole cuirass D. 10 3/8 in. (26.5 cm); of whole cuirass Wt. 7 lb. 14 oz. (3566 g)",
+      "measurements": null,
+      "creditLine": "Bequest of George C. Stone, 1935",
+      "geographyType": "Country of Origin",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Armor Parts-Cuirasses",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-03-06T04:54:30Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/24182",
+      "tags": [
+        {
+          "term": "Arabic",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300387843",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q13955"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

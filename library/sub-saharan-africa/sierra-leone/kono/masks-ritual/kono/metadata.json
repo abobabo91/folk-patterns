@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1950-05-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1950-05-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1950-05-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1950.05.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Sierra Leone",
+      "ethnicity": "Kono",
+      "tradition": "Kono",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a classic Sowei helmet mask (glossy black wood, tiered neck rings, elaborate coiffure, small facial features) used by the Sande/Bundu women's society, a tradition shared among Sierra Leonean peoples including the Kono, so it fits the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "helmet mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "helmet mask",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sowei mask. Carved wooden helmet mask in form of human face, stained black. Small facial features, three parallel scarification marks on cheeks and three short lines radiating from outer corner of each eye. Elaborately carved ears. Three-lobed hairstyle with carved basketry-effect panels all round. Semi-circular projection at back of head with flower carved in centre. Two large carved horns curve around sides of head. Hairstyle surmounted by carved rectangular amulet with four projecting &#039;legs&#039;. Three neck rings; two continue to front. mask has short pedestal base pierced with small holes for attachment of black-dyed raffia fringe.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_12/953d0218_3501_4463_8926_a3c000d52ab1/preview_00556511_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4c8a0b901e78c93c67dc834a00573dcab024a5463302116ec4822b5dec5ac944",
+        "bytes": 47423,
+        "local_path": "library\\sub-saharan-africa\\sierra-leone\\kono\\masks-ritual\\kono\\images\\bm_E_Af1950_05_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T13:39:47.988718+00:00",
+    "raw": {
+      "title": "helmet mask",
+      "description": "Sowei mask. Carved wooden helmet mask in form of human face, stained black. Small facial features, three parallel scarification marks on cheeks and three short lines radiating from outer corner of each eye. Elaborately carved ears. Three-lobed hairstyle with carved basketry-effect panels all round. Semi-circular projection at back of head with flower carved in centre. Two large carved horns curve around sides of head. Hairstyle surmounted by carved rectangular amulet with four projecting &#039;legs&#039;. Three neck rings; two continue to front. mask has short pedestal base pierced with small holes for attachment of black-dyed raffia fringe.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_12/953d0218_3501_4463_8926_a3c000d52ab1/preview_00556511_001.jpg",
+      "production_ethnic_groups": [
+        "Kono"
+      ],
+      "production_ethnic_attribution": "Made by: Kono"
+    }
+  }
+]

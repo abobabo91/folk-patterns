@@ -1,0 +1,1552 @@
+[
+  {
+    "id": "europeana-15514_T_10374",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_T_10374",
+      "object_url": "https://www.europeana.eu/item/15514/T_10374?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Azeri (Iranian)",
+      "tradition": "Azerbaijani carpet",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A knotted wool rug with a central medallion in madder red, indigo, and cream, titled \"Tabriz carpet with medallion\" — Tabriz is a major Azeri-populated city in Iranian Azerbaijan, and this style of Persian medallion carpet is a well-known product of that weaving tradition.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1801-2000"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/t-10374_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "81a7aac6666e7d67264bcf00cb38e80a516629af7dbed95abf1ac82b7e2b4413",
+        "bytes": 295969,
+        "local_path": "library\\middle-east-north-africa\\iran\\azeri-iranian\\textile\\azerbaijani-carpet\\images\\eu_15514_T_10374.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:20.442412+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "en",
+        "eng",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "en",
+          "eng",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Tabriz carpet with medallion (vom Bearbeiter vergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300185756",
+        "http://data.europeana.eu/concept/2239",
+        "http://data.europeana.eu/concept/2130",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "tapetes"
+        },
+        {
+          "def": "Tapete"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "carpets"
+        },
+        {
+          "def": "Carpet"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "moquette"
+        },
+        {
+          "def": "Tapis"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "alfombra (mayor tamaño)"
+        },
+        {
+          "def": "Alfombra"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "vloerkleden"
+        },
+        {
+          "def": "Tapijt"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "Teppich"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "Ковёр"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Matto"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Мокет"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Kilimas"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Paklājs"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Tepih"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Szőnyeg"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Talna preproga"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Cairpéad"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Catifa"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Matta"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "Χαλί"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "Tappeto"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "Vaip"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Tapiz"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Koberec"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Dywan"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Gulvtæppe"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Covor"
+        },
+        {
+          "def": "Mătase"
+        },
+        {
+          "def": "Bumbac"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Bavlna"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Seide",
+          "Baumwollfaser",
+          "Teppich"
+        ],
+        "ru": [
+          "Хлопок",
+          "Ковёр",
+          "Шёлк"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Matto",
+          "Silkki"
+        ],
+        "pt": [
+          "Tapete",
+          "tapetes",
+          "Algodão",
+          "Fibra da seda"
+        ],
+        "bg": [
+          "Мокет",
+          "Коприна",
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė",
+          "Kilimas",
+          "Šilkas"
+        ],
+        "lv": [
+          "Kokvilna",
+          "Paklājs",
+          "Zīds"
+        ],
+        "hr": [
+          "Tepih",
+          "Svila",
+          "Pamuk"
+        ],
+        "fr": [
+          "Tapis",
+          "moquette",
+          "Coton",
+          "Soie"
+        ],
+        "hu": [
+          "Szőnyeg",
+          "Selyem",
+          "Pamut"
+        ],
+        "sk": [
+          "Hodváb",
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž",
+          "Svila",
+          "Talna preproga"
+        ],
+        "ga": [
+          "Cadás",
+          "Cairpéad",
+          "Síoda"
+        ],
+        "ca": [
+          "Seda",
+          "Cotó",
+          "Catifa"
+        ],
+        "sv": [
+          "Silke",
+          "Matta",
+          "Bomull"
+        ],
+        "el": [
+          "Μετάξι",
+          "Χαλί",
+          "Βαμβάκι"
+        ],
+        "en": [
+          "carpets",
+          "Silk",
+          "Carpet",
+          "Cotton"
+        ],
+        "it": [
+          "Tappeto",
+          "Seta",
+          "Cotone"
+        ],
+        "es": [
+          "Alfombra",
+          "Algodón",
+          "Seda",
+          "alfombra (mayor tamaño)"
+        ],
+        "et": [
+          "Puuvill",
+          "Siid",
+          "Vaip"
+        ],
+        "eu": [
+          "Zeta",
+          "Tapiz",
+          "Kotoi"
+        ],
+        "cs": [
+          "Bavlna",
+          "Koberec",
+          "Hedvábí"
+        ],
+        "pl": [
+          "Dywan",
+          "Bawełna",
+          "Jedwab"
+        ],
+        "da": [
+          "Silke",
+          "Bomuld",
+          "Gulvtæppe"
+        ],
+        "ro": [
+          "Mătase",
+          "Covor",
+          "Bumbac"
+        ],
+        "nl": [
+          "Tapijt",
+          "Katoen",
+          "vloerkleden",
+          "Zijde"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-99944"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/t-10374_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Täbriz"
+        },
+        {
+          "def": "Tabris"
+        },
+        {
+          "def": "Tauris"
+        },
+        {
+          "def": "Tavriz"
+        },
+        {
+          "def": "Tebriz"
+        },
+        {
+          "def": "Tabrīz"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "def": [
+          "Täbriz",
+          "Tabris",
+          "Tauris",
+          "Tavriz",
+          "Tebriz",
+          "Tabrīz"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Täbris"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "def": [
+          "Täbris"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Ft-10374_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1801-2000"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1801-2000"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/T_10374?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/T_10374",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/T_10374.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 104.42811,
+      "timestamp": 1752015743093,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)",
+        "Tabriz carpet with medallion (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_T_10375",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_T_10375",
+      "object_url": "https://www.europeana.eu/item/15514/T_10375?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Azeri (Iranian)",
+      "tradition": "Azerbaijani carpet",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a hand-knotted Tabriz medallion carpet with a central star medallion, floral field, and multiple guard borders—a classic Persian carpet type produced in Iran, consistent with Azeri (Iranian Turkic) weaving traditions of the Tabriz region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1801-2000"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/t-10375_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d7a0112900bac68c55a1d1f1b65bf58c1dda7fbd4c7ce004dfc90e14d4cb8909",
+        "bytes": 258807,
+        "local_path": "library\\middle-east-north-africa\\iran\\azeri-iranian\\textile\\azerbaijani-carpet\\images\\eu_15514_T_10375.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:20.446928+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "en",
+        "eng",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "en",
+          "eng",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Tabriz carpet with medallion (vom Bearbeiter vergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300185756",
+        "http://data.europeana.eu/concept/2239",
+        "http://data.europeana.eu/concept/2130",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "tapetes"
+        },
+        {
+          "def": "Tapete"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "carpets"
+        },
+        {
+          "def": "Carpet"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "moquette"
+        },
+        {
+          "def": "Tapis"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "alfombra (mayor tamaño)"
+        },
+        {
+          "def": "Alfombra"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "vloerkleden"
+        },
+        {
+          "def": "Tapijt"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "Teppich"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "Ковёр"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Matto"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Мокет"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Kilimas"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Paklājs"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Tepih"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Szőnyeg"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Talna preproga"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Cairpéad"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Catifa"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Matta"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "Χαλί"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "Tappeto"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "Vaip"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Tapiz"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Koberec"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Dywan"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Gulvtæppe"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Covor"
+        },
+        {
+          "def": "Mătase"
+        },
+        {
+          "def": "Bumbac"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Bavlna"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Seide",
+          "Baumwollfaser",
+          "Teppich"
+        ],
+        "ru": [
+          "Хлопок",
+          "Ковёр",
+          "Шёлк"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Matto",
+          "Silkki"
+        ],
+        "pt": [
+          "Tapete",
+          "tapetes",
+          "Algodão",
+          "Fibra da seda"
+        ],
+        "bg": [
+          "Мокет",
+          "Коприна",
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė",
+          "Kilimas",
+          "Šilkas"
+        ],
+        "lv": [
+          "Kokvilna",
+          "Paklājs",
+          "Zīds"
+        ],
+        "hr": [
+          "Tepih",
+          "Svila",
+          "Pamuk"
+        ],
+        "fr": [
+          "Tapis",
+          "moquette",
+          "Coton",
+          "Soie"
+        ],
+        "hu": [
+          "Szőnyeg",
+          "Selyem",
+          "Pamut"
+        ],
+        "sk": [
+          "Hodváb",
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž",
+          "Svila",
+          "Talna preproga"
+        ],
+        "ga": [
+          "Cadás",
+          "Cairpéad",
+          "Síoda"
+        ],
+        "ca": [
+          "Seda",
+          "Cotó",
+          "Catifa"
+        ],
+        "sv": [
+          "Silke",
+          "Matta",
+          "Bomull"
+        ],
+        "el": [
+          "Μετάξι",
+          "Χαλί",
+          "Βαμβάκι"
+        ],
+        "en": [
+          "carpets",
+          "Silk",
+          "Carpet",
+          "Cotton"
+        ],
+        "it": [
+          "Tappeto",
+          "Seta",
+          "Cotone"
+        ],
+        "es": [
+          "Alfombra",
+          "Algodón",
+          "Seda",
+          "alfombra (mayor tamaño)"
+        ],
+        "et": [
+          "Puuvill",
+          "Siid",
+          "Vaip"
+        ],
+        "eu": [
+          "Zeta",
+          "Tapiz",
+          "Kotoi"
+        ],
+        "cs": [
+          "Bavlna",
+          "Koberec",
+          "Hedvábí"
+        ],
+        "pl": [
+          "Dywan",
+          "Bawełna",
+          "Jedwab"
+        ],
+        "da": [
+          "Silke",
+          "Bomuld",
+          "Gulvtæppe"
+        ],
+        "ro": [
+          "Mătase",
+          "Covor",
+          "Bumbac"
+        ],
+        "nl": [
+          "Tapijt",
+          "Katoen",
+          "vloerkleden",
+          "Zijde"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-99945"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/t-10375_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Täbriz"
+        },
+        {
+          "def": "Tabris"
+        },
+        {
+          "def": "Tauris"
+        },
+        {
+          "def": "Tavriz"
+        },
+        {
+          "def": "Tebriz"
+        },
+        {
+          "def": "Tabrīz"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "def": [
+          "Täbriz",
+          "Tabris",
+          "Tauris",
+          "Tavriz",
+          "Tebriz",
+          "Tabrīz"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Täbris"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "def": [
+          "Täbris"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Ft-10375_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1801-2000"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1801-2000"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/T_10375?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/T_10375",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/T_10375.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 103.60512,
+      "timestamp": 1752015743203,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Täbris-Teppich mit Medaillon (vom Bearbeiter vergebener Titel)",
+        "Tabriz carpet with medallion (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

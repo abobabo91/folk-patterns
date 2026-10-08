@@ -1,0 +1,367 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1066956",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1066956",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1066956?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kongo",
+      "tradition": "Kongo Congo",
+      "art_form": "ceramic",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a conical shell (snail shell) filled with \"bilongo\" charged medicine, used as an nkisi (power object) in Kongo religious practice — a genuine ritual object made/used by the culture, though the material is shell, not fired clay.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "fetisch, snäcka, shell, fetish, nkisi",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2098239%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bb032707bea7835f61a35cb9fb4eaa3a7a71707bda9d2743b162f53865f94ddb",
+        "bytes": 16481,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kongo\\ceramic\\kongo-congo\\images\\eu_91619_SMVK_EM_objekt_1066956.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T06:58:19.801908+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "Koniskt formad snäcka med bilongo (kraftladdning). Vid spetsen har snäckan en ögla av metall. \"Fetisch i form av konisk snäcka fylld med \"magisk medicin\", enligt generalkatalogen.\n\nEn nkisi är en gåva från Nzambi, Den Högste Guden, och kan bl a skydda mot sjukdomar och annat ont. Det kan vara en kalebass, en påse, en barkask, en kruka eller ett snäckskal som tjänar som \"kropp\". Men det kan också vara en träskulptur på vilken \"medicin\", bilongo, fästs. Nkisi är invigd av ngangan, \"läkaren\", och är hemvist för en avliden ande. Utan medicinen är objektet oladdat och har inga krafter. (Widman, 1984, s 20 och MacGaffey, 1991, s 4-5).\n\n\"Fetischerna (nkisi) äro med afseende på form och utseende af flera slag. De tre allmännaste äro beläten eller statyetter af trä (teki), små sydda påsar (masalu) och snäckor (makodia). Sedan finnes det fetischer af allt möjligt, såsom pumpor, horn, kanoter, lergrytor, korgar, löf, fjädrar, ax, stenar m m, så snart det inviges af prästen.\"(Laman, 1907, s 39-40).HTB",
+        "Laman, Karl Edvard (1953-1968). The Kongo I-IV. London",
+        "Fristaten Kongo",
+        "Zaire",
+        "Kongofristaten",
+        "Demokratiska Republiken Kongo",
+        "Belgiska Kongo",
+        "Kongostaten",
+        "1919.01.0048",
+        "Laman, K. 1962. \"The Kongo 1-4\". Stockholm. \n\nMacgaffey, W.1991. \"Art and healing of the bakongo\". Stockholm.",
+        "MacGaffey, Wyatt, 1991. Art and healing of the Bakongo commented by themselves: minkisi from the Laman Collection. Monograph series, 16. Kikongo texts translated and edited by Wyatt MacGaffey; [illustrations: Amanda Jasmiin and Edit Lindén]. Stockholm: Folkens museum - etnografiska.",
+        "Laman, Karl Edvard (1953-1968). The Kongo I-IV. London",
+        "Fristaten Kongo",
+        "Zaire",
+        "Kongofristaten",
+        "Demokratiska Republiken Kongo",
+        "Belgiska Kongo",
+        "Kongostaten",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Laman, K. 1962. \"The Kongo 1-4\". Stockholm. \n\nMacgaffey, W.1991. \"Art and healing of the bakongo\". Stockholm.",
+        "MacGaffey, Wyatt, 1991. Art and healing of the Bakongo commented by themselves: minkisi from the Laman Collection. Monograph series, 16. Kikongo texts translated and edited by Wyatt MacGaffey; [illustrations: Amanda Jasmiin and Edit Lindén]. Stockholm: Folkens museum - etnografiska.",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "1919.01.0048"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Koniskt formad snäcka med bilongo (kraftladdning). Vid spetsen har snäckan en ögla av metall. \"Fetisch i form av konisk snäcka fylld med \"magisk medicin\", enligt generalkatalogen.\n\nEn nkisi är en gåva från Nzambi, Den Högste Guden, och kan bl a skydda mot sjukdomar och annat ont. Det kan vara en kalebass, en påse, en barkask, en kruka eller ett snäckskal som tjänar som \"kropp\". Men det kan också vara en träskulptur på vilken \"medicin\", bilongo, fästs. Nkisi är invigd av ngangan, \"läkaren\", och är hemvist för en avliden ande. Utan medicinen är objektet oladdat och har inga krafter. (Widman, 1984, s 20 och MacGaffey, 1991, s 4-5).\n\n\"Fetischerna (nkisi) äro med afseende på form och utseende af flera slag. De tre allmännaste äro beläten eller statyetter af trä (teki), små sydda påsar (masalu) och snäckor (makodia). Sedan finnes det fetischer af allt möjligt, såsom pumpor, horn, kanoter, lergrytor, korgar, löf, fjädrar, ax, stenar m m, så snart det inviges af prästen.\"(Laman, 1907, s 39-40).HTB",
+          "Laman, Karl Edvard (1953-1968). The Kongo I-IV. London",
+          "Fristaten Kongo",
+          "Zaire",
+          "Kongofristaten",
+          "Demokratiska Republiken Kongo",
+          "Belgiska Kongo",
+          "Kongostaten"
+        ],
+        "def": [
+          "1919.01.0048",
+          "Laman, K. 1962. \"The Kongo 1-4\". Stockholm. \n\nMacgaffey, W.1991. \"Art and healing of the bakongo\". Stockholm.",
+          "MacGaffey, Wyatt, 1991. Art and healing of the Bakongo commented by themselves: minkisi from the Laman Collection. Monograph series, 16. Kikongo texts translated and edited by Wyatt MacGaffey; [illustrations: Amanda Jasmiin and Edit Lindén]. Stockholm: Folkens museum - etnografiska.",
+          "Laman, Karl Edvard (1953-1968). The Kongo I-IV. London",
+          "Fristaten Kongo",
+          "Zaire",
+          "Kongofristaten",
+          "Demokratiska Republiken Kongo",
+          "Belgiska Kongo",
+          "Kongostaten",
+          "Republic of the Congo",
+          "Democratic Republic of the Congo"
+        ],
+        "en": [
+          "Laman, K. 1962. \"The Kongo 1-4\". Stockholm. \n\nMacgaffey, W.1991. \"Art and healing of the bakongo\". Stockholm.",
+          "MacGaffey, Wyatt, 1991. Art and healing of the Bakongo commented by themselves: minkisi from the Laman Collection. Monograph series, 16. Kikongo texts translated and edited by Wyatt MacGaffey; [illustrations: Amanda Jasmiin and Edit Lindén]. Stockholm: Folkens museum - etnografiska.",
+          "Republic of the Congo",
+          "Democratic Republic of the Congo"
+        ],
+        "zxx": [
+          "1919.01.0048"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "fetisch, snäcka, shell, fetish, nkisi"
+        ],
+        "en": [
+          "fetish, shells, fetish, nkisi"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1810"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Muschelschale"
+        },
+        {
+          "def": "Раковина"
+        },
+        {
+          "def": "Skal"
+        },
+        {
+          "def": "Concha"
+        },
+        {
+          "def": "Раковина"
+        },
+        {
+          "def": "Κοχύλι"
+        },
+        {
+          "def": "Kriauklė"
+        },
+        {
+          "def": "Seashell"
+        },
+        {
+          "def": "Čaula"
+        },
+        {
+          "def": "Conchiglia"
+        },
+        {
+          "def": "Coquille"
+        },
+        {
+          "def": "Concha"
+        },
+        {
+          "def": "Merikarp"
+        },
+        {
+          "def": "Schránka"
+        },
+        {
+          "def": "Maskor"
+        },
+        {
+          "def": "Schranka"
+        },
+        {
+          "def": "Lupina školjke"
+        },
+        {
+          "def": "Sliogán"
+        },
+        {
+          "def": "Muszla"
+        },
+        {
+          "def": "Scoică"
+        },
+        {
+          "def": "Konkylie"
+        },
+        {
+          "def": "Schelp"
+        },
+        {
+          "def": "Conquilla"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Muschelschale"
+        ],
+        "ru": [
+          "Раковина"
+        ],
+        "sv": [
+          "Skal"
+        ],
+        "pt": [
+          "Concha"
+        ],
+        "bg": [
+          "Раковина"
+        ],
+        "el": [
+          "Κοχύλι"
+        ],
+        "lt": [
+          "Kriauklė"
+        ],
+        "en": [
+          "Seashell"
+        ],
+        "lv": [
+          "Čaula"
+        ],
+        "it": [
+          "Conchiglia"
+        ],
+        "fr": [
+          "Coquille"
+        ],
+        "es": [
+          "Concha"
+        ],
+        "et": [
+          "Merikarp"
+        ],
+        "cs": [
+          "Schránka"
+        ],
+        "eu": [
+          "Maskor"
+        ],
+        "sk": [
+          "Schranka"
+        ],
+        "sl": [
+          "Lupina školjke"
+        ],
+        "ga": [
+          "Sliogán"
+        ],
+        "pl": [
+          "Muszla"
+        ],
+        "ro": [
+          "Scoică"
+        ],
+        "da": [
+          "Konkylie"
+        ],
+        "nl": [
+          "Schelp"
+        ],
+        "ca": [
+          "Conquilla"
+        ]
+      },
+      "edmDatasetName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/1066956"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/2098239/image.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2098239%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1066956?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91619/SMVK_EM_objekt_1066956",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91619/SMVK_EM_objekt_1066956.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 17.763165,
+      "timestamp": 1752047006500,
+      "timestamp_created": "2014-08-27T14:55:42.047Z",
+      "timestamp_created_epoch": 1409151342047,
+      "timestamp_update": "2022-09-14T08:55:33.471Z",
+      "timestamp_update_epoch": 1663145733471,
+      "title": [
+        "fetisch, snäcka, shell, fetish, nkisi",
+        "fetish, shells, fetish, nkisi"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

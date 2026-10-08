@@ -1,0 +1,3039 @@
+[
+  {
+    "id": "europeana-2021009__2DA6744D1D9AA44CA6C3597DDD95DDB7",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__2DA6744D1D9AA44CA6C3597DDD95DDB7",
+      "object_url": "https://www.europeana.eu/item/2021009/_2DA6744D1D9AA44CA6C3597DDD95DDB7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows two women with elaborately styled hair (one with long twisted/plaited extensions reaching to the waist, coated in ochre paste typical of Himba/Herero hairstyling), traditional skirts, and metal arm/leg bangles, standing against an earthen wall — a documentary photograph of dress and hairstyling practice consistent with Himba/Herero culture in Namibia.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "photo",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Kaksi Himba-naista esittelee hiuksiaan",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1047181%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ee3d94d59333b3018335021ea06841258761e42305650b1b41d2235747a7ee21",
+        "bytes": 182955,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__2DA6744D1D9AA44CA6C3597DDD95DDB7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.737960+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcTitleLangAware": {
+        "fi": [
+          "Kaksi Himba-naista esittelee hiuksiaan"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.2DA6744D1D9AA44CA6C3597DDD95DDB7?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1047181&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1047181%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/2021009/_2DA6744D1D9AA44CA6C3597DDD95DDB7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_2DA6744D1D9AA44CA6C3597DDD95DDB7",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_2DA6744D1D9AA44CA6C3597DDD95DDB7.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 111.448845,
+      "timestamp": 1751994813771,
+      "timestamp_created": "2019-09-09T13:30:48.514Z",
+      "timestamp_created_epoch": 1568035848514,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Kaksi Himba-naista esittelee hiuksiaan"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__7BF158AB3F07EF6BD19977DA3CFC48D7",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__7BF158AB3F07EF6BD19977DA3CFC48D7",
+      "object_url": "https://www.europeana.eu/item/2021009/_7BF158AB3F07EF6BD19977DA3CFC48D7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Portrait of a young Himba woman wearing traditional beaded headdress, chin ornament, and multiple beaded necklaces (title \"Himba-morsian\" means \"Himba bride\" in Finnish), a clear documentary photo of Himba dress and adornment.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-morsian",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1044698%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "792c94631fda0f2714f2896637b643403490a169c5203dc0db1342065b260f0c",
+        "bytes": 150474,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2021009__7BF158AB3F07EF6BD19977DA3CFC48D7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.907454+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-morsian"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.7BF158AB3F07EF6BD19977DA3CFC48D7?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1044698&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1044698%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_7BF158AB3F07EF6BD19977DA3CFC48D7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_7BF158AB3F07EF6BD19977DA3CFC48D7",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_7BF158AB3F07EF6BD19977DA3CFC48D7.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 127.906906,
+      "timestamp": 1751995290249,
+      "timestamp_created": "2019-09-09T13:24:08.478Z",
+      "timestamp_created_epoch": 1568035448478,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-morsian"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-916106_vbg_object_VM04046",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Vänersborgs museum",
+      "object_id": "916106_vbg_object_VM04046",
+      "object_url": "https://www.europeana.eu/item/916106/vbg_object_VM04046?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a beaded necklace with an oval iron/leather ornament, a traditional adornment type documented as Herero work; Himba and Herero are closely related neighbouring Namibian peoples whose material culture overlaps, so this plausibly belongs to the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "JÄRNPRYDNAD -Herero",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Vänersborgs museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmm.dimu.org%2Fimage%2F012uL2XHCoGU%3Fdimension%3D1200x1200&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "88ce14c0c08d6ad459c7cd70e9102fde7131c2c661810a440d0e768df9898abe",
+        "bytes": 114367,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_916106_vbg_object_VM04046.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:47.203970+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Vänersborgs museum"
+      ],
+      "dcDescription": [
+        "Järnpärlprydnad av Hererotyp, det ovala partiets bredd 11 cm.\n\nHar troligen förts till Sverige av de Vänersborgare (Axel Eriksson, Carl Eriksson, Albert Eriksson, Reinhold Eriksson,Axel Vedberg eller Oscar Nyberg) som under 1870-1920 vistades i Sydvästafrika (Namibia).\n\nHar i VM katalogiserats som 4046: Diadem, läder, plåtbeslag. Herero.  Inköpt 1913 från Th. Langer\n\nSe även Baumann, etc. Völkerkunde um Afrika. P. 100 Abb. 37. och V. Lebzelten: Eingebor... Kulturen von Südwest- und Südafrika. 1934. Tafel XXIV: 5,6. ''Eisenschmuck der Herero''."
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Järnpärlprydnad av Hererotyp, det ovala partiets bredd 11 cm.\n\nHar troligen förts till Sverige av de Vänersborgare (Axel Eriksson, Carl Eriksson, Albert Eriksson, Reinhold Eriksson,Axel Vedberg eller Oscar Nyberg) som under 1870-1920 vistades i Sydvästafrika (Namibia).\n\nHar i VM katalogiserats som 4046: Diadem, läder, plåtbeslag. Herero.  Inköpt 1913 från Th. Langer\n\nSe även Baumann, etc. Völkerkunde um Afrika. P. 100 Abb. 37. och V. Lebzelten: Eingebor... Kulturen von Südwest- und Südafrika. 1934. Tafel XXIV: 5,6. ''Eisenschmuck der Herero''."
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "JÄRNPRYDNAD -Herero"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/41",
+        "http://data.europeana.eu/concept/1766",
+        "http://data.europeana.eu/concept/1767"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Schmuck"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Eisen"
+        },
+        {
+          "def": "Ювелирные изделия"
+        },
+        {
+          "def": "Металл"
+        },
+        {
+          "def": "Железо"
+        },
+        {
+          "def": "Koru"
+        },
+        {
+          "def": "Metalli"
+        },
+        {
+          "def": "Rauta"
+        },
+        {
+          "def": "Joalharia"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Ferro"
+        },
+        {
+          "def": "Бижутерия"
+        },
+        {
+          "def": "Метал"
+        },
+        {
+          "def": "Желязо"
+        },
+        {
+          "def": "Papuošalas"
+        },
+        {
+          "def": "Metalai"
+        },
+        {
+          "def": "Geležis"
+        },
+        {
+          "def": "Nakit"
+        },
+        {
+          "def": "Kovine"
+        },
+        {
+          "def": "Željezo"
+        },
+        {
+          "def": "Juvelierdarbs"
+        },
+        {
+          "def": "Metāls"
+        },
+        {
+          "def": "Dzelzs"
+        },
+        {
+          "def": "Joaillerie"
+        },
+        {
+          "def": "Métal"
+        },
+        {
+          "def": "Fer"
+        },
+        {
+          "def": "Ékszer"
+        },
+        {
+          "def": "Fém"
+        },
+        {
+          "def": "Vas"
+        },
+        {
+          "def": "Šperk"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Železo"
+        },
+        {
+          "def": "Nakit"
+        },
+        {
+          "def": "Kovina"
+        },
+        {
+          "def": "Železo"
+        },
+        {
+          "def": "Seodóireacht"
+        },
+        {
+          "def": "Miotal"
+        },
+        {
+          "def": "Iarann"
+        },
+        {
+          "def": "Joieria"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Ferro"
+        },
+        {
+          "def": "Smycken"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Järn"
+        },
+        {
+          "def": "Κόσμημα"
+        },
+        {
+          "def": "Μέταλλο"
+        },
+        {
+          "def": "Σίδηρος"
+        },
+        {
+          "def": "Jewelry"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Iron"
+        },
+        {
+          "def": "Gioielleria"
+        },
+        {
+          "def": "Metallo"
+        },
+        {
+          "def": "Ferro"
+        },
+        {
+          "def": "Joyería"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Hierro"
+        },
+        {
+          "def": "Šperk"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Železo"
+        },
+        {
+          "def": "Bitxigintza"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Burdina"
+        },
+        {
+          "def": "Jubilerstwo"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Żelazo"
+        },
+        {
+          "def": "Smykke"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Jern"
+        },
+        {
+          "def": "Bijuterie"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Fier"
+        },
+        {
+          "def": "Sieraad"
+        },
+        {
+          "def": "Metaal"
+        },
+        {
+          "def": "Ijzer"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Raud"
+        },
+        {
+          "def": "Ħadid"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Eisen",
+          "Schmuck",
+          "Metall"
+        ],
+        "ru": [
+          "Железо",
+          "Металл",
+          "Ювелирные изделия"
+        ],
+        "fi": [
+          "Rauta",
+          "Koru",
+          "Metalli"
+        ],
+        "pt": [
+          "Joalharia",
+          "Ferro",
+          "Metal"
+        ],
+        "bg": [
+          "Метал",
+          "Желязо",
+          "Бижутерия"
+        ],
+        "lt": [
+          "Papuošalas",
+          "Metalai",
+          "Geležis"
+        ],
+        "hr": [
+          "Kovine",
+          "Željezo",
+          "Nakit"
+        ],
+        "lv": [
+          "Metāls",
+          "Dzelzs",
+          "Juvelierdarbs"
+        ],
+        "fr": [
+          "Joaillerie",
+          "Fer",
+          "Métal"
+        ],
+        "hu": [
+          "Vas",
+          "Fém",
+          "Ékszer"
+        ],
+        "sk": [
+          "Kov",
+          "Šperk",
+          "Železo"
+        ],
+        "sl": [
+          "Kovina",
+          "Nakit",
+          "Železo"
+        ],
+        "ga": [
+          "Seodóireacht",
+          "Iarann",
+          "Miotal"
+        ],
+        "ca": [
+          "Joieria",
+          "Ferro",
+          "Metall"
+        ],
+        "sv": [
+          "Järn",
+          "Smycken",
+          "Metall"
+        ],
+        "el": [
+          "Σίδηρος",
+          "Κόσμημα",
+          "Μέταλλο"
+        ],
+        "mt": [
+          "Ħadid"
+        ],
+        "en": [
+          "Jewelry",
+          "Iron",
+          "Metal"
+        ],
+        "it": [
+          "Metallo",
+          "Gioielleria",
+          "Ferro"
+        ],
+        "es": [
+          "Joyería",
+          "Metal",
+          "Hierro"
+        ],
+        "et": [
+          "Raud",
+          "Metall"
+        ],
+        "cs": [
+          "Kov",
+          "Šperk",
+          "Železo"
+        ],
+        "eu": [
+          "Burdina",
+          "Metal",
+          "Bitxigintza"
+        ],
+        "pl": [
+          "Jubilerstwo",
+          "Żelazo",
+          "Metal"
+        ],
+        "da": [
+          "Jern",
+          "Metal",
+          "Smykke"
+        ],
+        "ro": [
+          "Fier",
+          "Bijuterie",
+          "Metal"
+        ],
+        "nl": [
+          "Ijzer",
+          "Sieraad",
+          "Metaal"
+        ]
+      },
+      "edmDatasetName": [
+        "916106_Ag_SE_SwedishNationalHeritage_va_vbg"
+      ],
+      "edmIsShownAt": [
+        "http://digitaltmuseum.se/011025114507"
+      ],
+      "edmIsShownBy": [
+        "http://mm.dimu.org/image/012uL2XHCoGU?dimension=1200x1200"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Republik Namibia"
+        },
+        {
+          "def": "Республика Намибия"
+        },
+        {
+          "def": "Юго-Западная Африка"
+        },
+        {
+          "def": "Namibian tasavalta"
+        },
+        {
+          "def": "Republiken Namibia"
+        },
+        {
+          "def": "República da Namíbia"
+        },
+        {
+          "def": "na"
+        },
+        {
+          "def": "NAM"
+        },
+        {
+          "def": "Repubblika tan-Namibja"
+        },
+        {
+          "def": "Republic of Namibia"
+        },
+        {
+          "def": "na"
+        },
+        {
+          "def": "NAM"
+        },
+        {
+          "def": "République de Namibie"
+        },
+        {
+          "def": "NA"
+        },
+        {
+          "def": "La République de Namibie"
+        },
+        {
+          "def": "Délnyugat-Afrika"
+        },
+        {
+          "def": "Namíbiai Köztársaság"
+        },
+        {
+          "def": "República de Namibia"
+        },
+        {
+          "def": "Republica de Namibia"
+        },
+        {
+          "def": "Namiibia Vabariik"
+        },
+        {
+          "def": "Namíbijská republika"
+        },
+        {
+          "def": "Namibie"
+        },
+        {
+          "def": "NA"
+        },
+        {
+          "def": "NAM"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Republik Namibia"
+        ],
+        "ru": [
+          "Республика Намибия",
+          "Юго-Западная Африка"
+        ],
+        "fi": [
+          "Namibian tasavalta"
+        ],
+        "sv": [
+          "Republiken Namibia"
+        ],
+        "pt": [
+          "República da Namíbia",
+          "na",
+          "NAM"
+        ],
+        "mt": [
+          "Repubblika tan-Namibja"
+        ],
+        "en": [
+          "Republic of Namibia",
+          "na",
+          "NAM"
+        ],
+        "fr": [
+          "République de Namibie",
+          "NA",
+          "La République de Namibie"
+        ],
+        "hu": [
+          "Délnyugat-Afrika",
+          "Namíbiai Köztársaság"
+        ],
+        "es": [
+          "República de Namibia",
+          "Republica de Namibia"
+        ],
+        "et": [
+          "Namiibia Vabariik"
+        ],
+        "sk": [
+          "Namíbijská republika"
+        ],
+        "nl": [
+          "Namibie",
+          "NA",
+          "NAM"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Намибия"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namíbia"
+        },
+        {
+          "def": "Намибия"
+        },
+        {
+          "def": "Namibija"
+        },
+        {
+          "def": "Namibija"
+        },
+        {
+          "def": "Namībija"
+        },
+        {
+          "def": "Namibie"
+        },
+        {
+          "def": "Namíbia"
+        },
+        {
+          "def": "Namíbia"
+        },
+        {
+          "def": "Namibija"
+        },
+        {
+          "def": "An Namaib"
+        },
+        {
+          "def": "Namíbia"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Ναμίμπια"
+        },
+        {
+          "def": "Namibja"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namiibia"
+        },
+        {
+          "def": "Namibie"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namibia"
+        },
+        {
+          "def": "Namibië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Namibia"
+        ],
+        "ru": [
+          "Намибия"
+        ],
+        "fi": [
+          "Namibia"
+        ],
+        "pt": [
+          "Namíbia"
+        ],
+        "bg": [
+          "Намибия"
+        ],
+        "lt": [
+          "Namibija"
+        ],
+        "hr": [
+          "Namibija"
+        ],
+        "lv": [
+          "Namībija"
+        ],
+        "fr": [
+          "Namibie"
+        ],
+        "hu": [
+          "Namíbia"
+        ],
+        "sk": [
+          "Namíbia"
+        ],
+        "sl": [
+          "Namibija"
+        ],
+        "ga": [
+          "An Namaib"
+        ],
+        "ca": [
+          "Namíbia"
+        ],
+        "sv": [
+          "Namibia"
+        ],
+        "el": [
+          "Ναμίμπια"
+        ],
+        "mt": [
+          "Namibja"
+        ],
+        "en": [
+          "Namibia"
+        ],
+        "it": [
+          "Namibia"
+        ],
+        "es": [
+          "Namibia"
+        ],
+        "et": [
+          "Namiibia"
+        ],
+        "cs": [
+          "Namibie"
+        ],
+        "eu": [
+          "Namibia"
+        ],
+        "pl": [
+          "Namibia"
+        ],
+        "da": [
+          "Namibia"
+        ],
+        "ro": [
+          "Namibia"
+        ],
+        "nl": [
+          "Namibië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-23.0"
+      ],
+      "edmPlaceLongitude": [
+        "17.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmm.dimu.org%2Fimage%2F012uL2XHCoGU%3Fdimension%3D1200x1200&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "916106_Ag_SE_SwedishNationalHeritage_va_vbg"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/916106/vbg_object_VM04046?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/916106/vbg_object_VM04046",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/916106/vbg_object_VM04046.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 129.68942,
+      "timestamp": 1752041263389,
+      "timestamp_created": "2015-01-27T13:21:12.002Z",
+      "timestamp_created_epoch": 1422364872002,
+      "timestamp_update": "2019-12-14T01:54:47.009Z",
+      "timestamp_update_epoch": 1576288487009,
+      "title": [
+        "JÄRNPRYDNAD -Herero"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-1570_item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "State and University Library Bremen",
+      "object_id": "1570_item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV",
+      "object_url": "https://www.europeana.eu/item/1570/item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is the title page of a scanned book of photographs from German Southwest Africa (Herero and Nama lands, 1896/97), showing only text, not any image of Himba (or Herero/Nama) people, objects, or dress.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Deutsch-Südwest-Afrika : 96 Lichtdrucke nach Photographien aus dem Herero- und Nama-Lande",
+      "titles_alt": [],
+      "date_text": "1898",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "State and University Library Bremen",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbrema.suub.uni-bremen.de%2Fdsdk%2Fdownload%2Fwebcache%2F1000%2F1962885&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1bb92e10cdede0fc36a157c93288782cd53d175ef3eee2c8b3b52a1e28817549",
+        "bytes": 11512,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_1570_item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:47.229364+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "State and University Library Bremen"
+      ],
+      "dcCreator": [
+        "https://d-nb.info/gnd/11752140X"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "https://d-nb.info/gnd/11752140X"
+        ]
+      },
+      "dcDescription": [
+        "statement of responsibility: aufgenommen von Th. Rehbock während einer Forschungsreise 1896/97"
+      ],
+      "dcDescriptionLangAware": {
+        "zxx": [
+          "statement of responsibility: aufgenommen von Th. Rehbock während einer Forschungsreise 1896/97"
+        ]
+      },
+      "dcLanguage": [
+        "de",
+        "ger"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "ger"
+        ]
+      },
+      "dcTitleLangAware": {
+        "zxx": [
+          "Deutsch-Südwest-Afrika : 96 Lichtdrucke nach Photographien aus dem Herero- und Nama-Lande"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q193495",
+        "http://data.europeana.eu/concept/2841"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "монография"
+        },
+        {
+          "def": "Монография"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "монография"
+        },
+        {
+          "def": "Монография"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "monogrāfija"
+        },
+        {
+          "def": "Monogrāfija"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "monographie"
+        },
+        {
+          "def": "Monographie"
+        },
+        {
+          "def": "monográfia"
+        },
+        {
+          "def": "Monográfia"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "monografija"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "monagraf"
+        },
+        {
+          "def": "Monagraf"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "monografi"
+        },
+        {
+          "def": "Monografi"
+        },
+        {
+          "def": "Μονογραφία"
+        },
+        {
+          "def": "Μονογραφία"
+        },
+        {
+          "def": "monograph"
+        },
+        {
+          "def": "Monograph"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "monografía"
+        },
+        {
+          "def": "Monografía"
+        },
+        {
+          "def": "Monograafia"
+        },
+        {
+          "def": "Monograafia"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "monografie"
+        },
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "monografi"
+        },
+        {
+          "def": "Monografi"
+        },
+        {
+          "def": "monografie"
+        },
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "monografie"
+        },
+        {
+          "def": "Monografie"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Monografie"
+        ],
+        "fi": [
+          "Monografia",
+          "monografia"
+        ],
+        "ru": [
+          "Монография",
+          "монография"
+        ],
+        "pt": [
+          "Monografia",
+          "monografia"
+        ],
+        "bg": [
+          "Монография",
+          "монография"
+        ],
+        "lt": [
+          "Monografija"
+        ],
+        "lv": [
+          "Monogrāfija",
+          "monogrāfija"
+        ],
+        "hr": [
+          "Monografija"
+        ],
+        "fr": [
+          "Monographie",
+          "monographie"
+        ],
+        "hu": [
+          "Monográfia",
+          "monográfia"
+        ],
+        "sk": [
+          "Monografia",
+          "monografia"
+        ],
+        "sl": [
+          "Monografija",
+          "monografija"
+        ],
+        "ga": [
+          "monagraf",
+          "Monagraf"
+        ],
+        "ca": [
+          "Monografia",
+          "monografia"
+        ],
+        "sv": [
+          "Monografi",
+          "monografi"
+        ],
+        "el": [
+          "Μονογραφία"
+        ],
+        "en": [
+          "Monograph",
+          "monograph"
+        ],
+        "it": [
+          "Monografia",
+          "monografia"
+        ],
+        "es": [
+          "Monografía",
+          "monografía"
+        ],
+        "et": [
+          "Monograafia"
+        ],
+        "eu": [
+          "Monografia",
+          "monografia"
+        ],
+        "cs": [
+          "Monografie",
+          "monografie"
+        ],
+        "pl": [
+          "Monografia",
+          "monografia"
+        ],
+        "da": [
+          "Monografi",
+          "monografi"
+        ],
+        "ro": [
+          "Monografie",
+          "monografie"
+        ],
+        "nl": [
+          "Monografie",
+          "monografie"
+        ]
+      },
+      "edmDatasetName": [
+        "1570_DDB_Staats_und_Universitatsbibliothek"
+      ],
+      "edmIsShownAt": [
+        "https://brema.suub.uni-bremen.de/dsdk/id/1962873"
+      ],
+      "edmIsShownBy": [
+        "https://brema.suub.uni-bremen.de/dsdk/download/webcache/1000/1962885"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Namibia"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Namibia"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbrema.suub.uni-bremen.de%2Fdsdk%2Fdownload%2Fwebcache%2F1000%2F1962885&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1898"
+        },
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://data.bnf.fr/ark:/12148/cb11975999w"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1037841"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "zxx": [
+          "1898"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "1570_DDB_Staats_und_Universitatsbibliothek"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/1570/item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1570/item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/1570/item_ZN43V7ZBXBTQC7LGGOF7QFZFDJBKNVPV.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 74.78893,
+      "timestamp": 1781606932083,
+      "timestamp_created": "2026-06-16T10:48:44.719Z",
+      "timestamp_created_epoch": 1781606924719,
+      "timestamp_update": "2026-06-16T10:48:44.719Z",
+      "timestamp_update_epoch": 1781606924719,
+      "title": [
+        "Deutsch-Südwest-Afrika : 96 Lichtdrucke nach Photographien aus dem Herero- und Nama-Lande"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1898"
+      ]
+    }
+  },
+  {
+    "id": "europeana-1488_item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Bavarian State Library",
+      "object_id": "1488_item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2",
+      "object_url": "https://www.europeana.eu/item/1488/item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned book series page (list of publications on genocide studies) about German colonial literature and the Herero genocide, with no depicted people, objects, or dress at all, let alone Himba material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Vernichtung der Herero : Diskurse der Gewalt in der deutschen Kolonialliteratur",
+      "titles_alt": [],
+      "date_text": "2007",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Bavarian State Library",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdaten.digitale-sammlungen.de%2F%7Ede%2F0006%2Fbsb00064616%2Fimages%2Fbsb00064616_00001.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "083ef67989f0ae5e969249331b94ef9ed31099f48de172a66b388960a2577713",
+        "bytes": 155455,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_1488_item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:47.343341+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Bavarian State Library"
+      ],
+      "dcCreator": [
+        "https://d-nb.info/gnd/124886817"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "https://d-nb.info/gnd/124886817"
+        ]
+      },
+      "dcDescription": [
+        "Zugl.: Bochum, Univ., Diss., 2006",
+        "Ill."
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Zugl.: Bochum, Univ., Diss., 2006",
+          "Ill."
+        ]
+      },
+      "dcLanguage": [
+        "de",
+        "ger"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "ger"
+        ]
+      },
+      "dcTitleLangAware": {
+        "zxx": [
+          "Vernichtung der Herero : Diskurse der Gewalt in der deutschen Kolonialliteratur"
+        ]
+      },
+      "edmConcept": [
+        "https://d-nb.info/gnd/4113748-6",
+        "https://d-nb.info/gnd/4113937-9",
+        "http://data.europeana.eu/concept/79"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gewalt <Motiv>"
+        },
+        {
+          "def": "Hochschulschrift"
+        },
+        {
+          "def": "Geschichte"
+        },
+        {
+          "def": "История"
+        },
+        {
+          "def": "Historia"
+        },
+        {
+          "def": "História"
+        },
+        {
+          "def": "История"
+        },
+        {
+          "def": "Istorija"
+        },
+        {
+          "def": "Vēsture"
+        },
+        {
+          "def": "Povijest"
+        },
+        {
+          "def": "Histoire"
+        },
+        {
+          "def": "Történelem"
+        },
+        {
+          "def": "Dejiny"
+        },
+        {
+          "def": "Zgodovina"
+        },
+        {
+          "def": "Stair"
+        },
+        {
+          "def": "Història"
+        },
+        {
+          "def": "Historia"
+        },
+        {
+          "def": "Storja"
+        },
+        {
+          "def": "Ιστορία"
+        },
+        {
+          "def": "History"
+        },
+        {
+          "def": "Storia"
+        },
+        {
+          "def": "Historia"
+        },
+        {
+          "def": "Ajalugu"
+        },
+        {
+          "def": "Historia"
+        },
+        {
+          "def": "Dějiny"
+        },
+        {
+          "def": "Historia"
+        },
+        {
+          "def": "Istorie"
+        },
+        {
+          "def": "Historie"
+        },
+        {
+          "def": "Geschiedenis"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Hochschulschrift",
+          "Geschichte",
+          "Gewalt <Motiv>"
+        ],
+        "ru": [
+          "История"
+        ],
+        "fi": [
+          "Historia"
+        ],
+        "pt": [
+          "História"
+        ],
+        "bg": [
+          "История"
+        ],
+        "lt": [
+          "Istorija"
+        ],
+        "lv": [
+          "Vēsture"
+        ],
+        "hr": [
+          "Povijest"
+        ],
+        "fr": [
+          "Histoire"
+        ],
+        "hu": [
+          "Történelem"
+        ],
+        "sk": [
+          "Dejiny"
+        ],
+        "sl": [
+          "Zgodovina"
+        ],
+        "ga": [
+          "Stair"
+        ],
+        "ca": [
+          "Història"
+        ],
+        "sv": [
+          "Historia"
+        ],
+        "mt": [
+          "Storja"
+        ],
+        "el": [
+          "Ιστορία"
+        ],
+        "en": [
+          "History"
+        ],
+        "it": [
+          "Storia"
+        ],
+        "es": [
+          "Historia"
+        ],
+        "et": [
+          "Ajalugu"
+        ],
+        "eu": [
+          "Historia"
+        ],
+        "cs": [
+          "Dějiny"
+        ],
+        "pl": [
+          "Historia"
+        ],
+        "ro": [
+          "Istorie"
+        ],
+        "da": [
+          "Historie"
+        ],
+        "nl": [
+          "Geschiedenis"
+        ]
+      },
+      "edmDatasetName": [
+        "1488_DDB_BayerischeStaatsbibliothek_II"
+      ],
+      "edmIsShownAt": [
+        "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00064616-2"
+      ],
+      "edmIsShownBy": [
+        "http://daten.digitale-sammlungen.de/~de/0006/bsb00064616/images/bsb00064616_00001.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdaten.digitale-sammlungen.de%2F%7Ede%2F0006%2Fbsb00064616%2Fimages%2Fbsb00064616_00001.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2007"
+        },
+        {
+          "def": "21. Jahrhundert"
+        },
+        {
+          "def": "XXI век"
+        },
+        {
+          "def": "2000-luku"
+        },
+        {
+          "def": "Século XXI"
+        },
+        {
+          "def": "21 век"
+        },
+        {
+          "def": "XXI amžius"
+        },
+        {
+          "def": "21. gadsimts"
+        },
+        {
+          "def": "21. stoljeće"
+        },
+        {
+          "def": "XXIe siècle"
+        },
+        {
+          "def": "21. század"
+        },
+        {
+          "def": "21. storočie"
+        },
+        {
+          "def": "21. stoletje"
+        },
+        {
+          "def": "21ú haois"
+        },
+        {
+          "def": "Segle XXI"
+        },
+        {
+          "def": "2000-talet"
+        },
+        {
+          "def": "21ος αιώνας"
+        },
+        {
+          "def": "21st century"
+        },
+        {
+          "def": "XXI secolo"
+        },
+        {
+          "def": "Siglo XXI"
+        },
+        {
+          "def": "21. sajand"
+        },
+        {
+          "def": "XXI. mendea"
+        },
+        {
+          "def": "21. století"
+        },
+        {
+          "def": "XXI wiek"
+        },
+        {
+          "def": "Secolul al XXI-lea"
+        },
+        {
+          "def": "21. århundrede"
+        },
+        {
+          "def": "21e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6939"
+        },
+        {
+          "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139024"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012478"
+        },
+        {
+          "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049674"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b43"
+        },
+        {
+          "def": "https://g.co/kg/m/08b43"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404515"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159816"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s01157225n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/21st_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "21. Jahrhundert"
+        ],
+        "ru": [
+          "XXI век"
+        ],
+        "fi": [
+          "2000-luku"
+        ],
+        "pt": [
+          "Século XXI"
+        ],
+        "bg": [
+          "21 век"
+        ],
+        "lt": [
+          "XXI amžius"
+        ],
+        "lv": [
+          "21. gadsimts"
+        ],
+        "hr": [
+          "21. stoljeće"
+        ],
+        "fr": [
+          "XXIe siècle"
+        ],
+        "hu": [
+          "21. század"
+        ],
+        "sk": [
+          "21. storočie"
+        ],
+        "sl": [
+          "21. stoletje"
+        ],
+        "ga": [
+          "21ú haois"
+        ],
+        "ca": [
+          "Segle XXI"
+        ],
+        "sv": [
+          "2000-talet"
+        ],
+        "el": [
+          "21ος αιώνας"
+        ],
+        "en": [
+          "21st century"
+        ],
+        "it": [
+          "XXI secolo"
+        ],
+        "es": [
+          "Siglo XXI"
+        ],
+        "et": [
+          "21. sajand"
+        ],
+        "eu": [
+          "XXI. mendea"
+        ],
+        "cs": [
+          "21. století"
+        ],
+        "zxx": [
+          "2007"
+        ],
+        "pl": [
+          "XXI wiek"
+        ],
+        "ro": [
+          "Secolul al XXI-lea"
+        ],
+        "da": [
+          "21. århundrede"
+        ],
+        "nl": [
+          "21e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "1488_DDB_BayerischeStaatsbibliothek_II"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/1488/item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1488/item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/1488/item_N757CD2DQACTVPFGI3FYREXGNSG4JFC2.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 82.99951,
+      "timestamp": 1774992478816,
+      "timestamp_created": "2026-03-31T12:54:00.668Z",
+      "timestamp_created_epoch": 1774961640668,
+      "timestamp_update": "2026-03-31T12:54:00.668Z",
+      "timestamp_update_epoch": 1774961640668,
+      "title": [
+        "Vernichtung der Herero : Diskurse der Gewalt in der deutschen Kolonialliteratur"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2007"
+      ]
+    }
+  },
+  {
+    "id": "europeana-2022079_11088_de_bo133_170843",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Library of the Friedrich Ebert Foundation",
+      "object_id": "2022079_11088_de_bo133_170843",
+      "object_url": "https://www.europeana.eu/item/2022079/11088_de_bo133_170843?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image is a scanned text page from a German-language academic publication about postcolonial memory landscapes in Namibia (Herero/German colonial history), not a photograph or object of Himba material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Postkoloniale Erinnerungslandschaften",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Library of the Friedrich Ebert Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fhdl.handle.net%2F11088%2Fde-bo133%3Adoc%3A170843&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a24c4da260eccec06cdbe0f67b402fa10c8a03d3d2c30541294ec89057d026ae",
+        "bytes": 222930,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\unclassified\\himba-namibia\\images\\eu_2022079_11088_de_bo133_170843.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:47.966785+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Library of the Friedrich Ebert Foundation"
+      ],
+      "dcLanguage": [
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Postkoloniale Erinnerungslandschaften"
+        ],
+        "def": [
+          "Postkoloniale Erinnerungslandschaften"
+        ]
+      },
+      "edmDatasetName": [
+        "2022079_Ag_EU_HOPE_FESDigBib"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/11088/de-bo133:170843#1"
+      ],
+      "edmIsShownBy": [
+        "http://hdl.handle.net/11088/de-bo133:doc:170843"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fhdl.handle.net%2F11088%2Fde-bo133%3Adoc%3A170843&type=TEXT"
+      ],
+      "europeanaCollectionName": [
+        "2022079_Ag_EU_HOPE_FESDigBib"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2022079/11088_de_bo133_170843?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2022079/11088_de_bo133_170843",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/2022079/11088_de_bo133_170843.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Heritage of the People's Europe"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 133.88995,
+      "timestamp": 1752069100633,
+      "timestamp_created": "1970-01-01T00:00:00.000Z",
+      "timestamp_created_epoch": 0,
+      "timestamp_update": "1970-01-01T00:00:00.000Z",
+      "timestamp_update_epoch": 0,
+      "title": [
+        "Postkoloniale Erinnerungslandschaften",
+        "wie Deutsche und Herero in Namibia des Kriegs von 1904 gedenken",
+        "Postkoloniale Erinnerungslandschaften",
+        "wie Deutsche und Herero in Namibia des Kriegs von 1904 gedenken"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

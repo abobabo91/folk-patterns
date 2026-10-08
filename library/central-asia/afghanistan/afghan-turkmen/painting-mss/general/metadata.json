@@ -1,0 +1,548 @@
+[
+  {
+    "id": "met-451731",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "451731",
+      "object_url": "https://www.metmuseum.org/art/collection/search/451731",
+      "iiif_manifest": null,
+      "credit_line": "Fletcher Fund, 1963",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "63.210.44",
+      "accession_year": "1963"
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Afghanistan",
+      "ethnicity": "Afghan Turkmen",
+      "tradition": "general",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a Persianate manuscript painting from a Mantiq al-Tayr made in Herat (a Timurist/Persian court style), not a work of Turkmen tribal or ethnographic material culture from Afghanistan's Turkmen minority; it reflects settled Persian-Islamic literary painting tradition rather than Turkmen nomadic craft.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "middle-east-north-africa__iran__persian",
+        "people": "Persian",
+        "belongs": true,
+        "art_form": "painting-mss",
+        "image": "good",
+        "era": "traditional",
+        "reason": "This is a Persianate manuscript painting illustrating an episode from Attar's Mantiq al-Tayr, executed in the classic Persian/Timurid-Safavid painting idiom with Persian nastaliq text; though the folio is attributed to Herat, this falls within the broader Persian cultural and artistic tradition and fits the claimed ethnicity."
+      }
+    },
+    "physical": {
+      "title": "\"The Anecdote of the Man Who Fell into the Water\", Folio 44r from a Mantiq al-Tayr (Language of the Birds)",
+      "titles_alt": [],
+      "date_text": "dated 892 AH/1487 CE",
+      "date_earliest": 1486,
+      "date_latest": 1488,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Opaque watercolor",
+        "silver",
+        "and gold on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Opaque watercolor, silver, and gold on paper",
+      "classification": "Codices",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Painting: H. 7 3/8 in. (18.7 cm)\r\n                W.  5 1/8in. (13cm)\r\nPage: H. 13 in. (33 cm)\r\n          W. 8 7/16 in. (21.4 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n        W. 14 1/4 in. (36.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Herat, present-day Afghanistan",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Sultan 'Ali al-Mashhadi",
+          "role": "Calligrapher",
+          "dates": "1453 – 1520",
+          "urls": [
+            "https://www.wikidata.org/wiki/Q5922231",
+            "http://vocab.getty.edu/page/ulan/500116608"
+          ]
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300025928",
+        "http://vocab.getty.edu/page/aat/300265959"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP132956.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8d33e13e1dc9a53c2988cbd37a2f08acbbdf0391f63ba766f7df35fb3f77ebee",
+        "bytes": 1829639,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/178476.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "5ca8b7ffba330aa39bc9bc6d2b37d725a0f41c57d0ddcc1d150bc2b7996c8d11",
+        "bytes": 4260211,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP256449.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "cdddd43160da971a5543f5053347f8724729fcca08674490a719b983c044fec6",
+        "bytes": 3871113,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DT264241.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f16af49c1622c982bc6ac675aed98b34681051e1a55f0d780e677b0bfaea78f2",
+        "bytes": 2264932,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/sf63-210-44r.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d7bc73048bb273c3e06bd74755f6d0209b2191709798c4be7f0e229e1d4e707a",
+        "bytes": 229127,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/sf63-210-44v.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0c74cb91d2cc875de8dd373ab76ab64f609c6a8717a12cfa4d68afa8a37b38c3",
+        "bytes": 269884,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/178478.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "707969af06fbf9d6e824baa9451c0f158a868c65d00b2af5bf6ec33efab00c3a",
+        "bytes": 596493,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_451731_6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:16:43.782149+00:00",
+    "raw": {
+      "objectID": 451731,
+      "isHighlight": false,
+      "accessionNumber": "63.210.44",
+      "accessionYear": "1963",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP132956.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP132956.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/178476.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP256449.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DT264241.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/sf63-210-44r.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/sf63-210-44v.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/178478.jpg"
+      ],
+      "constituents": [
+        {
+          "constituentID": 130146,
+          "role": "Calligrapher",
+          "name": "Sultan &#39;Ali al-Mashhadi",
+          "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500116608",
+          "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5922231",
+          "gender": ""
+        },
+        {
+          "constituentID": 130655,
+          "role": "Author",
+          "name": "Farid al-Din `Attar",
+          "constituentULAN_URL": "(not assigned)",
+          "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q194091",
+          "gender": ""
+        }
+      ],
+      "department": "Islamic Art",
+      "objectName": "Folio from an illustrated manuscript",
+      "title": "\"The Anecdote of the Man Who Fell into the Water\", Folio 44r from a Mantiq al-Tayr (Language of the Birds)",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Calligrapher",
+      "artistPrefix": "",
+      "artistDisplayName": "Sultan 'Ali al-Mashhadi",
+      "artistDisplayBio": "Iranian, Mashhad 1453–1520 Mashhad",
+      "artistSuffix": "",
+      "artistAlphaSort": "al-Mashhadi, Sultan 'Ali",
+      "artistNationality": "Iranian",
+      "artistBeginDate": "1453",
+      "artistEndDate": "1520",
+      "artistGender": "",
+      "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5922231",
+      "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500116608",
+      "objectDate": "dated 892 AH/1487 CE",
+      "objectBeginDate": 1486,
+      "objectEndDate": 1488,
+      "medium": "Opaque watercolor, silver, and gold on paper",
+      "dimensions": "Painting: H. 7 3/8 in. (18.7 cm)\r\n                W.  5 1/8in. (13cm)\r\nPage: H. 13 in. (33 cm)\r\n          W. 8 7/16 in. (21.4 cm)\r\nMat: H. 19 1/4 in. (48.9 cm)\r\n        W. 14 1/4 in. (36.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 18.7,
+            "Width": 13
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": "Page",
+          "elementMeasurements": {
+            "Height": 33.0201,
+            "Width": 21.4313
+          }
+        },
+        {
+          "elementName": "Mat",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 48.8951,
+            "Width": 36.1951
+          }
+        }
+      ],
+      "creditLine": "Fletcher Fund, 1963",
+      "geographyType": "Made in",
+      "city": "Herat",
+      "state": "",
+      "county": "",
+      "country": "present-day Afghanistan",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Codices",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-01-21T04:52:24.343Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/451731",
+      "tags": [
+        {
+          "term": "Men",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+        },
+        {
+          "term": "Donkeys",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300265959",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q3537778"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": true,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-453336",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "453336",
+      "object_url": "https://www.metmuseum.org/art/collection/search/453336",
+      "iiif_manifest": null,
+      "credit_line": "Purchase, Louis E. and Theresa S. Seley Purchase Fund for Islamic Art, The Edward Joseph Gallagher III Memorial Collection, Edward J. Gallagher Jr. Bequest, and Richard S. Perkins and Margaret Mushekian Gifts, 1992",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1992.51",
+      "accession_year": "1992"
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Afghanistan",
+      "ethnicity": "Afghan Turkmen",
+      "tradition": "general",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a classic Persianate/Mughal-style royal album painting of a caparisoned horse, likely a Safavid or Deccan/Mughal court production from the Herat/Iranian sphere — a refined single-page miniature style not associated with Turkmen tribal art, and there is no positive evidence linking it to the Afghan Turkmen ethnic group specifically.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "middle-east-north-africa__iran__persian",
+        "people": "Persian",
+        "belongs": true,
+        "art_form": "painting-mss",
+        "image": "good",
+        "era": "traditional",
+        "reason": "A finely painted miniature of a caparisoned stallion with elaborate cloth trapper and gold border decoration, in the Persianate/Herat manuscript painting tradition shared across Iran and eastern Persianate lands; this style of courtly single-animal album painting belongs to the broader Persian painting tradition even if the sheet is attributed to Herat."
+      }
+    },
+    "physical": {
+      "title": "A Stallion",
+      "titles_alt": [],
+      "date_text": "ca. 1601–6",
+      "date_earliest": 1575,
+      "date_latest": 1630,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Ink",
+        "opaque watercolor",
+        "and gold on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Ink, opaque watercolor, and gold on paper",
+      "classification": "Codices",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Painting:\r\n            H. 11 7/8 in. (30.1 cm)\r\n            W. 8 in. (20.3 cm)\r\nPage: \r\n            H. 7 3/4 in. (19.7 cm)\r\n            W. 5 in. (12.7 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Herat, present-day Afghanistan",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Habiballah of Sava",
+          "role": "Artist",
+          "dates": "1565 – 1635",
+          "urls": [
+            "https://www.wikidata.org/wiki/Q4494389",
+            "(not assigned)"
+          ]
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29385234",
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300250148"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP234078.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c01d9a37a7184aca6d26c388c9d18d9df1801cf043b0e525e826c5ef2edaecf2",
+        "bytes": 2999607,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_453336.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP234755.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "50ad4ef6e420e3c1ce9d80eec0da5e829fd1f692cb25b73155fd8e46a0ffc8bb",
+        "bytes": 3215665,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_453336_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/is1992.51.R.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "05fd46d86835f668064baf182ced2c884f566cb57758b44f945238f6fa1bb697",
+        "bytes": 852621,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_453336_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DT464.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "76e488a851d6b6e10abecb6037875c765d84568624880bb87f9e3c0324bf8696",
+        "bytes": 2945325,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_453336_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/1992.51.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6ac693e75fba66cd572b5cf0390a5283921f885d0c187e2e4b260e4ac65a47fa",
+        "bytes": 368105,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_453336_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/sf1992-51a.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "a8e2eebcd85c160f9712726c26f88d1edd56c71521f98580580257fe883eb267",
+        "bytes": 160331,
+        "local_path": "library\\central-asia\\afghanistan\\afghan-turkmen\\painting-mss\\general\\images\\met_453336_5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:17:40.261514+00:00",
+    "raw": {
+      "objectID": 453336,
+      "isHighlight": true,
+      "accessionNumber": "1992.51",
+      "accessionYear": "1992",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP234078.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP234078.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/DP234755.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/is1992.51.R.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DT464.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/1992.51.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/sf1992-51a.jpg"
+      ],
+      "constituents": [
+        {
+          "constituentID": 130300,
+          "role": "Artist",
+          "name": "Painting by Habiballah of Sava",
+          "constituentULAN_URL": "(not assigned)",
+          "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q4494389",
+          "gender": ""
+        }
+      ],
+      "department": "Islamic Art",
+      "objectName": "Illustrated  album leaf",
+      "title": "A Stallion",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "Painting by",
+      "artistDisplayName": "Habiballah of Sava",
+      "artistDisplayBio": "Iranian, active ca. 1590–1610",
+      "artistSuffix": "",
+      "artistAlphaSort": "Habiballah",
+      "artistNationality": "Iranian",
+      "artistBeginDate": "1565",
+      "artistEndDate": "1635",
+      "artistGender": "",
+      "artistWikidata_URL": "https://www.wikidata.org/wiki/Q4494389",
+      "artistULAN_URL": "(not assigned)",
+      "objectDate": "ca. 1601–6",
+      "objectBeginDate": 1575,
+      "objectEndDate": 1630,
+      "medium": "Ink, opaque watercolor, and gold on paper",
+      "dimensions": "Painting:\r\n            H. 11 7/8 in. (30.1 cm)\r\n            W. 8 in. (20.3 cm)\r\nPage: \r\n            H. 7 3/4 in. (19.7 cm)\r\n            W. 5 in. (12.7 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 30.1,
+            "Width": 20.3
+          }
+        },
+        {
+          "elementName": "Other",
+          "elementDescription": "of page",
+          "elementMeasurements": {
+            "Height": 30.1,
+            "Width": 20.3
+          }
+        },
+        {
+          "elementName": "Other",
+          "elementDescription": "of painting",
+          "elementMeasurements": {
+            "Height": 19.7,
+            "Width": 12.7
+          }
+        }
+      ],
+      "creditLine": "Purchase, Louis E. and Theresa S. Seley Purchase Fund for Islamic Art, The Edward Joseph Gallagher III Memorial Collection, Edward J. Gallagher Jr. Bequest, and Richard S. Perkins and Margaret Mushekian Gifts, 1992",
+      "geographyType": "Attributed to",
+      "city": "Herat",
+      "state": "",
+      "county": "",
+      "country": "present-day Afghanistan",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Codices",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-07-25T04:50:13.78Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/453336",
+      "tags": [
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        }
+      ],
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385234",
+      "isTimelineWork": true,
+      "GalleryNumber": ""
+    }
+  }
+]

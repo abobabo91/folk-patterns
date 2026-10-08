@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Oc1906-1013-120",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Oc1906-1013-120",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1906-1013-120",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Oc1906.1013.120",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Eritrea",
+      "ethnicity": "Nara",
+      "tradition": "Nara",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a plaited cane-cord belt with barkcloth-wrapped ends, attributed directly to the Nara people by the museum, matching the claimed garment category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "belt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "belt",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Belt consisting of numerous finely plaited lengths of dark brown cane cord secured at each end with barkcloth. Further plaited cane, wrapped in barkcloth on one side, and lengths of lightly beaten bark ribbons form ties either side.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2020_3/18_9/c14c03a1_5992_4d85_9303_ab82009ca955/preview_EOC11079_front.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "295bc5848742f17b5347f831e674f3067b648464444fe2e26954ac84e09fbab3",
+        "bytes": 61281,
+        "local_path": "library\\sub-saharan-africa\\eritrea\\nara\\garment\\nara\\images\\bm_E_Oc1906_1013_120.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:46:42.114507+00:00",
+    "raw": {
+      "title": "belt",
+      "description": "Belt consisting of numerous finely plaited lengths of dark brown cane cord secured at each end with barkcloth. Further plaited cane, wrapped in barkcloth on one side, and lengths of lightly beaten bark ribbons form ties either side.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_3/18_9/c14c03a1_5992_4d85_9303_ab82009ca955/preview_EOC11079_front.jpg",
+      "production_ethnic_groups": [
+        "Nara"
+      ],
+      "production_ethnic_attribution": "Made by: Nara"
+    }
+  }
+]

@@ -1,0 +1,4218 @@
+[
+  {
+    "id": "europeana-2021009__02E2C4BE32F9C49DA7D99EEE0446A37D",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__02E2C4BE32F9C49DA7D99EEE0446A37D",
+      "object_url": "https://www.europeana.eu/item/2021009/_02E2C4BE32F9C49DA7D99EEE0446A37D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows a Himba man in profile with characteristic ochre-styled hair and layered beaded/shell necklaces, a documentary portrait of dress and adornment consistent with the claimed ethnicity. Though catalogued as painting-mss, it is clearly a photograph.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-mies",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1960/1970"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1042545%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "02a40b2032617b817ae43afec5817ff1625874b2aa670f33cbb886748a2c6c3b",
+        "bytes": 42024,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__02E2C4BE32F9C49DA7D99EEE0446A37D.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.727434+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-mies"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.02E2C4BE32F9C49DA7D99EEE0446A37D?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1042545&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1042545%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1960/1970"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1960/1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_02E2C4BE32F9C49DA7D99EEE0446A37D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_02E2C4BE32F9C49DA7D99EEE0446A37D",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_02E2C4BE32F9C49DA7D99EEE0446A37D.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 127.85095,
+      "timestamp": 1751994584023,
+      "timestamp_created": "2019-09-09T12:41:14.765Z",
+      "timestamp_created_epoch": 1568032874765,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-mies"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__3278F96B74AAD0DA44D62CF55843ED90",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__3278F96B74AAD0DA44D62CF55843ED90",
+      "object_url": "https://www.europeana.eu/item/2021009/_3278F96B74AAD0DA44D62CF55843ED90?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A documentary photograph of a Himba woman with traditional ochre-coiffed braids, layered arm and leg ring adornments, and leather garment, consistent with claimed Himba ethnicity and dress. The photo is misfiled as painting-mss but the subject matter clearly belongs.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Istuva Himba-nainen koristeineen",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1940/1970"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1045418%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "83828813ac0bdea81b896c9996bc5bc9f1779dd6ad4bafd4c21ddb26125e9850",
+        "bytes": 135139,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__3278F96B74AAD0DA44D62CF55843ED90.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.743963+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcTitleLangAware": {
+        "fi": [
+          "Istuva Himba-nainen koristeineen"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.3278F96B74AAD0DA44D62CF55843ED90?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1045418&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1045418%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1940/1970"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1940/1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_3278F96B74AAD0DA44D62CF55843ED90?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_3278F96B74AAD0DA44D62CF55843ED90",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_3278F96B74AAD0DA44D62CF55843ED90.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 116.193115,
+      "timestamp": 1751994883083,
+      "timestamp_created": "2019-09-09T14:19:05.952Z",
+      "timestamp_created_epoch": 1568038745952,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Istuva Himba-nainen koristeineen"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__5368641DABC1DDFFF8E8E9190BF19404",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__5368641DABC1DDFFF8E8E9190BF19404",
+      "object_url": "https://www.europeana.eu/item/2021009/_5368641DABC1DDFFF8E8E9190BF19404?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photograph of a Himba woman with characteristic ochre-coiffed hairstyle, layered beaded headdress, and leather/fabric headwrap — consistent with Himba dress and adornment, though this is a photo, not painting-mss.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-nainen",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1046146%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "88a10d268b056083b5502abd50fe34ba5ee33a15d7de036826ea0584e33192ea",
+        "bytes": 139936,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__5368641DABC1DDFFF8E8E9190BF19404.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.773195+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcCreator": [
+        "Voutilainen, Väinämö (Paul Ilmari)"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Voutilainen, Väinämö (Paul Ilmari)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-nainen"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.5368641DABC1DDFFF8E8E9190BF19404?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1046146&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1046146%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_5368641DABC1DDFFF8E8E9190BF19404?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_5368641DABC1DDFFF8E8E9190BF19404",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_5368641DABC1DDFFF8E8E9190BF19404.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 126.0579,
+      "timestamp": 1751995072195,
+      "timestamp_created": "2019-09-09T14:23:22.024Z",
+      "timestamp_created_epoch": 1568039002024,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-nainen"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__631040E7E5946DE422FFA61C8A6E4496",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__631040E7E5946DE422FFA61C8A6E4496",
+      "object_url": "https://www.europeana.eu/item/2021009/_631040E7E5946DE422FFA61C8A6E4496?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows a Himba woman from behind, displaying her ochre-coated dreadlocked hairstyle (ozondato) and a beaded back ornament (ekori-style backpiece), a genuine documentary photo of Himba dress and adornment, though miscategorized as painting-mss.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-nainen ja selkäkoru",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1046149%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1e3d7ead70d4513090787681e4a73ac6412af03d660af4cb10a35d01470cb79d",
+        "bytes": 113812,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__631040E7E5946DE422FFA61C8A6E4496.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.801536+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-nainen ja selkäkoru"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.631040E7E5946DE422FFA61C8A6E4496?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1046149&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1046149%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_631040E7E5946DE422FFA61C8A6E4496?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_631040E7E5946DE422FFA61C8A6E4496",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_631040E7E5946DE422FFA61C8A6E4496.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 117.21464,
+      "timestamp": 1751995144818,
+      "timestamp_created": "2020-12-08T13:05:04.452Z",
+      "timestamp_created_epoch": 1607432704452,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-nainen ja selkäkoru"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__6D9885C01BD3C4E9991E968AA0094936",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__6D9885C01BD3C4E9991E968AA0094936",
+      "object_url": "https://www.europeana.eu/item/2021009/_6D9885C01BD3C4E9991E968AA0094936?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows a man with a beaded headwrap, layered necklaces, and a spear, consistent with Himba (or closely related Namibian/southern African pastoralist) dress and material culture; it is a documentary photograph, not a painting or manuscript.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-mies ja keihäs",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1050548%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7a55af9cc5aef340473c27497ab7274f056266fbc5319b09ba38df00d8c5e9e9",
+        "bytes": 124637,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__6D9885C01BD3C4E9991E968AA0094936.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.830406+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcCreator": [
+        "Voutilainen, Väinämö (Paul Ilmari)"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Voutilainen, Väinämö (Paul Ilmari)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-mies ja keihäs"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.6D9885C01BD3C4E9991E968AA0094936?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1050548&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1050548%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_6D9885C01BD3C4E9991E968AA0094936?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_6D9885C01BD3C4E9991E968AA0094936",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_6D9885C01BD3C4E9991E968AA0094936.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 117.080986,
+      "timestamp": 1751995211533,
+      "timestamp_created": "2019-09-09T12:56:25.825Z",
+      "timestamp_created_epoch": 1568033785825,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-mies ja keihäs"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__6FC0A9BFF99DC0D74874B4391D592F11",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__6FC0A9BFF99DC0D74874B4391D592F11",
+      "object_url": "https://www.europeana.eu/item/2021009/_6FC0A9BFF99DC0D74874B4391D592F11?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photographic portrait of a Himba man with a headwrap, beaded/shell necklaces, and a spear over his shoulder — consistent with Himba dress and material culture, though a fixed image is misclassified as painting-mss.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-mies keihäs olkapäällä",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1050815%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d301404f2b47b87471f11cba5f26b37e335efa7c1af908965277b341ba7820e4",
+        "bytes": 132117,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__6FC0A9BFF99DC0D74874B4391D592F11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.870892+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcCreator": [
+        "Voutilainen, Väinämö (Paul Ilmari)"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Voutilainen, Väinämö (Paul Ilmari)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-mies keihäs olkapäällä"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.6FC0A9BFF99DC0D74874B4391D592F11?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1050815&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1050815%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_6FC0A9BFF99DC0D74874B4391D592F11?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_6FC0A9BFF99DC0D74874B4391D592F11",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_6FC0A9BFF99DC0D74874B4391D592F11.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 117.080986,
+      "timestamp": 1751995220588,
+      "timestamp_created": "2019-09-09T14:12:46.019Z",
+      "timestamp_created_epoch": 1568038366019,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-mies keihäs olkapäällä"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__93D3729B3C6FCDDC3A04B91D668DBACA",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__93D3729B3C6FCDDC3A04B91D668DBACA",
+      "object_url": "https://www.europeana.eu/item/2021009/_93D3729B3C6FCDDC3A04B91D668DBACA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A documentary photograph of a man wearing a turban-style head covering, plausible for a Himba or neighboring Namibian/southern African man; it is a photo, not a painting/manuscript.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-mies",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1043957%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6f5c8bd93fa93039591772165d0fcb5b398f103b04d9b9b139bbe1be14bac620",
+        "bytes": 92076,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__93D3729B3C6FCDDC3A04B91D668DBACA.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.935298+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-mies"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.93D3729B3C6FCDDC3A04B91D668DBACA?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1043957&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1043957%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_93D3729B3C6FCDDC3A04B91D668DBACA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_93D3729B3C6FCDDC3A04B91D668DBACA",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_93D3729B3C6FCDDC3A04B91D668DBACA.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 129.18599,
+      "timestamp": 1751995429432,
+      "timestamp_created": "2019-09-09T12:28:24.724Z",
+      "timestamp_created_epoch": 1568032104724,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-mies"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__CFA835A6FF434244CE399FFD6798D3AB",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__CFA835A6FF434244CE399FFD6798D3AB",
+      "object_url": "https://www.europeana.eu/item/2021009/_CFA835A6FF434244CE399FFD6798D3AB?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photographic portrait of a man with a headwrap and layered beaded necklace, consistent with Himba or related Namibian pastoralist dress; it is a documentary photo, not a painting or manuscript.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Himba-mies istuu",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1049580%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c5aa8ff360873d07d123f45604345df98ff182b6ab5cb5d37dc0c5cf979ebd4d",
+        "bytes": 125397,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__CFA835A6FF434244CE399FFD6798D3AB.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.962661+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcCreator": [
+        "Voutilainen, Väinämö (Paul Ilmari)"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Voutilainen, Väinämö (Paul Ilmari)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "fi": [
+          "Himba-mies istuu"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.CFA835A6FF434244CE399FFD6798D3AB?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1049580&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1049580%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/2021009/_CFA835A6FF434244CE399FFD6798D3AB?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_CFA835A6FF434244CE399FFD6798D3AB",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_CFA835A6FF434244CE399FFD6798D3AB.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 122.63109,
+      "timestamp": 1751995732645,
+      "timestamp_created": "2019-09-09T11:46:45.116Z",
+      "timestamp_created_epoch": 1568029605116,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Himba-mies istuu"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021009__DB77510E74AC637E12DF0CB79DD4EC2D",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__DB77510E74AC637E12DF0CB79DD4EC2D",
+      "object_url": "https://www.europeana.eu/item/2021009/_DB77510E74AC637E12DF0CB79DD4EC2D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Himba",
+      "tradition": "Himba Namibia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photographic portrait of a young Himba woman wearing traditional ochre-coiffed braided hair (ozondato) and leather garment with characteristic ornamentation, consistent with Himba dress and daily life. It is a photograph, not a painting/manuscript, so the claimed category is wrong but the ethnicity fit is plausible.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Nuori naimisissa oleva Himba-nainen",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1044835%26size%3Dextra_large%26org%3D43094&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5280c1a148e3ee033d12026a0f98e82d12a203fd6ed17f6b2adf45420c5e4486",
+        "bytes": 128581,
+        "local_path": "library\\sub-saharan-africa\\namibia\\himba\\painting-mss\\himba-namibia\\images\\eu_2021009__DB77510E74AC637E12DF0CB79DD4EC2D.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.988979+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "dcCreator": [
+        "Voutilainen, Väinämö (Paul Ilmari)"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Voutilainen, Väinämö (Paul Ilmari)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "fi": [
+          "Nuori naimisissa oleva Himba-nainen"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q125191",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "valokuva"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "фотография"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "снимка"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "fotoattēls"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photographie"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "fénykép"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "grianghraf"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "φωτογραφία"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "photograph"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografía"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "argazki"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografia"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "fotografi"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "foto"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "valokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "снимка"
+        ],
+        "lt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "lv": [
+          "fotoattēls",
+          "Fotoattēls"
+        ],
+        "hr": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "photographie"
+        ],
+        "hu": [
+          "Fénykép",
+          "fénykép"
+        ],
+        "sk": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sl": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "ga": [
+          "grianghraf",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "sv": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία",
+          "φωτογραφία"
+        ],
+        "mt": [
+          "fotografija",
+          "Fotografija"
+        ],
+        "en": [
+          "photograph",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "es": [
+          "fotografía",
+          "Fotografía"
+        ],
+        "et": [
+          "foto",
+          "Foto"
+        ],
+        "eu": [
+          "argazki",
+          "Argazki"
+        ],
+        "cs": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "fotografia"
+        ],
+        "ro": [
+          "fotografie",
+          "Fotografie"
+        ],
+        "da": [
+          "fotografi",
+          "Fotografi"
+        ],
+        "nl": [
+          "foto",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "edmIsShownAt": [
+        "http://museovirasto.finna.fi/Record/museovirasto.DB77510E74AC637E12DF0CB79DD4EC2D?lng=en-gb"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=1044835&size=extra_large&org=43094"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D1044835%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021009_Ag_FI_NDL_museovirasto"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/2021009/_DB77510E74AC637E12DF0CB79DD4EC2D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021009/_DB77510E74AC637E12DF0CB79DD4EC2D",
+      "index": 0,
+      "language": [
+        "fi"
+      ],
+      "link": "https://api.europeana.eu/record/2021009/_DB77510E74AC637E12DF0CB79DD4EC2D.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 110.56158,
+      "timestamp": 1751995767911,
+      "timestamp_created": "2019-09-09T11:54:29.484Z",
+      "timestamp_created_epoch": 1568030069484,
+      "timestamp_update": "2024-12-02T09:17:56.189Z",
+      "timestamp_update_epoch": 1733131076189,
+      "title": [
+        "Nuori naimisissa oleva Himba-nainen"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

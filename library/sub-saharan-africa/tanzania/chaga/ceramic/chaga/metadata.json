@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af-2240",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af-2240",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af-2240",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af.2240",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Tanzania",
+      "ethnicity": "Chaga",
+      "tradition": "Chaga",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A low, plain earthenware bowl with two handles, attributed by the museum to the Chagga people; this matches typical East African utilitarian pottery of the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bowl; measure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bowl; measure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Low circular bowl with a handle at each side.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/3157f9f6_e251_48cb_8df2_a3e60144e7d0/preview_01606611_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dbac89b9ec67a478e6ea1949e6818f068abc9c2c8827cbba7a67e539122739a7",
+        "bytes": 49759,
+        "local_path": "library\\sub-saharan-africa\\tanzania\\chaga\\ceramic\\chaga\\images\\bm_E_Af_2240.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T11:22:59.457322+00:00",
+    "raw": {
+      "title": "bowl; measure",
+      "description": "Low circular bowl with a handle at each side.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/3157f9f6_e251_48cb_8df2_a3e60144e7d0/preview_01606611_001.jpg",
+      "production_ethnic_groups": [
+        "Chagga"
+      ],
+      "production_ethnic_attribution": "Made by: Chagga"
+    }
+  }
+]

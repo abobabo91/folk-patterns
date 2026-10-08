@@ -1,0 +1,790 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_103791",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_103791",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_103791?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an iron \"axe-money\" (hoe/axe-shaped currency blade) from the Ogooué region of Gabon, associated with the Fang (Pangwe) people as a currency/trade object with a decorative flattened blade and twisted metal shaft — a traditionally made object used by this culture, though it's currency rather than personal adornment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork"
+    },
+    "physical": {
+      "title": "mynt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1110169%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "af110717d4f8def8b36f31bbb443e10faa9700fd7622c6df73df35f225a4e4f7",
+        "bytes": 5525,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\jewelry\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_103791.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T07:01:01.602124+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Ogoveflodens område, Gabon. [[Haga]]",
+        "Ogoveflodens område, Gabon (efterbestämning)",
+        "Ur generalkatalogen: Mynt, av järn, s.k. \"Yx-mynt\". Längd: 14,8 cm. Mynten buntas oftast samman i buntar om 3-6 stycken järnmynt, som har skaften lindade eller förenas med en \"ring\" av veg. fiber (Se GEM 868 a-h och 68.4.5.) Myntets egendomliga form anses avara en degeneration av kastkniven hos Fang (Pangwe).\nSe: Illust. Völker-Kunde (Afrika) p. 534, fig. 2,3,4. (Yx-mynt från Dzem (Nyem) och Yaonde (Kamerun))",
+        "Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg",
+        "1968.04.0004",
+        "Gabon"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Ogoveflodens område, Gabon. [[Haga]]",
+          "Ogoveflodens område, Gabon (efterbestämning)",
+          "Ur generalkatalogen: Mynt, av järn, s.k. \"Yx-mynt\". Längd: 14,8 cm. Mynten buntas oftast samman i buntar om 3-6 stycken järnmynt, som har skaften lindade eller förenas med en \"ring\" av veg. fiber (Se GEM 868 a-h och 68.4.5.) Myntets egendomliga form anses avara en degeneration av kastkniven hos Fang (Pangwe).\nSe: Illust. Völker-Kunde (Afrika) p. 534, fig. 2,3,4. (Yx-mynt från Dzem (Nyem) och Yaonde (Kamerun))",
+          "Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg"
+        ],
+        "def": [
+          "1968.04.0004",
+          "Gabon"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "mynt"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1908",
+        "http://data.europeana.eu/concept/1766"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Münze"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Монета"
+        },
+        {
+          "def": "Металл"
+        },
+        {
+          "def": "Kolikko"
+        },
+        {
+          "def": "Metalli"
+        },
+        {
+          "def": "Moeda"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Монета"
+        },
+        {
+          "def": "Метал"
+        },
+        {
+          "def": "Moneta"
+        },
+        {
+          "def": "Metalai"
+        },
+        {
+          "def": "Kovanica"
+        },
+        {
+          "def": "Kovine"
+        },
+        {
+          "def": "Monēta"
+        },
+        {
+          "def": "Metāls"
+        },
+        {
+          "def": "Pièce de monnaie"
+        },
+        {
+          "def": "Métal"
+        },
+        {
+          "def": "Érme"
+        },
+        {
+          "def": "Fém"
+        },
+        {
+          "def": "Minca"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Kovanec"
+        },
+        {
+          "def": "Kovina"
+        },
+        {
+          "def": "Bonn"
+        },
+        {
+          "def": "Miotal"
+        },
+        {
+          "def": "Moneda"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Mynt"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Νόμισμα"
+        },
+        {
+          "def": "Μέταλλο"
+        },
+        {
+          "def": "Coin"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Moneta"
+        },
+        {
+          "def": "Metallo"
+        },
+        {
+          "def": "Moneda"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Münt"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Txanpon"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Mince"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Moneta"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Mønt"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Monedă"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Munt"
+        },
+        {
+          "def": "Metaal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Münze",
+          "Metall"
+        ],
+        "ru": [
+          "Металл",
+          "Монета"
+        ],
+        "fi": [
+          "Metalli",
+          "Kolikko"
+        ],
+        "pt": [
+          "Moeda",
+          "Metal"
+        ],
+        "bg": [
+          "Метал",
+          "Монета"
+        ],
+        "lt": [
+          "Moneta",
+          "Metalai"
+        ],
+        "hr": [
+          "Kovine",
+          "Kovanica"
+        ],
+        "lv": [
+          "Metāls",
+          "Monēta"
+        ],
+        "fr": [
+          "Pièce de monnaie",
+          "Métal"
+        ],
+        "hu": [
+          "Fém",
+          "Érme"
+        ],
+        "sk": [
+          "Kov",
+          "Minca"
+        ],
+        "sl": [
+          "Kovanec",
+          "Kovina"
+        ],
+        "ga": [
+          "Bonn",
+          "Miotal"
+        ],
+        "ca": [
+          "Moneda",
+          "Metall"
+        ],
+        "sv": [
+          "Mynt",
+          "Metall"
+        ],
+        "el": [
+          "Νόμισμα",
+          "Μέταλλο"
+        ],
+        "en": [
+          "Coin",
+          "Metal"
+        ],
+        "it": [
+          "Moneta",
+          "Metallo"
+        ],
+        "es": [
+          "Moneda",
+          "Metal"
+        ],
+        "et": [
+          "Münt",
+          "Metall"
+        ],
+        "eu": [
+          "Txanpon",
+          "Metal"
+        ],
+        "cs": [
+          "Kov",
+          "Mince"
+        ],
+        "pl": [
+          "Moneta",
+          "Metal"
+        ],
+        "da": [
+          "Mønt",
+          "Metal"
+        ],
+        "ro": [
+          "Metal",
+          "Monedă"
+        ],
+        "nl": [
+          "Munt",
+          "Metaal"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/103791"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1110169/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "GA"
+        },
+        {
+          "def": "GAB"
+        },
+        {
+          "def": "République gabonaise"
+        },
+        {
+          "def": "Габонская Республика"
+        },
+        {
+          "def": "Республика Габон"
+        },
+        {
+          "def": "Gabonin tasavalta"
+        },
+        {
+          "def": "Republiken Gabon"
+        },
+        {
+          "def": "República Gabonesa"
+        },
+        {
+          "def": "Republica Gabonesa"
+        },
+        {
+          "def": "Gabao"
+        },
+        {
+          "def": "Δημοκρατία της Γκαμπόν"
+        },
+        {
+          "def": "Repubblika Gaboniża"
+        },
+        {
+          "def": "Gabonese Republic"
+        },
+        {
+          "def": "République Gabonaise"
+        },
+        {
+          "def": "ga"
+        },
+        {
+          "def": "Republique Gabonaise"
+        },
+        {
+          "def": "GAB"
+        },
+        {
+          "def": "Repubblica Gabonese"
+        },
+        {
+          "def": "République gabonaise"
+        },
+        {
+          "def": "GA"
+        },
+        {
+          "def": "La République gabonaise"
+        },
+        {
+          "def": "Le Gabon"
+        },
+        {
+          "def": "République du Gabon"
+        },
+        {
+          "def": "Gaboni Köztársaság"
+        },
+        {
+          "def": "República Gabonesa"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Republica Gabonesa"
+        },
+        {
+          "def": "Gaboni Vabariik"
+        },
+        {
+          "def": "Gabonská republika"
+        },
+        {
+          "def": "Republika Gabońska"
+        },
+        {
+          "def": "República Gabonesa"
+        },
+        {
+          "def": "Republiek Gabon"
+        },
+        {
+          "def": "GA"
+        },
+        {
+          "def": "GAB"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "GA",
+          "GAB",
+          "République gabonaise"
+        ],
+        "ru": [
+          "Габонская Республика",
+          "Республика Габон"
+        ],
+        "fi": [
+          "Gabonin tasavalta"
+        ],
+        "sv": [
+          "Republiken Gabon"
+        ],
+        "pt": [
+          "República Gabonesa",
+          "Republica Gabonesa",
+          "Gabao"
+        ],
+        "el": [
+          "Δημοκρατία της Γκαμπόν"
+        ],
+        "mt": [
+          "Repubblika Gaboniża"
+        ],
+        "en": [
+          "Gabonese Republic",
+          "République Gabonaise",
+          "ga",
+          "Republique Gabonaise",
+          "GAB"
+        ],
+        "it": [
+          "Repubblica Gabonese"
+        ],
+        "fr": [
+          "République gabonaise",
+          "GA",
+          "La République gabonaise",
+          "Le Gabon",
+          "République du Gabon"
+        ],
+        "hu": [
+          "Gaboni Köztársaság"
+        ],
+        "es": [
+          "República Gabonesa",
+          "Gabon",
+          "Republica Gabonesa"
+        ],
+        "et": [
+          "Gaboni Vabariik"
+        ],
+        "sk": [
+          "Gabonská republika"
+        ],
+        "pl": [
+          "Republika Gabońska"
+        ],
+        "ca": [
+          "República Gabonesa"
+        ],
+        "nl": [
+          "Republiek Gabon",
+          "GA",
+          "GAB"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Gabun"
+        },
+        {
+          "def": "Габон"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabão"
+        },
+        {
+          "def": "Габон"
+        },
+        {
+          "def": "Gabonas"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabona"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "An Ghabúin"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Γκαμπόν"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabón"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        },
+        {
+          "def": "Gabon"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Gabun"
+        ],
+        "ru": [
+          "Габон"
+        ],
+        "fi": [
+          "Gabon"
+        ],
+        "pt": [
+          "Gabão"
+        ],
+        "bg": [
+          "Габон"
+        ],
+        "lt": [
+          "Gabonas"
+        ],
+        "hr": [
+          "Gabon"
+        ],
+        "lv": [
+          "Gabona"
+        ],
+        "fr": [
+          "Gabon"
+        ],
+        "hu": [
+          "Gabon"
+        ],
+        "sk": [
+          "Gabon"
+        ],
+        "sl": [
+          "Gabon"
+        ],
+        "ga": [
+          "An Ghabúin"
+        ],
+        "ca": [
+          "Gabon"
+        ],
+        "sv": [
+          "Gabon"
+        ],
+        "el": [
+          "Γκαμπόν"
+        ],
+        "mt": [
+          "Gabon"
+        ],
+        "en": [
+          "Gabon"
+        ],
+        "it": [
+          "Gabon"
+        ],
+        "es": [
+          "Gabón"
+        ],
+        "et": [
+          "Gabon"
+        ],
+        "cs": [
+          "Gabon"
+        ],
+        "eu": [
+          "Gabon"
+        ],
+        "pl": [
+          "Gabon"
+        ],
+        "da": [
+          "Gabon"
+        ],
+        "ro": [
+          "Gabon"
+        ],
+        "nl": [
+          "Gabon"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-0.68333054"
+      ],
+      "edmPlaceLongitude": [
+        "11.5"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1110169%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_103791?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_103791",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_103791.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 23.28312,
+      "timestamp": 1752047463505,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "mynt"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

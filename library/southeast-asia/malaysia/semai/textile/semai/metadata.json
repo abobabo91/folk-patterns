@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1944-03-81",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1944-03-81",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1944-03-81",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1944.03.81",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Semai",
+      "tradition": "Semai",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a long narrow rolled barkcloth bag, consistent with Semai barkcloth production and use, a traditional material-culture item attributed to this people by the museum.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bag",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bag",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Long narrow bag made of barkcloth.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_9/4adb660a_3611_4127_86f0_a3bc0097f43a/preview_00398421_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5b160a430ed78ed6025aea78d5afd74a0e398bf6e92d70e1863edc72f00b0403",
+        "bytes": 64248,
+        "local_path": "library\\southeast-asia\\malaysia\\semai\\textile\\semai\\images\\bm_A_As1944_03_81.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T20:34:34.121559+00:00",
+    "raw": {
+      "title": "bag",
+      "description": "Long narrow bag made of barkcloth.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_9/4adb660a_3611_4127_86f0_a3bc0097f43a/preview_00398421_001.jpg",
+      "production_ethnic_groups": [
+        "Semai"
+      ],
+      "production_ethnic_attribution": "Made by: Semai"
+    }
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "europeana-08602_VedoIL0000010336_gen9",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Cinecittà - Luce",
+      "object_id": "08602_VedoIL0000010336_gen9",
+      "object_url": "https://www.europeana.eu/item/08602/VedoIL0000010336_gen9?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a press photograph of a Somali minister in Western suit and traditional cap at a social event, not a sculpture; it is a documentary photo of a person, which still counts as valid ethnographic evidence of dress.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "The Somali minister resumed in half a bust of below up in an interior of the Grand hotel. Middle floor",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1960-07-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cinecittà - Luce",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00478%2FFV00104925.JPG&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4a289035148c1d9985a9c0b80a6dbe71393ed63b7cefba963011b79ba8fc69a4",
+        "bytes": 24646,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\sculpture\\somali\\images\\eu_08602_VedoIL0000010336_gen9.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:48:26.396183+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Cinecittà - Luce"
+      ],
+      "dcDescription": [
+        "silver bromide gelatin / foil (polyester)",
+        "gelatina bromuro d'argento/pellicola (poliestere)"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "silver bromide gelatin / foil (polyester)"
+        ],
+        "it": [
+          "gelatina bromuro d'argento/pellicola (poliestere)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "The Somali minister resumed in half a bust of below up in an interior of the Grand hotel. Middle floor"
+        ],
+        "it": [
+          "Il ministro somalo ripreso a mezzo busto di sotto in su in un interno del Grand Hotel. Piano medio"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1673",
+        "http://data.europeana.eu/concept/48",
+        "http://www.wikidata.org/entity/Q1459304",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Suchý želatinový proces"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "suchý želatinový proces"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Gelatina bromuro"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "gelatina bromuro"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Gelatin dry plate process"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "gelatin dry plate process"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Plaque sèche"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "plaque sèche"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Droge gelatineplaatprocedé"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "droge gelatineplaatprocedé"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Foto",
+          "Trockenes Gelatineverfahren"
+        ],
+        "ru": [
+          "Фотография",
+          "Желатиносеребряный фотопроцесс"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "pt": [
+          "Fotografia",
+          "Gelatina bromuro",
+          "fotografias (obras visuais)",
+          "gelatina bromuro"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "plaque sèche",
+          "Plaque sèche",
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Gelatina-bromur",
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "photographs",
+          "Gelatin dry plate process",
+          "Photograph",
+          "gelatin dry plate process"
+        ],
+        "it": [
+          "fotografie",
+          "Procedimento con lastre alla gelatina secca",
+          "Fotografia",
+          "procedimento con lastre alla gelatina secca"
+        ],
+        "es": [
+          "Proceso de gelatina sobre placa seca",
+          "fotografías (obra visual)",
+          "Fotografía",
+          "proceso de gelatina sobre placa seca"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "cs": [
+          "Suchý želatinový proces",
+          "Fotografie",
+          "suchý želatinový proces"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "pl": [
+          "Technika bromo-żelatynowa",
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Droge gelatineplaatprocedé",
+          "droge gelatineplaatprocedé",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "edmIsShownAt": [
+        "https://patrimonio.archivioluce.com/luce-web/detail/IL0000010336/11/"
+      ],
+      "edmIsShownBy": [
+        "http://image.archivioluce.com/foto/high/FV/NTH00478/FV00104925.JPG"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Südeuropa"
+        },
+        {
+          "def": "Europäische Union"
+        },
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Южная Европа"
+        },
+        {
+          "def": "Европейский союз"
+        },
+        {
+          "def": "Итальянская Республика"
+        },
+        {
+          "def": "Europa meridional"
+        },
+        {
+          "def": "União Europeia"
+        },
+        {
+          "def": "Pietų Europa"
+        },
+        {
+          "def": "Europos Sąjunga"
+        },
+        {
+          "def": "Europa meridionale"
+        },
+        {
+          "def": "Unione europea"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "Europe du Sud"
+        },
+        {
+          "def": "Union Européenne"
+        },
+        {
+          "def": "République Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La République italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Den europeiske union"
+        },
+        {
+          "def": "Euroopan unioni"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "Европейски съюз"
+        },
+        {
+          "def": "Република Италия"
+        },
+        {
+          "def": "Eiropas Savienība"
+        },
+        {
+          "def": "Europska unija"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "Európai Unió"
+        },
+        {
+          "def": "Európska únia"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Evropska unija"
+        },
+        {
+          "def": "An tAontas Eorpach"
+        },
+        {
+          "def": "Iodáil"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Unió Europea"
+        },
+        {
+          "def": "Estat Italià"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "Europeiska unionen"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "Unjoni Ewropea"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Ευρωπαϊκή Ένωση"
+        },
+        {
+          "def": "Ιταλική Δημοκρατία"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Unión Europea"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Euroopa Liit"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Evropská unie"
+        },
+        {
+          "def": "Unia Europejska"
+        },
+        {
+          "def": "Den Europæiske Union"
+        },
+        {
+          "def": "Uniunea Europeană"
+        },
+        {
+          "def": "Republica Italiană"
+        },
+        {
+          "def": "Europese Unie"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Italië"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Südeuropa",
+          "Europäische Union",
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "no": [
+          "Den europeiske union"
+        ],
+        "ru": [
+          "Южная Европа",
+          "Европейский союз",
+          "Итальянская Республика"
+        ],
+        "fi": [
+          "Euroopan unioni",
+          "Italian tasavalta"
+        ],
+        "pt": [
+          "Europa meridional",
+          "União Europeia"
+        ],
+        "bg": [
+          "Европейски съюз",
+          "Република Италия"
+        ],
+        "lt": [
+          "Pietų Europa",
+          "Europos Sąjunga"
+        ],
+        "lv": [
+          "Eiropas Savienība"
+        ],
+        "hr": [
+          "Europska unija",
+          "Republika Italija"
+        ],
+        "fr": [
+          "Europe du Sud",
+          "Union Européenne",
+          "République Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La République italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "hu": [
+          "Európai Unió"
+        ],
+        "sk": [
+          "Európska únia",
+          "Talianska republika"
+        ],
+        "sl": [
+          "Evropska unija"
+        ],
+        "ga": [
+          "An tAontas Eorpach",
+          "Iodáil",
+          "Italia"
+        ],
+        "ca": [
+          "Unió Europea",
+          "Estat Italià",
+          "República Italiana"
+        ],
+        "sv": [
+          "Europeiska unionen",
+          "Italia",
+          "Republiken Italien"
+        ],
+        "mt": [
+          "Unjoni Ewropea",
+          "Repubblika Taljana"
+        ],
+        "el": [
+          "Ευρωπαϊκή Ένωση",
+          "Ιταλική Δημοκρατία"
+        ],
+        "en": [
+          "European Union",
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "it": [
+          "Europa meridionale",
+          "Unione europea",
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "es": [
+          "Unión Europea",
+          "República Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Euroopa Liit",
+          "Itaalia Vabariik"
+        ],
+        "cs": [
+          "Evropská unie"
+        ],
+        "pl": [
+          "Unia Europejska"
+        ],
+        "da": [
+          "Den Europæiske Union"
+        ],
+        "ro": [
+          "Uniunea Europeană",
+          "Republica Italiană"
+        ],
+        "nl": [
+          "Europese Unie",
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Italië",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Southern Europe"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Mediterranean Basin"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itália"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Itālija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszország"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iodáil"
+        },
+        {
+          "def": "Itàlia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Ιταλία"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itálie"
+        },
+        {
+          "def": "Włochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "Италия"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "def": [
+          "Southern Europe",
+          "European Union",
+          "Mediterranean Basin"
+        ],
+        "pt": [
+          "Itália"
+        ],
+        "bg": [
+          "Италия"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "Itālija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszország"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iodáil"
+        ],
+        "ca": [
+          "Itàlia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "Ιταλία"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy",
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "Itálie"
+        ],
+        "pl": [
+          "Włochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Italië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.34382",
+        "50.83857",
+        "42.5",
+        "35.78"
+      ],
+      "edmPlaceLongitude": [
+        "-3.33984",
+        "4.37599",
+        "12.5",
+        "19.33"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00478%2FFV00104925.JPG&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1960-07-01"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1960-07-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/08602/VedoIL0000010336_gen9?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/08602/VedoIL0000010336_gen9",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/08602/VedoIL0000010336_gen9.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Film Gateway"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 34.880787,
+      "timestamp": 1751996430035,
+      "timestamp_created": "2020-11-22T21:25:10.106Z",
+      "timestamp_created_epoch": 1606080310106,
+      "timestamp_update": "2022-04-13T07:48:20.507Z",
+      "timestamp_update_epoch": 1649836100507,
+      "title": [
+        "The Somali minister resumed in half a bust of below up in an interior of the Grand hotel. Middle floor",
+        "Il ministro somalo ripreso a mezzo busto di sotto in su in un interno del Grand Hotel. Piano medio"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

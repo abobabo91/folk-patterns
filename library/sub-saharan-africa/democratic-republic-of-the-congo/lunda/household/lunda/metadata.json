@@ -1,0 +1,887 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_56217",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_56217",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56217?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A decorated calabash (gourd) used for storing small items, collected in the Lunda-Kasai region of the Belgian Congo — a plausible domestic household object for the Lunda people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kalebass, gourd, calabash",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164625/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6956d2c9a4b41cc057f0f95108e176d848089b057f3a7ce38cafea590540b407",
+        "bytes": 48921,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\household\\lunda\\images\\eu_91608_SMVK_VKM_objekt_56217.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1164625%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:11:18.510198+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_56217",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56217?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kalebass, gourd, calabash"
+      ],
+      "dcDescription": [
+        "1931.38.0057 Clarence Lyon, Gbg. Kassai, Belg. Kongo. [[Haga]] skiss Lunda Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo Democratic Republic of the Congo Northern Lunda Lunda People Southern Lunda Kalebass för förvaring av småsaker. Förvaring av småsaker. Lunda-Kassaiområdet, Belg. Kongo Lunda-Kassaiområdet, Belg. Kongo Årsberättelse 1931, Göteborgs museum, Årstryck 1932"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1164625%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164625/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_56175",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_56175",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56175?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A wooden stirring spade/paddle with a carved figural (animal-head) finial, collected in Angola and attributed \"Lunda?\" by the collector; plausible as a household utensil from that region, used for stirring flour/porridge.",
+      "vision_confidence": "LOW",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "spade, \"Spade\"",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1072909/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a34cce05772f867202d371b1d94dfdbf265fee507dc97568d534746339bf0549",
+        "bytes": 15544,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\household\\lunda\\images\\eu_91608_SMVK_VKM_objekt_56175.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1072909%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:11:19.249067+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_56175",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56175?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "spade, \"Spade\""
+      ],
+      "dcDescription": [
+        "1931.38.0030 Clarence Lyon, Gbg. Angola. Angola, SV - Afrika. [[Haga]] Angola. skiss Lunda? Angola \"Spade\" till att röra om mjöl med. Enl. hr Lyon ett mycket gammalt exemplar. Årsberättelse 1931, Göteborgs museum, Årstryck 1932"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1072909%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1072909/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_56190",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_56190",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56190?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a knee-shafted hoe/adze with a metal blade and wooden haft, a traditional digging tool used for agricultural work, consistent with the museum's Lunda-Kassai (Belgian Congo) attribution for such household/agricultural implements.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "hacka",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164573/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "57ec516689cc3ca5786467506e78b56346c3ccdeb4e9bd24c32a71cb9074a9a3",
+        "bytes": 55219,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\household\\lunda\\images\\eu_91608_SMVK_VKM_objekt_56190.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1164573%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:11:19.871534+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_56190",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56190?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "hacka"
+      ],
+      "dcDescription": [
+        "1931.38.0043 Clarence Lyon, Gbg. Kassai, f.d. Belgiska Kongo. [[Haga]] skiss Lunda? Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo Democratic Republic of the Congo Northern Lunda Lunda People Southern Lunda Knäskaftad hacka. Anvämds vid arbete i jorden m.m. Det förekommer även typer, på vilka bladet kan vridas så, att yxan blir antingen tväreggad eller räteggad. Lunda-Kassaiområdet, Belgiska Kongo Belgiska Kongo, Lundaområdet Årsberättelse 1931, Göteborgs museum, Årstryck 1932"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1164573%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164573/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_56218",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_56218",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56218?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A woven winnowing sieve/tray for manioc flour, collected from the Lunda of Belgian Congo (Kasai region) — exactly the kind of everyday household object attributed to this people in the museum record.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "sikt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164630/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "56f0d670c33965d6d4a7ee638ffbec363757e5c93d0c151a78554f02f062146e",
+        "bytes": 62588,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\household\\lunda\\images\\eu_91608_SMVK_VKM_objekt_56218.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1164630%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:11:20.356327+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_56218",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_56218?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "sikt"
+      ],
+      "dcDescription": [
+        "1931.38.0058 Clarence Lyon, Gbg. Lunda Belg. Kongo Lunda  Belg. Kongo Kassai. Belg. Kongo. [[Haga]] skiss Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo Democratic Republic of the Congo Northern Lunda Lunda People Southern Lunda Sikt för maniokmjöl. balunda (efterbestämn.) Årsberättelse 1931, Göteborgs museum, Årstryck 1932"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1164630%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1164630/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-E_Af1944-04-273",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1944-04-273",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1944-04-273",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1944.04.273",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden pipe-bowl with a decorative band of triangular perforations/carving, attributed by the museum to the Lunda, a plausible carved wood item used in the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "smoking-pipe",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "smoking-pipe",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Pipe-bowl; carved of wood; cylindrical pipe-bowl, thin at one end tapering out to wider end; decorated with carved bands of triangles around centre.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_21/f74b6ac6_4641_4ccb_814a_a3c3015e432c/preview_00837275_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f60cac1eaa3da2836002fffd8487f7325a5441166e6231b0d9774aa46f49b4bc",
+        "bytes": 42977,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\household\\lunda\\images\\bm_E_Af1944_04_273.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:11:22.437330+00:00",
+    "raw": {
+      "title": "smoking-pipe",
+      "description": "Pipe-bowl; carved of wood; cylindrical pipe-bowl, thin at one end tapering out to wider end; decorated with carved bands of triangles around centre.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_21/f74b6ac6_4641_4ccb_814a_a3c3015e432c/preview_00837275_001.jpg",
+      "production_ethnic_groups": [
+        "Lunda"
+      ],
+      "production_ethnic_attribution": "Made by: Lunda"
+    }
+  }
+]

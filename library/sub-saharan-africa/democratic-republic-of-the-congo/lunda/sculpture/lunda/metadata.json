@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1947-24-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1947-24-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1947-24-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1947.24.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved wooden standing figure with elongated neck/collar detail, arms emerging from the collar, and large feet — consistent with Lunda ancestor/power figure sculpture carving traditions of the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Wooden female figure, arms grow from &#039;collar&#039;, with large feet and knees.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2025_8/18_11/c3252c5d_7398_4938_a85b_b33d00b9dddc/preview_EAF48722.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c475f3f231ee253fd005e44c6c1032d168be442883f13f8973c9bf8c1d22f3fa",
+        "bytes": 36632,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\sculpture\\lunda\\images\\bm_E_Af1947_24_4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:13:15.976218+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Wooden female figure, arms grow from &#039;collar&#039;, with large feet and knees.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_8/18_11/c3252c5d_7398_4938_a85b_b33d00b9dddc/preview_EAF48722.jpg",
+      "production_ethnic_groups": [
+        "Lunda"
+      ],
+      "production_ethnic_attribution": "Made by: Lunda"
+    }
+  }
+]

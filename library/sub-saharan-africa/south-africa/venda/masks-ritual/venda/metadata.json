@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1963-21-20-a-c",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1963-21-20-a-c",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1963-21-20-a-c",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1963.21.20.a.c",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Three carved hoof/horn objects used for divination, attributed by the museum to Venda makers; divination objects are ritual items plausibly used by Venda diviners.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "divination-artefact",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "divination-artefact",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Group of three divination objects made of animal (hoof).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_7/69aeb93a_fcbe_430a_ab79_a3df0079708c/preview_01492151_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dbc0446e135dba4707b6bfa5b1b79be80dfb2f8c300e47a7accb7101ad29ed3c",
+        "bytes": 29941,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\masks-ritual\\venda\\images\\bm_E_Af1963_21_20_a_c.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:16.242662+00:00",
+    "raw": {
+      "title": "divination-artefact",
+      "description": "Group of three divination objects made of animal (hoof).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_7/69aeb93a_fcbe_430a_ab79_a3df0079708c/preview_01492151_001.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "british_museum-C_2005-1049-178",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "C_2005-1049-178",
+      "object_url": "https://www.britishmuseum.org/collection/object/C_2005-1049-178",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "C,2005.1049.178",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Laos",
+      "ethnicity": "Lao",
+      "tradition": "Lao",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a printed Lao banknote (currency), not a textile or any handmade/used object of material culture—it is a document/paper item depicting a fishing scene, with no textile visible.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "reattribution": {
+        "to": "southeast-asia__laos__lao",
+        "people": "Lao",
+        "belongs": false,
+        "art_form": "unclassified",
+        "image": "good",
+        "era": "modern",
+        "reason": "This is a Lao printed banknote (currency), not a textile or any object made/worn/used by the Lao people in the craft sense—it's a modern government-issued financial instrument, not ethnographic material culture."
+      }
+    },
+    "physical": {
+      "title": "banknote",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "banknote",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Banknote. &lt;span class=&quot;vsuffix&quot;&gt;(whole)&lt;/span&gt; Scene of armed fishermen throwing fishing nets in &#039;Nam ma&#039; river; printed in blue and orange. Scene of the organised co-operative textile productivity during wartime in Laos; printed in blue.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_14/61377c03_d64a_4a48_bec3_a50700eaf9b9/CBA197234.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "79d9a937a3d374cd697320346834f98125bb0155910dab313ac63cdf36962eaa",
+        "bytes": 568352,
+        "local_path": "library\\southeast-asia\\laos\\lao\\textile\\lao\\images\\bm_C_2005-1049-178.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:29:30.186423+00:00",
+    "raw": {
+      "title": "banknote",
+      "description": "Banknote. &lt;span class=&quot;vsuffix&quot;&gt;(whole)&lt;/span&gt; Scene of armed fishermen throwing fishing nets in &#039;Nam ma&#039; river; printed in blue and orange. Scene of the organised co-operative textile productivity during wartime in Laos; printed in blue.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_14/61377c03_d64a_4a48_bec3_a50700eaf9b9/CBA197234.jpg"
+    }
+  }
+]

@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "europeana-123_https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Veria Central Public Library",
+      "object_id": "123_https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest",
+      "object_url": "https://www.europeana.eu/item/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a modern souvenir figurine of a Thai classical dancer in traditional costume with headdress, mass-produced as a tourist collectible rather than a genuine dance costume, mask, or sculpture from the tradition itself. It depicts Thai dress but is a modern plastic curio, not miniature-painting or manuscript art as claimed.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Thai miniature doll",
+      "titles_alt": [],
+      "date_text": "1970",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Veria Central Public Library",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Fmedusa%2F000114-3_3582manifest&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bf8ddb15c16ff870b1aca4c77645bc98893ba3d2abaaf7ff383afb3e690eaf12",
+        "bytes": 65350,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\painting-mss\\thai\\images\\eu_123_https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:21.235470+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Greece"
+      ],
+      "dataProvider": [
+        "Veria Central Public Library"
+      ],
+      "dcDescription": [
+        "1 κούκλα: πλαστική; 6 εκ.",
+        "Κούκλα από την Ταϊλάνδη. Βρίσκεται πάνω σε μαύρη βάση."
+      ],
+      "dcDescriptionLangAware": {
+        "el": [
+          "1 κούκλα: πλαστική; 6 εκ.",
+          "Κούκλα από την Ταϊλάνδη. Βρίσκεται πάνω σε μαύρη βάση."
+        ]
+      },
+      "dcLanguage": [
+        "eng",
+        "eng"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "eng",
+          "eng"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Thai miniature doll"
+        ]
+      },
+      "edmConcept": [
+        "http://semantics.gr/authorities/ekt-item-types/koykla",
+        "http://semantics.gr/authorities/ekt-unesco/1645119766",
+        "http://data.europeana.eu/concept/2311",
+        "http://semantics.gr/authorities/thematic_tags/994271662",
+        "http://semantics.gr/authorities/ekt-unesco/28491309",
+        "http://semantics.gr/authorities/ekt-unesco/403226875",
+        "http://semantics.gr/authorities/ekt-unesco/1373519437",
+        "http://semantics.gr/authorities/thematic_tags/994149458",
+        "http://semantics.gr/authorities/ekt-item-types/oikopaignio",
+        "http://semantics.gr/authorities/ekt-unesco/1526104100",
+        "http://data.europeana.eu/concept/123",
+        "http://semantics.gr/authorities/thematic_tags/994271603",
+        "http://semantics.gr/authorities/thematic_tags/994273427",
+        "http://semantics.gr/authorities/ekt-unesco/2490196"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Κούκλα"
+        },
+        {
+          "def": "Ήθη και παραδόσεις"
+        },
+        {
+          "def": "Κούκλα"
+        },
+        {
+          "def": "Μακεδονία"
+        },
+        {
+          "def": "Μόδα"
+        },
+        {
+          "def": "Ψυχαγωγικές δραστηριότητες"
+        },
+        {
+          "def": "Λαϊκή παράδοση"
+        },
+        {
+          "def": "Ασία"
+        },
+        {
+          "def": "Παιχνίδι"
+        },
+        {
+          "def": "Άυλη πολιτιστική κληρονομιά"
+        },
+        {
+          "def": "Λαογραφία"
+        },
+        {
+          "def": "Ημαθία"
+        },
+        {
+          "def": "Ταϊλάνδη"
+        },
+        {
+          "def": "Παιχνίδι"
+        },
+        {
+          "def": "Doll"
+        },
+        {
+          "def": "Customs and traditions"
+        },
+        {
+          "def": "Doll"
+        },
+        {
+          "def": "Macedonia"
+        },
+        {
+          "def": "Fashion"
+        },
+        {
+          "def": "Leisure time activities"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Asia"
+        },
+        {
+          "def": "Toy"
+        },
+        {
+          "def": "Intangible cultural heritage"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Imathia"
+        },
+        {
+          "def": "Thailand"
+        },
+        {
+          "def": "Play"
+        },
+        {
+          "def": "Puppe"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Кукла"
+        },
+        {
+          "def": "Фольклор"
+        },
+        {
+          "def": "Nukke"
+        },
+        {
+          "def": "Kansanperinne"
+        },
+        {
+          "def": "Boneca"
+        },
+        {
+          "def": "Folclore"
+        },
+        {
+          "def": "Кукла"
+        },
+        {
+          "def": "Народно творчество"
+        },
+        {
+          "def": "Lėlė"
+        },
+        {
+          "def": "Folkloras"
+        },
+        {
+          "def": "Lelle"
+        },
+        {
+          "def": "Folklora"
+        },
+        {
+          "def": "Lutka"
+        },
+        {
+          "def": "Folklor"
+        },
+        {
+          "def": "Poupée"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Játék baba"
+        },
+        {
+          "def": "Folklór"
+        },
+        {
+          "def": "Lutka"
+        },
+        {
+          "def": "Folklora"
+        },
+        {
+          "def": "Bábóg"
+        },
+        {
+          "def": "Béaloideas"
+        },
+        {
+          "def": "Ninot"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Docka"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Bambola"
+        },
+        {
+          "def": "Folclore"
+        },
+        {
+          "def": "Muñeca"
+        },
+        {
+          "def": "Folclore"
+        },
+        {
+          "def": "Nukk"
+        },
+        {
+          "def": "Rahvaluule"
+        },
+        {
+          "def": "Panpina"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Panenka"
+        },
+        {
+          "def": "Folklór"
+        },
+        {
+          "def": "Lalka"
+        },
+        {
+          "def": "Folklor"
+        },
+        {
+          "def": "Dukke"
+        },
+        {
+          "def": "Folkeminde"
+        },
+        {
+          "def": "Păpușă"
+        },
+        {
+          "def": "Folclor"
+        },
+        {
+          "def": "Pop"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Folklór"
+        },
+        {
+          "def": "Folklor"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Folklore",
+          "Puppe"
+        ],
+        "ru": [
+          "Фольклор",
+          "Кукла"
+        ],
+        "fi": [
+          "Kansanperinne",
+          "Nukke"
+        ],
+        "pt": [
+          "Folclore",
+          "Boneca"
+        ],
+        "bg": [
+          "Народно творчество",
+          "Кукла"
+        ],
+        "lt": [
+          "Lėlė",
+          "Folkloras"
+        ],
+        "lv": [
+          "Lelle",
+          "Folklora"
+        ],
+        "hr": [
+          "Lutka",
+          "Folklor"
+        ],
+        "fr": [
+          "Poupée",
+          "Folklore"
+        ],
+        "hu": [
+          "Folklór",
+          "Játék baba"
+        ],
+        "sk": [
+          "Folklór"
+        ],
+        "sl": [
+          "Lutka",
+          "Folklora"
+        ],
+        "ga": [
+          "Béaloideas",
+          "Bábóg"
+        ],
+        "ca": [
+          "Ninot",
+          "Folklore"
+        ],
+        "sv": [
+          "Folklore",
+          "Docka"
+        ],
+        "el": [
+          "Λαϊκή παράδοση",
+          "Άυλη πολιτιστική κληρονομιά",
+          "Ταϊλάνδη",
+          "Λαογραφία",
+          "Ασία",
+          "Ήθη και παραδόσεις",
+          "Μακεδονία",
+          "Ψυχαγωγικές δραστηριότητες",
+          "Κούκλα",
+          "Μόδα",
+          "Παιχνίδι",
+          "Ημαθία"
+        ],
+        "mt": [
+          "Folklor"
+        ],
+        "en": [
+          "Intangible cultural heritage",
+          "Play",
+          "Customs and traditions",
+          "Leisure time activities",
+          "Asia",
+          "Fashion",
+          "Folklore",
+          "Macedonia",
+          "Doll",
+          "Thailand",
+          "Imathia",
+          "Toy"
+        ],
+        "it": [
+          "Folclore",
+          "Bambola"
+        ],
+        "es": [
+          "Folclore",
+          "Muñeca"
+        ],
+        "et": [
+          "Nukk",
+          "Rahvaluule"
+        ],
+        "eu": [
+          "Panpina",
+          "Folklore"
+        ],
+        "cs": [
+          "Folklór",
+          "Panenka"
+        ],
+        "pl": [
+          "Lalka",
+          "Folklor"
+        ],
+        "da": [
+          "Dukke",
+          "Folkeminde"
+        ],
+        "ro": [
+          "Folclor",
+          "Păpușă"
+        ],
+        "nl": [
+          "Pop",
+          "Folklore"
+        ]
+      },
+      "edmDatasetName": [
+        "123_EKT_medousa"
+      ],
+      "edmIsShownAt": [
+        "https://medusa.libver.gr/iguana/www.main.cls?surl=search&p=2cafc322-e6e4-433a-9fcf-b8b0e4d5c7da#recordId=3.3582&srchDb=3"
+      ],
+      "edmIsShownBy": [
+        "https://medusa.libver.gr/iguana/iiif/image/mnt/vsmart_srv/assets_rw/3_3582_TIFF/123_8642_00001.tif/full/full/0/default.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kingdom of Thailand"
+        },
+        {
+          "def": "Thailand"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "en": [
+          "Kingdom of Thailand",
+          "Thailand"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Ταϊλάνδη"
+        },
+        {
+          "def": "Thailand"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "el": [
+          "Ταϊλάνδη"
+        ],
+        "en": [
+          "Thailand"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "15.5"
+      ],
+      "edmPlaceLongitude": [
+        "101.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Fmedusa%2F000114-3_3582manifest&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1970"
+        },
+        {
+          "def": "Νεότερη Ελλάδα"
+        },
+        {
+          "def": "Δικτατορία"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "Modern Greece"
+        },
+        {
+          "def": "Military junta"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "Νεότερη Ελλάδα",
+          "Δικτατορία",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "Modern Greece",
+          "Military junta",
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "123_EKT_medousa"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3582manifest.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Greek Aggregator SearchCulture.gr"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 78.98242,
+      "timestamp": 1752068695768,
+      "timestamp_created": "2024-02-19T14:06:49.511Z",
+      "timestamp_created_epoch": 1708351609511,
+      "timestamp_update": "2024-02-19T14:06:49.511Z",
+      "timestamp_update_epoch": 1708351609511,
+      "title": [
+        "Thai miniature doll"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1970"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-P_M-41-28",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_M-41-28",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_M-41-28",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,M.41.28",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European etching titled \"La Malinconia,\" a copy after Parmigianino, depicting a European-dressed woman in a turban-like headwrap — no connection to Thai culture, and \"St Thais\" is a saint's name, not an ethnonym.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "St Thais seated on the ground with her right hand resting on her cheek, at  left is a vase on a ledge; copy of an etching by Parmigianino.  16 February 1824\r\nEtching on chine collé",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2023_10/31_13/0d44ff72_111e_4d5c_9d3d_b0ac00deca4a/preview__PPA316044.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1b95d4a1d1498ab4386d281b55860df63f5d3b2e739ec1fbe88228c94c46a1cc",
+        "bytes": 26490,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\painting-mss\\thai\\images\\bm_P_M-41-28.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:22:52.846778+00:00",
+    "raw": {
+      "title": "print; album",
+      "description": "St Thais seated on the ground with her right hand resting on her cheek, at  left is a vase on a ledge; copy of an etching by Parmigianino.  16 February 1824\r\nEtching on chine collé",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_10/31_13/0d44ff72_111e_4d5c_9d3d_b0ac00deca4a/preview__PPA316044.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1991-1022-0-92",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1991-1022-0-92",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1991-1022-0-92",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1991.1022.0.92",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A printed magical/protective yantra diagram on red cotton with Buddha in meditation, deity heads, Khom script, and Thai inscription — a traditional Thai Buddhist amulet cloth print, matching the claimed Thai ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print; amulet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print; amulet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Magical diagram printed in black ink on red cotton, depicting the Buddha seated in meditation, surrounded by six crowned heads of deities, the lower two of which are supported on disembodied legs. The heads are connected by a vegetal scroll, while the rest of the field is filled with text in Khom script. There is a Thai inscription below the diagram.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_19/175ec7ba_4446_4db6_bcd3_a3dc0141582a/preview_01317395_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5c52eff511a0abd8345c40f947a6ab005ab36336e66c5d121f4cda51363d1a6b",
+        "bytes": 47540,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\painting-mss\\thai\\images\\bm_A_1991-1022-0-92.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:11.457503+00:00",
+    "raw": {
+      "title": "print; amulet",
+      "description": "Magical diagram printed in black ink on red cotton, depicting the Buddha seated in meditation, surrounded by six crowned heads of deities, the lower two of which are supported on disembodied legs. The heads are connected by a vegetal scroll, while the rest of the field is filled with text in Khom script. There is a Thai inscription below the diagram.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_19/175ec7ba_4446_4db6_bcd3_a3dc0141582a/preview_01317395_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1999-0630-0-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1999-0630-0-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1999-0630-0-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1999.0630.0.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The painting depicts a Vietnamese ethnic-minority mother and child near the Thai Nguyen steel factory in Vietnam, with Vietnamese-language propaganda text (\"núi rừng là của con, nhà máy cũng của con\") — this is a Vietnamese subject and has no connection to Thai (Thailand) ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss",
+      "reattribution": {
+        "to": "southeast-asia__vietnam__kinh",
+        "people": "Vietnamese",
+        "belongs": true,
+        "art_form": "painting-mss",
+        "image": "good",
+        "era": "modern",
+        "reason": "This is a mid-20th-century propaganda-style poster painting showing a mother in ethnic minority dress with her child before a Vietnamese steel factory, a modern political artwork depicting Vietnamese life (likely a Northern minority woman rather than Kinh, but painted within Vietnamese national culture); it is a contemporary painted composition, not archaeological or traditional court art."
+      }
+    },
+    "physical": {
+      "title": "painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Poster-paint and chalk under-drawing painting on machine-made paper. This poster depicts a mother resting her baby on her hip with a factory in the background. She is dressed in the costume of a peasant with headdress, jade bangle, green &quot;ao dai&quot; (traditional dress) and belt, typical of the minority people of the North in Thai Nguyen. This is probably the Thai Nguyen steel factory, the heart of Vietnam&#039;s heavy industry at War. Her child is plump, healthy, happy and bundled in the warm brightly coloured clothes of the minority costume tradition. Signed, dated and inscribed (in the mother&#039;s voice) with words from a famous Vietnamese poem.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_19/90f00eee_80b6_420b_a0c6_a3b501394e4e/preview_00157096_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f9fdd395aedfc1b926a0e7786cbef25fbc82d8247db918ad3a334c92f6adb09d",
+        "bytes": 42756,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\painting-mss\\thai\\images\\bm_A_1999-0630-0-1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:43.620671+00:00",
+    "raw": {
+      "title": "painting",
+      "description": "Poster-paint and chalk under-drawing painting on machine-made paper. This poster depicts a mother resting her baby on her hip with a factory in the background. She is dressed in the costume of a peasant with headdress, jade bangle, green &quot;ao dai&quot; (traditional dress) and belt, typical of the minority people of the North in Thai Nguyen. This is probably the Thai Nguyen steel factory, the heart of Vietnam&#039;s heavy industry at War. Her child is plump, healthy, happy and bundled in the warm brightly coloured clothes of the minority costume tradition. Signed, dated and inscribed (in the mother&#039;s voice) with words from a famous Vietnamese poem.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_19/90f00eee_80b6_420b_a0c6_a3b501394e4e/preview_00157096_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_2013-3024-12",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_2013-3024-12",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_2013-3024-12",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,2013.3024.12",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A printed yellow yantra cloth with Buddha image, Khom script text, and monk portraits, used to cover ordination stones (luknimit) in a Thai Buddhist ceremony — a traditional Thai ritual/religious textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "yantra",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "yantra",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Yantra. Big Yellow Yantra Buddha and Three Monks.Yantra (magical diagram) printed on a yellow rectangular fabric used to cover what are called in Thai the luknimit, stones which designate the sacred space of the hall (uposatha) for ordinations and other Buddhist monastic ceremonies. The yantra has a large Buddha image in the center surrounded by text in Khom script arranged in a square. Around this square are arranged images of the Buddha’s disciples and small square diagrams with Khom script letters. The whole yantra is bordered by text in Khom script. Above the yantra is the name of the cloth and below are portrait busts of 3 monks. At the bottom are the occasion, location and date written in Thai. Printed.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_22/2831b574_0910_4393_9e28_a3dd017a168d/preview_01419670_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ffb56852a536759808a4bd7417aff302c0f5e27dc76d3e5fdf626a7d6457ac88",
+        "bytes": 43072,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\painting-mss\\thai\\images\\bm_A_2013-3024-12.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:24:07.857000+00:00",
+    "raw": {
+      "title": "yantra",
+      "description": "Yantra. Big Yellow Yantra Buddha and Three Monks.Yantra (magical diagram) printed on a yellow rectangular fabric used to cover what are called in Thai the luknimit, stones which designate the sacred space of the hall (uposatha) for ordinations and other Buddhist monastic ceremonies. The yantra has a large Buddha image in the center surrounded by text in Khom script arranged in a square. Around this square are arranged images of the Buddha’s disciples and small square diagrams with Khom script letters. The whole yantra is bordered by text in Khom script. Above the yantra is the name of the cloth and below are portrait busts of 3 monks. At the bottom are the occasion, location and date written in Thai. Printed.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_22/2831b574_0910_4393_9e28_a3dd017a168d/preview_01419670_001.jpg"
+    }
+  }
+]

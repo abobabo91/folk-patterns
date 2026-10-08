@@ -1,0 +1,116 @@
+[
+  {
+    "id": "europeana-91627_SMVK_EM_fotografi_3643625",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91627_SMVK_EM_fotografi_3643625",
+      "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_3643625?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zuni",
+      "tradition": "Zuni",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a painted leather Kachina mask with feathers, identified by the museum as a Zuni Awehuyan/hielashukti Kachina mask from New Mexico — a ritual object made and used by the Zuni.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3643628/0728.0001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "703c488e989219ba0e2c2efb336c53ebaa69da944ade6aed05cb3fc904c4ac2a",
+        "bytes": 266036,
+        "local_path": "library\\north-america\\united-states\\zuni\\masks-ritual\\zuni\\images\\eu_91627_SMVK_EM_fotografi_3643625.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3643628%2F0728.0001.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:55:42.310161+00:00",
+    "raw": {
+      "id": "/91627/SMVK_EM_fotografi_3643625",
+      "guid": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_3643625?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "fotografi, photograph"
+      ],
+      "dcDescription": [
+        "0728.0001 Nya Mexico United States Vykort till Fil. Dr. Stig Rydén 1964. Painted leather mask of Awehuyan - hielashukti Kachina. Zuni tribe, New Mexico. (Målad skinnmask från Awehuyan - hielashukti Kachina. Zuni-folket, Nya Mexico)."
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3643628%2F0728.0001.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3643628/0728.0001.jpg"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

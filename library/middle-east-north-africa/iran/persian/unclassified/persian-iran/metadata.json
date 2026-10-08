@@ -1,0 +1,2298 @@
+[
+  {
+    "id": "europeana-15514_KI_2979",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_2979",
+      "object_url": "https://www.europeana.eu/item/15514/KI_2979?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a 19th-century printed illustration plate (\"Persischer Teppich XVI Jahrh.\") reproducing a Persian carpet pattern copied from a detail in a European Renaissance altarpiece (Girolamo de Libri, Verona) by a German scholar/artist Hermann Kühn — a European's rendering/study of a carpet design, not a photograph or example of an actual Persian textile object itself, but it does depict an authentic Persian carpet pattern design faithfully.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Kopie eines symmetrischen Perserteppichmusters aus einem Altarbilddetail des Girolamo de Libri (Madonna mit dem Sonnenschirm (?), Museo di Castelvecchio zu Verona, 1530) von Hermann Kühn (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1530-1876"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-2979_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fadb00dbab0640b2a17419833114e9b8cd5d8037be675f82ea2c0acde21d2788",
+        "bytes": 148059,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\persian-iran\\images\\eu_15514_KI_2979.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:08.323814+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "iv",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "iv",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Kopie eines symmetrischen Perserteppichmusters aus einem Altarbilddetail des Girolamo de Libri (Madonna mit dem Sonnenschirm (?), Museo di Castelvecchio zu Verona, 1530) von Hermann Kühn (vom Bearbeiter vergebener Titel)",
+          "(vom Bearbeiter vergebener Titel)"
+        ],
+        "def": [
+          "(vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Copy of a symmetrical pattern of Persian carpet from an altarpiece detail of the Girolamo de Libri (Madonna with the umbrella (?), Museo di Castelvecchio zu Verona, 1530) by Hermann Kühn (vom Beeines vergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "https://d-nb.info/gnd/4199478-4",
+        "http://data.europeana.eu/concept/2090",
+        "http://vocab.getty.edu/aat/300015640",
+        "http://data.europeana.eu/concept/228"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilmuster"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Kopie"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Paperi"
+        },
+        {
+          "def": "Guassi"
+        },
+        {
+          "def": "Бумага"
+        },
+        {
+          "def": "Гуашь"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Guache"
+        },
+        {
+          "def": "Хартия"
+        },
+        {
+          "def": "Гваш"
+        },
+        {
+          "def": "Popierius"
+        },
+        {
+          "def": "Guašas"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Gvaš"
+        },
+        {
+          "def": "Papīrs"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Gvaš"
+        },
+        {
+          "def": "Páipéar"
+        },
+        {
+          "def": "Guais"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Guaix"
+        },
+        {
+          "def": "Papper"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Χαρτί"
+        },
+        {
+          "def": "Γκουάς"
+        },
+        {
+          "def": "Karta"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "copies (derivative objects)"
+        },
+        {
+          "def": "Gouache paint"
+        },
+        {
+          "def": "Carta"
+        },
+        {
+          "def": "riproduzioni"
+        },
+        {
+          "def": "Guazzo"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "copias (objeto derivado)"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Paber"
+        },
+        {
+          "def": "Guašš"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Kvaš"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Gwasz"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Gouache"
+        },
+        {
+          "def": "Hârtie"
+        },
+        {
+          "def": "Guașă"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "kopieën (afgeleide objecten)"
+        },
+        {
+          "def": "Gouache"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Papier",
+          "Kopie",
+          "Gouache"
+        ],
+        "fi": [
+          "Guassi",
+          "Paperi"
+        ],
+        "ru": [
+          "Бумага",
+          "Гуашь"
+        ],
+        "def": [
+          "Textilmuster"
+        ],
+        "pt": [
+          "Papel",
+          "Guache"
+        ],
+        "bg": [
+          "Хартия",
+          "Гваш"
+        ],
+        "lt": [
+          "Popierius",
+          "Guašas"
+        ],
+        "hr": [
+          "Papir",
+          "Gvaš"
+        ],
+        "lv": [
+          "Papīrs"
+        ],
+        "fr": [
+          "Papier",
+          "Gouache"
+        ],
+        "hu": [
+          "Papír",
+          "Gouache"
+        ],
+        "sk": [
+          "Papier"
+        ],
+        "sl": [
+          "Papir",
+          "Gvaš"
+        ],
+        "ga": [
+          "Páipéar",
+          "Guais"
+        ],
+        "ca": [
+          "Paper",
+          "Guaix"
+        ],
+        "sv": [
+          "Papper",
+          "Gouache"
+        ],
+        "el": [
+          "Χαρτί",
+          "Γκουάς"
+        ],
+        "mt": [
+          "Karta"
+        ],
+        "en": [
+          "Paper",
+          "copies (derivative objects)",
+          "Gouache paint"
+        ],
+        "it": [
+          "riproduzioni",
+          "Guazzo",
+          "Carta"
+        ],
+        "es": [
+          "Papel",
+          "copias (objeto derivado)",
+          "Gouache"
+        ],
+        "et": [
+          "Paber",
+          "Guašš"
+        ],
+        "cs": [
+          "Papír",
+          "Kvaš"
+        ],
+        "eu": [
+          "Paper",
+          "Gouache"
+        ],
+        "pl": [
+          "Papier",
+          "Gwasz"
+        ],
+        "da": [
+          "Papir",
+          "Gouache"
+        ],
+        "ro": [
+          "Guașă",
+          "Hârtie"
+        ],
+        "nl": [
+          "Papier",
+          "kopieën (afgeleide objecten)",
+          "Gouache"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-320392"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-2979_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Republik Österreich"
+        },
+        {
+          "def": "AT"
+        },
+        {
+          "def": "AUT"
+        },
+        {
+          "def": "RÖ"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Gratz"
+        },
+        {
+          "def": "Grätz"
+        },
+        {
+          "def": "Bayrisch-Grätz"
+        },
+        {
+          "def": "Bairisch-Grätz"
+        },
+        {
+          "def": "Gradec"
+        },
+        {
+          "def": "Graecia"
+        },
+        {
+          "def": "Grez"
+        },
+        {
+          "def": "Österreich"
+        },
+        {
+          "def": "Republik Österreich"
+        },
+        {
+          "def": "AT"
+        },
+        {
+          "def": "AUT"
+        },
+        {
+          "def": "Republic of Austria"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Štajerský Hradec"
+        },
+        {
+          "def": "Rakúska republika"
+        },
+        {
+          "def": "Gratz"
+        },
+        {
+          "def": "Gradec"
+        },
+        {
+          "def": "AUT"
+        },
+        {
+          "def": "AT"
+        },
+        {
+          "def": "La République d’Autriche"
+        },
+        {
+          "def": "Autr."
+        },
+        {
+          "def": "Aut."
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Grác"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Itävallan tasavalta"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Österreich"
+        },
+        {
+          "def": "Австрийская Республика"
+        },
+        {
+          "def": "Республика Австрия"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Österreich"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "República da Áustria"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Република Австрия"
+        },
+        {
+          "def": "Δημοκρατία της Αυστρίας"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Repubblika tal-Awstrija"
+        },
+        {
+          "def": "Republika Austrija"
+        },
+        {
+          "def": "Österreich"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Republica de Austria"
+        },
+        {
+          "def": "República de Austria"
+        },
+        {
+          "def": "Republik Österreich"
+        },
+        {
+          "def": "AT"
+        },
+        {
+          "def": "AUT"
+        },
+        {
+          "def": "RÖ"
+        },
+        {
+          "def": "Austria Vabariik"
+        },
+        {
+          "def": "Republika Austrii"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "República d'Àustria"
+        },
+        {
+          "def": "Segona República d'Àustria"
+        },
+        {
+          "def": "República Federal d'Àustria"
+        },
+        {
+          "def": "Ostalriche"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "AT"
+        },
+        {
+          "def": "AUT"
+        },
+        {
+          "def": "Republiek Oostenrijk"
+        },
+        {
+          "def": "Wenen"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Stadtgemeinde Graz"
+        },
+        {
+          "def": "Grätz (Graz)"
+        },
+        {
+          "def": "Gradc"
+        },
+        {
+          "def": "Gratz"
+        },
+        {
+          "def": "Graecium"
+        },
+        {
+          "def": "Graecia"
+        },
+        {
+          "def": "Gracensis"
+        },
+        {
+          "def": "Graezi"
+        },
+        {
+          "def": "Graecii Styrorum"
+        },
+        {
+          "def": "Graecii"
+        },
+        {
+          "def": "Grätz"
+        },
+        {
+          "def": "Gräz"
+        },
+        {
+          "def": "Graetz"
+        },
+        {
+          "def": "Gracia"
+        },
+        {
+          "def": "Grecium Styriae"
+        },
+        {
+          "def": "Stadt Graz"
+        },
+        {
+          "def": "Grác"
+        },
+        {
+          "def": "Gradec"
+        },
+        {
+          "def": "Štýrský Hradec"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien",
+          "Republik Österreich",
+          "AT",
+          "AUT",
+          "RÖ"
+        ],
+        "fi": [
+          "Itävallan tasavalta",
+          "Wien"
+        ],
+        "ru": [
+          "Österreich",
+          "Австрийская Республика",
+          "Республика Австрия",
+          "Вена"
+        ],
+        "sv": [
+          "Österreich",
+          "Wien"
+        ],
+        "pt": [
+          "República da Áustria",
+          "Viena"
+        ],
+        "def": [
+          "Stadtgemeinde Graz",
+          "Grätz (Graz)",
+          "Gradc",
+          "Gratz",
+          "Graecium",
+          "Graecia",
+          "Gracensis",
+          "Graezi",
+          "Graecii Styrorum",
+          "Graecii",
+          "Grätz",
+          "Gräz",
+          "Graetz",
+          "Gracia",
+          "Grecium Styriae",
+          "Stadt Graz",
+          "Grác",
+          "Gradec",
+          "Štýrský Hradec"
+        ],
+        "bg": [
+          "Република Австрия"
+        ],
+        "el": [
+          "Δημοκρατία της Αυστρίας",
+          "Βιέννη"
+        ],
+        "mt": [
+          "Repubblika tal-Awstrija"
+        ],
+        "en": [
+          "Vienna",
+          "Gratz",
+          "Grätz",
+          "Bayrisch-Grätz",
+          "Bairisch-Grätz",
+          "Gradec",
+          "Graecia",
+          "Grez",
+          "Österreich",
+          "Republik Österreich",
+          "AT",
+          "AUT",
+          "Republic of Austria",
+          "Vienna"
+        ],
+        "hr": [
+          "Republika Austrija",
+          "Österreich",
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Gratz",
+          "Gradec",
+          "AUT",
+          "AT",
+          "La République d’Autriche",
+          "Autr.",
+          "Aut.",
+          "Vienne"
+        ],
+        "hu": [
+          "Grác",
+          "Bécs"
+        ],
+        "es": [
+          "Republica de Austria",
+          "República de Austria",
+          "Republik Österreich",
+          "AT",
+          "AUT",
+          "RÖ"
+        ],
+        "et": [
+          "Austria Vabariik"
+        ],
+        "cs": [
+          "Graz",
+          "Vídeň"
+        ],
+        "sk": [
+          "Štajerský Hradec",
+          "Rakúska republika"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Republika Austrii",
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Austria",
+          "República d'Àustria",
+          "Segona República d'Àustria",
+          "República Federal d'Àustria",
+          "Ostalriche",
+          "Viena"
+        ],
+        "nl": [
+          "AT",
+          "AUT",
+          "Republiek Oostenrijk",
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Österreich"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Itävalta"
+        },
+        {
+          "def": "Грац"
+        },
+        {
+          "def": "Австрия"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Áustria"
+        },
+        {
+          "def": "Грац"
+        },
+        {
+          "def": "Австрия"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Gracas"
+        },
+        {
+          "def": "Austrija"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austrija"
+        },
+        {
+          "def": "Grāca"
+        },
+        {
+          "def": "Austrija"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Autriche"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Ausztria"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Rakúsko"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Gradec"
+        },
+        {
+          "def": "Avstrija"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "An Ostair"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Àustria"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Österrike"
+        },
+        {
+          "def": "Γκρατς"
+        },
+        {
+          "def": "Αυστρία"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Awstrija"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Viin"
+        },
+        {
+          "def": "Štýrský Hradec"
+        },
+        {
+          "def": "Rakousko"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Østrig"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Austria"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Graz"
+        },
+        {
+          "def": "Oostenrijk"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Graz"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Graz",
+          "Österreich",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "fi": [
+          "Graz",
+          "Itävalta"
+        ],
+        "ru": [
+          "Грац",
+          "Австрия"
+        ],
+        "def": [
+          "Graz"
+        ],
+        "pt": [
+          "Graz",
+          "Áustria"
+        ],
+        "bg": [
+          "Грац",
+          "Австрия",
+          "Виена"
+        ],
+        "lt": [
+          "Gracas",
+          "Austrija",
+          "Viena"
+        ],
+        "hr": [
+          "Graz",
+          "Austrija"
+        ],
+        "lv": [
+          "Grāca",
+          "Austrija"
+        ],
+        "fr": [
+          "Graz",
+          "Autriche"
+        ],
+        "hu": [
+          "Graz",
+          "Ausztria"
+        ],
+        "sk": [
+          "Graz",
+          "Rakúsko",
+          "Viedeň"
+        ],
+        "sl": [
+          "Gradec",
+          "Avstrija"
+        ],
+        "ga": [
+          "Graz",
+          "An Ostair"
+        ],
+        "ca": [
+          "Graz",
+          "Àustria"
+        ],
+        "sv": [
+          "Graz",
+          "Österrike"
+        ],
+        "el": [
+          "Γκρατς",
+          "Αυστρία"
+        ],
+        "mt": [
+          "Graz",
+          "Awstrija"
+        ],
+        "en": [
+          "Graz",
+          "Austria"
+        ],
+        "it": [
+          "Graz",
+          "Austria"
+        ],
+        "es": [
+          "Viena",
+          "Graz",
+          "Austria",
+          "Viena"
+        ],
+        "et": [
+          "Graz",
+          "Austria",
+          "Viin"
+        ],
+        "cs": [
+          "Štýrský Hradec",
+          "Rakousko"
+        ],
+        "eu": [
+          "Graz",
+          "Austria"
+        ],
+        "pl": [
+          "Graz",
+          "Austria"
+        ],
+        "da": [
+          "Graz",
+          "Østrig"
+        ],
+        "ro": [
+          "Graz",
+          "Austria",
+          "Viena"
+        ],
+        "nl": [
+          "Graz",
+          "Oostenrijk"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "47.070835",
+        "48.0",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "15.438611",
+        "14.0",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-2979_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1530-1876"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1530-1876"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/15514/KI_2979?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_2979",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_2979.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 32.999706,
+      "timestamp": 1752015223320,
+      "timestamp_created": "2023-02-13T15:37:53.434Z",
+      "timestamp_created_epoch": 1676302673434,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Kopie eines symmetrischen Perserteppichmusters aus einem Altarbilddetail des Girolamo de Libri (Madonna mit dem Sonnenschirm (?), Museo di Castelvecchio zu Verona, 1530) von Hermann Kühn (vom Bearbeiter vergebener Titel)",
+        "(vom Bearbeiter vergebener Titel)",
+        "(vom Bearbeiter vergebener Titel)",
+        "Copy of a symmetrical pattern of Persian carpet from an altarpiece detail of the Girolamo de Libri (Madonna with the umbrella (?), Museo di Castelvecchio zu Verona, 1530) by Hermann Kühn (vom Beeines vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_1033548",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_1033548",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_1033548?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a face veil (burqa/battoulah-type) worn by women near the Persian Gulf, collected in Bandar Abbas/Minab, Iran, which fits the claimed Persian ethnicity as a regional garment tradition.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "garment",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Gezichtsmasker",
+      "titles_alt": [],
+      "date_text": "1959",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/NMVW/7054-9.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1a141be5bac413894277cb99ea94ee10e9c7ee95f5898d9ffcda3ea13b8fefdf",
+        "bytes": 1127493,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\unclassified\\persian-iran\\images\\eu_2048221_europeana_fashion_1033548.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:16.400143+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Gezichtsmaskers waren een vorm van sluiering die voornamelijk gangbaar was in de landen aan beide zijden van de Perzische Golf: Oman, de Verenigde Arabische Emiraten en Iran (Vogelsang-Eastwood 1996: 60).\n\nDeze sluier is midden 20e eeuw verzameld in Bandar Abbas, maar is afkomstig uit de nabij gelegen plaats Minab. Vrijwel alle soennitische vrouwen daar droegen toen dit type sluier, op straat en in andere publieke contexten. Sjiitische vrouwen droegen ze niet. Binnenshuis deden vrouwen ze af, zolang de aanwezige mannen bekend waren. De sluiers waren niet te koop in winkels of op de markt. Vermoedelijk werden ze door de vrouwen zelf gemaakt. \n\nDit rechthoekig masker dat neus, gedeelte van het voorhoofd, wenkbrauwen en de mond bedekt heeft twee rechthoekige openingen om door te kijken. Het is gemaakt van zwarte ietwat glimmende stof (katoen?) dat gedeeltelijk op de voorzijde langs de buitenranden is geborduurd met rood, groen, oranje en blauw garen in geometrische versiering. In het midden is de stof dubbelgeslagen en vastgemaakt rondom een opstaand houten plaatje van 2,5 centimeter breed over de gehele breedte van het masker. Dit gedeelte steekt uit van het gezicht. Op de achterzijde van het masker is aan beide zijden van de bovenkant een dubbelgeslagen glinsterend koord vastgemaakt met geel garen. Dit dient ter bevestiging van het masker om het hoofd. Het koord links is korter dan het koord rechts. De achterzijde van het masker is bedekt met fel blauw katoen.",
+        "Face masks were a form of veiling that was primarily common in the countries on both sides of the Persian Gulf: Oman, the United Arab Emirates, and Iran (Vogelsang-Eastwood 1996: 60).This veil was collected in Bandar Abbas in the mid-20th century, but originated in the nearby town of Minab. Almost all Sunni women there wore this type of veil at the time, on the street and in other public contexts. Shiite women did not wear them. Indoors, women took them off, as long as the men present were known. The veils were not for sale in shops or on the market. Presumably they were made by the women themselves. \\This rectangular mask covering nose, part of forehead, eyebrows and mouth has two rectangular openings to look through. It is made of black slightly shiny fabric (cotton?) that is partially embroidered on the front along the outer edges with red, green, orange and blue thread in geometric decoration. In the centre, the fabric is folded in half and fastened around a raised wooden plate 2.5 centimetres wide across the width of the mask. This section protrudes from the face. On the back of the mask, a double-wrapped glittering cord is attached with yellow thread on both sides of the top. This serves to secure the mask around the head. The cord on the left is shorter than the cord on the right. The back of the mask is covered with bright blue cotton."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Face masks were a form of veiling that was primarily common in the countries on both sides of the Persian Gulf: Oman, the United Arab Emirates, and Iran (Vogelsang-Eastwood 1996: 60).This veil was collected in Bandar Abbas in the mid-20th century, but originated in the nearby town of Minab. Almost all Sunni women there wore this type of veil at the time, on the street and in other public contexts. Shiite women did not wear them. Indoors, women took them off, as long as the men present were known. The veils were not for sale in shops or on the market. Presumably they were made by the women themselves. \\This rectangular mask covering nose, part of forehead, eyebrows and mouth has two rectangular openings to look through. It is made of black slightly shiny fabric (cotton?) that is partially embroidered on the front along the outer edges with red, green, orange and blue thread in geometric decoration. In the centre, the fabric is folded in half and fastened around a raised wooden plate 2.5 centimetres wide across the width of the mask. This section protrudes from the face. On the back of the mask, a double-wrapped glittering cord is attached with yellow thread on both sides of the top. This serves to secure the mask around the head. The cord on the left is shorter than the cord on the right. The back of the mask is covered with bright blue cotton."
+        ],
+        "nl": [
+          "Gezichtsmaskers waren een vorm van sluiering die voornamelijk gangbaar was in de landen aan beide zijden van de Perzische Golf: Oman, de Verenigde Arabische Emiraten en Iran (Vogelsang-Eastwood 1996: 60).\n\nDeze sluier is midden 20e eeuw verzameld in Bandar Abbas, maar is afkomstig uit de nabij gelegen plaats Minab. Vrijwel alle soennitische vrouwen daar droegen toen dit type sluier, op straat en in andere publieke contexten. Sjiitische vrouwen droegen ze niet. Binnenshuis deden vrouwen ze af, zolang de aanwezige mannen bekend waren. De sluiers waren niet te koop in winkels of op de markt. Vermoedelijk werden ze door de vrouwen zelf gemaakt. \n\nDit rechthoekig masker dat neus, gedeelte van het voorhoofd, wenkbrauwen en de mond bedekt heeft twee rechthoekige openingen om door te kijken. Het is gemaakt van zwarte ietwat glimmende stof (katoen?) dat gedeeltelijk op de voorzijde langs de buitenranden is geborduurd met rood, groen, oranje en blauw garen in geometrische versiering. In het midden is de stof dubbelgeslagen en vastgemaakt rondom een opstaand houten plaatje van 2,5 centimeter breed over de gehele breedte van het masker. Dit gedeelte steekt uit van het gezicht. Op de achterzijde van het masker is aan beide zijden van de bovenkant een dubbelgeslagen glinsterend koord vastgemaakt met geel garen. Dit dient ter bevestiging van het masker om het hoofd. Het koord links is korter dan het koord rechts. De achterzijde van het masker is bedekt met fel blauw katoen."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Face mask"
+        ],
+        "nl": [
+          "Gezichtsmasker"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10183",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10417",
+        "http://data.europeana.eu/concept/2448",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10797",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10411",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10586",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10404",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10414",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10402",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Gelb"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Garn"
+        },
+        {
+          "def": "Orange"
+        },
+        {
+          "def": "Wachs"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "grün"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Rot"
+        },
+        {
+          "def": "Blau"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "mask"
+        },
+        {
+          "def": "gul"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "garn"
+        },
+        {
+          "def": "orange"
+        },
+        {
+          "def": "vax"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "grön"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "röd"
+        },
+        {
+          "def": "blå"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "máscara"
+        },
+        {
+          "def": "amarelo"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "fio têxtil"
+        },
+        {
+          "def": "laranja"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "verde"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "vermelho"
+        },
+        {
+          "def": "azul"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "μάσκα"
+        },
+        {
+          "def": "κίτρινο"
+        },
+        {
+          "def": "νήμα"
+        },
+        {
+          "def": "πορτοκαλί"
+        },
+        {
+          "def": "κερί"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "πράσινο"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "κόκκινο"
+        },
+        {
+          "def": "μπλε"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "mask"
+        },
+        {
+          "def": "yellow"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "yarn"
+        },
+        {
+          "def": "orange"
+        },
+        {
+          "def": "wax"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "green"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "red"
+        },
+        {
+          "def": "blue"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "maschera"
+        },
+        {
+          "def": "giallo"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "filato"
+        },
+        {
+          "def": "arancione"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "verde"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "rosso"
+        },
+        {
+          "def": "blu"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "masque"
+        },
+        {
+          "def": "jaune"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "fil"
+        },
+        {
+          "def": "orange"
+        },
+        {
+          "def": "cire"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "vert"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "rouge"
+        },
+        {
+          "def": "bleu"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "מסכה"
+        },
+        {
+          "def": "צהוב"
+        },
+        {
+          "def": "חוט"
+        },
+        {
+          "def": "כתום"
+        },
+        {
+          "def": "שעווה"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ירוק"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "אדום"
+        },
+        {
+          "def": "כחול"
+        },
+        {
+          "def": "masker"
+        },
+        {
+          "def": "geel"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "garen"
+        },
+        {
+          "def": "oranje"
+        },
+        {
+          "def": "was"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "groen"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "rood"
+        },
+        {
+          "def": "blauw"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "máscara"
+        },
+        {
+          "def": "amarillo"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "hilo"
+        },
+        {
+          "def": "naranja"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "verde"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "rojo"
+        },
+        {
+          "def": "azul"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "maska"
+        },
+        {
+          "def": "жута"
+        },
+        {
+          "def": "pređa"
+        },
+        {
+          "def": "наранџаста"
+        },
+        {
+          "def": "vosak"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "зелена"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "црвена"
+        },
+        {
+          "def": "плава"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Mască"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Blau",
+          "Maske",
+          "Wachs",
+          "Gelb",
+          "Baumwolle",
+          "Rot",
+          "Garn",
+          "ambra",
+          "Orange",
+          "grün",
+          "Baumwollfaser"
+        ],
+        "ru": [
+          "Хлопок",
+          "Маска"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Naamari"
+        ],
+        "pt": [
+          "máscara",
+          "vermelho",
+          "âmbar cinza",
+          "Algodão",
+          "amarelo",
+          "fio têxtil",
+          "Máscara",
+          "laranja",
+          "algodão",
+          "verde",
+          "azul"
+        ],
+        "bg": [
+          "Маска",
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė",
+          "Kaukė"
+        ],
+        "hr": [
+          "Pamuk",
+          "Maska"
+        ],
+        "lv": [
+          "Kokvilna",
+          "Maska"
+        ],
+        "fr": [
+          "Masque",
+          "orange",
+          "coton",
+          "ambre gris",
+          "Coton",
+          "bleu",
+          "jaune",
+          "vert",
+          "cire",
+          "fil",
+          "rouge",
+          "masque"
+        ],
+        "hu": [
+          "Álarc",
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna",
+          "Maska"
+        ],
+        "sl": [
+          "Bombaž",
+          "Maska"
+        ],
+        "ga": [
+          "Masc",
+          "Cadás"
+        ],
+        "ca": [
+          "Cotó",
+          "Màscara"
+        ],
+        "sr": [
+          "плава",
+          "жута",
+          "наранџаста",
+          "ćilibar",
+          "црвена",
+          "vosak",
+          "maska",
+          "зелена",
+          "pamuk",
+          "pređa"
+        ],
+        "sv": [
+          "orange",
+          "röd",
+          "grön",
+          "garn",
+          "blå",
+          "Bomull",
+          "vax",
+          "ambra",
+          "Ansiktsmask",
+          "mask",
+          "gul",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "πράσινο",
+          "άμπαρο",
+          "μάσκα",
+          "νήμα",
+          "κερί",
+          "Βαμβάκι",
+          "κόκκινο",
+          "πορτοκαλί",
+          "κίτρινο",
+          "μπλε"
+        ],
+        "en": [
+          "orange",
+          "red",
+          "green",
+          "blue",
+          "cotton (fiber)",
+          "yellow",
+          "Mask",
+          "ambergris",
+          "yarn",
+          "Cotton",
+          "mask",
+          "wax"
+        ],
+        "it": [
+          "ambra grigia",
+          "giallo",
+          "Maschera",
+          "arancione",
+          "rosso",
+          "Cotone",
+          "verde",
+          "blu",
+          "filato",
+          "cotone",
+          "maschera",
+          "cera"
+        ],
+        "es": [
+          "máscara",
+          "Algodón",
+          "amarillo",
+          "hilo",
+          "naranja",
+          "ámbar gris",
+          "rojo",
+          "Máscara",
+          "verde",
+          "algodón",
+          "azul",
+          "cera"
+        ],
+        "et": [
+          "Puuvill",
+          "Mask"
+        ],
+        "cs": [
+          "Bavlna",
+          "Maska"
+        ],
+        "eu": [
+          "Maskara",
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna",
+          "Maska"
+        ],
+        "he": [
+          "אדום",
+          "כחול",
+          "כותנה",
+          "כתום",
+          "שעווה",
+          "ענבר אפור",
+          "חוט",
+          "מסכה",
+          "ירוק",
+          "צהוב"
+        ],
+        "da": [
+          "Bomuld",
+          "Maske"
+        ],
+        "ro": [
+          "Mască",
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "masker",
+          "geel",
+          "oranje",
+          "rood",
+          "Masker",
+          "garen",
+          "was",
+          "amber",
+          "katoen (vezel)",
+          "groen",
+          "blauw"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/1033548"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/NMVW/7054-9.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FNMVW%2F7054-9.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1959/1969"
+        },
+        {
+          "def": "1959"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1959/1969",
+          "1959"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_1033548?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_1033548",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_1033548.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 10.3325405,
+      "timestamp": 1762963669631,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Gezichtsmasker",
+        "Face mask"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1959"
+      ]
+    }
+  }
+]

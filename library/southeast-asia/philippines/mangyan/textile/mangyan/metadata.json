@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1958-06-201-a-s",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1958-06-201-a-s",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1958-06-201-a-s",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1958.06.201.a.s",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Mangyan",
+      "tradition": "Mangyan",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a backstrap loom with an attached, striped/patterned woven skirt textile still on the loom, explicitly attributed by the museum to the Hanunóo, a Mangyan subgroup, matching the claimed ethnicity and category well.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "loom; textile; skirt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "loom; textile; skirt",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Backstrap loom made of bamboo and wood, with incomplete wool (?) yarn textile (woman&#039;s skirt) attached. The lomm comprises parts (a) upper end bar; (b) cross-piece; (c), (d), (e) three warp sticks; (f) tenter hook; (g) and (h) two halves of lower end bar; (i) bobbin (with attached yarn); (j) weaving sword; (k.i and ii) two heddle cords; (l.i and ii) two heddle sticks; (m) and (n) two shed rolls; (o) back board; (p) back strap; (q) cross-stick; (r) warp threads of textile; (s) weft threads of textile.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2023_11/7_15/d2e2e038_474d_4e18_989c_b0b30102f6f6/preview_As1958_06_201.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a09608945601108d66668807eb1c018e8430cf3d429fa9c7422cdb118e73dd9b",
+        "bytes": 91714,
+        "local_path": "library\\southeast-asia\\philippines\\mangyan\\textile\\mangyan\\images\\bm_A_As1958_06_201_a_s.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:22:39.303545+00:00",
+    "raw": {
+      "title": "loom; textile; skirt",
+      "description": "Backstrap loom made of bamboo and wood, with incomplete wool (?) yarn textile (woman&#039;s skirt) attached. The lomm comprises parts (a) upper end bar; (b) cross-piece; (c), (d), (e) three warp sticks; (f) tenter hook; (g) and (h) two halves of lower end bar; (i) bobbin (with attached yarn); (j) weaving sword; (k.i and ii) two heddle cords; (l.i and ii) two heddle sticks; (m) and (n) two shed rolls; (o) back board; (p) back strap; (q) cross-stick; (r) warp threads of textile; (s) weft threads of textile.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_11/7_15/d2e2e038_474d_4e18_989c_b0b30102f6f6/preview_As1958_06_201.jpg",
+      "production_ethnic_groups": [
+        "Hanunóo"
+      ],
+      "production_ethnic_attribution": "Made by: Hanunóo"
+    }
+  }
+]

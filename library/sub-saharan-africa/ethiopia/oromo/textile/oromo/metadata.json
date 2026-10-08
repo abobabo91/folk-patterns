@@ -1,0 +1,95 @@
+[
+  {
+    "id": "british_museum-E_Af1914-0417-56",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1914-0417-56",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1914-0417-56",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1914.0417.56",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ethiopia",
+      "ethnicity": "Oromo",
+      "tradition": "Oromo",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a woven fibre sack/bag with banded geometric patterning in black, brown and undyed fibre — a plausible handmade utility textile consistent with Oromo material culture in Ethiopia; no evidence contradicts the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "sack; bag",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "sack; bag",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sack woven from vegetable fibre string, square with black, brown and white fibres.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/576e8fbe_c29d_431b_8df6_a3e60154bcd2/preview_01609562_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "48c1e386360b4ad08078ab8b67be68aea8a03ced4dbe830fa3b5849f44236079",
+        "bytes": 81016,
+        "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\textile\\oromo\\images\\bm_E_Af1914-0417-56.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-26T21:10:22.077654+00:00",
+    "raw": {
+      "title": "sack; bag",
+      "description": "Sack woven from vegetable fibre string, square with black, brown and white fibres.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_20/576e8fbe_c29d_431b_8df6_a3e60154bcd2/preview_01609562_001.jpg"
+    }
+  }
+]

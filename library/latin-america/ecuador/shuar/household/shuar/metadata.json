@@ -1,0 +1,116 @@
+[
+  {
+    "id": "europeana-2022703_pages_Main_idt_19283_inventary_CE592_table_FMUS_museum_MNA",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of Anthropology",
+      "object_id": "2022703_pages_Main_idt_19283_inventary_CE592_table_FMUS_museum_MNA",
+      "object_url": "https://www.europeana.eu/item/2022703/pages_Main_idt_19283_inventary_CE592_table_FMUS_museum_MNA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Ecuador",
+      "ethnicity": "Shuar",
+      "tradition": "Shuar",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:codex-gpt-5.6-luna",
+      "vision_reason": "The image shows a traditional spherical güira-fruit container (mati) with a suspension cord, identified as accompanying Shuar blowgun darts. It plausibly belongs to Shuar material culture and fits the claimed ethnicity, although it is a plain utilitarian object.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Recipiente",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of Anthropology",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE592_SEQ_001_P.JPG&Ninv=CE592",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4b525c526a3c1af52ac9299849544c5aa585d915c4792e9fe3e1c6efacb17932",
+        "bytes": 10003,
+        "local_path": "library\\latin-america\\ecuador\\shuar\\household\\shuar\\images\\eu_2022703_pages_Main_idt_19283_inventary_CE592_table_FMUS_museum_MNA.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE592_SEQ_001_P.JPG%26Ninv%3DCE592&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-04T14:14:57.202199+00:00",
+    "raw": {
+      "id": "/2022703/pages_Main_idt_19283_inventary_CE592_table_FMUS_museum_MNA",
+      "guid": "https://www.europeana.eu/item/2022703/pages_Main_idt_19283_inventary_CE592_table_FMUS_museum_MNA?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Recipiente"
+      ],
+      "dcDescription": [
+        "Corteza de fruto de forma esférica y color marrón, presenta dos perforaciones, una en cada extremo. En su interior hay fibra algodonosa de semilla de ceiba de color beige, así como fragmentos de papel impreso, con toda probabilidad añadidos después de su recolección. En la perforación más estrecha está sujeto un cordón de fibra vegetal, para suspensión.   Clasificación razonada: Este tipo de recipientes de corteza de fruto de güira rellenos de fibra de ceiba, llamados mati, acompañan al carcaj con dardos para la cerbatana. La economía tradicional de las culturas shuar, achuar y shiwiar era una"
+      ],
+      "dataProvider": [
+        "National Museum of Anthropology"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fceres.mcu.es%2Fpages%2FViewer%3Fraw%3Dy%26accion%3D42%26AMuseo%3DMNA%26img%3D%2FMNA%2Ffondos_pre%2FMNAFCE592_SEQ_001_P.JPG%26Ninv%3DCE592&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MNA&img=/MNA/fondos_pre/MNAFCE592_SEQ_001_P.JPG&Ninv=CE592"
+      ],
+      "country": [
+        "Spain"
+      ]
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1963-21-6",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1963-21-6",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1963-21-6",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1963.21.6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mozambique",
+      "ethnicity": "Tsonga",
+      "tradition": "Tsonga",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A bone divination tablet with incised geometric patterns and red/black pigment, a well-documented Tsonga diviner's tool used in bone-throwing (ditaola) sets. This fits the claimed ethnicity and functions as a ritual/divination object.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "divination-tablet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "divination-tablet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Divining tablet made of bone, pigment.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/3dfd054e_fc50_4050_abde_a3e0007b07b1/preview_01567844_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c2e3cd784752da62908f7aa0ba2ed5864eacb17f925a70a7c8b65cf59be014f0",
+        "bytes": 63537,
+        "local_path": "library\\sub-saharan-africa\\mozambique\\tsonga\\masks-ritual\\tsonga\\images\\bm_E_Af1963_21_6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:22:41.217511+00:00",
+    "raw": {
+      "title": "divination-tablet",
+      "description": "Divining tablet made of bone, pigment.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_7/3dfd054e_fc50_4050_abde_a3e0007b07b1/preview_01567844_001.jpg",
+      "production_ethnic_groups": [
+        "Tsonga"
+      ],
+      "production_ethnic_attribution": "Made by: Tsonga"
+    }
+  }
+]

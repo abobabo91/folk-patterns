@@ -1,0 +1,212 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1020799",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1020799",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1020799?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Haida",
+      "tradition": "Haida",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a serigraph print by Haida artist Jim Hart, \"Eagle coming out of the Smokehole,\" made for his Masset totem pole raising at UBC in 1982 — Haida formline art made by a Haida artist, clearly fitting the claimed culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "graphics",
+      "titles_alt": [],
+      "date_text": "1982",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1329509/1994.17.0001_alt.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a40fe478d4988449b17f01e99e4d2cc25e1aae9f75bbdb77a8914616dad5c0ad",
+        "bytes": 36867,
+        "local_path": "library\\north-america\\canada\\haida\\painting-mss\\haida\\images\\eu_91619_SMVK_EM_objekt_1020799.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1329509%2F1994.17.0001_alt.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:17:10.712420+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1020799",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1020799?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "graphics",
+        "grafik, serigrafi",
+        "grafik, serigrafi"
+      ],
+      "dcCreator": [
+        "Hart, Jim, haida",
+        "Hart, Jim, haida",
+        "Hart, Jim, haida"
+      ],
+      "dcDescription": [
+        "Canada 1994.17.0001 America Amerika \"Eagle coming out of the Smokehole\", Haida Masset Pole Raising, 1982. Serigrafi av Jim Hart, open edition.\n\nDenna serigrafi trycktes i två syften, dels som inbjudning till resningen av Jim Harts totempåle utanför Museum of Anthropology i University of British Columbia, 1982, och dels för att berätta om och beskriva Jim Harts konstnärliga kallelse. Haidaindianerna är indelade i två \"moities\", hälfter, korpar och örnar. Jim Hart tillhör örnarna och serigrafin visar hur han i örnform kommer ut ur rökhålet på ett traditionellt Haida-hus, och lämnar de vanliga ha"
+      ],
+      "year": [
+        "1982"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1329509%2F1994.17.0001_alt.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1329509/1994.17.0001_alt.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Canada"
+        },
+        {
+          "def": "Канада"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Canadá"
+        },
+        {
+          "def": "Канада"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Kanāda"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Canada"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Ceanada"
+        },
+        {
+          "def": "Canadà"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Καναδάς"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Canada"
+        },
+        {
+          "def": "Canada"
+        },
+        {
+          "def": "Canadá"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Kanada"
+        },
+        {
+          "def": "Canada"
+        },
+        {
+          "def": "Canada"
+        },
+        {
+          "def": "Canada"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

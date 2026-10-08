@@ -1,0 +1,6103 @@
+[
+  {
+    "id": "europeana-123_https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Veria Central Public Library",
+      "object_id": "123_https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest",
+      "object_url": "https://www.europeana.eu/item/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a pair of costumed cloth dolls representing traditional Thai classical dancers, wearing typical Thai theatrical dress with pointed gold headdresses (chada) and ornate brocade costumes — a craft/costume object plausible for Thai culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Traditional Thai dancers",
+      "titles_alt": [],
+      "date_text": "1950",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Veria Central Public Library",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Fmedusa%2F000114-3_3588manifest&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "110723442c7cae0fbbb3f17fd4da9f4c253ae66312a3c564acfdabd3438287eb",
+        "bytes": 88992,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_123_https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:21.244278+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Greece"
+      ],
+      "dataProvider": [
+        "Veria Central Public Library"
+      ],
+      "dcDescription": [
+        "2 κούκλες: πάνινες; 20 εκ.",
+        "Ζευγάρι χορευτών από την Ταϊλάνδη στηριγμένο σε βάση."
+      ],
+      "dcDescriptionLangAware": {
+        "el": [
+          "2 κούκλες: πάνινες; 20 εκ.",
+          "Ζευγάρι χορευτών από την Ταϊλάνδη στηριγμένο σε βάση."
+        ]
+      },
+      "dcLanguage": [
+        "eng",
+        "eng"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "eng",
+          "eng"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Traditional Thai dancers"
+        ]
+      },
+      "edmConcept": [
+        "http://semantics.gr/authorities/ekt-item-types/koykla",
+        "http://semantics.gr/authorities/ekt-unesco/1645119766",
+        "http://data.europeana.eu/concept/2311",
+        "http://semantics.gr/authorities/thematic_tags/994271662",
+        "http://semantics.gr/authorities/ekt-unesco/28491309",
+        "http://semantics.gr/authorities/ekt-unesco/403226875",
+        "http://semantics.gr/authorities/ekt-unesco/1373519437",
+        "http://semantics.gr/authorities/thematic_tags/994149458",
+        "http://semantics.gr/authorities/ekt-item-types/oikopaignio",
+        "http://semantics.gr/authorities/ekt-unesco/1526104100",
+        "http://data.europeana.eu/concept/123",
+        "http://semantics.gr/authorities/thematic_tags/994271603",
+        "http://semantics.gr/authorities/thematic_tags/994273427",
+        "http://semantics.gr/authorities/ekt-unesco/2490196"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Κούκλα"
+        },
+        {
+          "def": "Ήθη και παραδόσεις"
+        },
+        {
+          "def": "Κούκλα"
+        },
+        {
+          "def": "Μακεδονία"
+        },
+        {
+          "def": "Μόδα"
+        },
+        {
+          "def": "Ψυχαγωγικές δραστηριότητες"
+        },
+        {
+          "def": "Λαϊκή παράδοση"
+        },
+        {
+          "def": "Ασία"
+        },
+        {
+          "def": "Παιχνίδι"
+        },
+        {
+          "def": "Άυλη πολιτιστική κληρονομιά"
+        },
+        {
+          "def": "Λαογραφία"
+        },
+        {
+          "def": "Ημαθία"
+        },
+        {
+          "def": "Ταϊλάνδη"
+        },
+        {
+          "def": "Παιχνίδι"
+        },
+        {
+          "def": "Doll"
+        },
+        {
+          "def": "Customs and traditions"
+        },
+        {
+          "def": "Doll"
+        },
+        {
+          "def": "Macedonia"
+        },
+        {
+          "def": "Fashion"
+        },
+        {
+          "def": "Leisure time activities"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Asia"
+        },
+        {
+          "def": "Toy"
+        },
+        {
+          "def": "Intangible cultural heritage"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Imathia"
+        },
+        {
+          "def": "Thailand"
+        },
+        {
+          "def": "Play"
+        },
+        {
+          "def": "Puppe"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Кукла"
+        },
+        {
+          "def": "Фольклор"
+        },
+        {
+          "def": "Nukke"
+        },
+        {
+          "def": "Kansanperinne"
+        },
+        {
+          "def": "Boneca"
+        },
+        {
+          "def": "Folclore"
+        },
+        {
+          "def": "Кукла"
+        },
+        {
+          "def": "Народно творчество"
+        },
+        {
+          "def": "Lėlė"
+        },
+        {
+          "def": "Folkloras"
+        },
+        {
+          "def": "Lelle"
+        },
+        {
+          "def": "Folklora"
+        },
+        {
+          "def": "Lutka"
+        },
+        {
+          "def": "Folklor"
+        },
+        {
+          "def": "Poupée"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Játék baba"
+        },
+        {
+          "def": "Folklór"
+        },
+        {
+          "def": "Lutka"
+        },
+        {
+          "def": "Folklora"
+        },
+        {
+          "def": "Bábóg"
+        },
+        {
+          "def": "Béaloideas"
+        },
+        {
+          "def": "Ninot"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Docka"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Bambola"
+        },
+        {
+          "def": "Folclore"
+        },
+        {
+          "def": "Muñeca"
+        },
+        {
+          "def": "Folclore"
+        },
+        {
+          "def": "Nukk"
+        },
+        {
+          "def": "Rahvaluule"
+        },
+        {
+          "def": "Panpina"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Panenka"
+        },
+        {
+          "def": "Folklór"
+        },
+        {
+          "def": "Lalka"
+        },
+        {
+          "def": "Folklor"
+        },
+        {
+          "def": "Dukke"
+        },
+        {
+          "def": "Folkeminde"
+        },
+        {
+          "def": "Păpușă"
+        },
+        {
+          "def": "Folclor"
+        },
+        {
+          "def": "Pop"
+        },
+        {
+          "def": "Folklore"
+        },
+        {
+          "def": "Folklór"
+        },
+        {
+          "def": "Folklor"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Folklore",
+          "Puppe"
+        ],
+        "ru": [
+          "Фольклор",
+          "Кукла"
+        ],
+        "fi": [
+          "Kansanperinne",
+          "Nukke"
+        ],
+        "pt": [
+          "Folclore",
+          "Boneca"
+        ],
+        "bg": [
+          "Народно творчество",
+          "Кукла"
+        ],
+        "lt": [
+          "Lėlė",
+          "Folkloras"
+        ],
+        "lv": [
+          "Lelle",
+          "Folklora"
+        ],
+        "hr": [
+          "Lutka",
+          "Folklor"
+        ],
+        "fr": [
+          "Poupée",
+          "Folklore"
+        ],
+        "hu": [
+          "Folklór",
+          "Játék baba"
+        ],
+        "sk": [
+          "Folklór"
+        ],
+        "sl": [
+          "Lutka",
+          "Folklora"
+        ],
+        "ga": [
+          "Béaloideas",
+          "Bábóg"
+        ],
+        "ca": [
+          "Ninot",
+          "Folklore"
+        ],
+        "sv": [
+          "Folklore",
+          "Docka"
+        ],
+        "el": [
+          "Λαϊκή παράδοση",
+          "Άυλη πολιτιστική κληρονομιά",
+          "Ταϊλάνδη",
+          "Λαογραφία",
+          "Ασία",
+          "Ήθη και παραδόσεις",
+          "Μακεδονία",
+          "Ψυχαγωγικές δραστηριότητες",
+          "Κούκλα",
+          "Μόδα",
+          "Παιχνίδι",
+          "Ημαθία"
+        ],
+        "mt": [
+          "Folklor"
+        ],
+        "en": [
+          "Intangible cultural heritage",
+          "Play",
+          "Customs and traditions",
+          "Leisure time activities",
+          "Asia",
+          "Fashion",
+          "Folklore",
+          "Macedonia",
+          "Doll",
+          "Thailand",
+          "Imathia",
+          "Toy"
+        ],
+        "it": [
+          "Folclore",
+          "Bambola"
+        ],
+        "es": [
+          "Folclore",
+          "Muñeca"
+        ],
+        "et": [
+          "Nukk",
+          "Rahvaluule"
+        ],
+        "eu": [
+          "Panpina",
+          "Folklore"
+        ],
+        "cs": [
+          "Folklór",
+          "Panenka"
+        ],
+        "pl": [
+          "Lalka",
+          "Folklor"
+        ],
+        "da": [
+          "Dukke",
+          "Folkeminde"
+        ],
+        "ro": [
+          "Folclor",
+          "Păpușă"
+        ],
+        "nl": [
+          "Pop",
+          "Folklore"
+        ]
+      },
+      "edmDatasetName": [
+        "123_EKT_medousa"
+      ],
+      "edmIsShownAt": [
+        "https://medusa.libver.gr/iguana/www.main.cls?surl=search&p=2cafc322-e6e4-433a-9fcf-b8b0e4d5c7da#recordId=3.3588&srchDb=3"
+      ],
+      "edmIsShownBy": [
+        "https://medusa.libver.gr/iguana/iiif/image/mnt/vsmart_srv/assets_rw/3_3588_TIFF/123_8687_00001.tif/full/full/0/default.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kingdom of Thailand"
+        },
+        {
+          "def": "Thailand"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "en": [
+          "Kingdom of Thailand",
+          "Thailand"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Ταϊλάνδη"
+        },
+        {
+          "def": "Thailand"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "el": [
+          "Ταϊλάνδη"
+        ],
+        "en": [
+          "Thailand"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "15.5"
+      ],
+      "edmPlaceLongitude": [
+        "101.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.searchculture.gr%2Faggregator%2Fthumbnails%2Fedm-record%2Fmedusa%2F000114-3_3588manifest&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1950"
+        },
+        {
+          "def": "Νεότερη Ελλάδα"
+        },
+        {
+          "def": "Μεταπολεμική Ελλάδα"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "Modern Greece"
+        },
+        {
+          "def": "Postwar Greece"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "http://dbpedia.org/page/Greek_military_junta_of_1967%E2%80%9374"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "Νεότερη Ελλάδα",
+          "Μεταπολεμική Ελλάδα",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "Modern Greece",
+          "Postwar Greece",
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1950"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "123_EKT_medousa"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/123/https___www_searchculture_gr_aggregator_edm_medusa_000114_3_3588manifest.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Greek Aggregator SearchCulture.gr"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 79.093056,
+      "timestamp": 1752068696565,
+      "timestamp_created": "2024-02-19T14:06:49.511Z",
+      "timestamp_created_epoch": 1708351609511,
+      "timestamp_update": "2024-02-19T14:06:49.511Z",
+      "timestamp_update_epoch": 1708351609511,
+      "title": [
+        "Traditional Thai dancers"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1950"
+      ]
+    }
+  },
+  {
+    "id": "europeana-2051906_data_euscreenXL_https___www_openbeelden_nl_media_666504",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Netherlands Institute for Sound & Vision",
+      "object_id": "2051906_data_euscreenXL_https___www_openbeelden_nl_media_666504",
+      "object_url": "https://www.europeana.eu/item/2051906/data_euscreenXL_https___www_openbeelden_nl_media_666504?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Dutch fashion newsreel showing a European designer's runway show on an Amsterdam street; though one garment is noted as \"Thai silk,\" the image itself depicts Western fashion design, not Thai-made or Thai-worn dress.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Winter fashion from Frans Molenaar",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1967-09-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Netherlands Institute for Sound & Vision",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.openbeelden.nl%2Fimages%2F681511%2FWintermode_van_Frans_Molenaar_%25280_46%2529.png&type=VIDEO",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ad09860a5304a712e2eb6149398acaf557b79650326bc48c1b9bde9aa4968bdf",
+        "bytes": 138587,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_2051906_data_euscreenXL_https___www_openbeelden_nl_media_666504.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:22.419019+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Netherlands Institute for Sound & Vision"
+      ],
+      "dcCreator": [
+        "Polygoon-Profilti (producent)",
+        "Nederlands Instituut voor Beeld en Geluid (beheerder)"
+      ],
+      "dcCreatorLangAware": {
+        "nl": [
+          "Polygoon-Profilti (producent)",
+          "Nederlands Instituut voor Beeld en Geluid (beheerder)"
+        ]
+      },
+      "dcDescription": [
+        "Designer Frans Molenaar's autumn and winter clothing fashion show at his Amsterdam boutique and on a canal boat. The show includes a woolen coat with a fur collar and matching boots and hat, a foal fur cape, a robe-manteau, a mid-day dress made of wool crepe, a military-style coat with a fox fur beret, and a Thai silk gown.",
+        "Cinema newsreels in which Dutch subjects of a certain week are presented.",
+        "Bioscoopjournaals waarin Nederlandse onderwerpen van een bepaalde week worden gepresenteerd.",
+        "Modeshow van herfst- en winterkleding van ontwerper Frans Molenaar bij zijn boetiek te Amsterdam en in een rondvaartboot, met oa een wollen mantelpak met bontkraag en bijpassende laarzen en hoed, een cape van veulenbont, een robe-manteau, een middagjapon van wollen crêpe, een mantel in militaire stijl met baret van vossenbont, een japon van Thaise zijde."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Designer Frans Molenaar's autumn and winter clothing fashion show at his Amsterdam boutique and on a canal boat. The show includes a woolen coat with a fur collar and matching boots and hat, a foal fur cape, a robe-manteau, a mid-day dress made of wool crepe, a military-style coat with a fox fur beret, and a Thai silk gown.",
+          "Cinema newsreels in which Dutch subjects of a certain week are presented."
+        ],
+        "nl": [
+          "Bioscoopjournaals waarin Nederlandse onderwerpen van een bepaalde week worden gepresenteerd.",
+          "Modeshow van herfst- en winterkleding van ontwerper Frans Molenaar bij zijn boetiek te Amsterdam en in een rondvaartboot, met oa een wollen mantelpak met bontkraag en bijpassende laarzen en hoed, een cape van veulenbont, een robe-manteau, een middagjapon van wollen crêpe, een mantel in militaire stijl met baret van vossenbont, een japon van Thaise zijde."
+        ]
+      },
+      "dcLanguage": [
+        "nl",
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl",
+          "nl"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Winter fashion from Frans Molenaar"
+        ],
+        "nl": [
+          "Wintermode van Frans Molenaar"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300263857"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "bewegtes Bild"
+        },
+        {
+          "def": "imagens em movimento"
+        },
+        {
+          "def": "moving images"
+        },
+        {
+          "def": "bewegende beelden"
+        },
+        {
+          "def": "imágenes en movimiento"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "bewegtes Bild"
+        ],
+        "pt": [
+          "imagens em movimento"
+        ],
+        "en": [
+          "moving images"
+        ],
+        "nl": [
+          "bewegende beelden"
+        ],
+        "es": [
+          "imágenes en movimiento"
+        ]
+      },
+      "edmDatasetName": [
+        "2051906_Ag_EU_EUscreen_1019"
+      ],
+      "edmIsShownAt": [
+        "https://www.openbeelden.nl/media/666504"
+      ],
+      "edmIsShownBy": [
+        "https://www.openbeelden.nl/files/06/66/666595.666503.WEEKNUMMER673-HRE00015AE6_1602640_1695000.mp4"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Roburnia"
+        },
+        {
+          "def": "Roburnial"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "020"
+        },
+        {
+          "def": "Asd."
+        },
+        {
+          "def": "Damsko"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "020"
+        },
+        {
+          "def": "Damsko"
+        },
+        {
+          "def": "Asd"
+        },
+        {
+          "def": "Mokum Alef"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "nl"
+        },
+        {
+          "def": "NLD"
+        },
+        {
+          "def": "Holland"
+        },
+        {
+          "def": "de Nederlanden"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Niederlande"
+        },
+        {
+          "def": "A’dam"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "Holland"
+        },
+        {
+          "def": "die Niederlande"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NLD"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Niederlande"
+        },
+        {
+          "def": "Нидерланды"
+        },
+        {
+          "def": "Голландия"
+        },
+        {
+          "def": "Голландия"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "Нидерланды"
+        },
+        {
+          "def": "Kungariket Nederländerna"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "Kungariket Nederländerna"
+        },
+        {
+          "def": "Países Baixos"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdã"
+        },
+        {
+          "def": "Amesterdao"
+        },
+        {
+          "def": "Amsterdam, Países Baixos"
+        },
+        {
+          "def": "Abstradam"
+        },
+        {
+          "def": "Mastradama"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdã"
+        },
+        {
+          "def": "Amesterdao"
+        },
+        {
+          "def": "Amsterdam, Países Baixos"
+        },
+        {
+          "def": "Abstradam"
+        },
+        {
+          "def": "Mastradama"
+        },
+        {
+          "def": "Holanda"
+        },
+        {
+          "def": "os Países Baixos"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "nl"
+        },
+        {
+          "def": "Países Baixos"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Βασίλειο της Ολλανδίας"
+        },
+        {
+          "def": "Αμστελόδαμον"
+        },
+        {
+          "def": "Αμστελόδαμο"
+        },
+        {
+          "def": "Αμστελόδαμον"
+        },
+        {
+          "def": "Αμστελόδαμο"
+        },
+        {
+          "def": "Κάτω Χώρες"
+        },
+        {
+          "def": "Βασίλειο της Ολλανδίας"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "Olanda"
+        },
+        {
+          "def": "Pajjiżi Baxxi"
+        },
+        {
+          "def": "Renju tal-Pajjiżi Baxxi"
+        },
+        {
+          "def": "Olanda"
+        },
+        {
+          "def": "Pajjiżi Baxxi"
+        },
+        {
+          "def": "Renju tan-Netherlands"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "Olanda"
+        },
+        {
+          "def": "Pajjiżi Baxxi"
+        },
+        {
+          "def": "Renju tal-Pajjiżi Baxxi"
+        },
+        {
+          "def": "The Netherlands"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "Amsterdam, NL"
+        },
+        {
+          "def": "Amsterdam, Netherlands"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "Amsterdam, North Holland"
+        },
+        {
+          "def": "Amsterdam, NL"
+        },
+        {
+          "def": "Amsterdam, Netherlands"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "Holland"
+        },
+        {
+          "def": "the Netherlands"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "nl"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "the Netherlands"
+        },
+        {
+          "def": "Nederlanden"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Paesi Bassi"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NLD"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "HOL"
+        },
+        {
+          "def": "Paesi Bassi"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Royaume des Pays-Bas"
+        },
+        {
+          "def": "Pays-Bas"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "Hollande"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "nl"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "le Royaume des Pays-Bas"
+        },
+        {
+          "def": "P.-B."
+        },
+        {
+          "def": "P.B."
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "royaume des Pays-Bas"
+        },
+        {
+          "def": "Pays-Bas"
+        },
+        {
+          "def": "Hollandia"
+        },
+        {
+          "def": "Hollandia"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Reino de Los Paises Bajos"
+        },
+        {
+          "def": "Paises Bajos"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Proclamado de sucesos larry styinson"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "proclamado de sucesos larry styinson"
+        },
+        {
+          "def": "Holanda"
+        },
+        {
+          "def": "Los Países Bajos"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NLD"
+        },
+        {
+          "def": "Paises Bajos"
+        },
+        {
+          "def": "Los Paises Bajos"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Reino de Los Paises Bajos"
+        },
+        {
+          "def": "Paises Bajos"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Herbeheretako Erresuma"
+        },
+        {
+          "def": "Herbeheretako Erresuma"
+        },
+        {
+          "def": "Holandsko"
+        },
+        {
+          "def": "Holandsko"
+        },
+        {
+          "def": "An Ísiltír"
+        },
+        {
+          "def": "An Ollainn"
+        },
+        {
+          "def": "an Ollainn"
+        },
+        {
+          "def": "An Ísiltír"
+        },
+        {
+          "def": "An Ollainn"
+        },
+        {
+          "def": "Niderlandy"
+        },
+        {
+          "def": "Królestwo Niderlandów"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Niderlandy"
+        },
+        {
+          "def": "Niderlandy"
+        },
+        {
+          "def": "Królestwo Niderlandów"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Nederlandene"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "NL"
+        },
+        {
+          "def": "NED"
+        },
+        {
+          "def": "nl"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Țările de Jos"
+        },
+        {
+          "def": "Regatul Ţărilor de Jos"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "Ţările de Jos"
+        },
+        {
+          "def": "Tarile de Jos"
+        },
+        {
+          "def": "Olanda"
+        },
+        {
+          "def": "Țara lalelelor"
+        },
+        {
+          "def": "Țara Lalelelor"
+        },
+        {
+          "def": "Țara morilor de vânt"
+        },
+        {
+          "def": "Țările de Jos"
+        },
+        {
+          "def": "Regatul Ţărilor de Jos"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "Ţările de Jos"
+        },
+        {
+          "def": "Tarile de Jos"
+        },
+        {
+          "def": "Amsterodam"
+        },
+        {
+          "def": "Amsterodam"
+        },
+        {
+          "def": "Hollanti"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "Кралство Нидерландия"
+        },
+        {
+          "def": "Холандия"
+        },
+        {
+          "def": "Holandija"
+        },
+        {
+          "def": "Holande"
+        },
+        {
+          "def": "Holandija"
+        },
+        {
+          "def": "Holanda"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "NL",
+          "Niederlande",
+          "A’dam",
+          "A'dam",
+          "Holland",
+          "die Niederlande",
+          "NL",
+          "NLD",
+          "NED",
+          "NL",
+          "Niederlande"
+        ],
+        "ru": [
+          "Нидерланды",
+          "Голландия",
+          "Голландия",
+          "Nederland",
+          "Нидерланды"
+        ],
+        "fi": [
+          "Hollanti",
+          "Nederland"
+        ],
+        "pt": [
+          "Países Baixos",
+          "NL",
+          "Amsterdam",
+          "Amsterdã",
+          "Amesterdao",
+          "Amsterdam, Países Baixos",
+          "Abstradam",
+          "Mastradama",
+          "Amsterdam",
+          "Amsterdã",
+          "Amesterdao",
+          "Amsterdam, Países Baixos",
+          "Abstradam",
+          "Mastradama",
+          "Holanda",
+          "os Países Baixos",
+          "NL",
+          "NED",
+          "Nederland",
+          "nl",
+          "Países Baixos",
+          "NL"
+        ],
+        "bg": [
+          "Кралство Нидерландия",
+          "Холандия"
+        ],
+        "hr": [
+          "Holandija"
+        ],
+        "lv": [
+          "Holande"
+        ],
+        "fr": [
+          "NL",
+          "Royaume des Pays-Bas",
+          "Pays-Bas",
+          "A'dam",
+          "Hollande",
+          "NL",
+          "nl",
+          "NED",
+          "le Royaume des Pays-Bas",
+          "P.-B.",
+          "P.B.",
+          "NL",
+          "royaume des Pays-Bas",
+          "Pays-Bas"
+        ],
+        "hu": [
+          "Hollandia",
+          "Hollandia"
+        ],
+        "sk": [
+          "Holandsko",
+          "Holandsko"
+        ],
+        "sl": [
+          "Holandija"
+        ],
+        "ga": [
+          "An Ísiltír",
+          "An Ollainn",
+          "an Ollainn",
+          "An Ísiltír",
+          "An Ollainn"
+        ],
+        "ca": [
+          "Holanda"
+        ],
+        "sv": [
+          "Kungariket Nederländerna",
+          "Nederland",
+          "Kungariket Nederländerna"
+        ],
+        "el": [
+          "Βασίλειο της Ολλανδίας",
+          "Αμστελόδαμον",
+          "Αμστελόδαμο",
+          "Αμστελόδαμον",
+          "Αμστελόδαμο",
+          "Κάτω Χώρες",
+          "Βασίλειο της Ολλανδίας"
+        ],
+        "mt": [
+          "Netherlands",
+          "Olanda",
+          "Pajjiżi Baxxi",
+          "Renju tal-Pajjiżi Baxxi",
+          "Olanda",
+          "Pajjiżi Baxxi",
+          "Renju tan-Netherlands",
+          "Netherlands",
+          "Olanda",
+          "Pajjiżi Baxxi",
+          "Renju tal-Pajjiżi Baxxi"
+        ],
+        "en": [
+          "The Netherlands",
+          "Netherlands",
+          "NL",
+          "Mokum",
+          "Amsterdam, NL",
+          "Amsterdam, Netherlands",
+          "A'dam",
+          "Mokum",
+          "Amsterdam, North Holland",
+          "Amsterdam, NL",
+          "Amsterdam, Netherlands",
+          "A'dam",
+          "Holland",
+          "the Netherlands",
+          "NL",
+          "NED",
+          "Nederland",
+          "nl",
+          "Netherlands",
+          "the Netherlands",
+          "Nederlanden",
+          "NL"
+        ],
+        "it": [
+          "Paesi Bassi",
+          "NL",
+          "NLD",
+          "NED",
+          "HOL",
+          "Paesi Bassi",
+          "NL"
+        ],
+        "es": [
+          "Koninkrijk der Nederlanden",
+          "Reino de Los Paises Bajos",
+          "Paises Bajos",
+          "NL",
+          "Amsterdam",
+          "Proclamado de sucesos larry styinson",
+          "Amsterdam",
+          "proclamado de sucesos larry styinson",
+          "Holanda",
+          "Los Países Bajos",
+          "NL",
+          "NLD",
+          "Paises Bajos",
+          "Los Paises Bajos",
+          "NED",
+          "Koninkrijk der Nederlanden",
+          "Reino de Los Paises Bajos",
+          "Paises Bajos",
+          "NL"
+        ],
+        "eu": [
+          "Herbeheretako Erresuma",
+          "Herbeheretako Erresuma"
+        ],
+        "cs": [
+          "Amsterodam",
+          "Amsterodam"
+        ],
+        "pl": [
+          "Niderlandy",
+          "Królestwo Niderlandów",
+          "Nederland",
+          "NL",
+          "Koninkrijk der Nederlanden",
+          "Niderlandy",
+          "Niderlandy",
+          "Królestwo Niderlandów",
+          "Nederland",
+          "NL",
+          "Koninkrijk der Nederlanden"
+        ],
+        "da": [
+          "Koninkrijk der Nederlanden",
+          "Nederlandene",
+          "Nederland",
+          "NL",
+          "NED",
+          "nl",
+          "Koninkrijk der Nederlanden"
+        ],
+        "ro": [
+          "Țările de Jos",
+          "Regatul Ţărilor de Jos",
+          "Netherlands",
+          "Ţările de Jos",
+          "Tarile de Jos",
+          "Olanda",
+          "Țara lalelelor",
+          "Țara Lalelelor",
+          "Țara morilor de vânt",
+          "Țările de Jos",
+          "Regatul Ţărilor de Jos",
+          "Netherlands",
+          "Ţările de Jos",
+          "Tarile de Jos"
+        ],
+        "nl": [
+          "Roburnia",
+          "Roburnial",
+          "Nederland",
+          "NL",
+          "NED",
+          "Mokum",
+          "A'dam",
+          "020",
+          "Asd.",
+          "Damsko",
+          "Mokum",
+          "A'dam",
+          "020",
+          "Damsko",
+          "Asd",
+          "Mokum Alef",
+          "NL",
+          "NED",
+          "nl",
+          "NLD",
+          "Holland",
+          "de Nederlanden",
+          "Nederland"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Кралство Нидерландия"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Нидерландия"
+        },
+        {
+          "def": "Кралство Нидерландия"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Kingdom of the Netherlands"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "Kingdom of the Netherlands"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Regno dei Paesi Bassi"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Paesi Bassi"
+        },
+        {
+          "def": "Regno dei Paesi Bassi"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Regatul Țărilor de Jos"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Țările de Jos"
+        },
+        {
+          "def": "Regatul Țărilor de Jos"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Nederland"
+        },
+        {
+          "def": "Koninkrijk der Nederlanden"
+        },
+        {
+          "def": "Amsterdam (LAV)"
+        },
+        {
+          "def": "Madalmaade Kuningriik"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Holland"
+        },
+        {
+          "def": "Madalmaade Kuningriik"
+        },
+        {
+          "def": "Königreich der Niederlande"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Niederlande"
+        },
+        {
+          "def": "Königreich der Niederlande"
+        },
+        {
+          "def": "Alankomaiden kuningaskunta"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Alankomaat"
+        },
+        {
+          "def": "Alankomaiden kuningaskunta"
+        },
+        {
+          "def": "Королевство Нидерландов"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Нидерланды"
+        },
+        {
+          "def": "Королевство Нидерландов"
+        },
+        {
+          "def": "Reino dos Países Baixos"
+        },
+        {
+          "def": "Amesterdão"
+        },
+        {
+          "def": "Amesterdão"
+        },
+        {
+          "def": "Países Baixos"
+        },
+        {
+          "def": "Reino dos Países Baixos"
+        },
+        {
+          "def": "Nyderlandai"
+        },
+        {
+          "def": "Amsterdamas"
+        },
+        {
+          "def": "Amsterdamas"
+        },
+        {
+          "def": "Nyderlandai"
+        },
+        {
+          "def": "Nyderlandai"
+        },
+        {
+          "def": "Kraljevina Nizozemska"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Nizozemska"
+        },
+        {
+          "def": "Kraljevina Nizozemska"
+        },
+        {
+          "def": "Nīderlandes Karaliste"
+        },
+        {
+          "def": "Amsterdama"
+        },
+        {
+          "def": "Amsterdama"
+        },
+        {
+          "def": "Nīderlande"
+        },
+        {
+          "def": "Nīderlandes Karaliste"
+        },
+        {
+          "def": "Royaume des Pays-Bas"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Pays-Bas"
+        },
+        {
+          "def": "Royaume des Pays-Bas"
+        },
+        {
+          "def": "Holland Királyság"
+        },
+        {
+          "def": "Amszterdam"
+        },
+        {
+          "def": "Amszterdam"
+        },
+        {
+          "def": "Hollandia"
+        },
+        {
+          "def": "Holland Királyság"
+        },
+        {
+          "def": "Holandské kráľovstvo"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Holandsko"
+        },
+        {
+          "def": "Holandské kráľovstvo"
+        },
+        {
+          "def": "Kraljevina Nizozemska"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Nizozemska"
+        },
+        {
+          "def": "Kraljevina Nizozemska"
+        },
+        {
+          "def": "Ríocht na hÍsiltíre"
+        },
+        {
+          "def": "Amstardam"
+        },
+        {
+          "def": "Amstardam"
+        },
+        {
+          "def": "an Ísiltír"
+        },
+        {
+          "def": "Ríocht na hÍsiltíre"
+        },
+        {
+          "def": "Regne dels Països Baixos"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Països Baixos"
+        },
+        {
+          "def": "Regne dels Països Baixos"
+        },
+        {
+          "def": "Konungariket Nederländerna"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Nederländerna"
+        },
+        {
+          "def": "Konungariket Nederländerna"
+        },
+        {
+          "def": "Βασίλειο των Κάτω Χωρών"
+        },
+        {
+          "def": "Άμστερνταμ"
+        },
+        {
+          "def": "Άμστερνταμ"
+        },
+        {
+          "def": "Ολλανδία"
+        },
+        {
+          "def": "Βασίλειο των Κάτω Χωρών"
+        },
+        {
+          "def": "Renju tan-Netherlands"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Netherlands"
+        },
+        {
+          "def": "Renju tan-Netherlands"
+        },
+        {
+          "def": "Reino de los Países Bajos"
+        },
+        {
+          "def": "Ámsterdam"
+        },
+        {
+          "def": "Ámsterdam"
+        },
+        {
+          "def": "Países Bajos"
+        },
+        {
+          "def": "Reino de los Países Bajos"
+        },
+        {
+          "def": "Herbehereetako Erresuma"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Herbehereak"
+        },
+        {
+          "def": "Herbehereetako Erresuma"
+        },
+        {
+          "def": "Nizozemské království"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Nizozemsko"
+        },
+        {
+          "def": "Nizozemské království"
+        },
+        {
+          "def": "Holandia"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Holandia"
+        },
+        {
+          "def": "Holandia"
+        },
+        {
+          "def": "Kongeriget Nederlandene"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Holland"
+        },
+        {
+          "def": "Kongeriget Nederlandene"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Königreich der Niederlande",
+          "Amsterdam",
+          "Amsterdam",
+          "Niederlande",
+          "Königreich der Niederlande"
+        ],
+        "fi": [
+          "Alankomaiden kuningaskunta",
+          "Amsterdam",
+          "Amsterdam",
+          "Alankomaat",
+          "Alankomaiden kuningaskunta"
+        ],
+        "ru": [
+          "Королевство Нидерландов",
+          "Амстердам",
+          "Амстердам",
+          "Нидерланды",
+          "Королевство Нидерландов"
+        ],
+        "pt": [
+          "Reino dos Países Baixos",
+          "Amesterdão",
+          "Amesterdão",
+          "Países Baixos",
+          "Reino dos Países Baixos"
+        ],
+        "bg": [
+          "Амстердам",
+          "Кралство Нидерландия",
+          "Амстердам",
+          "Амстердам",
+          "Нидерландия",
+          "Кралство Нидерландия"
+        ],
+        "lt": [
+          "Nyderlandai",
+          "Amsterdamas",
+          "Amsterdamas",
+          "Nyderlandai",
+          "Nyderlandai"
+        ],
+        "hr": [
+          "Kraljevina Nizozemska",
+          "Amsterdam",
+          "Amsterdam",
+          "Nizozemska",
+          "Kraljevina Nizozemska"
+        ],
+        "lv": [
+          "Nīderlandes Karaliste",
+          "Amsterdama",
+          "Amsterdama",
+          "Nīderlande",
+          "Nīderlandes Karaliste"
+        ],
+        "fr": [
+          "Royaume des Pays-Bas",
+          "Amsterdam",
+          "Amsterdam",
+          "Pays-Bas",
+          "Royaume des Pays-Bas"
+        ],
+        "hu": [
+          "Holland Királyság",
+          "Amszterdam",
+          "Amszterdam",
+          "Hollandia",
+          "Holland Királyság"
+        ],
+        "sk": [
+          "Holandské kráľovstvo",
+          "Amsterdam",
+          "Amsterdam",
+          "Holandsko",
+          "Holandské kráľovstvo"
+        ],
+        "sl": [
+          "Kraljevina Nizozemska",
+          "Amsterdam",
+          "Amsterdam",
+          "Nizozemska",
+          "Kraljevina Nizozemska"
+        ],
+        "ga": [
+          "Ríocht na hÍsiltíre",
+          "Amstardam",
+          "Amstardam",
+          "an Ísiltír",
+          "Ríocht na hÍsiltíre"
+        ],
+        "ca": [
+          "Regne dels Països Baixos",
+          "Amsterdam",
+          "Amsterdam",
+          "Països Baixos",
+          "Regne dels Països Baixos"
+        ],
+        "sv": [
+          "Konungariket Nederländerna",
+          "Amsterdam",
+          "Amsterdam",
+          "Nederländerna",
+          "Konungariket Nederländerna"
+        ],
+        "el": [
+          "Βασίλειο των Κάτω Χωρών",
+          "Άμστερνταμ",
+          "Άμστερνταμ",
+          "Ολλανδία",
+          "Βασίλειο των Κάτω Χωρών"
+        ],
+        "mt": [
+          "Renju tan-Netherlands",
+          "Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Renju tan-Netherlands"
+        ],
+        "en": [
+          "Amsterdam",
+          "Kingdom of the Netherlands",
+          "Amsterdam",
+          "Amsterdam",
+          "Netherlands",
+          "Kingdom of the Netherlands"
+        ],
+        "it": [
+          "Amsterdam",
+          "Regno dei Paesi Bassi",
+          "Amsterdam",
+          "Amsterdam",
+          "Paesi Bassi",
+          "Regno dei Paesi Bassi"
+        ],
+        "es": [
+          "Reino de los Países Bajos",
+          "Ámsterdam",
+          "Ámsterdam",
+          "Países Bajos",
+          "Reino de los Países Bajos"
+        ],
+        "et": [
+          "Amsterdam (LAV)",
+          "Madalmaade Kuningriik",
+          "Amsterdam",
+          "Amsterdam",
+          "Holland",
+          "Madalmaade Kuningriik"
+        ],
+        "eu": [
+          "Herbehereetako Erresuma",
+          "Amsterdam",
+          "Amsterdam",
+          "Herbehereak",
+          "Herbehereetako Erresuma"
+        ],
+        "cs": [
+          "Nizozemské království",
+          "Amsterdam",
+          "Amsterdam",
+          "Nizozemsko",
+          "Nizozemské království"
+        ],
+        "pl": [
+          "Holandia",
+          "Amsterdam",
+          "Amsterdam",
+          "Holandia",
+          "Holandia"
+        ],
+        "ro": [
+          "Amsterdam",
+          "Regatul Țărilor de Jos",
+          "Amsterdam",
+          "Amsterdam",
+          "Țările de Jos",
+          "Regatul Țărilor de Jos"
+        ],
+        "da": [
+          "Kongeriget Nederlandene",
+          "Amsterdam",
+          "Amsterdam",
+          "Holland",
+          "Kongeriget Nederlandene"
+        ],
+        "nl": [
+          "Amsterdam",
+          "Koninkrijk der Nederlanden",
+          "Amsterdam",
+          "Amsterdam",
+          "Nederland",
+          "Koninkrijk der Nederlanden"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-26.617",
+        "52.366665",
+        "52.372776",
+        "52.366665",
+        "52.316666",
+        "52.366665"
+      ],
+      "edmPlaceLongitude": [
+        "30.667",
+        "4.883333",
+        "4.893611",
+        "4.883333",
+        "5.55",
+        "4.883333"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.openbeelden.nl%2Fimages%2F681511%2FWintermode_van_Frans_Molenaar_%25280_46%2529.png&type=VIDEO"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1967-09-01"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1967-09-01"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2051906_Ag_EU_EUscreen_1019"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/2051906/data_euscreenXL_https___www_openbeelden_nl_media_666504?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2051906/data_euscreenXL_https___www_openbeelden_nl_media_666504",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/2051906/data_euscreenXL_https___www_openbeelden_nl_media_666504.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "EUscreen"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "score": 7.670087,
+      "timestamp": 1752044507857,
+      "timestamp_created": "2016-02-08T14:11:09.309Z",
+      "timestamp_created_epoch": 1454940669309,
+      "timestamp_update": "2025-02-17T11:06:04.826Z",
+      "timestamp_update_epoch": 1739790364826,
+      "title": [
+        "Winter fashion from Frans Molenaar",
+        "Wintermode van Frans Molenaar",
+        "Weeknummer 67-38"
+      ],
+      "type": "VIDEO",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91666_SMVK_EM_arkiv_1773210",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91666_SMVK_EM_arkiv_1773210",
+      "object_url": "https://www.europeana.eu/item/91666/SMVK_EM_arkiv_1773210?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image is a scanned catalog page (handwritten museum inventory text) listing items like tobacco pipes and a loom from various Indochinese groups (Rhadé, Djaray, Moi, Thai), not a photograph of an actual object or artifact.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "generalkatalog",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1789042%2Frepresentation&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c0c637a909c83782fdc9a756016606f692e73022804c0bd3d52407718d044574",
+        "bytes": 39879,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_91666_SMVK_EM_arkiv_1773210.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:22.457686+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "-26- Inv. 35.32. 293. Tobacco g2a, Of wood. Pipe shaft of bamboo. Rhadge (Provence du Darlac, Annam) in J5-41514 \"Ll L 294. p.K.av Piphuvudets 1. 7.5 Djaray (Pro-vence du Dariac., Annam). 295. Of wood. Piphuvudets 1. 7 cm. Moi tribe (Plei-ku, Ånnam S.k.effrri (-11: 44, d). & Di Weaving chair. , with horizontal weaving device and two tramps. With a semi-finished weave of silk in several colors. Warp red- colored. 5 shuttles and shooting stick, 2 weavers5. one 80.. cm. long, the other 64 cm./ loom spoon,/and towing armour and solvency canes. Width of a Voice 35 cm.1, 1,297. As before\\ med 2 tramps. A tissue of cotton is started/the pattern is in white and indigo. Tissue spoonfuls: Solvent sticks and tensile arming1in which the pattern is intercepted threads. The pattern is also over- brought • on the warp with solvency canes. 1 shuttle for white wire and 1 shuttle stick for indigo colored. Tissue: -j -jwidth is 57 cm. The ornaments on the troughed weave - scars very convoluted and imagine different animals such as monkeys) birds/dragons etc. Dylika Tissue 1 was used by Tonkin’s Thai people and also the Thai peoples • in Annam or on the border with Annam as sheets and: quilts. This also applies to the silk fabric of heading 296: Dylika silk weaves were also used as a preponderant for sovalkover. Most likely, these looms are known to be the “red or black Thai.” Enl’) letter from Janse avden0 7.6. In 1935, the looms from Muong trunks inherited the Ngoc-Iac (Thanh-hca).See further il 298. Attach.... 2apers. different colours. Most likely used \"way--some religious ceremony. A8 Chiang Sinh) - 7 [ocr]",
+        "-26- Inv. 35.32. 293. Tobaksg2a, Av trä. Pipskaft av bambu. Rhadge (Provence du Darlac, Annam). i J5-41514'Ll L 294. p.K.Av Piphuvudets 1. 7.5 Djaray (Pro-vence du Dariac., Annam). 295. Av trä. Piphuvudets 1. 7 cm. Moi-stam (Plei-ku, Ånnam S.k.effrri(-11\":44,d). &Di Vävstol. , Med horisontal vävanordning och två trampor. Med halvfärdig väv av siden i flera färger. Varp röd- färgad. 5 skyttlar och skyttelsticka, 2 väVsvär5. det ena 80.. cm. långt, det andra 64 cm./ vävsked,/ samt dragrustning och solvkäppar. Vältens bredd 35 cm.1 , 1 297. Som före\\ med 2 trampor. En vävnad av bomull är påbörjad/ mönstret är i vitt och indigo. Vävskedl: solvkäppar samt dragrustning1i vilket mönstret är upplockat medels trådar. Mönstret är också över- fört•på varpen med solvkäppar. 1 skyttel för vit tråd och 1 skyttelsticka för indigofärgad. Vävens:: -j -jbredd är 57 cm. Ornamenten på den pålörjade väven- äro mycket invecklade och föreställa olika djur såsom apor) fåglar/ drakar etc. Dylika vävnader 1 användes av Tonkins Thai-folk och även Thai-folken • i Annam eller på gränsen till Annam som lakan och : täcken. Detta gäller också sidenväven i nr 296: Dylika sidenvävar användes också som förhängen för sovalkover. Troligen äro dessa vävstolar ay_de_ovan_nämn4a Thai-stammarna _antingen de 'röda eller svarta Thai. Enl') brev från Janse avden0 7.6. 1935 äro vävstolarna från Muong-stammar trakten av Ngoc-Iac (Thanh-hca).Se vidare il 298. Tillklinta....2apersbitar. olika färger. Användes troligen'vid-- någon religiös ceremoni. A8 Chiang Sinh)- 7 [ocr]",
+        "Boksida ur Etnografiska museets generalkatalog."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "-26- Inv. 35.32. 293. Tobaksg2a, Av trä. Pipskaft av bambu. Rhadge (Provence du Darlac, Annam). i J5-41514'Ll L 294. p.K.Av Piphuvudets 1. 7.5 Djaray (Pro-vence du Dariac., Annam). 295. Av trä. Piphuvudets 1. 7 cm. Moi-stam (Plei-ku, Ånnam S.k.effrri(-11\":44,d). &Di Vävstol. , Med horisontal vävanordning och två trampor. Med halvfärdig väv av siden i flera färger. Varp röd- färgad. 5 skyttlar och skyttelsticka, 2 väVsvär5. det ena 80.. cm. långt, det andra 64 cm./ vävsked,/ samt dragrustning och solvkäppar. Vältens bredd 35 cm.1 , 1 297. Som före\\ med 2 trampor. En vävnad av bomull är påbörjad/ mönstret är i vitt och indigo. Vävskedl: solvkäppar samt dragrustning1i vilket mönstret är upplockat medels trådar. Mönstret är också över- fört•på varpen med solvkäppar. 1 skyttel för vit tråd och 1 skyttelsticka för indigofärgad. Vävens:: -j -jbredd är 57 cm. Ornamenten på den pålörjade väven- äro mycket invecklade och föreställa olika djur såsom apor) fåglar/ drakar etc. Dylika vävnader 1 användes av Tonkins Thai-folk och även Thai-folken • i Annam eller på gränsen till Annam som lakan och : täcken. Detta gäller också sidenväven i nr 296: Dylika sidenvävar användes också som förhängen för sovalkover. Troligen äro dessa vävstolar ay_de_ovan_nämn4a Thai-stammarna _antingen de 'röda eller svarta Thai. Enl') brev från Janse avden0 7.6. 1935 äro vävstolarna från Muong-stammar trakten av Ngoc-Iac (Thanh-hca).Se vidare il 298. Tillklinta....2apersbitar. olika färger. Användes troligen'vid-- någon religiös ceremoni. A8 Chiang Sinh)- 7 [ocr]"
+        ],
+        "def": [
+          "Boksida ur Etnografiska museets generalkatalog."
+        ],
+        "en": [
+          "-26- Inv. 35.32. 293. Tobacco g2a, Of wood. Pipe shaft of bamboo. Rhadge (Provence du Darlac, Annam) in J5-41514 \"Ll L 294. p.K.av Piphuvudets 1. 7.5 Djaray (Pro-vence du Dariac., Annam). 295. Of wood. Piphuvudets 1. 7 cm. Moi tribe (Plei-ku, Ånnam S.k.effrri (-11: 44, d). & Di Weaving chair. , with horizontal weaving device and two tramps. With a semi-finished weave of silk in several colors. Warp red- colored. 5 shuttles and shooting stick, 2 weavers5. one 80.. cm. long, the other 64 cm./ loom spoon,/and towing armour and solvency canes. Width of a Voice 35 cm.1, 1,297. As before\\ med 2 tramps. A tissue of cotton is started/the pattern is in white and indigo. Tissue spoonfuls: Solvent sticks and tensile arming1in which the pattern is intercepted threads. The pattern is also over- brought • on the warp with solvency canes. 1 shuttle for white wire and 1 shuttle stick for indigo colored. Tissue: -j -jwidth is 57 cm. The ornaments on the troughed weave - scars very convoluted and imagine different animals such as monkeys) birds/dragons etc. Dylika Tissue 1 was used by Tonkin’s Thai people and also the Thai peoples • in Annam or on the border with Annam as sheets and: quilts. This also applies to the silk fabric of heading 296: Dylika silk weaves were also used as a preponderant for sovalkover. Most likely, these looms are known to be the “red or black Thai.” Enl’) letter from Janse avden0 7.6. In 1935, the looms from Muong trunks inherited the Ngoc-Iac (Thanh-hca).See further il 298. Attach.... 2apers. different colours. Most likely used \"way--some religious ceremony. A8 Chiang Sinh) - 7 [ocr]"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "generalkatalog"
+        ],
+        "def": [
+          "generalkatalog"
+        ],
+        "en": [
+          "general catalogue"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2884"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Urkunde"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Uppbud"
+        },
+        {
+          "def": "Lainhuuto"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Τίτλος"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Akts"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Okirat"
+        },
+        {
+          "def": "Escritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Eskritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Gníomhas"
+        },
+        {
+          "def": "Dokument"
+        },
+        {
+          "def": "Bekendtgørelse"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Oorkonde"
+        },
+        {
+          "def": "Escriptura"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Urkunde"
+        ],
+        "ru": [
+          "Акт"
+        ],
+        "sv": [
+          "Uppbud"
+        ],
+        "fi": [
+          "Lainhuuto"
+        ],
+        "bg": [
+          "Акт"
+        ],
+        "el": [
+          "Τίτλος"
+        ],
+        "en": [
+          "Deed"
+        ],
+        "lv": [
+          "Akts"
+        ],
+        "it": [
+          "Deed"
+        ],
+        "fr": [
+          "Certificat"
+        ],
+        "hu": [
+          "Okirat"
+        ],
+        "es": [
+          "Escritura"
+        ],
+        "cs": [
+          "Listina"
+        ],
+        "eu": [
+          "Eskritura"
+        ],
+        "sk": [
+          "Listina"
+        ],
+        "sl": [
+          "Listina"
+        ],
+        "ga": [
+          "Gníomhas"
+        ],
+        "pl": [
+          "Dokument"
+        ],
+        "da": [
+          "Bekendtgørelse"
+        ],
+        "ro": [
+          "Certificat"
+        ],
+        "nl": [
+          "Oorkonde"
+        ],
+        "ca": [
+          "Escriptura"
+        ]
+      },
+      "edmDatasetName": [
+        "91666_Ag_SE_SwedishNationalHeritage_smvk_arkiv"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/1773210"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1789042/representation"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1789042%2Frepresentation&type=TEXT"
+      ],
+      "europeanaCollectionName": [
+        "91666_Ag_SE_SwedishNationalHeritage_smvk_arkiv"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91666/SMVK_EM_arkiv_1773210?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91666/SMVK_EM_arkiv_1773210",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91666/SMVK_EM_arkiv_1773210.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 24.774216,
+      "timestamp": 1752046527279,
+      "timestamp_created": "2019-09-20T15:52:40.273Z",
+      "timestamp_created_epoch": 1568994760273,
+      "timestamp_update": "2022-10-21T13:50:40.198Z",
+      "timestamp_update_epoch": 1666360240198,
+      "title": [
+        "generalkatalog",
+        "general catalogue",
+        "generalkatalog"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-916123_SLM_item_310462",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Sörmland Museum",
+      "object_id": "916123_SLM_item_310462",
+      "object_url": "https://www.europeana.eu/item/916123/SLM_item_310462?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a modern, machine-made Western-style necktie made of Thai silk, a Western garment form, not a traditional Thai object made, worn or used by Thai people in their own dress tradition; it's a French-branded (\"Creation, Monsieur Falk\") export product merely using Thai silk fabric.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Slips",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1965/1975"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Sörmland Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsokisamlingar.sormlandsmuseum.se%2Ffiles%2Foriginal%2Fb5640e15ffac8a2487334a4417306670.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "335bc96368f2703ad2f3ee3142a7eed8de59e480a6681b1cb72e906c638d57dd",
+        "bytes": 59408,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_916123_SLM_item_310462.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:22.504836+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Sörmland Museum"
+      ],
+      "dcDescription": [
+        "Herrslips av thaisiden, diagonalrandig i grått, mörkblått, rött och vitt. Slipsen är fodrad med röd nylon. Textilmärke i svart med text i gult: Thai silk. Textilmärke med guldfigur - herre i hög hatt samt texten Creation, Monsieur Falk, Sole naturelle.                                   \n\nSe vidare anteckningar från 5/11-93."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Herrslips av thaisiden, diagonalrandig i grått, mörkblått, rött och vitt. Slipsen är fodrad med röd nylon. Textilmärke i svart med text i gult: Thai silk. Textilmärke med guldfigur - herre i hög hatt samt texten Creation, Monsieur Falk, Sole naturelle.                                   \n\nSe vidare anteckningar från 5/11-93."
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Slips"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2477"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Krawatte"
+        },
+        {
+          "def": "Галстук"
+        },
+        {
+          "def": "Solmio"
+        },
+        {
+          "def": "Gravata"
+        },
+        {
+          "def": "Вратовръзка"
+        },
+        {
+          "def": "Kaklaraištis"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Kaklasaite"
+        },
+        {
+          "def": "Cravate"
+        },
+        {
+          "def": "Nyakkendő"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Carbhat"
+        },
+        {
+          "def": "Corbata"
+        },
+        {
+          "def": "Slips"
+        },
+        {
+          "def": "Γραβάτα"
+        },
+        {
+          "def": "Necktie"
+        },
+        {
+          "def": "Cravatta"
+        },
+        {
+          "def": "Corbata"
+        },
+        {
+          "def": "Lips"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Gorbata"
+        },
+        {
+          "def": "Krawat"
+        },
+        {
+          "def": "Slips"
+        },
+        {
+          "def": "Cravată"
+        },
+        {
+          "def": "Stropdas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Krawatte"
+        ],
+        "ru": [
+          "Галстук"
+        ],
+        "fi": [
+          "Solmio"
+        ],
+        "pt": [
+          "Gravata"
+        ],
+        "bg": [
+          "Вратовръзка"
+        ],
+        "lt": [
+          "Kaklaraištis"
+        ],
+        "hr": [
+          "Kravata"
+        ],
+        "lv": [
+          "Kaklasaite"
+        ],
+        "fr": [
+          "Cravate"
+        ],
+        "hu": [
+          "Nyakkendő"
+        ],
+        "sk": [
+          "Kravata"
+        ],
+        "sl": [
+          "Kravata"
+        ],
+        "ga": [
+          "Carbhat"
+        ],
+        "ca": [
+          "Corbata"
+        ],
+        "sv": [
+          "Slips"
+        ],
+        "el": [
+          "Γραβάτα"
+        ],
+        "en": [
+          "Necktie"
+        ],
+        "it": [
+          "Cravatta"
+        ],
+        "es": [
+          "Corbata"
+        ],
+        "et": [
+          "Lips"
+        ],
+        "cs": [
+          "Kravata"
+        ],
+        "eu": [
+          "Gorbata"
+        ],
+        "pl": [
+          "Krawat"
+        ],
+        "da": [
+          "Slips"
+        ],
+        "ro": [
+          "Cravată"
+        ],
+        "nl": [
+          "Stropdas"
+        ]
+      },
+      "edmDatasetName": [
+        "916123_SOCH_SormlandsMuseum"
+      ],
+      "edmIsShownAt": [
+        "https://sokisamlingar.sormlandsmuseum.se/objects/c24-310462/"
+      ],
+      "edmIsShownBy": [
+        "https://sokisamlingar.sormlandsmuseum.se/files/original/b5640e15ffac8a2487334a4417306670.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Гетеборг"
+        },
+        {
+          "def": "Йотебор"
+        },
+        {
+          "def": "Йётебор"
+        },
+        {
+          "def": "Готебург"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Королевство Швеция"
+        },
+        {
+          "def": "Göötepori"
+        },
+        {
+          "def": "Ruotsin kuningaskunta"
+        },
+        {
+          "def": "Götet"
+        },
+        {
+          "def": "Gbg"
+        },
+        {
+          "def": "GBG"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Kungariket Sverige"
+        },
+        {
+          "def": "Kungadömet Sverige"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Konungadömet Sverige"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "R27"
+        },
+        {
+          "def": "Gotëborg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Гьотебург"
+        },
+        {
+          "def": "Кралство Швеция"
+        },
+        {
+          "def": "Γκαίτεμποργκ"
+        },
+        {
+          "def": "Βασίλειο της Σουηδίας"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotenburgas"
+        },
+        {
+          "def": "Gioteborgas"
+        },
+        {
+          "def": "Gėteborgas"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gothenburg, Sweden"
+        },
+        {
+          "def": "Kingdom of Sweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "se"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Kraljevina Švedska"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gēteburga"
+        },
+        {
+          "def": "Gotenburga"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotembourg"
+        },
+        {
+          "def": "Gothembourg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "Royaume de Suède"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gotenburgo"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gothemburgo"
+        },
+        {
+          "def": "Reino de Suecia"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "GOTHENBURG"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Švédske kráľovstvo"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goeteborg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Królestwo Szwecji"
+        },
+        {
+          "def": "Gøteborg"
+        },
+        {
+          "def": "Kongeriget Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gotemburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Regne de Suècia"
+        },
+        {
+          "def": "Gotenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Königreich Schweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Renju tal-Iżvezja"
+        },
+        {
+          "def": "L-Iżvezja"
+        },
+        {
+          "def": "Svéd Királyság"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Königreich Schweden",
+          "SE",
+          "SWE"
+        ],
+        "ru": [
+          "Гетеборг",
+          "Йотебор",
+          "Йётебор",
+          "Готебург",
+          "Sverige",
+          "Королевство Швеция"
+        ],
+        "fi": [
+          "Göötepori",
+          "Ruotsin kuningaskunta"
+        ],
+        "pt": [
+          "Göteborg",
+          "R27",
+          "Gotëborg"
+        ],
+        "bg": [
+          "Goteborg",
+          "Göteborg",
+          "Гьотебург",
+          "Кралство Швеция"
+        ],
+        "lt": [
+          "Goteborg",
+          "Gotenburgas",
+          "Gioteborgas",
+          "Gėteborgas"
+        ],
+        "hr": [
+          "Goteborg",
+          "Gothenburg",
+          "Kraljevina Švedska"
+        ],
+        "lv": [
+          "Göteborg",
+          "Gothenburg",
+          "Gēteburga",
+          "Gotenburga"
+        ],
+        "fr": [
+          "Goteborg",
+          "Gotembourg",
+          "Gothembourg",
+          "Gothenburg",
+          "SE",
+          "Royaume de Suède"
+        ],
+        "hu": [
+          "Svéd Királyság"
+        ],
+        "sk": [
+          "Goteborg",
+          "Švédske kráľovstvo"
+        ],
+        "sl": [
+          "Gothenburg"
+        ],
+        "ga": [
+          "Gothenburg"
+        ],
+        "ca": [
+          "Gotemburg",
+          "Goteborg",
+          "Gothenburg",
+          "Regne de Suècia"
+        ],
+        "sv": [
+          "Götet",
+          "Gbg",
+          "GBG",
+          "Konungariket Sverige",
+          "Kungariket Sverige",
+          "Kungadömet Sverige",
+          "SE",
+          "SWE",
+          "Konungadömet Sverige"
+        ],
+        "el": [
+          "Γκαίτεμποργκ",
+          "Βασίλειο της Σουηδίας"
+        ],
+        "mt": [
+          "Renju tal-Iżvezja",
+          "L-Iżvezja"
+        ],
+        "en": [
+          "Göteborg",
+          "Gothenburg, Sweden",
+          "Kingdom of Sweden",
+          "SE",
+          "se",
+          "SWE",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "it": [
+          "Goteborg",
+          "Gotemburgo",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "es": [
+          "Goteborg",
+          "Göteborg",
+          "Gotenburgo",
+          "Gothenburg",
+          "Gothemburgo",
+          "Reino de Suecia"
+        ],
+        "et": [
+          "Gothenburg"
+        ],
+        "eu": [
+          "Goteborg",
+          "GOTHENBURG"
+        ],
+        "cs": [
+          "Gothenburg"
+        ],
+        "pl": [
+          "Goeteborg",
+          "Goteborg",
+          "Królestwo Szwecji"
+        ],
+        "da": [
+          "Gøteborg",
+          "Kongeriget Sverige"
+        ],
+        "ro": [
+          "Goteborg",
+          "Gothenburg"
+        ],
+        "nl": [
+          "Gotenburg",
+          "Goteborg",
+          "SE",
+          "SWE"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Schweden"
+        },
+        {
+          "def": "Гётеборг"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Ruotsi"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Suécia"
+        },
+        {
+          "def": "Гьотеборг"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Geteborgas"
+        },
+        {
+          "def": "Švedija"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Gēteborga"
+        },
+        {
+          "def": "Zviedrija"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suède"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Svédország"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "An tSualainn"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suècia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Γκέτεμποργκ"
+        },
+        {
+          "def": "Σουηδία"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Sweden"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Svezia"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Suecia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Rootsi"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Szwecja"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Zweden"
+        },
+        {
+          "def": "Żvezja"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Göteborg",
+          "Schweden"
+        ],
+        "ru": [
+          "Гётеборг",
+          "Швеция"
+        ],
+        "fi": [
+          "Göteborg",
+          "Ruotsi"
+        ],
+        "pt": [
+          "Gotemburgo",
+          "Suécia"
+        ],
+        "bg": [
+          "Гьотеборг",
+          "Швеция"
+        ],
+        "lt": [
+          "Geteborgas",
+          "Švedija"
+        ],
+        "hr": [
+          "Göteborg",
+          "Švedska"
+        ],
+        "lv": [
+          "Gēteborga",
+          "Zviedrija"
+        ],
+        "fr": [
+          "Göteborg",
+          "Suède"
+        ],
+        "hu": [
+          "Göteborg",
+          "Svédország"
+        ],
+        "sk": [
+          "Göteborg",
+          "Švédsko"
+        ],
+        "sl": [
+          "Göteborg",
+          "Švedska"
+        ],
+        "ga": [
+          "Göteborg",
+          "An tSualainn"
+        ],
+        "ca": [
+          "Göteborg",
+          "Suècia"
+        ],
+        "sv": [
+          "Göteborg",
+          "Sverige"
+        ],
+        "el": [
+          "Γκέτεμποργκ",
+          "Σουηδία"
+        ],
+        "mt": [
+          "Żvezja"
+        ],
+        "en": [
+          "Gothenburg",
+          "Sweden"
+        ],
+        "it": [
+          "Göteborg",
+          "Svezia"
+        ],
+        "es": [
+          "Gotemburgo",
+          "Suecia"
+        ],
+        "et": [
+          "Göteborg",
+          "Rootsi"
+        ],
+        "eu": [
+          "Göteborg",
+          "Suedia"
+        ],
+        "cs": [
+          "Göteborg",
+          "Švédsko"
+        ],
+        "pl": [
+          "Göteborg",
+          "Szwecja"
+        ],
+        "da": [
+          "Göteborg",
+          "Sverige"
+        ],
+        "ro": [
+          "Göteborg",
+          "Suedia"
+        ],
+        "nl": [
+          "Göteborg",
+          "Zweden"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "57.7075",
+        "61.0"
+      ],
+      "edmPlaceLongitude": [
+        "11.9675",
+        "15.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsokisamlingar.sormlandsmuseum.se%2Ffiles%2Foriginal%2Fb5640e15ffac8a2487334a4417306670.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1965/1975"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1965/1975"
+        ]
+      },
+      "europeanaCollectionName": [
+        "916123_SOCH_SormlandsMuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/916123/SLM_item_310462?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/916123/SLM_item_310462",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/916123/SLM_item_310462.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 21.052961,
+      "timestamp": 1752039918176,
+      "timestamp_created": "2020-10-27T05:52:53.920Z",
+      "timestamp_created_epoch": 1603777973920,
+      "timestamp_update": "2022-09-02T08:51:13.642Z",
+      "timestamp_update_epoch": 1662108673642,
+      "title": [
+        "Slips"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-916123_SLM_item_310463",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Sörmland Museum",
+      "object_id": "916123_SLM_item_310463",
+      "object_url": "https://www.europeana.eu/item/916123/SLM_item_310463?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A machine-made Western-style men's necktie in Thai silk, made by a French designer (\"Monsieur Falk, Soie Naturelle\") for the European market — it is a Western garment form made from Thai silk material, not a traditional Thai object or dress item.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Slips",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1965/1975"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Sörmland Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsokisamlingar.sormlandsmuseum.se%2Ffiles%2Foriginal%2F32205d320313b99fc41c2121367065e7.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "804820a78a913d4fd011ced46f770f93b146b55c84b1178857ca54cf2b2f892e",
+        "bytes": 55305,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_916123_SLM_item_310463.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:23.096087+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Sörmland Museum"
+      ],
+      "dcDescription": [
+        "Herrslips i Thaisiden. Vinröd med vinrött nylonfoder.\nTextillapp i svart med gul text:Thai silk Textillapp med figur i guld, Herre med hög hatt samt texten:Creation, Monsieur Falk, Soie         Naturelle. \n                                                                                              \nSe vidare anteckningar från 5/11-93."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Herrslips i Thaisiden. Vinröd med vinrött nylonfoder.\nTextillapp i svart med gul text:Thai silk Textillapp med figur i guld, Herre med hög hatt samt texten:Creation, Monsieur Falk, Soie         Naturelle. \n                                                                                              \nSe vidare anteckningar från 5/11-93."
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Slips"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2477"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Krawatte"
+        },
+        {
+          "def": "Галстук"
+        },
+        {
+          "def": "Solmio"
+        },
+        {
+          "def": "Gravata"
+        },
+        {
+          "def": "Вратовръзка"
+        },
+        {
+          "def": "Kaklaraištis"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Kaklasaite"
+        },
+        {
+          "def": "Cravate"
+        },
+        {
+          "def": "Nyakkendő"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Carbhat"
+        },
+        {
+          "def": "Corbata"
+        },
+        {
+          "def": "Slips"
+        },
+        {
+          "def": "Γραβάτα"
+        },
+        {
+          "def": "Necktie"
+        },
+        {
+          "def": "Cravatta"
+        },
+        {
+          "def": "Corbata"
+        },
+        {
+          "def": "Lips"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Gorbata"
+        },
+        {
+          "def": "Krawat"
+        },
+        {
+          "def": "Slips"
+        },
+        {
+          "def": "Cravată"
+        },
+        {
+          "def": "Stropdas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Krawatte"
+        ],
+        "ru": [
+          "Галстук"
+        ],
+        "fi": [
+          "Solmio"
+        ],
+        "pt": [
+          "Gravata"
+        ],
+        "bg": [
+          "Вратовръзка"
+        ],
+        "lt": [
+          "Kaklaraištis"
+        ],
+        "hr": [
+          "Kravata"
+        ],
+        "lv": [
+          "Kaklasaite"
+        ],
+        "fr": [
+          "Cravate"
+        ],
+        "hu": [
+          "Nyakkendő"
+        ],
+        "sk": [
+          "Kravata"
+        ],
+        "sl": [
+          "Kravata"
+        ],
+        "ga": [
+          "Carbhat"
+        ],
+        "ca": [
+          "Corbata"
+        ],
+        "sv": [
+          "Slips"
+        ],
+        "el": [
+          "Γραβάτα"
+        ],
+        "en": [
+          "Necktie"
+        ],
+        "it": [
+          "Cravatta"
+        ],
+        "es": [
+          "Corbata"
+        ],
+        "et": [
+          "Lips"
+        ],
+        "cs": [
+          "Kravata"
+        ],
+        "eu": [
+          "Gorbata"
+        ],
+        "pl": [
+          "Krawat"
+        ],
+        "da": [
+          "Slips"
+        ],
+        "ro": [
+          "Cravată"
+        ],
+        "nl": [
+          "Stropdas"
+        ]
+      },
+      "edmDatasetName": [
+        "916123_SOCH_SormlandsMuseum"
+      ],
+      "edmIsShownAt": [
+        "https://sokisamlingar.sormlandsmuseum.se/objects/c24-310463/"
+      ],
+      "edmIsShownBy": [
+        "https://sokisamlingar.sormlandsmuseum.se/files/original/32205d320313b99fc41c2121367065e7.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Гетеборг"
+        },
+        {
+          "def": "Йотебор"
+        },
+        {
+          "def": "Йётебор"
+        },
+        {
+          "def": "Готебург"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Королевство Швеция"
+        },
+        {
+          "def": "Göötepori"
+        },
+        {
+          "def": "Ruotsin kuningaskunta"
+        },
+        {
+          "def": "Götet"
+        },
+        {
+          "def": "Gbg"
+        },
+        {
+          "def": "GBG"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Kungariket Sverige"
+        },
+        {
+          "def": "Kungadömet Sverige"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Konungadömet Sverige"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "R27"
+        },
+        {
+          "def": "Gotëborg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Гьотебург"
+        },
+        {
+          "def": "Кралство Швеция"
+        },
+        {
+          "def": "Γκαίτεμποργκ"
+        },
+        {
+          "def": "Βασίλειο της Σουηδίας"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotenburgas"
+        },
+        {
+          "def": "Gioteborgas"
+        },
+        {
+          "def": "Gėteborgas"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gothenburg, Sweden"
+        },
+        {
+          "def": "Kingdom of Sweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "se"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Kraljevina Švedska"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gēteburga"
+        },
+        {
+          "def": "Gotenburga"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotembourg"
+        },
+        {
+          "def": "Gothembourg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "Royaume de Suède"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gotenburgo"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gothemburgo"
+        },
+        {
+          "def": "Reino de Suecia"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "GOTHENBURG"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Švédske kráľovstvo"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goeteborg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Królestwo Szwecji"
+        },
+        {
+          "def": "Gøteborg"
+        },
+        {
+          "def": "Kongeriget Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gotemburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Regne de Suècia"
+        },
+        {
+          "def": "Gotenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Königreich Schweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Renju tal-Iżvezja"
+        },
+        {
+          "def": "L-Iżvezja"
+        },
+        {
+          "def": "Svéd Királyság"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Königreich Schweden",
+          "SE",
+          "SWE"
+        ],
+        "ru": [
+          "Гетеборг",
+          "Йотебор",
+          "Йётебор",
+          "Готебург",
+          "Sverige",
+          "Королевство Швеция"
+        ],
+        "fi": [
+          "Göötepori",
+          "Ruotsin kuningaskunta"
+        ],
+        "pt": [
+          "Göteborg",
+          "R27",
+          "Gotëborg"
+        ],
+        "bg": [
+          "Goteborg",
+          "Göteborg",
+          "Гьотебург",
+          "Кралство Швеция"
+        ],
+        "lt": [
+          "Goteborg",
+          "Gotenburgas",
+          "Gioteborgas",
+          "Gėteborgas"
+        ],
+        "hr": [
+          "Goteborg",
+          "Gothenburg",
+          "Kraljevina Švedska"
+        ],
+        "lv": [
+          "Göteborg",
+          "Gothenburg",
+          "Gēteburga",
+          "Gotenburga"
+        ],
+        "fr": [
+          "Goteborg",
+          "Gotembourg",
+          "Gothembourg",
+          "Gothenburg",
+          "SE",
+          "Royaume de Suède"
+        ],
+        "hu": [
+          "Svéd Királyság"
+        ],
+        "sk": [
+          "Goteborg",
+          "Švédske kráľovstvo"
+        ],
+        "sl": [
+          "Gothenburg"
+        ],
+        "ga": [
+          "Gothenburg"
+        ],
+        "ca": [
+          "Gotemburg",
+          "Goteborg",
+          "Gothenburg",
+          "Regne de Suècia"
+        ],
+        "sv": [
+          "Götet",
+          "Gbg",
+          "GBG",
+          "Konungariket Sverige",
+          "Kungariket Sverige",
+          "Kungadömet Sverige",
+          "SE",
+          "SWE",
+          "Konungadömet Sverige"
+        ],
+        "el": [
+          "Γκαίτεμποργκ",
+          "Βασίλειο της Σουηδίας"
+        ],
+        "mt": [
+          "Renju tal-Iżvezja",
+          "L-Iżvezja"
+        ],
+        "en": [
+          "Göteborg",
+          "Gothenburg, Sweden",
+          "Kingdom of Sweden",
+          "SE",
+          "se",
+          "SWE",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "it": [
+          "Goteborg",
+          "Gotemburgo",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "es": [
+          "Goteborg",
+          "Göteborg",
+          "Gotenburgo",
+          "Gothenburg",
+          "Gothemburgo",
+          "Reino de Suecia"
+        ],
+        "et": [
+          "Gothenburg"
+        ],
+        "eu": [
+          "Goteborg",
+          "GOTHENBURG"
+        ],
+        "cs": [
+          "Gothenburg"
+        ],
+        "pl": [
+          "Goeteborg",
+          "Goteborg",
+          "Królestwo Szwecji"
+        ],
+        "da": [
+          "Gøteborg",
+          "Kongeriget Sverige"
+        ],
+        "ro": [
+          "Goteborg",
+          "Gothenburg"
+        ],
+        "nl": [
+          "Gotenburg",
+          "Goteborg",
+          "SE",
+          "SWE"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Schweden"
+        },
+        {
+          "def": "Гётеборг"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Ruotsi"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Suécia"
+        },
+        {
+          "def": "Гьотеборг"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Geteborgas"
+        },
+        {
+          "def": "Švedija"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Gēteborga"
+        },
+        {
+          "def": "Zviedrija"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suède"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Svédország"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "An tSualainn"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suècia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Γκέτεμποργκ"
+        },
+        {
+          "def": "Σουηδία"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Sweden"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Svezia"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Suecia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Rootsi"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Szwecja"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Zweden"
+        },
+        {
+          "def": "Żvezja"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Göteborg",
+          "Schweden"
+        ],
+        "ru": [
+          "Гётеборг",
+          "Швеция"
+        ],
+        "fi": [
+          "Göteborg",
+          "Ruotsi"
+        ],
+        "pt": [
+          "Gotemburgo",
+          "Suécia"
+        ],
+        "bg": [
+          "Гьотеборг",
+          "Швеция"
+        ],
+        "lt": [
+          "Geteborgas",
+          "Švedija"
+        ],
+        "hr": [
+          "Göteborg",
+          "Švedska"
+        ],
+        "lv": [
+          "Gēteborga",
+          "Zviedrija"
+        ],
+        "fr": [
+          "Göteborg",
+          "Suède"
+        ],
+        "hu": [
+          "Göteborg",
+          "Svédország"
+        ],
+        "sk": [
+          "Göteborg",
+          "Švédsko"
+        ],
+        "sl": [
+          "Göteborg",
+          "Švedska"
+        ],
+        "ga": [
+          "Göteborg",
+          "An tSualainn"
+        ],
+        "ca": [
+          "Göteborg",
+          "Suècia"
+        ],
+        "sv": [
+          "Göteborg",
+          "Sverige"
+        ],
+        "el": [
+          "Γκέτεμποργκ",
+          "Σουηδία"
+        ],
+        "mt": [
+          "Żvezja"
+        ],
+        "en": [
+          "Gothenburg",
+          "Sweden"
+        ],
+        "it": [
+          "Göteborg",
+          "Svezia"
+        ],
+        "es": [
+          "Gotemburgo",
+          "Suecia"
+        ],
+        "et": [
+          "Göteborg",
+          "Rootsi"
+        ],
+        "eu": [
+          "Göteborg",
+          "Suedia"
+        ],
+        "cs": [
+          "Göteborg",
+          "Švédsko"
+        ],
+        "pl": [
+          "Göteborg",
+          "Szwecja"
+        ],
+        "da": [
+          "Göteborg",
+          "Sverige"
+        ],
+        "ro": [
+          "Göteborg",
+          "Suedia"
+        ],
+        "nl": [
+          "Göteborg",
+          "Zweden"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "57.7075",
+        "61.0"
+      ],
+      "edmPlaceLongitude": [
+        "11.9675",
+        "15.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsokisamlingar.sormlandsmuseum.se%2Ffiles%2Foriginal%2F32205d320313b99fc41c2121367065e7.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1965/1975"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1965/1975"
+        ]
+      },
+      "europeanaCollectionName": [
+        "916123_SOCH_SormlandsMuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/916123/SLM_item_310463?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/916123/SLM_item_310463",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/916123/SLM_item_310463.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 22.268593,
+      "timestamp": 1752039918273,
+      "timestamp_created": "2020-10-27T05:52:53.920Z",
+      "timestamp_created_epoch": 1603777973920,
+      "timestamp_update": "2022-09-02T08:51:13.642Z",
+      "timestamp_update_epoch": 1662108673642,
+      "title": [
+        "Slips"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-916123_SLM_item_310464",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Sörmland Museum",
+      "object_id": "916123_SLM_item_310464",
+      "object_url": "https://www.europeana.eu/item/916123/SLM_item_310464?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a plain light-blue Western-style men's necktie made of \"Thai silk\" (a branded product label, \"Creation, Monsieur Falk\"), which is a Western garment manufactured from Thai silk fabric rather than an object made, worn, or used within Thai traditional culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Slips",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1965/1975"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Sörmland Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsokisamlingar.sormlandsmuseum.se%2Ffiles%2Foriginal%2Fa4d1af4e0370d086ceee186314105222.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ffa624ac211321a482374485e7389721dd5cc616971f0e4b3dc6788874af75d8",
+        "bytes": 50429,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\unclassified\\thai\\images\\eu_916123_SLM_item_310464.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:23.731590+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Sörmland Museum"
+      ],
+      "dcDescription": [
+        "Herrslips i Thaisiden. Ljusblå med ljusblått nylon foder. \nTextillapp i svart med gul text:Thai silk. \nTextlapp med figur i guld, herre med hög hatt samt texten:Creation, Monsieur Falk, Soie Naturelle.                                                                                                           \n \nSe vidare anteckningar från 5/11-93."
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Herrslips i Thaisiden. Ljusblå med ljusblått nylon foder. \nTextillapp i svart med gul text:Thai silk. \nTextlapp med figur i guld, herre med hög hatt samt texten:Creation, Monsieur Falk, Soie Naturelle.                                                                                                           \n \nSe vidare anteckningar från 5/11-93."
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Slips"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2477"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Krawatte"
+        },
+        {
+          "def": "Галстук"
+        },
+        {
+          "def": "Solmio"
+        },
+        {
+          "def": "Gravata"
+        },
+        {
+          "def": "Вратовръзка"
+        },
+        {
+          "def": "Kaklaraištis"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Kaklasaite"
+        },
+        {
+          "def": "Cravate"
+        },
+        {
+          "def": "Nyakkendő"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Carbhat"
+        },
+        {
+          "def": "Corbata"
+        },
+        {
+          "def": "Slips"
+        },
+        {
+          "def": "Γραβάτα"
+        },
+        {
+          "def": "Necktie"
+        },
+        {
+          "def": "Cravatta"
+        },
+        {
+          "def": "Corbata"
+        },
+        {
+          "def": "Lips"
+        },
+        {
+          "def": "Kravata"
+        },
+        {
+          "def": "Gorbata"
+        },
+        {
+          "def": "Krawat"
+        },
+        {
+          "def": "Slips"
+        },
+        {
+          "def": "Cravată"
+        },
+        {
+          "def": "Stropdas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Krawatte"
+        ],
+        "ru": [
+          "Галстук"
+        ],
+        "fi": [
+          "Solmio"
+        ],
+        "pt": [
+          "Gravata"
+        ],
+        "bg": [
+          "Вратовръзка"
+        ],
+        "lt": [
+          "Kaklaraištis"
+        ],
+        "hr": [
+          "Kravata"
+        ],
+        "lv": [
+          "Kaklasaite"
+        ],
+        "fr": [
+          "Cravate"
+        ],
+        "hu": [
+          "Nyakkendő"
+        ],
+        "sk": [
+          "Kravata"
+        ],
+        "sl": [
+          "Kravata"
+        ],
+        "ga": [
+          "Carbhat"
+        ],
+        "ca": [
+          "Corbata"
+        ],
+        "sv": [
+          "Slips"
+        ],
+        "el": [
+          "Γραβάτα"
+        ],
+        "en": [
+          "Necktie"
+        ],
+        "it": [
+          "Cravatta"
+        ],
+        "es": [
+          "Corbata"
+        ],
+        "et": [
+          "Lips"
+        ],
+        "cs": [
+          "Kravata"
+        ],
+        "eu": [
+          "Gorbata"
+        ],
+        "pl": [
+          "Krawat"
+        ],
+        "da": [
+          "Slips"
+        ],
+        "ro": [
+          "Cravată"
+        ],
+        "nl": [
+          "Stropdas"
+        ]
+      },
+      "edmDatasetName": [
+        "916123_SOCH_SormlandsMuseum"
+      ],
+      "edmIsShownAt": [
+        "https://sokisamlingar.sormlandsmuseum.se/objects/c24-310464/"
+      ],
+      "edmIsShownBy": [
+        "https://sokisamlingar.sormlandsmuseum.se/files/original/a4d1af4e0370d086ceee186314105222.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Гетеборг"
+        },
+        {
+          "def": "Йотебор"
+        },
+        {
+          "def": "Йётебор"
+        },
+        {
+          "def": "Готебург"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Королевство Швеция"
+        },
+        {
+          "def": "Göötepori"
+        },
+        {
+          "def": "Ruotsin kuningaskunta"
+        },
+        {
+          "def": "Götet"
+        },
+        {
+          "def": "Gbg"
+        },
+        {
+          "def": "GBG"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Kungariket Sverige"
+        },
+        {
+          "def": "Kungadömet Sverige"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Konungadömet Sverige"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "R27"
+        },
+        {
+          "def": "Gotëborg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Гьотебург"
+        },
+        {
+          "def": "Кралство Швеция"
+        },
+        {
+          "def": "Γκαίτεμποργκ"
+        },
+        {
+          "def": "Βασίλειο της Σουηδίας"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotenburgas"
+        },
+        {
+          "def": "Gioteborgas"
+        },
+        {
+          "def": "Gėteborgas"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gothenburg, Sweden"
+        },
+        {
+          "def": "Kingdom of Sweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "se"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Kraljevina Švedska"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gēteburga"
+        },
+        {
+          "def": "Gotenburga"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Konungariket Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gotembourg"
+        },
+        {
+          "def": "Gothembourg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "Royaume de Suède"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Gotenburgo"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gothemburgo"
+        },
+        {
+          "def": "Reino de Suecia"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "GOTHENBURG"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Švédske kráľovstvo"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Goeteborg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Królestwo Szwecji"
+        },
+        {
+          "def": "Gøteborg"
+        },
+        {
+          "def": "Kongeriget Sverige"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Gotemburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Regne de Suècia"
+        },
+        {
+          "def": "Gotenburg"
+        },
+        {
+          "def": "Goteborg"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Königreich Schweden"
+        },
+        {
+          "def": "SE"
+        },
+        {
+          "def": "SWE"
+        },
+        {
+          "def": "Renju tal-Iżvezja"
+        },
+        {
+          "def": "L-Iżvezja"
+        },
+        {
+          "def": "Svéd Királyság"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Königreich Schweden",
+          "SE",
+          "SWE"
+        ],
+        "ru": [
+          "Гетеборг",
+          "Йотебор",
+          "Йётебор",
+          "Готебург",
+          "Sverige",
+          "Королевство Швеция"
+        ],
+        "fi": [
+          "Göötepori",
+          "Ruotsin kuningaskunta"
+        ],
+        "pt": [
+          "Göteborg",
+          "R27",
+          "Gotëborg"
+        ],
+        "bg": [
+          "Goteborg",
+          "Göteborg",
+          "Гьотебург",
+          "Кралство Швеция"
+        ],
+        "lt": [
+          "Goteborg",
+          "Gotenburgas",
+          "Gioteborgas",
+          "Gėteborgas"
+        ],
+        "hr": [
+          "Goteborg",
+          "Gothenburg",
+          "Kraljevina Švedska"
+        ],
+        "lv": [
+          "Göteborg",
+          "Gothenburg",
+          "Gēteburga",
+          "Gotenburga"
+        ],
+        "fr": [
+          "Goteborg",
+          "Gotembourg",
+          "Gothembourg",
+          "Gothenburg",
+          "SE",
+          "Royaume de Suède"
+        ],
+        "hu": [
+          "Svéd Királyság"
+        ],
+        "sk": [
+          "Goteborg",
+          "Švédske kráľovstvo"
+        ],
+        "sl": [
+          "Gothenburg"
+        ],
+        "ga": [
+          "Gothenburg"
+        ],
+        "ca": [
+          "Gotemburg",
+          "Goteborg",
+          "Gothenburg",
+          "Regne de Suècia"
+        ],
+        "sv": [
+          "Götet",
+          "Gbg",
+          "GBG",
+          "Konungariket Sverige",
+          "Kungariket Sverige",
+          "Kungadömet Sverige",
+          "SE",
+          "SWE",
+          "Konungadömet Sverige"
+        ],
+        "el": [
+          "Γκαίτεμποργκ",
+          "Βασίλειο της Σουηδίας"
+        ],
+        "mt": [
+          "Renju tal-Iżvezja",
+          "L-Iżvezja"
+        ],
+        "en": [
+          "Göteborg",
+          "Gothenburg, Sweden",
+          "Kingdom of Sweden",
+          "SE",
+          "se",
+          "SWE",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "it": [
+          "Goteborg",
+          "Gotemburgo",
+          "Sverige",
+          "Konungariket Sverige"
+        ],
+        "es": [
+          "Goteborg",
+          "Göteborg",
+          "Gotenburgo",
+          "Gothenburg",
+          "Gothemburgo",
+          "Reino de Suecia"
+        ],
+        "et": [
+          "Gothenburg"
+        ],
+        "eu": [
+          "Goteborg",
+          "GOTHENBURG"
+        ],
+        "cs": [
+          "Gothenburg"
+        ],
+        "pl": [
+          "Goeteborg",
+          "Goteborg",
+          "Królestwo Szwecji"
+        ],
+        "da": [
+          "Gøteborg",
+          "Kongeriget Sverige"
+        ],
+        "ro": [
+          "Goteborg",
+          "Gothenburg"
+        ],
+        "nl": [
+          "Gotenburg",
+          "Goteborg",
+          "SE",
+          "SWE"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Schweden"
+        },
+        {
+          "def": "Гётеборг"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Ruotsi"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Suécia"
+        },
+        {
+          "def": "Гьотеборг"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Geteborgas"
+        },
+        {
+          "def": "Švedija"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Gēteborga"
+        },
+        {
+          "def": "Zviedrija"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suède"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Svédország"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "An tSualainn"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suècia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Γκέτεμποργκ"
+        },
+        {
+          "def": "Σουηδία"
+        },
+        {
+          "def": "Gothenburg"
+        },
+        {
+          "def": "Sweden"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Svezia"
+        },
+        {
+          "def": "Gotemburgo"
+        },
+        {
+          "def": "Suecia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Rootsi"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Szwecja"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Göteborg"
+        },
+        {
+          "def": "Zweden"
+        },
+        {
+          "def": "Żvezja"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Göteborg",
+          "Schweden"
+        ],
+        "ru": [
+          "Гётеборг",
+          "Швеция"
+        ],
+        "fi": [
+          "Göteborg",
+          "Ruotsi"
+        ],
+        "pt": [
+          "Gotemburgo",
+          "Suécia"
+        ],
+        "bg": [
+          "Гьотеборг",
+          "Швеция"
+        ],
+        "lt": [
+          "Geteborgas",
+          "Švedija"
+        ],
+        "hr": [
+          "Göteborg",
+          "Švedska"
+        ],
+        "lv": [
+          "Gēteborga",
+          "Zviedrija"
+        ],
+        "fr": [
+          "Göteborg",
+          "Suède"
+        ],
+        "hu": [
+          "Göteborg",
+          "Svédország"
+        ],
+        "sk": [
+          "Göteborg",
+          "Švédsko"
+        ],
+        "sl": [
+          "Göteborg",
+          "Švedska"
+        ],
+        "ga": [
+          "Göteborg",
+          "An tSualainn"
+        ],
+        "ca": [
+          "Göteborg",
+          "Suècia"
+        ],
+        "sv": [
+          "Göteborg",
+          "Sverige"
+        ],
+        "el": [
+          "Γκέτεμποργκ",
+          "Σουηδία"
+        ],
+        "mt": [
+          "Żvezja"
+        ],
+        "en": [
+          "Gothenburg",
+          "Sweden"
+        ],
+        "it": [
+          "Göteborg",
+          "Svezia"
+        ],
+        "es": [
+          "Gotemburgo",
+          "Suecia"
+        ],
+        "et": [
+          "Göteborg",
+          "Rootsi"
+        ],
+        "eu": [
+          "Göteborg",
+          "Suedia"
+        ],
+        "cs": [
+          "Göteborg",
+          "Švédsko"
+        ],
+        "pl": [
+          "Göteborg",
+          "Szwecja"
+        ],
+        "da": [
+          "Göteborg",
+          "Sverige"
+        ],
+        "ro": [
+          "Göteborg",
+          "Suedia"
+        ],
+        "nl": [
+          "Göteborg",
+          "Zweden"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "57.7075",
+        "61.0"
+      ],
+      "edmPlaceLongitude": [
+        "11.9675",
+        "15.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsokisamlingar.sormlandsmuseum.se%2Ffiles%2Foriginal%2Fa4d1af4e0370d086ceee186314105222.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1965/1975"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1965/1975"
+        ]
+      },
+      "europeanaCollectionName": [
+        "916123_SOCH_SormlandsMuseum"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/916123/SLM_item_310464?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/916123/SLM_item_310464",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/916123/SLM_item_310464.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 21.857655,
+      "timestamp": 1752039918386,
+      "timestamp_created": "2020-10-27T05:52:53.920Z",
+      "timestamp_created_epoch": 1603777973920,
+      "timestamp_update": "2022-09-02T08:51:13.642Z",
+      "timestamp_update_epoch": 1662108673642,
+      "title": [
+        "Slips"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1905-0413-60",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1905-0413-60",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1905-0413-60",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1905.0413.60",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Obolo",
+      "tradition": "Obolo",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A cast copper-alloy seated male figure with hat, necklace, bracelets and anklets and a bow, explicitly attributed by the museum to the Obolo people as ritual equipment — a plausible traditional shrine figure for this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figure; religious/ritual equipment",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure; religious/ritual equipment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Figure; male figure seated on a low stool lost-wax cast in copper alloy. Figure wears a triangular-shaped hat; necklace with long linear shaped pendant; bracelets are on both wrists and ankles; a bow is held in the right (proper) hand. Cane harness support to secure hat to head.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2021_5/21_8/e37281b4_59e3_4ca7_bcf6_ad2f0088102f/preview_EAF14920_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b502da227c4a2bcd13ee33f3079040169c7ab9974474d5d041d274a7bb997797",
+        "bytes": 11759,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\obolo\\sculpture\\obolo\\images\\bm_E_Af1905_0413_60.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T13:24:32.008261+00:00",
+    "raw": {
+      "title": "figure; religious/ritual equipment",
+      "description": "Figure; male figure seated on a low stool lost-wax cast in copper alloy. Figure wears a triangular-shaped hat; necklace with long linear shaped pendant; bracelets are on both wrists and ankles; a bow is held in the right (proper) hand. Cane harness support to secure hat to head.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2021_5/21_8/e37281b4_59e3_4ca7_bcf6_ad2f0088102f/preview_EAF14920_1.jpg",
+      "production_ethnic_groups": [
+        "Obolo"
+      ],
+      "production_ethnic_attribution": "Associated with: Obolo"
+    }
+  }
+]

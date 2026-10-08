@@ -1,0 +1,5583 @@
+[
+  {
+    "id": "europeana-2048222_europeana_fashion_1190",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Shoes or no shoes",
+      "object_id": "2048222_europeana_fashion_1190",
+      "object_url": "https://www.europeana.eu/item/2048222/europeana_fashion_1190?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a pair of elaborately glass-beaded ankle boots with car-tyre soles, consistent with Yoruba beadwork traditions applied to footwear, a known contemporary Yoruba craft form.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Man's ankle boots - Yoruba tribe.",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1930/1970"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Shoes or no shoes",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F1190.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d5d53ea624baa06ae23945300d1fc1d2c952bc7939cd6231f1950c5fb4bdc534",
+        "bytes": 34900,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\garment\\yoruba-nigeria\\images\\eu_2048222_europeana_fashion_1190.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:34.686430+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Shoes or no shoes"
+      ],
+      "dcDescription": [
+        "Glass beaded, cloth covered leather upper - car tyre soles."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Glass beaded, cloth covered leather upper - car tyre soles."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Man's ankle boots - Yoruba tribe."
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10504",
+        "http://data.europeana.eu/concept/2202",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10261",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10249",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10557"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fußbekleidung"
+        },
+        {
+          "def": "Leder"
+        },
+        {
+          "def": "Stiefel"
+        },
+        {
+          "def": "Stiefel"
+        },
+        {
+          "def": "Fußbekleidung"
+        },
+        {
+          "def": "Glas"
+        },
+        {
+          "def": "Jalkine"
+        },
+        {
+          "def": "Saapas"
+        },
+        {
+          "def": "Обувь"
+        },
+        {
+          "def": "Сапоги"
+        },
+        {
+          "def": "Calçado"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "botas"
+        },
+        {
+          "def": "calçado"
+        },
+        {
+          "def": "vidro"
+        },
+        {
+          "def": "Обувни артикули"
+        },
+        {
+          "def": "Ботуш"
+        },
+        {
+          "def": "Avalynė"
+        },
+        {
+          "def": "Obuća"
+        },
+        {
+          "def": "Čizma"
+        },
+        {
+          "def": "Apavi"
+        },
+        {
+          "def": "Zābaki"
+        },
+        {
+          "def": "Soulier"
+        },
+        {
+          "def": "cuir"
+        },
+        {
+          "def": "Botte"
+        },
+        {
+          "def": "bottes"
+        },
+        {
+          "def": "chaussures"
+        },
+        {
+          "def": "verre"
+        },
+        {
+          "def": "Lábviselet"
+        },
+        {
+          "def": "Csizma"
+        },
+        {
+          "def": "Obuv"
+        },
+        {
+          "def": "Čižma"
+        },
+        {
+          "def": "Obuvalo"
+        },
+        {
+          "def": "Škorenj"
+        },
+        {
+          "def": "Coisbheart"
+        },
+        {
+          "def": "Calçat"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "Fotbeklädnad"
+        },
+        {
+          "def": "läder"
+        },
+        {
+          "def": "Stövlar"
+        },
+        {
+          "def": "kängor"
+        },
+        {
+          "def": "skodon"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "Υπόδηση"
+        },
+        {
+          "def": "δέρμα"
+        },
+        {
+          "def": "Μπότες"
+        },
+        {
+          "def": "μπότες"
+        },
+        {
+          "def": "υπόδημα"
+        },
+        {
+          "def": "γυαλί"
+        },
+        {
+          "def": "Footwear"
+        },
+        {
+          "def": "leather"
+        },
+        {
+          "def": "Boot"
+        },
+        {
+          "def": "boot (footwear)"
+        },
+        {
+          "def": "footwear"
+        },
+        {
+          "def": "glass"
+        },
+        {
+          "def": "Calzatura"
+        },
+        {
+          "def": "cuoio"
+        },
+        {
+          "def": "Stivale"
+        },
+        {
+          "def": "stivali"
+        },
+        {
+          "def": "calzature"
+        },
+        {
+          "def": "vetro"
+        },
+        {
+          "def": "Calzado"
+        },
+        {
+          "def": "cuero"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "botas"
+        },
+        {
+          "def": "calzado"
+        },
+        {
+          "def": "vidrio"
+        },
+        {
+          "def": "Jalanõu"
+        },
+        {
+          "def": "Saabas"
+        },
+        {
+          "def": "Oinetako"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "Obutí"
+        },
+        {
+          "def": "Boty"
+        },
+        {
+          "def": "Obuwie"
+        },
+        {
+          "def": "But z cholewką"
+        },
+        {
+          "def": "Fodtøj"
+        },
+        {
+          "def": "Støvle"
+        },
+        {
+          "def": "Încălțăminte"
+        },
+        {
+          "def": "Gheată"
+        },
+        {
+          "def": "Schoeisel"
+        },
+        {
+          "def": "leer"
+        },
+        {
+          "def": "Laars"
+        },
+        {
+          "def": "laars"
+        },
+        {
+          "def": "schoeisel"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "עור"
+        },
+        {
+          "def": "מגפיים"
+        },
+        {
+          "def": "הנעלה"
+        },
+        {
+          "def": "זכוכית"
+        },
+        {
+          "def": "koža"
+        },
+        {
+          "def": "čizme"
+        },
+        {
+          "def": "obuća"
+        },
+        {
+          "def": "staklo"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Leder",
+          "Glas",
+          "Fußbekleidung",
+          "Stiefel"
+        ],
+        "fi": [
+          "Saapas",
+          "Jalkine"
+        ],
+        "ru": [
+          "Сапоги",
+          "Обувь"
+        ],
+        "pt": [
+          "Calçado",
+          "botas",
+          "Bota",
+          "calçado",
+          "vidro"
+        ],
+        "bg": [
+          "Ботуш",
+          "Обувни артикули"
+        ],
+        "lt": [
+          "Avalynė"
+        ],
+        "hr": [
+          "Čizma",
+          "Obuća"
+        ],
+        "lv": [
+          "Zābaki",
+          "Apavi"
+        ],
+        "fr": [
+          "Soulier",
+          "chaussures",
+          "cuir",
+          "bottes",
+          "verre",
+          "Botte"
+        ],
+        "hu": [
+          "Lábviselet",
+          "Csizma"
+        ],
+        "sk": [
+          "Čižma",
+          "Obuv"
+        ],
+        "sl": [
+          "Škorenj",
+          "Obuvalo"
+        ],
+        "ga": [
+          "Coisbheart"
+        ],
+        "ca": [
+          "Bota",
+          "Calçat"
+        ],
+        "sr": [
+          "staklo",
+          "koža",
+          "čizme",
+          "obuća"
+        ],
+        "sv": [
+          "läder",
+          "kängor",
+          "Stövlar",
+          "glas",
+          "skodon",
+          "Fotbeklädnad"
+        ],
+        "el": [
+          "μπότες",
+          "υπόδημα",
+          "δέρμα",
+          "γυαλί",
+          "Μπότες",
+          "Υπόδηση"
+        ],
+        "en": [
+          "boot (footwear)",
+          "footwear",
+          "glass",
+          "Footwear",
+          "Boot",
+          "leather"
+        ],
+        "it": [
+          "cuoio",
+          "Stivale",
+          "vetro",
+          "Calzatura",
+          "stivali",
+          "calzature"
+        ],
+        "es": [
+          "botas",
+          "Calzado",
+          "Bota",
+          "vidrio",
+          "cuero",
+          "calzado"
+        ],
+        "et": [
+          "Jalanõu",
+          "Saabas"
+        ],
+        "eu": [
+          "Bota",
+          "Oinetako"
+        ],
+        "cs": [
+          "Obutí",
+          "Boty"
+        ],
+        "pl": [
+          "But z cholewką",
+          "Obuwie"
+        ],
+        "da": [
+          "Fodtøj",
+          "Støvle"
+        ],
+        "ro": [
+          "Gheată",
+          "Încălțăminte"
+        ],
+        "he": [
+          "עור",
+          "זכוכית",
+          "מגפיים",
+          "הנעלה"
+        ],
+        "nl": [
+          "Laars",
+          "laars",
+          "leer",
+          "glas",
+          "Schoeisel",
+          "schoeisel"
+        ]
+      },
+      "edmDatasetName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/sons/images/ethno/1190.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Bundesrepublik Nigeria"
+        },
+        {
+          "def": "Bundesrepublik Nigerien"
+        },
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "República Federal da Nigéria"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "African continent"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "la République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Afraic"
+        },
+        {
+          "def": "mór-roinn na hAfraice"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "Federale Republiek Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        },
+        {
+          "def": "continent africà"
+        },
+        {
+          "def": "afriški kontinent"
+        },
+        {
+          "def": "črna celina"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien",
+          "Bundesrepublik Nigeria",
+          "Bundesrepublik Nigerien",
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия",
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta",
+          "Nigerian liittotasavalta",
+          "Africa"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria",
+          "Förbundsrepubliken Nigeria",
+          "Africa"
+        ],
+        "pt": [
+          "República Federal da Nigéria",
+          "continente africano"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja",
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "NGA",
+          "NGR",
+          "Naija",
+          "FRN",
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija",
+          "African continent"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria",
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "la République fédérale du Nigéria",
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság",
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria",
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria",
+          "Africa",
+          "continente africano"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik",
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika",
+          "Nigérijská federatívna republika"
+        ],
+        "sl": [
+          "afriški kontinent",
+          "črna celina"
+        ],
+        "ga": [
+          "An Nigéir",
+          "Afraic",
+          "mór-roinn na hAfraice"
+        ],
+        "nl": [
+          "NG",
+          "NGA",
+          "Federale Republiek Nigeria",
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria",
+          "República Federal de Nigèria",
+          "continent africà"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrikka"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Āfrika"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrique"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "an Nigéir"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "an Afraic"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Àfrica"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Αφρική"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Aafrika"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afryka"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "ru": [
+          "Нигерия",
+          "Нигерия",
+          "Африка"
+        ],
+        "fi": [
+          "Nigeria",
+          "Nigeria",
+          "Afrikka"
+        ],
+        "pt": [
+          "Nigéria",
+          "Nigéria",
+          "África"
+        ],
+        "bg": [
+          "Нигерия",
+          "Нигерия",
+          "Африка"
+        ],
+        "lt": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "lv": [
+          "Nigērija",
+          "Nigērija",
+          "Āfrika"
+        ],
+        "hr": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "fr": [
+          "Nigeria",
+          "Nigeria",
+          "Afrique"
+        ],
+        "hu": [
+          "Nigéria",
+          "Nigéria",
+          "Afrika"
+        ],
+        "sk": [
+          "Nigéria",
+          "Nigéria",
+          "Afrika"
+        ],
+        "sl": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "ga": [
+          "an Nigéir",
+          "An Nigéir",
+          "an Afraic"
+        ],
+        "ca": [
+          "Nigèria",
+          "Nigèria",
+          "Àfrica"
+        ],
+        "sv": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "el": [
+          "Νιγηρία",
+          "Νιγηρία",
+          "Αφρική"
+        ],
+        "mt": [
+          "Niġerja",
+          "Niġerja",
+          "Afrika"
+        ],
+        "en": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "it": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "es": [
+          "Nigeria",
+          "Nigeria",
+          "África"
+        ],
+        "et": [
+          "Nigeeria",
+          "Nigeeria",
+          "Aafrika"
+        ],
+        "cs": [
+          "Nigérie",
+          "Nigérie",
+          "Afrika"
+        ],
+        "eu": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "pl": [
+          "Nigeria",
+          "Nigeria",
+          "Afryka"
+        ],
+        "ro": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "da": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "nl": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0",
+        "9.0",
+        "21.09375"
+      ],
+      "edmPlaceLongitude": [
+        "8.0",
+        "8.0",
+        "7.1881"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F1190.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1930/1970"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1930/1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048222/europeana_fashion_1190?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048222/europeana_fashion_1190",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2048222/europeana_fashion_1190.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 101.50779,
+      "timestamp": 1752070727617,
+      "timestamp_created": "2022-02-01T17:54:42.662Z",
+      "timestamp_created_epoch": 1643738082662,
+      "timestamp_update": "2024-06-17T07:46:28.083Z",
+      "timestamp_update_epoch": 1718610388083,
+      "title": [
+        "Man's ankle boots - Yoruba tribe."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048222_europeana_fashion_1191",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Shoes or no shoes",
+      "object_id": "2048222_europeana_fashion_1191",
+      "object_url": "https://www.europeana.eu/item/2048222/europeana_fashion_1191?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Beaded ankle boots with tyre-tread soles are a well-known Yoruba beadwork tradition (associated with royal/chiefly regalia), matching the claimed ethnicity and category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Man's ankle boots - Yoruba tribe.",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1930/1970"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Shoes or no shoes",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F1191.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eb39f76ea5a91bcaf41d8e69194a763073f59cf85f47e50258789b62b7f52dd7",
+        "bytes": 46792,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\garment\\yoruba-nigeria\\images\\eu_2048222_europeana_fashion_1191.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:34.699533+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Shoes or no shoes"
+      ],
+      "dcDescription": [
+        "Glass beaded, cloth covered leather upper - car tyre soles."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Glass beaded, cloth covered leather upper - car tyre soles."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Man's ankle boots - Yoruba tribe."
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10504",
+        "http://data.europeana.eu/concept/2202",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10261",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10249",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10557"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fußbekleidung"
+        },
+        {
+          "def": "Leder"
+        },
+        {
+          "def": "Stiefel"
+        },
+        {
+          "def": "Stiefel"
+        },
+        {
+          "def": "Fußbekleidung"
+        },
+        {
+          "def": "Glas"
+        },
+        {
+          "def": "Jalkine"
+        },
+        {
+          "def": "Saapas"
+        },
+        {
+          "def": "Обувь"
+        },
+        {
+          "def": "Сапоги"
+        },
+        {
+          "def": "Calçado"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "botas"
+        },
+        {
+          "def": "calçado"
+        },
+        {
+          "def": "vidro"
+        },
+        {
+          "def": "Обувни артикули"
+        },
+        {
+          "def": "Ботуш"
+        },
+        {
+          "def": "Avalynė"
+        },
+        {
+          "def": "Obuća"
+        },
+        {
+          "def": "Čizma"
+        },
+        {
+          "def": "Apavi"
+        },
+        {
+          "def": "Zābaki"
+        },
+        {
+          "def": "Soulier"
+        },
+        {
+          "def": "cuir"
+        },
+        {
+          "def": "Botte"
+        },
+        {
+          "def": "bottes"
+        },
+        {
+          "def": "chaussures"
+        },
+        {
+          "def": "verre"
+        },
+        {
+          "def": "Lábviselet"
+        },
+        {
+          "def": "Csizma"
+        },
+        {
+          "def": "Obuv"
+        },
+        {
+          "def": "Čižma"
+        },
+        {
+          "def": "Obuvalo"
+        },
+        {
+          "def": "Škorenj"
+        },
+        {
+          "def": "Coisbheart"
+        },
+        {
+          "def": "Calçat"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "Fotbeklädnad"
+        },
+        {
+          "def": "läder"
+        },
+        {
+          "def": "Stövlar"
+        },
+        {
+          "def": "kängor"
+        },
+        {
+          "def": "skodon"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "Υπόδηση"
+        },
+        {
+          "def": "δέρμα"
+        },
+        {
+          "def": "Μπότες"
+        },
+        {
+          "def": "μπότες"
+        },
+        {
+          "def": "υπόδημα"
+        },
+        {
+          "def": "γυαλί"
+        },
+        {
+          "def": "Footwear"
+        },
+        {
+          "def": "leather"
+        },
+        {
+          "def": "Boot"
+        },
+        {
+          "def": "boot (footwear)"
+        },
+        {
+          "def": "footwear"
+        },
+        {
+          "def": "glass"
+        },
+        {
+          "def": "Calzatura"
+        },
+        {
+          "def": "cuoio"
+        },
+        {
+          "def": "Stivale"
+        },
+        {
+          "def": "stivali"
+        },
+        {
+          "def": "calzature"
+        },
+        {
+          "def": "vetro"
+        },
+        {
+          "def": "Calzado"
+        },
+        {
+          "def": "cuero"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "botas"
+        },
+        {
+          "def": "calzado"
+        },
+        {
+          "def": "vidrio"
+        },
+        {
+          "def": "Jalanõu"
+        },
+        {
+          "def": "Saabas"
+        },
+        {
+          "def": "Oinetako"
+        },
+        {
+          "def": "Bota"
+        },
+        {
+          "def": "Obutí"
+        },
+        {
+          "def": "Boty"
+        },
+        {
+          "def": "Obuwie"
+        },
+        {
+          "def": "But z cholewką"
+        },
+        {
+          "def": "Fodtøj"
+        },
+        {
+          "def": "Støvle"
+        },
+        {
+          "def": "Încălțăminte"
+        },
+        {
+          "def": "Gheată"
+        },
+        {
+          "def": "Schoeisel"
+        },
+        {
+          "def": "leer"
+        },
+        {
+          "def": "Laars"
+        },
+        {
+          "def": "laars"
+        },
+        {
+          "def": "schoeisel"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "עור"
+        },
+        {
+          "def": "מגפיים"
+        },
+        {
+          "def": "הנעלה"
+        },
+        {
+          "def": "זכוכית"
+        },
+        {
+          "def": "koža"
+        },
+        {
+          "def": "čizme"
+        },
+        {
+          "def": "obuća"
+        },
+        {
+          "def": "staklo"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Leder",
+          "Glas",
+          "Fußbekleidung",
+          "Stiefel"
+        ],
+        "fi": [
+          "Saapas",
+          "Jalkine"
+        ],
+        "ru": [
+          "Сапоги",
+          "Обувь"
+        ],
+        "pt": [
+          "Calçado",
+          "botas",
+          "Bota",
+          "calçado",
+          "vidro"
+        ],
+        "bg": [
+          "Ботуш",
+          "Обувни артикули"
+        ],
+        "lt": [
+          "Avalynė"
+        ],
+        "hr": [
+          "Čizma",
+          "Obuća"
+        ],
+        "lv": [
+          "Zābaki",
+          "Apavi"
+        ],
+        "fr": [
+          "Soulier",
+          "chaussures",
+          "cuir",
+          "bottes",
+          "verre",
+          "Botte"
+        ],
+        "hu": [
+          "Lábviselet",
+          "Csizma"
+        ],
+        "sk": [
+          "Čižma",
+          "Obuv"
+        ],
+        "sl": [
+          "Škorenj",
+          "Obuvalo"
+        ],
+        "ga": [
+          "Coisbheart"
+        ],
+        "ca": [
+          "Bota",
+          "Calçat"
+        ],
+        "sr": [
+          "staklo",
+          "koža",
+          "čizme",
+          "obuća"
+        ],
+        "sv": [
+          "läder",
+          "kängor",
+          "Stövlar",
+          "glas",
+          "skodon",
+          "Fotbeklädnad"
+        ],
+        "el": [
+          "μπότες",
+          "υπόδημα",
+          "δέρμα",
+          "γυαλί",
+          "Μπότες",
+          "Υπόδηση"
+        ],
+        "en": [
+          "boot (footwear)",
+          "footwear",
+          "glass",
+          "Footwear",
+          "Boot",
+          "leather"
+        ],
+        "it": [
+          "cuoio",
+          "Stivale",
+          "vetro",
+          "Calzatura",
+          "stivali",
+          "calzature"
+        ],
+        "es": [
+          "botas",
+          "Calzado",
+          "Bota",
+          "vidrio",
+          "cuero",
+          "calzado"
+        ],
+        "et": [
+          "Jalanõu",
+          "Saabas"
+        ],
+        "eu": [
+          "Bota",
+          "Oinetako"
+        ],
+        "cs": [
+          "Obutí",
+          "Boty"
+        ],
+        "pl": [
+          "But z cholewką",
+          "Obuwie"
+        ],
+        "da": [
+          "Fodtøj",
+          "Støvle"
+        ],
+        "ro": [
+          "Gheată",
+          "Încălțăminte"
+        ],
+        "he": [
+          "עור",
+          "זכוכית",
+          "מגפיים",
+          "הנעלה"
+        ],
+        "nl": [
+          "Laars",
+          "laars",
+          "leer",
+          "glas",
+          "Schoeisel",
+          "schoeisel"
+        ]
+      },
+      "edmDatasetName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/sons/images/ethno/1191.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Bundesrepublik Nigeria"
+        },
+        {
+          "def": "Bundesrepublik Nigerien"
+        },
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "República Federal da Nigéria"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "African continent"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "la République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Afraic"
+        },
+        {
+          "def": "mór-roinn na hAfraice"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "Federale Republiek Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        },
+        {
+          "def": "continent africà"
+        },
+        {
+          "def": "afriški kontinent"
+        },
+        {
+          "def": "črna celina"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien",
+          "Bundesrepublik Nigeria",
+          "Bundesrepublik Nigerien",
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия",
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta",
+          "Nigerian liittotasavalta",
+          "Africa"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria",
+          "Förbundsrepubliken Nigeria",
+          "Africa"
+        ],
+        "pt": [
+          "República Federal da Nigéria",
+          "continente africano"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja",
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "NGA",
+          "NGR",
+          "Naija",
+          "FRN",
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija",
+          "African continent"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria",
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "la République fédérale du Nigéria",
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság",
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria",
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria",
+          "Africa",
+          "continente africano"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik",
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika",
+          "Nigérijská federatívna republika"
+        ],
+        "sl": [
+          "afriški kontinent",
+          "črna celina"
+        ],
+        "ga": [
+          "An Nigéir",
+          "Afraic",
+          "mór-roinn na hAfraice"
+        ],
+        "nl": [
+          "NG",
+          "NGA",
+          "Federale Republiek Nigeria",
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria",
+          "República Federal de Nigèria",
+          "continent africà"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrikka"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Āfrika"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrique"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "an Nigéir"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "an Afraic"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Àfrica"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Αφρική"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Aafrika"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afryka"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "ru": [
+          "Нигерия",
+          "Нигерия",
+          "Африка"
+        ],
+        "fi": [
+          "Nigeria",
+          "Nigeria",
+          "Afrikka"
+        ],
+        "pt": [
+          "Nigéria",
+          "Nigéria",
+          "África"
+        ],
+        "bg": [
+          "Нигерия",
+          "Нигерия",
+          "Африка"
+        ],
+        "lt": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "lv": [
+          "Nigērija",
+          "Nigērija",
+          "Āfrika"
+        ],
+        "hr": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "fr": [
+          "Nigeria",
+          "Nigeria",
+          "Afrique"
+        ],
+        "hu": [
+          "Nigéria",
+          "Nigéria",
+          "Afrika"
+        ],
+        "sk": [
+          "Nigéria",
+          "Nigéria",
+          "Afrika"
+        ],
+        "sl": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "ga": [
+          "an Nigéir",
+          "An Nigéir",
+          "an Afraic"
+        ],
+        "ca": [
+          "Nigèria",
+          "Nigèria",
+          "Àfrica"
+        ],
+        "sv": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "el": [
+          "Νιγηρία",
+          "Νιγηρία",
+          "Αφρική"
+        ],
+        "mt": [
+          "Niġerja",
+          "Niġerja",
+          "Afrika"
+        ],
+        "en": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "it": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "es": [
+          "Nigeria",
+          "Nigeria",
+          "África"
+        ],
+        "et": [
+          "Nigeeria",
+          "Nigeeria",
+          "Aafrika"
+        ],
+        "cs": [
+          "Nigérie",
+          "Nigérie",
+          "Afrika"
+        ],
+        "eu": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "pl": [
+          "Nigeria",
+          "Nigeria",
+          "Afryka"
+        ],
+        "ro": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "da": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "nl": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0",
+        "9.0",
+        "21.09375"
+      ],
+      "edmPlaceLongitude": [
+        "8.0",
+        "8.0",
+        "7.1881"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F1191.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1930/1970"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1930/1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048222/europeana_fashion_1191?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048222/europeana_fashion_1191",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2048222/europeana_fashion_1191.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 101.50779,
+      "timestamp": 1752070727739,
+      "timestamp_created": "2022-02-01T17:54:42.662Z",
+      "timestamp_created_epoch": 1643738082662,
+      "timestamp_update": "2024-06-17T07:46:28.083Z",
+      "timestamp_update_epoch": 1718610388083,
+      "title": [
+        "Man's ankle boots - Yoruba tribe."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048222_europeana_fashion_695",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Shoes or no shoes",
+      "object_id": "2048222_europeana_fashion_695",
+      "object_url": "https://www.europeana.eu/item/2048222/europeana_fashion_695?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A pair of beaded slippers with car-tire soles, a well-known Yoruba beadwork craft (beaded footwear made for chiefs/dignitaries), consistent with the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Yoruba Tribe-men's shoes.",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1930/1970"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Shoes or no shoes",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F695.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4513d3f1eb55f10845158e26ce1649975f041a14d649de4d931728d9bb11ceda",
+        "bytes": 35744,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\garment\\yoruba-nigeria\\images\\eu_2048222_europeana_fashion_695.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:34.735223+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Shoes or no shoes"
+      ],
+      "dcDescription": [
+        "Glass beaded cloth covered leather upper, car tire sole."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Glass beaded cloth covered leather upper, car tire sole."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Yoruba Tribe-men's shoes."
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10504",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10249",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10557"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fußbekleidung"
+        },
+        {
+          "def": "Leder"
+        },
+        {
+          "def": "Fußbekleidung"
+        },
+        {
+          "def": "Glas"
+        },
+        {
+          "def": "Jalkine"
+        },
+        {
+          "def": "Обувь"
+        },
+        {
+          "def": "Calçado"
+        },
+        {
+          "def": "calçado"
+        },
+        {
+          "def": "vidro"
+        },
+        {
+          "def": "Обувни артикули"
+        },
+        {
+          "def": "Avalynė"
+        },
+        {
+          "def": "Obuća"
+        },
+        {
+          "def": "Apavi"
+        },
+        {
+          "def": "Soulier"
+        },
+        {
+          "def": "cuir"
+        },
+        {
+          "def": "chaussures"
+        },
+        {
+          "def": "verre"
+        },
+        {
+          "def": "Lábviselet"
+        },
+        {
+          "def": "Obuv"
+        },
+        {
+          "def": "Obuvalo"
+        },
+        {
+          "def": "Coisbheart"
+        },
+        {
+          "def": "Calçat"
+        },
+        {
+          "def": "Fotbeklädnad"
+        },
+        {
+          "def": "läder"
+        },
+        {
+          "def": "skodon"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "Υπόδηση"
+        },
+        {
+          "def": "δέρμα"
+        },
+        {
+          "def": "υπόδημα"
+        },
+        {
+          "def": "γυαλί"
+        },
+        {
+          "def": "Footwear"
+        },
+        {
+          "def": "leather"
+        },
+        {
+          "def": "footwear"
+        },
+        {
+          "def": "glass"
+        },
+        {
+          "def": "Calzatura"
+        },
+        {
+          "def": "cuoio"
+        },
+        {
+          "def": "calzature"
+        },
+        {
+          "def": "vetro"
+        },
+        {
+          "def": "Calzado"
+        },
+        {
+          "def": "cuero"
+        },
+        {
+          "def": "calzado"
+        },
+        {
+          "def": "vidrio"
+        },
+        {
+          "def": "Jalanõu"
+        },
+        {
+          "def": "Oinetako"
+        },
+        {
+          "def": "Obutí"
+        },
+        {
+          "def": "Obuwie"
+        },
+        {
+          "def": "Fodtøj"
+        },
+        {
+          "def": "Încălțăminte"
+        },
+        {
+          "def": "Schoeisel"
+        },
+        {
+          "def": "leer"
+        },
+        {
+          "def": "schoeisel"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "עור"
+        },
+        {
+          "def": "הנעלה"
+        },
+        {
+          "def": "זכוכית"
+        },
+        {
+          "def": "koža"
+        },
+        {
+          "def": "obuća"
+        },
+        {
+          "def": "staklo"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Leder",
+          "Glas",
+          "Fußbekleidung"
+        ],
+        "fi": [
+          "Jalkine"
+        ],
+        "ru": [
+          "Обувь"
+        ],
+        "pt": [
+          "Calçado",
+          "calçado",
+          "vidro"
+        ],
+        "bg": [
+          "Обувни артикули"
+        ],
+        "lt": [
+          "Avalynė"
+        ],
+        "hr": [
+          "Obuća"
+        ],
+        "lv": [
+          "Apavi"
+        ],
+        "fr": [
+          "Soulier",
+          "chaussures",
+          "cuir",
+          "verre"
+        ],
+        "hu": [
+          "Lábviselet"
+        ],
+        "sk": [
+          "Obuv"
+        ],
+        "sl": [
+          "Obuvalo"
+        ],
+        "ga": [
+          "Coisbheart"
+        ],
+        "ca": [
+          "Calçat"
+        ],
+        "sr": [
+          "staklo",
+          "koža",
+          "obuća"
+        ],
+        "sv": [
+          "läder",
+          "glas",
+          "skodon",
+          "Fotbeklädnad"
+        ],
+        "el": [
+          "υπόδημα",
+          "δέρμα",
+          "γυαλί",
+          "Υπόδηση"
+        ],
+        "en": [
+          "footwear",
+          "glass",
+          "Footwear",
+          "leather"
+        ],
+        "it": [
+          "cuoio",
+          "vetro",
+          "Calzatura",
+          "calzature"
+        ],
+        "es": [
+          "Calzado",
+          "vidrio",
+          "cuero",
+          "calzado"
+        ],
+        "et": [
+          "Jalanõu"
+        ],
+        "eu": [
+          "Oinetako"
+        ],
+        "cs": [
+          "Obutí"
+        ],
+        "pl": [
+          "Obuwie"
+        ],
+        "da": [
+          "Fodtøj"
+        ],
+        "ro": [
+          "Încălțăminte"
+        ],
+        "he": [
+          "עור",
+          "זכוכית",
+          "הנעלה"
+        ],
+        "nl": [
+          "leer",
+          "glas",
+          "Schoeisel",
+          "schoeisel"
+        ]
+      },
+      "edmDatasetName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/sons/images/ethno/695.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Bundesrepublik Nigeria"
+        },
+        {
+          "def": "Bundesrepublik Nigerien"
+        },
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "República Federal da Nigéria"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "African continent"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "la République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Afraic"
+        },
+        {
+          "def": "mór-roinn na hAfraice"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "Federale Republiek Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        },
+        {
+          "def": "continent africà"
+        },
+        {
+          "def": "afriški kontinent"
+        },
+        {
+          "def": "črna celina"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien",
+          "Bundesrepublik Nigeria",
+          "Bundesrepublik Nigerien",
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия",
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta",
+          "Nigerian liittotasavalta",
+          "Africa"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria",
+          "Förbundsrepubliken Nigeria",
+          "Africa"
+        ],
+        "pt": [
+          "República Federal da Nigéria",
+          "continente africano"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja",
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "NGA",
+          "NGR",
+          "Naija",
+          "FRN",
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija",
+          "African continent"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria",
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "la République fédérale du Nigéria",
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság",
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria",
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria",
+          "Africa",
+          "continente africano"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik",
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika",
+          "Nigérijská federatívna republika"
+        ],
+        "sl": [
+          "afriški kontinent",
+          "črna celina"
+        ],
+        "ga": [
+          "An Nigéir",
+          "Afraic",
+          "mór-roinn na hAfraice"
+        ],
+        "nl": [
+          "NG",
+          "NGA",
+          "Federale Republiek Nigeria",
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria",
+          "República Federal de Nigèria",
+          "continent africà"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrikka"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Āfrika"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrique"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "an Nigéir"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "an Afraic"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Àfrica"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Αφρική"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Aafrika"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afryka"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Afrika"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "ru": [
+          "Нигерия",
+          "Нигерия",
+          "Африка"
+        ],
+        "fi": [
+          "Nigeria",
+          "Nigeria",
+          "Afrikka"
+        ],
+        "pt": [
+          "Nigéria",
+          "Nigéria",
+          "África"
+        ],
+        "bg": [
+          "Нигерия",
+          "Нигерия",
+          "Африка"
+        ],
+        "lt": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "lv": [
+          "Nigērija",
+          "Nigērija",
+          "Āfrika"
+        ],
+        "hr": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "fr": [
+          "Nigeria",
+          "Nigeria",
+          "Afrique"
+        ],
+        "hu": [
+          "Nigéria",
+          "Nigéria",
+          "Afrika"
+        ],
+        "sk": [
+          "Nigéria",
+          "Nigéria",
+          "Afrika"
+        ],
+        "sl": [
+          "Nigerija",
+          "Nigerija",
+          "Afrika"
+        ],
+        "ga": [
+          "an Nigéir",
+          "An Nigéir",
+          "an Afraic"
+        ],
+        "ca": [
+          "Nigèria",
+          "Nigèria",
+          "Àfrica"
+        ],
+        "sv": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "el": [
+          "Νιγηρία",
+          "Νιγηρία",
+          "Αφρική"
+        ],
+        "mt": [
+          "Niġerja",
+          "Niġerja",
+          "Afrika"
+        ],
+        "en": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "it": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "es": [
+          "Nigeria",
+          "Nigeria",
+          "África"
+        ],
+        "et": [
+          "Nigeeria",
+          "Nigeeria",
+          "Aafrika"
+        ],
+        "cs": [
+          "Nigérie",
+          "Nigérie",
+          "Afrika"
+        ],
+        "eu": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "pl": [
+          "Nigeria",
+          "Nigeria",
+          "Afryka"
+        ],
+        "ro": [
+          "Nigeria",
+          "Nigeria",
+          "Africa"
+        ],
+        "da": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ],
+        "nl": [
+          "Nigeria",
+          "Nigeria",
+          "Afrika"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0",
+        "9.0",
+        "21.09375"
+      ],
+      "edmPlaceLongitude": [
+        "8.0",
+        "8.0",
+        "7.1881"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F695.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1930/1970"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1930/1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048222/europeana_fashion_695?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048222/europeana_fashion_695",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2048222/europeana_fashion_695.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 106.53064,
+      "timestamp": 1752070741933,
+      "timestamp_created": "2022-02-01T17:54:42.662Z",
+      "timestamp_created_epoch": 1643738082662,
+      "timestamp_update": "2024-06-17T07:46:28.083Z",
+      "timestamp_update_epoch": 1718610388083,
+      "title": [
+        "Yoruba Tribe-men's shoes."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_330336",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_330336",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_330336?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a full Egungun masquerade costume with sequined, appliquéd panels, cowrie-shell fringe, and beaded boots, an outfit characteristic of the Yoruba Egungun ancestral cult, matching both the claimed ethnicity and the museum's description.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Egungun costume",
+      "titles_alt": [],
+      "date_text": "2005",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-6262-1a.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0e1283787c339317810ea2761febb13c0daa8f034b2b8bfe554981bdd97c6938",
+        "bytes": 84378,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\garment\\yoruba-nigeria\\images\\eu_2048221_europeana_fashion_330336.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:35.260044+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Masker, onderdeel van Egungunkostuum., Egungun betekent zoveel als 'verborgen krachten'. De Egungun-cultusgroep beheert het contact tussen de levenden en de geestenwereld. In crises, zoals een sterfgeval of bij dodenherdenkingsfeesten, treedt een Egungun-masker op die het welzijn van de mensen waarborgt. \nCollectieve Egúngún-verering gebeurt tijdens jaarlijkse of tweejaarlijkse maskeradefestivals. Gemaskerde mannen in kleurrijke kostuums die families of beroepsgroepen vertegenwoordigen, bewegen door de straten en tussen de mensen. Een Egungun-maskerkostuum verbeeldt, eert en roept een voorouder op middels spectaculaire en beweeglijke ronddraaiende dansen, waarbij het kostuum uiteindelijk als een cirkel om de danser heen vliegt. \nDe gelaagdheid van een kostuum is een teken van prestige voor de eigenaar van het kostuum. Ook verbergen ze de danser. Zijn werk is het kostuum tot leven te brengen en als het ware de voorouder te worden, wiens krachten te voorschijn komen. Mannen voeren de dans uit; vrouwen dansen onderwijl en zingen gebeden.\nEen van de gelegenheden waarbij Egungun wordt gedanst, is een afscheidsbezoek na de dood van een van de oudere mannen uit families die tot het maskergenootschap behoren. Enkele weken na de begrafenis komt een masker uit de kamer van de overledene, gekleed in zijn oude kleren, om ruziënde familieleden te straffen, vaarwel te zeggen tegen zijn vrouw en kinderen en soms om iemand van zijn overlijden te beschuldigen.\nAndere Egungun-maskers treden op tijdens het jaarlijkse dorpsfestival, waarbij ze door de straten rennen, vaak gevolgd door opgewonden mannen en jongens die elkaar en de jeugd in het publiek najagen en met stokken slaan. \nAangezien de maskerkostuums de voorouders belichamen, wordt verondersteld dat ze genezende krachten hebben. Tijdens de dansen wordt ze dan ook om genezing gevraagd, bijvoorbeeld door onvruchtbare vrouwen. Er wordt een kleine bedrage betaald, en als het probleem is opgelost wordt nog een ander offer gegeven. Zo kunnen maskers hun reputatie opbouwen als genezer, wat zichtbaar is aan de groeiende korst van offerresten op het masker zelf (D. Clarke 1998).\nBehalve de geestenmaskers treden tijdens festivals ook vermaaksmaskers op, puur voor entertainment. Ze stellen dieren voor, of menselijke eigenschappen, die blijken uit de stijl en attributen van en bij het kostuum. Zo worden prostituees verbeeldt, maar ook dronkelappen of Hausa-handelaren en Europeanen.\nDe mate van complexiteit van het helmmasker geeft de welvaart van de eigenaar van het kostuum aan, maar heeft verder geen betekenis voor de stastus en macht van het kostuum (Hahner-Herzog, 1997:266).",
+        "Mask, part of Egungun costume, Egungun means 'hidden forces'. The Egungun cult group manages contact between the living and the spirit world. In crises, such as a death or death anniversary celebrations, an Egungun mask acts to ensure people's well-being. \\Collective Egúngún worship occurs during annual or biennial masquerade festivals. Masked men in colorful costumes representing families or professional groups move through the streets and among the people. An Egungun masked costume represents, honors and evokes an ancestor through spectacular and agile circular dances, with the costume eventually flying around the dancer like a circle. \\The layering of a costume is a sign of prestige for the owner of the costume. They also hide the dancer. His job is to bring the costume to life and become, as it were, the ancestor, whose powers emerge. Men perform the dance; women dance and chant prayers.One of the occasions when Egungun is danced is a farewell visit after the death of one of the older men from families belonging to the mask society. A few weeks after the funeral, a mask comes out of the deceased's room, dressed in his old clothes, to punish quarreling relatives, say goodbye to his wife and children, and sometimes to accuse someone of his death.‖ Other Egungun masks perform during the annual village festival, running through the streets, often followed by excited men and boys chasing and beating each other and the youth in the audience with sticks. \\Since the mask costumes embody the ancestors, they are believed to have healing powers. During the dances they are therefore asked for healing, for example by infertile women. A small fee is paid, and when the problem is solved another offering is made. In this way masks can build up their reputation as healers, which can be seen in the growing crust of sacrificial remains on the mask itself (D. Clarke 1998).‗Besides the spirit masks, entertainment masks also appear at festivals, purely for entertainment. They represent animals, or human characteristics, which are reflected in the style and attributes of the costume. For example, prostitutes are depicted, but also drunks or Hausa traders and Europeans.‖ The degree of complexity of the helmet mask indicates the wealth of the owner of the costume, but otherwise has no significance for the stastus and power of the costume (Hahner-Herzog, 1997:266)."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Mask, part of Egungun costume, Egungun means 'hidden forces'. The Egungun cult group manages contact between the living and the spirit world. In crises, such as a death or death anniversary celebrations, an Egungun mask acts to ensure people's well-being. \\Collective Egúngún worship occurs during annual or biennial masquerade festivals. Masked men in colorful costumes representing families or professional groups move through the streets and among the people. An Egungun masked costume represents, honors and evokes an ancestor through spectacular and agile circular dances, with the costume eventually flying around the dancer like a circle. \\The layering of a costume is a sign of prestige for the owner of the costume. They also hide the dancer. His job is to bring the costume to life and become, as it were, the ancestor, whose powers emerge. Men perform the dance; women dance and chant prayers.One of the occasions when Egungun is danced is a farewell visit after the death of one of the older men from families belonging to the mask society. A few weeks after the funeral, a mask comes out of the deceased's room, dressed in his old clothes, to punish quarreling relatives, say goodbye to his wife and children, and sometimes to accuse someone of his death.‖ Other Egungun masks perform during the annual village festival, running through the streets, often followed by excited men and boys chasing and beating each other and the youth in the audience with sticks. \\Since the mask costumes embody the ancestors, they are believed to have healing powers. During the dances they are therefore asked for healing, for example by infertile women. A small fee is paid, and when the problem is solved another offering is made. In this way masks can build up their reputation as healers, which can be seen in the growing crust of sacrificial remains on the mask itself (D. Clarke 1998).‗Besides the spirit masks, entertainment masks also appear at festivals, purely for entertainment. They represent animals, or human characteristics, which are reflected in the style and attributes of the costume. For example, prostitutes are depicted, but also drunks or Hausa traders and Europeans.‖ The degree of complexity of the helmet mask indicates the wealth of the owner of the costume, but otherwise has no significance for the stastus and power of the costume (Hahner-Herzog, 1997:266)."
+        ],
+        "nl": [
+          "Masker, onderdeel van Egungunkostuum., Egungun betekent zoveel als 'verborgen krachten'. De Egungun-cultusgroep beheert het contact tussen de levenden en de geestenwereld. In crises, zoals een sterfgeval of bij dodenherdenkingsfeesten, treedt een Egungun-masker op die het welzijn van de mensen waarborgt. \nCollectieve Egúngún-verering gebeurt tijdens jaarlijkse of tweejaarlijkse maskeradefestivals. Gemaskerde mannen in kleurrijke kostuums die families of beroepsgroepen vertegenwoordigen, bewegen door de straten en tussen de mensen. Een Egungun-maskerkostuum verbeeldt, eert en roept een voorouder op middels spectaculaire en beweeglijke ronddraaiende dansen, waarbij het kostuum uiteindelijk als een cirkel om de danser heen vliegt. \nDe gelaagdheid van een kostuum is een teken van prestige voor de eigenaar van het kostuum. Ook verbergen ze de danser. Zijn werk is het kostuum tot leven te brengen en als het ware de voorouder te worden, wiens krachten te voorschijn komen. Mannen voeren de dans uit; vrouwen dansen onderwijl en zingen gebeden.\nEen van de gelegenheden waarbij Egungun wordt gedanst, is een afscheidsbezoek na de dood van een van de oudere mannen uit families die tot het maskergenootschap behoren. Enkele weken na de begrafenis komt een masker uit de kamer van de overledene, gekleed in zijn oude kleren, om ruziënde familieleden te straffen, vaarwel te zeggen tegen zijn vrouw en kinderen en soms om iemand van zijn overlijden te beschuldigen.\nAndere Egungun-maskers treden op tijdens het jaarlijkse dorpsfestival, waarbij ze door de straten rennen, vaak gevolgd door opgewonden mannen en jongens die elkaar en de jeugd in het publiek najagen en met stokken slaan. \nAangezien de maskerkostuums de voorouders belichamen, wordt verondersteld dat ze genezende krachten hebben. Tijdens de dansen wordt ze dan ook om genezing gevraagd, bijvoorbeeld door onvruchtbare vrouwen. Er wordt een kleine bedrage betaald, en als het probleem is opgelost wordt nog een ander offer gegeven. Zo kunnen maskers hun reputatie opbouwen als genezer, wat zichtbaar is aan de groeiende korst van offerresten op het masker zelf (D. Clarke 1998).\nBehalve de geestenmaskers treden tijdens festivals ook vermaaksmaskers op, puur voor entertainment. Ze stellen dieren voor, of menselijke eigenschappen, die blijken uit de stijl en attributen van en bij het kostuum. Zo worden prostituees verbeeldt, maar ook dronkelappen of Hausa-handelaren en Europeanen.\nDe mate van complexiteit van het helmmasker geeft de welvaart van de eigenaar van het kostuum aan, maar heeft verder geen betekenis voor de stastus en macht van het kostuum (Hahner-Herzog, 1997:266)."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Egungun costume",
+          "Egungun upper costume with mask"
+        ],
+        "nl": [
+          "Egungun bovenkostuum met masker"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2448",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://data.europeana.eu/concept/2142",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10359",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Chemiefaser"
+        },
+        {
+          "def": "Künstliches Material"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Химические волокна"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Synteettinen kuitu"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "Fibra sintética"
+        },
+        {
+          "def": "material artificial"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Sintetika"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Mākslīga šķiedra"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "Fibre synthétique"
+        },
+        {
+          "def": "matériau artificiel"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "Műszál"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Umetno vlakno"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Snáithín saorga"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Fibra sintètica"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Konstfiber"
+        },
+        {
+          "def": "konstgjort material"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "Synthetic fiber"
+        },
+        {
+          "def": "artificial material"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "Fibra sintetica"
+        },
+        {
+          "def": "materiale artificiale"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "Fibra sintética"
+        },
+        {
+          "def": "material artificial"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Umělé vlákno"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Zuntz artifizial"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Włókna sztuczne"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Kunstfiber"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Mască"
+        },
+        {
+          "def": "Bumbac"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "Kunstvezel"
+        },
+        {
+          "def": "kunstmatig materiaal"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "τεχνητές ίνες"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "חומר מלאכותי"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "veštački materijal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Künstliches Material",
+          "Maske",
+          "Baumwolle",
+          "ambra",
+          "Baumwollfaser",
+          "Chemiefaser"
+        ],
+        "ru": [
+          "Хлопок",
+          "Маска",
+          "Химические волокна"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Synteettinen kuitu",
+          "Naamari"
+        ],
+        "pt": [
+          "âmbar cinza",
+          "Algodão",
+          "Máscara",
+          "material artificial",
+          "algodão",
+          "Fibra sintética"
+        ],
+        "bg": [
+          "Маска",
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė",
+          "Kaukė"
+        ],
+        "hr": [
+          "Sintetika",
+          "Pamuk",
+          "Maska"
+        ],
+        "lv": [
+          "Mākslīga šķiedra",
+          "Kokvilna",
+          "Maska"
+        ],
+        "fr": [
+          "Masque",
+          "coton",
+          "ambre gris",
+          "Coton",
+          "Fibre synthétique",
+          "matériau artificiel"
+        ],
+        "hu": [
+          "Álarc",
+          "Műszál",
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna",
+          "Maska"
+        ],
+        "sl": [
+          "Bombaž",
+          "Umetno vlakno",
+          "Maska"
+        ],
+        "ga": [
+          "Masc",
+          "Cadás",
+          "Snáithín saorga"
+        ],
+        "ca": [
+          "Fibra sintètica",
+          "Cotó",
+          "Màscara"
+        ],
+        "sr": [
+          "ćilibar",
+          "pamuk",
+          "veštački materijal"
+        ],
+        "sv": [
+          "Bomull",
+          "ambra",
+          "Ansiktsmask",
+          "bomull",
+          "Konstfiber",
+          "konstgjort material"
+        ],
+        "el": [
+          "βαμβάκι",
+          "άμπαρο",
+          "τεχνητές ίνες",
+          "Βαμβάκι"
+        ],
+        "en": [
+          "cotton (fiber)",
+          "Synthetic fiber",
+          "Mask",
+          "ambergris",
+          "Cotton",
+          "artificial material"
+        ],
+        "it": [
+          "Fibra sintetica",
+          "ambra grigia",
+          "materiale artificiale",
+          "Maschera",
+          "Cotone",
+          "cotone"
+        ],
+        "es": [
+          "Algodón",
+          "ámbar gris",
+          "Máscara",
+          "material artificial",
+          "algodón",
+          "Fibra sintética"
+        ],
+        "et": [
+          "Puuvill",
+          "Mask"
+        ],
+        "cs": [
+          "Bavlna",
+          "Umělé vlákno",
+          "Maska"
+        ],
+        "eu": [
+          "Zuntz artifizial",
+          "Maskara",
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna",
+          "Maska",
+          "Włókna sztuczne"
+        ],
+        "da": [
+          "Bomuld",
+          "Maske",
+          "Kunstfiber"
+        ],
+        "ro": [
+          "Mască",
+          "Bumbac"
+        ],
+        "he": [
+          "כותנה",
+          "חומר מלאכותי",
+          "ענבר אפור"
+        ],
+        "nl": [
+          "Katoen",
+          "Kunstvezel",
+          "Masker",
+          "amber",
+          "katoen (vezel)",
+          "kunstmatig materiaal"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/330336"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-6262-1a.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Республика Бенин"
+        },
+        {
+          "def": "Beninin tasavalta"
+        },
+        {
+          "def": "Republiken Benin"
+        },
+        {
+          "def": "Repubblika tal-Benin"
+        },
+        {
+          "def": "Dahomey"
+        },
+        {
+          "def": "Bj"
+        },
+        {
+          "def": "BEN"
+        },
+        {
+          "def": "Republic of Benin"
+        },
+        {
+          "def": "Repubblica del Benin"
+        },
+        {
+          "def": "BJ"
+        },
+        {
+          "def": "La République du Bénin"
+        },
+        {
+          "def": "La République du Bénin"
+        },
+        {
+          "def": "Benini Köztársaság"
+        },
+        {
+          "def": "Dahomey"
+        },
+        {
+          "def": "Dahomania"
+        },
+        {
+          "def": "República de Benín"
+        },
+        {
+          "def": "Dahomey"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Republica de Benin"
+        },
+        {
+          "def": "Benini Vabariik"
+        },
+        {
+          "def": "Bénin"
+        },
+        {
+          "def": "Beninská republika"
+        },
+        {
+          "def": "Poblacht Bheinin"
+        },
+        {
+          "def": "Republiek Benin"
+        },
+        {
+          "def": "BJ"
+        },
+        {
+          "def": "BEN"
+        },
+        {
+          "def": "República de Benín"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "ru": [
+          "Республика Бенин"
+        ],
+        "fi": [
+          "Beninin tasavalta"
+        ],
+        "sv": [
+          "Republiken Benin"
+        ],
+        "mt": [
+          "Repubblika tal-Benin"
+        ],
+        "en": [
+          "Dahomey",
+          "Bj",
+          "BEN",
+          "Republic of Benin"
+        ],
+        "it": [
+          "Repubblica del Benin"
+        ],
+        "fr": [
+          "BJ",
+          "La République du Bénin",
+          "La République du Bénin"
+        ],
+        "hu": [
+          "Benini Köztársaság",
+          "Dahomey",
+          "Dahomania"
+        ],
+        "es": [
+          "República de Benín",
+          "Dahomey",
+          "Benin",
+          "Republica de Benin"
+        ],
+        "et": [
+          "Benini Vabariik"
+        ],
+        "cs": [
+          "Bénin"
+        ],
+        "sk": [
+          "Beninská republika"
+        ],
+        "ga": [
+          "Poblacht Bheinin"
+        ],
+        "nl": [
+          "Republiek Benin",
+          "BJ",
+          "BEN"
+        ],
+        "ca": [
+          "República de Benín"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Бенин"
+        },
+        {
+          "def": "Benim"
+        },
+        {
+          "def": "Бенин"
+        },
+        {
+          "def": "Beninas"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benina"
+        },
+        {
+          "def": "Bénin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Beinin"
+        },
+        {
+          "def": "Benín"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Μπενίν"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benín"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        },
+        {
+          "def": "Benin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Benin"
+        ],
+        "fi": [
+          "Benin"
+        ],
+        "ru": [
+          "Бенин"
+        ],
+        "pt": [
+          "Benim"
+        ],
+        "bg": [
+          "Бенин"
+        ],
+        "lt": [
+          "Beninas"
+        ],
+        "hr": [
+          "Benin"
+        ],
+        "lv": [
+          "Benina"
+        ],
+        "fr": [
+          "Bénin"
+        ],
+        "hu": [
+          "Benin"
+        ],
+        "sk": [
+          "Benin"
+        ],
+        "sl": [
+          "Benin"
+        ],
+        "ga": [
+          "Beinin"
+        ],
+        "ca": [
+          "Benín"
+        ],
+        "sv": [
+          "Benin"
+        ],
+        "el": [
+          "Μπενίν"
+        ],
+        "mt": [
+          "Benin"
+        ],
+        "en": [
+          "Benin"
+        ],
+        "it": [
+          "Benin"
+        ],
+        "es": [
+          "Benín"
+        ],
+        "et": [
+          "Benin"
+        ],
+        "cs": [
+          "Benin"
+        ],
+        "eu": [
+          "Benin"
+        ],
+        "pl": [
+          "Benin"
+        ],
+        "da": [
+          "Benin"
+        ],
+        "ro": [
+          "Benin"
+        ],
+        "nl": [
+          "Benin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "8.833333"
+      ],
+      "edmPlaceLongitude": [
+        "2.1833334"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-6262-1a.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2005/2005"
+        },
+        {
+          "def": "2005"
+        },
+        {
+          "def": "21. Jahrhundert"
+        },
+        {
+          "def": "2000-luku"
+        },
+        {
+          "def": "XXI век"
+        },
+        {
+          "def": "Século XXI"
+        },
+        {
+          "def": "21 век"
+        },
+        {
+          "def": "XXI amžius"
+        },
+        {
+          "def": "21. stoljeće"
+        },
+        {
+          "def": "21. gadsimts"
+        },
+        {
+          "def": "XXIe siècle"
+        },
+        {
+          "def": "21. század"
+        },
+        {
+          "def": "21. storočie"
+        },
+        {
+          "def": "21. stoletje"
+        },
+        {
+          "def": "21ú haois"
+        },
+        {
+          "def": "Segle XXI"
+        },
+        {
+          "def": "2000-talet"
+        },
+        {
+          "def": "21ος αιώνας"
+        },
+        {
+          "def": "21st century"
+        },
+        {
+          "def": "XXI secolo"
+        },
+        {
+          "def": "Siglo XXI"
+        },
+        {
+          "def": "21. sajand"
+        },
+        {
+          "def": "21. století"
+        },
+        {
+          "def": "XXI. mendea"
+        },
+        {
+          "def": "XXI wiek"
+        },
+        {
+          "def": "21. århundrede"
+        },
+        {
+          "def": "Secolul al XXI-lea"
+        },
+        {
+          "def": "21e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6939"
+        },
+        {
+          "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139024"
+        },
+        {
+          "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049674"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b43"
+        },
+        {
+          "def": "https://g.co/kg/m/08b43"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404515"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159816"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s01157225n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/21st_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "21. Jahrhundert"
+        ],
+        "fi": [
+          "2000-luku"
+        ],
+        "ru": [
+          "XXI век"
+        ],
+        "pt": [
+          "Século XXI"
+        ],
+        "bg": [
+          "21 век"
+        ],
+        "lt": [
+          "XXI amžius"
+        ],
+        "hr": [
+          "21. stoljeće"
+        ],
+        "lv": [
+          "21. gadsimts"
+        ],
+        "fr": [
+          "XXIe siècle"
+        ],
+        "hu": [
+          "21. század"
+        ],
+        "sk": [
+          "21. storočie"
+        ],
+        "sl": [
+          "21. stoletje"
+        ],
+        "ga": [
+          "21ú haois"
+        ],
+        "ca": [
+          "Segle XXI"
+        ],
+        "sv": [
+          "2000-talet"
+        ],
+        "el": [
+          "21ος αιώνας"
+        ],
+        "en": [
+          "21st century"
+        ],
+        "it": [
+          "XXI secolo"
+        ],
+        "es": [
+          "Siglo XXI"
+        ],
+        "et": [
+          "21. sajand"
+        ],
+        "cs": [
+          "21. století"
+        ],
+        "eu": [
+          "XXI. mendea"
+        ],
+        "zxx": [
+          "2005/2005",
+          "2005"
+        ],
+        "pl": [
+          "XXI wiek"
+        ],
+        "da": [
+          "21. århundrede"
+        ],
+        "ro": [
+          "Secolul al XXI-lea"
+        ],
+        "nl": [
+          "21e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_330336?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_330336",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_330336.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 180.48712,
+      "timestamp": 1762960216838,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Egungun costume",
+        "Egungun upper costume with mask",
+        "Egungun bovenkostuum met masker"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2005"
+      ]
+    }
+  }
+]

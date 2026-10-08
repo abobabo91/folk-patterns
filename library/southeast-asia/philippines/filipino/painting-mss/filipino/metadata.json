@@ -1,0 +1,6431 @@
+[
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a Manila newspaper (La Vanguardia, 1932) in Spanish, a printed document rather than an object made/worn/used by Filipinos in the ethnographic sense; it is a scanned page of a publication.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 286 - 04 January 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-01-04"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995857%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2449f282cfc38aae1ed5c8b9852ae4add888448a101a52c23790911acab1bf94",
+        "bytes": 37446,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:05.555873+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 286 - 04 January 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 286 - 04 Enero 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412461#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412461#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412461"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995857"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995857%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-01-04"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-01-04"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412461_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010773214,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 286 - 04 January 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 286 - 04 Enero 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a Filipino newspaper (La Vanguardia, Manila, 1932), a printed periodical rather than a painting or manuscript; it does document Filipino print culture but is a scanned document page, not an art object.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 78 - 02 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-02"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995867%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ee85628595de1580276eb7376fa9799eaedfe0d2095f90d0d28bfae6033753f8",
+        "bytes": 37888,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:05.970977+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 78 - 02 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 78 - 02 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412462#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412462#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412462"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995867"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995867%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-02"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-02"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412462_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.617577,
+      "timestamp": 1752010773288,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 78 - 02 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 78 - 02 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper page of a Filipino-published periodical (La Vanguardia, Manila), a document page rather than an object made/worn/used by the culture in an ethnographic sense.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 79 - 03 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-03"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995877%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5ae23b6554eb892ec796d727832974dfc4f335e654139626eccb662cb403b665",
+        "bytes": 41434,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:06.563630+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 79 - 03 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 79 - 03 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412463#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412463#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412463"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995877"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995877%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-03"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-03"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412463_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.617577,
+      "timestamp": 1752010773343,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 79 - 03 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 79 - 03 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned page of a Filipino newspaper (La Vanguardia, Manila, 1932), a printed document rather than an ethnographic object, but it is a genuine Filipino-produced publication showing period news layout and imagery.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 81 - 05 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-05"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995903%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5b5f488013c52f4b82f631ed2f63c5373e5e8fe4fbbe4ad93b09cbae665c7e42",
+        "bytes": 40880,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:07.241930+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 81 - 05 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 81 - 05 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412465#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412465#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412465"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995903"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995903%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-05"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-05"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412465_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010773499,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 81 - 05 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 81 - 05 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper front page (a 1932 Manila periodical), not an artwork, object, or documentary photo of Filipino dress or craft — it's a scanned page of a document.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 84 - 09 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-09"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995943%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a9911cb153628205437a1616ea1d81e56e849d2982f4a7a1784ab953fd880053",
+        "bytes": 38865,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:07.811411+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 84 - 09 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 84 - 09 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412468#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412468#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412468"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995943"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995943%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-09"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-09"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412468_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010773706,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 84 - 09 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 84 - 09 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper page (a printed Filipino periodical, La Vanguardia), not a painting or manuscript artwork; it is a scan of a document page, which is excluded even though it is Filipino-related.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 87 - 12 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-12"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995975%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e193d43e3b2bb2eedfc5e8a51ad2f6ebe7c81de510ef7d22a33102bd650e335a",
+        "bytes": 40483,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:08.506017+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 87 - 12 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 87 - 12 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412471#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412471#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412471"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995975"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995975%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-12"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-12"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412471_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.559998,
+      "timestamp": 1752010773910,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 87 - 12 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 87 - 12 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper front page (La Vanguardia, Manila, 1932) — a scan of a printed document page, not a work made, worn, or used as an ethnographic artifact.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 88 - 13 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-13"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995989%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2acf2f87e1cd98902e8e33875eeee3de7caa9f0e28a8f1bd4ce65c80940a1844",
+        "bytes": 39075,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:08.978452+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 88 - 13 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 88 - 13 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412472#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412472#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412472"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995989"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995989%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-13"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-13"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412472_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.617577,
+      "timestamp": 1752010774016,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 88 - 13 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 88 - 13 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a Spanish-language Filipino newspaper (La Vanguardia, 1932), a printed document page rather than an object made, worn or used by Filipinos in a craft sense.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 89 - 14 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-14"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995999%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "342791973d7d09c66fd6843e8e5c35801beb418a95aae46c1d922b3116937032",
+        "bytes": 41331,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:09.469133+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 89 - 14 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 89 - 14 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412473#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412473#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412473"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006995999"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006995999%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-14"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-14"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412473_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010774080,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 89 - 14 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 89 - 14 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper page from La Vanguardia, a Manila-published Filipino newspaper, showing text columns and photo illustrations. As a scanned document page it falls under the \"no\" category for museum/document scans, but it is genuinely a Filipino-produced print artifact from Manila.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 91 - 17 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-17"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996033%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bbfc600c17bda38c07c5cddffa255bbe970b794c44bb98cb683b0ac419a4c36b",
+        "bytes": 40232,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:10.151440+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 91 - 17 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 91 - 17 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412475#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412475#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412475"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996033"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996033%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-17"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-17"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412475_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010774195,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 91 - 17 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 91 - 17 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned page of a Manila-published Spanish-language newspaper (La Vanguardia), a printed periodical made by and for the Filipino community, not a book/manuscript artwork or ethnographic object—it is a scanned document page.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 93 - 19 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-19"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996055%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f45229f99dcd252b294e2023bb573577088aebdc05f4b686bb6407445aee049f",
+        "bytes": 40967,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:10.769561+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 93 - 19 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 93 - 19 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412477#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412477#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412477"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996055"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996055%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-19"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-19"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412477_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010774340,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 93 - 19 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 93 - 19 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a Filipino newspaper (La Vanguardia, Manila, 1932), a printed document rather than a painting or manuscript, but it is a genuine Filipino cultural artifact showing local press/print culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 97 - 24 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-24"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996107%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "20474d07f377966f6ae4a3fefa91f8c2897c6bf53cb74329e9d491f6afba590c",
+        "bytes": 40013,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:11.486118+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 97 - 24 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 97 - 24 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412481#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412481#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412481"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996107"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996107%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-24"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-24"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412481_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010774684,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 97 - 24 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 97 - 24 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper front page (La Vanguardia, Manila, 1932), a printed Filipino-language/Spanish-language journal page, not an artwork or documentary photo of Filipino dress/craft/life — it's a scanned document page.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 99 - 26 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-26"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996129%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "acd750be1c16802c4844dbf68e86621605f30e2ca28a8dcb0d13ad2048856316",
+        "bytes": 40316,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:12.025981+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 99 - 26 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 99 - 26 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412483#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412483#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412483"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996129"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996129%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-26"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-26"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412483_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010774832,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 99 - 26 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 99 - 26 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned newspaper page (a Filipino-published journal in Spanish), not a made object, garment, or artwork depicting Filipino culture — it's a document scan, which is excluded regardless of the ethnic press it comes from.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "painting-mss",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 100 - 27 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-27"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996139%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "83a7ae9a0fc9e81cb4e1a37aa4ffd80d359027bec32fde29a75bd4eac0bbcf31",
+        "bytes": 40781,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:12.599595+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 100 - 27 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 100 - 27 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412484#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412484#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412484"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996139"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996139%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-27"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-27"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412484_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.559998,
+      "timestamp": 1752010774886,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 100 - 27 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 100 - 27 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a Spanish-language Filipino newspaper (La Vanguardia, Manila, 1932), showing printed news columns, headlines and small halftone photos of named individuals — a documentary press page, not an object, garment, artwork or scene of dress/craft/daily life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 101 - 28 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-28"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996149%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b546a97437fbcd0902aef0e6a90b248cc5e3f4b6615b1452af92a79c928a149b",
+        "bytes": 41872,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:13.133066+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 101 - 28 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 101 - 28 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412485#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412485#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412485"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996149"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996149%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-28"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-28"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412485_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.70769,
+      "timestamp": 1752010774945,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 101 - 28 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 101 - 28 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a 1932 Manila newspaper (La Vanguardia), a printed periodical page rather than an object made, worn or used by Filipinos in the ethnographic sense — it's a scanned document page.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 102 - 30 May 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-05-30"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996169%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f8c5ae960970ee0b06b13f2ad5422a4be5faf2f77db956d1cbd6c09954026fb0",
+        "bytes": 38334,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:13.742878+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 102 - 30 May 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 102 - 30 Mayo 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412486#ent2",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412486#ent4"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        },
+        {
+          "def": "Información general"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412486"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996169"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996169%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-05-30"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-05-30"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412486_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.559998,
+      "timestamp": 1752010775002,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 102 - 30 May 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 102 - 30 Mayo 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Virtual Library of Historical Press",
+      "object_id": "867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0",
+      "object_url": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned front page of a Filipino newspaper (La Vanguardia, Manila, 1932), a printed document rather than an object made, worn, or used by the Filipino people in a craft/material culture sense.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 106 - 03 June 1932",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1932-06-03"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Virtual Library of Historical Press",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996213%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a9e81f45cfa63f11b94d3a8518d1139f8f06b4131e3f0da95e2ec213943c5440",
+        "bytes": 40840,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\eu_867_https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:14.525500+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Virtual Library of Historical Press"
+      ],
+      "dcDescription": [
+        "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+      ],
+      "dcDescriptionLangAware": {
+        "es": [
+          "Copia digital. Ministerio de Educación, Cultura y Deporte. Subdirección General de Coordinación Bibliotecaria : Madrid, 2016"
+        ]
+      },
+      "dcLanguage": [
+        "spa",
+        "spa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "spa",
+          "spa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 106 - 03 June 1932"
+        ],
+        "es": [
+          "La Vanguardia : diario filipino independiente: Año XXIII Número 106 - 03 Junio 1932"
+        ]
+      },
+      "edmConcept": [
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412490#ent4",
+        "https://hispana.mcu.es/lod/oai:prensahistorica.mcu.es:11000412490#ent2"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Información general"
+        },
+        {
+          "def": "Información general-Periódicos-Publicaciones periódicas"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "es": [
+          "Información general",
+          "Información general-Periódicos-Publicaciones periódicas"
+        ]
+      },
+      "edmDatasetName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "edmIsShownAt": [
+        "https://prensahistorica.mcu.es/es/consulta/registro.do?id=11000412490"
+      ],
+      "edmIsShownBy": [
+        "https://prensahistorica.mcu.es/i18n/catalogo_imagenes/imagen_id.do?idImagen=2006996213"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Filipinas-Manila"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "es": [
+          "Filipinas-Manila"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fprensahistorica.mcu.es%2Fi18n%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D2006996213%26formato%3Djpg%26anchoMaximo%3D2400&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1932-06-03"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1932-06-03"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "867_Hispana_BibliotecaVirtualdePrensaHistorica_esebvph3"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/867/https___hispana_mcu_es_lod_oai_prensahistorica_mcu_es_11000412490_ent0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Hispana"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 56.617577,
+      "timestamp": 1752010775317,
+      "timestamp_created": "2023-04-04T11:00:57.130Z",
+      "timestamp_created_epoch": 1680606057130,
+      "timestamp_update": "2023-04-04T11:00:57.130Z",
+      "timestamp_update_epoch": 1680606057130,
+      "title": [
+        "La Vanguardia: Independent Filipino Journal: Year XXIII Issue 106 - 03 June 1932",
+        "La Vanguardia : diario filipino independiente: Año XXIII Número 106 - 03 Junio 1932"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "british_museum-EA_Oc-A51-118",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Oc-A51-118",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Oc-A51-118",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Oc.A51.118",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo is a documentary snapshot of two men in Malaita, Solomon Islands, one Melanesian and one in Western clothing; the museum's own description explicitly locates it in the Solomon Islands, not the Philippines, and the \"Filipino\" label appears to be an error confusing \"Filipino man\" with the actual ethnic identity. No Filipino craft, dress, or subject matter is depicted.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print (black and white); album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print (black and white); album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Photograph (black and white) from an album; one man and one Filipino man wearing western-style clothing, standing in a clearing, one man has a gun; Malaita, Solomon Islands. \r\nGelatin silver print",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_18/d75237ab_3144_4235_a6e7_a3bb012cf5df/preview_00362158_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e53c09e04e6aa1385ec34850d748896ba149e32d98a54c40c6996a2158c91186",
+        "bytes": 62958,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\bm_EA_Oc-A51-118.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:32:48.394427+00:00",
+    "raw": {
+      "title": "photographic print (black and white); album",
+      "description": "Photograph (black and white) from an album; one man and one Filipino man wearing western-style clothing, standing in a clearing, one man has a gun; Malaita, Solomon Islands. \r\nGelatin silver print",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_18/d75237ab_3144_4235_a6e7_a3bb012cf5df/preview_00362158_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-AA_As2006-prt-47",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "AA_As2006-prt-47",
+      "object_url": "https://www.britishmuseum.org/collection/object/AA_As2006-prt-47",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "AA,As2006.prt.47",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a page from the Illustrated London News (1857) with engravings by a European artist/journal depicting Filipinos in daily life in Manila (rice pounding, houses, market women, street scenes) alongside a scene of Europeans relaxing. It is an outsider's depiction (travel engraving/illustrated press), which falls under the \"culture pictured by outsiders\" exclusion, though the documentary content of Filipino daily life is genuine.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Print on paper. Page of the Illustrated London News from December 1857 portraying Filipinos going about their everyday lives, with an additional scene of Europeans relaxing after a meal. The text is called Sketches in Manilla.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_8/8_14/bdbc4898_440e_460e_92d4_aaa300ea9760/preview_As2006_prt47.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "531f911ac98c40146f64d5443e805dca5b2943b78a34a54cfd9c5558039c04bd",
+        "bytes": 95720,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\painting-mss\\filipino\\images\\bm_AA_As2006-prt-47.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:33:00.371532+00:00",
+    "raw": {
+      "title": "print",
+      "description": "Print on paper. Page of the Illustrated London News from December 1857 portraying Filipinos going about their everyday lives, with an additional scene of Europeans relaxing after a meal. The text is called Sketches in Manilla.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_8/8_14/bdbc4898_440e_460e_92d4_aaa300ea9760/preview_As2006_prt47.jpg"
+    }
+  }
+]

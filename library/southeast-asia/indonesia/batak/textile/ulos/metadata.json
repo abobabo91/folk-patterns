@@ -1,0 +1,907 @@
+[
+  {
+    "id": "va-O448069",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O448069",
+      "object_url": "https://collections.vam.ac.uk/item/O448069",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.43-1997",
+      "accession_year": 1997
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "ulos",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows an indigo cotton shoulder cloth with warp ikat striping and a fringed end, matching the classic ulos textile made and worn by the Batak of Sumatra.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "20th century",
+      "date_earliest": 1900,
+      "date_latest": 1999,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "cotton (textile)"
+      ],
+      "techniques": [
+        "ikat"
+      ],
+      "medium_raw": "Cotton warp ikat",
+      "classification": "Shoulder cloth (ulos)",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Clothing"
+      ],
+      "physical_description": "Cotton shoulder cloth (<i>ulos</i>) indigo-dyed with a white warp ikat arrow-head pattern, with narrow twined strips and a fringe at each end",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Width",
+          "value": "86.5",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Length",
+          "value": "278",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Sumatra",
+      "made_in_place_alt": [],
+      "current_gallery": "004",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP5676/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP5676",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5676/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "71238f14f2f659053dca2db3b86c6191a9653481ef9f0c0182400f4f7c3731e7",
+        "bytes": 335311,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O448069.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:39.000801+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O448069",
+        "accessionNumber": "IS.43-1997",
+        "objectType": "Shoulder cloth (ulos)",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312204",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": "maker"
+        },
+        "_primaryImageId": "2020MP5676",
+        "_primaryDate": "20th century",
+        "_primaryPlace": "Sumatra",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP5676/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP5676/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O448069/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O448069",
+        "accessionNumber": "IS.43-1997",
+        "objectType": "Shoulder cloth (ulos)",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Cotton shoulder cloth (<i>ulos</i>) indigo-dyed with a white warp ikat arrow-head pattern, with narrow twined strips and a fringe at each end",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "maker",
+              "id": "x40240"
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "cotton (textile)",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "ikat",
+            "id": "AAT249861"
+          }
+        ],
+        "materialsAndTechniques": "Cotton warp ikat",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP5676"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "004",
+              "id": "THES312204"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Shoulder cloth (ulos)",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Sumatra",
+              "id": "x35701"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "20th century",
+              "earliest": "1900-01-01",
+              "latest": "1999-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Width",
+            "value": "86.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": "transcribed from department register"
+          },
+          {
+            "dimension": "Length",
+            "value": "278",
+            "unit": "cm",
+            "qualifier": "including fringe",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": "transcribed from department register"
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Shoulder cloth (ulos), cotton, warp ikat. Toba Batak people, North Sumatra, 20th century.",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.43-1997"
+        ],
+        "accessionNumberNum": "43",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1997,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933587-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933587-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129193",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-115-17",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "ulos",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a handwoven ceremonial shoulder cloth with dark reddish-brown ground, warp stripes, and an intricately patterned supplementary-weft panel with fringe — consistent with a Batak ulos ragidup textile from North Sumatra.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Ulos ragidup (ceremonial shoulder cloth)",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: tied resist patterning in warp or weft (ikat) on plain weave, with supplementary weft patterning",
+      "classification": "woven textiles",
+      "styles": [],
+      "categories": [
+        "woven textiles",
+        "Ulos ragidup (ceremonial shoulder cloth)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 200 x 20 cm (6 ft. 6 3/4 in. x 7 7/8 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "North Sumatra, Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4ec36014d-d8c8-4a34-b9db-27b67a1bf6f4"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-5270DA8DAB432-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6fd4d1f67d1a459343a29a71b006ddd5f5bf1a7d6c4e0e0c126d428981c04ac9",
+        "bytes": 5229362,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\si_chndm_1961-115-17.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:59:26.391742+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933587-0",
+      "title": "Ulos ragidup (ceremonial shoulder cloth)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-115-17",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Ulos ragidup, 'the cloth with the pattern of life', is a large ceremonial selendang (shoulder cloth) which is wrapped around the groom's mother by the bride's father at a wedding. Center area in dark maroon with vertical stripes of light blue and a bright red-brown. Ornamented on either end with intricate insets of cream color with horizontal bands of design, by making use of one additional warp. Wide borders in dark red, with a narrow stripe of dark blue on outer-most side and a stripe showing a geometric pattern in gold on the inner most side (touching the center panel), run the length of the piece on both sides of the center panel. Woven in three sections and fringed."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "North Sumatra, Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-115-17"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "woven textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Ulos ragidup (ceremonial shoulder cloth)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: tied resist patterning in warp or weft (ikat) on plain weave, with supplementary weft patterning"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 200 x 20 cm (6 ft. 6 3/4 in. x 7 7/8 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "North Sumatra",
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              },
+              "L3": {
+                "type": "State",
+                "content": "North Sumatra"
+              }
+            }
+          ],
+          "object_type": [
+            "Ulos ragidup (ceremonial shoulder cloth)",
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4ec36014d-d8c8-4a34-b9db-27b67a1bf6f4",
+          "title": {
+            "label": "Title",
+            "content": "Ulos ragidup (ceremonial shoulder cloth)"
+          },
+          "record_ID": "chndm_1961-115-17",
+          "unit_code": "CHNDM",
+          "title_sort": "ULOS RAGIDUP (CEREMONIAL SHOULDER CLOTH)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129193",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-5270DA8DAB432-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9d334edfd-3d49-4893-a859-4aad60887e66",
+                "type": "Images",
+                "idsId": "CHSDM-5270DA8DAB432-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-5270DA8DAB432-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-5270DA8DAB432-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Ulos ragidup, 'the cloth with the pattern of life', is a large ceremonial selendang (shoulder cloth) which is wrapped around the groom's mother by the bride's father at a wedding. Center area in dark maroon with vertical stripes of light blue and a bright red-brown. Ornamented on either end with intricate insets of cream color with horizontal bands of design, by making use of one additional warp. Wide borders in dark red, with a narrow stripe of dark blue on outer-most side and a stripe showing a geometric pattern in gold on the inner most side (touching the center panel), run the length of the piece on both sides of the center panel. Woven in three sections and fringed.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-5270DA8DAB432-000001.jpg",
+                    "width": 7749,
+                    "height": 10262,
+                    "dimensions": "7749x10262"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-5270DA8DAB432-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-5270DA8DAB432-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "9fb4d790f8733ddf7fe04c2465f115077c3361db",
+      "docSignature": "a111a76e80121e80c4e50bc9e57784a6",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "va-O478030",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O478030",
+      "object_url": "https://collections.vam.ac.uk/item/O478030",
+      "iiif_manifest": null,
+      "credit_line": "Given by Mrs L. Ryan",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.42-1985",
+      "accession_year": 1985
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "ulos",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is an ikat-woven silk cloth (Ulos Padang Rusak) with arrowhead ikat patterning typical of Batak textile traditions from Sumatra; despite the museum listing location as Aceh, the described ulos type is a Batak garment/textile form.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "20th century",
+      "date_earliest": 1900,
+      "date_latest": 1985,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave silk, warp ikat",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [
+        "Textiles"
+      ],
+      "physical_description": "Textile (Ulos Padang Rusak) of silk with a base colour in reddish and rusty brown, and with simple ikat patterns of white 'arrowheads' in dark stripes set against their background. The lateral margins are the same brown with an off-white selvedge. The non selvedge edges have been cut off, but may originally have had a fringe.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "170",
+          "unit": "cm",
+          "part": "warp"
+        },
+        {
+          "dimension": "Width",
+          "value": "70",
+          "unit": "cm",
+          "part": "weft"
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Aceh",
+      "made_in_place_alt": [],
+      "current_gallery": "002",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP9117/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP9117",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP9117/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "6f934ae236c401d12997dc54853d3066da1967f07753492c088c801710a2ca53",
+        "bytes": 203574,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O478030.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017KC6883/full/1000,/0/default.jpg",
+        "iiif_id": "2017KC6883",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6883/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "f2f21750b3210230c2a08fd438fbeec99039f70dd67fc5d43abe40ae1e24301b",
+        "bytes": 260588,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O478030_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017KC6882/full/1000,/0/default.jpg",
+        "iiif_id": "2017KC6882",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6882/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "5952b08233d1666e738f900b9fb80b9022a8168dd98409f63c83eb94a207d65d",
+        "bytes": 308961,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\ulos\\images\\va_O478030_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:41.432824+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O478030",
+        "accessionNumber": "IS.42-1985",
+        "objectType": "Textile",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312260",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP9117",
+        "_primaryDate": "20th century",
+        "_primaryPlace": "Aceh",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP9117/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP9117/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O478030/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O478030",
+        "accessionNumber": "IS.42-1985",
+        "objectType": "Textile",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Textile (Ulos Padang Rusak) of silk with a base colour in reddish and rusty brown, and with simple ikat patterns of white 'arrowheads' in dark stripes set against their background. The lateral margins are the same brown with an off-white selvedge. The non selvedge edges have been cut off, but may originally have had a fringe.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [],
+        "techniques": [],
+        "materialsAndTechniques": "Plain weave silk, warp ikat",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP9117",
+          "2017KC6883",
+          "2017KC6882"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "002",
+              "id": "THES312260"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Textile",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Aceh",
+              "id": "x46623"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "possibly"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "20th century",
+              "earliest": "1900-01-01",
+              "latest": "1985-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Given by Mrs L. Ryan",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "170",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "warp",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "70",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "weft",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Textile (Ulos Padang Rusak) of silk, possibly made in Aceh, Indonesia, 20th century",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.42-1985"
+        ],
+        "accessionNumberNum": "42",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1985,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  }
+]

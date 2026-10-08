@@ -1,0 +1,201 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1023978",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1023978",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1023978?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "south-asia",
+      "country": "Sri Lanka",
+      "ethnicity": "Sinhalese",
+      "tradition": "Sinhalese",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A bronze temple bell (ghantaraya) with wooden handle, documented as used by Sinhalese (and Hindus) in Sri Lankan temples — a plausible traditional Sinhalese ritual/instrument object.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "klocka, bell",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1232703/1916.09.0393.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9d8660bd38562c7b27fe79469a86abe6761006ceea724da0ed734321b200a01a",
+        "bytes": 63131,
+        "local_path": "library\\south-asia\\sri-lanka\\sinhalese\\instruments\\sinhalese\\images\\eu_91619_SMVK_EM_objekt_1023978.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1232703%2F1916.09.0393.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:12:15.994664+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1023978",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1023978?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "klocka, bell",
+        "bell",
+        "klocka, bell"
+      ],
+      "dcDescription": [
+        "A bell, sinuva or ghantaraya (Sin.), used by Sinhalese and Hindus in Buddhist or Hindu temples all over Sri Lanka.\n\nProf. M. H. Goonatilleka metall 1916.09.0393 Sri Lanka Ceylon A bell, sinuva or ghantaraya (Sin.), used by Sinhalese and Hindus in Buddhist or Hindu temples all over Sri Lanka.\n\nProf. M. H. Goonatilleka 1916.09.0393 metall Sri Lanka Ceylon"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1232703%2F1916.09.0393.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1232703/1916.09.0393.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Шри-Ланка"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Шри Ланка"
+        },
+        {
+          "def": "Šri Lanka"
+        },
+        {
+          "def": "Šri Lanka"
+        },
+        {
+          "def": "Šrilanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Srí Lanka"
+        },
+        {
+          "def": "Srí Lanka"
+        },
+        {
+          "def": "Šrilanka"
+        },
+        {
+          "def": "Srí Lanca"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Σρι Λάνκα"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Šrí Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        },
+        {
+          "def": "Sri Lanka"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

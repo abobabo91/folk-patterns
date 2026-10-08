@@ -1,0 +1,984 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_17179",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_17179",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17179?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zia",
+      "tradition": "Zia",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A classic Zia polychrome pottery jar with the distinctive red bird motif (sacred water bird) outlined in black, a hallmark of Zia Pueblo pottery as noted in the museum's own description citing Clara Lee Tanner's reference work.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, lerkärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200813/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "185c55c92cc8c8b6502df3ccfc096cf1dd7c4b941cdcff2bc483fe8713a32cae",
+        "bytes": 41291,
+        "local_path": "library\\north-america\\united-states\\zia\\ceramic\\zia\\images\\eu_91608_SMVK_VKM_objekt_17179.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200813%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:13:08.147953+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_17179",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17179?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, lerkärl"
+      ],
+      "dcDescription": [
+        "1969.24.0005 R (kolla) New Mexico 10408. skiss bld 17881 0 17.946 zia North America United States Zia People Zia Polykromt lerkärl.  Höjd: 14,8 cm.\nStörsta bredd: 16,5 cm. Kärlet är bl. a. dekorerat med två röda fåglar med svarta konturer.  Fåglarna har en vinge vardera och två stjärtfjädrar.  Fågelmotivet är mycket vanligt hos zianderna och föreställer den heliga \nvattenfågeln, vilken anses framkalla vatten och liv. Clara Lee Tanner skriver i Southwest Indian Craft Arts sid. 103:  \"There is considerable variety of design in Zia pottery. Perhaps the most distinctive is a lively bird which has "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200813%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200813/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-E_Am1999-06-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1999-06-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1999-06-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1999.06.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zia",
+      "tradition": "Zia",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Classic Zia polychrome storage jar with the characteristic red-orange slip, bulbous body, and bird motif in the shoulder panel; this style of pottery is a hallmark Zia Pueblo craft.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "storage-jar",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "storage-jar",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Large globular storage jar made of clay, coiled, painted with orange and black slips, the design including two birds.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/55cd5c8e_57a6_483e_b8e7_a3b8015651df/preview_00331970_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dc7d3a715a762e0dd5a6d58335197290436f61f1db5a6a6879d893c88615bbe3",
+        "bytes": 32470,
+        "local_path": "library\\north-america\\united-states\\zia\\ceramic\\zia\\images\\bm_E_Am1999_06_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:13:10.733731+00:00",
+    "raw": {
+      "title": "storage-jar",
+      "description": "Large globular storage jar made of clay, coiled, painted with orange and black slips, the design including two birds.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/55cd5c8e_57a6_483e_b8e7_a3b8015651df/preview_00331970_001.jpg",
+      "production_ethnic_groups": [
+        "Zia"
+      ],
+      "production_ethnic_attribution": "Made by: Zia"
+    }
+  },
+  {
+    "id": "british_museum-E_Am1983-Q-330",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1983-Q-330",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1983-Q-330",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1983.Q.330",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zia",
+      "tradition": "Zia",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A classic large polychrome Pueblo water jar (olla) with floral and geometric designs in black, white and red, explicitly attributed to Zia Pueblo by the museum; this matches the well-known Zia pottery tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "water-jar; olla",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "water-jar; olla",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Large pottery water jar, painted in floral and geometric patterns in black, white and red. The base of the jar has been cracked historically and has native sinew repairs.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/04fd559d_8583_4b09_90be_a3b8015660b7/preview_00331974_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "306ab3b26e2be3ee8148f17ce6365047833f44fd1955d599418986d765d536bb",
+        "bytes": 47548,
+        "local_path": "library\\north-america\\united-states\\zia\\ceramic\\zia\\images\\bm_E_Am1983_Q_330.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:13:11.655936+00:00",
+    "raw": {
+      "title": "water-jar; olla",
+      "description": "Large pottery water jar, painted in floral and geometric patterns in black, white and red. The base of the jar has been cracked historically and has native sinew repairs.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/04fd559d_8583_4b09_90be_a3b8015660b7/preview_00331974_001.jpg",
+      "production_ethnic_groups": [
+        "Zia"
+      ],
+      "production_ethnic_attribution": "Made by: Zia"
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_17172",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_17172",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17172?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zia",
+      "tradition": "Zia",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A classic white-slipped Zia Pueblo pottery bowl with red band and black geometric scalloped design along the rim, matching documented Zia polychrome ware from Sia Pueblo, New Mexico.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "skål, kärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155666/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4b102b38bac6e55c20f6abab0de843481fa2c6d7e1374c5c39107045565ac632",
+        "bytes": 42153,
+        "local_path": "library\\north-america\\united-states\\zia\\ceramic\\zia\\images\\eu_91608_SMVK_VKM_objekt_17172.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155666%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:13:11.811082+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_17172",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17172?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "skål, kärl"
+      ],
+      "dcDescription": [
+        "1927.12.0005 Sia, New Mexico, U.S.A. = ZIA Sia Pueblo, New Mexico, USA Sia, New Mexico. [[Haga]] skiss Amerika United States Zia People Zia Skål av lergods. Vit bottenfärg såväl ut- som invändigt. Yttre dekorationen i svart och rött längs kanten.\nErhållet genom byte med Museum of Anthropology, University of California."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155666%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155666/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_17183",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_17183",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17183?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zia",
+      "tradition": "Zia",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A polychrome Zia Pueblo storage jar with classic cream slip, orange band, and the sacred water bird (Zia roadrunner-like bird) motif described in the museum notes — a textbook Zia ceramic.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1112529/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "af3b7bfb760a20584ebfc0276cb1765514b67e9286bb07a9a70a7258ac8d66ab",
+        "bytes": 47745,
+        "local_path": "library\\north-america\\united-states\\zia\\ceramic\\zia\\images\\eu_91608_SMVK_VKM_objekt_17183.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1112529%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:13:11.991601+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_17183",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17183?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl"
+      ],
+      "dcDescription": [
+        "1972.17.0001 R (kolla) Zia (Sis) pueblo, New Mexico, U.S.A. Zia Pueblo, New Mexico, USA Mich. [[Haga]] skiss Keres-talande zia (sis)-stammen. Amerika United States Zia People Zia 17,5 cm högt målat lerkärl, största diam. 19,5 cm. Färgerna vitt, gulbrunt, brunt. I dekoren bl.a. den heliga vattenfågeln, som anse framkalla vatten och liv. Se förklaring till ett betr. dekoren liknande kärl 69.24.5. med citat från Clara Lee Turner: Southwest Indian Craft Arts, \np.103. Obs hennes text. \"Two of these birds may appear on a jar, sometimes with a wide band curving over each one.\"  Detta är exakt fallet "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1112529%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1112529/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_17176",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_17176",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17176?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Zia",
+      "tradition": "Zia",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Small red-slipped pottery bowl with white and black geometric (triangle) decoration, consistent with traditional Zia Pueblo polychrome ceramics; museum record confirms it was collected from Zia Pueblo, New Mexico.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "skål, kärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1049286/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "193d717ad697cae9f205d4d8874667673e1eda09b0bbd9b959b8e24dcbc5313a",
+        "bytes": 18465,
+        "local_path": "library\\north-america\\united-states\\zia\\ceramic\\zia\\images\\eu_91608_SMVK_VKM_objekt_17176.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1049286%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:13:12.572925+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_17176",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17176?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "skål, kärl"
+      ],
+      "dcDescription": [
+        "1927.12.0006 Sia, New Mexico, U.S.A. = ZIA Sia, New Mexico. [[Haga]] Sia Pueblo, New Mexico, USA skiss Amerika United States Zia People Zia Skål av lergods, liten. Röd bottenfärg, yttre dekoration ,ängs randen vit och svart.\nErhållet genom byte med Museum of Anthropology, University of California."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1049286%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1049286/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

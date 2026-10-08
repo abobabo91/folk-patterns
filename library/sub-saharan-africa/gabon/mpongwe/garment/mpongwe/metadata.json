@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1896-755",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1896-755",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1896-755",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1896.755",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Mpongwe",
+      "tradition": "Mpongwe",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A beaded belt with geometric lozenge patterns and long twisted-bead cord tassels, museum-attributed to Mpongwe make; this matches known Gabonese Mpongwe beadwork belts worn as garments/adornment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "belt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "belt",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "(description from slip)\r\nBroad belt of beadwork forming lozenge and other conventional patterns in blue, red, green, amber, pink and black. At each end are eight cords of twisted blue beads.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/10_11/386be275_2e1a_43ce_b718_a71600b99040/preview_EAF14435.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c8547a95e0f84315599c9bc3d7cf2596f9763cca0f90c55bd3f0feee4f5d2b07",
+        "bytes": 203352,
+        "local_path": "library\\sub-saharan-africa\\gabon\\mpongwe\\garment\\mpongwe\\images\\bm_E_Af1896_755.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:08:41.962228+00:00",
+    "raw": {
+      "title": "belt",
+      "description": "(description from slip)\r\nBroad belt of beadwork forming lozenge and other conventional patterns in blue, red, green, amber, pink and black. At each end are eight cords of twisted blue beads.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_2/10_11/386be275_2e1a_43ce_b718_a71600b99040/preview_EAF14435.jpg",
+      "production_ethnic_groups": [
+        "Mpongwe"
+      ],
+      "production_ethnic_attribution": "Made by: Mpongwe"
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1015997",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1015997",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1015997?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Mongolia",
+      "ethnicity": "Mongols",
+      "tradition": "Mongols",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A two-stringed bowed lute (horse-head fiddle type, \"hore\") with painted scrollwork resonator box and horsehair bow, explicitly described as \"used by the Mongols\" — a classic Mongol instrument type.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "stråkinstrument, kordofon, hore",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1132384/1929.21.0094.A-B.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2b044228ea370c617a2d8853ea7f2b30fd8113bdc31a9e328665856c58552093",
+        "bytes": 22959,
+        "local_path": "library\\east-asia\\mongolia\\mongols\\instruments\\mongols\\images\\eu_91619_SMVK_EM_objekt_1015997.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1132384%2F1929.21.0094.A-B.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:36:30.425451+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1015997",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1015997?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "stråkinstrument, kordofon, hore",
+        "string instrument, cordophone, whore"
+      ],
+      "dcDescription": [
+        "1929.21.0094 China Stråkinstrument med två stängar.\nResonanslådan har en stomme av trä som utgör resonanslådans sidor. Delarna är sammnfogade genom sinkning. Undersidan av resonanslådan är täckt med mässingsplåt som nitats fast. Resonanslådans ovansida är klädd med läder. På mitten av ovansidan är en öppning i form av ett mynt. Sidorna är dekorerade med slingermålningar och är målade med guldfärg. På instrumentets hals finns tre band av ben. Instrumentet har två stämskruvar.\n\nStråken är av trä och tagel. Bågen av trä är rödmålad. (AA)\n\n\"Hore, Kind of violin used by the Mongols of the Sagetjin "
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1132384%2F1929.21.0094.A-B.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1132384/1929.21.0094.A-B.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Volksrepublik China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kiinan kansantasavalta"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kinijos Liaudies Respublika"
+        },
+        {
+          "def": "Narodna Republika Kina"
+        },
+        {
+          "def": "Ķīna"
+        },
+        {
+          "def": "République populaire de Chine"
+        },
+        {
+          "def": "Kína"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Ljudska republika Kitajska"
+        },
+        {
+          "def": "Daon-Phoblacht na Síne"
+        },
+        {
+          "def": "República Popular de la Xina"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία της Κίνας"
+        },
+        {
+          "def": "Repubblika tal-Poplu taċ-Ċina"
+        },
+        {
+          "def": "People's Republic of China"
+        },
+        {
+          "def": "Cina"
+        },
+        {
+          "def": "República Popular China"
+        },
+        {
+          "def": "Hiina"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Txinako Herri Errepublika"
+        },
+        {
+          "def": "Chińska Republika Ludowa"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Volksrepubliek China"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

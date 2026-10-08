@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Oc1981-17-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Oc1981-17-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1981-17-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Oc1981.17.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Asmat",
+      "tradition": "Asmat",
+      "art_form": "architectural",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a carved wood panel with typical Asmat curvilinear openwork-style motifs (ancestor figures, spirals) in red, white and dark brown pigment, consistent with Asmat decorative carving traditions used on architectural elements like house or canoe prow boards.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "architectural",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "panel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "panel",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1981:\r\nWood panel decorated with incised carving. Dark brown wood, white pigment in background areas, red pigment in figures. Rounded back.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2023_5/24_14/5255ae6d_9e05_4d23_aaf1_b00c00eb85a2/preview_EOC26570.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "beb6f60af89d8541efb944e2c6f4a8ec88ef62c63a58003cdb2efdd08c752a78",
+        "bytes": 63041,
+        "local_path": "library\\southeast-asia\\indonesia\\asmat\\architectural\\asmat\\images\\bm_E_Oc1981_17_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T03:21:25.299857+00:00",
+    "raw": {
+      "title": "panel",
+      "description": "Register 1981:\r\nWood panel decorated with incised carving. Dark brown wood, white pigment in background areas, red pigment in figures. Rounded back.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_5/24_14/5255ae6d_9e05_4d23_aaf1_b00c00eb85a2/preview_EOC26570.jpg",
+      "production_ethnic_groups": [
+        "Asmat"
+      ],
+      "production_ethnic_attribution": "Made by: Asmat"
+    }
+  }
+]

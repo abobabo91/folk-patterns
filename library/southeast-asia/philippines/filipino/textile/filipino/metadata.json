@@ -1,0 +1,4938 @@
+[
+  {
+    "id": "cleveland-123764",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "123764",
+      "object_url": "https://clevelandart.org/art/1944.280",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Dr. Phyllis Ackerman",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1944.280",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Piña cloth is a traditional Filipino handwoven textile made from pineapple leaf fibers, here shown with silk warp stripes, matching the claimed Filipino ethnicity and textile category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Piña cloth",
+      "titles_alt": [],
+      "date_text": "mid-1800s",
+      "date_earliest": 1840,
+      "date_latest": 1860,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "piña fiber, silk",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This fabric is woven in plain weave using a piña ground with vertical bands of closely spaced silk warp stripes arranged in a repeating pattern. The stripes run the full length of the cloth.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1944.280/1944.280_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0144f16973f183aada008c743223cdcac12dbf49b3cb34379cf103e7fc49319c",
+        "bytes": 755744,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_123764.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:27.609237+00:00",
+    "raw": {
+      "id": 123764,
+      "accession_number": "1944.280",
+      "share_license_status": "CC0",
+      "tombstone": "Piña cloth, mid-1800s. Philippines. Piña fiber, silk; overall: 27.5 x 51 cm (10 13/16 x 20 1/16 in.). The Cleveland Museum of Art, Gift of Dr. Phyllis Ackerman, 1944.280",
+      "current_location": null,
+      "title": "Piña cloth",
+      "creation_date": "mid-1800s",
+      "creation_date_earliest": 1840,
+      "creation_date_latest": 1860,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "piña fiber, silk",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 27.5 x 51 cm (10 13/16 x 20 1/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.275,
+          "height_inch": 10,
+          "height_inch_fraction": 0.8125,
+          "width": 0.51,
+          "width_inch": 20,
+          "width_inch_fraction": 0.0625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Dr. Phyllis Ackerman [1893–1977], given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1944",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1944–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Piña is made from the leaves of the pineapple plant, first brought to the Philippines by the Spanish in the sixteenth century.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This fabric is woven in plain weave using a piña ground with vertical bands of closely spaced silk warp stripes arranged in a repeating pattern. The stripes run the full length of the cloth.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79901139"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1944.280",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.280/1944.280_web.jpg",
+          "width": "1263",
+          "height": "729",
+          "filesize": "752331",
+          "filename": "1944.280_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.280/1944.280_print.jpg",
+          "width": "3400",
+          "height": "1962",
+          "filesize": "6308519",
+          "filename": "1944.280_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.280/1944.280_full.tif",
+          "width": "4803",
+          "height": "2772",
+          "filesize": "39973016",
+          "filename": "1944.280_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Dr. Phyllis Ackerman",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 123764,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1944-07-12T00:00:00",
+      "sortable_date": 1840,
+      "date_added_to_oa": null,
+      "date_text": "mid-1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:52.628000"
+    }
+  },
+  {
+    "id": "cleveland-132988",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "132988",
+      "object_url": "https://clevelandart.org/art/1955.418",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Marian A. Parsons",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1955.418",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an unsewn piña-fiber sleeve panel with hand embroidery and scalloped lace edging, a classic Filipino traditional garment textile (e.g., for a camisa/barong-style ensemble), consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Sleeve",
+      "titles_alt": [],
+      "date_text": "c. 1875–1900",
+      "date_earliest": 1875,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This unsewn sleeve panel is made of fine piña fiber in plain weave. The lower edge is finished with a wide hand-embroidered cotton border featuring scalloped edging and repeating floral and geometric motifs. Vertical embroidered elements are arranged in regular intervals above the border.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.418/1955.418_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e0cb67aa838a05a8738ea841db18f53ef537d9a0478040f8cb61d1d7d1125666",
+        "bytes": 527007,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_132988.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:27.620381+00:00",
+    "raw": {
+      "id": 132988,
+      "accession_number": "1955.418",
+      "share_license_status": "CC0",
+      "tombstone": "Sleeve, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 48.3 x 102.9 cm (19 x 40 1/2 in.). The Cleveland Museum of Art, Gift of Marian A. Parsons, 1955.418",
+      "current_location": null,
+      "title": "Sleeve",
+      "creation_date": "c. 1875–1900",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1900,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 48.3 x 102.9 cm (19 x 40 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.483,
+          "height_inch": 19,
+          "height_inch_fraction": 0.0,
+          "width": 1.029,
+          "width_inch": 40,
+          "width_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marion A. Parsons, [1868–1959] Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1955",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1955–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 132989,
+          "description": "Blouse front, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 43.2 x 47 cm (17 x 18 1/2 in.). The Cleveland Museum of Art, Gift of Marian H. Stone, 1955.419",
+          "relationship": null
+        },
+        {
+          "id": 132987,
+          "description": "Sleeve, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 48.3 x 101.6 cm (19 x 40 in.). The Cleveland Museum of Art, Gift of Marian A. Parsons, 1955.417",
+          "relationship": null
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": "Piña comes from pineapple plants, which the Spanish brought to the Philippines from South America.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This unsewn sleeve panel is made of fine piña fiber in plain weave. The lower edge is finished with a wide hand-embroidered cotton border featuring scalloped edging and repeating floral and geometric motifs. Vertical embroidered elements are arranged in regular intervals above the border.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80025099"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1955.418",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.418/1955.418_web.jpg",
+          "width": "1263",
+          "height": "624",
+          "filesize": "523594",
+          "filename": "1955.418_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.418/1955.418_print.jpg",
+          "width": "3400",
+          "height": "1681",
+          "filesize": "4149340",
+          "filename": "1955.418_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.418/1955.418_full.tif",
+          "width": "4944",
+          "height": "2444",
+          "filesize": "36279400",
+          "filename": "1955.418_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Marian A. Parsons",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 132988,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1955-11-21T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1875–1900",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:50:30.315000"
+    }
+  },
+  {
+    "id": "cleveland-132989",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "132989",
+      "object_url": "https://clevelandart.org/art/1955.419",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Marian H. Stone",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1955.419",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a piña-fiber embroidered blouse front (baro-camisa panel), a traditional Filipino garment textile made from pineapple fiber with characteristic floral embroidery, matching the claimed Filipino ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Blouse front",
+      "titles_alt": [],
+      "date_text": "c. 1875–1900",
+      "date_earliest": 1875,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This blouse front is made of fine piña fiber in plain weave. The panel has an oval neck opening and is embroidered with repeated vertical floral motifs arranged in pairs on each side of the opening. The edges are unfinished, indicating that it was intended to be sewn into a complete <em>baro-camisa</em> garment.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.419/1955.419_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "10b831f77e4a5b8c35ad60d1aeabf06dce2ace8c191afe3116769dadcef80672",
+        "bytes": 547015,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_132989.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:27.650627+00:00",
+    "raw": {
+      "id": 132989,
+      "accession_number": "1955.419",
+      "share_license_status": "CC0",
+      "tombstone": "Blouse front, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 43.2 x 47 cm (17 x 18 1/2 in.). The Cleveland Museum of Art, Gift of Marian H. Stone, 1955.419",
+      "current_location": null,
+      "title": "Blouse front",
+      "creation_date": "c. 1875–1900",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1900,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 43.2 x 47 cm (17 x 18 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.432,
+          "height_inch": 17,
+          "height_inch_fraction": 0.0,
+          "width": 0.47,
+          "width_inch": 18,
+          "width_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marian H. Stone [d. 1966], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1955",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1955–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 132987,
+          "description": "Sleeve, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 48.3 x 101.6 cm (19 x 40 in.). The Cleveland Museum of Art, Gift of Marian A. Parsons, 1955.417",
+          "relationship": null
+        },
+        {
+          "id": 132988,
+          "description": "Sleeve, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 48.3 x 102.9 cm (19 x 40 1/2 in.). The Cleveland Museum of Art, Gift of Marian A. Parsons, 1955.418",
+          "relationship": null
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": "Piña is made from fibers of the pineapple plant, first introduced to the Philippines by the Spanish in the sixteenth century.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This blouse front is made of fine piña fiber in plain weave. The panel has an oval neck opening and is embroidered with repeated vertical floral motifs arranged in pairs on each side of the opening. The edges are unfinished, indicating that it was intended to be sewn into a complete <em>baro-camisa</em> garment.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80025100"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1955.419",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.419/1955.419_web.jpg",
+          "width": "1263",
+          "height": "647",
+          "filesize": "543602",
+          "filename": "1955.419_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.419/1955.419_print.jpg",
+          "width": "3400",
+          "height": "1741",
+          "filesize": "4352163",
+          "filename": "1955.419_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.419/1955.419_full.tif",
+          "width": "4296",
+          "height": "2200",
+          "filesize": "28384204",
+          "filename": "1955.419_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Marian H. Stone",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 132989,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1955-11-21T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1875–1900",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Blouse Front"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:50:30.733000"
+    }
+  },
+  {
+    "id": "cleveland-105776",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "105776",
+      "object_url": "https://clevelandart.org/art/1923.864",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Miss Myrta Jones",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1923.864",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a handmade lace scarf/strip made from local abacá fiber, a craft tradition documented as Filipino using indigenous material with imported lacemaking technique, consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Lace Scarf",
+      "titles_alt": [],
+      "date_text": "c. 1910–23",
+      "date_earliest": 1900,
+      "date_latest": 1923,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "abacá fiber(?); knitted",
+      "classification": "Knitting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This strip of lace is unusual for being worked entirely in abacá fiber, a material more commonly associated with cordage, woven textiles, and ceremonial cloth. Abacá’s natural stiffness and high tensile strength make it a challenging medium for techniques that require tight looping or knotting, such as lace making. This object reflects a hybrid craft tradition in which imported techniques were executed using local fibers.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1923.864/1923.864_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7a428c4c9145f244ce70664dca63bf03cc7adddd9e0eaf1fb907917c1fc75bea",
+        "bytes": 266984,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_105776.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:27.684719+00:00",
+    "raw": {
+      "id": 105776,
+      "accession_number": "1923.864",
+      "share_license_status": "CC0",
+      "tombstone": "Lace Scarf, c. 1910–23. Philippines. Abacá fiber(?); knitted; overall: 121.9 x 14 cm (48 x 5 1/2 in.). The Cleveland Museum of Art, Gift of Miss Myrta Jones, 1923.864",
+      "current_location": null,
+      "title": "Lace Scarf",
+      "creation_date": "c. 1910–23",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1923,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "abacá fiber(?); knitted",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Knitting",
+      "measurements": "Overall: 121.9 x 14 cm (48 x 5 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.219,
+          "height_inch": 48,
+          "height_inch_fraction": 0.0,
+          "width": 0.14,
+          "width_inch": 5,
+          "width_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Myrta Leonora Jones [1860–1954], Cleveland, OH, given to the Cleveland Museum of Art.",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1923",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1923–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This object was likely produced where abacá was abundant and lace making was introduced through convents or mission schools—perhaps the Eastern Visayas or Bicol regions of the Philippines.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This strip of lace is unusual for being worked entirely in abacá fiber, a material more commonly associated with cordage, woven textiles, and ceremonial cloth. Abacá’s natural stiffness and high tensile strength make it a challenging medium for techniques that require tight looping or knotting, such as lace making. This object reflects a hybrid craft tradition in which imported techniques were executed using local fibers.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79891735"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1923.864",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.864/1923.864_web.jpg",
+          "width": "1263",
+          "height": "251",
+          "filesize": "263569",
+          "filename": "1923.864_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.864/1923.864_print.jpg",
+          "width": "3400",
+          "height": "675",
+          "filesize": "2134761",
+          "filename": "1923.864_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1923.864/1923.864_full.tif",
+          "width": "9911",
+          "height": "1968",
+          "filesize": "58543920",
+          "filename": "1923.864_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Miss Myrta Jones",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 105776,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1923-11-02T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": 20260224,
+      "date_text": "c. 1910–23",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-07-15 16:31:48.970000"
+    }
+  },
+  {
+    "id": "cleveland-109440",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "109440",
+      "object_url": "https://clevelandart.org/art/1928.10",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1928.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a piña fiber textile with hand embroidery, a traditional Filipino craft using fibers from pineapple leaves, consistent with the Philippines attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Lace Fichu",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña cloth: needle lace and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This square textile is made of fine piña fiber in plain weave. Two edges are finished with wide hand-embroidered cotton borders composed of oval medallions enclosing floral motifs, linked by scroll and leaf elements, and completed with a scalloped outer edge. The placement of embroidery on only one half suggests folding, consistent with this textile’s possible use as a fichu.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d415eadc8f2ce06e074716b5085befae300e5fbb9b90645c06bbee1b29eada7c",
+        "bytes": 312528,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_109440.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:27.950388+00:00",
+    "raw": {
+      "id": 109440,
+      "accession_number": "1928.10",
+      "share_license_status": "CC0",
+      "tombstone": "Lace Fichu, 1800s. Philippines. Plain weave piña cloth: needle lace and embroidery; overall: 80 x 77.8 cm (31 1/2 x 30 5/8 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1928.10",
+      "current_location": null,
+      "title": "Lace Fichu",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña cloth: needle lace and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 80 x 77.8 cm (31 1/2 x 30 5/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.8,
+          "height_inch": 31,
+          "height_inch_fraction": 0.5,
+          "width": 0.778,
+          "width_inch": 30,
+          "width_inch_fraction": 0.625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1928",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1928–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "A fichu is a large, square kerchief worn by women to fill in the low neckline of a bodice.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This square textile is made of fine piña fiber in plain weave. Two edges are finished with wide hand-embroidered cotton borders composed of oval medallions enclosing floral motifs, linked by scroll and leaf elements, and completed with a scalloped outer edge. The placement of embroidery on only one half suggests folding, consistent with this textile’s possible use as a fichu.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80001778"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1928.10",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_web.jpg",
+          "width": "900",
+          "height": "866",
+          "filesize": "319956",
+          "filename": "1928.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_print.jpg",
+          "width": "3400",
+          "height": "3270",
+          "filesize": "5106179",
+          "filename": "1928.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_full.tif",
+          "width": "5663",
+          "height": "5447",
+          "filesize": "92579094",
+          "filename": "1928.10_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_alt0_web.jpg",
+            "width": "900",
+            "height": "675",
+            "filesize": "297865"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_alt0_print.jpg",
+            "width": "3400",
+            "height": "2550",
+            "filesize": "4888658"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.10/1928.10_alt0_full.tif",
+            "width": "8000",
+            "height": "6000",
+            "filesize": "144039288"
+          },
+          "date_created": "2017-10-16T09:01:35",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 109440,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1928-01-06T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 05:50:47.723000"
+    }
+  },
+  {
+    "id": "cleveland-123152",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "123152",
+      "object_url": "https://clevelandart.org/art/1943.380",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1943.380",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows four unsewn pieces of fine piña cloth with hand embroidery, forming components of a baro-camisa ensemble (a traditional Filipino piña garment), consistent with the claimed Filipino ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Blouse in four pieces",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This group consists of coordinated clothing components made of fine piña cloth in plain weave, all worked in matching hand-embroidered cotton motifs. The set includes a fichu, an unsewn blouse front (<em>pechera</em>), and two unsewn sleeve panels. All four pieces share the same ground material, embroidery thread, and design vocabulary, indicating that they were intended as elements of a single baro-camisa ensemble.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f822cce7bdf68f209c6bc43186e6f25a561bff990f8e3bf674aab649aefba400",
+        "bytes": 247633,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_123152.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.071612+00:00",
+    "raw": {
+      "id": 123152,
+      "accession_number": "1943.380",
+      "share_license_status": "CC0",
+      "tombstone": "Blouse in four pieces, 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 93 x 52.1 cm (36 5/8 x 20 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380",
+      "current_location": null,
+      "title": "Blouse in four pieces",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 93 x 52.1 cm (36 5/8 x 20 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.93,
+          "height_inch": 36,
+          "height_inch_fraction": 0.625,
+          "width": 0.521,
+          "width_inch": 20,
+          "width_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1943",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1943–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Because piña is more translucent than abacá, it has historically been considered more prestigious.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This group consists of coordinated clothing components made of fine piña cloth in plain weave, all worked in matching hand-embroidered cotton motifs. The set includes a fichu, an unsewn blouse front (<em>pechera</em>), and two unsewn sleeve panels. All four pieces share the same ground material, embroidery thread, and design vocabulary, indicating that they were intended as elements of a single baro-camisa ensemble.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79900069"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1943.380-blouse-in-four-piece"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1943.380",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_web.jpg",
+          "width": "900",
+          "height": "870",
+          "filesize": "257031",
+          "filename": "1943.380_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_print.jpg",
+          "width": "3400",
+          "height": "3286",
+          "filesize": "2735470",
+          "filename": "1943.380_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_full.tif",
+          "width": "23094",
+          "height": "22318",
+          "filesize": "1546263876",
+          "filename": "1943.380_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_alt0_web.jpg",
+            "width": "900",
+            "height": "470",
+            "filesize": "166454"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_alt0_print.jpg",
+            "width": "3400",
+            "height": "1774",
+            "filesize": "2451814"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380/1943.380_alt0_full.tif",
+            "width": "7687",
+            "height": "4011",
+            "filesize": "92531998"
+          },
+          "date_created": "2017-10-13T15:07:36",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 123152,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1943-11-09T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:20:09.257000"
+    }
+  },
+  {
+    "id": "cleveland-98146",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98146",
+      "object_url": "https://clevelandart.org/art/1917.770",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. G. Field Adams",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.770",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a heavily beaded abacá backpack with geometric diamond motifs and beaded shoulder straps, consistent with Bagobo (a Filipino ethnic group) beadwork and weaving traditions.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "textile",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Backpack (Bagobo people)",
+      "titles_alt": [],
+      "date_text": "early 1900s",
+      "date_earliest": 1900,
+      "date_latest": 1917,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Handwoven abacá cloth, printed cotton cloth, abacá fiber (braided/plaited cordage), glass beads, metal sequins, metal rings, fiber tassels",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This backpack for men is constructed from a single length of handwoven abacá cloth, woven in a warp-faced plain weave with supplementary weft patterning. The beadwork uses glass beads of various colors arranged in geometric bands and diamond motifs characteristic of the Bagobo people. Two shoulder straps, constructed from braided abacá fibers overlaid with cotton cloth and embellished with beads and metal sequins, are attached through metal rings.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "834d554f9a2046003860ce2e8444d8051cc90ac1356ae1cfd6aea188cbd138eb",
+        "bytes": 257908,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_98146.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.170510+00:00",
+    "raw": {
+      "id": 98146,
+      "accession_number": "1917.770",
+      "share_license_status": "CC0",
+      "tombstone": "Backpack (Bagobo people), early 1900s. Philippines. Handwoven abacá cloth, printed cotton cloth, abacá fiber (braided/plaited cordage), glass beads, metal sequins, metal rings, fiber tassels; overall: 24.1 x 35.6 cm (9 1/2 x 14 in.). The Cleveland Museum of Art, Gift of Mrs. G. Field Adams, 1917.770",
+      "current_location": null,
+      "title": "Backpack (Bagobo people)",
+      "creation_date": "early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1917,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Handwoven abacá cloth, printed cotton cloth, abacá fiber (braided/plaited cordage), glass beads, metal sequins, metal rings, fiber tassels",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 24.1 x 35.6 cm (9 1/2 x 14 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.241,
+          "height_inch": 9,
+          "height_inch_fraction": 0.5,
+          "width": 0.356,
+          "width_inch": 14,
+          "width_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. G. Field Adams, Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1917–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Ethnographic photographs document backpacks like this one being worn by Bagobo men in ceremonial or formal contexts.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This backpack for men is constructed from a single length of handwoven abacá cloth, woven in a warp-faced plain weave with supplementary weft patterning. The beadwork uses glass beads of various colors arranged in geometric bands and diamond motifs characteristic of the Bagobo people. Two shoulder straps, constructed from braided abacá fibers overlaid with cotton cloth and embellished with beads and metal sequins, are attached through metal rings.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79483425"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1917.770",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_web.jpg",
+          "width": "813",
+          "height": "900",
+          "filesize": "268006",
+          "filename": "1917.770_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_print.jpg",
+          "width": "3070",
+          "height": "3400",
+          "filesize": "2481180",
+          "filename": "1917.770_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_full.tif",
+          "width": "5160",
+          "height": "5715",
+          "filesize": "88502808",
+          "filename": "1917.770_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt0_web.jpg",
+            "width": "813",
+            "height": "900",
+            "filesize": "268006"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt0_print.jpg",
+            "width": "3070",
+            "height": "3400",
+            "filesize": "2481180"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt0_full.tif",
+            "width": "5160",
+            "height": "5715",
+            "filesize": "88502808"
+          },
+          "date_created": "2018-03-14T13:46:03",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt1_web.jpg",
+            "width": "813",
+            "height": "900",
+            "filesize": "269845"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt1_print.jpg",
+            "width": "3070",
+            "height": "3400",
+            "filesize": "2481180"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt1_full.tif",
+            "width": "5160",
+            "height": "5715",
+            "filesize": "88502808"
+          },
+          "date_created": "2018-03-14T13:46:03",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt2_web.jpg",
+            "width": "900",
+            "height": "823",
+            "filesize": "243062"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt2_print.jpg",
+            "width": "3400",
+            "height": "3108",
+            "filesize": "2545328"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt2_full.tif",
+            "width": "6006",
+            "height": "5490",
+            "filesize": "98952300"
+          },
+          "date_created": "2018-03-14T14:00:05",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt3_web.jpg",
+            "width": "900",
+            "height": "823",
+            "filesize": "243062"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt3_print.jpg",
+            "width": "3400",
+            "height": "3108",
+            "filesize": "2545328"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt3_full.tif",
+            "width": "6006",
+            "height": "5490",
+            "filesize": "98952300"
+          },
+          "date_created": "2018-03-14T14:00:05",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt4_web.jpg",
+            "width": "891",
+            "height": "900",
+            "filesize": "292835"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt4_print.jpg",
+            "width": "3367",
+            "height": "3400",
+            "filesize": "3276959"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt4_full.tif",
+            "width": "5683",
+            "height": "5738",
+            "filesize": "97860448"
+          },
+          "date_created": "2018-03-14T14:04:41",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt5_web.jpg",
+            "width": "891",
+            "height": "900",
+            "filesize": "292835"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt5_print.jpg",
+            "width": "3367",
+            "height": "3400",
+            "filesize": "3276959"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.770/1917.770_alt5_full.tif",
+            "width": "5683",
+            "height": "5738",
+            "filesize": "97860448"
+          },
+          "date_created": "2018-03-14T14:04:41",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. G. Field Adams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98146,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-10-05T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:49.263000"
+    }
+  },
+  {
+    "id": "cleveland-110356",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "110356",
+      "object_url": "https://clevelandart.org/art/1928.9",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1928.9",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a fine embroidered piña/jusi-type textile with calado openwork and floral sprig embroidery, a hallmark of Filipino needlework traditions (e.g., for camisas or panuelos); it plausibly matches the claimed ethnicity and location.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Embroidered Textile",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña cloth: needle lace and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This rectangular textile is composed of a fine, translucent ground fabric with a scattered pattern of small embroidered floral sprigs. Along the lower edge is a continuous band of oval medallions framed by embroidered scrolling elements, each enclosing a central floral motif executed in <em>calado</em> or another openwork technique. Vertical floral panels separate the medallions, and the edge terminates in a scalloped openwork border.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "095e807f2fe346cf2d740068bf2bc18267e51ffa4eab0db8ad71cb907dbb4233",
+        "bytes": 181382,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_110356.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.269245+00:00",
+    "raw": {
+      "id": 110356,
+      "accession_number": "1928.9",
+      "share_license_status": "CC0",
+      "tombstone": "Embroidered Textile, 1800s. Philippines. Plain weave piña cloth: needle lace and embroidery; overall: 43.5 x 88.5 cm (17 1/8 x 34 13/16 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1928.9",
+      "current_location": null,
+      "title": "Embroidered Textile",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña cloth: needle lace and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 43.5 x 88.5 cm (17 1/8 x 34 13/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.435,
+          "height_inch": 17,
+          "height_inch_fraction": 0.125,
+          "width": 0.885,
+          "width_inch": 34,
+          "width_inch_fraction": 0.8125
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1928",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1928–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This textile may be a fragment from the sleeves of a baro-camisa garment.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This rectangular textile is composed of a fine, translucent ground fabric with a scattered pattern of small embroidered floral sprigs. Along the lower edge is a continuous band of oval medallions framed by embroidered scrolling elements, each enclosing a central floral motif executed in <em>calado</em> or another openwork technique. Vertical floral panels separate the medallions, and the edge terminates in a scalloped openwork border.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80002568"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1928.9",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_web.jpg",
+          "width": "900",
+          "height": "438",
+          "filesize": "188886",
+          "filename": "1928.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_print.jpg",
+          "width": "3400",
+          "height": "1656",
+          "filesize": "2651015",
+          "filename": "1928.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_full.tif",
+          "width": "7216",
+          "height": "3515",
+          "filesize": "76127904",
+          "filename": "1928.9_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_alt0_web.jpg",
+            "width": "634",
+            "height": "900",
+            "filesize": "338452"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_alt0_print.jpg",
+            "width": "2394",
+            "height": "3400",
+            "filesize": "4812446"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.9/1928.9_alt0_full.tif",
+            "width": "4068",
+            "height": "5777",
+            "filesize": "70544028"
+          },
+          "date_created": "2017-10-13T15:52:31",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 110356,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1928-01-06T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 05:51:56.903000"
+    }
+  },
+  {
+    "id": "cleveland-132991",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "132991",
+      "object_url": "https://clevelandart.org/art/1955.420",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Marian H. Stone",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1955.420",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A fine piña fiber square with hand-embroidered floral/geometric lace border, made as a fichu/neck covering — piña cloth and this embroidery style are a distinctive traditional Filipino textile craft.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Lace Fichu",
+      "titles_alt": [],
+      "date_text": "c. 1875–1900",
+      "date_earliest": 1875,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This square textile is made of fine piña fiber in plain weave. It has a wide hand-embroidered cotton border on all sides, featuring scalloped edges and repeating floral and geometric motifs. Small embroidered floral elements are scattered across the interior field. This object was probably worn as a fichu or neck covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.420/1955.420_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4c40ddc291fb0c3c565859671ecf03825ca9cf4ef3645331d5aaec7849f61c8d",
+        "bytes": 509830,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_132991.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.329358+00:00",
+    "raw": {
+      "id": 132991,
+      "accession_number": "1955.420",
+      "share_license_status": "CC0",
+      "tombstone": "Lace Fichu, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 69.9 x 68 cm (27 1/2 x 26 3/4 in.). The Cleveland Museum of Art, Gift of Marian H. Stone, 1955.420",
+      "current_location": null,
+      "title": "Lace Fichu",
+      "creation_date": "c. 1875–1900",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1900,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 69.9 x 68 cm (27 1/2 x 26 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.699,
+          "height_inch": 27,
+          "height_inch_fraction": 0.5,
+          "width": 0.68,
+          "width_inch": 26,
+          "width_inch_fraction": 0.75
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marian H. Stone [d. 1966], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1955",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1955–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "A fichu is a large, square kerchief worn by women to fill in the low neckline of a bodice.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This square textile is made of fine piña fiber in plain weave. It has a wide hand-embroidered cotton border on all sides, featuring scalloped edges and repeating floral and geometric motifs. Small embroidered floral elements are scattered across the interior field. This object was probably worn as a fichu or neck covering.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80025106"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1955.420-fichu"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1955.420",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.420/1955.420_web.jpg",
+          "width": "834",
+          "height": "893",
+          "filesize": "506417",
+          "filename": "1955.420_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.420/1955.420_print.jpg",
+          "width": "3172",
+          "height": "3395",
+          "filesize": "8665089",
+          "filename": "1955.420_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.420/1955.420_full.tif",
+          "width": "3172",
+          "height": "3395",
+          "filesize": "32337564",
+          "filename": "1955.420_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Marian H. Stone",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 132991,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1955-11-21T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1875–1900",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:50:31.298000"
+    }
+  },
+  {
+    "id": "cleveland-109462",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "109462",
+      "object_url": "https://clevelandart.org/art/1928.11",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1928.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A fine sheer embroidered textile with scalloped lace-like border and floral sprigs, consistent with Philippine piña/jusi embroidered cloth traditions; plausible for the claimed Filipino origin.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Lace Border",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña cloth: needle lace and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This rectangular textile consists of a fine, translucent ground fabric with a scattered pattern of small embroidered floral sprigs. The ground shows areas of loss, small holes, fraying, and darkening, while the embroidered and openwork areas remain largely intact.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2f4f167f9296b82cbe83d7511900d68507f967c7a1f2cd1074ac1601b1c69c84",
+        "bytes": 181432,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_109462.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.443245+00:00",
+    "raw": {
+      "id": 109462,
+      "accession_number": "1928.11",
+      "share_license_status": "CC0",
+      "tombstone": "Lace Border, 1800s. Philippines. Plain weave piña cloth: needle lace and embroidery; overall: 44 x 89 cm (17 5/16 x 35 1/16 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1928.11",
+      "current_location": null,
+      "title": "Lace Border",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña cloth: needle lace and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 44 x 89 cm (17 5/16 x 35 1/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.44,
+          "height_inch": 17,
+          "height_inch_fraction": 0.3125,
+          "width": 0.89,
+          "width_inch": 35,
+          "width_inch_fraction": 0.0625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1928",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1928–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "This textile may be a fragment from the sleeves of a baro-camisa garment.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This rectangular textile consists of a fine, translucent ground fabric with a scattered pattern of small embroidered floral sprigs. The ground shows areas of loss, small holes, fraying, and darkening, while the embroidered and openwork areas remain largely intact.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80001829"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1928.11",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_web.jpg",
+          "width": "900",
+          "height": "468",
+          "filesize": "188945",
+          "filename": "1928.11_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_print.jpg",
+          "width": "3400",
+          "height": "1767",
+          "filesize": "2722541",
+          "filename": "1928.11_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_full.tif",
+          "width": "7323",
+          "height": "3806",
+          "filesize": "83648700",
+          "filename": "1928.11_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_alt0_web.jpg",
+            "width": "766",
+            "height": "900",
+            "filesize": "405103"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_alt0_print.jpg",
+            "width": "2893",
+            "height": "3400",
+            "filesize": "5759917"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1928.11/1928.11_alt0_full.tif",
+            "width": "4816",
+            "height": "5660",
+            "filesize": "81819792"
+          },
+          "date_created": "2017-10-13T15:55:01",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 109462,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1928-01-06T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 05:50:51.859000"
+    }
+  },
+  {
+    "id": "cleveland-132987",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "132987",
+      "object_url": "https://clevelandart.org/art/1955.417",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Marian A. Parsons",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1955.417",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an unsewn piña-fiber sleeve panel with hand-embroidered floral/geometric motifs and scalloped edging, a classic element of traditional Filipino barong/traje de mestiza dress, consistent with the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Sleeve",
+      "titles_alt": [],
+      "date_text": "c. 1875–1900",
+      "date_earliest": 1875,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This unsewn sleeve panel is made of fine piña fiber in plain weave. The lower edge is finished with a wide hand-embroidered cotton border featuring scalloped edging and repeating floral and geometric motifs. Vertical embroidered elements are arranged in regular intervals above the border.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1955.417/1955.417_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b9f2f06f2b57180c22490814a69f5b358566c22e5f2a57b3c56b76c337a2f24b",
+        "bytes": 540877,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_132987.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.470919+00:00",
+    "raw": {
+      "id": 132987,
+      "accession_number": "1955.417",
+      "share_license_status": "CC0",
+      "tombstone": "Sleeve, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 48.3 x 101.6 cm (19 x 40 in.). The Cleveland Museum of Art, Gift of Marian A. Parsons, 1955.417",
+      "current_location": null,
+      "title": "Sleeve",
+      "creation_date": "c. 1875–1900",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1900,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña: needle lace (drawnwork) and embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 48.3 x 101.6 cm (19 x 40 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.483,
+          "height_inch": 19,
+          "height_inch_fraction": 0.0,
+          "width": 1.016,
+          "width_inch": 40,
+          "width_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Marion A. Parsons, [1868–1959], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1955",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1955–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [
+        {
+          "id": 132989,
+          "description": "Blouse front, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 43.2 x 47 cm (17 x 18 1/2 in.). The Cleveland Museum of Art, Gift of Marian H. Stone, 1955.419",
+          "relationship": null
+        },
+        {
+          "id": 132988,
+          "description": "Sleeve, c. 1875–1900. Philippines. Plain weave piña: needle lace (drawnwork) and embroidery; overall: 48.3 x 102.9 cm (19 x 40 1/2 in.). The Cleveland Museum of Art, Gift of Marian A. Parsons, 1955.418",
+          "relationship": null
+        }
+      ],
+      "former_accession_numbers": [],
+      "did_you_know": "Piña is also called pineapple fiber.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This unsewn sleeve panel is made of fine piña fiber in plain weave. The lower edge is finished with a wide hand-embroidered cotton border featuring scalloped edging and repeating floral and geometric motifs. Vertical embroidered elements are arranged in regular intervals above the border.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80025097"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1955.417",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.417/1955.417_web.jpg",
+          "width": "1263",
+          "height": "641",
+          "filesize": "537464",
+          "filename": "1955.417_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.417/1955.417_print.jpg",
+          "width": "3400",
+          "height": "1726",
+          "filesize": "4189652",
+          "filename": "1955.417_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1955.417/1955.417_full.tif",
+          "width": "4836",
+          "height": "2455",
+          "filesize": "35647288",
+          "filename": "1955.417_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Marian A. Parsons",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 132987,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1955-11-21T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1875–1900",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:50:28.684000"
+    }
+  },
+  {
+    "id": "cleveland-116068",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "116068",
+      "object_url": "https://clevelandart.org/art/1936.739",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Robert Livingston Ireland Jr. in memory of his mother, Mrs. P. W. Harvey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1936.739",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The handkerchief is made of piña (pineapple fiber) cloth, a distinctively Filipino textile material, with hand embroidery typical of Philippine needlework traditions, consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Embroidered Handkerchief",
+      "titles_alt": [],
+      "date_text": "1880–99",
+      "date_earliest": 1880,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña, silk embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This square handkerchief is made of piña fiber cloth in plain weave. All four edges are finished with a hand-embroidered cotton border of small repeating floral motifs. One corner bears the embroidered monogram “L. C. H.,” the initials of its first owner, Lilian Converse Hanna.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "32d0faf7d73a52a9cfafeef01716de1a7098880bd2622326c2b8b377a7008979",
+        "bytes": 315039,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_116068.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.556842+00:00",
+    "raw": {
+      "id": 116068,
+      "accession_number": "1936.739",
+      "share_license_status": "CC0",
+      "tombstone": "Embroidered Handkerchief, 1880–99. Philippines. Plain weave piña, silk embroidery; average: 32.4 x 33 cm (12 3/4 x 13 in.). The Cleveland Museum of Art, Gift of Robert Livingston Ireland Jr. in memory of his mother, Mrs. P. W. Harvey, 1936.739",
+      "current_location": null,
+      "title": "Embroidered Handkerchief",
+      "creation_date": "1880–99",
+      "creation_date_earliest": 1880,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña, silk embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Average: 32.4 x 33 cm (12 3/4 x 13 in.)",
+      "dimensions": {
+        "average": {
+          "height": 0.324,
+          "height_inch": 12,
+          "height_inch_fraction": 0.75,
+          "width": 0.33,
+          "width_inch": 13,
+          "width_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "monogram \"L.C.H.\" in one corner.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. Jacob Bishop [Sarah “Sallie” Moore Wilshire] Perkins [1856–1931], Cleveland, OH, given to Mrs. S. Prentiss [Lilian Converse Hanna] Baldwin",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–before 1898",
+          "sortorder": 1
+        },
+        {
+          "description": "Mrs. S. Prentiss [Lilian Converse Hanna] Baldwin [1852–1948], Cleveland, OH, to her niece Kate Benedict Hanna Harvey",
+          "citations": [],
+          "footnotes": null,
+          "date": "before 1898–?",
+          "sortorder": 2
+        },
+        {
+          "description": "Kate Benedict Hanna Harvey [1871–1936], to her son Robert Livingston Ireland Jr.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": 3
+        },
+        {
+          "description": "Robert Livingston Ireland Jr. [1895–1981], Shaker Heights, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1936",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1936–",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Sallie Perkins (Mrs. Jacob B. Perkins) gifted this handkerchief to Lilian Converse Hanna (Mrs. S. Prentiss Baldwin) before the latter’s marriage in 1898.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This square handkerchief is made of piña fiber cloth in plain weave. All four edges are finished with a hand-embroidered cotton border of small repeating floral motifs. One corner bears the embroidered monogram “L. C. H.,” the initials of its first owner, Lilian Converse Hanna.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80010597"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1936.739-embroidered-handkerc"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1936.739",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_web.jpg",
+          "width": "894",
+          "height": "900",
+          "filesize": "322466",
+          "filename": "1936.739_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_print.jpg",
+          "width": "3376",
+          "height": "3400",
+          "filesize": "6405322",
+          "filename": "1936.739_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_full.tif",
+          "width": "5505",
+          "height": "5544",
+          "filesize": "91598532",
+          "filename": "1936.739_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_alt0_web.jpg",
+            "width": "900",
+            "height": "765",
+            "filesize": "308698"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_alt0_print.jpg",
+            "width": "3400",
+            "height": "2891",
+            "filesize": "5619759"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_alt0_full.tif",
+            "width": "6622",
+            "height": "5630",
+            "filesize": "111883008"
+          },
+          "date_created": "2017-10-12T14:29:19",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_alt1_web.jpg",
+            "width": "900",
+            "height": "569",
+            "filesize": "221815"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_alt1_print.jpg",
+            "width": "3400",
+            "height": "2148",
+            "filesize": "3378243"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1936.739/1936.739_alt1_full.tif",
+            "width": "7211",
+            "height": "4555",
+            "filesize": "98574080"
+          },
+          "date_created": "2017-10-12T14:25:15",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Robert Livingston Ireland Jr. in memory of his mother, Mrs. P. W. Harvey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 116068,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1936-12-16T00:00:00",
+      "sortable_date": 1880,
+      "date_added_to_oa": null,
+      "date_text": "1880–99",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:04:12.872000"
+    }
+  },
+  {
+    "id": "cleveland-98147",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98147",
+      "object_url": "https://clevelandart.org/art/1917.771",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. G. Field Adams",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.771",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a Bagobo (Filipino, Mindanao) beaded shoulder basket/bag with cotton, rattan, and beadwork — a plausible object made and used by this ethnic group, though it is a beaded basket rather than a woven textile per se.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "Shoulder basket (Bagobo people)",
+      "titles_alt": [],
+      "date_text": "c. 1875–1917",
+      "date_earliest": 1875,
+      "date_latest": 1917,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "natural fibers, cloth, glass beads, metal",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This shoulder bag is built on a rigid, flat-bottomed rattan basket. A rough, red-dyed cotton cloth has been shaped to the basket and secured with abacá fiber stitching. The strap features small metal sequins sewn along the strap and at the hem. Additional beaded strands hang from the strap junction and rim, each terminating in small fiber-wrapped tassels.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines, Davao",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e8a16efab5c39cc32e6bce049c102ca1610e9b2d3a85028899cb8cac7b3524b5",
+        "bytes": 248856,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_98147.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.711569+00:00",
+    "raw": {
+      "id": 98147,
+      "accession_number": "1917.771",
+      "share_license_status": "CC0",
+      "tombstone": "Shoulder basket (Bagobo people), c. 1875–1917. Philippines, Davao. Natural fibers, cloth, glass beads, metal; overall: 11.8 x 7.9 cm (4 5/8 x 3 1/8 in.). The Cleveland Museum of Art, Gift of Mrs. G. Field Adams, 1917.771",
+      "current_location": null,
+      "title": "Shoulder basket (Bagobo people)",
+      "creation_date": "c. 1875–1917",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1917,
+      "artists_tags": [],
+      "culture": [
+        "Philippines, Davao"
+      ],
+      "technique": "natural fibers, cloth, glass beads, metal",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 11.8 x 7.9 cm (4 5/8 x 3 1/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.118,
+          "height_inch": 4,
+          "height_inch_fraction": 0.625,
+          "width": 0.079,
+          "width_inch": 3,
+          "width_inch_fraction": 0.125
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. G. Field Adams, Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1917–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The elaborate applied glass beadwork decorating the surface is characteristic of the Bagobo people.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This shoulder bag is built on a rigid, flat-bottomed rattan basket. A rough, red-dyed cotton cloth has been shaped to the basket and secured with abacá fiber stitching. The strap features small metal sequins sewn along the strap and at the hem. Additional beaded strands hang from the strap junction and rim, each terminating in small fiber-wrapped tassels.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79862312"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1917.771",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_web.jpg",
+          "width": "509",
+          "height": "893",
+          "filesize": "245441",
+          "filename": "1917.771_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_print.jpg",
+          "width": "1939",
+          "height": "3400",
+          "filesize": "3187529",
+          "filename": "1917.771_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_full.tif",
+          "width": "2877",
+          "height": "5046",
+          "filesize": "43581400",
+          "filename": "1917.771_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_alt0_web.jpg",
+            "width": "513",
+            "height": "893",
+            "filesize": "223328"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_alt0_print.jpg",
+            "width": "1952",
+            "height": "3400",
+            "filesize": "3057562"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.771/1917.771_alt0_full.tif",
+            "width": "2918",
+            "height": "5082",
+            "filesize": "44516788"
+          },
+          "date_created": "2006-12-07T21:16:43",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. G. Field Adams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98147,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-10-05T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1875–1917",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:54.582000"
+    }
+  },
+  {
+    "id": "cleveland-98132",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98132",
+      "object_url": "https://clevelandart.org/art/1917.748.a",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. G. Field Adams",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.748.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a handwoven abaca ikat cloth (dagmay) with geometric and human/crocodile figure motifs typical of Mandaya weaving from Mindanao, a Filipino ethnic group's traditional craft.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Mandaya ikat textile (dagmay)",
+      "titles_alt": [],
+      "date_text": "c. early 1900s",
+      "date_earliest": 1900,
+      "date_latest": 1917,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "hemp: plain weave, dyed",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produce patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of <em>umagad</em> (ancestral spirits).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines, Mindanao",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.748.a/1917.748.a_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8c13d712f6172681adb5206c8b89360682e5b25123d905200f6e1a442aaabdde",
+        "bytes": 340443,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_98132.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.814920+00:00",
+    "raw": {
+      "id": 98132,
+      "accession_number": "1917.748.a",
+      "share_license_status": "CC0",
+      "tombstone": "Mandaya ikat textile (dagmay), c. early 1900s. Philippines, Mindanao. Hemp: plain weave, dyed; overall: 157.8 x 78.7 cm (62 1/8 x 31 in.). The Cleveland Museum of Art, Gift of Mrs. G. Field Adams, 1917.748.a",
+      "current_location": null,
+      "title": "Mandaya ikat textile (dagmay)",
+      "creation_date": "c. early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1917,
+      "artists_tags": [],
+      "culture": [
+        "Philippines, Mindanao"
+      ],
+      "technique": "hemp: plain weave, dyed",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 157.8 x 78.7 cm (62 1/8 x 31 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.578,
+          "height_inch": 62,
+          "height_inch_fraction": 0.125,
+          "width": 0.787,
+          "width_inch": 31,
+          "width_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. G. Field Adams, Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1917–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "After weaving, abacá ikat cloths were soaked in iron-rich river mud, which deepens the browns and blacks, strengthens the fiber, and sets the dyes.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produce patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of <em>umagad</em> (ancestral spirits).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79483414"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1917.748.a-moro-cloth"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1917.748.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748.a/1917.748.a_web.jpg",
+          "width": "462",
+          "height": "893",
+          "filesize": "337026",
+          "filename": "1917.748.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748.a/1917.748.a_print.jpg",
+          "width": "1760",
+          "height": "3400",
+          "filesize": "5000230",
+          "filename": "1917.748.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748.a/1917.748.a_full.tif",
+          "width": "2936",
+          "height": "5673",
+          "filesize": "49997668",
+          "filename": "1917.748.a_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. G. Field Adams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98132,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-10-05T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1917.748",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:48.267000"
+    }
+  },
+  {
+    "id": "cleveland-98130",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98130",
+      "object_url": "https://clevelandart.org/art/1917.747",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. G. Field Adams",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.747",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a striped ikat-and-plainweave textile with abaca ikat patterned bands, consistent with Mandaya dagmay weaving from Mindanao, Philippines, matching the claimed Filipino ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Mandaya textile (composite dagmay)",
+      "titles_alt": [],
+      "date_text": "c. early 1900s",
+      "date_earliest": 1900,
+      "date_latest": 1917,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "plain weave hemp, dyed",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This textile strikingly fuses two different weaving traditions and materials: abacá ikat (<em>dagmay</em>) for the patterned sections, and commercially or locally dyed cotton for the plain-weave intervals. This combination is an inventive Mandaya solution for creating a cloth that retains ritual meaning through its abacá ikat components, while achieving comfort, flexibility, and drape through the inclusion of cotton.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines, Mindanao",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.747/1917.747_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "da77b1f353343dc1f009dfd2d78bcfffb77904d7cb3533fd3784f4bfbb2d917b",
+        "bytes": 144574,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_98130.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.867772+00:00",
+    "raw": {
+      "id": 98130,
+      "accession_number": "1917.747",
+      "share_license_status": "CC0",
+      "tombstone": "Mandaya textile (composite dagmay), c. early 1900s. Philippines, Mindanao. Plain weave hemp, dyed; overall: 320 x 67.3 cm (126 x 26 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. G. Field Adams, 1917.747",
+      "current_location": null,
+      "title": "Mandaya textile (composite dagmay)",
+      "creation_date": "c. early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1917,
+      "artists_tags": [],
+      "culture": [
+        "Philippines, Mindanao"
+      ],
+      "technique": "plain weave hemp, dyed",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 320 x 67.3 cm (126 x 26 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 3.2,
+          "height_inch": 126,
+          "height_inch_fraction": 0.0,
+          "width": 0.673,
+          "width_inch": 26,
+          "width_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. G. Field Adams, Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1917–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Abacá, a banana fiber, is associated with protection, balance, and the presence of <em>umagad</em> (ancestral spirits).",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This textile strikingly fuses two different weaving traditions and materials: abacá ikat (<em>dagmay</em>) for the patterned sections, and commercially or locally dyed cotton for the plain-weave intervals. This combination is an inventive Mandaya solution for creating a cloth that retains ritual meaning through its abacá ikat components, while achieving comfort, flexibility, and drape through the inclusion of cotton.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79483401"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1917.747-moro-cloth"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1917.747",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.747/1917.747_web.jpg",
+          "width": "271",
+          "height": "893",
+          "filesize": "141159",
+          "filename": "1917.747_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.747/1917.747_print.jpg",
+          "width": "1031",
+          "height": "3400",
+          "filesize": "2105773",
+          "filename": "1917.747_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.747/1917.747_full.tif",
+          "width": "1649",
+          "height": "5440",
+          "filesize": "26941076",
+          "filename": "1917.747_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. G. Field Adams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98130,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-10-05T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:47.961000"
+    }
+  },
+  {
+    "id": "cleveland-98133",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98133",
+      "object_url": "https://clevelandart.org/art/1917.748.b",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. G. Field Adams",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.748.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a woven abacá ikat cloth with anthropomorphic figures and geometric patterns consistent with Mandaya dagmay textiles from Mindanao, a Filipino ethnic group's traditional craft.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Mandaya ikat textile (dagmay)",
+      "titles_alt": [],
+      "date_text": "c. early 1900s",
+      "date_earliest": 1900,
+      "date_latest": 1917,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "hemp: plain weave, dyed",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produce patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of <em>umagad</em> (ancestral spirits).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines, Mindanao",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.748.b/1917.748.b_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f5831a2a53b87f80f2de3bf6b28168b3ffbdf5ce59830f7a0af2418a1df88274",
+        "bytes": 340715,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_98133.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:28.897821+00:00",
+    "raw": {
+      "id": 98133,
+      "accession_number": "1917.748.b",
+      "share_license_status": "CC0",
+      "tombstone": "Mandaya ikat textile (dagmay), c. early 1900s. Philippines, Mindanao. Hemp: plain weave, dyed; overall: 157.5 x 77.2 cm (62 x 30 3/8 in.). The Cleveland Museum of Art, Gift of Mrs. G. Field Adams, 1917.748.b",
+      "current_location": null,
+      "title": "Mandaya ikat textile (dagmay)",
+      "creation_date": "c. early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1917,
+      "artists_tags": [],
+      "culture": [
+        "Philippines, Mindanao"
+      ],
+      "technique": "hemp: plain weave, dyed",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 157.5 x 77.2 cm (62 x 30 3/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.575,
+          "height_inch": 62,
+          "height_inch_fraction": 0.0,
+          "width": 0.772,
+          "width_inch": 30,
+          "width_inch_fraction": 0.375
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. G. Field Adams, Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1917–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "After weaving, abacá ikat cloths were soaked in iron-rich river mud, which deepens the browns and blacks, strengthens the fiber, and sets the dyes.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produce patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of <em>umagad</em> (ancestral spirits).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79483420"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1917.748.b-moro-cloth"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1917.748.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748.b/1917.748.b_web.jpg",
+          "width": "457",
+          "height": "893",
+          "filesize": "337298",
+          "filename": "1917.748.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748.b/1917.748.b_print.jpg",
+          "width": "1740",
+          "height": "3400",
+          "filesize": "4888289",
+          "filename": "1917.748.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748.b/1917.748.b_full.tif",
+          "width": "2934",
+          "height": "5734",
+          "filesize": "50501992",
+          "filename": "1917.748.b_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. G. Field Adams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98133,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-10-05T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1917.748",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:48.270000"
+    }
+  },
+  {
+    "id": "cleveland-98131",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98131",
+      "object_url": "https://clevelandart.org/art/1917.748",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. G. Field Adams",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.748",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a handwoven abacá ikat cloth with anthropomorphic and geometric motifs consistent with Mandaya dagmay weaving from Mindanao, matching the claimed Filipino (Mandaya) attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Mandaya ikat textile (dagmay)",
+      "titles_alt": [],
+      "date_text": "c. early 1900s",
+      "date_earliest": 1900,
+      "date_latest": 1917,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "plain weave hemp, dyed",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produced patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of <em>umagad</em> (ancestral spirits).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines, Mindanao",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.748/1917.748_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7a635163472b7e315397a5c3710ddaf4e4b2aa6dd0bdc135eac759ff0e155f8a",
+        "bytes": 160921,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_98131.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:29.041032+00:00",
+    "raw": {
+      "id": 98131,
+      "accession_number": "1917.748",
+      "share_license_status": "CC0",
+      "tombstone": "Mandaya ikat textile (dagmay), c. early 1900s. Philippines, Mindanao. Plain weave hemp, dyed; overall: 157.8 x 78.7 cm (62 1/8 x 31 in.). The Cleveland Museum of Art, Gift of Mrs. G. Field Adams, 1917.748",
+      "current_location": null,
+      "title": "Mandaya ikat textile (dagmay)",
+      "creation_date": "c. early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1917,
+      "artists_tags": [],
+      "culture": [
+        "Philippines, Mindanao"
+      ],
+      "technique": "plain weave hemp, dyed",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 157.8 x 78.7 cm (62 1/8 x 31 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.578,
+          "height_inch": 62,
+          "height_inch_fraction": 0.125,
+          "width": 0.787,
+          "width_inch": 31,
+          "width_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. G. Field Adams, Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1917–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "After weaving, abacá ikat cloths were soaked in iron-rich river mud, which deepens the browns and blacks, strengthens the fiber, and sets the dyes.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This textile is a Mandaya abacá ikat cloth woven in southeastern Mindanao. It is made from hand-stripped abacá fibers that are resist-dyed using the Mandaya ikat technique, in which selected warp threads are tightly bound before dyeing to produced patterned sections during weaving. The designs embody Mandaya cosmology and are traditionally associated with protection, fertility, and the presence of <em>umagad</em> (ancestral spirits).",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79483407"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1917.748-moro-cloth"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1917.748",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748/1917.748_web.jpg",
+          "width": "466",
+          "height": "900",
+          "filesize": "170282",
+          "filename": "1917.748_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748/1917.748_print.jpg",
+          "width": "1760",
+          "height": "3400",
+          "filesize": "2114915",
+          "filename": "1917.748_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.748/1917.748_full.tif",
+          "width": "2936",
+          "height": "5673",
+          "filesize": "49992004",
+          "filename": "1917.748_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. G. Field Adams",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98131,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-10-05T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "cover",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:48.848000"
+    }
+  },
+  {
+    "id": "cleveland-102980",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "102980",
+      "object_url": "https://clevelandart.org/art/1921.1596",
+      "iiif_manifest": null,
+      "credit_line": "Gift of W. A. Price",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1921.1596",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a hand-woven binakol textile with the classic optical whirlpool (kusikos) pattern in vertical registers, a well-known Ilocano (Filipino) weaving tradition from Ilocos Norte, Luzon.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textile fragment (Binakol)",
+      "titles_alt": [],
+      "date_text": "c. early 1900s(?)",
+      "date_earliest": 1900,
+      "date_latest": 1921,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "woven cotton; extended tabby weave",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This intricate, hand-woven textile was likely produced on a back-strap or upright loom. The <em>binakol</em> block pattern creates a strong optical effect, organized in vertical registers separated by broad, dark stripes with narrow, red accents. The central design is a variant of the whirlpool motif known as <em>kusikos</em>, in which alternating light and dark squares appear to spiral or recede.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines, Ilokos, Norte Province, Luzon, 20th century(?)",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1921.1596/1921.1596_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2a7c735eeabd48bca8759777753dba5fe7204326e62ca4ccd879ad0becb16cc2",
+        "bytes": 522187,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_102980.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:29.246456+00:00",
+    "raw": {
+      "id": 102980,
+      "accession_number": "1921.1596",
+      "share_license_status": "CC0",
+      "tombstone": "Textile fragment (Binakol), c. early 1900s(?). Philippines, Ilokos, Norte Province, Luzon, 20th century(?). Woven cotton; extended tabby weave; overall: 68.6 x 48.3 cm (27 x 19 in.). The Cleveland Museum of Art, Gift of W. A. Price, 1921.1596",
+      "current_location": null,
+      "title": "Textile fragment (Binakol)",
+      "creation_date": "c. early 1900s(?)",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1921,
+      "artists_tags": [],
+      "culture": [
+        "Philippines, Ilokos, Norte Province, Luzon, 20th century(?)"
+      ],
+      "technique": "woven cotton; extended tabby weave",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "Textiles",
+      "type": "Textile",
+      "measurements": "Overall: 68.6 x 48.3 cm (27 x 19 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.686,
+          "height_inch": 27,
+          "height_inch_fraction": 0.0,
+          "width": 0.483,
+          "width_inch": 19,
+          "width_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Morris Ketchum Jesup [1830–1908], New York, NY, given to the American Museum of Natural History",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Morris Ketchum Jesup was an American banker and philanthropist, who supported scientific research and collected art. He was the third president of the American Museum of Natural History in New York, serving from 1881 until his death in 1908.</div>"
+          ],
+          "date": "?–1905",
+          "sortorder": 1
+        },
+        {
+          "description": "American Museum of Natural History, New York, NY, given to the Cleveland Museum of Art by exchange and with funds from William Albert Price [1847–1922]",
+          "citations": [],
+          "footnotes": null,
+          "date": "1905–1921",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1921–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The swirling <em>kusikos</em> pattern was meant to confuse evil spirits and had a protective function.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This intricate, hand-woven textile was likely produced on a back-strap or upright loom. The <em>binakol</em> block pattern creates a strong optical effect, organized in vertical registers separated by broad, dark stripes with narrow, red accents. The central design is a variant of the whirlpool motif known as <em>kusikos</em>, in which alternating light and dark squares appear to spiral or recede.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79504539"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1921.1596-fragment"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1921.1596",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1596/1921.1596_web.jpg",
+          "width": "624",
+          "height": "893",
+          "filesize": "518771",
+          "filename": "1921.1596_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1596/1921.1596_print.jpg",
+          "width": "2377",
+          "height": "3400",
+          "filesize": "7926039",
+          "filename": "1921.1596_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1596/1921.1596_full.tif",
+          "width": "3504",
+          "height": "5012",
+          "filesize": "52719288",
+          "filename": "1921.1596_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of W. A. Price",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 102980,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1921-12-22T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "c. early 1900s(?)",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-06-22 19:23:54.090000"
+    }
+  },
+  {
+    "id": "cleveland-123153",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "123153",
+      "object_url": "https://clevelandart.org/art/1943.380.a",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1943.380.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The piece is a piña (pineapple fiber) plain-weave textile piece with fine drawnwork lace and embroidered floral motifs, a traditional Filipino garment fabric, consistent with the claimed Filipino attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Blouse in four pieces (blouse)",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Blouse in four pieces (blouse), 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 93 x 52.1 cm (36 5/8 x 20 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.a",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.380.a/1943.380.a_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "339f5774a9fc804171b645c66313b00d65e0ed48d44b4f96f71c0f354bfe61c2",
+        "bytes": 335320,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_123153.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:29.469572+00:00",
+    "raw": {
+      "id": 123153,
+      "accession_number": "1943.380.a",
+      "share_license_status": "CC0",
+      "tombstone": "Blouse in four pieces (blouse), 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 93 x 52.1 cm (36 5/8 x 20 1/2 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.a",
+      "current_location": null,
+      "title": "Blouse in four pieces (blouse)",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 93 x 52.1 cm (36 5/8 x 20 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.93,
+          "height_inch": 36,
+          "height_inch_fraction": 0.625,
+          "width": 0.521,
+          "width_inch": 20,
+          "width_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1943",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1943–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79900071"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1943.380.a",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.a/1943.380.a_web.jpg",
+          "width": "900",
+          "height": "871",
+          "filesize": "344667",
+          "filename": "1943.380.a_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.a/1943.380.a_print.jpg",
+          "width": "3400",
+          "height": "3290",
+          "filesize": "4848391",
+          "filename": "1943.380.a_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.a/1943.380.a_full.tif",
+          "width": "10050",
+          "height": "9724",
+          "filesize": "293207432",
+          "filename": "1943.380.a_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 123153,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1943-11-09T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1943.380",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:20:08.167000"
+    }
+  },
+  {
+    "id": "cleveland-123155",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "123155",
+      "object_url": "https://clevelandart.org/art/1943.380.c",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1943.380.c",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a piña (pineapple fiber) blouse sleeve with traditional Filipino embroidery and needle lace, a hallmark of 19th-century Philippine textile craft, matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Blouse in four pieces (sleeve)",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Blouse in four pieces (sleeve), 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 45.8 x 92.1 cm (18 1/16 x 36 1/4 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.c",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b717d142ccfdb6116ed135ac664f2456d0241eaa1fb36808ba0539c959ec3ef2",
+        "bytes": 201828,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_123155.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:29.638078+00:00",
+    "raw": {
+      "id": 123155,
+      "accession_number": "1943.380.c",
+      "share_license_status": "CC0",
+      "tombstone": "Blouse in four pieces (sleeve), 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 45.8 x 92.1 cm (18 1/16 x 36 1/4 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.c",
+      "current_location": null,
+      "title": "Blouse in four pieces (sleeve)",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 45.8 x 92.1 cm (18 1/16 x 36 1/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.458,
+          "height_inch": 18,
+          "height_inch_fraction": 0.0625,
+          "width": 0.921,
+          "width_inch": 36,
+          "width_inch_fraction": 0.25
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1943",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1943–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79900075"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1943.380.c",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_web.jpg",
+          "width": "900",
+          "height": "481",
+          "filesize": "211181",
+          "filename": "1943.380.c_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_print.jpg",
+          "width": "3400",
+          "height": "1817",
+          "filesize": "2446262",
+          "filename": "1943.380.c_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_full.tif",
+          "width": "12611",
+          "height": "6739",
+          "filesize": "254982532",
+          "filename": "1943.380.c_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_alt0_web.jpg",
+            "width": "900",
+            "height": "470",
+            "filesize": "166454"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_alt0_print.jpg",
+            "width": "3400",
+            "height": "1774",
+            "filesize": "2451814"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_alt0_full.tif",
+            "width": "7687",
+            "height": "4011",
+            "filesize": "92531998"
+          },
+          "date_created": "2017-10-13T15:07:36",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_alt1_web.jpg",
+            "width": "900",
+            "height": "675",
+            "filesize": "367000"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_alt1_print.jpg",
+            "width": "3400",
+            "height": "2550",
+            "filesize": "5869220"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1943.380.c/1943.380.c_alt1_full.tif",
+            "width": "8000",
+            "height": "6000",
+            "filesize": "144041704"
+          },
+          "date_created": "2017-10-13T14:56:36",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 123155,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1943-11-09T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1943.380",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:20:10.671000"
+    }
+  },
+  {
+    "id": "cleveland-123154",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "123154",
+      "object_url": "https://clevelandart.org/art/1943.380.b",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1943.380.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Piña cloth blouse sleeve with needle lace and embroidery is a classic traditional Filipino garment textile, matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Blouse in four pieces (sleeve)",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Blouse in four pieces (sleeve), 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 45.1 x 90.5 cm (17 3/4 x 35 5/8 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.b",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.380.b/1943.380.b_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "64309f64261951ad66ddc55006012c41837a1d862aa3e1255612b2c79d47f85b",
+        "bytes": 203545,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_123154.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:29.868512+00:00",
+    "raw": {
+      "id": 123154,
+      "accession_number": "1943.380.b",
+      "share_license_status": "CC0",
+      "tombstone": "Blouse in four pieces (sleeve), 1800s. Philippines. Plain weave piña; needle lace (drawnwork) and white cotton embroidery; overall: 45.1 x 90.5 cm (17 3/4 x 35 5/8 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.b",
+      "current_location": null,
+      "title": "Blouse in four pieces (sleeve)",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña; needle lace (drawnwork) and white cotton embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 45.1 x 90.5 cm (17 3/4 x 35 5/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.451,
+          "height_inch": 17,
+          "height_inch_fraction": 0.75,
+          "width": 0.905,
+          "width_inch": 35,
+          "width_inch_fraction": 0.625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1943",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1943–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79900074"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1943.380.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.b/1943.380.b_web.jpg",
+          "width": "900",
+          "height": "487",
+          "filesize": "212898",
+          "filename": "1943.380.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.b/1943.380.b_print.jpg",
+          "width": "3400",
+          "height": "1839",
+          "filesize": "2367802",
+          "filename": "1943.380.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.b/1943.380.b_full.tif",
+          "width": "12423",
+          "height": "6719",
+          "filesize": "250436332",
+          "filename": "1943.380.b_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 123154,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1943-11-09T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1943.380",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:20:08.580000"
+    }
+  },
+  {
+    "id": "cleveland-123156",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "123156",
+      "object_url": "https://clevelandart.org/art/1943.380.d",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mrs. O. E. Kelsey",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1943.380.d",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "Filipino",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a piña (pineapple fiber) cloth panel with a neck opening and white cotton embroidery, part of a traditional Filipino blouse (baro/camisa), matching the claimed ethnicity and material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "One of Four Blouse Pieces",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Plain weave piña; white cotton embroidery",
+      "classification": "Embroidery",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "One of Four Blouse Pieces, 1800s. Philippines. Plain weave piña; white cotton embroidery; overall: 73.7 x 73 cm (29 x 28 3/4 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.d",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1943.380.d/1943.380.d_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3d795576609b5407bc642f0792ffe5b28f4160113716c47124c9bf19e38323db",
+        "bytes": 203865,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\filipino\\images\\cle_123156.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:29.894500+00:00",
+    "raw": {
+      "id": 123156,
+      "accession_number": "1943.380.d",
+      "share_license_status": "CC0",
+      "tombstone": "One of Four Blouse Pieces, 1800s. Philippines. Plain weave piña; white cotton embroidery; overall: 73.7 x 73 cm (29 x 28 3/4 in.). The Cleveland Museum of Art, Gift of Mrs. O. E. Kelsey, 1943.380.d",
+      "current_location": null,
+      "title": "One of Four Blouse Pieces",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Philippines"
+      ],
+      "technique": "Plain weave piña; white cotton embroidery",
+      "support_materials": [],
+      "department": "Textiles",
+      "collection": "T - Lace",
+      "type": "Embroidery",
+      "measurements": "Overall: 73.7 x 73 cm (29 x 28 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.737,
+          "height_inch": 29,
+          "height_inch_fraction": 0.0,
+          "width": 0.73,
+          "width_inch": 28,
+          "width_inch_fraction": 0.75
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Mrs. O. E. [Clara Vicksburg Turner] Kelsey [1863–1955], Cleveland, OH, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1943",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1943–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79900078"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1943.380.d",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.d/1943.380.d_web.jpg",
+          "width": "900",
+          "height": "559",
+          "filesize": "213218",
+          "filename": "1943.380.d_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.d/1943.380.d_print.jpg",
+          "width": "3400",
+          "height": "2110",
+          "filesize": "2679653",
+          "filename": "1943.380.d_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.380.d/1943.380.d_full.tif",
+          "width": "12155",
+          "height": "7542",
+          "filesize": "275044756",
+          "filename": "1943.380.d_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Gift of Mrs. O. E. Kelsey",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 123156,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1943-11-09T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "1943.380",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:20:09.273000"
+    }
+  }
+]

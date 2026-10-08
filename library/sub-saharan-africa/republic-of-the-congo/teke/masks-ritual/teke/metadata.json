@@ -1,0 +1,397 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1040102",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1040102",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1040102?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Republic of the Congo",
+      "ethnicity": "Teke",
+      "tradition": "Teke",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved wooden nkisi power figure with a cavity for magical substance, fiber skirt, and facial tattooing marks — a classic Teke/Kongo-region power figure type, matching the museum's own identification as \"Teke\" despite the broader location field.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "skulptur, figur, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1146100/1954.01.1788.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5ed6b01faa0d08e7a496cfad7a76afaf386d1814e118095f54ead6984ffd6366",
+        "bytes": 15594,
+        "local_path": "library\\sub-saharan-africa\\republic-of-the-congo\\teke\\masks-ritual\\teke\\images\\eu_91619_SMVK_EM_objekt_1040102.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1146100%2F1954.01.1788.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:55:42.993117+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1040102",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1040102?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "skulptur, figur, sculpture",
+        "skulptur, figur, sculpture"
+      ],
+      "dcDescription": [
+        "Democratic Republic of the Congo 1954.01.1788 Fristaten Kongo Zaire Kongofristaten Demokratiska Republiken Kongo Belgiska Kongo Kongostaten Nkisiskulptur föreställande en man med skägg och strecktatueringar i ansiktet. Skulpturen har en urgröpning på magen, plats för den \"magiska substansen\" (krafter som kan aktiveras på olika sätt). (HTB)\n\n\"Nkisi-figur, ej invigd. \"Oinvigt gudabild\", tatuerad med streck över ansiktet (Teke)\". (generalkatalogen)\n\n\"Fetischerna (nkisi) äro med afseende på form och utseende af flera slag. De tre allmännaste äro beläten eller statyetter af trä (teki), små sydda på"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1146100%2F1954.01.1788.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1146100/1954.01.1788.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_25207",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_25207",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_25207?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Republic of the Congo",
+      "ethnicity": "Teke",
+      "tradition": "Teke",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Carved wooden fetish figure with hollowed torso for \"medicines,\" described by the museum as showing the characteristic bent-knee stance of Bateke (Teke) sculpture — a well-documented match to the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figur, skulptur, Fetischfigur, fetisch, fetish, figure, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703533/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5057e28741a7b7f630e821b7b212dce7b2af3b26407e20b54f0d27e5bd8c6735",
+        "bytes": 18379,
+        "local_path": "library\\sub-saharan-africa\\republic-of-the-congo\\teke\\masks-ritual\\teke\\images\\eu_91608_SMVK_VKM_objekt_25207.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703533%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:55:43.434425+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_25207",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_25207?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "figur, skulptur, Fetischfigur, fetisch, fetish, figure, sculpture"
+      ],
+      "dcDescription": [
+        "1968.11.0194 Kongo Brazzaville Brazzaville, Kongo. [[Haga]] skiss CONGO 1, masks and figurines Horisonter - Kongo Franska Kongo Republic of the Congo Kiteki, liten fetischfigur i trä. Höjd: 40 cm. Ansiktet försett med striering samt ett väl markerat rektangulärt skägg. Ögonen försedda med inläggningar. På huvudet någon form av huvudbonad eller håruppsättning. Markerade bröst. Bålen urholkad. I urholkning kan \"mediciner\" av \nolika slag stoppas in, eller kan figuren förses med en spegel. Figuren har den för Bateke-skulpturen betecknande ställningen med böjda knän. figuren är defekt genom längsgå"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703533%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703533/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

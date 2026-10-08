@@ -1,0 +1,847 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_28714",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_28714",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_28714?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Senegal",
+      "ethnicity": "Wolof",
+      "tradition": "Wolof Senegal",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A silver woven-chain armlet with ball terminals, purchased in Dakar and described as a woman's bracelet from a Wolof village near Dakar—consistent silver jewelry from the claimed region and culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "armband, Kvinnoarmband, armlet, bracelet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2409078%2F1933.04.0001.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d03a8554f66ea478fd35ccf104182b08bb12abc8a489e18c210b888e7b9f33eb",
+        "bytes": 18211,
+        "local_path": "library\\sub-saharan-africa\\senegal\\wolof\\jewelry\\wolof-senegal\\images\\eu_91608_SMVK_VKM_objekt_28714.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:21.987256+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Kvinnoarmband från en djloff by utanför Dakar , Väst Afrika.\ndiam.:10 cm",
+        "köpt av Kurt Franman",
+        "Dakar, Väst Afrika.",
+        "Tillsammans - Samlade berättelser 1",
+        "Tillsammans - Samlade berättelser 2",
+        "1933.04.0001",
+        "Dakar",
+        "skiss",
+        "Wolof",
+        "Tillsammans",
+        "Armband",
+        "Bracelet",
+        "Senegal",
+        "metall"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Kvinnoarmband från en djloff by utanför Dakar , Väst Afrika.\ndiam.:10 cm",
+          "köpt av Kurt Franman",
+          "Dakar, Väst Afrika.",
+          "Tillsammans - Samlade berättelser 1",
+          "Tillsammans - Samlade berättelser 2"
+        ],
+        "def": [
+          "1933.04.0001",
+          "Dakar",
+          "skiss",
+          "Wolof",
+          "Tillsammans",
+          "Armband",
+          "Bracelet",
+          "Senegal",
+          "metall"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "armband, Kvinnoarmband, armlet, bracelet"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2211",
+        "http://data.europeana.eu/concept/41",
+        "http://data.europeana.eu/concept/1766"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Armband"
+        },
+        {
+          "def": "Schmuck"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Armband"
+        },
+        {
+          "def": "Smycken"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Браслет"
+        },
+        {
+          "def": "Ювелирные изделия"
+        },
+        {
+          "def": "Металл"
+        },
+        {
+          "def": "Bracelete"
+        },
+        {
+          "def": "Joalharia"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Гривна"
+        },
+        {
+          "def": "Бижутерия"
+        },
+        {
+          "def": "Метал"
+        },
+        {
+          "def": "Βραχιόλι"
+        },
+        {
+          "def": "Κόσμημα"
+        },
+        {
+          "def": "Μέταλλο"
+        },
+        {
+          "def": "Apyrankė"
+        },
+        {
+          "def": "Papuošalas"
+        },
+        {
+          "def": "Metalai"
+        },
+        {
+          "def": "Bracelet"
+        },
+        {
+          "def": "Jewelry"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Narukvica"
+        },
+        {
+          "def": "Nakit"
+        },
+        {
+          "def": "Kovine"
+        },
+        {
+          "def": "Braccialetto"
+        },
+        {
+          "def": "Gioielleria"
+        },
+        {
+          "def": "Metallo"
+        },
+        {
+          "def": "Bracelet"
+        },
+        {
+          "def": "Joaillerie"
+        },
+        {
+          "def": "Métal"
+        },
+        {
+          "def": "Karkötő"
+        },
+        {
+          "def": "Ékszer"
+        },
+        {
+          "def": "Fém"
+        },
+        {
+          "def": "Pulsera"
+        },
+        {
+          "def": "Joyería"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Käevõru"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Besoko"
+        },
+        {
+          "def": "Bitxigintza"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Náramek"
+        },
+        {
+          "def": "Šperk"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Náramok"
+        },
+        {
+          "def": "Šperk"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Zapestnica"
+        },
+        {
+          "def": "Nakit"
+        },
+        {
+          "def": "Kovina"
+        },
+        {
+          "def": "Bransoletka"
+        },
+        {
+          "def": "Jubilerstwo"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Brățară"
+        },
+        {
+          "def": "Bijuterie"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Armbånd"
+        },
+        {
+          "def": "Smykke"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Armband"
+        },
+        {
+          "def": "Sieraad"
+        },
+        {
+          "def": "Metaal"
+        },
+        {
+          "def": "Braçalet"
+        },
+        {
+          "def": "Joieria"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Koru"
+        },
+        {
+          "def": "Metalli"
+        },
+        {
+          "def": "Juvelierdarbs"
+        },
+        {
+          "def": "Metāls"
+        },
+        {
+          "def": "Seodóireacht"
+        },
+        {
+          "def": "Miotal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Schmuck",
+          "Armband",
+          "Metall"
+        ],
+        "ru": [
+          "Металл",
+          "Браслет",
+          "Ювелирные изделия"
+        ],
+        "fi": [
+          "Koru",
+          "Metalli"
+        ],
+        "pt": [
+          "Bracelete",
+          "Joalharia",
+          "Metal"
+        ],
+        "bg": [
+          "Метал",
+          "Гривна",
+          "Бижутерия"
+        ],
+        "lt": [
+          "Papuošalas",
+          "Apyrankė",
+          "Metalai"
+        ],
+        "hr": [
+          "Kovine",
+          "Narukvica",
+          "Nakit"
+        ],
+        "lv": [
+          "Metāls",
+          "Juvelierdarbs"
+        ],
+        "fr": [
+          "Joaillerie",
+          "Bracelet",
+          "Métal"
+        ],
+        "hu": [
+          "Karkötő",
+          "Fém",
+          "Ékszer"
+        ],
+        "sk": [
+          "Kov",
+          "Šperk",
+          "Náramok"
+        ],
+        "sl": [
+          "Kovina",
+          "Zapestnica",
+          "Nakit"
+        ],
+        "ga": [
+          "Seodóireacht",
+          "Miotal"
+        ],
+        "ca": [
+          "Joieria",
+          "Braçalet",
+          "Metall"
+        ],
+        "sv": [
+          "Armband",
+          "Smycken",
+          "Metall"
+        ],
+        "el": [
+          "Βραχιόλι",
+          "Κόσμημα",
+          "Μέταλλο"
+        ],
+        "en": [
+          "Bracelet",
+          "Jewelry",
+          "Metal"
+        ],
+        "it": [
+          "Metallo",
+          "Braccialetto",
+          "Gioielleria"
+        ],
+        "es": [
+          "Pulsera",
+          "Joyería",
+          "Metal"
+        ],
+        "et": [
+          "Käevõru",
+          "Metall"
+        ],
+        "eu": [
+          "Besoko",
+          "Metal",
+          "Bitxigintza"
+        ],
+        "cs": [
+          "Kov",
+          "Šperk",
+          "Náramek"
+        ],
+        "pl": [
+          "Jubilerstwo",
+          "Bransoletka",
+          "Metal"
+        ],
+        "ro": [
+          "Brățară",
+          "Bijuterie",
+          "Metal"
+        ],
+        "da": [
+          "Armbånd",
+          "Metal",
+          "Smykke"
+        ],
+        "nl": [
+          "Sieraad",
+          "Armband",
+          "Metaal"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/28714"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2409078/1933.04.0001.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Republik Senegal"
+        },
+        {
+          "def": "Sénégal"
+        },
+        {
+          "def": "Республика Сенегал"
+        },
+        {
+          "def": "Senegalin tasavalta"
+        },
+        {
+          "def": "Republiken Senegal"
+        },
+        {
+          "def": "República do Senegal"
+        },
+        {
+          "def": "Δημοκρατία της Σενέγαλης"
+        },
+        {
+          "def": "Repubblika tas-Senegal"
+        },
+        {
+          "def": "Republic of Senegal"
+        },
+        {
+          "def": "sn"
+        },
+        {
+          "def": "SEN"
+        },
+        {
+          "def": "République du Sénégal"
+        },
+        {
+          "def": "SN"
+        },
+        {
+          "def": "La République du Sénégal"
+        },
+        {
+          "def": "Sén."
+        },
+        {
+          "def": "Szenegáli Köztársaság"
+        },
+        {
+          "def": "República de Senegal"
+        },
+        {
+          "def": "Republica de Senegal"
+        },
+        {
+          "def": "Senegali Vabariik"
+        },
+        {
+          "def": "Senegalská republika"
+        },
+        {
+          "def": "SN"
+        },
+        {
+          "def": "SEN"
+        },
+        {
+          "def": "República del Senegal"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Republik Senegal",
+          "Sénégal"
+        ],
+        "ru": [
+          "Республика Сенегал"
+        ],
+        "fi": [
+          "Senegalin tasavalta"
+        ],
+        "sv": [
+          "Republiken Senegal"
+        ],
+        "pt": [
+          "República do Senegal"
+        ],
+        "el": [
+          "Δημοκρατία της Σενέγαλης"
+        ],
+        "mt": [
+          "Repubblika tas-Senegal"
+        ],
+        "en": [
+          "Republic of Senegal",
+          "sn",
+          "SEN"
+        ],
+        "fr": [
+          "République du Sénégal",
+          "SN",
+          "La République du Sénégal",
+          "Sén."
+        ],
+        "hu": [
+          "Szenegáli Köztársaság"
+        ],
+        "es": [
+          "República de Senegal",
+          "Republica de Senegal"
+        ],
+        "et": [
+          "Senegali Vabariik"
+        ],
+        "sk": [
+          "Senegalská republika"
+        ],
+        "nl": [
+          "SN",
+          "SEN"
+        ],
+        "ca": [
+          "República del Senegal"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Сенегал"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Сенегал"
+        },
+        {
+          "def": "Senegalas"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegāla"
+        },
+        {
+          "def": "Sénégal"
+        },
+        {
+          "def": "Szenegál"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "An tSeineagáil"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Σενεγάλη"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        },
+        {
+          "def": "Senegal"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Senegal"
+        ],
+        "ru": [
+          "Сенегал"
+        ],
+        "fi": [
+          "Senegal"
+        ],
+        "pt": [
+          "Senegal"
+        ],
+        "bg": [
+          "Сенегал"
+        ],
+        "lt": [
+          "Senegalas"
+        ],
+        "hr": [
+          "Senegal"
+        ],
+        "lv": [
+          "Senegāla"
+        ],
+        "fr": [
+          "Sénégal"
+        ],
+        "hu": [
+          "Szenegál"
+        ],
+        "sk": [
+          "Senegal"
+        ],
+        "sl": [
+          "Senegal"
+        ],
+        "ga": [
+          "An tSeineagáil"
+        ],
+        "ca": [
+          "Senegal"
+        ],
+        "sv": [
+          "Senegal"
+        ],
+        "el": [
+          "Σενεγάλη"
+        ],
+        "mt": [
+          "Senegal"
+        ],
+        "en": [
+          "Senegal"
+        ],
+        "it": [
+          "Senegal"
+        ],
+        "es": [
+          "Senegal"
+        ],
+        "et": [
+          "Senegal"
+        ],
+        "cs": [
+          "Senegal"
+        ],
+        "eu": [
+          "Senegal"
+        ],
+        "pl": [
+          "Senegal"
+        ],
+        "da": [
+          "Senegal"
+        ],
+        "ro": [
+          "Senegal"
+        ],
+        "nl": [
+          "Senegal"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "14.366667"
+      ],
+      "edmPlaceLongitude": [
+        "-14.283333"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2409078%2F1933.04.0001.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_28714?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_28714",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_28714.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 23.314875,
+      "timestamp": 1752047553623,
+      "timestamp_created": "2016-07-07T11:40:08.258Z",
+      "timestamp_created_epoch": 1467891608258,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "armband, Kvinnoarmband, armlet, bracelet"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

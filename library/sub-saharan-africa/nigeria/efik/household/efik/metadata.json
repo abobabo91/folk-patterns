@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1963-06-14",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1963-06-14",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1963-06-14",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1963.06.14",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Efik",
+      "tradition": "Efik",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A round engraved brass tray with floral/leaf motifs and a ribbon border, consistent with Efik/Calabar decorative brasswork; the museum explicitly attributes it to Efik makers, so it belongs to the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "tray",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tray",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tray made of brass.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_6/22_10/c071827b_b521_488d_a224_a79a00a58220/preview_EAF170089.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5b9447e67818d83d72cc91aa66b446c6680807dc1524039b3e271b9528a3009e",
+        "bytes": 58821,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\efik\\household\\efik\\images\\bm_E_Af1963_06_14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:23:05.373284+00:00",
+    "raw": {
+      "title": "tray",
+      "description": "Tray made of brass.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_6/22_10/c071827b_b521_488d_a224_a79a00a58220/preview_EAF170089.jpg",
+      "production_ethnic_groups": [
+        "Efik"
+      ],
+      "production_ethnic_attribution": "Made by: Efik"
+    }
+  }
+]

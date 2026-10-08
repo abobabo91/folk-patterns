@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1969-02-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1969-02-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1969-02-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1969.02.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Luba",
+      "tradition": "Luba",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:codex-gpt-5.6-luna",
+      "vision_reason": "The image shows a raffia-fibre cloth fragment with dense geometric appliqué, identified as part of a Luba dance skirt. It fits the claimed Luba ethnicity and textile category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "textile",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Cloth, fragment of a dance skirt, woven from raffia palm fibre with turned edges and applique technique using multiple applique patches, some in undyed raffia, but mostly dyed mid brown.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_5/8675c414_6ec1_4c83_bb43_a3d60052861d/preview_01057915_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4666ae818fcfc956ffa10fbc95ff059800983287199ca37c97fe7c882c775fee",
+        "bytes": 73482,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\luba\\textile\\luba\\images\\bm_E_Af1969_02_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T23:38:57.874691+00:00",
+    "raw": {
+      "title": "textile",
+      "description": "Cloth, fragment of a dance skirt, woven from raffia palm fibre with turned edges and applique technique using multiple applique patches, some in undyed raffia, but mostly dyed mid brown.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_5/8675c414_6ec1_4c83_bb43_a3d60052861d/preview_01057915_001.jpg",
+      "production_ethnic_groups": [
+        "Luba"
+      ],
+      "production_ethnic_attribution": "Made by: Luba"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1978-18-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1978-18-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1978-18-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1978.18.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Igede",
+      "tradition": "Igede",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A globular pottery vessel drum with a side hole, explicitly attributed to Igede makers by the museum, used as a musical instrument. This is a traditional handmade item consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "drum",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drum",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Musical pot (used as drum) made of pottery, splashed with vegetable &quot;varnish&quot;. Globular, with single hole at side.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/d6582c24_d9ac_4dbb_9f81_a3c600f5fb7b/preview_01020279_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9f9d230b17797ad2f1676971bfb312915d6da7b3017b97cade567f2c7e161071",
+        "bytes": 48827,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\igede\\instruments\\igede\\images\\bm_E_Af1978_18_10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:06:07.948238+00:00",
+    "raw": {
+      "title": "drum",
+      "description": "Musical pot (used as drum) made of pottery, splashed with vegetable &quot;varnish&quot;. Globular, with single hole at side.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_14/d6582c24_d9ac_4dbb_9f81_a3c600f5fb7b/preview_01020279_001.jpg",
+      "production_ethnic_groups": [
+        "Igede"
+      ],
+      "production_ethnic_attribution": "Made by: Igede"
+    }
+  }
+]

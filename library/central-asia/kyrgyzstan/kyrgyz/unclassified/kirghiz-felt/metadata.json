@@ -1,0 +1,384 @@
+[
+  {
+    "id": "europeana-9200518_ark__12148_btv1b53136641v",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Library of France",
+      "object_id": "9200518_ark__12148_btv1b53136641v",
+      "object_url": "https://www.europeana.eu/item/9200518/ark__12148_btv1b53136641v?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Kyrgyzstan",
+      "ethnicity": "Kyrgyz",
+      "tradition": "Kirghiz felt",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "photo",
+      "vision_reason": "The photograph shows a Kyrgyz yurt (tente kirghize) in a mountain meadow with a group of people in traditional dress gathered around it, a documentary ethnographic photo consistent with Kyrgyz nomadic life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Asie. Tente kirghize (yourte) / [mission] Chaffanjon ; photogr. Chaffanjon [?] ; [photogr. reprod. par] Molteni [pour la conférence donnée par]Chaffanjon",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1895/1896"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Library of France",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "http://gallica.bnf.fr/iiif/ark:/12148/btv1b53136641v/f1/full/512,/0/native.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b6ca27dbc5981897dcea37e72cddb9dda1829c6240bde2edc9784b43d8f016bc",
+        "bytes": 35109,
+        "local_path": "library\\central-asia\\kyrgyzstan\\kyrgyz\\unclassified\\kirghiz-felt\\images\\eu_9200518_ark__12148_btv1b53136641v.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:52.314062+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "France"
+      ],
+      "dataProvider": [
+        "National Library of France"
+      ],
+      "dcCreator": [
+        "Chaffanjon, Jean (1854-1913). Auteur de la conférence. Photographe présumé. Chef de la mission",
+        "Molteni. Photographe",
+        "Chaffanjon, Jean (1854-1913). Author of the conference. Suspected photographer. Head of Mission",
+        "Chaffanjon, Jean (1854-1913). Auteur de la conférence. Photographe présumé. Chef de la mission"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Chaffanjon, Jean (1854-1913). Auteur de la conférence. Photographe présumé. Chef de la mission",
+          "Molteni. Photographe"
+        ],
+        "en": [
+          "Chaffanjon, Jean (1854-1913). Author of the conference. Suspected photographer. Head of Mission"
+        ],
+        "fr": [
+          "Chaffanjon, Jean (1854-1913). Auteur de la conférence. Photographe présumé. Chef de la mission"
+        ]
+      },
+      "dcDescription": [
+        "Appartient à l’ensemble documentaire : CFTranssib",
+        "Appartient à l’ensemble documentaire : PhoVerre2",
+        "Part of the documentary ensemble: CFTranssib",
+        "Part of the documentary ensemble: PhoVerre2",
+        "Appartient à l’ensemble documentaire : CFTranssib",
+        "Appartient à l’ensemble documentaire : PhoVerre2"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Appartient à l’ensemble documentaire : CFTranssib",
+          "Appartient à l’ensemble documentaire : PhoVerre2"
+        ],
+        "en": [
+          "Part of the documentary ensemble: CFTranssib",
+          "Part of the documentary ensemble: PhoVerre2"
+        ],
+        "fr": [
+          "Appartient à l’ensemble documentaire : CFTranssib",
+          "Appartient à l’ensemble documentaire : PhoVerre2"
+        ]
+      },
+      "dcLanguage": [
+        "fra",
+        "fra"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "fra",
+          "fra"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Asie. Tente kirghize (yourte) / [mission] Chaffanjon ; photogr. Chaffanjon [?] ; [photogr. reprod. par] Molteni [pour la conférence donnée par]Chaffanjon"
+        ],
+        "en": [
+          "Asia. Kyrgyz tent (yurt)/[mission] Chaffanjon; photogr. Chaffanjon [?]; [photogr. reprod. by] Molteni [for the lecture given by] Chaffanjon"
+        ],
+        "fr": [
+          "Asie. Tente kirghize (yourte) / [mission] Chaffanjon ; photogr. Chaffanjon [?] ; [photogr. reprod. par] Molteni [pour la conférence donnée par]Chaffanjon"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография"
+        ],
+        "pt": [
+          "Fotografia"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia"
+        ],
+        "es": [
+          "Fotografía"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "9200518_Ag_BnF_Gallica_typedoc_images"
+      ],
+      "edmIsShownAt": [
+        "http://gallica.bnf.fr/ark:/12148/btv1b53136641v"
+      ],
+      "edmIsShownBy": [
+        "http://gallica.bnf.fr/iiif/ark:/12148/btv1b53136641v/f1/full/512,/0/native.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fgallica.bnf.fr%2Fiiif%2Fark%3A%2F12148%2Fbtv1b53136641v%2Ff1%2Ffull%2F512%2C%2F0%2Fnative.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1895/1896"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1895/1896"
+        ]
+      },
+      "europeanaCollectionName": [
+        "9200518_Ag_BnF_Gallica_typedoc_images"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/9200518/ark__12148_btv1b53136641v?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/9200518/ark__12148_btv1b53136641v",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/9200518/ark__12148_btv1b53136641v.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of France"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 57.26204,
+      "timestamp": 1752002546712,
+      "timestamp_created": "2019-09-02T17:44:35.303Z",
+      "timestamp_created_epoch": 1567446275303,
+      "timestamp_update": "2019-09-02T17:44:35.303Z",
+      "timestamp_update_epoch": 1567446275303,
+      "title": [
+        "Asie. Tente kirghize (yourte) / [mission] Chaffanjon ; photogr. Chaffanjon [?] ; [photogr. reprod. par] Molteni [pour la conférence donnée par]Chaffanjon",
+        "Asia. Kyrgyz tent (yurt)/[mission] Chaffanjon; photogr. Chaffanjon [?]; [photogr. reprod. by] Molteni [for the lecture given by] Chaffanjon",
+        "Asie. Tente kirghize (yourte) / [mission] Chaffanjon ; photogr. Chaffanjon [?] ; [photogr. reprod. par] Molteni [pour la conférence donnée par]Chaffanjon"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

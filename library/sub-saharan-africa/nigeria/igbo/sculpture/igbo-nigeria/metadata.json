@@ -1,0 +1,775 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_52639",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_52639",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_52639?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Igbo",
+      "tradition": "Igbo Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A wooden face mask with distorted, swollen features labeled as a \"disease mask\" (leprosy) — a type of ritual mask consistent with West African, plausibly Igbo/Nigerian, carving traditions; nothing contradicts the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1202729%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "05293504a06b6fd762b78118bfe236308f61e4a415c18e4fb970b2778cbfb8d1",
+        "bytes": 45440,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\igbo\\sculpture\\igbo-nigeria\\images\\eu_91608_SMVK_VKM_objekt_52639.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:40.232117+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Sjukdomsmask av trä med förvirdna anletsdrag (lepra) Höjd 37 cm. Rinaphuyngit? (Gaugon)",
+        "Köp från Bengt Olsson, Göteborg",
+        "Årsberättelse 1976, Årstryck 1976, Göteborgs Etnografiska Museum",
+        "1976.07.0004",
+        "Nigeria",
+        "Nigeria [[Haga]]",
+        "skiss",
+        "Ibo (IGBO)",
+        "Nigeria"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Sjukdomsmask av trä med förvirdna anletsdrag (lepra) Höjd 37 cm. Rinaphuyngit? (Gaugon)",
+          "Köp från Bengt Olsson, Göteborg",
+          "Årsberättelse 1976, Årstryck 1976, Göteborgs Etnografiska Museum"
+        ],
+        "def": [
+          "1976.07.0004",
+          "Nigeria",
+          "Nigeria [[Haga]]",
+          "skiss",
+          "Ibo (IGBO)",
+          "Nigeria"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "mask"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2448",
+        "http://data.europeana.eu/concept/1816"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Древесина"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Puuaines"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madeira"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Дървесина"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Mediena"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drvo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Koksne"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "Bois"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "fa"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drevo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Les"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Adhmad"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Fusta"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "Trä"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Wood"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "Legno"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madera"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Puit"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Dřevo"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Zur"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drewno"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Træ"
+        },
+        {
+          "def": "Mască"
+        },
+        {
+          "def": "Lemn"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "Hout"
+        },
+        {
+          "def": "Ξύλο"
+        },
+        {
+          "def": "Injam"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Maske",
+          "Holz"
+        ],
+        "ru": [
+          "Древесина",
+          "Маска"
+        ],
+        "fi": [
+          "Puuaines",
+          "Naamari"
+        ],
+        "pt": [
+          "Madeira",
+          "Máscara"
+        ],
+        "bg": [
+          "Маска",
+          "Дървесина"
+        ],
+        "lt": [
+          "Mediena",
+          "Kaukė"
+        ],
+        "hr": [
+          "Drvo",
+          "Maska"
+        ],
+        "lv": [
+          "Koksne",
+          "Maska"
+        ],
+        "fr": [
+          "Masque",
+          "Bois"
+        ],
+        "hu": [
+          "Álarc",
+          "fa"
+        ],
+        "sk": [
+          "Drevo",
+          "Maska"
+        ],
+        "sl": [
+          "Les",
+          "Maska"
+        ],
+        "ga": [
+          "Masc",
+          "Adhmad"
+        ],
+        "ca": [
+          "Fusta",
+          "Màscara"
+        ],
+        "sv": [
+          "Trä",
+          "Ansiktsmask"
+        ],
+        "el": [
+          "Ξύλο"
+        ],
+        "mt": [
+          "Injam"
+        ],
+        "en": [
+          "Wood",
+          "Mask"
+        ],
+        "it": [
+          "Legno",
+          "Maschera"
+        ],
+        "es": [
+          "Máscara",
+          "Madera"
+        ],
+        "et": [
+          "Puit",
+          "Mask"
+        ],
+        "cs": [
+          "Dřevo",
+          "Maska"
+        ],
+        "eu": [
+          "Zur",
+          "Maskara"
+        ],
+        "pl": [
+          "Drewno",
+          "Maska"
+        ],
+        "da": [
+          "Maske",
+          "Træ"
+        ],
+        "ro": [
+          "Mască",
+          "Lemn"
+        ],
+        "nl": [
+          "Hout",
+          "Masker"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/52639"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1202729/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1202729%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_52639?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_52639",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_52639.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 89.43418,
+      "timestamp": 1752047632519,
+      "timestamp_created": "2014-10-01T16:26:42.886Z",
+      "timestamp_created_epoch": 1412180802886,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "mask"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

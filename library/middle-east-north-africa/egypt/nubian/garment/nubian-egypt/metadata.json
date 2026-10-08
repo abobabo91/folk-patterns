@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "europeana-2048222_europeana_fashion_2575",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Shoes or no shoes",
+      "object_id": "2048222_europeana_fashion_2575",
+      "object_url": "https://www.europeana.eu/item/2048222/europeana_fashion_2575?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Nubian",
+      "tradition": "Nubian Egypt",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "garment",
+      "vision_reason": "A pair of leather slip-on shoes with pointed, upturned toes, a style historically associated with Nubian craftsmanship in Egypt/Sudan; plausible traditional footwear for the claimed culture despite the Belgian dealer location.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Ladies' shoes Nubian style.",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1900/1930"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Shoes or no shoes",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F2575.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cd4e15339f67549412966bfd279bc6946d733814aece1efd05ea0e0610922597",
+        "bytes": 37769,
+        "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian-egypt\\images\\eu_2048222_europeana_fashion_2575.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:48.086176+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Shoes or no shoes"
+      ],
+      "dcDescription": [
+        "All leather."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "All leather."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Ladies' shoes Nubian style."
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10504",
+        "http://data.europeana.eu/concept/1808"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Leder"
+        },
+        {
+          "def": "Leder"
+        },
+        {
+          "def": "läder"
+        },
+        {
+          "def": "Läder"
+        },
+        {
+          "def": "δέρμα"
+        },
+        {
+          "def": "Ζωικό δέρμα"
+        },
+        {
+          "def": "leather"
+        },
+        {
+          "def": "Leather"
+        },
+        {
+          "def": "cuoio"
+        },
+        {
+          "def": "Cuoio"
+        },
+        {
+          "def": "cuir"
+        },
+        {
+          "def": "Cuir"
+        },
+        {
+          "def": "עור"
+        },
+        {
+          "def": "leer"
+        },
+        {
+          "def": "Leer"
+        },
+        {
+          "def": "cuero"
+        },
+        {
+          "def": "Cuero"
+        },
+        {
+          "def": "koža"
+        },
+        {
+          "def": "Nahka"
+        },
+        {
+          "def": "Кожа"
+        },
+        {
+          "def": "Couro"
+        },
+        {
+          "def": "Кожа"
+        },
+        {
+          "def": "Oda"
+        },
+        {
+          "def": "Koža"
+        },
+        {
+          "def": "Āda"
+        },
+        {
+          "def": "Feldolgozott bőr"
+        },
+        {
+          "def": "Usnje"
+        },
+        {
+          "def": "Leathar"
+        },
+        {
+          "def": "Cuir"
+        },
+        {
+          "def": "Nahk"
+        },
+        {
+          "def": "Kůže"
+        },
+        {
+          "def": "Larru"
+        },
+        {
+          "def": "Skóra"
+        },
+        {
+          "def": "Læder"
+        },
+        {
+          "def": "Piele"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Leder"
+        ],
+        "fi": [
+          "Nahka"
+        ],
+        "ru": [
+          "Кожа"
+        ],
+        "pt": [
+          "Couro"
+        ],
+        "bg": [
+          "Кожа"
+        ],
+        "lt": [
+          "Oda"
+        ],
+        "hr": [
+          "Koža"
+        ],
+        "lv": [
+          "Āda"
+        ],
+        "fr": [
+          "cuir",
+          "Cuir"
+        ],
+        "hu": [
+          "Feldolgozott bőr"
+        ],
+        "sl": [
+          "Usnje"
+        ],
+        "ga": [
+          "Leathar"
+        ],
+        "ca": [
+          "Cuir"
+        ],
+        "sr": [
+          "koža"
+        ],
+        "sv": [
+          "Läder",
+          "läder"
+        ],
+        "el": [
+          "Ζωικό δέρμα",
+          "δέρμα"
+        ],
+        "en": [
+          "Leather",
+          "leather"
+        ],
+        "it": [
+          "Cuoio",
+          "cuoio"
+        ],
+        "es": [
+          "Cuero",
+          "cuero"
+        ],
+        "et": [
+          "Nahk"
+        ],
+        "cs": [
+          "Kůže"
+        ],
+        "eu": [
+          "Larru"
+        ],
+        "pl": [
+          "Skóra"
+        ],
+        "he": [
+          "עור"
+        ],
+        "da": [
+          "Læder"
+        ],
+        "ro": [
+          "Piele"
+        ],
+        "nl": [
+          "Leer",
+          "leer"
+        ]
+      },
+      "edmDatasetName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/sons/images/ethno/2575.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nubiar"
+        },
+        {
+          "def": "Nubie"
+        },
+        {
+          "def": "Obernubien"
+        },
+        {
+          "def": "Ta-seti"
+        },
+        {
+          "def": "Unternubien"
+        },
+        {
+          "def": "Arabische Republik Ägypten"
+        },
+        {
+          "def": "Arabische Republik Ägypten"
+        },
+        {
+          "def": "Nubisk"
+        },
+        {
+          "def": "Arabrepubliken Egypten"
+        },
+        {
+          "def": "Arabrepubliken Egypten"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nuubia"
+        },
+        {
+          "def": "Egyptin tasavalta"
+        },
+        {
+          "def": "Egyptin tasavalta"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Núbia Cristã"
+        },
+        {
+          "def": "Núbios"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "República Árabe do Egipto"
+        },
+        {
+          "def": "Republica Arabe do Egipto"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "República Árabe do Egipto"
+        },
+        {
+          "def": "Republica Arabe do Egipto"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Nubiani"
+        },
+        {
+          "def": "Repubblica Araba d'Egitto"
+        },
+        {
+          "def": "Repubblica Araba d'Egitto"
+        },
+        {
+          "def": "Nubian"
+        },
+        {
+          "def": "Cush"
+        },
+        {
+          "def": "Nubio"
+        },
+        {
+          "def": "República Árabe de Egipto"
+        },
+        {
+          "def": "Republica Arabpastas Marcelino e de Egipto"
+        },
+        {
+          "def": "República Árabe de Egipto"
+        },
+        {
+          "def": "Republica Arabpastas Marcelino e de Egipto"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Nubier"
+        },
+        {
+          "def": "Nubiërs"
+        },
+        {
+          "def": "Nubiër"
+        },
+        {
+          "def": "Nubiers"
+        },
+        {
+          "def": "Nubie"
+        },
+        {
+          "def": "Nubische cultuur"
+        },
+        {
+          "def": "EG"
+        },
+        {
+          "def": "EGY"
+        },
+        {
+          "def": "EG"
+        },
+        {
+          "def": "EGY"
+        },
+        {
+          "def": "Nubi"
+        },
+        {
+          "def": "Iuntiu"
+        },
+        {
+          "def": "Wasat"
+        },
+        {
+          "def": "Webet Sepat"
+        },
+        {
+          "def": "Awshek"
+        },
+        {
+          "def": "Ruket"
+        },
+        {
+          "def": "Iuntiu-setiu"
+        },
+        {
+          "def": "Regne de Kush"
+        },
+        {
+          "def": "Irem"
+        },
+        {
+          "def": "Imana'a"
+        },
+        {
+          "def": "Irishek"
+        },
+        {
+          "def": "Ta-Netjer"
+        },
+        {
+          "def": "Webet-Sepat"
+        },
+        {
+          "def": "Kash"
+        },
+        {
+          "def": "Ta-Seti"
+        },
+        {
+          "def": "Tua"
+        },
+        {
+          "def": "República Àrab d'Egipte"
+        },
+        {
+          "def": "República Àrab d'Egipte"
+        },
+        {
+          "def": "continent africà"
+        },
+        {
+          "def": "Арабская Республика Египет"
+        },
+        {
+          "def": "АРЕ"
+        },
+        {
+          "def": "Арабская Республика Египет"
+        },
+        {
+          "def": "АРЕ"
+        },
+        {
+          "def": "Арабска република Египет"
+        },
+        {
+          "def": "Арабска република Египет"
+        },
+        {
+          "def": "Αραβική Δημοκρατία της Αιγύπτου"
+        },
+        {
+          "def": "Αραβική Δημοκρατία της Αιγύπτου"
+        },
+        {
+          "def": "Repubblika Għarbija tal-Eġittu"
+        },
+        {
+          "def": "Repubblika tal-Eġittu"
+        },
+        {
+          "def": "Repubblika Għarbija tal-Eġittu"
+        },
+        {
+          "def": "Repubblika tal-Eġittu"
+        },
+        {
+          "def": "Republic of Egypt"
+        },
+        {
+          "def": "Eg"
+        },
+        {
+          "def": "EGY"
+        },
+        {
+          "def": "Arab Republic of Egypt"
+        },
+        {
+          "def": "Arab Rep. Egypt"
+        },
+        {
+          "def": "Rep. Egypt"
+        },
+        {
+          "def": "Republic of Egypt"
+        },
+        {
+          "def": "eg"
+        },
+        {
+          "def": "EGY"
+        },
+        {
+          "def": "Arab Republic of Egypt"
+        },
+        {
+          "def": "Arab Rep. Egypt"
+        },
+        {
+          "def": "Rep. Egypt"
+        },
+        {
+          "def": "African continent"
+        },
+        {
+          "def": "Egypte"
+        },
+        {
+          "def": "EG"
+        },
+        {
+          "def": "La République arabe d’Égypte"
+        },
+        {
+          "def": "Ég."
+        },
+        {
+          "def": "Egypte"
+        },
+        {
+          "def": "EG"
+        },
+        {
+          "def": "la République arabe d’Égypte"
+        },
+        {
+          "def": "Ég."
+        },
+        {
+          "def": "Egyiptomi Arab Köztársaság"
+        },
+        {
+          "def": "Egyiptomi Arab Köztársaság"
+        },
+        {
+          "def": "Egyptská arabská republika"
+        },
+        {
+          "def": "Egyptská arabská republika"
+        },
+        {
+          "def": "Arabska Republika Egiptu"
+        },
+        {
+          "def": "Arabska Republika Egiptu"
+        },
+        {
+          "def": "Ægypten"
+        },
+        {
+          "def": "Ægypten"
+        },
+        {
+          "def": "An Éigipt"
+        },
+        {
+          "def": "Afraic"
+        },
+        {
+          "def": "mór-roinn na hAfraice"
+        },
+        {
+          "def": "afriški kontinent"
+        },
+        {
+          "def": "črna celina"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Obernubien",
+          "Ta-seti",
+          "Unternubien",
+          "Arabische Republik Ägypten",
+          "Arabische Republik Ägypten"
+        ],
+        "sv": [
+          "Nubisk",
+          "Arabrepubliken Egypten",
+          "Arabrepubliken Egypten",
+          "Africa"
+        ],
+        "fi": [
+          "Nuubia",
+          "Egyptin tasavalta",
+          "Egyptin tasavalta",
+          "Africa"
+        ],
+        "ru": [
+          "Арабская Республика Египет",
+          "АРЕ",
+          "Арабская Республика Египет",
+          "АРЕ"
+        ],
+        "pt": [
+          "Núbia Cristã",
+          "Núbios",
+          "Egipto",
+          "República Árabe do Egipto",
+          "Republica Arabe do Egipto",
+          "Egipto",
+          "República Árabe do Egipto",
+          "Republica Arabe do Egipto",
+          "continente africano"
+        ],
+        "bg": [
+          "Арабска република Египет",
+          "Арабска република Египет"
+        ],
+        "el": [
+          "Αραβική Δημοκρατία της Αιγύπτου",
+          "Αραβική Δημοκρατία της Αιγύπτου"
+        ],
+        "mt": [
+          "Repubblika Għarbija tal-Eġittu",
+          "Repubblika tal-Eġittu",
+          "Repubblika Għarbija tal-Eġittu",
+          "Repubblika tal-Eġittu"
+        ],
+        "en": [
+          "Republic of Egypt",
+          "Eg",
+          "EGY",
+          "Arab Republic of Egypt",
+          "Arab Rep. Egypt",
+          "Rep. Egypt",
+          "Republic of Egypt",
+          "eg",
+          "EGY",
+          "Arab Republic of Egypt",
+          "Arab Rep. Egypt",
+          "Rep. Egypt",
+          "African continent"
+        ],
+        "it": [
+          "Nubiani",
+          "Repubblica Araba d'Egitto",
+          "Repubblica Araba d'Egitto"
+        ],
+        "fr": [
+          "Egypte",
+          "EG",
+          "La République arabe d’Égypte",
+          "Ég.",
+          "Egypte",
+          "EG",
+          "la République arabe d’Égypte",
+          "Ég."
+        ],
+        "hu": [
+          "Egyiptomi Arab Köztársaság",
+          "Egyiptomi Arab Köztársaság"
+        ],
+        "es": [
+          "Cush",
+          "Nubio",
+          "República Árabe de Egipto",
+          "Republica Arabpastas Marcelino e de Egipto",
+          "República Árabe de Egipto",
+          "Republica Arabpastas Marcelino e de Egipto",
+          "Africa",
+          "continente africano"
+        ],
+        "eu": [
+          "Nubiar"
+        ],
+        "cs": [
+          "Nubie"
+        ],
+        "sk": [
+          "Egyptská arabská republika",
+          "Egyptská arabská republika"
+        ],
+        "sl": [
+          "afriški kontinent",
+          "črna celina"
+        ],
+        "ga": [
+          "An Éigipt",
+          "Afraic",
+          "mór-roinn na hAfraice"
+        ],
+        "pl": [
+          "Arabska Republika Egiptu",
+          "Arabska Republika Egiptu"
+        ],
+        "ro": [
+          "Nubian"
+        ],
+        "da": [
+          "Ægypten",
+          "Ægypten"
+        ],
+        "nl": [
+          "Nubier",
+          "Nubiërs",
+          "Nubiër",
+          "Nubiers",
+          "Nubie",
+          "Nubische cultuur",
+          "EG",
+          "EGY",
+          "EG",
+          "EGY"
+        ],
+        "ca": [
+          "Nubi",
+          "Iuntiu",
+          "Wasat",
+          "Webet Sepat",
+          "Awshek",
+          "Ruket",
+          "Iuntiu-setiu",
+          "Regne de Kush",
+          "Irem",
+          "Imana'a",
+          "Irishek",
+          "Ta-Netjer",
+          "Webet-Sepat",
+          "Kash",
+          "Ta-Seti",
+          "Tua",
+          "República Àrab d'Egipte",
+          "República Àrab d'Egipte",
+          "continent africà"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nubien"
+        },
+        {
+          "def": "Ägypten"
+        },
+        {
+          "def": "Ägypten"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Нубия"
+        },
+        {
+          "def": "Египет"
+        },
+        {
+          "def": "Египет"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egypti"
+        },
+        {
+          "def": "Egypti"
+        },
+        {
+          "def": "Afrikka"
+        },
+        {
+          "def": "Núbia"
+        },
+        {
+          "def": "Egito"
+        },
+        {
+          "def": "Egito"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Нубия"
+        },
+        {
+          "def": "Египет"
+        },
+        {
+          "def": "Египет"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Nubija"
+        },
+        {
+          "def": "Egiptas"
+        },
+        {
+          "def": "Egiptas"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nubija"
+        },
+        {
+          "def": "Egipat"
+        },
+        {
+          "def": "Egipat"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nūbija"
+        },
+        {
+          "def": "Ēģipte"
+        },
+        {
+          "def": "Ēģipte"
+        },
+        {
+          "def": "Āfrika"
+        },
+        {
+          "def": "Nubie"
+        },
+        {
+          "def": "Égypte"
+        },
+        {
+          "def": "Égypte"
+        },
+        {
+          "def": "Afrique"
+        },
+        {
+          "def": "Núbia"
+        },
+        {
+          "def": "Egyiptom"
+        },
+        {
+          "def": "Egyiptom"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Núbia"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nubija"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Núbia"
+        },
+        {
+          "def": "Egipte"
+        },
+        {
+          "def": "Egipte"
+        },
+        {
+          "def": "Àfrica"
+        },
+        {
+          "def": "Nubien"
+        },
+        {
+          "def": "Egypten"
+        },
+        {
+          "def": "Egypten"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Νουβία"
+        },
+        {
+          "def": "Αίγυπτος"
+        },
+        {
+          "def": "Αίγυπτος"
+        },
+        {
+          "def": "Αφρική"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egitto"
+        },
+        {
+          "def": "Egitto"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Nuubia"
+        },
+        {
+          "def": "Egiptus"
+        },
+        {
+          "def": "Egiptus"
+        },
+        {
+          "def": "Aafrika"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "Egipto"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Núbie"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Egypt"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Afryka"
+        },
+        {
+          "def": "Nubien"
+        },
+        {
+          "def": "Egypten"
+        },
+        {
+          "def": "Egypten"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Nubia"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Egipt"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Nubië"
+        },
+        {
+          "def": "Egypte"
+        },
+        {
+          "def": "Egypte"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "An Éigipt"
+        },
+        {
+          "def": "an Éigipt"
+        },
+        {
+          "def": "an Afraic"
+        },
+        {
+          "def": "Eġittu"
+        },
+        {
+          "def": "Eġittu"
+        },
+        {
+          "def": "Afrika"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nubien",
+          "Ägypten",
+          "Ägypten",
+          "Afrika"
+        ],
+        "ru": [
+          "Нубия",
+          "Египет",
+          "Египет",
+          "Африка"
+        ],
+        "fi": [
+          "Nubia",
+          "Egypti",
+          "Egypti",
+          "Afrikka"
+        ],
+        "pt": [
+          "Núbia",
+          "Egito",
+          "Egito",
+          "África"
+        ],
+        "bg": [
+          "Нубия",
+          "Египет",
+          "Египет",
+          "Африка"
+        ],
+        "lt": [
+          "Nubija",
+          "Egiptas",
+          "Egiptas",
+          "Afrika"
+        ],
+        "hr": [
+          "Nubija",
+          "Egipat",
+          "Egipat",
+          "Afrika"
+        ],
+        "lv": [
+          "Nūbija",
+          "Ēģipte",
+          "Ēģipte",
+          "Āfrika"
+        ],
+        "fr": [
+          "Nubie",
+          "Égypte",
+          "Égypte",
+          "Afrique"
+        ],
+        "hu": [
+          "Núbia",
+          "Egyiptom",
+          "Egyiptom",
+          "Afrika"
+        ],
+        "sk": [
+          "Núbia",
+          "Egypt",
+          "Egypt",
+          "Afrika"
+        ],
+        "sl": [
+          "Nubija",
+          "Egipt",
+          "Egipt",
+          "Afrika"
+        ],
+        "ga": [
+          "An Éigipt",
+          "an Éigipt",
+          "an Afraic"
+        ],
+        "ca": [
+          "Núbia",
+          "Egipte",
+          "Egipte",
+          "Àfrica"
+        ],
+        "sv": [
+          "Nubien",
+          "Egypten",
+          "Egypten",
+          "Afrika"
+        ],
+        "el": [
+          "Νουβία",
+          "Αίγυπτος",
+          "Αίγυπτος",
+          "Αφρική"
+        ],
+        "mt": [
+          "Eġittu",
+          "Eġittu",
+          "Afrika"
+        ],
+        "en": [
+          "Nubia",
+          "Egypt",
+          "Egypt",
+          "Africa"
+        ],
+        "it": [
+          "Nubia",
+          "Egitto",
+          "Egitto",
+          "Africa"
+        ],
+        "es": [
+          "Nubia",
+          "Egipto",
+          "Egipto",
+          "África"
+        ],
+        "et": [
+          "Nuubia",
+          "Egiptus",
+          "Egiptus",
+          "Aafrika"
+        ],
+        "eu": [
+          "Nubia",
+          "Egipto",
+          "Egipto",
+          "Afrika"
+        ],
+        "cs": [
+          "Núbie",
+          "Egypt",
+          "Egypt",
+          "Afrika"
+        ],
+        "pl": [
+          "Nubia",
+          "Egipt",
+          "Egipt",
+          "Afryka"
+        ],
+        "da": [
+          "Nubien",
+          "Egypten",
+          "Egypten",
+          "Afrika"
+        ],
+        "ro": [
+          "Nubia",
+          "Egipt",
+          "Egipt",
+          "Africa"
+        ],
+        "nl": [
+          "Nubië",
+          "Egypte",
+          "Egypte",
+          "Afrika"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "18.9508",
+        "27.0",
+        "27.0",
+        "21.09375"
+      ],
+      "edmPlaceLongitude": [
+        "32.2558",
+        "29.0",
+        "29.0",
+        "7.1881"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F2575.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1900/1930"
+        },
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku",
+          "1900-luku"
+        ],
+        "ru": [
+          "XIX век",
+          "XX век"
+        ],
+        "pt": [
+          "Século XIX",
+          "Século XX"
+        ],
+        "bg": [
+          "19 век",
+          "20 век"
+        ],
+        "lt": [
+          "XIX amžius",
+          "XX amžius"
+        ],
+        "hr": [
+          "19. stoljeće",
+          "20. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts",
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle",
+          "XXe siècle"
+        ],
+        "hu": [
+          "19. század",
+          "20. század"
+        ],
+        "sk": [
+          "19. storočie",
+          "20. storočie"
+        ],
+        "sl": [
+          "19. stoletje",
+          "20. stoletje"
+        ],
+        "ga": [
+          "19ú haois",
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XIX",
+          "Segle XX"
+        ],
+        "sv": [
+          "1800-talet",
+          "1900-talet"
+        ],
+        "el": [
+          "19ος αιώνας",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "19th century",
+          "20th century"
+        ],
+        "it": [
+          "XIX secolo",
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XIX",
+          "Siglo XX"
+        ],
+        "et": [
+          "19. sajand",
+          "20. sajand"
+        ],
+        "cs": [
+          "19. století",
+          "20. století"
+        ],
+        "eu": [
+          "XIX. mendea",
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1900/1930"
+        ],
+        "pl": [
+          "XIX wiek",
+          "XX wiek"
+        ],
+        "da": [
+          "19. århundrede",
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea",
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "19e eeuw",
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048222/europeana_fashion_2575?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048222/europeana_fashion_2575",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2048222/europeana_fashion_2575.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 103.00638,
+      "timestamp": 1752070731874,
+      "timestamp_created": "2023-10-13T09:20:36.939Z",
+      "timestamp_created_epoch": 1697188836939,
+      "timestamp_update": "2024-06-17T07:46:28.083Z",
+      "timestamp_update_epoch": 1718610388083,
+      "title": [
+        "Ladies' shoes Nubian style."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

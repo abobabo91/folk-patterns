@@ -1,0 +1,3010 @@
+[
+  {
+    "id": "europeana-15514_KI_16141_4",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_16141_4",
+      "object_url": "https://www.europeana.eu/item/15514/KI_16141_4?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photograph shows a group of small lacquered furniture/vessel pieces with painted decoration, plausible Vietnamese lacquerware objects, but the image itself is a documentary photograph of objects rather than a painting or manuscript.",
+      "vision_confidence": "LOW",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1868-1873"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-4_1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4ca345b98faad2f9b052838329a344c882e3196b5c5ac3490ef4ee9f885bff67",
+        "bytes": 10773,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_16141_4.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:26.041362+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-175220"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-16141-4_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-4_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1868-1873"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1868-1873"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/15514/KI_16141_4?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_16141_4",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_16141_4.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 74.8967,
+      "timestamp": 1752015085587,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)",
+        "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_16141_5",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_16141_5",
+      "object_url": "https://www.europeana.eu/item/15514/KI_16141_5?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photograph shows a set of Vietnamese lacquerware objects (boxes, a triangular tray, small furniture-like pieces) with lacquer decoration, consistent with Kinh lacquer craft; it's a documentary photo of the objects rather than a painting itself.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1868-1873"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-5_1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "145ffb2187a21fce6b7f51fb00883344e95d9ce434675f4ddf5340bc4f579e3e",
+        "bytes": 10495,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_16141_5.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:26.212315+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-175221"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-16141-5_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-5_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1868-1873"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1868-1873"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/15514/KI_16141_5?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_16141_5",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_16141_5.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 74.8967,
+      "timestamp": 1752015085839,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)",
+        "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_16141_6",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_16141_6",
+      "object_url": "https://www.europeana.eu/item/15514/KI_16141_6?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows a collection of lacquerware boxes and panels decorated with painted/inlaid designs, arranged on a table draped with patterned cloth—consistent with Vietnamese lacquer craft (sơn mài), a signature Kinh art form. This is a plain museum-style documentary photo of decorative objects, not a painting or manuscript itself.",
+      "vision_confidence": "LOW",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork"
+    },
+    "physical": {
+      "title": "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1868-1873"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-6_1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "700b668034074e34faab8b4528d44c9fee656b0f0be8b756c7c959790dd1fd0c",
+        "bytes": 10997,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_16141_6.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:26.809179+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-175222"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-16141-6_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-6_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1868-1873"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1868-1873"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/15514/KI_16141_6?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_16141_6",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_16141_6.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 74.76224,
+      "timestamp": 1752015085925,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)",
+        "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_16141_7",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_16141_7",
+      "object_url": "https://www.europeana.eu/item/15514/KI_16141_7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photograph documents a collection of lacquerware boxes and panels decorated with mother-of-pearl inlay/lacquer painting, a craft associated with Vietnamese (Kinh) lacquer tradition; this is a documentary photo of objects rather than a painting itself.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1868-1873"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-7_1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9e446b058ffa87b92191a43706e04336f2ed9bf22fded57843aba6e6a4c993b3",
+        "bytes": 10382,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_16141_7.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:27.364547+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-175223"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-16141-7_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-16141-7_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1868-1873"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1868-1873"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/15514/KI_16141_7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_16141_7",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_16141_7.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 74.76224,
+      "timestamp": 1752015086040,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Fotografie von Geschirr mit Lackmalerei (vom Bearbeiter vergebener Titel)",
+        "Photograph of tableware with lacquer painting (vom BeFotogravergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_7932_14",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_7932_14",
+      "object_url": "https://www.europeana.eu/item/15514/KI_7932_14?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows a 17th-century European display cabinet (\"Prunkschrank\") with lacquer painting and inlay, held by Vienna's MAK — a piece of European decorative furniture with no connection to Vietnamese Kinh craft or culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "Fotografie eines Prunkschrankes mit Lackbemalung und Inkrustationen aus dem 17. Jahrhundert (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1914-1914"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-7932-14_1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dbcc1075b8950d4a19e5db05c2de90d2f097eb3e86491a86c0b2cbaef1ad495a",
+        "bytes": 9340,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh-vietnam\\images\\eu_15514_KI_7932_14.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:27.960805+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Prunkschrankes mit Lackbemalung und Inkrustationen aus dem 17. Jahrhundert (vom Bearbeiter vergebener Titel)",
+          "Insgesamt 26 Fotografien von Objekten aus den Sammlungen des MAK. (Titelzusatz)"
+        ],
+        "en": [
+          "Photograph of a magnificent cabinet with lacquer painting and incrustations from the 17th century (vom BeFotogravergebener Titel)",
+          "A total of 26 photographs of objects from the collections of the MAK. (title addition)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография"
+        ],
+        "pt": [
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-169059"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-7932-14_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-7932-14_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1914-1914"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1914-1914"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/15514/KI_7932_14?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_7932_14",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_7932_14.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 37.44436,
+      "timestamp": 1752015413526,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Fotografie eines Prunkschrankes mit Lackbemalung und Inkrustationen aus dem 17. Jahrhundert (vom Bearbeiter vergebener Titel)",
+        "Insgesamt 26 Fotografien von Objekten aus den Sammlungen des MAK. (Titelzusatz)",
+        "Photograph of a magnificent cabinet with lacquer painting and incrustations from the 17th century (vom BeFotogravergebener Titel)",
+        "A total of 26 photographs of objects from the collections of the MAK. (title addition)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

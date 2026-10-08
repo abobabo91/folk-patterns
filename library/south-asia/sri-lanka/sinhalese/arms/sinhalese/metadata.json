@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1980-12-17",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1980-12-17",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1980-12-17",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1980.12.17",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "south-asia",
+      "country": "Sri Lanka",
+      "ethnicity": "Sinhalese",
+      "tradition": "Sinhalese",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a pihiya, a traditional Sinhalese knife with a carved/engraved brass bolster and handle fittings typical of Kandyan metalwork, consistent with Sri Lankan craft traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "knife",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "knife",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Knife (pihiya) made of wood, metal.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/57d143b8_a87a_4fa9_bdde_a3dd0114f236/preview_01385508_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8fbce5ce0aa6bd1690d39c239356c1dac1d18972357492bec16a8abf9fb81c28",
+        "bytes": 74690,
+        "local_path": "library\\south-asia\\sri-lanka\\sinhalese\\arms\\sinhalese\\images\\bm_A_As1980_12_17.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:11:25.219589+00:00",
+    "raw": {
+      "title": "knife",
+      "description": "Knife (pihiya) made of wood, metal.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_16/57d143b8_a87a_4fa9_bdde_a3dd0114f236/preview_01385508_001.jpg",
+      "production_ethnic_groups": [
+        "Sinhalese"
+      ],
+      "production_ethnic_attribution": "Made by: Sinhalese"
+    }
+  }
+]

@@ -1,0 +1,1479 @@
+[
+  {
+    "id": "europeana-91609_SMVK_VKM_fotografi_1248391",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91609_SMVK_VKM_fotografi_1248391",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1248391?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photograph documents Javanese girls producing batik-tulis (hand-drawn wax-resist cloth), a documentary photo of traditional craft/daily life matching the claimed ethnicity, though the record's category \"painting-mss\" is incorrect for a photograph.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "batik, tjanting-batik, batik-tulis, fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249696%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "62767f0d79513bb51fd5626f0f060ea7435d28451a18ac299417afc0be9191d7",
+        "bytes": 95403,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\eu_91609_SMVK_VKM_fotografi_1248391.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:59.464942+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Javanese girls in work with the production of tjanting-batk. (batik-tulis)\nPhoto from: Kon instituut v/d trope\nErh: to the archive Dato: 1978-10-26\nNegative No: 012052",
+        "019989",
+        "Javanska flickor i arbete med framställning av tjanting-batk. (batik-tulis)\nFoto teckn av: Kon instituut v/d tropen\nErh: till arkivet Dato: 1978-10-26\nNegativ nr: 012052",
+        "019989"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Javanska flickor i arbete med framställning av tjanting-batk. (batik-tulis)\nFoto teckn av: Kon instituut v/d tropen\nErh: till arkivet Dato: 1978-10-26\nNegativ nr: 012052"
+        ],
+        "def": [
+          "019989"
+        ],
+        "en": [
+          "Javanese girls in work with the production of tjanting-batk. (batik-tulis)\nPhoto from: Kon instituut v/d trope\nErh: to the archive Dato: 1978-10-26\nNegative No: 012052"
+        ],
+        "zxx": [
+          "019989"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "batik, tjanting-batik, batik-tulis, fotografi, photograph"
+        ],
+        "def": [
+          "batik, tjanting-batik, batik-tulis, fotografi, photograph"
+        ],
+        "en": [
+          "batik"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2721",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Batiikki"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Батик"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Батик"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Batika"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Batikování"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Bàtik"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotografi"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Batik"
+        ],
+        "fi": [
+          "Batiikki",
+          "Valokuva"
+        ],
+        "ru": [
+          "Батик",
+          "Фотография"
+        ],
+        "pt": [
+          "Batik",
+          "Fotografia"
+        ],
+        "bg": [
+          "Батик",
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "hr": [
+          "Batik",
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "fr": [
+          "Photographie",
+          "Batik"
+        ],
+        "hu": [
+          "Fénykép",
+          "Batik"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Batik",
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Bàtik",
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi",
+          "Batik"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Batik",
+          "Photograph"
+        ],
+        "it": [
+          "Batik",
+          "Fotografia"
+        ],
+        "es": [
+          "Batik",
+          "Fotografía"
+        ],
+        "et": [
+          "Foto",
+          "Batika"
+        ],
+        "eu": [
+          "Batik",
+          "Argazki"
+        ],
+        "cs": [
+          "Fotografie",
+          "Batikování"
+        ],
+        "pl": [
+          "Batik",
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie",
+          "Batik"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "Foto",
+          "Batik"
+        ]
+      },
+      "edmDatasetName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/1248391"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1249696/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1249696%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91609_SwedishNationalHeritage_smvk_vkmf"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1248391?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91609/SMVK_VKM_fotografi_1248391",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91609/SMVK_VKM_fotografi_1248391.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 212.98994,
+      "timestamp": 1752060301751,
+      "timestamp_created": "2014-04-01T11:55:12.857Z",
+      "timestamp_created_epoch": 1396353312857,
+      "timestamp_update": "2022-02-15T11:00:10.369Z",
+      "timestamp_update_epoch": 1644922810369,
+      "title": [
+        "batik, tjanting-batik, batik-tulis, fotografi, photograph",
+        "batik",
+        "batik, tjanting-batik, batik-tulis, fotografi, photograph"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "british_museum-EA_Oc-A52-5",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Oc-A52-5",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Oc-A52-5",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Oc.A52.5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph of a forest with sheep grazing in Guadalcanal, Solomon Islands — a landscape/livestock snapshot with no connection to Javanese people, their dress, craft, or daily life; the \"Javanese sheep\" reference is merely a breed name, not evidence of Javanese culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print (black and white); album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print (black and white); album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Photograph (black and white); from an album; view of forest area, and herd of Javanese sheep in foreground; Guadalcanal, Solomon Islands. \r\nGelatin silver print",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/1f92851d_f2c0_411e_9471_a3bb01227e34/preview_00359110_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d19dd2f11fa08c3eb21f39869976090b6d702bb4cac511ae9a66428011bc0257",
+        "bytes": 100800,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_EA_Oc-A52-5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:19.852293+00:00",
+    "raw": {
+      "title": "photographic print (black and white); album",
+      "description": "Photograph (black and white); from an album; view of forest area, and herd of Javanese sheep in foreground; Guadalcanal, Solomon Islands. \r\nGelatin silver print",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/1f92851d_f2c0_411e_9471_a3bb01227e34/preview_00359110_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Oc-A52-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Oc-A52-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Oc-A52-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Oc.A52.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows sheep standing in a palm forest, captioned as a flock of \"Javanese sheep\" (a breed name) photographed in Guadalcanal, Solomon Islands — an animal husbandry snapshot with no connection to Javanese people, dress, craft or place.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print (black and white); album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print (black and white); album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Photograph (black and white); from an album; view of forest area, and herd of Javanese sheep in foreground; Guadalcanal, Solomon Islands. \r\nGelatin silver print",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/0eeeecee_a282_41cd_adfb_a3bb01227c8f/preview_00359109_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ce4a911b40b5501d058847fdfacd1dbb6f7d06b91810db88a007b1c45938e72b",
+        "bytes": 91554,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_EA_Oc-A52-4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:19.888280+00:00",
+    "raw": {
+      "title": "photographic print (black and white); album",
+      "description": "Photograph (black and white); from an album; view of forest area, and herd of Javanese sheep in foreground; Guadalcanal, Solomon Islands. \r\nGelatin silver print",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/0eeeecee_a282_41cd_adfb_a3bb01227c8f/preview_00359109_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1939-0311-0-9-26",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1939-0311-0-9-26",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1939-0311-0-9-26",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1939.0311.0.9.26",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The drawing depicts four labeled Javanese figures (chieftain in war dress, chieftain in court dress, bride, bridegroom) showing traditional dress with batik-patterned cloth, headwear and adornment, matching a documentary/ethnographic study of Javanese costume.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "painting-mss",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Drawing. Ink on paper. Four standing Javanese figures: 1. a chieftain in his war dress, 2. ditto, in his court dress, 3. a bride, 4. a bridegroom. Mark.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_1/26_16/bf2f0d3f_1e46_485f_960d_a7070111c4c7/preview_738.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cf6d5f72c263b106141a49aac4423a551fba19e17821519c1b3be03f78d81809",
+        "bytes": 45224,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_A_1939-0311-0-9-26.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:46.822728+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "Drawing. Ink on paper. Four standing Javanese figures: 1. a chieftain in his war dress, 2. ditto, in his court dress, 3. a bride, 4. a bridegroom. Mark.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_1/26_16/bf2f0d3f_1e46_485f_960d_a7070111c4c7/preview_738.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1885-0711-62",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1885-0711-62",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1885-0711-62",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1885.0711.62",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The drawing depicts a Javanese soldier in traditional dress with cap, tunic, and sword, made by a European artist (William Daniell) documenting Javanese subject matter — this is a European depiction of the culture, but as a documentary portrait study it still shows genuine Javanese dress and accoutrements.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A Javanese soldier; half-length, body turned half-right, his head in profile to right, wearing a cap and unbuttoned tunic, and a sword\nGraphite, with red chalk outlines",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_15/da85f634_ad74_4cc0_9bad_a3b501055e1d/preview_00141085_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e9b381b16b6af28cb79c13635c0617bd78fa43402f50ba9660c74c7f9341dd04",
+        "bytes": 32372,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_P_1885-0711-62.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:46.844188+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "A Javanese soldier; half-length, body turned half-right, his head in profile to right, wearing a cap and unbuttoned tunic, and a sword\nGraphite, with red chalk outlines",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_15/da85f634_ad74_4cc0_9bad_a3b501055e1d/preview_00141085_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1939-0311-0-9-19",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1939-0311-0-9-19",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1939-0311-0-9-19",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1939.0311.0.9.19",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A technical ink scale drawing of a Javanese plough and yoke, documenting agricultural tool design used by the Javanese; this is a documentary/technical drawing of their material culture, not an outsider's artistic depiction.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "painting-mss",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Scale drawing. Ink on paper. Javanese plough (with 5lb share) and yoke.  No signature. Unwatermarked.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_1/26_17/eb18deb8_f849_47fd_806b_a7070118c778/preview_DSC_0752.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3e1b7ee72f09637c53ad383fb8053b85bf7fbdcf2b90d80bad22072616399b11",
+        "bytes": 72576,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_A_1939-0311-0-9-19.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:46.885100+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "Scale drawing. Ink on paper. Javanese plough (with 5lb share) and yoke.  No signature. Unwatermarked.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_1/26_17/eb18deb8_f849_47fd_806b_a7070118c778/preview_DSC_0752.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1939-0311-0-5-45",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1939-0311-0-5-45",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1939-0311-0-5-45",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1939.0311.0.5.45",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A watercolour drawing depicting Javanese megalithic stone sculptures (punden berundak-type figures) arranged outdoors — this documents Javanese archaeological/cultural heritage, made as an illustration of local antiquities.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "painting-mss",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Drawing: Watercolours on paper. Javanese megalithic sculpture.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/18_14/5bfa8fc5_f1b3_449f_adf3_a75900ece905/preview_DSC_0394.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cff1fc046841b046a95f0497dd10444d2057fe0abc3f3e41150ec1abfce15388",
+        "bytes": 54719,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_A_1939-0311-0-5-45.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:46.929426+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "Drawing: Watercolours on paper. Javanese megalithic sculpture.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/18_14/5bfa8fc5_f1b3_449f_adf3_a75900ece905/preview_DSC_0394.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1939-0311-0-5-47",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1939-0311-0-5-47",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1939-0311-0-5-47",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1939.0311.0.5.47",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A watercolour drawing depicting a Javanese megalithic stone arrangement amid foliage, documenting archaeological/cultural heritage in Java — this fits the claimed Javanese ethnicity as a depiction of a site in their homeland.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Drawing: watercolours on paper. Javanese megalithic sculpture, labelled &quot;no.12&quot;.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/18_14/7f0e5683_a52b_473f_974f_a75900ed9f78/preview_DSC_0396.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5b484cfac3fcf10fe60e313ffc46e9d5473160540ff6490f9374506f2a2d1b8c",
+        "bytes": 70789,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_A_1939-0311-0-5-47.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:46.963847+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "Drawing: watercolours on paper. Javanese megalithic sculpture, labelled &quot;no.12&quot;.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/18_14/7f0e5683_a52b_473f_974f_a75900ed9f78/preview_DSC_0396.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af2006-15-13",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af2006-15-13",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af2006-15-13",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af2006.15.13",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a machine-stamped \"fancy print\" cotton labeled \"BATIK DE WOODIN\" — a Dutch/African wax-print fabric produced for the West African market, not a Javanese batik; the resist-dye imitation technique and commercial branding indicate a different tradition entirely.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Cloth; made of cotton. Resist-dyed &#039;fancy&#039; print. Purple ground with stamped designs. Pattern of hair combs outlined in black with red and black geometric patterns on handles; &quot;BATIK DE WOODIN&quot; printed in white along bottom border.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_13/6a7513ca_d5bd_49da_82cd_a3ba00df3295/preview_00232788_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b60976d63c7c4b78eac0708ef0201857e7e8c98aa6fa9ce266ec9db5bd06ce80",
+        "bytes": 60944,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\painting-mss\\javanese\\images\\bm_E_Af2006-15-13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:50.634986+00:00",
+    "raw": {
+      "title": "cloth",
+      "description": "Cloth; made of cotton. Resist-dyed &#039;fancy&#039; print. Purple ground with stamped designs. Pattern of hair combs outlined in black with red and black geometric patterns on handles; &quot;BATIK DE WOODIN&quot; printed in white along bottom border.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_13/6a7513ca_d5bd_49da_82cd_a3ba00df3295/preview_00232788_001.jpg"
+    }
+  }
+]

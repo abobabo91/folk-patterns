@@ -1,0 +1,2410 @@
+[
+  {
+    "id": "europeana-2048222_europeana_fashion_604",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Shoes or no shoes",
+      "object_id": "2048222_europeana_fashion_604",
+      "object_url": "https://www.europeana.eu/item/2048222/europeana_fashion_604?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Morocco",
+      "ethnicity": "Moroccan Arab",
+      "tradition": "Maroc broderie",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Embroidered leather babouche slippers with silver-thread and silk geometric embroidery are a well-known Moroccan (North African) footwear form, plausible for Moroccan Arab craft/dress traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Ladies 'Babouche'-'Ikourbin'.",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1900/1930"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Shoes or no shoes",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F604.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "291f0ce26d06c9b6164394db2c05536a0e1999efdf53cdd2d71a2a345f071c41",
+        "bytes": 36167,
+        "local_path": "library\\middle-east-north-africa\\morocco\\moroccan-arab\\textile\\maroc-broderie\\images\\eu_2048222_europeana_fashion_604.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T14:50:35.868811+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Belgium"
+      ],
+      "dataProvider": [
+        "Shoes or no shoes"
+      ],
+      "dcDescription": [
+        "Leather upper, silk and silver thread embroidery, leather sole."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Leather upper, silk and silver thread embroidery, leather sole."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Ladies 'Babouche'-'Ikourbin'."
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10408",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10428",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10504",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10352",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10470",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10547"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Silber"
+        },
+        {
+          "def": "Sticken"
+        },
+        {
+          "def": "Leder"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Silberfaden"
+        },
+        {
+          "def": "Silber"
+        },
+        {
+          "def": "silver"
+        },
+        {
+          "def": "brodera"
+        },
+        {
+          "def": "läder"
+        },
+        {
+          "def": "siden"
+        },
+        {
+          "def": "silvertråd"
+        },
+        {
+          "def": "silver"
+        },
+        {
+          "def": "prata"
+        },
+        {
+          "def": "bordar"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "prata"
+        },
+        {
+          "def": "prata"
+        },
+        {
+          "def": "Αργυρό"
+        },
+        {
+          "def": "κεντώ"
+        },
+        {
+          "def": "δέρμα"
+        },
+        {
+          "def": "μετάξι"
+        },
+        {
+          "def": "ασημοκλωστή"
+        },
+        {
+          "def": "ασήμι"
+        },
+        {
+          "def": "silver"
+        },
+        {
+          "def": "embroidering"
+        },
+        {
+          "def": "leather"
+        },
+        {
+          "def": "silk (silkworm material)"
+        },
+        {
+          "def": "silver thread"
+        },
+        {
+          "def": "silver"
+        },
+        {
+          "def": "argento"
+        },
+        {
+          "def": "ricamare"
+        },
+        {
+          "def": "cuoio"
+        },
+        {
+          "def": "seta"
+        },
+        {
+          "def": "filo d'argento"
+        },
+        {
+          "def": "argento"
+        },
+        {
+          "def": "argent"
+        },
+        {
+          "def": "broder"
+        },
+        {
+          "def": "cuir"
+        },
+        {
+          "def": "soie"
+        },
+        {
+          "def": "fil d'argent"
+        },
+        {
+          "def": "argent"
+        },
+        {
+          "def": "כסוף"
+        },
+        {
+          "def": "רקמה"
+        },
+        {
+          "def": "עור"
+        },
+        {
+          "def": "משי"
+        },
+        {
+          "def": "חוט (כסף)"
+        },
+        {
+          "def": "כסף"
+        },
+        {
+          "def": "plata"
+        },
+        {
+          "def": "bordar"
+        },
+        {
+          "def": "cuero"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "hilo de plata"
+        },
+        {
+          "def": "plata"
+        },
+        {
+          "def": "zilver"
+        },
+        {
+          "def": "borduren"
+        },
+        {
+          "def": "leer"
+        },
+        {
+          "def": "zijde (vezel)"
+        },
+        {
+          "def": "zilverdraad"
+        },
+        {
+          "def": "zilver"
+        },
+        {
+          "def": "сребрна боја"
+        },
+        {
+          "def": "embroider"
+        },
+        {
+          "def": "koža"
+        },
+        {
+          "def": "svila"
+        },
+        {
+          "def": "srebrna nit"
+        },
+        {
+          "def": "srebro"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Sticken",
+          "Silber",
+          "Leder",
+          "Seide",
+          "Silberfaden"
+        ],
+        "sv": [
+          "läder",
+          "siden",
+          "brodera",
+          "silver",
+          "silvertråd"
+        ],
+        "pt": [
+          "prata",
+          "seda",
+          "bordar"
+        ],
+        "el": [
+          "ασήμι",
+          "δέρμα",
+          "ασημοκλωστή",
+          "Αργυρό",
+          "μετάξι",
+          "κεντώ"
+        ],
+        "en": [
+          "silver thread",
+          "embroidering",
+          "silver",
+          "silk (silkworm material)",
+          "leather"
+        ],
+        "it": [
+          "ricamare",
+          "filo d'argento",
+          "argento",
+          "cuoio",
+          "seta"
+        ],
+        "fr": [
+          "cuir",
+          "broder",
+          "argent",
+          "fil d'argent",
+          "soie"
+        ],
+        "he": [
+          "רקמה",
+          "עור",
+          "כסוף",
+          "חוט (כסף)",
+          "משי",
+          "כסף"
+        ],
+        "es": [
+          "hilo de plata",
+          "cuero",
+          "seda",
+          "bordar",
+          "plata"
+        ],
+        "nl": [
+          "borduren",
+          "leer",
+          "zijde (vezel)",
+          "zilverdraad",
+          "zilver"
+        ],
+        "sr": [
+          "svila",
+          "srebrna nit",
+          "koža",
+          "embroider",
+          "сребрна боја",
+          "srebro"
+        ]
+      },
+      "edmDatasetName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/sons/images/ethno/604.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kungariket Marocko"
+        },
+        {
+          "def": "Kungadömet Marocko"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Kungariket Marocko"
+        },
+        {
+          "def": "Kungadömet Marocko"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Королевство Марокко"
+        },
+        {
+          "def": "Королевство Марокко"
+        },
+        {
+          "def": "Уарзазате"
+        },
+        {
+          "def": "Варзазат"
+        },
+        {
+          "def": "Marokon kuningaskunta"
+        },
+        {
+          "def": "Marokon kuningaskunta"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Renju tal-Marokk"
+        },
+        {
+          "def": "Renju tal-Marokk"
+        },
+        {
+          "def": "Kingdom of Morocco"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "ⵎⵓⵔⴰⴽⵓⵛ"
+        },
+        {
+          "def": "al-Maġrib"
+        },
+        {
+          "def": "Lmaġrib"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "ma"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "Kingdom of Morocco"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Al-Maġrib"
+        },
+        {
+          "def": "Lmaġrib"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Ma"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "Warzazat"
+        },
+        {
+          "def": "Warzāzāt"
+        },
+        {
+          "def": "African continent"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Royaume du Maroc"
+        },
+        {
+          "def": "ma"
+        },
+        {
+          "def": "MA"
+        },
+        {
+          "def": "le Royaume du Maroc"
+        },
+        {
+          "def": "Royaume du Maroc"
+        },
+        {
+          "def": "Ma"
+        },
+        {
+          "def": "MA"
+        },
+        {
+          "def": "Le Royaume du Maroc"
+        },
+        {
+          "def": "Wuarzazate"
+        },
+        {
+          "def": "Warzazat"
+        },
+        {
+          "def": "Marokkói Királyság"
+        },
+        {
+          "def": "Marokkói Királyság"
+        },
+        {
+          "def": "Reino de Marruecos"
+        },
+        {
+          "def": "Reino de Marruecos"
+        },
+        {
+          "def": "Warzāzāt"
+        },
+        {
+          "def": "Warzazāt"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Warzazat"
+        },
+        {
+          "def": "Uarzazate"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "continente africano"
+        },
+        {
+          "def": "Maroko Kuningriik"
+        },
+        {
+          "def": "Maroko Kuningriik"
+        },
+        {
+          "def": "Marocké kráľovstvo"
+        },
+        {
+          "def": "Marocké kráľovstvo"
+        },
+        {
+          "def": "Kraljevina Maroko"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "ma"
+        },
+        {
+          "def": "afriški kontinent"
+        },
+        {
+          "def": "črna celina"
+        },
+        {
+          "def": "Ríocht Mharacó"
+        },
+        {
+          "def": "Afraic"
+        },
+        {
+          "def": "mór-roinn na hAfraice"
+        },
+        {
+          "def": "Królestwo Marokańskie"
+        },
+        {
+          "def": "Królestwo Marokańskie"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Ouarzazat"
+        },
+        {
+          "def": "MA"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "MA"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "Regne del Marroc"
+        },
+        {
+          "def": "Regne del Marroc"
+        },
+        {
+          "def": "continent africà"
+        },
+        {
+          "def": "Quarzazate"
+        },
+        {
+          "def": "Ουαρζαζάτε"
+        },
+        {
+          "def": "Varzazatas"
+        },
+        {
+          "def": "Urzazatas"
+        },
+        {
+          "def": "continente africano"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Quarzazate"
+        ],
+        "sv": [
+          "Kungariket Marocko",
+          "Kungadömet Marocko",
+          "Maroc",
+          "Kungariket Marocko",
+          "Kungadömet Marocko",
+          "Maroc",
+          "Africa"
+        ],
+        "ru": [
+          "Королевство Марокко",
+          "Королевство Марокко",
+          "Уарзазате",
+          "Варзазат"
+        ],
+        "fi": [
+          "Marokon kuningaskunta",
+          "Marokon kuningaskunta",
+          "Africa"
+        ],
+        "pt": [
+          "continente africano"
+        ],
+        "mt": [
+          "Renju tal-Marokk",
+          "Renju tal-Marokk"
+        ],
+        "el": [
+          "Ουαρζαζάτε"
+        ],
+        "lt": [
+          "Varzazatas",
+          "Urzazatas"
+        ],
+        "en": [
+          "Kingdom of Morocco",
+          "Marocco",
+          "ⵎⵓⵔⴰⴽⵓⵛ",
+          "al-Maġrib",
+          "Lmaġrib",
+          "Maroc",
+          "ma",
+          "MAR",
+          "Kingdom of Morocco",
+          "Marocco",
+          "Al-Maġrib",
+          "Lmaġrib",
+          "Maroc",
+          "Ma",
+          "MAR",
+          "Warzazat",
+          "Warzāzāt",
+          "African continent"
+        ],
+        "hr": [
+          "Marocco",
+          "Marocco"
+        ],
+        "fr": [
+          "Royaume du Maroc",
+          "ma",
+          "MA",
+          "le Royaume du Maroc",
+          "Royaume du Maroc",
+          "Ma",
+          "MA",
+          "Le Royaume du Maroc",
+          "Wuarzazate",
+          "Warzazat"
+        ],
+        "hu": [
+          "Marokkói Királyság",
+          "Marokkói Királyság"
+        ],
+        "es": [
+          "Reino de Marruecos",
+          "Reino de Marruecos",
+          "Warzāzāt",
+          "Warzazāt",
+          "Ouarzazate",
+          "Warzazat",
+          "Uarzazate",
+          "Africa",
+          "continente africano"
+        ],
+        "et": [
+          "Maroko Kuningriik",
+          "Maroko Kuningriik"
+        ],
+        "sk": [
+          "Marocké kráľovstvo",
+          "Marocké kráľovstvo"
+        ],
+        "sl": [
+          "Kraljevina Maroko",
+          "MAR",
+          "ma",
+          "afriški kontinent",
+          "črna celina"
+        ],
+        "ga": [
+          "Ríocht Mharacó",
+          "Afraic",
+          "mór-roinn na hAfraice"
+        ],
+        "pl": [
+          "Królestwo Marokańskie",
+          "Królestwo Marokańskie",
+          "Ouarzazate",
+          "Ouarzazat"
+        ],
+        "nl": [
+          "MA",
+          "MAR",
+          "MA",
+          "MAR"
+        ],
+        "ca": [
+          "Regne del Marroc",
+          "Regne del Marroc",
+          "continent africà"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrikka"
+        },
+        {
+          "def": "Марокко"
+        },
+        {
+          "def": "Марокко"
+        },
+        {
+          "def": "Уарзазат"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Marrocos"
+        },
+        {
+          "def": "Marrocos"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Мароко"
+        },
+        {
+          "def": "Мароко"
+        },
+        {
+          "def": "Варзазат"
+        },
+        {
+          "def": "Африка"
+        },
+        {
+          "def": "Marokas"
+        },
+        {
+          "def": "Marokas"
+        },
+        {
+          "def": "Uarzazatas"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroka"
+        },
+        {
+          "def": "Maroka"
+        },
+        {
+          "def": "Varzāzāta"
+        },
+        {
+          "def": "Āfrika"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrique"
+        },
+        {
+          "def": "Marokkó"
+        },
+        {
+          "def": "Marokkó"
+        },
+        {
+          "def": "Varzázát"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maracó"
+        },
+        {
+          "def": "Maracó"
+        },
+        {
+          "def": "an Afraic"
+        },
+        {
+          "def": "Marroc"
+        },
+        {
+          "def": "Marroc"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Àfrica"
+        },
+        {
+          "def": "Marocko"
+        },
+        {
+          "def": "Marocko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Marokk"
+        },
+        {
+          "def": "Marokk"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Μαρόκο"
+        },
+        {
+          "def": "Μαρόκο"
+        },
+        {
+          "def": "Ουαρζαζάτ"
+        },
+        {
+          "def": "Αφρική"
+        },
+        {
+          "def": "Morocco"
+        },
+        {
+          "def": "Morocco"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Marruecos"
+        },
+        {
+          "def": "Marruecos"
+        },
+        {
+          "def": "Uarzazat"
+        },
+        {
+          "def": "África"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Aafrika"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Warzazát"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Warzazat"
+        },
+        {
+          "def": "Afryka"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Africa"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Ouarzazate"
+        },
+        {
+          "def": "Afrika"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Marokko",
+          "Marokko",
+          "Ouarzazate",
+          "Afrika"
+        ],
+        "fi": [
+          "Marokko",
+          "Marokko",
+          "Ouarzazate",
+          "Afrikka"
+        ],
+        "ru": [
+          "Марокко",
+          "Марокко",
+          "Уарзазат",
+          "Африка"
+        ],
+        "pt": [
+          "Marrocos",
+          "Marrocos",
+          "Ouarzazate",
+          "África"
+        ],
+        "bg": [
+          "Мароко",
+          "Мароко",
+          "Варзазат",
+          "Африка"
+        ],
+        "lt": [
+          "Marokas",
+          "Marokas",
+          "Uarzazatas",
+          "Afrika"
+        ],
+        "hr": [
+          "Maroko",
+          "Maroko",
+          "Ouarzazate",
+          "Afrika"
+        ],
+        "lv": [
+          "Maroka",
+          "Maroka",
+          "Varzāzāta",
+          "Āfrika"
+        ],
+        "fr": [
+          "Maroc",
+          "Maroc",
+          "Ouarzazate",
+          "Afrique"
+        ],
+        "hu": [
+          "Marokkó",
+          "Marokkó",
+          "Varzázát",
+          "Afrika"
+        ],
+        "sk": [
+          "Maroko",
+          "Maroko",
+          "Afrika"
+        ],
+        "sl": [
+          "Maroko",
+          "Maroko",
+          "Ouarzazate",
+          "Afrika"
+        ],
+        "ga": [
+          "Maracó",
+          "Maracó",
+          "an Afraic"
+        ],
+        "ca": [
+          "Marroc",
+          "Marroc",
+          "Ouarzazate",
+          "Àfrica"
+        ],
+        "sv": [
+          "Marocko",
+          "Marocko",
+          "Ouarzazate",
+          "Afrika"
+        ],
+        "mt": [
+          "Marokk",
+          "Marokk",
+          "Afrika"
+        ],
+        "el": [
+          "Μαρόκο",
+          "Μαρόκο",
+          "Ουαρζαζάτ",
+          "Αφρική"
+        ],
+        "en": [
+          "Morocco",
+          "Morocco",
+          "Ouarzazate",
+          "Africa"
+        ],
+        "it": [
+          "Marocco",
+          "Marocco",
+          "Ouarzazate",
+          "Africa"
+        ],
+        "es": [
+          "Marruecos",
+          "Marruecos",
+          "Uarzazat",
+          "África"
+        ],
+        "et": [
+          "Maroko",
+          "Maroko",
+          "Aafrika"
+        ],
+        "eu": [
+          "Maroko",
+          "Maroko",
+          "Ouarzazate",
+          "Afrika"
+        ],
+        "cs": [
+          "Maroko",
+          "Maroko",
+          "Warzazát",
+          "Afrika"
+        ],
+        "pl": [
+          "Maroko",
+          "Maroko",
+          "Warzazat",
+          "Afryka"
+        ],
+        "da": [
+          "Marokko",
+          "Marokko",
+          "Ouarzazate",
+          "Afrika"
+        ],
+        "ro": [
+          "Maroc",
+          "Maroc",
+          "Ouarzazate",
+          "Africa"
+        ],
+        "nl": [
+          "Marokko",
+          "Marokko",
+          "Ouarzazate",
+          "Afrika"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "32.0",
+        "32.0",
+        "30.916666",
+        "21.09375"
+      ],
+      "edmPlaceLongitude": [
+        "-6.0",
+        "-6.0",
+        "-6.9166665",
+        "7.1881"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fsons%2Fimages%2Fethno%2F604.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1900/1930"
+        },
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku",
+          "1900-luku"
+        ],
+        "ru": [
+          "XIX век",
+          "XX век"
+        ],
+        "pt": [
+          "Século XIX",
+          "Século XX"
+        ],
+        "bg": [
+          "19 век",
+          "20 век"
+        ],
+        "lt": [
+          "XIX amžius",
+          "XX amžius"
+        ],
+        "hr": [
+          "19. stoljeće",
+          "20. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts",
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle",
+          "XXe siècle"
+        ],
+        "hu": [
+          "19. század",
+          "20. század"
+        ],
+        "sk": [
+          "19. storočie",
+          "20. storočie"
+        ],
+        "sl": [
+          "19. stoletje",
+          "20. stoletje"
+        ],
+        "ga": [
+          "19ú haois",
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XIX",
+          "Segle XX"
+        ],
+        "sv": [
+          "1800-talet",
+          "1900-talet"
+        ],
+        "el": [
+          "19ος αιώνας",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "19th century",
+          "20th century"
+        ],
+        "it": [
+          "XIX secolo",
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XIX",
+          "Siglo XX"
+        ],
+        "et": [
+          "19. sajand",
+          "20. sajand"
+        ],
+        "cs": [
+          "19. století",
+          "20. století"
+        ],
+        "eu": [
+          "XIX. mendea",
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1900/1930"
+        ],
+        "pl": [
+          "XIX wiek",
+          "XX wiek"
+        ],
+        "da": [
+          "19. århundrede",
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea",
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "19e eeuw",
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048222_EuropeanaFashion_1045"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048222/europeana_fashion_604?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048222/europeana_fashion_604",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/2048222/europeana_fashion_604.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 18.170631,
+      "timestamp": 1752070731279,
+      "timestamp_created": "2022-02-01T17:54:42.662Z",
+      "timestamp_created_epoch": 1643738082662,
+      "timestamp_update": "2024-06-17T07:46:28.083Z",
+      "timestamp_update_epoch": 1718610388083,
+      "title": [
+        "Ladies 'Babouche'-'Ikourbin'."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1240597",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1240597",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1240597?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Morocco",
+      "ethnicity": "Moroccan Arab",
+      "tradition": "Maroc broderie",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a hooded silk djellaba, a traditional Moroccan garment, consistent with the claimed Moroccan Arab ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "djellaba",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1240602/1907.41.0658.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "758e1ef519c3d6f8c71306b5572d2da2030abef5bf124d44683237d5a3d4d853",
+        "bytes": 27541,
+        "local_path": "library\\middle-east-north-africa\\morocco\\moroccan-arab\\textile\\maroc-broderie\\images\\eu_91619_SMVK_EM_objekt_1240597.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T14:50:36.909793+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "Djellaba, av siden, för ytterst förnäma personer. /generalkatalogen\n\nSydd av tunnt, oblekt siden med ränder glesare och tunnare väv. Kapuschong och dräkt kantad med vit silkessnodd och handsydda sammanfogningar. Mätt från ärm till ärm och utan kapuschong. /EM",
+        "deformerat (veck, skrynklig mm)",
+        "Mycket rynkig och flera permanenta veck.  EM 2007.04.03",
+        "1907.41.0658",
+        "deformerat (veck, skrynklig mm)",
+        "Mycket rynkig och flera permanenta veck.  EM 2007.04.03",
+        "Morocco",
+        "Nordafrika",
+        "Nordafrika",
+        "Morocco",
+        "1907.41.0658"
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Nordafrika"
+        ],
+        "sv": [
+          "Djellaba, av siden, för ytterst förnäma personer. /generalkatalogen\n\nSydd av tunnt, oblekt siden med ränder glesare och tunnare väv. Kapuschong och dräkt kantad med vit silkessnodd och handsydda sammanfogningar. Mätt från ärm till ärm och utan kapuschong. /EM",
+          "deformerat (veck, skrynklig mm)",
+          "Mycket rynkig och flera permanenta veck.  EM 2007.04.03"
+        ],
+        "def": [
+          "1907.41.0658",
+          "deformerat (veck, skrynklig mm)",
+          "Mycket rynkig och flera permanenta veck.  EM 2007.04.03",
+          "Morocco",
+          "Nordafrika"
+        ],
+        "en": [
+          "Morocco"
+        ],
+        "zxx": [
+          "1907.41.0658"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "djellaba"
+        ],
+        "hr": [
+          "djellaba"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2130",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Mătase"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Seide",
+          "Textilie"
+        ],
+        "ru": [
+          "Текстиль",
+          "Шёлк"
+        ],
+        "fi": [
+          "Silkki",
+          "Tekstiili"
+        ],
+        "pt": [
+          "Fibra da seda",
+          "Têxtil"
+        ],
+        "bg": [
+          "Коприна",
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Šilkas"
+        ],
+        "hr": [
+          "Svila",
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums",
+          "Zīds"
+        ],
+        "fr": [
+          "Textile",
+          "Soie"
+        ],
+        "hu": [
+          "Selyem",
+          "Szövet"
+        ],
+        "sk": [
+          "Hodváb",
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil",
+          "Svila"
+        ],
+        "ga": [
+          "Teicstíl",
+          "Síoda"
+        ],
+        "ca": [
+          "Tèxtil",
+          "Seda"
+        ],
+        "sv": [
+          "Silke",
+          "Textil"
+        ],
+        "el": [
+          "Μετάξι",
+          "Ύφασμα"
+        ],
+        "en": [
+          "Silk",
+          "Textile"
+        ],
+        "it": [
+          "Tessuto",
+          "Seta"
+        ],
+        "es": [
+          "Seda",
+          "Textil"
+        ],
+        "et": [
+          "Siid",
+          "Tekstiil"
+        ],
+        "eu": [
+          "Zeta",
+          "Ehun"
+        ],
+        "cs": [
+          "Hedvábí",
+          "Textilie"
+        ],
+        "pl": [
+          "Tekstylia",
+          "Jedwab"
+        ],
+        "da": [
+          "Tekstil",
+          "Silke"
+        ],
+        "ro": [
+          "Mătase",
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel",
+          "Zijde"
+        ]
+      },
+      "edmDatasetName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/1240597"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1240602/1907.41.0658.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kungariket Marocko"
+        },
+        {
+          "def": "Kungadömet Marocko"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Королевство Марокко"
+        },
+        {
+          "def": "Marokon kuningaskunta"
+        },
+        {
+          "def": "Renju tal-Marokk"
+        },
+        {
+          "def": "Kingdom of Morocco"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Al-Maġrib"
+        },
+        {
+          "def": "Lmaġrib"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Ma"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Royaume du Maroc"
+        },
+        {
+          "def": "Ma"
+        },
+        {
+          "def": "MA"
+        },
+        {
+          "def": "Le Royaume du Maroc"
+        },
+        {
+          "def": "Marokkói Királyság"
+        },
+        {
+          "def": "Reino de Marruecos"
+        },
+        {
+          "def": "Maroko Kuningriik"
+        },
+        {
+          "def": "Marocké kráľovstvo"
+        },
+        {
+          "def": "Królestwo Marokańskie"
+        },
+        {
+          "def": "MA"
+        },
+        {
+          "def": "MAR"
+        },
+        {
+          "def": "Regne del Marroc"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "sv": [
+          "Kungariket Marocko",
+          "Kungadömet Marocko",
+          "Maroc"
+        ],
+        "ru": [
+          "Королевство Марокко"
+        ],
+        "fi": [
+          "Marokon kuningaskunta"
+        ],
+        "mt": [
+          "Renju tal-Marokk"
+        ],
+        "en": [
+          "Kingdom of Morocco",
+          "Marocco",
+          "Al-Maġrib",
+          "Lmaġrib",
+          "Maroc",
+          "Ma",
+          "MAR"
+        ],
+        "hr": [
+          "Marocco"
+        ],
+        "fr": [
+          "Royaume du Maroc",
+          "Ma",
+          "MA",
+          "Le Royaume du Maroc"
+        ],
+        "hu": [
+          "Marokkói Királyság"
+        ],
+        "es": [
+          "Reino de Marruecos"
+        ],
+        "et": [
+          "Maroko Kuningriik"
+        ],
+        "sk": [
+          "Marocké kráľovstvo"
+        ],
+        "pl": [
+          "Królestwo Marokańskie"
+        ],
+        "nl": [
+          "MA",
+          "MAR"
+        ],
+        "ca": [
+          "Regne del Marroc"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Марокко"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Marrocos"
+        },
+        {
+          "def": "Мароко"
+        },
+        {
+          "def": "Marokas"
+        },
+        {
+          "def": "Maroka"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Marokkó"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maracó"
+        },
+        {
+          "def": "Marroc"
+        },
+        {
+          "def": "Marocko"
+        },
+        {
+          "def": "Μαρόκο"
+        },
+        {
+          "def": "Marokk"
+        },
+        {
+          "def": "Morocco"
+        },
+        {
+          "def": "Marocco"
+        },
+        {
+          "def": "Marruecos"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroko"
+        },
+        {
+          "def": "Maroc"
+        },
+        {
+          "def": "Marokko"
+        },
+        {
+          "def": "Marokko"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Marokko"
+        ],
+        "ru": [
+          "Марокко"
+        ],
+        "fi": [
+          "Marokko"
+        ],
+        "pt": [
+          "Marrocos"
+        ],
+        "bg": [
+          "Мароко"
+        ],
+        "lt": [
+          "Marokas"
+        ],
+        "lv": [
+          "Maroka"
+        ],
+        "hr": [
+          "Maroko"
+        ],
+        "fr": [
+          "Maroc"
+        ],
+        "hu": [
+          "Marokkó"
+        ],
+        "sk": [
+          "Maroko"
+        ],
+        "sl": [
+          "Maroko"
+        ],
+        "ga": [
+          "Maracó"
+        ],
+        "ca": [
+          "Marroc"
+        ],
+        "sv": [
+          "Marocko"
+        ],
+        "el": [
+          "Μαρόκο"
+        ],
+        "mt": [
+          "Marokk"
+        ],
+        "en": [
+          "Morocco"
+        ],
+        "it": [
+          "Marocco"
+        ],
+        "es": [
+          "Marruecos"
+        ],
+        "et": [
+          "Maroko"
+        ],
+        "cs": [
+          "Maroko"
+        ],
+        "eu": [
+          "Maroko"
+        ],
+        "pl": [
+          "Maroko"
+        ],
+        "ro": [
+          "Maroc"
+        ],
+        "da": [
+          "Marokko"
+        ],
+        "nl": [
+          "Marokko"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "32.0"
+      ],
+      "edmPlaceLongitude": [
+        "-6.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1240602%2F1907.41.0658.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1240597?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91619/SMVK_EM_objekt_1240597",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91619/SMVK_EM_objekt_1240597.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 22.702866,
+      "timestamp": 1752047078157,
+      "timestamp_created": "2014-08-27T14:58:17.707Z",
+      "timestamp_created_epoch": 1409151497707,
+      "timestamp_update": "2022-09-14T08:55:33.471Z",
+      "timestamp_update_epoch": 1663145733471,
+      "title": [
+        "djellaba",
+        "djellaba"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

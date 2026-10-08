@@ -1,0 +1,979 @@
+[
+  {
+    "id": "met-318362",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "318362",
+      "object_url": "https://www.metmuseum.org/art/collection/search/318362",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Charles and Valerie Diker, 1999",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1999.484.19",
+      "accession_year": "1999"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Arapaho",
+      "tradition": "Arapaho",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A classic Plains ledger drawing of a mounted warrior in a skirmish, rendered in pencil and colored pencil on lined ledger paper, consistent with Arapaho ledger art of the 1880s.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Night Skirmish (Henderson Ledger Artist A)",
+      "titles_alt": [],
+      "date_text": "ca. 1882",
+      "date_earliest": 1862,
+      "date_latest": 1902,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Pencil",
+        "colored pencil on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Pencil, colored pencil on paper",
+      "classification": "Paper-Drawings",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Central plains, United States",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Frank Henderson",
+          "role": "Artist",
+          "dates": "1862 – 1885",
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300037148",
+        "http://vocab.getty.edu/page/aat/300250148",
+        "http://vocab.getty.edu/page/aat/300132410"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP258292.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "792d7a5028e0ed134a0d5b2cf0695ca1b31f3068cbc8cecf67cbb653d1acf0cd",
+        "bytes": 1328251,
+        "local_path": "library\\north-america\\united-states\\arapaho\\painting-mss\\arapaho\\images\\met_318362.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:27:28.544832+00:00",
+    "raw": {
+      "objectID": 318362,
+      "isHighlight": false,
+      "accessionNumber": "1999.484.19",
+      "accessionYear": "1999",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP258292.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP258292.jpg",
+      "additionalImages": [],
+      "constituents": [
+        {
+          "constituentID": 63469,
+          "role": "Artist",
+          "name": "Frank Henderson",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Drawing",
+      "title": "Night Skirmish (Henderson Ledger Artist A)",
+      "culture": "Arapaho",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Frank Henderson",
+      "artistDisplayBio": "Native American, Hinono'eiteen (Arapaho), 1862–1885",
+      "artistSuffix": "",
+      "artistAlphaSort": "Henderson Frank",
+      "artistNationality": "Native American",
+      "artistBeginDate": "1862",
+      "artistEndDate": "1885",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1882",
+      "objectBeginDate": 1862,
+      "objectEndDate": 1902,
+      "medium": "Pencil, colored pencil on paper",
+      "dimensions": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 13.652527,
+            "Width": 30.2
+          }
+        }
+      ],
+      "creditLine": "Gift of Charles and Valerie Diker, 1999",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "United States",
+      "region": "Central plains",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Paper-Drawings",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/318362",
+      "tags": [
+        {
+          "term": "Firearms",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300037148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q12796"
+        },
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        },
+        {
+          "term": "Trees",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-318359",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "318359",
+      "object_url": "https://www.metmuseum.org/art/collection/search/318359",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Charles and Valerie Diker, 1999, 2000",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1999.484.16",
+      "accession_year": "1999"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Arapaho",
+      "tradition": "Arapaho",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a classic Plains ledger drawing showing two mounted warriors in regalia leading horses, drawn in pencil and colored pencil on lined ledger paper—consistent with Arapaho ledger art tradition, which continued into the reservation era with materials like this.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Two Riders Leading Horses (Henderson Ledger Artist B)",
+      "titles_alt": [],
+      "date_text": "ca. 1882",
+      "date_earliest": 1862,
+      "date_latest": 1902,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Pencil",
+        "colored pencil on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Pencil, colored pencil on paper",
+      "classification": "Paper-Drawings",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 5 3/8 x W. 11 7/8 in. (13.7 x 30.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "United States",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Frank Henderson",
+          "role": "Artist",
+          "dates": "1862 – 1885",
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300250148"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP258289.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7f6a01b8ac543e11e59f9b0caca23f92e7806e4116b1d80aa1712dbc2ced8898",
+        "bytes": 1395476,
+        "local_path": "library\\north-america\\united-states\\arapaho\\painting-mss\\arapaho\\images\\met_318359.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:27:29.114025+00:00",
+    "raw": {
+      "objectID": 318359,
+      "isHighlight": false,
+      "accessionNumber": "1999.484.16",
+      "accessionYear": "1999",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP258289.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP258289.jpg",
+      "additionalImages": [],
+      "constituents": [
+        {
+          "constituentID": 63469,
+          "role": "Artist",
+          "name": "Frank Henderson",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Drawing",
+      "title": "Two Riders Leading Horses (Henderson Ledger Artist B)",
+      "culture": "Arapaho",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Frank Henderson",
+      "artistDisplayBio": "Native American, Hinono'eiteen (Arapaho), 1862–1885",
+      "artistSuffix": "",
+      "artistAlphaSort": "Henderson Frank",
+      "artistNationality": "Native American",
+      "artistBeginDate": "1862",
+      "artistEndDate": "1885",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1882",
+      "objectBeginDate": 1862,
+      "objectEndDate": 1902,
+      "medium": "Pencil, colored pencil on paper",
+      "dimensions": "H. 5 3/8 x W. 11 7/8 in. (13.7 x 30.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Width": 13.67
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 13.7,
+            "Width": 30.2
+          }
+        }
+      ],
+      "creditLine": "Gift of Charles and Valerie Diker, 1999, 2000",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "United States",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Paper-Drawings",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/318359",
+      "tags": [
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-318360",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "318360",
+      "object_url": "https://www.metmuseum.org/art/collection/search/318360",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Charles and Valerie Diker, 1999",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1999.484.17",
+      "accession_year": "1999"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Arapaho",
+      "tradition": "Arapaho",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A classic Plains ledger drawing showing a man on horseback with regalia and two women in striped dress/blanket, consistent with Arapaho ledger art tradition of this period.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Man and Two Women (Henderson Ledger Artist B)",
+      "titles_alt": [],
+      "date_text": "ca. 1882",
+      "date_earliest": 1862,
+      "date_latest": 1902,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Pencil",
+        "colored pencil",
+        "and ink on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Pencil, colored pencil, and ink on paper",
+      "classification": "Paper-Drawings",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 5 3/8 x W. 11 7/8 in. (13.7 x 30.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "United States",
+      "made_in_place_alt": [],
+      "current_gallery": "746",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Frank Henderson",
+          "role": "Artist",
+          "dates": "1862 – 1885",
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300025928",
+        "http://vocab.getty.edu/page/aat/300025943",
+        "http://vocab.getty.edu/page/aat/300250148"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP258290.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0869262cae9d0022ce7c5ba954fbf288c9506fddec9f43e49a5c8385891a0afa",
+        "bytes": 1317668,
+        "local_path": "library\\north-america\\united-states\\arapaho\\painting-mss\\arapaho\\images\\met_318360.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:27:29.549699+00:00",
+    "raw": {
+      "objectID": 318360,
+      "isHighlight": false,
+      "accessionNumber": "1999.484.17",
+      "accessionYear": "1999",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP258290.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP258290.jpg",
+      "additionalImages": [],
+      "constituents": [
+        {
+          "constituentID": 63469,
+          "role": "Artist",
+          "name": "Frank Henderson",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Drawing",
+      "title": "Man and Two Women (Henderson Ledger Artist B)",
+      "culture": "Arapaho",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Frank Henderson",
+      "artistDisplayBio": "Native American, Hinono'eiteen (Arapaho), 1862–1885",
+      "artistSuffix": "",
+      "artistAlphaSort": "Henderson Frank",
+      "artistNationality": "Native American",
+      "artistBeginDate": "1862",
+      "artistEndDate": "1885",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1882",
+      "objectBeginDate": 1862,
+      "objectEndDate": 1902,
+      "medium": "Pencil, colored pencil, and ink on paper",
+      "dimensions": "H. 5 3/8 x W. 11 7/8 in. (13.7 x 30.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Width": 13.67
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 30.1625,
+            "Width": 13.67
+          }
+        }
+      ],
+      "creditLine": "Gift of Charles and Valerie Diker, 1999",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "United States",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Paper-Drawings",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/318360",
+      "tags": [
+        {
+          "term": "Men",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+        },
+        {
+          "term": "Women",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+        },
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": "746"
+    }
+  },
+  {
+    "id": "met-318361",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "318361",
+      "object_url": "https://www.metmuseum.org/art/collection/search/318361",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Charles and Valerie Diker, 1999",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1999.484.18",
+      "accession_year": "1999"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Arapaho",
+      "tradition": "Arapaho",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Classic Plains ledger drawing of two warriors on horseback in feathered war bonnets/trailers with weapons, a well-known Arapaho ledger-art genre depicting war exploits; this matches the claimed Arapaho attribution and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Off to War (Henderson Ledger Artist B)",
+      "titles_alt": [],
+      "date_text": "ca. 1882",
+      "date_earliest": 1862,
+      "date_latest": 1902,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Pencil",
+        "colored pencil",
+        "and  ink on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Pencil, colored pencil, and  ink on paper",
+      "classification": "Paper-Drawings",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "United States",
+      "made_in_place_alt": [],
+      "current_gallery": "746",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Frank Henderson",
+          "role": "Artist",
+          "dates": "1862 – 1885",
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300025943",
+        "http://vocab.getty.edu/page/aat/300250148"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-14863-017.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "25d4dc05f51232e8ff1d54fe2625654b0c02c7bbe972f322c80100b4b9180707",
+        "bytes": 2373237,
+        "local_path": "library\\north-america\\united-states\\arapaho\\painting-mss\\arapaho\\images\\met_318361.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:27:29.999292+00:00",
+    "raw": {
+      "objectID": 318361,
+      "isHighlight": false,
+      "accessionNumber": "1999.484.18",
+      "accessionYear": "1999",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-14863-017.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-14863-017.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/ao/original/DP258291.jpg"
+      ],
+      "constituents": [
+        {
+          "constituentID": 63469,
+          "role": "Artist",
+          "name": "Frank Henderson",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Drawing",
+      "title": "Off to War (Henderson Ledger Artist B)",
+      "culture": "Arapaho",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Frank Henderson",
+      "artistDisplayBio": "Native American, Hinono'eiteen (Arapaho), 1862–1885",
+      "artistSuffix": "",
+      "artistAlphaSort": "Henderson Frank",
+      "artistNationality": "Native American",
+      "artistBeginDate": "1862",
+      "artistEndDate": "1885",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1882",
+      "objectBeginDate": 1862,
+      "objectEndDate": 1902,
+      "medium": "Pencil, colored pencil, and  ink on paper",
+      "dimensions": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 13.7,
+            "Width": 30.2
+          }
+        }
+      ],
+      "creditLine": "Gift of Charles and Valerie Diker, 1999",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "United States",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Paper-Drawings",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/318361",
+      "tags": [
+        {
+          "term": "Women",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+        },
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": "746"
+    }
+  },
+  {
+    "id": "met-318363",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "318363",
+      "object_url": "https://www.metmuseum.org/art/collection/search/318363",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Charles and Valerie Diker, 1999",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1999.484.20",
+      "accession_year": "1999"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Arapaho",
+      "tradition": "Arapaho",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The drawing shows a mounted warrior with feathered lance, shield, and regalia rendered on ledger paper — a classic Plains ledger-art self-portrait, consistent with Southern Arapaho authorship as recorded by the museum.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Self-Portrait",
+      "titles_alt": [],
+      "date_text": "ca. 1880",
+      "date_earliest": 1875,
+      "date_latest": 1885,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Pencil",
+        "colored pencil",
+        "watercolor",
+        "and ink on paper"
+      ],
+      "techniques": [],
+      "medium_raw": "Pencil, colored pencil, watercolor, and ink on paper",
+      "classification": "Paper-Drawings",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Oklahoma, United States",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Henderson Ledger Artist A",
+          "role": "Artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300037038",
+        "http://vocab.getty.edu/page/aat/300025928",
+        "http://vocab.getty.edu/page/aat/300250148"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP258293.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c0cd6f3788cc315d443c7a9f424c1bc2c3e39c7b6bde4ef968422f46fdf2b9d5",
+        "bytes": 1032339,
+        "local_path": "library\\north-america\\united-states\\arapaho\\painting-mss\\arapaho\\images\\met_318363.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:27:30.529554+00:00",
+    "raw": {
+      "objectID": 318363,
+      "isHighlight": false,
+      "accessionNumber": "1999.484.20",
+      "accessionYear": "1999",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP258293.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP258293.jpg",
+      "additionalImages": [],
+      "constituents": [
+        {
+          "constituentID": 196019,
+          "role": "Artist",
+          "name": "Attributed to Henderson Ledger Artist A",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Drawing",
+      "title": "Self-Portrait",
+      "culture": "Southern Arapaho",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "Attributed to",
+      "artistDisplayName": "Henderson Ledger Artist A",
+      "artistDisplayBio": "Southern Arapaho",
+      "artistSuffix": "",
+      "artistAlphaSort": "Henderson Ledger Artist A",
+      "artistNationality": "Southern Arapaho",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1880",
+      "objectBeginDate": 1875,
+      "objectEndDate": 1885,
+      "medium": "Pencil, colored pencil, watercolor, and ink on paper",
+      "dimensions": "H. 5 3/8 × W. 11 7/8 in. (13.7 × 30.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 13.7,
+            "Width": 30.2
+          }
+        }
+      ],
+      "creditLine": "Gift of Charles and Valerie Diker, 1999",
+      "geographyType": "",
+      "city": "",
+      "state": "Oklahoma",
+      "county": "",
+      "country": "United States",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Paper-Drawings",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/318363",
+      "tags": [
+        {
+          "term": "Spears",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300037038",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q44475"
+        },
+        {
+          "term": "Men",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+        },
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

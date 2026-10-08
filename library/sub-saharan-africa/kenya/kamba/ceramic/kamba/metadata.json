@@ -1,0 +1,611 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1561752",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1561752",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1561752?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Kamba",
+      "tradition": "Kamba",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a handmade earthenware jar with a flared neck, documented as made by a named Kamba potter (Doracas Muthami) in Kinii Village, Kenya, with interview details on her clay preparation methods — direct evidence of Kamba manufacture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "pot, vessel, jar,",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1875828/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d70972eca5dd19e235b300f1f03ab192d46915d93a6a1c1621b6b5adbe5ba353",
+        "bytes": 33303,
+        "local_path": "library\\sub-saharan-africa\\kenya\\kamba\\ceramic\\kamba\\images\\eu_91619_SMVK_EM_objekt_1561752.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1875828%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T07:55:08.439299+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1561752",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1561752?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "pot, vessel, jar,",
+        "kruka, kärl, jar, vessel"
+      ],
+      "dcCreator": [
+        "to comb",
+        "kamba",
+        "kamba"
+      ],
+      "dcDescription": [
+        "Östberg, W. \"Acts of Acquisition: Five Narratives of Collecting for a Museum of Ethnography\" s.53-71 i East African Contours, 2005. 1984.08.0130 Östafrika Svaga inristade ornamenteringar vid halsen. \n\nIntervju av Wilhelm Östberg med krukmakerskan Doracas Muthami 14 dec.1983. I originalpärmen med återberättad här.\nKrukmakerska i Kinii Village, Malumba Sublocation.\nLeran kommer från termitstack och från åkrarna. Den förvaras hemma i grop där hon häller i vatten. Täcker med plåtlock. Leran bearbetas med en kalebassbit, som också är bra för att jämna till krukan med. \nKrukorna kostar 5 till 20 Ksh"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1875828%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1875828/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Quénia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "An Chéinia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Κένυα"
+        },
+        {
+          "def": "Kenja"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Keenia"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1561754",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1561754",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1561754?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Kamba",
+      "tradition": "Kamba",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a handmade clay pot with fire-blackened patches, directly documented via interview with a named Kamba potter (Doracas Muthami) in Kinii Village, Kenya, who made such vessels from local clay and termite-mound material. This is direct ethnographic evidence of Kamba-made pottery.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kruka, kärl, jar, vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1875836/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8444ab39855a62283b3c7fea3e0f98243598c94ff9c84ebd361e0a37c228309a",
+        "bytes": 35089,
+        "local_path": "library\\sub-saharan-africa\\kenya\\kamba\\ceramic\\kamba\\images\\eu_91619_SMVK_EM_objekt_1561754.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1875836%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T07:55:09.143752+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1561754",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1561754?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kruka, kärl, jar, vessel",
+        "pot, vessel, jar,"
+      ],
+      "dcCreator": [
+        "kamba",
+        "to comb",
+        "kamba"
+      ],
+      "dcDescription": [
+        "1984.08.0131 Östafrika begagnad, sprucken vid ena sidans mynning. Östberg, W. \"Acts of Acquisition: Five Narratives of Collecting for a Museum of Ethnography\" s.53-71 i East African Contours, 2005. Vid insvängningen för halsen fyra märken med jämna avstånd (inristat). Vita fläckar på in- och utsidan.\n\nIntervju av Wilhelm Östberg med krukmakerskan Doracas Muthami 14 dec.1983. I originalpärmen med återberättad här.\n Krukmakerska i Kinii Village, Malumba Sublocation.\nLeran kommer från termitstack och från åkrarna. Den förvaras hemma i grop där hon häller i vatten. Täcker med plåtlock. Leran bearb"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1875836%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1875836/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Quénia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "An Chéinia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Κένυα"
+        },
+        {
+          "def": "Kenja"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Keenia"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1561755",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1561755",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1561755?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Kamba",
+      "tradition": "Kamba",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A handmade clay pot with incised neck decoration, documented via an interview with a named Kamba potter in Kinii Village, Kenya, describing her clay sourcing and technique — direct ethnographic evidence of Kamba manufacture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, kruka, vessel, jar",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1875844/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "50db3b2b5483e7cd76a4434962d9dce11523b9fe6ddd7f4270f3bf7220718076",
+        "bytes": 31850,
+        "local_path": "library\\sub-saharan-africa\\kenya\\kamba\\ceramic\\kamba\\images\\eu_91619_SMVK_EM_objekt_1561755.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1875844%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T07:55:09.749936+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1561755",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1561755?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, kruka, vessel, jar",
+        "vessel, pot, jar"
+      ],
+      "dcCreator": [
+        "kamba",
+        "to comb",
+        "kamba"
+      ],
+      "dcDescription": [
+        "1984.08.0132 Östafrika obegagnad Östberg, W. \"Acts of Acquisition: Five Narratives of Collecting for a Museum of Ethnography\" s.53-71 i East African Contours, 2005. Vid insvängningen för halsen inristat mönster runt hela insvängningen.\n\nIntervju av Wilhelm Östberg med krukmakerskan Doracas Muthami 14 dec.1983. I originalpärmen med återberättad här.\n Krukmakerska i Kinii Village, Malumba Sublocation.\nLeran kommer från termitstack och från åkrarna. Den förvaras hemma i grop där hon häller i vatten. Täcker med plåtlock. Leran bearbetas med en kalebassbit, som också är bra för att jämna till kruka"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1875844%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1875844/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Quénia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "An Chéinia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Κένυα"
+        },
+        {
+          "def": "Kenja"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Keenia"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

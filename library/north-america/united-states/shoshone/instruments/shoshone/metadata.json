@@ -1,0 +1,192 @@
+[
+  {
+    "id": "met-501178",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "501178",
+      "object_url": "https://www.metmuseum.org/art/collection/search/501178",
+      "iiif_manifest": null,
+      "credit_line": "The Crosby Brown Collection of Musical Instruments, 1889",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "89.4.562a, b",
+      "accession_year": "1889"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Shoshone",
+      "tradition": "Shoshone",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a wood-and-hide frame drum, a type of instrument consistent with Shoshone material culture; wood and rawhide construction fits plains/basin Native American traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Frame Drum",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1801,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "wood (ash?)",
+        "skin (sheepskin)"
+      ],
+      "techniques": [],
+      "medium_raw": "wood (ash?), skin (sheepskin)",
+      "classification": "Membranophone-single-headed / frame drum",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Overall: 39.5 x 25.5cm (15 9/16 x 10 1/16in.)\r\nOther (head): 37cm (14 9/16in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Idaho, Wyoming, Utah, United States",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Shonshone / Shoshonean",
+          "role": "Maker",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.562a.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "87f31087b12ca503950f19d8e9b5e0216c55169edf29ae2a1ec2d0b69a11b27b",
+        "bytes": 303662,
+        "local_path": "library\\north-america\\united-states\\shoshone\\instruments\\shoshone\\images\\met_501178.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:13:42.648461+00:00",
+    "raw": {
+      "objectID": 501178,
+      "isHighlight": false,
+      "accessionNumber": "89.4.562a, b",
+      "accessionYear": "1889",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.562a.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/mi/web-large/midp89.4.562a.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.562a (2).jpg",
+        "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.562b.jpg",
+        "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.562A_1.jpg",
+        "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.562A_2.jpg",
+        "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.562A_3.jpg",
+        "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.562B_1.jpg",
+        "https://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.562B_2.jpg"
+      ],
+      "constituents": [
+        {
+          "constituentID": 155406,
+          "role": "Maker",
+          "name": "Shonshone / Shoshonean",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "Musical Instruments",
+      "objectName": "Frame Drum",
+      "title": "Frame Drum",
+      "culture": "Native American (Shoshone)",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Maker",
+      "artistPrefix": "",
+      "artistDisplayName": "Shonshone / Shoshonean",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "Shonshone / Shoshonean",
+      "artistNationality": "Native American",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "19th century",
+      "objectBeginDate": 1801,
+      "objectEndDate": 1900,
+      "medium": "wood (ash?), skin (sheepskin)",
+      "dimensions": "Overall: 39.5 x 25.5cm (15 9/16 x 10 1/16in.)\r\nOther (head): 37cm (14 9/16in.)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": "head",
+          "elementMeasurements": {
+            "Diameter": 37
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Diameter": 39.5,
+            "Length": 25.5
+          }
+        }
+      ],
+      "creditLine": "The Crosby Brown Collection of Musical Instruments, 1889",
+      "geographyType": "",
+      "city": "",
+      "state": "Idaho, Wyoming, Utah",
+      "county": "",
+      "country": "United States",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Membranophone-single-headed / frame drum",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-01-31T04:54:36.6Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/501178",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

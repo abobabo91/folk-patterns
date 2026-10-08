@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1939-07-35",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1939-07-35",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1939-07-35",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1939.07.35",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Nupe",
+      "tradition": "Nupe",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a hand-drawn pattern-sheet on paper (mounted on canvas) recording geometric textile designs, explicitly attributed by the museum to Nupe (Moslem) makers — a specific attribution rather than a vague regional guess, so it counts as evidence the design tradition belongs to this people, even though the object itself is a paper record rather than a woven cloth.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "pattern-sheet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "pattern-sheet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Pattern-sheet; drawn on paper; rectangular piece of paper, mounted on canvas backing, drawn with coloured geometric designs.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_9/d6147152_b621_4c1b_b025_a3dc009c85e8/preview_01285359_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fb52daaf391ce7dffa4a141ce8ab4337448bf692c990ddca6177c45149754946",
+        "bytes": 133498,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\nupe\\painting-mss\\nupe\\images\\bm_E_Af1939_07_35.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T15:51:23.966087+00:00",
+    "raw": {
+      "title": "pattern-sheet",
+      "description": "Pattern-sheet; drawn on paper; rectangular piece of paper, mounted on canvas backing, drawn with coloured geometric designs.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_9/d6147152_b621_4c1b_b025_a3dc009c85e8/preview_01285359_001.jpg",
+      "production_ethnic_groups": [
+        "Nupe"
+      ],
+      "production_ethnic_attribution": "Made by: Nupe (Moslem)"
+    }
+  }
+]

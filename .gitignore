@@ -1,4 +1,7 @@
-library/
+# library/**/metadata.json is tracked: the vetted and dropped records with the
+# image verdicts and reasons, which build_index.py reads. The images are on R2.
+library/**/images/
+library/**/*.corrupt
 data/raw/
 __pycache__/
 *.pyc

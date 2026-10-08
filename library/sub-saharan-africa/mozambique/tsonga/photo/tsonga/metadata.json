@@ -1,0 +1,97 @@
+[
+  {
+    "id": "british_museum-EA_Oc-B44-17",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Oc-B44-17",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Oc-B44-17",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Oc.B44.17",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mozambique",
+      "ethnicity": "Tsonga",
+      "tradition": "Tsonga",
+      "art_form": "photo",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A profile portrait photograph of a man, described in the museum's own notes as \"Tonga\" — an old alternate spelling for Thonga/Tsonga used in colonial-era ethnography (e.g. Junod's \"Thonga\"), so this is a documentary photo of the claimed people rather than a different group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "photographic print (black and white)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print (black and white)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Photograph (black and white); portrait of a man in profile with a moustache and beard, wearing a top; Tonga. \r\nPlatinum print",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_9/19284e73_b703_41af_81ab_a3bf00a09450/preview_00498838_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "08741508d8e7e8b8a0ad65c3cbdeae1ea684cc0c0102ec13543c47f3bc7c8d60",
+        "bytes": 43394,
+        "local_path": "library\\sub-saharan-africa\\mozambique\\tsonga\\photo\\tsonga\\images\\bm_EA_Oc_B44_17.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:22:41.792360+00:00",
+    "raw": {
+      "title": "photographic print (black and white)",
+      "description": "Photograph (black and white); portrait of a man in profile with a moustache and beard, wearing a top; Tonga. \r\nPlatinum print",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_9/19284e73_b703_41af_81ab_a3bf00a09450/preview_00498838_001.jpg",
+      "production_ethnic_groups": [],
+      "production_ethnic_attribution": ""
+    }
+  }
+]

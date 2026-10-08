@@ -1,0 +1,3318 @@
+[
+  {
+    "id": "cleveland-678264",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "678264",
+      "object_url": "https://clevelandart.org/art/2024.140",
+      "iiif_manifest": null,
+      "credit_line": "Severance and Greta Millikin Purchase Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2024.140",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The picture shows an elaborately carved wooden chair/throne covered top to bottom with dozens of small carved human figures in scenes and rows, exactly matching a Chokwe chief's ceremonial throne with sculpted figural programme.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "sculpture",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Ceremonial Chair or Throne (citwamo ca mangu)",
+      "titles_alt": [],
+      "date_text": "1800s",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood, upholstery studs, leather",
+      "classification": "Furniture and woodwork",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This <em>citwamo ca mangu</em> chair bears over 40 sculpted figures arranged in complex compositions across the chair’s top rail (back), stretchers (rungs), and legs; all symbolize the power of Chokwe supreme chiefs. Such chairs typically bear a dozen or fewer figures. Scenes of royal life and power wrap around the seat, reinforcing how the chief and his family are at the center of their polity and its business.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Central Africa, Angola, Chokwe-style carver",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "714138e422a85388953ebe2eb89f3099bc33612bd3e32ea611f09c592e2e038b",
+        "bytes": 170912,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\cle_678264.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:33.208914+00:00",
+    "raw": {
+      "id": 678264,
+      "accession_number": "2024.140",
+      "share_license_status": "CC0",
+      "tombstone": "Ceremonial Chair or Throne (citwamo ca mangu), 1800s. Africa, Central Africa, Angola, Chokwe-style carver. Wood, upholstery studs, leather; overall: 107 x 55 x 55 cm (42 1/8 x 21 5/8 x 21 5/8 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2024.140",
+      "current_location": "108A African",
+      "title": "Ceremonial Chair or Throne (citwamo ca mangu)",
+      "creation_date": "1800s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1899,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Central Africa, Angola, Chokwe-style carver"
+      ],
+      "technique": "Wood, upholstery studs, leather",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Furniture and woodwork",
+      "measurements": "Overall: 107 x 55 x 55 cm (42 1/8 x 21 5/8 x 21 5/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.07,
+          "height_inch": 42,
+          "height_inch_fraction": 0.125,
+          "width": 0.55,
+          "width_inch": 21,
+          "width_inch_fraction": 0.625,
+          "depth": 0.55,
+          "depth_inch": 21,
+          "depth_inch_fraction": 0.625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Unrecorded Chokwe leader",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–about 1910–1912",
+          "sortorder": 1
+        },
+        {
+          "description": "Captain José Morgado Da Cruz (Portugal, 1871–1958) by gift",
+          "citations": [],
+          "footnotes": null,
+          "date": "c. 1910–1912 – 1958",
+          "sortorder": 2
+        },
+        {
+          "description": "Family of Captain José Morgado Da Cruz, by descent (Grandfather of Cedric Melado; Mother of Cedric Melado)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Letter from Cedric Melado, curatorial file</div>"
+          ],
+          "date": "1958–2020",
+          "sortorder": 3
+        },
+        {
+          "description": "Private European Collection (Cedric Melado, family member of Da Cruz; Lisbon)",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->Letter from Cedric Melado, curatorial file</div>"
+          ],
+          "date": null,
+          "sortorder": 4
+        },
+        {
+          "description": "Sotheby's Paris (June 25, 2020 lot 49)",
+          "citations": [],
+          "footnotes": null,
+          "date": "June 24, 2020",
+          "sortorder": 5
+        },
+        {
+          "description": "Private Collection, France",
+          "citations": [],
+          "footnotes": null,
+          "date": "2020–2024",
+          "sortorder": 6
+        },
+        {
+          "description": "The Cleveland Museum of Art by purchase",
+          "citations": [],
+          "footnotes": null,
+          "date": "2024–",
+          "sortorder": 7
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Starting around the 1500s, Chokwe and other African leaders and traders received fine chairs as gifts from Portuguese traders. Chokwe leaders adapted this symbol of power as their own, using it in tandem with stools, an earlier kind of prestige seat.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This <em>citwamo ca mangu</em> chair bears over 40 sculpted figures arranged in complex compositions across the chair’s top rail (back), stretchers (rungs), and legs; all symbolize the power of Chokwe supreme chiefs. Such chairs typically bear a dozen or fewer figures. Scenes of royal life and power wrap around the seat, reinforcing how the chief and his family are at the center of their polity and its business.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "\"New on View.” <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>66, no. 1 (2026): back cover.",
+          "page_number": "Reproduced and Mentioned: back cover",
+          "url": "https://archive.org/details/CMAMM-2026-01"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2024.140",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_web.jpg",
+          "width": "642",
+          "height": "900",
+          "filesize": "180572",
+          "filename": "2024.140_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_print.jpg",
+          "width": "2424",
+          "height": "3400",
+          "filesize": "1531192",
+          "filename": "2024.140_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_full.tif",
+          "width": "8073",
+          "height": "11324",
+          "filesize": "274285988",
+          "filename": "2024.140_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt0_web.jpg",
+            "width": "619",
+            "height": "900",
+            "filesize": "161636"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt0_print.jpg",
+            "width": "2337",
+            "height": "3400",
+            "filesize": "1322890"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt0_full.tif",
+            "width": "8022",
+            "height": "11670",
+            "filesize": "280879652"
+          },
+          "date_created": "2024-12-05T14:22:50",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt1_web.jpg",
+            "width": "602",
+            "height": "900",
+            "filesize": "177685"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt1_print.jpg",
+            "width": "2276",
+            "height": "3400",
+            "filesize": "1486313"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt1_full.tif",
+            "width": "7739",
+            "height": "11562",
+            "filesize": "268464852"
+          },
+          "date_created": "2024-12-05T14:53:31",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt2_web.jpg",
+            "width": "583",
+            "height": "900",
+            "filesize": "120436"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt2_print.jpg",
+            "width": "2201",
+            "height": "3400",
+            "filesize": "952844"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt2_full.tif",
+            "width": "7616",
+            "height": "11763",
+            "filesize": "268789432"
+          },
+          "date_created": "2024-12-05T15:13:03",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt3_web.jpg",
+            "width": "574",
+            "height": "900",
+            "filesize": "160011"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt3_print.jpg",
+            "width": "2168",
+            "height": "3400",
+            "filesize": "1345816"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt3_full.tif",
+            "width": "7185",
+            "height": "11268",
+            "filesize": "242911368"
+          },
+          "date_created": "2024-12-05T15:42:20",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt4_web.jpg",
+            "width": "759",
+            "height": "900",
+            "filesize": "212342"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt4_print.jpg",
+            "width": "2868",
+            "height": "3400",
+            "filesize": "1945323"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt4_full.tif",
+            "width": "10652",
+            "height": "12627",
+            "filesize": "403539552"
+          },
+          "date_created": "2024-12-05T15:57:58",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt5_web.jpg",
+            "width": "900",
+            "height": "675",
+            "filesize": "231760"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt5_print.jpg",
+            "width": "3400",
+            "height": "2549",
+            "filesize": "2260414"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt5_full.tif",
+            "width": "14204",
+            "height": "10650",
+            "filesize": "453849316"
+          },
+          "date_created": "2024-12-05T17:04:51",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt6_web.jpg",
+            "width": "618",
+            "height": "900",
+            "filesize": "108038"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt6_print.jpg",
+            "width": "2333",
+            "height": "3400",
+            "filesize": "875688"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt6_full.tif",
+            "width": "7897",
+            "height": "11510",
+            "filesize": "272711260"
+          },
+          "date_created": "2024-12-05T10:33:56",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt7_web.jpg",
+            "width": "617",
+            "height": "900",
+            "filesize": "105420"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt7_print.jpg",
+            "width": "2330",
+            "height": "3400",
+            "filesize": "857972"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt7_full.tif",
+            "width": "8001",
+            "height": "11674",
+            "filesize": "280238800"
+          },
+          "date_created": "2024-12-05T10:42:57",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt8_web.jpg",
+            "width": "628",
+            "height": "900",
+            "filesize": "132774"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt8_print.jpg",
+            "width": "2372",
+            "height": "3400",
+            "filesize": "1110919"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt8_full.tif",
+            "width": "8281",
+            "height": "11872",
+            "filesize": "294964824"
+          },
+          "date_created": "2024-12-05T10:52:35",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt9_web.jpg",
+            "width": "674",
+            "height": "900",
+            "filesize": "166372"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt9_print.jpg",
+            "width": "2548",
+            "height": "3400",
+            "filesize": "1435439"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt9_full.tif",
+            "width": "8626",
+            "height": "11512",
+            "filesize": "297936980"
+          },
+          "date_created": "2024-12-04T16:10:56",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt10_web.jpg",
+            "width": "658",
+            "height": "900",
+            "filesize": "156033"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt10_print.jpg",
+            "width": "2484",
+            "height": "3400",
+            "filesize": "1310285"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt10_full.tif",
+            "width": "8426",
+            "height": "11534",
+            "filesize": "291585704"
+          },
+          "date_created": "2024-12-04T16:27:33",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt11_web.jpg",
+            "width": "660",
+            "height": "900",
+            "filesize": "157071"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt11_print.jpg",
+            "width": "2492",
+            "height": "3400",
+            "filesize": "1325590"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.140/2024.140_alt11_full.tif",
+            "width": "8584",
+            "height": "11712",
+            "filesize": "301636548"
+          },
+          "date_created": "2024-12-04T17:09:57",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Severance and Greta Millikin Purchase Fund",
+      "image_credit": null,
+      "sketchfab_id": "d72f5cf4c8e24daca0de504f342b8cf1",
+      "sketchfab_url": "https://sketchfab.com/models/d72f5cf4c8e24daca0de504f342b8cf1",
+      "gallery_donor_text": null,
+      "athena_id": 678264,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2024-12-09T05:00:00Z",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-07-23 22:03:39.171000"
+    }
+  },
+  {
+    "id": "cleveland-148740",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "148740",
+      "object_url": "https://clevelandart.org/art/1976.180",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Katherine C. White",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1976.180",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A wooden three-pronged comb topped with a carved figure playing a drum, a classic Chokwe decorative art form for female patrons, matching the museum's own description and attribution.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "household",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Comb",
+      "titles_alt": [],
+      "date_text": "c. 1910",
+      "date_earliest": 1905,
+      "date_latest": 1915,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood",
+      "classification": "Tools and Equipment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Several combs demonstrate a diversity of form and treatment. One (1976.180), a vigorously carved work showing a powerful drummer in performance, is an excellent example of Chokwe artistry meant for female patrons.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Central Africa, Democratic Republic of the Congo or Angola, Chokwe, 20th century",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b45c14412190554dfa76835c52a487487836f47abdd9ce860a90a378811f696c",
+        "bytes": 193512,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\cle_148740.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:33.295554+00:00",
+    "raw": {
+      "id": 148740,
+      "accession_number": "1976.180",
+      "share_license_status": "CC0",
+      "tombstone": "Comb, c. 1910. Central Africa, Democratic Republic of the Congo or Angola, Chokwe, 20th century. Wood; overall: 9.5 cm (3 3/4 in.). The Cleveland Museum of Art, Gift of Katherine C. White, 1976.180",
+      "current_location": null,
+      "title": "Comb",
+      "creation_date": "c. 1910",
+      "creation_date_earliest": 1905,
+      "creation_date_latest": 1915,
+      "artists_tags": [],
+      "culture": [
+        "Central Africa, Democratic Republic of the Congo or Angola, Chokwe, 20th century"
+      ],
+      "technique": "Wood",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Tools and Equipment",
+      "measurements": "Overall: 9.5 cm (3 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.095,
+          "height_inch": 3,
+          "height_inch_fraction": 0.75
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 302374,
+            "title": "Year in Review, 1976",
+            "description": "<i>Year in Review, 1976</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 1-March 6, 1977).",
+            "opening_date": "1977-02-01T05:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "CMA 1968: \"African Tribal Images: The Katherine White Reswick Collection,\" cat. no. 244, repr.",
+            "opening_date": "1968-01-01T00:00:00"
+          },
+          {
+            "description": "CMA 1977: \"Year in Review 1976,\" CMA Bulletin LXIV (Feb., 1977), p. 73, no. 17.",
+            "opening_date": "1977-02-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Katherine C. White (Reswick, Merkel), Gates Mills, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 1976",
+          "sortorder": 1
+        },
+        {
+          "description": "Cleveland Museum of Art by gift",
+          "citations": [],
+          "footnotes": null,
+          "date": "1977–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "785.68"
+      ],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Several combs demonstrate a diversity of form and treatment. One (1976.180), a vigorously carved work showing a powerful drummer in performance, is an excellent example of Chokwe artistry meant for female patrons.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79929185"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Fagg, William, and Cleveland Museum of Art. 1968. <em>African Tribal Images; the Katherine White Reswick Collection</em>. Cleveland: Cleveland Museum of Art, no. 244.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1976.180",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_web.jpg",
+          "width": "497",
+          "height": "893",
+          "filesize": "190097",
+          "filename": "1976.180_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_print.jpg",
+          "width": "1959",
+          "height": "3400",
+          "filesize": "2589393",
+          "filename": "1976.180_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_full.tif",
+          "width": "3252",
+          "height": "5643",
+          "filesize": "55064844",
+          "filename": "1976.180_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_alt0_web.jpg",
+            "width": "476",
+            "height": "893",
+            "filesize": "161044"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_alt0_print.jpg",
+            "width": "1812",
+            "height": "3400",
+            "filesize": "2484296"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_alt0_full.tif",
+            "width": "3060",
+            "height": "5742",
+            "filesize": "52742600"
+          },
+          "date_created": "2009-11-02T14:48:59",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_alt1_web.jpg",
+            "width": "477",
+            "height": "893",
+            "filesize": "164958"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_alt1_print.jpg",
+            "width": "1816",
+            "height": "3400",
+            "filesize": "2518655"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1976.180/1976.180_alt1_full.tif",
+            "width": "3108",
+            "height": "5820",
+            "filesize": "54296684"
+          },
+          "date_created": "2009-11-02T14:49:58",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Katherine C. White",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 148740,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1977-02-23T00:00:00",
+      "sortable_date": 1905,
+      "date_added_to_oa": null,
+      "date_text": "c. 1910",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Comb with Drummer"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 07:38:20.414000"
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43579",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43579",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43579?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A classic wooden Pwo mask with woven-cap-style coiffure, arched eyebrows, diamond scarification, and metal earring—a well-known Chokwe mask type used by traveling dancers, matching the described \"Pwo\" mask from Sandoa, Katanga.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703745%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "37d0764553eed78e73b4a96edb68c59a0cc8e013c71535c935a49939a1fe2725",
+        "bytes": 35198,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43579.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:06.320651+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Mask, av trä. Mått: 15 * 22 cm. s.k. \"Pwo\". Mask av den typ som kringresande dansörer har. denna masken har dock varit upphängd i dansörernas \"lupangu\"= viste, hemort; Masken har saknat peruk, \nmen använts med en virkad eller knuten trikå av svarta och vita tvinnade snören av jute eller annan fiber. Symbol. kvinnan. \nLitt. Marie-Louise Bastin: Art Decoratif Tshokwe, II, pp. 380 ss. fig. 250. 250-264.",
+        "Sandoa, Södra Katanga, Rep. Congo-Kinhasa",
+        "Sandoa, Södra Katanga, Rep. Congo-Kins-\nhasa. [[Haga]]",
+        "Sandoa, Södra Katanga, Rep. Congo-Kinhasa",
+        "Sprickor i träet. Tidigare lagning, limning. Maskens vänstra öra saknas. I övrigt god kondition. [[från utställning]]",
+        "Mask, av trä. s.k. \"Pwo\". Mask av den typ som kringresande dansörer har. denna masken har dock varit upphängd i dansörernas \"lupangu\"= viste, hemort; Masken har saknat peruk, men använts med en virkad eller knuten trikå av svarta och vita tvinnade snören av jute eller annan fiber. Symbol. kvinnan. Litt. Marie-Louise Bastin: Art Decoratif Tshokwe, II, pp. 380 ss. fig. 250. 250-264.\nBredd: 17cm, Tjocklek: 7 cm, Höjd: 24 cm.  \nUrsprung: Sandoa, Södra Katanga, Rep. Congo-Kinhasa\nEtnisk grupp: tschokwe (chokwe)\n\nWooden mask, so-called \"Pwo\". This type of mask is used by travelling dancers. This mask has however been hanging in the \"lupangu\"=home of the dancers. The mask has been missing a wig, but has been used with a crocheted or knotted tricot made of black and white twinned strings of jute or another fibre. Symbol. The woman. Lit: Marie-Louise Bastin: Art Decoratif Tshokwe, II, pp. 380 ss. fig. 250. 250-264. \nWidth: 17 cm, Thickness: 7 cm, Height: 24 cm.\nOrigin: Sandoa, South Katanga,  Rep of Congo-Kinshasa.\nEthnic group: tschokwe (chokwe) (utställningstext Horisonter - röster från ett globalt Afrika)",
+        "Horisonter - röster från ett globalt Afrika",
+        "1969.40.0004",
+        "Josef Lagergren, Gbg",
+        "skiss",
+        "tschokwe (chokwe)",
+        "Kongostaten",
+        "Kongofristaten",
+        "Demokratiska republiken Kongo",
+        "Zaire",
+        "Belgiska Kongo",
+        "CONGO 1, masks and figurines",
+        "Horisonter - Kongo",
+        "Democratic Republic of the Congo",
+        "Badjok",
+        "Kibokwe",
+        "Ciokwe",
+        "Batshioko",
+        "Cokwe",
+        "Kioko",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Mask, av trä. Mått: 15 * 22 cm. s.k. \"Pwo\". Mask av den typ som kringresande dansörer har. denna masken har dock varit upphängd i dansörernas \"lupangu\"= viste, hemort; Masken har saknat peruk, \nmen använts med en virkad eller knuten trikå av svarta och vita tvinnade snören av jute eller annan fiber. Symbol. kvinnan. \nLitt. Marie-Louise Bastin: Art Decoratif Tshokwe, II, pp. 380 ss. fig. 250. 250-264.",
+          "Sandoa, Södra Katanga, Rep. Congo-Kinhasa",
+          "Sandoa, Södra Katanga, Rep. Congo-Kins-\nhasa. [[Haga]]",
+          "Sandoa, Södra Katanga, Rep. Congo-Kinhasa",
+          "Sprickor i träet. Tidigare lagning, limning. Maskens vänstra öra saknas. I övrigt god kondition. [[från utställning]]",
+          "Mask, av trä. s.k. \"Pwo\". Mask av den typ som kringresande dansörer har. denna masken har dock varit upphängd i dansörernas \"lupangu\"= viste, hemort; Masken har saknat peruk, men använts med en virkad eller knuten trikå av svarta och vita tvinnade snören av jute eller annan fiber. Symbol. kvinnan. Litt. Marie-Louise Bastin: Art Decoratif Tshokwe, II, pp. 380 ss. fig. 250. 250-264.\nBredd: 17cm, Tjocklek: 7 cm, Höjd: 24 cm.  \nUrsprung: Sandoa, Södra Katanga, Rep. Congo-Kinhasa\nEtnisk grupp: tschokwe (chokwe)\n\nWooden mask, so-called \"Pwo\". This type of mask is used by travelling dancers. This mask has however been hanging in the \"lupangu\"=home of the dancers. The mask has been missing a wig, but has been used with a crocheted or knotted tricot made of black and white twinned strings of jute or another fibre. Symbol. The woman. Lit: Marie-Louise Bastin: Art Decoratif Tshokwe, II, pp. 380 ss. fig. 250. 250-264. \nWidth: 17 cm, Thickness: 7 cm, Height: 24 cm.\nOrigin: Sandoa, South Katanga,  Rep of Congo-Kinshasa.\nEthnic group: tschokwe (chokwe) (utställningstext Horisonter - röster från ett globalt Afrika)",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1969.40.0004",
+          "Josef Lagergren, Gbg",
+          "skiss",
+          "tschokwe (chokwe)",
+          "Kongostaten",
+          "Kongofristaten",
+          "Demokratiska republiken Kongo",
+          "Zaire",
+          "Belgiska Kongo",
+          "CONGO 1, masks and figurines",
+          "Horisonter - Kongo",
+          "Democratic Republic of the Congo",
+          "Badjok",
+          "Kibokwe",
+          "Ciokwe",
+          "Batshioko",
+          "Cokwe",
+          "Kioko",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "mask"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2448",
+        "http://data.europeana.eu/concept/1816"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Древесина"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Puuaines"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madeira"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Дървесина"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Mediena"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drvo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Koksne"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "Bois"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "fa"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drevo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Les"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Adhmad"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Fusta"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "Trä"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Wood"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "Legno"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madera"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Puit"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Dřevo"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Zur"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drewno"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Træ"
+        },
+        {
+          "def": "Mască"
+        },
+        {
+          "def": "Lemn"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "Hout"
+        },
+        {
+          "def": "Ξύλο"
+        },
+        {
+          "def": "Injam"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Maske",
+          "Holz"
+        ],
+        "ru": [
+          "Древесина",
+          "Маска"
+        ],
+        "fi": [
+          "Puuaines",
+          "Naamari"
+        ],
+        "pt": [
+          "Madeira",
+          "Máscara"
+        ],
+        "bg": [
+          "Маска",
+          "Дървесина"
+        ],
+        "lt": [
+          "Mediena",
+          "Kaukė"
+        ],
+        "hr": [
+          "Drvo",
+          "Maska"
+        ],
+        "lv": [
+          "Koksne",
+          "Maska"
+        ],
+        "fr": [
+          "Masque",
+          "Bois"
+        ],
+        "hu": [
+          "Álarc",
+          "fa"
+        ],
+        "sk": [
+          "Drevo",
+          "Maska"
+        ],
+        "sl": [
+          "Les",
+          "Maska"
+        ],
+        "ga": [
+          "Masc",
+          "Adhmad"
+        ],
+        "ca": [
+          "Fusta",
+          "Màscara"
+        ],
+        "sv": [
+          "Trä",
+          "Ansiktsmask"
+        ],
+        "el": [
+          "Ξύλο"
+        ],
+        "mt": [
+          "Injam"
+        ],
+        "en": [
+          "Wood",
+          "Mask"
+        ],
+        "it": [
+          "Legno",
+          "Maschera"
+        ],
+        "es": [
+          "Máscara",
+          "Madera"
+        ],
+        "et": [
+          "Puit",
+          "Mask"
+        ],
+        "cs": [
+          "Dřevo",
+          "Maska"
+        ],
+        "eu": [
+          "Zur",
+          "Maskara"
+        ],
+        "pl": [
+          "Drewno",
+          "Maska"
+        ],
+        "da": [
+          "Maske",
+          "Træ"
+        ],
+        "ro": [
+          "Mască",
+          "Lemn"
+        ],
+        "nl": [
+          "Hout",
+          "Masker"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43579"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703745/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "DR Kongo"
+        },
+        {
+          "def": "Dem. Rep. Kongo"
+        },
+        {
+          "def": "Kongo-Léopoldville"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Kongo (Kinshasa)"
+        },
+        {
+          "def": "DRK"
+        },
+        {
+          "def": "Kongo, Demokratische Republik"
+        },
+        {
+          "def": "ДРК"
+        },
+        {
+          "def": "Конго"
+        },
+        {
+          "def": "ДР Конго"
+        },
+        {
+          "def": "Конго-Киншаса"
+        },
+        {
+          "def": "Конго-Леопольдвиль"
+        },
+        {
+          "def": "Заир"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Kinshasan Kongo"
+        },
+        {
+          "def": "Demokratiska republiken Kongo"
+        },
+        {
+          "def": "DRK"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Zaire"
+        },
+        {
+          "def": "DR Kongo"
+        },
+        {
+          "def": "Congo-Quinxassa"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        },
+        {
+          "def": "Congo, R.D."
+        },
+        {
+          "def": "RD Congo"
+        },
+        {
+          "def": "RDC"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Ζαΐρ"
+        },
+        {
+          "def": "Κονγκό-Κινσάσα"
+        },
+        {
+          "def": "Λαοκρατικό Κονγκό"
+        },
+        {
+          "def": "ΛΔ Κονγκό"
+        },
+        {
+          "def": "ΛΔΚ"
+        },
+        {
+          "def": "Λαοκρατική Δημοκρατία του Κογκό"
+        },
+        {
+          "def": "Κογκό-Κινσάσα"
+        },
+        {
+          "def": "Λαοκρατικό Κογκό"
+        },
+        {
+          "def": "ΛΔ Κογκό"
+        },
+        {
+          "def": "DRC"
+        },
+        {
+          "def": "DR Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        },
+        {
+          "def": "Zaire"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Democratic Republic of Congo"
+        },
+        {
+          "def": "Cd"
+        },
+        {
+          "def": "Dem. Republic of the Congo"
+        },
+        {
+          "def": "Dem. Republic of Congo"
+        },
+        {
+          "def": "Dem. Rep. Congo"
+        },
+        {
+          "def": "Congo (Kinshasa)"
+        },
+        {
+          "def": "COD"
+        },
+        {
+          "def": "D.R.C."
+        },
+        {
+          "def": "Kongo DR"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Congo belga"
+        },
+        {
+          "def": "RDC"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        },
+        {
+          "def": "RDC"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "RD Congo"
+        },
+        {
+          "def": "CD"
+        },
+        {
+          "def": "Zaïre"
+        },
+        {
+          "def": "République Démocratique du Congo"
+        },
+        {
+          "def": "Kongói Szabad Állam"
+        },
+        {
+          "def": "Belga Kongó"
+        },
+        {
+          "def": "Kongó-Léopoldville"
+        },
+        {
+          "def": "Kongó-Kinshasa"
+        },
+        {
+          "def": "Zaire"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Zaire"
+        },
+        {
+          "def": "Congo Kinshasa"
+        },
+        {
+          "def": "Republica Democratica del Congo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Democratische Republiek Congo"
+        },
+        {
+          "def": "DR Congo"
+        },
+        {
+          "def": "DRC"
+        },
+        {
+          "def": "CD"
+        },
+        {
+          "def": "COD"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "DR Kongo",
+          "Dem. Rep. Kongo",
+          "Kongo-Léopoldville",
+          "Kongo-Kinshasa",
+          "Kongo",
+          "Kongo (Kinshasa)",
+          "DRK",
+          "Kongo, Demokratische Republik"
+        ],
+        "ru": [
+          "ДРК",
+          "Конго",
+          "ДР Конго",
+          "Конго-Киншаса",
+          "Конго-Леопольдвиль",
+          "Заир"
+        ],
+        "fi": [
+          "Kongo-Kinshasa",
+          "Kinshasan Kongo"
+        ],
+        "sv": [
+          "Demokratiska republiken Kongo",
+          "DRK",
+          "Kongo",
+          "Zaire",
+          "DR Kongo"
+        ],
+        "pt": [
+          "Congo-Quinxassa",
+          "Congo-Kinshasa",
+          "Congo, R.D.",
+          "RD Congo",
+          "RDC",
+          "Congo"
+        ],
+        "el": [
+          "Ζαΐρ",
+          "Κονγκό-Κινσάσα",
+          "Λαοκρατικό Κονγκό",
+          "ΛΔ Κονγκό",
+          "ΛΔΚ",
+          "Λαοκρατική Δημοκρατία του Κογκό",
+          "Κογκό-Κινσάσα",
+          "Λαοκρατικό Κογκό",
+          "ΛΔ Κογκό"
+        ],
+        "en": [
+          "DRC",
+          "DR Congo",
+          "Congo-Kinshasa",
+          "Zaire",
+          "Congo",
+          "Democratic Republic of Congo",
+          "Cd",
+          "Dem. Republic of the Congo",
+          "Dem. Republic of Congo",
+          "Dem. Rep. Congo",
+          "Congo (Kinshasa)",
+          "COD",
+          "D.R.C."
+        ],
+        "lv": [
+          "Kongo DR"
+        ],
+        "it": [
+          "Congo-Kinshasa",
+          "Congo",
+          "Congo belga",
+          "RDC"
+        ],
+        "fr": [
+          "Congo-Kinshasa",
+          "RDC",
+          "Congo",
+          "RD Congo",
+          "CD",
+          "Zaïre",
+          "République Démocratique du Congo"
+        ],
+        "hu": [
+          "Kongói Szabad Állam",
+          "Belga Kongó",
+          "Kongó-Léopoldville",
+          "Kongó-Kinshasa",
+          "Zaire"
+        ],
+        "es": [
+          "Congo",
+          "Zaire",
+          "Congo Kinshasa",
+          "Republica Democratica del Congo"
+        ],
+        "cs": [
+          "Demokratická republika Kongo",
+          "Kongo-Kinshasa"
+        ],
+        "sk": [
+          "Kongo-Kinshasa"
+        ],
+        "nl": [
+          "Democratische Republiek Congo",
+          "DR Congo",
+          "DRC",
+          "CD",
+          "COD"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Demokratična republika Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democrată Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Demokratische Republik Kongo"
+        ],
+        "fi": [
+          "Kongon demokraattinen tasavalta"
+        ],
+        "ru": [
+          "Демократическая Республика Конго"
+        ],
+        "pt": [
+          "República Democrática do Congo"
+        ],
+        "bg": [
+          "Демократична република Конго"
+        ],
+        "lt": [
+          "Kongo Demokratinė Respublika"
+        ],
+        "hr": [
+          "Demokratska Republika Kongo"
+        ],
+        "lv": [
+          "Kongo Demokrātiskā Republika"
+        ],
+        "fr": [
+          "République démocratique du Congo"
+        ],
+        "hu": [
+          "Kongói Demokratikus Köztársaság"
+        ],
+        "sk": [
+          "Konžská demokratická republika"
+        ],
+        "sl": [
+          "Demokratična republika Kongo"
+        ],
+        "ga": [
+          "Poblacht Dhaonlathach an Chongó"
+        ],
+        "ca": [
+          "República Democràtica del Congo"
+        ],
+        "sv": [
+          "Kongo-Kinshasa"
+        ],
+        "el": [
+          "Λαϊκή Δημοκρατία του Κονγκό"
+        ],
+        "mt": [
+          "Repubblika Demokratika tal-Kongo"
+        ],
+        "en": [
+          "Democratic Republic of the Congo"
+        ],
+        "it": [
+          "Repubblica Democratica del Congo"
+        ],
+        "es": [
+          "República Democrática del Congo"
+        ],
+        "et": [
+          "Kongo Demokraatlik Vabariik"
+        ],
+        "cs": [
+          "Konžská demokratická republika"
+        ],
+        "eu": [
+          "Kongoko Errepublika Demokratikoa"
+        ],
+        "pl": [
+          "Demokratyczna Republika Konga"
+        ],
+        "da": [
+          "Demokratiske Republik Congo"
+        ],
+        "ro": [
+          "Republica Democrată Congo"
+        ],
+        "nl": [
+          "Congo-Kinshasa"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.88"
+      ],
+      "edmPlaceLongitude": [
+        "23.65611"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703745%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43579?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43579",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43579.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 21.351448,
+      "timestamp": 1752047582758,
+      "timestamp_created": "2014-10-01T16:21:23.232Z",
+      "timestamp_created_epoch": 1412180483232,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "mask"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43399",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43399",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43399?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A small carved wooden amulet in the form of a hunting dog, collected in Angola on the Bolinder expedition — plausible material culture for the Chokwe (Angola/DRC border region), consistent with a hunting charm.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "skulptur, Jaktamulett, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2537317%2F1949.23.0098.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "37f8e2af046d493b89be20aa67b1e911416003f4d80c205d459b6882f6dc6456",
+        "bytes": 11567,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43399.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:06.903974+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Skulptur, liten, framställande jakthund, jaktamulett. Längd 4,5 cm",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0098",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "Chokwe",
+        "Angola",
+        "Kioko",
+        "Batshioko",
+        "Cokwe",
+        "Kibokwe",
+        "Ciokwe",
+        "Badjok",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Skulptur, liten, framställande jakthund, jaktamulett. Längd 4,5 cm",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0098",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "Chokwe",
+          "Angola",
+          "Kioko",
+          "Batshioko",
+          "Cokwe",
+          "Kibokwe",
+          "Ciokwe",
+          "Badjok",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "skulptur, Jaktamulett, sculpture"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Sculptură"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "ru": [
+          "Скульптура"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo"
+        ],
+        "ga": [
+          "Dealbhóireacht"
+        ],
+        "ca": [
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri"
+        ],
+        "el": [
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture"
+        ],
+        "it": [
+          "Scultura"
+        ],
+        "es": [
+          "Escultura"
+        ],
+        "et": [
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43399"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2537317/1949.23.0098.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2537317%2F1949.23.0098.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43399?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43399",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43399.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 33.798885,
+      "timestamp": 1752047567745,
+      "timestamp_created": "2018-05-08T08:00:56.850Z",
+      "timestamp_created_epoch": 1525766456850,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "skulptur, Jaktamulett, sculpture"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43401",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43401",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43401?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Small carved wooden human figurine (4.5 cm) used as a divination object in a diviner's basket, collected in Angola during the Bolinders expedition — consistent with Chokwe divination practice and material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "figur, Träfigur, sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2537337%2F1949.23.0099.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "286596c0f328209933a113a0f295d100089667e7d2c74936637b0fcfc4e731e9",
+        "bytes": 7222,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\sculpture\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43401.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:06.931069+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Träfigur, liten, något utarbetad, sliten, ingår i spåmäns \"spådomskorg\".\nLängd 4,5 cm.",
+        "Ingår i spåmäns \"spådomskorg\".",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0099",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "Chokwe",
+        "Angola",
+        "Kioko",
+        "Ciokwe",
+        "Batshioko",
+        "Kibokwe",
+        "Badjok",
+        "Cokwe",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Träfigur, liten, något utarbetad, sliten, ingår i spåmäns \"spådomskorg\".\nLängd 4,5 cm.",
+          "Ingår i spåmäns \"spådomskorg\".",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0099",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "Chokwe",
+          "Angola",
+          "Kioko",
+          "Ciokwe",
+          "Batshioko",
+          "Kibokwe",
+          "Badjok",
+          "Cokwe",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "figur, Träfigur, sculpture, figurine"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51",
+        "http://data.europeana.eu/concept/1816"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Trä"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Древесина"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Ξύλο"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Wood"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Legno"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Bois"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Madera"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Puit"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Dřevo"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Les"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Adhmad"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Drewno"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Træ"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Hout"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Fusta"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Puuaines"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Madeira"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Дървесина"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Mediena"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Drvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Koksne"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "fa"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Drevo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Injam"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Zur"
+        },
+        {
+          "def": "Sculptură"
+        },
+        {
+          "def": "Lemn"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Holz",
+          "Figur"
+        ],
+        "ru": [
+          "Древесина",
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Puuaines",
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Madeira",
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура",
+          "Дървесина"
+        ],
+        "lt": [
+          "Mediena",
+          "Skulptūra"
+        ],
+        "hr": [
+          "Drvo",
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība",
+          "Koksne"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture",
+          "Bois"
+        ],
+        "hu": [
+          "Szobrászat",
+          "fa"
+        ],
+        "sk": [
+          "Drevo",
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura",
+          "Les"
+        ],
+        "ga": [
+          "Adhmad",
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Fusta",
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Trä",
+          "Figur"
+        ],
+        "el": [
+          "Ξύλο",
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura",
+          "Injam"
+        ],
+        "en": [
+          "Wood",
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Legno",
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura",
+          "Madera"
+        ],
+        "et": [
+          "Figuur",
+          "Puit",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Dřevo",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza",
+          "Zur"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo",
+          "Drewno"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Træ",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură",
+          "Lemn"
+        ],
+        "nl": [
+          "Hout",
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43401"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2537337/1949.23.0099.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2537337%2F1949.23.0099.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43401?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43401",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43401.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.71378,
+      "timestamp": 1752047568103,
+      "timestamp_created": "2018-05-08T08:00:56.890Z",
+      "timestamp_created_epoch": 1525766456890,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "figur, Träfigur, sculpture, figurine"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

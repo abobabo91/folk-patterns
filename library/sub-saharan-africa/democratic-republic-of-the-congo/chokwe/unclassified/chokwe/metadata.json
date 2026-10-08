@@ -1,0 +1,2019 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43356",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43356",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43356?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The object is a compressed tobacco plug (tobak) shaped from a mortar, collected by Bolinder in Angola during his 1948-49 expedition; this is a plausible everyday-use item from the Chokwe/Angola region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "tobak",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2804589%2F1949.23.0078_1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a872344d9a43cb7dd850854c585d12e48d2f1fa5e85e0d0fc736468228f7b696",
+        "bytes": 77998,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43356.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:06.853520+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Tobak sådan den kommer ur morteln och förvaras. Längd 6 cm.",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0078",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "Chokwe",
+        "Angola",
+        "Kioko",
+        "Ciokwe",
+        "Cokwe",
+        "Batshioko",
+        "Kibokwe",
+        "Badjok",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Tobak sådan den kommer ur morteln och förvaras. Längd 6 cm.",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0078",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "Chokwe",
+          "Angola",
+          "Kioko",
+          "Ciokwe",
+          "Cokwe",
+          "Batshioko",
+          "Kibokwe",
+          "Badjok",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "tobak"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43356"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2804589/1949.23.0078_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2804589%2F1949.23.0078_1.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43356?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43356",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43356.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 33.6846,
+      "timestamp": 1752047564552,
+      "timestamp_created": "2022-02-21T11:07:27.703Z",
+      "timestamp_created_epoch": 1645441647703,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "tobak"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43381",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43381",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43381?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Leg rattles made from small gourds/shells strung on sticks with leather straps, collected in Angola during the Bolinder expedition — a plausible Chokwe-region dance/ritual accessory used as anklet rattles.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "skallra",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185277%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "111b5ea54f5cf5eb58e3522c73c3f41d7d6fb0c44713eb49bbe55506cf5d5c2d",
+        "bytes": 17981,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43381.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:06.880928+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Skallra att bindas vid benen, kalebasser uppträdda på pinnar: 4 och 4, hophållna med pinnar och läderremsor. Längd ungef. 10 cm",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0086a-b",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "Chokwe",
+        "Angola",
+        "Kioko",
+        "Ciokwe",
+        "Badjok",
+        "Kibokwe",
+        "Cokwe",
+        "Batshioko",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Skallra att bindas vid benen, kalebasser uppträdda på pinnar: 4 och 4, hophållna med pinnar och läderremsor. Längd ungef. 10 cm",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0086a-b",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "Chokwe",
+          "Angola",
+          "Kioko",
+          "Ciokwe",
+          "Badjok",
+          "Kibokwe",
+          "Cokwe",
+          "Batshioko",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "skallra"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43381"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1185277/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185277%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43381?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43381",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43381.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 33.556984,
+      "timestamp": 1752047566333,
+      "timestamp_created": "2014-10-01T16:21:01.933Z",
+      "timestamp_created_epoch": 1412180461933,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "skallra"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_42568",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_42568",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_42568?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a simple handmade snare trap made of bent twigs/reed, collected in Angola by the Bolinder expedition and described as a small-animal snare used by a boy — a plausible traditional tool from the Chokwe homeland region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "snara",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185029%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "346e136b546a0875390233286d7434144941646b958acdaee1cef9cea7eea9b6",
+        "bytes": 12282,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42568.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:07.003709+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Snara för smådjur, använd av gosse.",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0002",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "(Chokwe) Batshioko",
+        "Angola",
+        "Badjok",
+        "Kibokwe",
+        "Ciokwe",
+        "Cokwe",
+        "Batshioko",
+        "Kioko",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Snara för smådjur, använd av gosse.",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0002",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "(Chokwe) Batshioko",
+          "Angola",
+          "Badjok",
+          "Kibokwe",
+          "Ciokwe",
+          "Cokwe",
+          "Batshioko",
+          "Kioko",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "snara"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/42568"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1185029/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185029%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_42568?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_42568",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_42568.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 34.13507,
+      "timestamp": 1752047585764,
+      "timestamp_created": "2014-10-01T16:20:54.784Z",
+      "timestamp_created_epoch": 1412180454784,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "snara"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_42571",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_42571",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_42571?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A woven wicker chicken coop/basket collected in Angola during the Bolinder expedition, plausible household object from the region where Chokwe live; basketry of this type is common Central African material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "Hönsbur, bur",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185033%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "31aa5c96586570c0c29bf0455deccc849e6a6155cd26f524f34cd4dd6f82ddbe",
+        "bytes": 26878,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\unclassified\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42571.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:07.030311+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Hönsbur flätad, utan dörr. Höjd 28 cm",
+        "För höns.",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0005",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "(Chokwe) Batshioko",
+        "Angola",
+        "Badjok",
+        "Kibokwe",
+        "Batshioko",
+        "Cokwe",
+        "Ciokwe",
+        "Kioko",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Hönsbur flätad, utan dörr. Höjd 28 cm",
+          "För höns.",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0005",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "(Chokwe) Batshioko",
+          "Angola",
+          "Badjok",
+          "Kibokwe",
+          "Batshioko",
+          "Cokwe",
+          "Ciokwe",
+          "Kioko",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "Hönsbur, bur"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/42571"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1185033/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1185033%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_42571?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_42571",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_42571.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 34.245987,
+      "timestamp": 1752047585947,
+      "timestamp_created": "2014-10-01T16:20:54.803Z",
+      "timestamp_created_epoch": 1412180454803,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Hönsbur, bur"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

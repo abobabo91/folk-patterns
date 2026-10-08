@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252558",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252558",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252558?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a twisted and hammered iron \"kissy-penny,\" a traditional currency bar made and used by the Kissi people of Sierra Leone/Guinea, matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kissi-penny, mynt, betalningsmedel, means of payment, kissy-penny",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3253695/1931.13.0267.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "41e753ad438961cf6dea448b1357f875e31d0b1828214308af09de1a1ac935d4",
+        "bytes": 27277,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252558.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253695%2F1931.13.0267.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:25.028633+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252558",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252558?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kissi-penny, mynt, betalningsmedel, means of payment, kissy-penny",
+        "kissi-penny, mynt, betalningsmedel, means of payment, kissy-penny"
+      ],
+      "dcDescription": [
+        "1931.13.0267 Sierra Leone Enligt generalkatalogen: Betalningsmedel. S.k. kissy-penny. Av vridet och hamrrat järn. Värde 30 st.=1 engelsk shilling. Dessa mynt ha vunnit popularitet även hos mendi, och på sistone börjat undandtränga engelska kolonialmynt kring Kaiilahun, då de negrerna anse dem mer praktiska. Användas också som råmaterial för smide. Kissi Sierra Leone Västafrika. [ocr] Bolinders expedition till Västafrika (1930-1931) Sierra Leone According to the General Catalogue: Means of payment. So-called kissy-penny. Of twisted and hammered iron. Value 30 pcs.= 1 English Shilling. These coi"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253695%2F1931.13.0267.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3253695/1931.13.0267.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252665",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252665",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252665?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A brass-bladed ceremonial axe with a wooden shaft decorated with white metal strips, collected in Sierra Leone and documented as a dignity symbol carried by elder men of the Kissi — a clear example of Kissi metalwork/regalia.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "värdighetstecken, yxa, sign of dignity [earlier], axe",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3251312/1931.13.0262.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "903da9f916d64fbd10ad9d42132b8f7f2188674ea849fd963b88d3c8e0b4655a",
+        "bytes": 71806,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252665.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3251312%2F1931.13.0262.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:25.633652+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252665",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252665?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "värdighetstecken, yxa, sign of dignity [earlier], axe",
+        "signs of dignity, axe, sign of vär, axe"
+      ],
+      "dcDescription": [
+        "1931.13.0262 Sierra Leone Enligt generalkatalogen: Yxa. Av mässing med rödbrunt träskaft besatt med remsor av vit metall. Bars förr som värdighetstecken av äldre män. Yxa. Av mässing med rödbrunt träskaft besatt med remsor.av vit metall. Skaftet:33 cm. lång. Bladet: 20 cm. lång. 'Bars förr som värdighetstecken av äldre män. Kissi [ocr] Sierra Leone Västafrika [ocr] Bolinders expedition till Västafrika (1930-1931) Sierra Leone According to the General Catalogue: ax. Of brass with a reddish-brown wooden shaft littered with strips of white metal. Bars before as signs of dignity by older men. Sier"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3251312%2F1931.13.0262.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3251312/1931.13.0262.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_55561",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_55561",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_55561?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A double-bladed steel sacrificial knife (offerkniv) with two wooden handles, collected in the Kissi village of Komgbama in Liberia — a documented type of object used by the Kissi people. The form, material and findspot all support the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kniv, Offerkniv, knife",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1194457/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "413f4cc66231f97843ded42426bffd85e9c1b7f716e3fe670fb4b4c3e9a5cfce",
+        "bytes": 41574,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91608_SMVK_VKM_objekt_55561.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1194457%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:26.251382+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_55561",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_55561?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kniv, Offerkniv, knife"
+      ],
+      "dcDescription": [
+        "1963.13.0004 offerkniv Liberia: byn Komgbama. Byn Komgbama, Liberia. [[Haga]] Komgbama (by) skiss Kissi. Liberia Gissi Gizi Gisi Kalen Kisi Assi Bakoa Kisia Kizi Kissi People Kisie Kisii Den Gihi Kisiye Offerkniv. Kniv av stål. Eggen på den konkava långsidan. Två fästen eller handtag av trä. Dessa är profilerade. Knivens längd: 32,5 cm.\n\nGåva Lars Johnsson, Hälsingborg. Årsberättelse 1963, Årstryck 1963-66, Etnografiska museet, Göteborg"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1194457%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1194457/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Либерия"
+        },
+        {
+          "def": "Libéria"
+        },
+        {
+          "def": "Либерия"
+        },
+        {
+          "def": "Liberija"
+        },
+        {
+          "def": "Libērija"
+        },
+        {
+          "def": "Liberija"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Libéria"
+        },
+        {
+          "def": "Libéria"
+        },
+        {
+          "def": "Liberija"
+        },
+        {
+          "def": "An Libéir"
+        },
+        {
+          "def": "Libèria"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberja"
+        },
+        {
+          "def": "Λιβερία"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Libeeria"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Libérie"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberia"
+        },
+        {
+          "def": "Liberia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252559",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252559",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252559?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a classic twisted-iron \"kissy penny,\" the traditional currency bar associated with the Kissi people of Sierra Leone/Guinea, used as both payment and raw material for smithing — a clear match to the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kissi-penny, betalningsmedel, mynt, means of payment, kissy-penny",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3253700/1931.13.0268.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9974e3d08a7a1d7d95f8c9688be14f142916541fc0a0dc8f3a6a007670f292b9",
+        "bytes": 25667,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252559.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253700%2F1931.13.0268.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:26.746902+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252559",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252559?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kissi-penny, betalningsmedel, mynt, means of payment, kissy-penny",
+        "kissi-penny, betalningsmedel, mynt, means of payment, kissy-penny"
+      ],
+      "dcDescription": [
+        "Kissi [ocr] 1931.13.0268 Sierra Leone Enligt generalkatalogen: Betalningsmedel. S.k. kissy-penny. Av vridet och hamrrat järn. Värde 30 st.=1 engelsk shilling. Dessa mynt ha vunnit popularitet även hos mendi, och på sistone börjat undandtränga engelska kolonialmynt kring Kaiilahun, då de negrerna anse dem mer praktiska. Användas också som råmaterial för smide. Sierra Leone Västafrika [ocr] Bolinders expedition till Västafrika (1930-1931) Sierra Leone According to the General Catalogue: Means of payment. So-called kissy-penny. Of twisted and hammered iron. Value 30 pcs.= 1 English Shilling. Thes"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253700%2F1931.13.0268.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3253700/1931.13.0268.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252564",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252564",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252564?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a twisted hammered-iron kissi-penny, a traditional currency object made and used by the Kissi people of Sierra Leone/Guinea, matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "mynt, kissi-penny, betalningsmedel, means of payment, kissy-penny",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3253750/1931.13.0273.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f88cc65727b05bcb5dc6d03d40663c05bc01de947da175b0ab1e0abda459171a",
+        "bytes": 25239,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252564.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253750%2F1931.13.0273.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:27.228276+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252564",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252564?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "mynt, kissi-penny, betalningsmedel, means of payment, kissy-penny",
+        "mynt, kissi-penny, betalningsmedel, means of payment, kissy-penny"
+      ],
+      "dcDescription": [
+        "Sierra Leone Kissi Sierra Leone West Africa [ocr] According to the General Catalogue: Means of payment. So-called kissy-penny. Of twisted and hammered iron. Value 30 pcs.= 1 English Shilling. These coins have gained popularity even at mendi, and lately started to avoid English colonial coins around Kaiilahun, when the Negroes consider them more practical. Also used as raw material for forging. Bolinder’s expedition to West Africa 1931.13.0273 Sierra Leone Kissi Sierra Leone Västafrika [ocr] Enligt generalkatalogen: Betalningsmedel. S.k. kissy-penny. Av vridet och hamrrat järn. Värde 30 st.=1 e"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253750%2F1931.13.0273.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3253750/1931.13.0273.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252566",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252566",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252566?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a classic Kissi penny — twisted hammered iron rod currency made and used in Kissi country (Sierra Leone/Guinea border region), matching the claimed ethnicity and metalwork category exactly.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "betalningsmedel, mynt, kissi-penny, means of payment, kissy-penny",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3253770/1931.13.0275.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3ea67bb49315a7ba4cca1f46c06b5a693139a5b9581d54ae8d5f9deef1186a89",
+        "bytes": 27511,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252566.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253770%2F1931.13.0275.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:27.810279+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252566",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252566?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "betalningsmedel, mynt, kissi-penny, means of payment, kissy-penny",
+        "betalningsmedel, mynt, kissi-penny, means of payment, kissy-penny"
+      ],
+      "dcDescription": [
+        "Kissi [ocr] 1931.13.0275 Sierra Leone Enligt generalkatalogen: Betalningsmedel. S.k. kissy-penny. Av vridet och hamrrat järn. Värde 30 st.=1 engelsk shilling. Dessa mynt ha vunnit popularitet även hos mendi, och på sistone börjat undandtränga engelska kolonialmynt kring Kaiilahun, då de negrerna anse dem mer praktiska. Användas också som råmaterial för smide. Sierra Leone Västafrika [ocr] Bolinders expedition till Västafrika (1930-1931) Sierra Leone According to the General Catalogue: Means of payment. So-called kissy-penny. Of twisted and hammered iron. Value 30 pcs.= 1 English Shilling. Thes"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253770%2F1931.13.0275.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3253770/1931.13.0275.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252567",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252567",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252567?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a twisted and hammered iron kissy-penny, a currency bar historically made and used in Sierra Leone/Guinea including by Kissi people, matching the metadata exactly.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "betalningsmedel, mynt, kissi-penny, means of payment, kissy-penny",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3253780/1931.13.0276.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9b1fba2a5446bbd82c4c5f259f21fa3c128bb84ab26b9c1215192bf176948977",
+        "bytes": 25730,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252567.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253780%2F1931.13.0276.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:28.302135+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252567",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252567?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "betalningsmedel, mynt, kissi-penny, means of payment, kissy-penny",
+        "betalningsmedel, mynt, kissi-penny, means of payment, kissy-penny"
+      ],
+      "dcDescription": [
+        "Kissi [ocr] 1931.13.0276 Sierra Leone Enligt generalkatalogen: Betalningsmedel. S.k. kissy-penny. Av vridet och hamrrat järn. Värde 30 st.=1 engelsk shilling. Dessa mynt ha vunnit popularitet även hos mendi, och på sistone börjat undandtränga engelska kolonialmynt kring Kaiilahun, då de negrerna anse dem mer praktiska. Användas också som råmaterial för smide. Sierra Leone Västafrika [ocr] Bolinders expedition till Västafrika (1930-1931) Sierra Leone According to the General Catalogue: Means of payment. So-called kissy-penny. Of twisted and hammered iron. Value 30 pcs.= 1 English Shilling. Thes"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253780%2F1931.13.0276.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3253780/1931.13.0276.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1252568",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1252568",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252568?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Kissi",
+      "tradition": "Kissi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a twisted iron kissy-penny, a traditional currency form used by the Kissi people (and neighboring groups) in Sierra Leone/Guinea, directly matching the claimed ethnicity and metalwork category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "kissi-penny, betalningsmedel, mynt, means of payment, kissy-penny",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3253790/1931.13.0277.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "78934cf0a1ae4f16eff9fe66e95ce618eb4d0c71c1ec7aaa806d2f3dfe1ad2be",
+        "bytes": 22427,
+        "local_path": "library\\sub-saharan-africa\\guinea\\kissi\\metalwork\\kissi\\images\\eu_91619_SMVK_EM_objekt_1252568.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253790%2F1931.13.0277.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:31:28.768752+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1252568",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1252568?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kissi-penny, betalningsmedel, mynt, means of payment, kissy-penny",
+        "kissi-penny, betalningsmedel, mynt, means of payment, kissy-penny"
+      ],
+      "dcDescription": [
+        "Sierra Leone According to the General Catalogue: Means of payment. So-called kissy-penny. Of twisted and hammered iron. Value 30 pcs.= 1 English Shilling. These coins have gained popularity even at mendi, and lately started to avoid English colonial coins around Kaiilahun, when the Negroes consider them more practical. Also used as raw material for forging. Sierra Leone West Africa [ocr] Bolinder’s expedition to West Africa Kissi [ocr] 1931.13.0277 Sierra Leone Enligt generalkatalogen: Betalningsmedel. S.k. kissy-penny. Av vridet och hamrrat järn. Värde 30 st.=1 engelsk shilling. Dessa mynt ha"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3253790%2F1931.13.0277.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3253790/1931.13.0277.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Сьерра-Леоне"
+        },
+        {
+          "def": "Serra Leoa"
+        },
+        {
+          "def": "Сиера Леоне"
+        },
+        {
+          "def": "Siera Leonė"
+        },
+        {
+          "def": "Sjerraleone"
+        },
+        {
+          "def": "Sijera Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Siarra Leon"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Σιέρα Λεόνε"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leona"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        },
+        {
+          "def": "Sierra Leone"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

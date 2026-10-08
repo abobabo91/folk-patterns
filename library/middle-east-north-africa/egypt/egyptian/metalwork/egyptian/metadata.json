@@ -1,0 +1,1745 @@
+[
+  {
+    "id": "cleveland-98363",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "98363",
+      "object_url": "https://clevelandart.org/art/1917.998",
+      "iiif_manifest": null,
+      "credit_line": "Gift of the John Huntington Art and Polytechnic Trust",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1917.998",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "masks-ritual",
+      "vision_reason": "The image shows a bronze statue of a seated cat, a well-known form of Egyptian sacred cat coffin/votive statue from the Ptolemaic period, made and used within ancient Egyptian religious practice; it is a clear, well-lit museum photograph on a neutral background.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "Cat Coffin",
+      "titles_alt": [],
+      "date_text": "305–30 BCE",
+      "date_earliest": -305,
+      "date_latest": -30,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "bronze, hollow cast",
+      "classification": "Funerary Equipment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Although the cat is considered the most Egyptian of animals, as an object of worship the cat does not appear until late in Egyptian history. This unusually large statue of a cat was made to hold the mummified remains of a sacred cat. The coffin is, of course, hollow, with an open bottom. As usual, the animal’s tail is curled around its right side.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "25630d22d012d94492226e1edcb6872cc919c4b0c96e3249410aa64e0566969f",
+        "bytes": 271970,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\metalwork\\egyptian\\images\\cle_98363.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:03.084900+00:00",
+    "raw": {
+      "id": 98363,
+      "accession_number": "1917.998",
+      "share_license_status": "CC0",
+      "tombstone": "Cat Coffin, 305–30 BCE. Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE). Bronze, hollow cast; overall: 51 x 14.1 x 24 cm (20 1/16 x 5 9/16 x 9 7/16 in.). The Cleveland Museum of Art, Gift of the John Huntington Art and Polytechnic Trust, 1917.998",
+      "current_location": "107 Egyptian",
+      "title": "Cat Coffin",
+      "creation_date": "305–30 BCE",
+      "creation_date_earliest": -305,
+      "creation_date_latest": -30,
+      "artists_tags": [],
+      "culture": [
+        "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+      ],
+      "technique": "bronze, hollow cast",
+      "support_materials": [],
+      "department": "Egyptian and Ancient Near Eastern Art",
+      "collection": "Egypt - Greco-Roman",
+      "type": "Funerary Equipment",
+      "measurements": "Overall: 51 x 14.1 x 24 cm (20 1/16 x 5 9/16 x 9 7/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.51,
+          "height_inch": 20,
+          "height_inch_fraction": 0.0625,
+          "width": 0.141,
+          "width_inch": 5,
+          "width_inch_fraction": 0.5625,
+          "depth": 0.24,
+          "depth_inch": 9,
+          "depth_inch_fraction": 0.4375
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312341,
+            "title": "The Silver Jubilee Exhibition",
+            "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+            "opening_date": "1941-06-23T04:00:00"
+          },
+          {
+            "id": 304550,
+            "title": "A Cleveland Bestiary",
+            "description": "<i>A Cleveland Bestiary</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 15-December 16, 1981).",
+            "opening_date": "1981-10-15T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "The Cleveland Museum of Art, Cleveland, OH (1916). no. 163, p. 225",
+            "opening_date": "1916-01-01T00:00:00"
+          },
+          {
+            "description": "Museum of Fine Arts, Boston, MA (29 August 1952 - 2 April 1953).",
+            "opening_date": "1952-08-29T00:00:00"
+          },
+          {
+            "description": "Cleveland Museum of Art, Cleveland, OH (1981b). no. 31",
+            "opening_date": "1981-01-01T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Dikran G. Kelekian, New York, NY, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "?-1917",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1917-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1584.17"
+      ],
+      "did_you_know": "A necklace appears to have been incised or scratched into the finished bronze; faint traces are visible on the chest.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Although the cat is considered the most Egyptian of animals, as an object of worship the cat does not appear until late in Egyptian history. This unusually large statue of a cat was made to hold the mummified remains of a sacred cat. The coffin is, of course, hollow, with an open bottom. As usual, the animal’s tail is curled around its right side.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60741470"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1917.998-cat-coffin"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 7",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n18"
+        },
+        {
+          "citation": "Kathman, Barbara A. <em>A Cleveland Bestiary</em>. Cleveland, OH; Cleveland Museum of Art, 1981.",
+          "page_number": "Reproduced: p. 37; Mentioned: p. 33, p. 62",
+          "url": null
+        },
+        {
+          "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+          "page_number": "Reproduced and Mentioned: p. 438",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1917.998",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_web.jpg",
+          "width": "630",
+          "height": "893",
+          "filesize": "268555",
+          "filename": "1917.998_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_print.jpg",
+          "width": "2398",
+          "height": "3400",
+          "filesize": "3941618",
+          "filename": "1917.998_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_full.tif",
+          "width": "4232",
+          "height": "6000",
+          "filesize": "76206172",
+          "filename": "1917.998_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_alt0_web.jpg",
+            "width": "583",
+            "height": "893",
+            "filesize": "260397"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_alt0_print.jpg",
+            "width": "2218",
+            "height": "3400",
+            "filesize": "3901355"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_alt0_full.tif",
+            "width": "4567",
+            "height": "7000",
+            "filesize": "95937332"
+          },
+          "date_created": "2007-04-25T16:52:34",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_alt1_web.jpg",
+            "width": "689",
+            "height": "893",
+            "filesize": "312097"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_alt1_print.jpg",
+            "width": "2624",
+            "height": "3400",
+            "filesize": "4632187"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1917.998/1917.998_alt1_full.tif",
+            "width": "4631",
+            "height": "6000",
+            "filesize": "83388788"
+          },
+          "date_created": "2007-04-25T17:20:46",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 98363,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1917-02-14T00:00:00",
+      "sortable_date": -305,
+      "date_added_to_oa": null,
+      "date_text": "305–30 BCE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 05:18:37.616000"
+    }
+  },
+  {
+    "id": "cleveland-540823",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "540823",
+      "object_url": "https://clevelandart.org/art/2023.102",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Barbara S. Robinson and Family",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2023.102",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian",
+      "art_form": "metalwork",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "metalwork",
+      "vision_reason": "This is a small silver-copper alloy rearing cobra (uraeus) with inlaid eyes, made in ancient Egypt during the New Kingdom to symbolize royal/divine power, a piece meant to adorn a royal sculpture—clearly ancient Egyptian metalwork.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "Uraeus (Rearing Cobra)",
+      "titles_alt": [],
+      "date_text": "1307–1196 BCE",
+      "date_earliest": -1307,
+      "date_latest": -1196,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Silver-copper alloy with inlays (copper, feldspar, turquoise, obsidian?) and gilding",
+      "classification": "Metalwork",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Made from a silver-copper alloy, this rearing cobra likely served as a uraeus, symbolizing royal or divine power in ancient Egypt. Its lowermost portion likely fit into the top of the head of a large sculpture, while its body and tail seem cut short, perhaps making room for a solar disk to rise up behind. The eyes are inlaid, and six cavities for additional inlay remain on the expanded hood, the lowermost still intact, the others likely once filled with brightly colored blue and red stone. Much of the remaining surface may once have been gilded, to judge from remaining traces of gold on the back.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Egypt, New Kingdom (1540–1069 BCE), Dynasty 19",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3e1f2d17a7b44a384fef5be125c5ad2f62511b41857e80589a565653a6dae320",
+        "bytes": 127995,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\metalwork\\egyptian\\images\\cle_540823.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:04.252371+00:00",
+    "raw": {
+      "id": 540823,
+      "accession_number": "2023.102",
+      "share_license_status": "CC0",
+      "tombstone": "Uraeus (Rearing Cobra), 1307–1196 BCE. Egypt, New Kingdom (1540–1069 BCE), Dynasty 19. Silver-copper alloy with inlays (copper, feldspar, turquoise, obsidian?) and gilding; height: 14.9 cm (5 7/8 in.). The Cleveland Museum of Art, Gift of Barbara S. Robinson and Family, 2023.102",
+      "current_location": "107 Egyptian",
+      "title": "Uraeus (Rearing Cobra)",
+      "creation_date": "1307–1196 BCE",
+      "creation_date_earliest": -1307,
+      "creation_date_latest": -1196,
+      "artists_tags": [],
+      "culture": [
+        "Egypt, New Kingdom (1540–1069 BCE), Dynasty 19"
+      ],
+      "technique": "Silver-copper alloy with inlays (copper, feldspar, turquoise, obsidian?) and gilding",
+      "support_materials": [],
+      "department": "Egyptian and Ancient Near Eastern Art",
+      "collection": "Egypt - New Kingdom",
+      "type": "Metalwork",
+      "measurements": "height: 14.9 cm (5 7/8 in.)",
+      "dimensions": {
+        "height": {
+          "height": 0.149,
+          "height_inch": 5,
+          "height_inch_fraction": 0.875
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "<em>Ägypten : Augenblicke der Ewigkeit : unbekannte Schätze aus schweizer Privatbesitz</em>, Musee d'Art et d'Histoire, Geneva, Switzerland (September 1997-11. January 1998); Antikenmuseum Basel und Sammlung Ludwig, Switzerland (18. March-13. July1997).",
+            "opening_date": "1997-09-11T04:00:00Z"
+          },
+          {
+            "description": "<em>Animals in Ancient Art from the Leo Mildenberg Collection</em>, The Cleveland Museum of Art, Cleveland, OH (Oct. 21-Nov. 29, 1981).",
+            "opening_date": "1981-10-21T04:00:00Z"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Dr. Leo Mildenberg (1913 - 2001), Germany and Switzerland",
+          "citations": [],
+          "footnotes": null,
+          "date": "by 1981-2001",
+          "sortorder": 1
+        },
+        {
+          "description": "(Sale: Christie's London, 26 October 2004, lot 123, unsold)",
+          "citations": [],
+          "footnotes": null,
+          "date": "26 October 2004",
+          "sortorder": 2
+        },
+        {
+          "description": "Mrs. Barbara Robinson, Cleveland, OH, gifted to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "2004-2023",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2023-",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The word <em>uraeus </em>comes from an Egyptian term for “rising/rearing up,” describing the cobra’s position.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Made from a silver-copper alloy, this rearing cobra likely served as a uraeus, symbolizing royal or divine power in ancient Egypt. Its lowermost portion likely fit into the top of the head of a large sculpture, while its body and tail seem cut short, perhaps making room for a solar disk to rise up behind. The eyes are inlaid, and six cavities for additional inlay remain on the expanded hood, the lowermost still intact, the others likely once filled with brightly colored blue and red stone. Much of the remaining surface may once have been gilded, to judge from remaining traces of gold on the back.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q122922177"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2023.102-uraeus-rearing-cobra"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Kozloff, Arielle P. <em>Animals in Ancient Art from the Leo Mildenberg Collection</em>. 1981.",
+          "page_number": "no. 15, p. 62",
+          "url": ""
+        },
+        {
+          "citation": "Page-Gasser, Madeleine, and André Wiese.<em> Égypte: moments d'éternité : art égyptien dans les collections privées, Suisse</em>. 1997.",
+          "page_number": "no. 136, p. 211",
+          "url": ""
+        },
+        {
+          "citation": "Page-Gasser, Madeleine, and André Wiese. <em>Ägypten: Augenblicke der Ewigkeit : unbekannte Schätze aus schweizer Privatbesitz</em>. Mainz: P. von Zabern, 1997.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Mottahedeh, Patricia Erhart, and Gisela Zahlhaas. <em>Out of Noah's ark: animals in ancient art from the Leo Mildenberg collection.</em> Mainz: P. von Zabern, 1997.",
+          "page_number": "cat. 15",
+          "url": ""
+        },
+        {
+          "citation": "Christie, Manson &amp; Woods. <em>A Peaceable Kingdom: The Leo Mildenberg Collection of Ancient Animals.</em> London: Christie's, 2004.",
+          "page_number": "no. 123",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2023.102",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_web.jpg",
+          "width": "649",
+          "height": "900",
+          "filesize": "137888",
+          "filename": "2023.102_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_print.jpg",
+          "width": "2451",
+          "height": "3400",
+          "filesize": "799815",
+          "filename": "2023.102_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_full.tif",
+          "width": "8892",
+          "height": "12337",
+          "filesize": "329128936",
+          "filename": "2023.102_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt0_web.jpg",
+            "width": "647",
+            "height": "900",
+            "filesize": "139313"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt0_print.jpg",
+            "width": "2443",
+            "height": "3400",
+            "filesize": "827165"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt0_full.tif",
+            "width": "8892",
+            "height": "12373",
+            "filesize": "330089136"
+          },
+          "date_created": "2023-05-18T16:37:49",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt1_web.jpg",
+            "width": "645",
+            "height": "900",
+            "filesize": "139244"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt1_print.jpg",
+            "width": "2438",
+            "height": "3400",
+            "filesize": "821136"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt1_full.tif",
+            "width": "8892",
+            "height": "12400",
+            "filesize": "330809592"
+          },
+          "date_created": "2023-05-18T16:41:53",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt2_web.jpg",
+            "width": "647",
+            "height": "900",
+            "filesize": "128874"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt2_print.jpg",
+            "width": "2445",
+            "height": "3400",
+            "filesize": "676453"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt2_full.tif",
+            "width": "8892",
+            "height": "12363",
+            "filesize": "329822224"
+          },
+          "date_created": "2023-05-18T16:46:56",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt3_web.jpg",
+            "width": "646",
+            "height": "900",
+            "filesize": "129125"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt3_print.jpg",
+            "width": "2441",
+            "height": "3400",
+            "filesize": "682482"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt3_full.tif",
+            "width": "8892",
+            "height": "12386",
+            "filesize": "330435756"
+          },
+          "date_created": "2023-05-18T16:50:27",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt4_web.jpg",
+            "width": "649",
+            "height": "900",
+            "filesize": "137145"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt4_print.jpg",
+            "width": "2453",
+            "height": "3400",
+            "filesize": "819906"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt4_full.tif",
+            "width": "8892",
+            "height": "12325",
+            "filesize": "328808712"
+          },
+          "date_created": "2023-05-18T16:53:42",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt5_web.jpg",
+            "width": "827",
+            "height": "900",
+            "filesize": "177831"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt5_print.jpg",
+            "width": "3126",
+            "height": "3400",
+            "filesize": "1361015"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2023.102/2023.102_alt5_full.tif",
+            "width": "6112",
+            "height": "6647",
+            "filesize": "121907124"
+          },
+          "date_created": "2023-05-18T17:01:32",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Barbara S. Robinson and Family",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 540823,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2023-06-05T04:00:00Z",
+      "sortable_date": -1307,
+      "date_added_to_oa": null,
+      "date_text": "1307–1196 BCE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 09:11:04.277000"
+    }
+  },
+  {
+    "id": "cleveland-151352",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "151352",
+      "object_url": "https://clevelandart.org/art/1983.196",
+      "iiif_manifest": null,
+      "credit_line": "Leonard C. Hanna Jr. Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1983.196",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "metalwork",
+      "vision_reason": "A bronze mirror with a nude female figure handle in traditional Egyptian iconography (papyrus umbel, tripartite wig, broad collar), New Kingdom Dynasty 18 — a well-documented Egyptian object type made and used by ancient Egyptians.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "Caryatid Mirror",
+      "titles_alt": [],
+      "date_text": "c. 1540–1296 BCE",
+      "date_earliest": -1540,
+      "date_latest": -1296,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "bronze with black copper inlay?",
+      "classification": "Cosmetic Objects",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This superb mirror has an oval disk and a handle in the form of a nubile young girl, entirely naked except for her elaborately braided tripartite wig, broad collar, and a girdle of wallet beads. She stands on a cruciform base, with her left foot slightly advanced and her hands at her sides. On her head and supporting the disk is a papyrus umbel with flaring tips. Mirrors with handles in the form of naked young girls were the height of fashion in mid-Dynasty 18; numerous examples exist. This mirror is perhaps the finest of its kind. The cruciform base is unusual, if not unique. The iconography is understandable in relation to the goddess Hathor, the embodiment of love and beauty. A multifaceted goddess, she was equated with Aphrodite by the Greeks. The retinue of Hathor consisted precisely of such beauties, called <em>nefrut</em> in Egyptian, and the mirror itself, that reflection of beauty, appears to have had Hathorian connections from early times.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Egypt, New Kingdom (1540–1069 BCE), Dynasty 18",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f514c9841d1258d4cb6cb993c938ad722eb0d27ecc88afdc552cf518bb6dea41",
+        "bytes": 268447,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\metalwork\\egyptian\\images\\cle_151352.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:06.088967+00:00",
+    "raw": {
+      "id": 151352,
+      "accession_number": "1983.196",
+      "share_license_status": "CC0",
+      "tombstone": "Caryatid Mirror, c. 1540–1296 BCE. Egypt, New Kingdom (1540–1069 BCE), Dynasty 18. Bronze with black copper inlay?; overall: 38.9 x 20 cm (15 5/16 x 7 7/8 in.); figure: 16.7 x 4 cm (6 9/16 x 1 9/16 in.); disk: 16.6 cm (6 9/16 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 1983.196",
+      "current_location": "107 Egyptian",
+      "title": "Caryatid Mirror",
+      "creation_date": "c. 1540–1296 BCE",
+      "creation_date_earliest": -1540,
+      "creation_date_latest": -1296,
+      "artists_tags": [],
+      "culture": [
+        "Egypt, New Kingdom (1540–1069 BCE), Dynasty 18"
+      ],
+      "technique": "bronze with black copper inlay?",
+      "support_materials": [],
+      "department": "Egyptian and Ancient Near Eastern Art",
+      "collection": "Egypt - New Kingdom",
+      "type": "Cosmetic Objects",
+      "measurements": "Overall: 38.9 x 20 cm (15 5/16 x 7 7/8 in.); Figure: 16.7 x 4 cm (6 9/16 x 1 9/16 in.); Disk: 16.6 cm (6 9/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.389,
+          "height_inch": 15,
+          "height_inch_fraction": 0.3125,
+          "width": 0.2,
+          "width_inch": 7,
+          "width_inch_fraction": 0.875
+        },
+        "figure": {
+          "height": 0.167,
+          "height_inch": 6,
+          "height_inch_fraction": 0.5625,
+          "width": 0.04,
+          "width_inch": 1,
+          "width_inch_fraction": 0.5625
+        },
+        "disk": {
+          "height": 0.166,
+          "height_inch": 6,
+          "height_inch_fraction": 0.5625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 309669,
+            "title": "The Year in Review for 1983",
+            "description": "<i>The Year in Review for 1983</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 22-April 8, 1984).",
+            "opening_date": "1984-02-22T05:00:00"
+          },
+          {
+            "id": 309838,
+            "title": "Mirrors: Art and Symbol",
+            "description": "<i>Mirrors: Art and Symbol</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 3-November 18, 1984).",
+            "opening_date": "1984-07-03T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>In the Tomb of Nefertari: Conservation of the Wall Paintings. </em>The J. Paul Getty Museum, Malibu, CA (12 November 1992-21 February 1993).",
+            "opening_date": "1992-11-12T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Claude Anet/Jean Schopfer (1868-1931), Paris, France",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1983-",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "When they were made, this mirror was polished to a brilliant shine; the marvelous colored patina it has since acquired is the result of being buried for years in the ground.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This superb mirror has an oval disk and a handle in the form of a nubile young girl, entirely naked except for her elaborately braided tripartite wig, broad collar, and a girdle of wallet beads. She stands on a cruciform base, with her left foot slightly advanced and her hands at her sides. On her head and supporting the disk is a papyrus umbel with flaring tips. Mirrors with handles in the form of naked young girls were the height of fashion in mid-Dynasty 18; numerous examples exist. This mirror is perhaps the finest of its kind. The cruciform base is unusual, if not unique. The iconography is understandable in relation to the goddess Hathor, the embodiment of love and beauty. A multifaceted goddess, she was equated with Aphrodite by the Greeks. The retinue of Hathor consisted precisely of such beauties, called <em>nefrut</em> in Egyptian, and the mirror itself, that reflection of beauty, appears to have had Hathorian connections from early times.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60777976"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1983.196-caryatid-mirror"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Turner, Evan H. \"Year in Review for 1983.\" <em>The Bulletin of the Cleveland Museum of Art</em> 71, no. 2 (1984).",
+          "page_number": "p. 45",
+          "url": "https://www.jstor.org/stable/25159848"
+        },
+        {
+          "citation": "Kozloff, Arielle P. \"Mirror, Mirror.\" <em>The Bulletin of the Cleveland Museum of Art</em> 71, no. 8 (1984).",
+          "page_number": "pp. 271-6, cover, figs. 3-4",
+          "url": "https://www.jstor.org/stable/25159878"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Images of the Mind.</em> Cleveland, Ohio: Cleveland Museum of Art, 1987.",
+          "page_number": "Reproduced: [p.16]",
+          "url": ""
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+          "page_number": "Reproduced: p. 4",
+          "url": "https://archive.org/details/CMAHandbook1991/page/n20"
+        },
+        {
+          "citation": "J. Paul Getty Museum, and Getty Conservation Institute.<em> In the Tomb of Nefertari: Conservation of the Wall Paintings.</em> [Malibu, Calif.]: J. Paul Getty Museum, 1992.",
+          "page_number": "No. 10",
+          "url": null
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>Masterpieces from East and West. </em>New York, NY: Rizzoli International, 1992.",
+          "page_number": "p. 16",
+          "url": null
+        },
+        {
+          "citation": "Edward H. Merrin Gallery, Vicki Solia, and Linda Schildkraut. E<em>gypt at the Merrin Gallery.</em> New York: Merrin Gallery, 1992.",
+          "page_number": "no. 2",
+          "url": null
+        },
+        {
+          "citation": "Kozloff, Arielle P. <em>Egypt’s Dazzling Sun: Amenhotep III and his world.</em> Cleveland : Cleveland Museum of Art in cooperation with Indiana University Press, 1992.",
+          "page_number": "Reproduced: fig. 84a, p. 358",
+          "url": ""
+        },
+        {
+          "citation": "Berman, Lawrence M. \" La Collection Egyptienne du Cleveland Museum of Art,\" <em>Bulletin de la Société française d'égyptologie </em>134 (October 1995).",
+          "page_number": "p. 28, fig. 9",
+          "url": null
+        },
+        {
+          "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+          "page_number": "Reproduced: p. 301, Color p. 56; Mentioned: p. 301-302",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1983.196",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_web.jpg",
+          "width": "540",
+          "height": "893",
+          "filesize": "265032",
+          "filename": "1983.196_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_print.jpg",
+          "width": "2055",
+          "height": "3400",
+          "filesize": "3519365",
+          "filename": "1983.196_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_full.tif",
+          "width": "3354",
+          "height": "5549",
+          "filesize": "55864260",
+          "filename": "1983.196_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt0_web.jpg",
+            "width": "580",
+            "height": "893",
+            "filesize": "274124"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt0_print.jpg",
+            "width": "2208",
+            "height": "3400",
+            "filesize": "3576910"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt0_full.tif",
+            "width": "3620",
+            "height": "5575",
+            "filesize": "60575728"
+          },
+          "date_created": "2005-11-03T15:01:00",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt1_web.jpg",
+            "width": "595",
+            "height": "893",
+            "filesize": "231306"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt1_print.jpg",
+            "width": "2267",
+            "height": "3400",
+            "filesize": "3174466"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt1_full.tif",
+            "width": "4096",
+            "height": "6144",
+            "filesize": "75527916"
+          },
+          "date_created": "2005-11-03T15:10:06",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt2_web.jpg",
+            "width": "595",
+            "height": "893",
+            "filesize": "221489"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt2_print.jpg",
+            "width": "2267",
+            "height": "3400",
+            "filesize": "2990811"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt2_full.tif",
+            "width": "4096",
+            "height": "6144",
+            "filesize": "75527244"
+          },
+          "date_created": "2005-11-03T15:20:01",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt3_web.jpg",
+            "width": "595",
+            "height": "893",
+            "filesize": "191227"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt3_print.jpg",
+            "width": "2267",
+            "height": "3400",
+            "filesize": "2707221"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt3_full.tif",
+            "width": "4096",
+            "height": "6144",
+            "filesize": "75527052"
+          },
+          "date_created": "2005-11-03T15:31:46",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt4_web.jpg",
+            "width": "595",
+            "height": "893",
+            "filesize": "258486"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt4_print.jpg",
+            "width": "2267",
+            "height": "3400",
+            "filesize": "3678281"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt4_full.tif",
+            "width": "4096",
+            "height": "6144",
+            "filesize": "75528596"
+          },
+          "date_created": "2005-11-03T15:45:49",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt5_web.jpg",
+            "width": "595",
+            "height": "893",
+            "filesize": "256962"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt5_print.jpg",
+            "width": "2267",
+            "height": "3400",
+            "filesize": "3630271"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1983.196/1983.196_alt5_full.tif",
+            "width": "4096",
+            "height": "6144",
+            "filesize": "75527676"
+          },
+          "date_created": "2005-11-03T15:58:56",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 151352,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1983-12-05T00:00:00",
+      "sortable_date": -1540,
+      "date_added_to_oa": null,
+      "date_text": "c. 1540–1296 BCE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Mirror with Handle in the Form of a Nude Girl"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 07:49:08.292000"
+    }
+  },
+  {
+    "id": "cleveland-159217",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "159217",
+      "object_url": "https://clevelandart.org/art/1995.40",
+      "iiif_manifest": null,
+      "credit_line": "John L. Severance Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1995.40",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "sculpture",
+      "vision_reason": "A finely worked flint tool shaped as a bird, made in Predynastic Egypt as a tomb offering — clearly an Egyptian artifact, though it is stone rather than metal.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "Flint in the Form of a Bird",
+      "titles_alt": [],
+      "date_text": "4000–3000 BCE",
+      "date_earliest": -4000,
+      "date_latest": -3000,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "tan-colored flint",
+      "classification": "Tools and Equipment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This flint is ground on one side and ripple-flaked on the other, indicating the date. Nonrepresentational flints were tools and weapons. Representational ones like this, however, were undoubtedly tomb gifts and never used. The type of bird represented is a Guinea fowl or quail. A number of Egyptian flints in this form are known although this one is one of the largest and is of exceptional quality.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Egypt, Predynastic (5000–2950 BCE), Naqada II–III (3650–3000 BCE)",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "94209dd354cf56a2275c349328af430e9ae760afbe37172da8c763b5ec621376",
+        "bytes": 41307,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\metalwork\\egyptian\\images\\cle_159217.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:06.409931+00:00",
+    "raw": {
+      "id": 159217,
+      "accession_number": "1995.40",
+      "share_license_status": "CC0",
+      "tombstone": "Flint in the Form of a Bird, 4000–3000 BCE. Egypt, Predynastic (5000–2950 BCE), Naqada II–III (3650–3000 BCE). Tan-colored flint; overall: 5.2 x 5.2 cm (2 1/16 x 2 1/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1995.40",
+      "current_location": "107 Egyptian",
+      "title": "Flint in the Form of a Bird",
+      "creation_date": "4000–3000 BCE",
+      "creation_date_earliest": -4000,
+      "creation_date_latest": -3000,
+      "artists_tags": [],
+      "culture": [
+        "Egypt, Predynastic (5000–2950 BCE), Naqada II–III (3650–3000 BCE)"
+      ],
+      "technique": "tan-colored flint",
+      "support_materials": [],
+      "department": "Egyptian and Ancient Near Eastern Art",
+      "collection": "Egypt - Predynastic",
+      "type": "Tools and Equipment",
+      "measurements": "Overall: 5.2 x 5.2 cm (2 1/16 x 2 1/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.052,
+          "height_inch": 2,
+          "height_inch_fraction": 0.0625,
+          "width": 0.052,
+          "width_inch": 2,
+          "width_inch_fraction": 0.0625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Rupert Wace Ancient Art Limited, London, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?-1995",
+          "sortorder": 1
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1995-",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The exact function of objects like this is unknown; it may have been an amulet or charm.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This flint is ground on one side and ripple-flaked on the other, indicating the date. Nonrepresentational flints were tools and weapons. Representational ones like this, however, were undoubtedly tomb gifts and never used. The type of bird represented is a Guinea fowl or quail. A number of Egyptian flints in this form are known although this one is one of the largest and is of exceptional quality.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60747839"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1995.40-flint-in-the-form-of"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art. <em>Annual Report</em>. Cleveland, Ohio: The Museum, 1995.",
+          "page_number": "p. 38",
+          "url": null
+        },
+        {
+          "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+          "page_number": "Reproduced: p. 120; Mentioned: p. 120",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1995.40",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_web.jpg",
+          "width": "928",
+          "height": "893",
+          "filesize": "368085",
+          "filename": "1995.40_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_print.jpg",
+          "width": "2633",
+          "height": "2535",
+          "filesize": "3106489",
+          "filename": "1995.40_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_full.tif",
+          "width": "2633",
+          "height": "2535",
+          "filesize": "20054412",
+          "filename": "1995.40_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_alt0_web.jpg",
+            "width": "894",
+            "height": "893",
+            "filesize": "351748"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_alt0_print.jpg",
+            "width": "2597",
+            "height": "2594",
+            "filesize": "2970820"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1995.40/1995.40_alt0_full.tif",
+            "width": "2597",
+            "height": "2594",
+            "filesize": "20240444"
+          },
+          "date_created": "2007-06-19T18:51:42",
+          "annotation": ""
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 159217,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1995-06-07T00:00:00",
+      "sortable_date": -4000,
+      "date_added_to_oa": null,
+      "date_text": "4000–3000 BCE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:15:08.807000"
+    }
+  },
+  {
+    "id": "cleveland-113309",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "113309",
+      "object_url": "https://clevelandart.org/art/1932.32",
+      "iiif_manifest": null,
+      "credit_line": "The Charles W. Harkness Endowment Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1932.32",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "metalwork",
+      "vision_reason": "A bronze situla with incised offering scenes to deities and hieroglyphic inscriptions, made and used in ancient Egyptian funerary ritual, matching the claimed Egyptian ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "Decorated Situla",
+      "titles_alt": [],
+      "date_text": "305–30 BCE",
+      "date_earliest": -305,
+      "date_latest": -30,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "bronze",
+      "classification": "Vessels",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "The situla was a deluxe ritual vessel that played an important role in Egyptian religious ceremonies. The two scenes on this situla exemplify the dual roles of a pious Egyptian in the afterlife: receiving offerings from his family on the one hand and making offerings to the gods on the other. On one side of the vessel the deceased, Padiamennebnesuttawy (\"He who Amen, lord of Karnak, gives\"), sits in a low chair accompanied by his pet dog. The vertical, cross-shaped sign preceding the animal is his name, Nefer, meaning \"good one\" or \"beautiful one.\" On the right, the deceased's eldest son, Amenhotep, makes offerings of incense and water to his father. On the other side the deceased demonstrates his piety by making an offering of round loaves of bread, vegetables, and meat to the gods. Opposite him are the gods who are the recipients of his offerings—Osiris, god of the dead; Horus, son of Isis; and Isis herself—each of whom wears elaborate beaded and feathered garments.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cdbdc106a14123ff344e09653b3585fa60bb6622ae554baa12dc332eb3d4302d",
+        "bytes": 238846,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\metalwork\\egyptian\\images\\cle_113309.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:07.509456+00:00",
+    "raw": {
+      "id": 113309,
+      "accession_number": "1932.32",
+      "share_license_status": "CC0",
+      "tombstone": "Decorated Situla, 305–30 BCE. Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE). Bronze; diameter: 15.5 cm (6 1/8 in.); diameter of mouth: 10.2 cm (4 in.); overall: 28.3 cm (11 1/8 in.); with handle: 45.2 cm (17 13/16 in.). The Cleveland Museum of Art, The Charles W. Harkness Endowment Fund, 1932.32",
+      "current_location": "107 Egyptian",
+      "title": "Decorated Situla",
+      "creation_date": "305–30 BCE",
+      "creation_date_earliest": -305,
+      "creation_date_latest": -30,
+      "artists_tags": [],
+      "culture": [
+        "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+      ],
+      "technique": "bronze",
+      "support_materials": [],
+      "department": "Egyptian and Ancient Near Eastern Art",
+      "collection": "Egypt - Ptolemaic Dynasty",
+      "type": "Vessels",
+      "measurements": "Diameter: 15.5 cm (6 1/8 in.); Diameter of mouth: 10.2 cm (4 in.); Overall: 28.3 cm (11 1/8 in.); with handle: 45.2 cm (17 13/16 in.)",
+      "dimensions": {
+        "diameter": {
+          "width": 0.155,
+          "width_inch": 6,
+          "width_inch_fraction": 0.125
+        },
+        "diameter of mouth": {
+          "width": 0.102,
+          "width_inch": 4,
+          "width_inch_fraction": 0.0
+        },
+        "overall": {
+          "height": 0.283,
+          "height_inch": 11,
+          "height_inch_fraction": 0.125
+        },
+        "with handle": {
+          "height": 0.452,
+          "height_inch": 17,
+          "height_inch_fraction": 0.8125
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": [
+          {
+            "description": "London, Wellcome Historical Medical Museum, 8 September-3 October 1931",
+            "opening_date": "1931-09-08T00:00:00"
+          }
+        ]
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "The situla was a deluxe ritual vessel that played an important role in Egyptian religious ceremonies. The two scenes on this situla exemplify the dual roles of a pious Egyptian in the afterlife: receiving offerings from his family on the one hand and making offerings to the gods on the other. On one side of the vessel the deceased, Padiamennebnesuttawy (\"He who Amen, lord of Karnak, gives\"), sits in a low chair accompanied by his pet dog. The vertical, cross-shaped sign preceding the animal is his name, Nefer, meaning \"good one\" or \"beautiful one.\" On the right, the deceased's eldest son, Amenhotep, makes offerings of incense and water to his father. On the other side the deceased demonstrates his piety by making an offering of round loaves of bread, vegetables, and meat to the gods. Opposite him are the gods who are the recipients of his offerings—Osiris, god of the dead; Horus, son of Isis; and Isis herself—each of whom wears elaborate beaded and feathered garments.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60763137"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1932.32-decorated-situla"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Mond, Sir Robert and Oliver H. Meyers. <em>The Bucheum</em>. London, England: The Egypt Exploration Society and Humphrey Milford, 1934.",
+          "page_number": "Vol. I: p. 98; Vol. II: p. 22, no. 45; Vol. III: pl. LXXXIV, fig 4, pl. LXXXV, pl. CLXI, figs. 1–2",
+          "url": ""
+        },
+        {
+          "citation": "Fischer, Henry G. “More Ancient Egyptian Names of Dogs and Other Animals.” <em>The Metropolitan Museum of Art Journal</em> 12 (1977): 173–178, fig. 1.",
+          "page_number": "",
+          "url": "https://www.metmuseum.org/met-publications/ancient-egyptian-names-of-dogs-and-other-animals-the-metropolitan-museum-journal-v-12-1977"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art</em>. Cleveland, OH: The Cleveland Museum of Art, 1991.",
+          "page_number": "Reproduced: p. 12",
+          "url": "https://archive.org/details/CMAHandbook1991/page/n27"
+        },
+        {
+          "citation": "Berman, Lawrence M., and Kenneth J. Bohač.<em> Catalogue of Egyptian Art: The Cleveland Museum of Art.</em> Cleveland, OH: Cleveland Museum of Art, 1999",
+          "page_number": "Reproduced: p. 492; Mentioned: p. 492-3",
+          "url": null
+        },
+        {
+          "citation": "Director’s correspondence file for W.M. Flinders Petrie, 1914-1937, Box 18, Folder 15, Frederic Allen Whiting Records, CMA Archives.",
+          "page_number": null,
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1932.32",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_web.jpg",
+          "width": "609",
+          "height": "893",
+          "filesize": "235432",
+          "filename": "1932.32_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_print.jpg",
+          "width": "2318",
+          "height": "3400",
+          "filesize": "3552788",
+          "filename": "1932.32_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_full.tif",
+          "width": "4091",
+          "height": "6000",
+          "filesize": "73668616",
+          "filename": "1932.32_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt0_web.jpg",
+            "width": "626",
+            "height": "893",
+            "filesize": "250315"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt0_print.jpg",
+            "width": "2385",
+            "height": "3400",
+            "filesize": "3753404"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt0_full.tif",
+            "width": "4208",
+            "height": "6000",
+            "filesize": "75774712"
+          },
+          "date_created": "2007-05-24T19:04:20",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt1_web.jpg",
+            "width": "637",
+            "height": "893",
+            "filesize": "240837"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt1_print.jpg",
+            "width": "2424",
+            "height": "3400",
+            "filesize": "3751278"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt1_full.tif",
+            "width": "4277",
+            "height": "6000",
+            "filesize": "77016380"
+          },
+          "date_created": "2007-05-24T19:16:47",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt2_web.jpg",
+            "width": "568",
+            "height": "893",
+            "filesize": "214195"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt2_print.jpg",
+            "width": "2164",
+            "height": "3400",
+            "filesize": "3351389"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1932.32/1932.32_alt2_full.tif",
+            "width": "3818",
+            "height": "6000",
+            "filesize": "68754264"
+          },
+          "date_created": "2007-05-24T19:31:44",
+          "annotation": ""
+        }
+      ],
+      "creditline": "The Charles W. Harkness Endowment Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 113309,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1932-02-12T00:00:00",
+      "sortable_date": -305,
+      "date_added_to_oa": null,
+      "date_text": "305–30 BCE",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 05:57:48.589000"
+    }
+  },
+  {
+    "id": "british_museum-H_1939-1010-109",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "H_1939-1010-109",
+      "object_url": "https://www.britishmuseum.org/collection/object/H_1939-1010-109",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "H,1939.1010.109",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Egyptian",
+      "tradition": "Egyptian",
+      "art_form": "metalwork",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "metalwork",
+      "vision_reason": "A cast brass bowl of \"Coptic\" type with omega handles, a well-known late antique/early Islamic Egyptian metalworking tradition, consistent with the claimed Egyptian ethnicity and metalwork category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "bowl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bowl",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Large cast brass bowl of so-called &#039;Coptic&#039; type. Circular, with an everted rim with raised moulding along the outer edge. Immediately below the rim on opposite sides of the bowl exterior are two sets of vertically set rings, approximately 9.5cm apart, cast between the underside of the rim and the wall of the bowl. These rings hold two cast and moulded drop-handles of &#039;omega&#039; type, largely undecorated but with some beading. At the base is a tall, solid foot-ring with a beaded edge. \r\n       A narrow plain band runs around the bowl interior just below the rim. Underneath this band is a zone of fluting. In the centre of the interior is a plain roundel surrounded by an engraved procession of four walking animals moving left: a camel or bear, a lion, a donkey or hare, and a tiger or other large feline.  \r\n       A portion of copper alloy is missing from one side of the bowl and there is a gap in a section of the rim, but otherwise it is virtually complete.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/905b4094_57b4_4bc4_8bdb_a3b6008047c2/preview_00178449_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ae51d749c26fd88de19acdd9f295237cad8a220efceca912eff64fe6da1e1bca",
+        "bytes": 41713,
+        "local_path": "library\\middle-east-north-africa\\egypt\\egyptian\\metalwork\\egyptian\\images\\bm_H_1939-1010-109.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:04:48.834381+00:00",
+    "raw": {
+      "title": "bowl",
+      "description": "Large cast brass bowl of so-called &#039;Coptic&#039; type. Circular, with an everted rim with raised moulding along the outer edge. Immediately below the rim on opposite sides of the bowl exterior are two sets of vertically set rings, approximately 9.5cm apart, cast between the underside of the rim and the wall of the bowl. These rings hold two cast and moulded drop-handles of &#039;omega&#039; type, largely undecorated but with some beading. At the base is a tall, solid foot-ring with a beaded edge. \r\n       A narrow plain band runs around the bowl interior just below the rim. Underneath this band is a zone of fluting. In the centre of the interior is a plain roundel surrounded by an engraved procession of four walking animals moving left: a camel or bear, a lion, a donkey or hare, and a tiger or other large feline.  \r\n       A portion of copper alloy is missing from one side of the bowl and there is a gap in a section of the rim, but otherwise it is virtually complete.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/905b4094_57b4_4bc4_8bdb_a3b6008047c2/preview_00178449_001.jpg"
+    }
+  }
+]

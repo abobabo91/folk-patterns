@@ -1,0 +1,381 @@
+[
+  {
+    "id": "british_museum-Y_EA35002",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "Y_EA35002",
+      "object_url": "https://www.britishmuseum.org/collection/object/Y_EA35002",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "Y,EA35002",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Nubian",
+      "tradition": "Nubian",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a painted cartonnage fragment from an ancient Egyptian mummy-case, showing stylized figures (labeled as representing Nubians and Asiatics) as decorative motifs on Egyptian funerary art — it is Egyptian archaeological material depicting other peoples, not an object made by or for the Nubian people themselves.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "archaeological",
+      "reattribution": {
+        "to": "middle-east-north-africa__egypt__egyptian",
+        "people": "Egyptian",
+        "belongs": true,
+        "art_form": "sculpture",
+        "image": "good",
+        "era": "archaeological",
+        "reason": "This is a fragment of an ancient Egyptian mummy-case (cartonnage) depicting bound foreign captives (a Nubian and an Asiatic) painted on the sole area beneath the feet — a funerary object made by and for ancient Egyptians, so it belongs to the culture despite the foreign figures depicted. It is not truly a \"garment\" but part of a funerary casing."
+      }
+    },
+    "physical": {
+      "title": "cartonnage; mummy-case",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "cartonnage; mummy-case",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Fragment from the foot of a cartonnage mummy-case with representations of sandals and nubians and Asiatics painted on one side; wooden slat framework.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2026_5/19_8/d2f7833f_8e76_4ae5_b056_b44f00907821/preview_EA35002.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7604aeb435d594b0ef8b117b053e867a3339368329e22cf8fea65362c4bb5ff0",
+        "bytes": 48925,
+        "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian\\images\\bm_Y_EA35002.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:06:56.293566+00:00",
+    "raw": {
+      "title": "cartonnage; mummy-case",
+      "description": "Fragment from the foot of a cartonnage mummy-case with representations of sandals and nubians and Asiatics painted on one side; wooden slat framework.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2026_5/19_8/d2f7833f_8e76_4ae5_b056_b44f00907821/preview_EA35002.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1939-09-34",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1939-09-34",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1939-09-34",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1939.09.34",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Nubian",
+      "tradition": "Nubian",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a beaded and cowrie-shell fringed apron with leather thongs, a garment type consistent with Nubian/Sudanic traditional women's dress; the beadwork pattern is generic enough that it plausibly fits the claimed culture and region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "apron",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "apron",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Apron of cowrie shells, snail shell and glass beads with a fringe of leather strands.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/14_14/7a6c8c03_e637_480d_8725_a47a00eb4986/preview_EAF47666.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f09f718beb5946942a1000bd00b6f9ec6221858e42cf49e49c4011e60b34f46e",
+        "bytes": 100845,
+        "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian\\images\\bm_E_Af1939-09-34.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-26T21:32:02.364665+00:00",
+    "raw": {
+      "title": "apron",
+      "description": "Apron of cowrie shells, snail shell and glass beads with a fringe of leather strands.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/14_14/7a6c8c03_e637_480d_8725_a47a00eb4986/preview_EAF47666.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af-1787",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af-1787",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af-1787",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af.1787",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Nubian",
+      "tradition": "Nubian",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a leather-strip skirt with cowrie shells strung along the waistband, a garment type well documented among Nubian and wider Nile Valley/Sudanic peoples for dance or ceremonial wear; it plausibly belongs to the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "petticoat; skirt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "petticoat; skirt",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Petticoat, skirt of leather, shells (cowrie).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/27_12/35502c5f_6097_45a3_a207_aa0100c5f85a/preview_EAF14126.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6da145fb0bc997982dbf34a8057e32a628148cc665cde740e766b9a6877132ac",
+        "bytes": 99538,
+        "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian\\images\\bm_E_Af-1787.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-26T21:32:02.910078+00:00",
+    "raw": {
+      "title": "petticoat; skirt",
+      "description": "Petticoat, skirt of leather, shells (cowrie).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_2/27_12/35502c5f_6097_45a3_a207_aa0100c5f85a/preview_EAF14126.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1900-1119-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1900-1119-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1900-1119-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1900.1119.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Nubian",
+      "tradition": "Nubian",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a beaded leather apron/girdle with shell (cowrie/olive shell) tassels, a type of adornment/garment consistent with Nile Valley/Nubian women's dress traditions; the geometric beadwork and shell fringing are plausible for the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "apron; girdle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "apron; girdle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Apron, girdle made of beads (glass), leather, shells (olive, [oliva]).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/29_14/ebb27e4c_7edd_42f2_bf11_aa3e00f34c22/preview_EAF14641.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f44777f196187dacdf9db1b98601a9e6def975c7936d34e56e4d83eeb0b000ab",
+        "bytes": 73796,
+        "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\garment\\nubian\\images\\bm_E_Af1900-1119-2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-26T21:32:03.427082+00:00",
+    "raw": {
+      "title": "apron; girdle",
+      "description": "Apron, girdle made of beads (glass), leather, shells (olive, [oliva]).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_4/29_14/ebb27e4c_7edd_42f2_bf11_aa3e00f34c22/preview_EAF14641.jpg"
+    }
+  }
+]

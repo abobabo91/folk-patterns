@@ -1,0 +1,547 @@
+[
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933582-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933582-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129186",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-115-10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "prada",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a gold-thread songket selendang with the plain patterned field and meander-and-floret borders typical of Palembang, Sumatra weaving; the museum's own record locates it to Palembang, not Bali, and the style does not match Balinese songket conventions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "southeast-asia__malaysia__malay",
+        "people": "Malay",
+        "belongs": true,
+        "art_form": "textile",
+        "image": "good",
+        "era": "traditional",
+        "reason": "This is a songket-style selendang (shoulder cloth) with a gold-thread floral field and red border with pucuk rebung (bamboo-shoot) motifs, a textile tradition shared across the Malay world including Palembang and Malaysia; such cloths cannot be reliably distinguished between neighboring Malay groups."
+      }
+    },
+    "physical": {
+      "title": "Selendang (shoulder cloth)",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: silk Technique: tied resist, stitched resist (tritik), and printed with metallic pigments(prada)",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Selendang (shoulder cloth)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 210.2 x 83.2 cm (82 3/4 x 32 3/4 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Palembang, Sumatra, Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4a85028ab-dd54-45be-a52b-8bc53f6c55ce"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1961-115-10MattFlynn",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2407f3addfbfd98ed49a12054f2bb8aa67db1c30089d1e91556adb3ff98013df",
+        "bytes": 1299122,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\prada\\images\\si_chndm_1961-115-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:56:57.633542+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933582-0",
+      "title": "Selendang (shoulder cloth)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-115-10",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Red and green rectangular panel of silk. White rectangular border around the green separates it from the surrounding red. The gold printing (prada technique) makes use of the \"tumpal\" motif (row of isosceles triangles) and other geometric and floral shapes."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Palembang, Sumatra, Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-115-10"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Selendang (shoulder cloth)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: silk Technique: tied resist, stitched resist (tritik), and printed with metallic pigments(prada)"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 210.2 x 83.2 cm (82 3/4 x 32 3/4 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Palembang",
+            "Sumatra",
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              },
+              "L3": {
+                "type": "State",
+                "content": "Sumatra"
+              },
+              "L5": {
+                "type": "City",
+                "content": "Palembang"
+              }
+            }
+          ],
+          "object_type": [
+            "Selendang (shoulder cloth)",
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4a85028ab-dd54-45be-a52b-8bc53f6c55ce",
+          "title": {
+            "label": "Title",
+            "content": "Selendang (shoulder cloth)"
+          },
+          "record_ID": "chndm_1961-115-10",
+          "unit_code": "CHNDM",
+          "title_sort": "SELENDANG (SHOULDER CLOTH)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129186",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-1961-115-10MattFlynn",
+                "guid": "http://n2t.net/ark:/65665/vc960ad1422-f5b2-4020-a446-b7e97a1ef93f",
+                "type": "Images",
+                "idsId": "CHSDM-1961-115-10MattFlynn",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1961-115-10MattFlynn",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1961-115-10MattFlynn",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Red and green rectangular panel of silk. White rectangular border around the green separates it from the surrounding red. The gold printing (prada technique) makes use of the \"tumpal\" motif (row of isosceles triangles) and other geometric and floral shapes.",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-10MattFlynn.tif",
+                    "width": 1320,
+                    "height": 3000,
+                    "dimensions": "1320x3000"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-10MattFlynn.jpg",
+                    "width": 1320,
+                    "height": 3000,
+                    "dimensions": "1320x3000"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-10MattFlynn_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-10MattFlynn_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "45e391d154efd55ff392a15dda2fb72986f857e2",
+      "docSignature": "e0be1a3907afbc5ee2213fa83ded383f",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933588-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933588-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129195",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-115-2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "prada",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a gold-thread songket-style kain panjang sarong cloth with a diamond lattice pattern and floral border, a textile form worn across Indonesia including Bali; the geometric songket style is consistent with a garment plausible for the region, though the \"Yogyakarta\" location note suggests it may be Javanese rather than Balinese specifically — neighbouring Indonesian traditions cannot be firmly distinguished from the image alone.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Long sarong (kain panjang)",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave; painted with metallic pigments (prada)",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Long sarong (kain panjang)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 90.2 x 228 cm (35 1/2 x 89 3/4 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Yogyakarta, Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq457fa419b-3cc6-4ce0-a259-73ae69f4c7f4"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-0BAE08AF9D332-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e7c7e9f3a495b470e7c45791dba6144a5df02cfafd9dd08b9c0871f56410fb96",
+        "bytes": 6711353,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\prada\\images\\si_chndm_1961-115-2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:56:36.223305+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933588-0",
+      "title": "Long sarong (kain panjang)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-115-2",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Large sarong (kain panjang), batik in dark blue, showing diamond-shaped all-over pattern. Small border band on either side showing a grid-work pattern interrupted by squares. Piece painted with gold (prada technique) in lower regions leaving top free for handling and folding."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Yogyakarta, Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-115-2"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Long sarong (kain panjang)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave; painted with metallic pigments (prada)"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 90.2 x 228 cm (35 1/2 x 89 3/4 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Yogyakarta",
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              },
+              "L5": {
+                "type": "City",
+                "content": "Yogyakarta"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles",
+            "Long sarong (kain panjang)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq457fa419b-3cc6-4ce0-a259-73ae69f4c7f4",
+          "title": {
+            "label": "Title",
+            "content": "Long sarong (kain panjang)"
+          },
+          "record_ID": "chndm_1961-115-2",
+          "unit_code": "CHNDM",
+          "title_sort": "LONG SARONG (KAIN PANJANG)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129195",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-0BAE08AF9D332-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9ab927a56-f3fa-415d-8a83-70f16ebc8304",
+                "type": "Images",
+                "idsId": "CHSDM-0BAE08AF9D332-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-0BAE08AF9D332-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-0BAE08AF9D332-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Large sarong (kain panjang), batik in dark blue, showing diamond-shaped all-over pattern. Small border band on either side showing a grid-work pattern interrupted by squares. Piece painted with gold (prada technique) in lower regions leaving top free for handling and folding.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-0BAE08AF9D332-000001.jpg",
+                    "width": 7735,
+                    "height": 10303,
+                    "dimensions": "7735x10303"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-0BAE08AF9D332-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-0BAE08AF9D332-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "17fb01855c3e48df6b402d1ddb67f660d29d49ca",
+      "docSignature": "be5c044675bfa24fb6d09dbac91fff61",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  }
+]

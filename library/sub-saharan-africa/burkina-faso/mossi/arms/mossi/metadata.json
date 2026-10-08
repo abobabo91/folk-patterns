@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1922-1109-7",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1922-1109-7",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1922-1109-7",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1922.1109.7",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Burkina Faso",
+      "ethnicity": "Mossi",
+      "tradition": "Mossi",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "An iron-headed hammer-club with a long wooden shaft, a type of weapon/status object well documented among the Mossi of Burkina Faso; the museum credits Mossi manufacture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "club",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "club",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Iron-headed hammer-club with wooden shaft.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/17_14/ec1648b6_6eb7_4fc7_bbd3_a95e00eb008f/preview_EAF2642.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "51d9c6278f90b1290fe78fef6d065b9fb61d81df935e5ec5fda247c744437747",
+        "bytes": 17073,
+        "local_path": "library\\sub-saharan-africa\\burkina-faso\\mossi\\arms\\mossi\\images\\bm_E_Af1922_1109_7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:28:32.986353+00:00",
+    "raw": {
+      "title": "club",
+      "description": "Iron-headed hammer-club with wooden shaft.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_9/17_14/ec1648b6_6eb7_4fc7_bbd3_a95e00eb008f/preview_EAF2642.jpg",
+      "production_ethnic_groups": [
+        "Mossi"
+      ],
+      "production_ethnic_attribution": "Made by: Mossi"
+    }
+  }
+]

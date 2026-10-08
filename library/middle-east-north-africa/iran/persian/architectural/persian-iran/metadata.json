@@ -1,0 +1,612 @@
+[
+  {
+    "id": "europeana-181_share3d_1184",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Fitzwilliam Museum",
+      "object_id": "181_share3d_1184",
+      "object_url": "https://www.europeana.eu/item/181/share3d_1184?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "architectural",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The relief depicts two Achaemenid Persian courtiers from Persepolis, an ancient Persian palace relief — a stone carving fragment, not architecture itself, but Persian court art from the claimed culture's homeland.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Two Persian courtiers, Persepolis",
+      "titles_alt": [],
+      "date_text": "2022",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Fitzwilliam Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmedia.sketchfab.com%2Fmodels%2F2af5acdf2c1f4fdf8615617ad01fbddb%2Fthumbnails%2F6288a8f716c6405184932763465e577b%2F5c752fd805684661a670be42904587c2.jpeg&type=3D",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2bb33872fb3cf7b47b5260e8199eff913d2248c1503336aeadf54e61441e3b54",
+        "bytes": 9042,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\architectural\\persian-iran\\images\\eu_181_share3d_1184.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T14:49:35.717372+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "United Kingdom"
+      ],
+      "dataProvider": [
+        "Fitzwilliam Museum"
+      ],
+      "dcCreator": [
+        "fitzwilliammuseum"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "fitzwilliammuseum"
+        ]
+      },
+      "dcDescription": [
+        "Two Persian courtiers, one standing sideways, one standing frontally, with head turned back, grabbing each other's beards in greeting . This was from the Palace of Xerxes Persepolis Persia Iran."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Two Persian courtiers, one standing sideways, one standing frontally, with head turned back, grabbing each other's beards in greeting . This was from the Palace of Xerxes Persepolis Persia Iran."
+        ]
+      },
+      "dcLanguage": [
+        "en",
+        "English"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "en",
+          "English"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Two Persian courtiers, Persepolis"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300047090",
+        "http://vocab.getty.edu/aat/300234110",
+        "http://data.europeana.eu/concept/26"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Skulptur (visuelles Werk)"
+        },
+        {
+          "def": "archäologisches Objekt"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "esculturas"
+        },
+        {
+          "def": "Artefato"
+        },
+        {
+          "def": "sculpture (visual works)"
+        },
+        {
+          "def": "archaeological objects"
+        },
+        {
+          "def": "Archaeological artifact"
+        },
+        {
+          "def": "scultura"
+        },
+        {
+          "def": "Manufatto"
+        },
+        {
+          "def": "sculpture (œuvres visuelles)"
+        },
+        {
+          "def": "Artefact archéologique"
+        },
+        {
+          "def": "beeldhouwwerken (beeldmateriaal)"
+        },
+        {
+          "def": "archeologische objecten"
+        },
+        {
+          "def": "Artefact"
+        },
+        {
+          "def": "esculturas"
+        },
+        {
+          "def": "objetos arqueológicos"
+        },
+        {
+          "def": "Artefacto arqueológico"
+        },
+        {
+          "def": "Артефакт"
+        },
+        {
+          "def": "Artefakti"
+        },
+        {
+          "def": "Артефакт (археология)"
+        },
+        {
+          "def": "Archeologinis radinys"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "Arheoloģisks artefakts"
+        },
+        {
+          "def": "Megmunkált tárgy"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "Arheološki artefakt"
+        },
+        {
+          "def": "Déantán seandálaíochta"
+        },
+        {
+          "def": "Objecte arqueològic"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "Τέχνεργο"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "Artefaktu arkeologiko"
+        },
+        {
+          "def": "Artefakt archeologiczny"
+        },
+        {
+          "def": "Artefakt"
+        },
+        {
+          "def": "Artefact"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Artefakt",
+          "archäologisches Objekt",
+          "Skulptur (visuelles Werk)"
+        ],
+        "ru": [
+          "Артефакт"
+        ],
+        "fi": [
+          "Artefakti"
+        ],
+        "pt": [
+          "Artefato",
+          "esculturas"
+        ],
+        "bg": [
+          "Артефакт (археология)"
+        ],
+        "lt": [
+          "Archeologinis radinys"
+        ],
+        "hr": [
+          "Artefakt"
+        ],
+        "lv": [
+          "Arheoloģisks artefakts"
+        ],
+        "fr": [
+          "sculpture (œuvres visuelles)",
+          "Artefact archéologique"
+        ],
+        "hu": [
+          "Megmunkált tárgy"
+        ],
+        "sk": [
+          "Artefakt"
+        ],
+        "sl": [
+          "Arheološki artefakt"
+        ],
+        "ga": [
+          "Déantán seandálaíochta"
+        ],
+        "ca": [
+          "Objecte arqueològic"
+        ],
+        "sv": [
+          "Artefakt"
+        ],
+        "el": [
+          "Τέχνεργο"
+        ],
+        "en": [
+          "Archaeological artifact",
+          "sculpture (visual works)",
+          "archaeological objects"
+        ],
+        "it": [
+          "scultura",
+          "Manufatto"
+        ],
+        "es": [
+          "objetos arqueológicos",
+          "esculturas",
+          "Artefacto arqueológico"
+        ],
+        "et": [
+          "Artefakt"
+        ],
+        "cs": [
+          "Artefakt"
+        ],
+        "eu": [
+          "Artefaktu arkeologiko"
+        ],
+        "pl": [
+          "Artefakt archeologiczny"
+        ],
+        "da": [
+          "Artefakt"
+        ],
+        "ro": [
+          "Artefact"
+        ],
+        "nl": [
+          "beeldhouwwerken (beeldmateriaal)",
+          "archeologische objecten",
+          "Artefact"
+        ]
+      },
+      "edmDatasetName": [
+        "181_Share3D_181"
+      ],
+      "edmIsShownAt": [
+        "https://sketchfab.com/models/2af5acdf2c1f4fdf8615617ad01fbddb"
+      ],
+      "edmIsShownBy": [
+        "https://sketchfab.com/models/2af5acdf2c1f4fdf8615617ad01fbddb/embed"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Persepolis"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "def": [
+          "Persepolis"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "39.9123"
+      ],
+      "edmPlaceLongitude": [
+        "32.8582"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmedia.sketchfab.com%2Fmodels%2F2af5acdf2c1f4fdf8615617ad01fbddb%2Fthumbnails%2F6288a8f716c6405184932763465e577b%2F5c752fd805684661a670be42904587c2.jpeg&type=3D"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2022"
+        },
+        {
+          "def": "Bronze Age"
+        },
+        {
+          "def": "21st century"
+        },
+        {
+          "def": "http://vocab.getty.edu/page/aat/300019275"
+        },
+        {
+          "def": "https://www.wikidata.org/wiki/Q11761"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6939"
+        },
+        {
+          "def": "http://data.culture.fr/thesaurus/resource/ark:/67717/T4-46"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139024"
+        },
+        {
+          "def": "http://data.bnf.fr/ark:/12148/cb11930812p"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049674"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b43"
+        },
+        {
+          "def": "https://g.co/kg/m/08b43"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.984"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404515"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159816"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s01157225n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/21st_century"
+        },
+        {
+          "def": "21. Jahrhundert"
+        },
+        {
+          "def": "2000-luku"
+        },
+        {
+          "def": "XXI век"
+        },
+        {
+          "def": "Século XXI"
+        },
+        {
+          "def": "21 век"
+        },
+        {
+          "def": "XXI amžius"
+        },
+        {
+          "def": "21. stoljeće"
+        },
+        {
+          "def": "21. gadsimts"
+        },
+        {
+          "def": "XXIe siècle"
+        },
+        {
+          "def": "21. század"
+        },
+        {
+          "def": "21. storočie"
+        },
+        {
+          "def": "21. stoletje"
+        },
+        {
+          "def": "21ú haois"
+        },
+        {
+          "def": "Segle XXI"
+        },
+        {
+          "def": "2000-talet"
+        },
+        {
+          "def": "21ος αιώνας"
+        },
+        {
+          "def": "XXI secolo"
+        },
+        {
+          "def": "Siglo XXI"
+        },
+        {
+          "def": "21. sajand"
+        },
+        {
+          "def": "21. století"
+        },
+        {
+          "def": "XXI. mendea"
+        },
+        {
+          "def": "XXI wiek"
+        },
+        {
+          "def": "21. århundrede"
+        },
+        {
+          "def": "Secolul al XXI-lea"
+        },
+        {
+          "def": "21e eeuw"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "21. Jahrhundert"
+        ],
+        "fi": [
+          "2000-luku"
+        ],
+        "ru": [
+          "XXI век"
+        ],
+        "pt": [
+          "Século XXI"
+        ],
+        "bg": [
+          "21 век"
+        ],
+        "lt": [
+          "XXI amžius"
+        ],
+        "hr": [
+          "21. stoljeće"
+        ],
+        "lv": [
+          "21. gadsimts"
+        ],
+        "fr": [
+          "XXIe siècle"
+        ],
+        "hu": [
+          "21. század"
+        ],
+        "sk": [
+          "21. storočie"
+        ],
+        "sl": [
+          "21. stoletje"
+        ],
+        "ga": [
+          "21ú haois"
+        ],
+        "ca": [
+          "Segle XXI"
+        ],
+        "sv": [
+          "2000-talet"
+        ],
+        "el": [
+          "21ος αιώνας"
+        ],
+        "en": [
+          "Bronze Age",
+          "21st century"
+        ],
+        "it": [
+          "XXI secolo"
+        ],
+        "es": [
+          "Siglo XXI"
+        ],
+        "et": [
+          "21. sajand"
+        ],
+        "cs": [
+          "21. století"
+        ],
+        "eu": [
+          "XXI. mendea"
+        ],
+        "zxx": [
+          "2022"
+        ],
+        "pl": [
+          "XXI wiek"
+        ],
+        "da": [
+          "21. århundrede"
+        ],
+        "ro": [
+          "Secolul al XXI-lea"
+        ],
+        "nl": [
+          "21e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "181_Share3D_181"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/181/share3d_1184?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/181/share3d_1184",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/181/share3d_1184.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "CARARE"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 79.982895,
+      "timestamp": 1760080299336,
+      "timestamp_created": "2022-08-01T14:54:51.981Z",
+      "timestamp_created_epoch": 1659365691981,
+      "timestamp_update": "2025-10-10T07:09:58.713Z",
+      "timestamp_update_epoch": 1760080198713,
+      "title": [
+        "Two Persian courtiers, Persepolis"
+      ],
+      "type": "3D",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2022"
+      ]
+    }
+  }
+]

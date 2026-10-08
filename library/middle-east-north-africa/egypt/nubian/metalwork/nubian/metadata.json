@@ -1,0 +1,93 @@
+[
+  {
+    "id": "british_museum-G_1860-0928-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "G_1860-0928-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/G_1860-0928-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "G,1860.0928.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Egypt",
+      "ethnicity": "Nubian",
+      "tradition": "Nubian",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "metalwork",
+      "vision_reason": "A bronze vessel cast as a bust of a bearded man with elaborate hair/headdress and a handle spanning the top, mounted on a stand — this is likely a Greco-Roman antiquity depicting a \"Nubian\" or African figure, not an object made by a Nubian culture itself; it reads as classical/Roman bronze vessel work rather than indigenous Nubian metalwork.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": "vessel; bust",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "vessel; bust",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Bronze vessel in the form of a bust of a Nubian.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_21/cba959f5_be64_4006_a736_a3d9015add8a/preview_01107155_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1f0d9c99623a105aa55659ec11f1ff7bdb093021094b5ae3116d62a0ccc20180",
+        "bytes": 38185,
+        "local_path": "library\\middle-east-north-africa\\egypt\\nubian\\metalwork\\nubian\\images\\bm_G_1860-0928-3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:06:54.560618+00:00",
+    "raw": {
+      "title": "vessel; bust",
+      "description": "Bronze vessel in the form of a bust of a Nubian.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_21/cba959f5_be64_4006_a736_a3d9015add8a/preview_01107155_001.jpg"
+    }
+  }
+]

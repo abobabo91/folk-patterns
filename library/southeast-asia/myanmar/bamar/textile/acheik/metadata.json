@@ -1,0 +1,6303 @@
+[
+  {
+    "id": "va-O10875",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O10875",
+      "object_url": "https://collections.vam.ac.uk/item/O10875",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "6137(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a classic acheik-luntaya (hundred-shuttle) wave-patterned silk textile with the horizontal wave bands typical of traditional Burmese weaving, matching the Bamar cultural attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "3rd quarter 19th century",
+      "date_earliest": 1850,
+      "date_latest": 1875,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk of the luntaya (one hundred shuttles) interlocking tapestry weave.",
+      "classification": "Silk acheik-luntaya",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Acheik (horizontal wave) patterned textile.\r\nWarp: repeating bands of green, white, lime, yellow and coral.\r\nWeft: 3 repeating acheik patterns in the same colours as the warp.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "145",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "width",
+          "value": "63.5",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": [
+        {
+          "content": "\"544\"[Refers to sample of this silk in the Forbes-Watson <font -u>Textile Fabrics of India</font>. See Ref.]",
+          "inscriber": {
+            "name": {
+              "text": "",
+              "id": ""
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            }
+          },
+          "date": {
+            "text": "",
+            "earliest": null,
+            "latest": null
+          },
+          "description": "",
+          "interpretation": "",
+          "language": "",
+          "medium": "",
+          "method": "",
+          "position": "",
+          "script": "",
+          "translation": "",
+          "transliteration": "",
+          "type": "Label",
+          "note": "Label"
+        }
+      ]
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4371/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4371",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4371/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "289c8ec1937f40c05bd750092878a7af3367d1814eb3c8012195589e6389f578",
+        "bytes": 149471,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10875.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2011FB0618/full/1000,/0/default.jpg",
+        "iiif_id": "2011FB0618",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0618/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "a140c468d3e1bae0fa89ab73a6cf45b2ba8c89b09ce6858af5134cfdad1d9e01",
+        "bytes": 253472,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10875_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:21.054476+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O10875",
+        "accessionNumber": "6137(IS)",
+        "objectType": "Silk acheik-luntaya",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4371",
+        "_primaryDate": "3rd quarter 19th century",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4371/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4371/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O10875/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O10875",
+        "accessionNumber": "6137(IS)",
+        "objectType": "Silk acheik-luntaya",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Acheik (horizontal wave) patterned textile.\r\nWarp: repeating bands of green, white, lime, yellow and coral.\r\nWeft: 3 repeating acheik patterns in the same colours as the warp.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk of the luntaya (one hundred shuttles) interlocking tapestry weave.",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4371",
+          "2011FB0618"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Textile",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          },
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "3rd quarter 19th century",
+              "earliest": "1850-01-01",
+              "latest": "1875-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "145",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "width",
+            "value": "63.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [
+          {
+            "content": "\"544\"[Refers to sample of this silk in the Forbes-Watson <font -u>Textile Fabrics of India</font>. See Ref.]",
+            "inscriber": {
+              "name": {
+                "text": "",
+                "id": ""
+              },
+              "association": {
+                "text": "",
+                "id": ""
+              }
+            },
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "description": "",
+            "interpretation": "",
+            "language": "",
+            "medium": "",
+            "method": "",
+            "position": "",
+            "script": "",
+            "translation": "",
+            "transliteration": "",
+            "type": "Label",
+            "note": "Label"
+          }
+        ],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Burmese multi-coloured acheik-luntaya silk textile. Konbaung Dynasty (1752-1885), ca. 1870.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "U Aye Myint. <font -u>Burmese Design Through Drawings</font>\r\nSilpakorn University, Bangkok, 1993. Nos 691, 666, 667.,ill\r\nForbes Watson, Dr. John. <font -u>Textile Fabrics of India</font>\r\nLondon India Museum 1873-74. No. 544\r\nFraser-Lu, Sylvia. <font -u>Handwoven Textiles of South-East Asia</font>\r\nOxford University Press: 1988. 50 & 88p.,ill"
+          }
+        ],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "6137(IS)"
+        ],
+        "accessionNumberNum": "6137",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE",
+          "Textile"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-08",
+        "recordCreationDate": "1999-04-19",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O85007",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O85007",
+      "object_url": "https://collections.vam.ac.uk/item/O85007",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.27-1998",
+      "accession_year": 1998
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The image shows a length of acheik-luntaya silk with wave and creeper motifs and a plaid end panel, a classic Burmese (Bamar) weaving technique used for htamein skirt cloths.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1935-1939",
+      "date_earliest": 1930,
+      "date_latest": 1939,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)",
+        "dye",
+        "thread"
+      ],
+      "techniques": [
+        "weaving",
+        "stitching",
+        "dyeing"
+      ],
+      "medium_raw": "Silk. <font -u>Acheik-luntaya</font> interlocking tapestry weaving method.",
+      "classification": "Length of acheik-luntaya cloth",
+      "styles": [],
+      "categories": [
+        "Clothing",
+        "Textiles"
+      ],
+      "physical_description": "Garment made from two identical lengths (W. 50.4 cm) stitched along one side (selvage to selvage). \r\nWeft patterning spaced into17.8 cm. design repeats of <font -i>sun-kyo</font> (wave patterns), <font -i>gamoun</font> (creeper) & <font -i> nit lein kyo</font> (two twisted stripes) in orange, yellow, green magenta, white and peach.\r\nWarp patterning of broad green and orange stripes.\r\nOne end (L. 58.4 cm) finished in a broad peach and green plaid.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "378",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "117",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "h",
+        "i",
+        "s",
+        ",",
+        " ",
+        "i",
+        "n",
+        " ",
+        "a",
+        "l",
+        "l",
+        " ",
+        "p",
+        "r",
+        "o",
+        "b",
+        "a",
+        "b",
+        "i",
+        "l",
+        "i",
+        "t",
+        "y",
+        ",",
+        " ",
+        "w",
+        "a",
+        "s",
+        " ",
+        "i",
+        "n",
+        "t",
+        "e",
+        "n",
+        "d",
+        "e",
+        "d",
+        " ",
+        "t",
+        "o",
+        " ",
+        "f",
+        "o",
+        "r",
+        "m",
+        " ",
+        "a",
+        " ",
+        "m",
+        "a",
+        "n",
+        "'",
+        "s",
+        " ",
+        "<",
+        "f",
+        "o",
+        "n",
+        "t",
+        " ",
+        "-",
+        "u",
+        ">",
+        "p",
+        "a",
+        "h",
+        "-",
+        "s",
+        "o",
+        "e",
+        "<",
+        "/",
+        "f",
+        "o",
+        "n",
+        "t",
+        ">",
+        " ",
+        "(",
+        "w",
+        "r",
+        "a",
+        "p",
+        " ",
+        "s",
+        "k",
+        "i",
+        "r",
+        "t",
+        ")",
+        ".",
+        " ",
+        "S",
+        "u",
+        "c",
+        "h",
+        " ",
+        "v",
+        "o",
+        "l",
+        "u",
+        "m",
+        "i",
+        "n",
+        "o",
+        "u",
+        "s",
+        " ",
+        "s",
+        "k",
+        "i",
+        "r",
+        "t",
+        "s",
+        " ",
+        "c",
+        "o",
+        "n",
+        "t",
+        "i",
+        "n",
+        "u",
+        "e",
+        "d",
+        " ",
+        "t",
+        "o",
+        " ",
+        "b",
+        "e",
+        " ",
+        "w",
+        "o",
+        "r",
+        "n",
+        " ",
+        "i",
+        "n",
+        "t",
+        "o",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "2",
+        "0",
+        "t",
+        "h",
+        " ",
+        "c",
+        "e",
+        "n",
+        "t",
+        "u",
+        "r",
+        "y",
+        " ",
+        "o",
+        "n",
+        " ",
+        "m",
+        "o",
+        "r",
+        "e",
+        " ",
+        "f",
+        "o",
+        "r",
+        "m",
+        "a",
+        "l",
+        " ",
+        "o",
+        "c",
+        "c",
+        "a",
+        "s",
+        "i",
+        "o",
+        "n",
+        "s",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4381/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4381",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4381/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "2717684249b0121f120c192bcd5fc5268ead8ea75373573d6e537b8d06a645a4",
+        "bytes": 215181,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O85007.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:27.089940+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O85007",
+        "accessionNumber": "IS.27-1998",
+        "objectType": "Length of acheik-luntaya cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4381",
+        "_primaryDate": "ca. 1935-1939",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4381/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4381/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O85007/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O85007",
+        "accessionNumber": "IS.27-1998",
+        "objectType": "Length of acheik-luntaya cloth",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Garment made from two identical lengths (W. 50.4 cm) stitched along one side (selvage to selvage). \r\nWeft patterning spaced into17.8 cm. design repeats of <font -i>sun-kyo</font> (wave patterns), <font -i>gamoun</font> (creeper) & <font -i> nit lein kyo</font> (two twisted stripes) in orange, yellow, green magenta, white and peach.\r\nWarp patterning of broad green and orange stripes.\r\nOne end (L. 58.4 cm) finished in a broad peach and green plaid.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          },
+          {
+            "text": "dye",
+            "id": "AAT13029"
+          },
+          {
+            "text": "thread",
+            "id": "x30127"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          },
+          {
+            "text": "stitching",
+            "id": "x30413"
+          },
+          {
+            "text": "dyeing",
+            "id": "AAT53049"
+          }
+        ],
+        "materialsAndTechniques": "Silk. <font -u>Acheik-luntaya</font> interlocking tapestry weaving method.",
+        "categories": [
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          },
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4381"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Acheik luntaya cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1935-1939",
+              "earliest": "1930-01-01",
+              "latest": "1939-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "378",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "117",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "This, in all probability, was intended to form a man's <font -u>pah-soe</font> (wrap skirt). Such voluminous skirts continued to be worn into the 20th century on more formal occasions.",
+        "historicalContext": "",
+        "briefDescription": "Burmese silk <font -i>pah-soe</font> piece. <font -i>Acheik-luntaya</font> patterns in various colours. c. 1935 to 1939.",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.27-1998"
+        ],
+        "accessionNumberNum": "27",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1998,
+        "otherNumbers": [
+          {
+            "type": {
+              "text": "Previous loan number",
+              "id": "THES50326"
+            },
+            "number": "LOAN:COCHRANE D F.5"
+          }
+        ],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2003-10-29",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O10876",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O10876",
+      "object_url": "https://collections.vam.ac.uk/item/O10876",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "6138(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a silk luntaya acheik cloth with the characteristic wave-pattern woven stripes, a distinctive traditional Bamar (Burmese) court textile used for pah-soe and htamein garments.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "3rd quarter 19th century",
+      "date_earliest": 1850,
+      "date_latest": 1875,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk of the luntaya (one hundred shuttles) interlocking tapestry weave.",
+      "classification": "Silk acheik luntaya",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Repeating acheik (horizontal wave patterned) stripes of black, red and white on a warp ground of yellow, red, black and white stripes.  This may have formed a pah-soe (man's wrap around skirt) with 6151 (IS) which is an identical fabric.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "395",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "63",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4372/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4372",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4372/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "5fd41c8153c6e7f1f709d3153f3ab49fa960000a1557eb2886798ca7a0c36e00",
+        "bytes": 513436,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10876.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017JX7592/full/1000,/0/default.jpg",
+        "iiif_id": "2017JX7592",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7592/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "ce26d6e8abd724d68558596fc4710119361318cbd0708c1de6b84ffdab71b3c0",
+        "bytes": 309744,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10876_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:29.135073+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O10876",
+        "accessionNumber": "6138(IS)",
+        "objectType": "Silk acheik luntaya",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4372",
+        "_primaryDate": "3rd quarter 19th century",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4372/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4372/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O10876/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O10876",
+        "accessionNumber": "6138(IS)",
+        "objectType": "Silk acheik luntaya",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Repeating acheik (horizontal wave patterned) stripes of black, red and white on a warp ground of yellow, red, black and white stripes.  This may have formed a pah-soe (man's wrap around skirt) with 6151 (IS) which is an identical fabric.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk of the luntaya (one hundred shuttles) interlocking tapestry weave.",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4372",
+          "2017JX7592"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Textile",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "3rd quarter 19th century",
+              "earliest": "1850-01-01",
+              "latest": "1875-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "395",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "63",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Burmese multi-coloured acheik-luntaya silk textile. Konbaung Dynasty (1752-1885). ca. 1870",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Fraser-Lu, Sylvia, <font -u> Handwoven Textiles of South-East Asia:</font>\r\nOxford University Press,1988. 50p & 88p"
+          }
+        ],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "6138(IS)"
+        ],
+        "accessionNumberNum": "6138",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-08",
+        "recordCreationDate": "1999-04-19",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O11689",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O11689",
+      "object_url": "https://collections.vam.ac.uk/item/O11689",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.2-1888",
+      "accession_year": 1888
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The cloth shows woven weft acheik wave patterns with plaid end borders, a classic Burmese silk skirt-cloth (pah-soe) type strongly associated with Bamar dress and Mandalay weaving traditions.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "early 1880s",
+      "date_earliest": 1880,
+      "date_latest": 1885,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk luntaya ('100 shuttles' interlocking tapestry weave) cloth",
+      "classification": "Skirt cloth",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "Textiles",
+        "Clothing",
+        "Men's clothes"
+      ],
+      "physical_description": "A piece made up of four and a half  repeats of various weft acheik (horizontal wave) patterns with checkered end borders in a subtle variation of tones including deep pink, gold colour, two shades of green, maroon and white.\r\n\r\nThis length would have formed half a pah-soe.",
+      "summary": "This detail shows the long edge of a silk piece intended to form part of a \r\n<i>pah-soe</i>, the voluminous wrapped and draped skirt worn by fashionably dressed Burmese gentlemen on festive occasions. \r\nTypical of such a garment this piece displays the unique Burmese pattern called '100 shuttles' in an interlocking tapestry weave known as <i>acheik-luntaya</i> in a design and colours reserved for men's clothing.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "381",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "186.5",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Mandalay (City)",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "c",
+        "l",
+        "o",
+        "t",
+        "h",
+        " ",
+        "w",
+        "a",
+        "s",
+        " ",
+        "c",
+        "l",
+        "a",
+        "i",
+        "m",
+        "e",
+        "d",
+        " ",
+        "b",
+        "y",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "d",
+        "o",
+        "n",
+        "o",
+        "r",
+        " ",
+        "t",
+        "o",
+        " ",
+        "h",
+        "a",
+        "v",
+        "e",
+        " ",
+        "b",
+        "e",
+        "e",
+        "n",
+        " ",
+        "g",
+        "i",
+        "v",
+        "e",
+        "n",
+        " ",
+        "b",
+        "y",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "K",
+        "i",
+        "n",
+        "g",
+        " ",
+        "[",
+        "T",
+        "h",
+        "i",
+        "b",
+        "a",
+        "w",
+        " ",
+        "r",
+        ".",
+        "1",
+        "8",
+        "7",
+        "6",
+        "-",
+        "1",
+        "8",
+        "8",
+        "5",
+        "]",
+        " ",
+        "t",
+        "o",
+        " ",
+        "h",
+        "i",
+        "s",
+        " ",
+        "P",
+        "r",
+        "i",
+        "m",
+        "e",
+        " ",
+        "M",
+        "i",
+        "n",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        ",",
+        " ",
+        "a",
+        "n",
+        "d",
+        " ",
+        "b",
+        "y",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "l",
+        "a",
+        "t",
+        "t",
+        "e",
+        "r",
+        " ",
+        "g",
+        "i",
+        "v",
+        "e",
+        "n",
+        " ",
+        "t",
+        "o",
+        " ",
+        "a",
+        " ",
+        "f",
+        "r",
+        "i",
+        "e",
+        "n",
+        "d",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "d",
+        "o",
+        "n",
+        "o",
+        "r",
+        ".",
+        " ",
+        "T",
+        "h",
+        "e",
+        " ",
+        "r",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        " ",
+        "s",
+        "a",
+        "y",
+        "s",
+        " ",
+        "t",
+        "h",
+        "a",
+        "t",
+        " ",
+        "i",
+        "t",
+        " ",
+        "w",
+        "a",
+        "s",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "R",
+        "o",
+        "y",
+        "a",
+        "l",
+        " ",
+        "l",
+        "o",
+        "o",
+        "m",
+        " ",
+        "i",
+        "n",
+        " ",
+        "K",
+        "i",
+        "n",
+        "g",
+        " ",
+        "T",
+        "h",
+        "i",
+        "b",
+        "a",
+        "w",
+        "'",
+        "s",
+        " ",
+        "P",
+        "a",
+        "l",
+        "a",
+        "c",
+        "e",
+        " ",
+        "a",
+        "t",
+        " ",
+        "M",
+        "a",
+        "n",
+        "d",
+        "a",
+        "l",
+        "a",
+        "y",
+        ".",
+        " ",
+        "P",
+        "l",
+        "a",
+        "c",
+        "e",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "B",
+        "u",
+        "r",
+        "m",
+        "e",
+        "s",
+        "e",
+        " ",
+        "C",
+        "a",
+        "s",
+        "e",
+        ",",
+        " ",
+        "R",
+        "o",
+        "o",
+        "m",
+        " ",
+        "I",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "m",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        ".",
+        " ",
+        "6",
+        "t",
+        "h",
+        " ",
+        "F",
+        "e",
+        "b",
+        "r",
+        "u",
+        "a",
+        "r",
+        "y",
+        ",",
+        " ",
+        "1",
+        "8",
+        "8",
+        "8",
+        ".",
+        "\r",
+        "\n",
+        "\r",
+        "\n",
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "a",
+        "c",
+        "q",
+        "u",
+        "i",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "i",
+        "n",
+        "f",
+        "o",
+        "r",
+        "m",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "r",
+        "e",
+        "f",
+        "l",
+        "e",
+        "c",
+        "t",
+        "s",
+        " ",
+        "t",
+        "h",
+        "a",
+        "t",
+        " ",
+        "f",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "r",
+        "e",
+        "c",
+        "o",
+        "r",
+        "d",
+        "s",
+        " ",
+        "(",
+        "A",
+        "s",
+        "i",
+        "a",
+        " ",
+        "D",
+        "e",
+        "p",
+        "a",
+        "r",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "r",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "s",
+        " ",
+        "a",
+        "n",
+        "d",
+        "/",
+        "o",
+        "r",
+        " ",
+        "C",
+        "e",
+        "n",
+        "t",
+        "r",
+        "a",
+        "l",
+        " ",
+        "I",
+        "n",
+        "v",
+        "e",
+        "n",
+        "t",
+        "o",
+        "r",
+        "y",
+        ")",
+        " ",
+        "a",
+        "s",
+        " ",
+        "p",
+        "a",
+        "r",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "a",
+        " ",
+        "2",
+        "0",
+        "2",
+        "3",
+        " ",
+        "p",
+        "r",
+        "o",
+        "v",
+        "e",
+        "n",
+        "a",
+        "n",
+        "c",
+        "e",
+        " ",
+        "r",
+        "e",
+        "s",
+        "e",
+        "a",
+        "r",
+        "c",
+        "h",
+        " ",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4364/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4364",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4364/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "4c972ed847c97590c0a622b77e5e38fac820038a1a1c8287dab6b1a0a425a70e",
+        "bytes": 111092,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11689.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AT8864/full/1000,/0/default.jpg",
+        "iiif_id": "2006AT8864",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8864/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "e42c2a2f01c74476a971bee14376a83d17fc133d375db384aed235756b89cf86",
+        "bytes": 110171,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11689_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:57.472244+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O11689",
+        "accessionNumber": "IS.2-1888",
+        "objectType": "Skirt cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4364",
+        "_primaryDate": "early 1880s",
+        "_primaryPlace": "Mandalay (City)",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4364/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4364/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O11689/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O11689",
+        "accessionNumber": "IS.2-1888",
+        "objectType": "Skirt cloth",
+        "titles": [],
+        "summaryDescription": "This detail shows the long edge of a silk piece intended to form part of a \r\n<i>pah-soe</i>, the voluminous wrapped and draped skirt worn by fashionably dressed Burmese gentlemen on festive occasions. \r\nTypical of such a garment this piece displays the unique Burmese pattern called '100 shuttles' in an interlocking tapestry weave known as <i>acheik-luntaya</i> in a design and colours reserved for men's clothing.",
+        "physicalDescription": "A piece made up of four and a half  repeats of various weft acheik (horizontal wave) patterns with checkered end borders in a subtle variation of tones including deep pink, gold colour, two shades of green, maroon and white.\r\n\r\nThis length would have formed half a pah-soe.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk luntaya ('100 shuttles' interlocking tapestry weave) cloth",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          },
+          {
+            "text": "Men's clothes",
+            "id": "THES49043"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4364",
+          "2006AT8864"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Textiles",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Mandalay (City)",
+              "id": "x30359"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "early 1880s",
+              "earliest": "1880-01-01",
+              "latest": "1885-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "381",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "186.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "This cloth was claimed by the donor to have been given by the King [Thibaw r.1876-1885] to his Prime Minister, and by the latter given to a friend of the donor. The register says that it was from the Royal loom in King Thibaw's Palace at Mandalay. Placed in the Burmese Case, Room I in the museum. 6th February, 1888.\r\n\r\nThis acquisition information reflects that found in the Museum records (Asia Department registers and/or Central Inventory) as part of a 2023 provenance research project.",
+        "historicalContext": "",
+        "briefDescription": "Part of a man's skirt (<i>pah-soe</i>), Burmese silk pah-soe piece. Konbaung Dynasty (1752-1885). ca. 1880. Acheik-luntaya patterns in various colours.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Franklin & Swallow. <font -u>Identifying with the Gods</font>\r\nHali Annual Edition 1994: p. 53, Fig. 7"
+          }
+        ],
+        "production": "\"From the Royal loom in King Theebaw's Palace at Mandalay\"",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.2-1888"
+        ],
+        "accessionNumberNum": "2",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1888,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-16",
+        "recordCreationDate": "1999-08-31",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O10877",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O10877",
+      "object_url": "https://collections.vam.ac.uk/item/O10877",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "6140(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A striped silk cloth described as acheik-luntaya pattern from Pegu, Myanmar — a garment cloth (worn as a longyi/wrap) associated with Bamar dress; though this is a simple striped variant rather than the classic wave motif, it fits the claimed culture and region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "3rd Quarter of 19th century",
+      "date_earliest": 1850,
+      "date_latest": 1875,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk luntaya (one hundred shuttles) interlocking tapestry weave.",
+      "classification": "Acheik-luntaya silk textile",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Acheik (horizontal wave) patterned cloth in dark green, white and red.\r\nIdentical pattern to 6146 (IS)",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "108",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "61",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Pegu",
+      "made_in_place_alt": [
+        "Burma"
+      ],
+      "current_gallery": "006",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP5255/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP5255",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP5255/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "ad4cda0d214e6048c1ddf345c09a7dd44e251bad1ca00ab7a1a72bfeaa730fb0",
+        "bytes": 317210,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10877.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:24.645786+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O10877",
+        "accessionNumber": "6140(IS)",
+        "objectType": "Acheik-luntaya silk textile",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312137",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP5255",
+        "_primaryDate": "3rd Quarter of 19th century",
+        "_primaryPlace": "Pegu",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP5255/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP5255/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O10877/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O10877",
+        "accessionNumber": "6140(IS)",
+        "objectType": "Acheik-luntaya silk textile",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Acheik (horizontal wave) patterned cloth in dark green, white and red.\r\nIdentical pattern to 6146 (IS)",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk luntaya (one hundred shuttles) interlocking tapestry weave.",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP5255"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "006",
+              "id": "THES312137"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Fragment",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          },
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Pegu",
+              "id": "x30475"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          },
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "3rd Quarter of 19th century",
+              "earliest": "1850-01-01",
+              "latest": "1875-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "108",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "61",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Burmese fragment of a multi-coloured acheik-luntaya silk textile. Konbaung Dynasty (1752-1885). ca. 1870",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Forbes Watson, J. <font -u>Textile Fabrics of India</font>\r\nLondon: India Museum: 1873-74. No. 547\r\nFraser-Lu, Sylvia. <font -u>Handwoven Textiles of  South-East Asia</font>\r\nOxford University Press, 1988. 50p & 88p."
+          }
+        ],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "6140(IS)"
+        ],
+        "accessionNumberNum": "6140",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE",
+          "Fragment"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-16",
+        "recordCreationDate": "1999-04-19",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O10964",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O10964",
+      "object_url": "https://collections.vam.ac.uk/item/O10964",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "6152(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The cloth shows the classic acheik wave-stripe pattern woven in the luntaya technique traditionally associated with Bamar (Burmese) court dress, intended as material for a man's pah-soe. This is a well-documented Bamar textile form.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "3rd quarter 19th century",
+      "date_earliest": 1850,
+      "date_latest": 1875,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk luntaya (one hundred shuttles) interlocking tapestry weave.",
+      "classification": "Acheik-luntaya silk textile",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Two lengths of  cloth tacked together along one selvage edge. Repeating acheik (horizontal wave pattern) stripes of red, green and yellow on a white warp ground. Possibly intended to form a pah-soe (man's wrap around skirt).",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "213.5",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "33",
+          "unit": "cm",
+          "part": "1st length"
+        },
+        {
+          "dimension": "Length",
+          "value": "122",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "33",
+          "unit": "cm",
+          "part": "2nd length"
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Pegu",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4373/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4373",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4373/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "ff6427518d3bd7a0426eac9254aa56412b2602008469c133a2423d2c2be1a89c",
+        "bytes": 631136,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10964.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2011FB0603/full/1000,/0/default.jpg",
+        "iiif_id": "2011FB0603",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2011FB0603/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "015b4d884638292b9100a62286edab7a0c02dfd97f0aa9b467a5d3e4cf28bcd8",
+        "bytes": 229727,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O10964_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:47.656385+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O10964",
+        "accessionNumber": "6152(IS)",
+        "objectType": "Acheik-luntaya silk textile",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4373",
+        "_primaryDate": "3rd quarter 19th century",
+        "_primaryPlace": "Pegu",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4373/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4373/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O10964/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O10964",
+        "accessionNumber": "6152(IS)",
+        "objectType": "Acheik-luntaya silk textile",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Two lengths of  cloth tacked together along one selvage edge. Repeating acheik (horizontal wave pattern) stripes of red, green and yellow on a white warp ground. Possibly intended to form a pah-soe (man's wrap around skirt).",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk luntaya (one hundred shuttles) interlocking tapestry weave.",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4373",
+          "2011FB0603"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Textile",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Pegu",
+              "id": "x30475"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "3rd quarter 19th century",
+              "earliest": "1850-01-01",
+              "latest": "1875-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "213.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "33",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "1st length",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "122",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "33",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "2nd length",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Multi-coloured acheik-luntaya silk textile, from Pegu, Burma (Myanmar). Konbaung Dynasty (1752-1885), ca. 1870.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Fraser-Lu. Sylvia. <font -u>Handwoven Textiles of South-East Asia</font>\r\nOxford University Press, 1994. 50 & 90p. ill"
+          },
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Forbes Watson, J. <font -uTextile Fabrics of India</font>\r\nLondon: India Museum, 1873-74.  No. 545"
+          }
+        ],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "6152(IS)"
+        ],
+        "accessionNumberNum": "6152",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-16",
+        "recordCreationDate": "1999-04-27",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O11563",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O11563",
+      "object_url": "https://collections.vam.ac.uk/item/O11563",
+      "iiif_manifest": null,
+      "credit_line": "Purchased from Mrs Bronte Pollard",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IM.8-1909",
+      "accession_year": 1909
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a classic acheik luntaya \"hundred shuttles\" silk tapestry weave with wave-and-scroll patterning, a signature Burmese (Bamar) court textile technique, matching the Mandalay attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1885",
+      "date_earliest": 1880,
+      "date_latest": 1889,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk acheik-luntaya hand-woven tapestry weave",
+      "classification": "Yinzi or tabet",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "Womenswear",
+        "Textiles"
+      ],
+      "physical_description": "Acheik (horizontal wave patterned) textile breast cloth (Yinzi) or stole (tabet) in silk luntaya ('100 shuttles' interlocking) tapestry weave. The pattern is of a multi-strand cable design alternating with bands of undulating floral, creepers and straight bands filled very closely with conventional flowers and leaf scrolls in red, pink, orange, yellow, light and dark greens, white and black on a red ground. The ends are finished in deep checkered bands in the colours of the main body.",
+      "summary": "This is a detail of a silk garment, woven on a hand-loom in Mandalay Palace.  The bands of undulating rope design, filled with floral and leaf patterns in a range of stunning colours on a red ground, exemplifies the renowned and uniquely Burmese textile known as <i>acheik-luntaya</i>. This garment would have been worn by a lady of the court either as a <i>tabet</i> (stole) or a <i>yinzi</i> (breast cloth), forming an ensemble when worn with a wrap skirt known in Burma as an <i>hta-mein</i> and jacket known as an <i>ein-gyi</i>.\r\n\r\nThe garment dates from the reign of King Thibaw (r. 1878-1885), the last ruler of the Konbaung dynasty. It was found in the apartment of Queen Supayalat, the chief queen of King Thibaw, by the donor's husband, Colonel Pollard, who was a member of the British force that annexed upper Burma in 1885.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "264",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "27.4",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Length",
+          "value": "104",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "10.75",
+          "unit": "in",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Mandalay",
+      "made_in_place_alt": [],
+      "current_gallery": "006",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "g",
+        "a",
+        "r",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "w",
+        "a",
+        "s",
+        " ",
+        "f",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "8",
+        "5",
+        " ",
+        "b",
+        "y",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "h",
+        "u",
+        "s",
+        "b",
+        "a",
+        "n",
+        "d",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "d",
+        "o",
+        "n",
+        "o",
+        "r",
+        ",",
+        " ",
+        "C",
+        "o",
+        "l",
+        ".",
+        " ",
+        "P",
+        "o",
+        "l",
+        "l",
+        "a",
+        "r",
+        "d",
+        ",",
+        " ",
+        "a",
+        "t",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "R",
+        "o",
+        "y",
+        "a",
+        "l",
+        " ",
+        "P",
+        "a",
+        "l",
+        "a",
+        "c",
+        "e",
+        ",",
+        " ",
+        "M",
+        "a",
+        "n",
+        "d",
+        "a",
+        "l",
+        "a",
+        "y",
+        ",",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "a",
+        "p",
+        "a",
+        "r",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "c",
+        "h",
+        "i",
+        "e",
+        "f",
+        " ",
+        "q",
+        "u",
+        "e",
+        "e",
+        "n",
+        " ",
+        "(",
+        "m",
+        "i",
+        "b",
+        "a",
+        "y",
+        "a",
+        ")",
+        ",",
+        " ",
+        "Q",
+        "u",
+        "e",
+        "e",
+        "n",
+        " ",
+        "S",
+        "u",
+        "p",
+        "a",
+        "y",
+        "a",
+        "l",
+        "a",
+        "t",
+        ",",
+        " ",
+        "o",
+        "f",
+        " ",
+        "K",
+        "i",
+        "n",
+        "g",
+        " ",
+        "T",
+        "h",
+        "i",
+        "b",
+        "a",
+        "w",
+        " ",
+        "(",
+        "r",
+        ".",
+        "1",
+        "8",
+        "7",
+        "8",
+        "-",
+        "1",
+        "8",
+        "8",
+        "5",
+        ")",
+        " ",
+        "w",
+        "i",
+        "t",
+        "h",
+        " ",
+        "I",
+        "M",
+        " ",
+        "7",
+        ",",
+        " ",
+        "9",
+        ",",
+        " ",
+        "1",
+        "0",
+        "-",
+        "1",
+        "9",
+        "0",
+        "9",
+        ".",
+        "\r",
+        "\n",
+        "\r",
+        "\n",
+        "P",
+        "u",
+        "r",
+        "c",
+        "h",
+        "a",
+        "s",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "M",
+        "r",
+        "s",
+        " ",
+        "B",
+        "r",
+        "o",
+        "n",
+        "t",
+        "e",
+        " ",
+        "P",
+        "o",
+        "l",
+        "l",
+        "a",
+        "r",
+        "d",
+        ",",
+        " ",
+        "1",
+        "0",
+        "4",
+        " ",
+        "Q",
+        "u",
+        "e",
+        "e",
+        "n",
+        "'",
+        "s",
+        " ",
+        "G",
+        "a",
+        "t",
+        "e",
+        ",",
+        " ",
+        "S",
+        "W",
+        ".",
+        " ",
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "a",
+        "c",
+        "q",
+        "u",
+        "i",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "i",
+        "n",
+        "f",
+        "o",
+        "r",
+        "m",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "r",
+        "e",
+        "f",
+        "l",
+        "e",
+        "c",
+        "t",
+        "s",
+        " ",
+        "t",
+        "h",
+        "a",
+        "t",
+        " ",
+        "f",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "r",
+        "e",
+        "c",
+        "o",
+        "r",
+        "d",
+        "s",
+        " ",
+        "(",
+        "A",
+        "s",
+        "i",
+        "a",
+        " ",
+        "D",
+        "e",
+        "p",
+        "a",
+        "r",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "r",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "s",
+        " ",
+        "a",
+        "n",
+        "d",
+        "/",
+        "o",
+        "r",
+        " ",
+        "C",
+        "e",
+        "n",
+        "t",
+        "r",
+        "a",
+        "l",
+        " ",
+        "I",
+        "n",
+        "v",
+        "e",
+        "n",
+        "t",
+        "o",
+        "r",
+        "y",
+        ")",
+        " ",
+        "a",
+        "s",
+        " ",
+        "p",
+        "a",
+        "r",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "a",
+        " ",
+        "2",
+        "0",
+        "2",
+        "3",
+        " ",
+        "p",
+        "r",
+        "o",
+        "v",
+        "e",
+        "n",
+        "a",
+        "n",
+        "c",
+        "e",
+        " ",
+        "r",
+        "e",
+        "s",
+        "e",
+        "a",
+        "r",
+        "c",
+        "h",
+        " ",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        ".",
+        "\r",
+        "\n",
+        "\r",
+        "\n",
+        "R",
+        "P",
+        " ",
+        "4",
+        "7",
+        "3",
+        "4",
+        "/",
+        "1",
+        "9",
+        "0",
+        "9"
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4335/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4335",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4335/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "dcb88e85e356db19c5562c342b22d7421a4593399402ceb9713157b4e3ada211",
+        "bytes": 71899,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11563.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AN7085/full/1000,/0/default.jpg",
+        "iiif_id": "2006AN7085",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AN7085/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "48378c2cf17e1a1cb4a3c34eac9fdd92e1b4a71827c3ebb389edf1c60fe96441",
+        "bytes": 112418,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11563_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:51.355159+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O11563",
+        "accessionNumber": "IM.8-1909",
+        "objectType": "Yinzi or tabet",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312137",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4335",
+        "_primaryDate": "ca. 1885",
+        "_primaryPlace": "Mandalay",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4335/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4335/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O11563/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O11563",
+        "accessionNumber": "IM.8-1909",
+        "objectType": "Yinzi or tabet",
+        "titles": [],
+        "summaryDescription": "This is a detail of a silk garment, woven on a hand-loom in Mandalay Palace.  The bands of undulating rope design, filled with floral and leaf patterns in a range of stunning colours on a red ground, exemplifies the renowned and uniquely Burmese textile known as <i>acheik-luntaya</i>. This garment would have been worn by a lady of the court either as a <i>tabet</i> (stole) or a <i>yinzi</i> (breast cloth), forming an ensemble when worn with a wrap skirt known in Burma as an <i>hta-mein</i> and jacket known as an <i>ein-gyi</i>.\r\n\r\nThe garment dates from the reign of King Thibaw (r. 1878-1885), the last ruler of the Konbaung dynasty. It was found in the apartment of Queen Supayalat, the chief queen of King Thibaw, by the donor's husband, Colonel Pollard, who was a member of the British force that annexed upper Burma in 1885.",
+        "physicalDescription": "Acheik (horizontal wave patterned) textile breast cloth (Yinzi) or stole (tabet) in silk luntaya ('100 shuttles' interlocking) tapestry weave. The pattern is of a multi-strand cable design alternating with bands of undulating floral, creepers and straight bands filled very closely with conventional flowers and leaf scrolls in red, pink, orange, yellow, light and dark greens, white and black on a red ground. The ends are finished in deep checkered bands in the colours of the main body.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk acheik-luntaya hand-woven tapestry weave",
+        "categories": [
+          {
+            "text": "Womenswear",
+            "id": "THES49044"
+          },
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4335",
+          "2006AN7085"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "006",
+              "id": "THES312137"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Breast cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Mandalay",
+              "id": "x32792"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1885",
+              "earliest": "1880-01-01",
+              "latest": "1889-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Purchased from Mrs Bronte Pollard",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "264",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "27.4",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "104",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "10.75",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "This garment was found in 1885 by the husband of the donor, Col. Pollard, at the Royal Palace, Mandalay, in the apartment of the chief queen (mibaya), Queen Supayalat, of King Thibaw (r.1878-1885) with IM 7, 9, 10-1909.\r\n\r\nPurchased from Mrs Bronte Pollard, 104 Queen's Gate, SW. This acquisition information reflects that found in the Museum records (Asia Department registers and/or Central Inventory) as part of a 2023 provenance research project.\r\n\r\nRP 4734/1909",
+        "historicalContext": "",
+        "briefDescription": "Acheik (horizontal wave patterned) textile breast cloth (Yinzi) or stole (tabet) in silk luntaya tapestry weave, Mandalay, ca. 1885",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Franklin & Swallow. <font -u>Identifying with the Gods</font>; \r\nHali Annual Edition 1994: 53p; Fig.4."
+          }
+        ],
+        "production": "Attribution note: Woven on a hand loom in Mandalay Palace. Konbaung Dynasty (1752-1885).",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IM.8-1909"
+        ],
+        "accessionNumberNum": "8",
+        "accessionNumberPrefix": "IM",
+        "accessionYear": 1909,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-16",
+        "recordCreationDate": "1999-07-14",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O11179",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O11179",
+      "object_url": "https://collections.vam.ac.uk/item/O11179",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "9756(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a classic Burmese acheik (wave-pattern) silk skirt panel joined with a train, a textile form strongly associated with the Bamar/Burmese court and traditional dress.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1850",
+      "date_earliest": 1845,
+      "date_latest": 1854,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)",
+        "cotton"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk luntaya ('100 shuttles' interlocking tapestry weave) cloth and cloth of plain cotton weave",
+      "classification": "Skirt",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Composed of three parts. A red cotton waistband joined to a strip of acheik (horizontal wave patterned) silk textile of three pattern repeats with checkered end borders in lime, yellow, white, maroon, green, coral, dark green and royal blue. The weft colours are repeated in the tightly banded warp ground. The acheik panel is attached to a separately woven silk train of two pieces sewn together half worked with a pattern of narrow stripes repeating the colours of the acheik panel on a coral ground. The components are hand stitched together and lined with white cotton.",
+      "summary": "This beautifully patterned cotton and silk wrap skirt known as a <i>hta-mein</i>, dating to before 1855, would have been worn by a fashionable Burmese woman of the time on festive occasions. She would have worn it overlapping slightly in the front, revealing a portion of her leg as she walked. It would have formed part of an ensemble, as depicted, with a jacket (5623(IS)) and a breast cloth (IM.10-1909). Typical of <i>hta-mein</i>, the central area is the focus of decorative interest and displays the unique horizontal wave patterned \"100 shuttles\" interlocking tapestry weave known in Burmese as <i>acheik-luntaya</i> in greens, blues, yellow and white on a red ground. From this flows a striped pink train, the graceful management of which was an acquired skill.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "145",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "106",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": [
+        {
+          "content": "No. 131\r\nTamine\r\nBurmese -  woman's\r\nwaist cloth",
+          "inscriber": {
+            "name": {
+              "text": "",
+              "id": ""
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            }
+          },
+          "date": {
+            "text": "",
+            "earliest": null,
+            "latest": null
+          },
+          "description": "",
+          "interpretation": "",
+          "language": "",
+          "medium": "",
+          "method": "",
+          "position": "",
+          "script": "",
+          "translation": "",
+          "transliteration": "",
+          "type": "Label",
+          "note": "Label"
+        }
+      ]
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "r",
+        "a",
+        "n",
+        "s",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "7",
+        "9",
+        ".",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "S",
+        "l",
+        "i",
+        "p",
+        " ",
+        "b",
+        "o",
+        "o",
+        "k",
+        " ",
+        "e",
+        "n",
+        "t",
+        "r",
+        "y",
+        " ",
+        "3",
+        "1",
+        "8",
+        "4",
+        ":",
+        " ",
+        "'",
+        "W",
+        "o",
+        "m",
+        "a",
+        "n",
+        "'",
+        "s",
+        " ",
+        "S",
+        "i",
+        "l",
+        "k",
+        " ",
+        "d",
+        "r",
+        "e",
+        "s",
+        "s",
+        " ",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        " ",
+        "/",
+        " ",
+        "T",
+        "a",
+        "m",
+        "i",
+        "n",
+        "e",
+        " ",
+        "/",
+        " ",
+        "T",
+        "e",
+        "n",
+        "a",
+        "s",
+        "s",
+        "o",
+        "r",
+        "i",
+        "m",
+        " ",
+        "&",
+        " ",
+        "M",
+        "a",
+        "r",
+        "t",
+        "o",
+        "b",
+        "a",
+        "n",
+        " ",
+        "p",
+        "r",
+        "o",
+        "v",
+        "i",
+        "n",
+        "c",
+        "e",
+        "s",
+        " ",
+        "/",
+        " ",
+        "5",
+        "5",
+        "/",
+        " ",
+        "V",
+        "a",
+        "r",
+        "i",
+        "g",
+        "a",
+        "t",
+        "e",
+        "d",
+        " ",
+        "c",
+        "o",
+        "l",
+        "o",
+        "r",
+        "s",
+        " ",
+        "l",
+        "i",
+        "n",
+        "e",
+        "d",
+        " ",
+        "w",
+        "i",
+        "t",
+        "h",
+        " ",
+        "c",
+        "o",
+        "t",
+        "t",
+        "o",
+        "n",
+        " ",
+        "f",
+        "a",
+        "s",
+        "t",
+        "e",
+        "n",
+        "e",
+        "d",
+        " ",
+        "w",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "w",
+        "a",
+        "i",
+        "s",
+        "t",
+        "'",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4377/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4377",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4377/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "3254fc145e2db0b0aaa485ea14c198ba9b924d07dff23cd58600d47cdfaf6d97",
+        "bytes": 155654,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11179.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AT8853/full/1000,/0/default.jpg",
+        "iiif_id": "2006AT8853",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8853/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "c97451a0f7d92fac38673ebf61a57c5a4474da6658d6c9649cce8182fc0a0dbe",
+        "bytes": 103537,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11179_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:33:54.218551+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O11179",
+        "accessionNumber": "9756(IS)",
+        "objectType": "Skirt",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4377",
+        "_primaryDate": "ca. 1850",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4377/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4377/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O11179/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O11179",
+        "accessionNumber": "9756(IS)",
+        "objectType": "Skirt",
+        "titles": [],
+        "summaryDescription": "This beautifully patterned cotton and silk wrap skirt known as a <i>hta-mein</i>, dating to before 1855, would have been worn by a fashionable Burmese woman of the time on festive occasions. She would have worn it overlapping slightly in the front, revealing a portion of her leg as she walked. It would have formed part of an ensemble, as depicted, with a jacket (5623(IS)) and a breast cloth (IM.10-1909). Typical of <i>hta-mein</i>, the central area is the focus of decorative interest and displays the unique horizontal wave patterned \"100 shuttles\" interlocking tapestry weave known in Burmese as <i>acheik-luntaya</i> in greens, blues, yellow and white on a red ground. From this flows a striped pink train, the graceful management of which was an acquired skill.",
+        "physicalDescription": "Composed of three parts. A red cotton waistband joined to a strip of acheik (horizontal wave patterned) silk textile of three pattern repeats with checkered end borders in lime, yellow, white, maroon, green, coral, dark green and royal blue. The weft colours are repeated in the tightly banded warp ground. The acheik panel is attached to a separately woven silk train of two pieces sewn together half worked with a pattern of narrow stripes repeating the colours of the acheik panel on a coral ground. The components are hand stitched together and lined with white cotton.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          },
+          {
+            "text": "cotton",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk luntaya ('100 shuttles' interlocking tapestry weave) cloth and cloth of plain cotton weave",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4377",
+          "2006AT8853"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Woman's skirt",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1850",
+              "earliest": "1845-01-01",
+              "latest": "1854-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "145",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "106",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [
+          {
+            "content": "No. 131\r\nTamine\r\nBurmese -  woman's\r\nwaist cloth",
+            "inscriber": {
+              "name": {
+                "text": "",
+                "id": ""
+              },
+              "association": {
+                "text": "",
+                "id": ""
+              }
+            },
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "description": "",
+            "interpretation": "",
+            "language": "",
+            "medium": "",
+            "method": "",
+            "position": "",
+            "script": "",
+            "translation": "",
+            "transliteration": "",
+            "type": "Label",
+            "note": "Label"
+          }
+        ],
+        "objectHistory": "Transferred from the India Museum in 1879. India Museum Slip book entry 3184: 'Woman's Silk dress piece / Tamine / Tenassorim & Martoban provinces / 55/ Varigated colors lined with cotton fastened wound the waist'.",
+        "historicalContext": "",
+        "briefDescription": "Burmese  red cotton and multi-coloured silk hta-mein. Konbaung Dynasty (1752-1885). ca. 1850. Acheik-luntaya patterned area.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Franklin and Swallow. <font -u>Identifying with the Gods</font>\r\n                                   Hali Annual Edition 1994: p.51, ill. Fig. 3"
+          }
+        ],
+        "production": "Acquired by the India Museum from Tenassarim, Martaban Province in 1855.",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "9756(IS)"
+        ],
+        "accessionNumberNum": "9756",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [
+          {
+            "type": {
+              "text": "India Museum Slip Book",
+              "id": "THES50388"
+            },
+            "number": "3184"
+          }
+        ],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-03-12",
+        "recordCreationDate": "1999-06-02",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O11616",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O11616",
+      "object_url": "https://collections.vam.ac.uk/item/O11616",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "0798(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The mannequin wears a plaid longyi paired with a checkered acheik-patterned silk wrap and a white jacket — the wavy weft-acheik pattern is a distinctively Burmese (Bamar) weaving technique, consistent with a man's traditional skirt/textile ensemble.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "early 1850s",
+      "date_earliest": 1850,
+      "date_latest": 1855,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Fine quality silk luntaya ('100 shuttles' interlocking tapestry weave) cloth",
+      "classification": "Man's skirt",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Formed of two identical lengths (each W. 61 cm.) handstitched along one side (ie. selvage to selvage). The main body of each length is made up of  over 3 pattern repeats of weft acheik (horizontal wave) patterns with checkered end borders in vivid colours of coral, lime, red, white, yellow, blue and navy.",
+      "summary": "This beautifully patterned, voluminously wrapped and draped silk skirt, is known as a \r\n<i>pah-soe</i>. Dating to before 1855, it was worn by fashionable Burmese gentlemen during festive occasions. Typical of a formal <i>pah-soe</i>, it is woven in vivid colours and displays the unique Burmese pattern called '100 shuttles' in an interlocking tapestry weave known as <i>acheik-luntaya</i>. It would have formed part of an ensemble, with an <i>ein-gyi</i> (jacket).",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "422",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "122",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "001",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "R",
+        "e",
+        "c",
+        "e",
+        "i",
+        "v",
+        "e",
+        "d",
+        " ",
+        "1",
+        "8",
+        "5",
+        "5",
+        ".",
+        " ",
+        "T",
+        "r",
+        "a",
+        "n",
+        "s",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "7",
+        "9",
+        ".",
+        " ",
+        "1",
+        "8",
+        "8",
+        "0",
+        " ",
+        "R",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        " ",
+        " ",
+        " ",
+        " ",
+        "E",
+        "n",
+        "t",
+        "r",
+        "y",
+        ":",
+        " ",
+        "[",
+        "R",
+        "O",
+        "O",
+        "M",
+        " ",
+        "8",
+        ".",
+        " ",
+        "C",
+        "a",
+        "s",
+        "e",
+        " ",
+        "4",
+        "4",
+        ".",
+        "]",
+        " ",
+        " ",
+        "'",
+        "0",
+        "7",
+        "9",
+        "8",
+        ".",
+        " ",
+        "S",
+        "C",
+        "A",
+        "R",
+        "F",
+        ".",
+        " ",
+        "S",
+        "i",
+        "l",
+        "k",
+        ",",
+        " ",
+        "c",
+        "r",
+        "i",
+        "m",
+        "s",
+        "o",
+        "n",
+        " ",
+        "g",
+        "r",
+        "o",
+        "u",
+        "n",
+        "d",
+        ",",
+        " ",
+        "z",
+        "i",
+        "g",
+        "z",
+        "a",
+        "g",
+        " ",
+        "s",
+        "t",
+        "r",
+        "i",
+        "p",
+        "e",
+        "s",
+        " ",
+        "o",
+        "f",
+        " ",
+        "v",
+        "a",
+        "r",
+        "i",
+        "o",
+        "u",
+        "s",
+        " ",
+        "c",
+        "o",
+        "l",
+        "o",
+        "u",
+        "r",
+        "s",
+        ";",
+        " ",
+        "B",
+        "u",
+        "r",
+        "m",
+        "a",
+        "h",
+        ".",
+        " ",
+        "3",
+        ",",
+        "1",
+        "7",
+        "7",
+        "'"
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AT8854/full/1000,/0/default.jpg",
+        "iiif_id": "2006AT8854",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8854/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "66a92c67d64303c7c11b70b63c614c3d5d93221974f134b7f3a9177c058136c9",
+        "bytes": 101060,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11616.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:34:00.938697+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O11616",
+        "accessionNumber": "0798(IS)",
+        "objectType": "Man's skirt",
+        "availableToBook": false,
+        "_currentLocation": {
+          "id": "THES308142",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006AT8854",
+        "_primaryDate": "early 1850s",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006AT8854/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006AT8854/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O11616/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O11616",
+        "accessionNumber": "0798(IS)",
+        "objectType": "Man's skirt",
+        "titles": [],
+        "summaryDescription": "This beautifully patterned, voluminously wrapped and draped silk skirt, is known as a \r\n<i>pah-soe</i>. Dating to before 1855, it was worn by fashionable Burmese gentlemen during festive occasions. Typical of a formal <i>pah-soe</i>, it is woven in vivid colours and displays the unique Burmese pattern called '100 shuttles' in an interlocking tapestry weave known as <i>acheik-luntaya</i>. It would have formed part of an ensemble, with an <i>ein-gyi</i> (jacket).",
+        "physicalDescription": "Formed of two identical lengths (each W. 61 cm.) handstitched along one side (ie. selvage to selvage). The main body of each length is made up of  over 3 pattern repeats of weft acheik (horizontal wave) patterns with checkered end borders in vivid colours of coral, lime, red, white, yellow, blue and navy.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Fine quality silk luntaya ('100 shuttles' interlocking tapestry weave) cloth",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2006AT8854"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "001",
+              "id": "THES308142"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Man's skirt",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "early 1850s",
+              "earliest": "1850-01-01",
+              "latest": "1855-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [
+          {
+            "object": {
+              "text": "5631(IS)",
+              "id": "O11723"
+            },
+            "association": "Object"
+          }
+        ],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "422",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "122",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Received 1855. Transferred from the India Museum in 1879. 1880 Register    Entry: [ROOM 8. Case 44.]  '0798. SCARF. Silk, crimson ground, zigzag stripes of various colours; Burmah. 3,177'",
+        "historicalContext": "",
+        "briefDescription": "Burmese silk pah-soe. Konbaung Dynasty (1752-1885). ca. 1850. Acheik-luntaya patterns in various colours.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Ferrars, Max and Bertha. <font -u>Burma</font>\r\n                                        London: 1901. pp. 59 & 60, ill.\r\n\r\nFraser-Lu, Sylvia. <font -u>Handwoven Textiles of South East Asia</font>\r\n                             Oxford University Press: 1988. pp. 50 & 86, ill.\r\n\r\nFranklin & Swallow. <font -u>Identifying with the Gods</font>\r\n                                 Hali Annual Edition 1994: p. 53, ill. Fig 9"
+          }
+        ],
+        "production": "Received from Tenasserim of Martabon Province.",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "0798(IS)"
+        ],
+        "accessionNumberNum": "0798",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [
+          {
+            "type": {
+              "text": "India Museum Slip Book",
+              "id": "THES50388"
+            },
+            "number": "3177"
+          }
+        ],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-11-06",
+        "recordCreationDate": "1999-07-26",
+        "availableToBook": false
+      }
+    }
+  },
+  {
+    "id": "va-O11180",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O11180",
+      "object_url": "https://collections.vam.ac.uk/item/O11180",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "9757(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The image shows a hand-woven silk skirt panel with acheik wave-pattern weaving characteristic of traditional Burmese (Bamar) court dress, matching the described htamein textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1850",
+      "date_earliest": 1845,
+      "date_latest": 1854,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)",
+        "cotton"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk luntaya ('100 shuttles' interlocking tapestry weave) cloth, cotton muslin and plain cotton weave",
+      "classification": "Skirt",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Composed of three parts. A red cotton waistband joined to a strip of coral silk textile with over three pattern repeats of eight different rows of acheik (horizontal wave patterns) with checkered end borders in lime, navy, yellow and white to which is attached a separately woven coral silk train of two pieces sewn together half worked with a pattern of narrow stripes repeating the colours of the acheik panel and half woven with white to create a silvery effect. The components are hand stitched together and lined with white and for the train red cotton.",
+      "summary": "This is a beautifully patterned cotton and silk wrap-skirt known as a <i>hta-mein</i>. Dating to before 1855, it would have been worn by a fashionable Burmese woman on festive occasions. She would have worn it overlapping slightly in the front, revealing a portion of her leg as she walked. It would have formed an ensemble, with a fitted jacket, open in front, known as an <i>ein-gyi</i>, under which she would have worn a \r\n<i>yinzi</i> (breast cloth). Typical of <i>hta-mein</i>, the central area is the focus of decorative interest and displays the unique '100 shuttles' interlocking tapestry weave known in Burmese as <i>acheik-luntaya</i> in lime, navy, yellow and white on a coral background. From this flows a striped coral train--the graceful management of which would have been an acquired skill.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "140",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "116",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "r",
+        "a",
+        "n",
+        "s",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "7",
+        "9",
+        ".",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "S",
+        "l",
+        "i",
+        "p",
+        " ",
+        "b",
+        "o",
+        "o",
+        "k",
+        " ",
+        "e",
+        "n",
+        "t",
+        "r",
+        "y",
+        " ",
+        "3",
+        "1",
+        "8",
+        "2",
+        ":",
+        " ",
+        "'",
+        "W",
+        "o",
+        "m",
+        "a",
+        "n",
+        "s",
+        " ",
+        "S",
+        "i",
+        "l",
+        "k",
+        " ",
+        "d",
+        "r",
+        "e",
+        "s",
+        "s",
+        " ",
+        "p",
+        "i",
+        "e",
+        "c",
+        "e",
+        " ",
+        "/",
+        " ",
+        "T",
+        "a",
+        "m",
+        "i",
+        "n",
+        "e",
+        " ",
+        "/",
+        " ",
+        "T",
+        "e",
+        "n",
+        "a",
+        "s",
+        "e",
+        "r",
+        "i",
+        "m",
+        " ",
+        "&",
+        " ",
+        "M",
+        "a",
+        "r",
+        "t",
+        "a",
+        "b",
+        "a",
+        "n",
+        " ",
+        "p",
+        "r",
+        "o",
+        "v",
+        "i",
+        "n",
+        "c",
+        "e",
+        "s",
+        " ",
+        "/",
+        " ",
+        "5",
+        "5",
+        " ",
+        "/",
+        " ",
+        "B",
+        "o",
+        "d",
+        "y",
+        " ",
+        "C",
+        "o",
+        "v",
+        "e",
+        "r",
+        "i",
+        "n",
+        "g",
+        " ",
+        "l",
+        "i",
+        "n",
+        "e",
+        "d",
+        " ",
+        "w",
+        "i",
+        "t",
+        "h",
+        " ",
+        "C",
+        "o",
+        "t",
+        "t",
+        "o",
+        "n",
+        ".",
+        " ",
+        "T",
+        "i",
+        "e",
+        "d",
+        " ",
+        "r",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "W",
+        "a",
+        "i",
+        "s",
+        "t",
+        " ",
+        "/",
+        " ",
+        "S",
+        "m",
+        "a",
+        "l",
+        "l",
+        " ",
+        "S",
+        "i",
+        "z",
+        "e",
+        "'",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4359/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4359",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4359/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "ea589ebd379f47b3922096849a3654d90a1be48b5424b74e6e272045e0094cea",
+        "bytes": 146485,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11180.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AT8865/full/1000,/0/default.jpg",
+        "iiif_id": "2006AT8865",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8865/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "059dd5928796c89b3e315d8edc418d186f5eb373b68a8b78d15a74a15aef66d4",
+        "bytes": 85349,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11180_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:34:03.269974+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O11180",
+        "accessionNumber": "9757(IS)",
+        "objectType": "Skirt",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4359",
+        "_primaryDate": "ca. 1850",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4359/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4359/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O11180/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O11180",
+        "accessionNumber": "9757(IS)",
+        "objectType": "Skirt",
+        "titles": [],
+        "summaryDescription": "This is a beautifully patterned cotton and silk wrap-skirt known as a <i>hta-mein</i>. Dating to before 1855, it would have been worn by a fashionable Burmese woman on festive occasions. She would have worn it overlapping slightly in the front, revealing a portion of her leg as she walked. It would have formed an ensemble, with a fitted jacket, open in front, known as an <i>ein-gyi</i>, under which she would have worn a \r\n<i>yinzi</i> (breast cloth). Typical of <i>hta-mein</i>, the central area is the focus of decorative interest and displays the unique '100 shuttles' interlocking tapestry weave known in Burmese as <i>acheik-luntaya</i> in lime, navy, yellow and white on a coral background. From this flows a striped coral train--the graceful management of which would have been an acquired skill.",
+        "physicalDescription": "Composed of three parts. A red cotton waistband joined to a strip of coral silk textile with over three pattern repeats of eight different rows of acheik (horizontal wave patterns) with checkered end borders in lime, navy, yellow and white to which is attached a separately woven coral silk train of two pieces sewn together half worked with a pattern of narrow stripes repeating the colours of the acheik panel and half woven with white to create a silvery effect. The components are hand stitched together and lined with white and for the train red cotton.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          },
+          {
+            "text": "cotton",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk luntaya ('100 shuttles' interlocking tapestry weave) cloth, cotton muslin and plain cotton weave",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4359",
+          "2006AT8865"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Woman's skirt",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1850",
+              "earliest": "1845-01-01",
+              "latest": "1854-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "140",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "116",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Transferred from the India Museum in 1879. India Museum Slip book entry 3182: 'Womans Silk dress piece / Tamine / Tenaserim & Martaban provinces / 55 / Body Covering lined with Cotton. Tied round the Waist / Small Size'.",
+        "historicalContext": "",
+        "briefDescription": "Burmese red cotton and multi-coloured silk hta-mein. Konbaung Dynasty (1752-1885). ca. 1850. Acheik-luntaya patterned area.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Franklin & Swallow. <font -u>Identifying with the Gods</font>\r\n                                 Hali Annual Edition 1994: p.51, ill. Fig. 5"
+          }
+        ],
+        "production": "Acquired by the India Museum from Tenassarim, Martaban Province in 1855.\n\nAttribution note: \"small size\" - 1880 Slip Book description",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "9757(IS)"
+        ],
+        "accessionNumberNum": "9757",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [
+          {
+            "type": {
+              "text": "India Museum Slip Book",
+              "id": "THES50388"
+            },
+            "number": "3182"
+          }
+        ],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-03-12",
+        "recordCreationDate": "1999-06-02",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O11564",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O11564",
+      "object_url": "https://collections.vam.ac.uk/item/O11564",
+      "iiif_manifest": null,
+      "credit_line": "Purchased from Mrs Bronte Pollard",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IM.9-1909",
+      "accession_year": 1909
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "Bamar",
+      "tradition": "acheik",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a hand-woven silk luntaya acheik tapestry-weave cloth, the classic Bamar (Myanmar court) textile tradition, with the characteristic wave patterns and checkered end borders described, from Mandalay.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1885",
+      "date_earliest": 1880,
+      "date_latest": 1889,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Silk acheik-luntaya hand-woven tapestry weave and gilt thread",
+      "classification": "Yinzi or tabet",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "Womenswear",
+        "Textiles"
+      ],
+      "physical_description": "Yinzi (breast cloth) or tabet (stole) of silk acheik-luntaya ('100' shuttles interlocking) hand-woven tapestry weave. In the acheik section the weft threads are double or triple. In the end borders they are single. Organised into a central body of acheik (horizontal wave) patterns (Length 137.5 cm) and two checkered end borders (Length 57 and 58 cm).\r\n\r\nThe acheik section consists of warp length bands. Three bands of approximately 6.5 cm with four divider bands and 2 plain outer borders. Worked with dark red, lighter red, yellow and gilt thread. The divider lines are in dark red and yellow 'twisted rope' wavy lines patterns. The wider panels are with double wavy lines in dark red punctuated by two rows of alternate yellow and gilt thread sprigs. White silk replaces the gilt thread at the end.\n\r\nThe first border consists 10 weft bands divided by a single white weft - return of double white thread. Bands alternating in two different shades of red. Warp thread of cloth is in a lighter and darker red - darker thread being used as a divider device.\r\n\r\nThe second border consists of 10 weft bands in a sequence of light red, dark red, light red, dark red, light red, yellow, dark red, light red, yellow and light red.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "253",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "29.75",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Length",
+          "value": "102",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "11.92",
+          "unit": "in",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Mandalay",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "g",
+        "a",
+        "r",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "w",
+        "a",
+        "s",
+        " ",
+        "f",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "8",
+        "5",
+        " ",
+        "b",
+        "y",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "h",
+        "u",
+        "s",
+        "b",
+        "a",
+        "n",
+        "d",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "d",
+        "o",
+        "n",
+        "o",
+        "r",
+        ",",
+        " ",
+        "C",
+        "o",
+        "l",
+        ".",
+        " ",
+        "P",
+        "o",
+        "l",
+        "l",
+        "a",
+        "r",
+        "d",
+        ",",
+        " ",
+        "a",
+        "t",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "R",
+        "o",
+        "y",
+        "a",
+        "l",
+        " ",
+        "P",
+        "a",
+        "l",
+        "a",
+        "c",
+        "e",
+        ",",
+        " ",
+        "M",
+        "a",
+        "n",
+        "d",
+        "a",
+        "l",
+        "a",
+        "y",
+        ",",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "a",
+        "p",
+        "a",
+        "r",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "c",
+        "h",
+        "i",
+        "e",
+        "f",
+        " ",
+        "q",
+        "u",
+        "e",
+        "e",
+        "n",
+        " ",
+        "(",
+        "m",
+        "i",
+        "b",
+        "a",
+        "y",
+        "a",
+        ")",
+        ",",
+        " ",
+        "Q",
+        "u",
+        "e",
+        "e",
+        "n",
+        " ",
+        "S",
+        "u",
+        "p",
+        "a",
+        "y",
+        "a",
+        "l",
+        "a",
+        "t",
+        ",",
+        " ",
+        "o",
+        "f",
+        " ",
+        "K",
+        "i",
+        "n",
+        "g",
+        " ",
+        "T",
+        "h",
+        "i",
+        "b",
+        "a",
+        "w",
+        " ",
+        "(",
+        "r",
+        ".",
+        "1",
+        "8",
+        "7",
+        "8",
+        "-",
+        "1",
+        "8",
+        "8",
+        "5",
+        ")",
+        " ",
+        "w",
+        "i",
+        "t",
+        "h",
+        " ",
+        "I",
+        "M",
+        " ",
+        "7",
+        ",",
+        " ",
+        "8",
+        ",",
+        " ",
+        "1",
+        "0",
+        "-",
+        "1",
+        "9",
+        "0",
+        "9",
+        ".",
+        "\r",
+        "\n",
+        "\r",
+        "\n",
+        "P",
+        "u",
+        "r",
+        "c",
+        "h",
+        "a",
+        "s",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "M",
+        "r",
+        "s",
+        " ",
+        "B",
+        "r",
+        "o",
+        "n",
+        "t",
+        "e",
+        " ",
+        "P",
+        "o",
+        "l",
+        "l",
+        "a",
+        "r",
+        "d",
+        ",",
+        " ",
+        "1",
+        "0",
+        "4",
+        " ",
+        "Q",
+        "u",
+        "e",
+        "e",
+        "n",
+        "'",
+        "s",
+        " ",
+        "G",
+        "a",
+        "t",
+        "e",
+        ",",
+        " ",
+        "S",
+        "W",
+        ".",
+        " ",
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "a",
+        "c",
+        "q",
+        "u",
+        "i",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "i",
+        "n",
+        "f",
+        "o",
+        "r",
+        "m",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "r",
+        "e",
+        "f",
+        "l",
+        "e",
+        "c",
+        "t",
+        "s",
+        " ",
+        "t",
+        "h",
+        "a",
+        "t",
+        " ",
+        "f",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "r",
+        "e",
+        "c",
+        "o",
+        "r",
+        "d",
+        "s",
+        " ",
+        "(",
+        "A",
+        "s",
+        "i",
+        "a",
+        " ",
+        "D",
+        "e",
+        "p",
+        "a",
+        "r",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "r",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "s",
+        " ",
+        "a",
+        "n",
+        "d",
+        "/",
+        "o",
+        "r",
+        " ",
+        "C",
+        "e",
+        "n",
+        "t",
+        "r",
+        "a",
+        "l",
+        " ",
+        "I",
+        "n",
+        "v",
+        "e",
+        "n",
+        "t",
+        "o",
+        "r",
+        "y",
+        ")",
+        " ",
+        "a",
+        "s",
+        " ",
+        "p",
+        "a",
+        "r",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "a",
+        " ",
+        "2",
+        "0",
+        "2",
+        "3",
+        " ",
+        "p",
+        "r",
+        "o",
+        "v",
+        "e",
+        "n",
+        "a",
+        "n",
+        "c",
+        "e",
+        " ",
+        "r",
+        "e",
+        "s",
+        "e",
+        "a",
+        "r",
+        "c",
+        "h",
+        " ",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        ".",
+        "\r",
+        "\n",
+        "\r",
+        "\n",
+        "R",
+        "P",
+        " ",
+        "4",
+        "7",
+        "3",
+        "4",
+        "/",
+        "1",
+        "9",
+        "0",
+        "9"
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP4360/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP4360",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP4360/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "5c7fb1d23a78f790af3d9b338acec4469990f506de2702473eaf515f98a282ee",
+        "bytes": 58534,
+        "local_path": "library\\southeast-asia\\myanmar\\bamar\\textile\\acheik\\images\\va_O11564.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:34:06.469159+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O11564",
+        "accessionNumber": "IM.9-1909",
+        "objectType": "Yinzi or tabet",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312138",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP4360",
+        "_primaryDate": "ca. 1885",
+        "_primaryPlace": "Mandalay",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP4360/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP4360/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O11564/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O11564",
+        "accessionNumber": "IM.9-1909",
+        "objectType": "Yinzi or tabet",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Yinzi (breast cloth) or tabet (stole) of silk acheik-luntaya ('100' shuttles interlocking) hand-woven tapestry weave. In the acheik section the weft threads are double or triple. In the end borders they are single. Organised into a central body of acheik (horizontal wave) patterns (Length 137.5 cm) and two checkered end borders (Length 57 and 58 cm).\r\n\r\nThe acheik section consists of warp length bands. Three bands of approximately 6.5 cm with four divider bands and 2 plain outer borders. Worked with dark red, lighter red, yellow and gilt thread. The divider lines are in dark red and yellow 'twisted rope' wavy lines patterns. The wider panels are with double wavy lines in dark red punctuated by two rows of alternate yellow and gilt thread sprigs. White silk replaces the gilt thread at the end.\n\r\nThe first border consists 10 weft bands divided by a single white weft - return of double white thread. Bands alternating in two different shades of red. Warp thread of cloth is in a lighter and darker red - darker thread being used as a divider device.\r\n\r\nThe second border consists of 10 weft bands in a sequence of light red, dark red, light red, dark red, light red, yellow, dark red, light red, yellow and light red.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "C168"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Silk acheik-luntaya hand-woven tapestry weave and gilt thread",
+        "categories": [
+          {
+            "text": "Womenswear",
+            "id": "THES49044"
+          },
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP4360"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES312138"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Breast cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Mandalay",
+              "id": "x30359"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1885",
+              "earliest": "1880-01-01",
+              "latest": "1889-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Purchased from Mrs Bronte Pollard",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "253",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "29.75",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "102",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "11.92",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "This garment was found in 1885 by the husband of the donor, Col. Pollard, at the Royal Palace, Mandalay, in the apartment of the chief queen (mibaya), Queen Supayalat, of King Thibaw (r.1878-1885) with IM 7, 8, 10-1909.\r\n\r\nPurchased from Mrs Bronte Pollard, 104 Queen's Gate, SW. This acquisition information reflects that found in the Museum records (Asia Department registers and/or Central Inventory) as part of a 2023 provenance research project.\r\n\r\nRP 4734/1909",
+        "historicalContext": "",
+        "briefDescription": "Yinzi (breast cloth) or tabet (stole) of silk acheik-luntaya hand-woven tapestry weave, Mandalay, ca. 1885.",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Fraser-Lu, Sylvia. <font -u> Handwoven Textiles of South-East Asia</font>. Oxford University Press: 1988. 50 & 88p., Figs. 113 & 114"
+          }
+        ],
+        "production": "Attribution note: Woven on a hand loom in Mandalay Palace. Konbaung Dynasty (1752-1885).",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IM.9-1909"
+        ],
+        "accessionNumberNum": "9",
+        "accessionNumberPrefix": "IM",
+        "accessionYear": 1909,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-08",
+        "recordCreationDate": "1999-07-14",
+        "availableToBook": true
+      }
+    }
+  }
+]

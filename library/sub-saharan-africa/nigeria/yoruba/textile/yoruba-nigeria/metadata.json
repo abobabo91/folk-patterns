@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_48888",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_48888",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48888?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a dark indigo resist-dyed cloth divided into a grid of squares, each filled with white/light resist patterns (concentric circles, lines, X-motifs) — a classic adire/plangi indigo textile consistent with Yoruba resist-dyeing tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "väv, fabric, adire",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1255361%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f1d62362c17e4367bdf6912cdcd83d90537e9a596f8fe8f8124e91d8c7d1d64e",
+        "bytes": 29732,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_48888.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:31.959252+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Plangi, vävnad/adire\nYorubastammen, s.k. adirebatik\näkta plangi + översydda veck\n\n\"Bronzy Idigs\"",
+        "Gösta Sandberg",
+        "Västafrika",
+        "Västafrika",
+        "1998.11.0195",
+        "Yorouba",
+        "Yoruba"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Plangi, vävnad/adire\nYorubastammen, s.k. adirebatik\näkta plangi + översydda veck\n\n\"Bronzy Idigs\"",
+          "Gösta Sandberg",
+          "Västafrika",
+          "Västafrika"
+        ],
+        "def": [
+          "1998.11.0195",
+          "Yorouba",
+          "Yoruba"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "väv, fabric, adire"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/48888"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1255361/image.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1255361%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48888?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_48888",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_48888.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 105.76488,
+      "timestamp": 1752047575125,
+      "timestamp_created": "2014-10-01T16:24:04.239Z",
+      "timestamp_created_epoch": 1412180644239,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "väv, fabric, adire"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_47646",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_47646",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_47646?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image clearly shows a folded piece of intricately patterned indigo-dyed adire cloth, matching the description of a hand-stitched-resist Yoruba textile displayed against a red backdrop.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "väv, fabric, adire alabere, adirevävnad",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1228604%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "61ccbc64193e8965a28c83c25c3080b6e9e6b1a6a0ae221ecae176d48717885a",
+        "bytes": 34378,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_47646.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:31.965806+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Adirevävnad av bomull. Kallas adire alabere. Reservagefärgning över-sydda veck. Den använda tråden framställd av raffiapalmens bladnerv.\nJämför nr: 0859a-b.\nFärgämne: indigo. Kulör: Indigoblå\n\nFörvärvsdatum: 9 oktober 1987\nGåva av Aino Ternstedt Oni-Okpaku, Lagos\n\nKatalogiserad för G. Sandberg av K. Wadensten, Nora den 20/41988.",
+        "Gösta Sandberg",
+        "Nigeria Okensi-området, Ibadan",
+        "1998.11.1176",
+        "Yorubaland, Nigeria",
+        "Nigeria"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Adirevävnad av bomull. Kallas adire alabere. Reservagefärgning över-sydda veck. Den använda tråden framställd av raffiapalmens bladnerv.\nJämför nr: 0859a-b.\nFärgämne: indigo. Kulör: Indigoblå\n\nFörvärvsdatum: 9 oktober 1987\nGåva av Aino Ternstedt Oni-Okpaku, Lagos\n\nKatalogiserad för G. Sandberg av K. Wadensten, Nora den 20/41988.",
+          "Gösta Sandberg",
+          "Nigeria Okensi-området, Ibadan"
+        ],
+        "def": [
+          "1998.11.1176",
+          "Yorubaland, Nigeria",
+          "Nigeria"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "väv, fabric, adire alabere, adirevävnad"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/47646"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1228604/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1228604%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_47646?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_47646",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_47646.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 97.32103,
+      "timestamp": 1752047575100,
+      "timestamp_created": "2014-10-01T16:23:20.300Z",
+      "timestamp_created_epoch": 1412180600300,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "väv, fabric, adire alabere, adirevävnad"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_185605",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_185605",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_185605?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a wide-sleeved cotton shirt/jacket with a decorative striped lower panel, a garment type consistent with traditional Yoruba men's dress; it is plausibly made/worn by the Yoruba.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Cotton shirt or jacket with long, wide sleeves",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1903/1903"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-A-11056.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8df34d00f3679309f95f2122176a532d8b747962d4f7b104786a1360bd88a05e",
+        "bytes": 16073,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\textile\\yoruba-nigeria\\images\\eu_2048221_europeana_fashion_185605.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:36.283710+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "The Yoruba are the most urbane African people. As early as the 11th century, their first city, Ile-Ife, was the centre of an influential city-state, and other city-states with bustling centres soon followed. This development has continued to the present day. The Yoruba culture has close affinities with that of the Fon in southern Benin and Togo. Their political systems and religious worlds are virtually identical, and the arts of both groups also show mutual influence.Many of the objects are used in religion and for endorsing the leadership systems of the royal court and of the elder societies, the Ogboni. These societies, with both male and female members, rule with the king. Ogboni must prevent abuse of power by the king, function as a court and play a leading role in the election, inauguration and burial of kings.‖ The garment is entirely hand-sewn from white cotton. At the bodice, the fabric is triple-thick due to deep vertical pleats. The pleats are sewn on with a fine running stitch. At the transition from the bodice to the skirt, the pleats end in a sharp point and there are also gathers in between. The front and back of the body are lined with a triangular piece of white cotton that also runs into the sleeve with a small triangle. The round neckline is decorated with green cotton thread. There are two slanting pockets on the stomach. Around the pocket opening, the same green running stitch decoration has been applied. Striped cotton fabric in red, white and black has been applied along the inside of the wide sleeve opening and along the inside of the bottom of the skirt.",
+        "De Yoruba is het meest urbane Afrikaanse volk. Al vanaf de 11e eeuw was hun eerste stad, Ile-Ife, het centrum van een invloedrijke stadstaat, en gauw volgden andere stadstaten met bruisende centra. Deze ontwikkeling heeft zich tot de dag van vandaag voortgezet. De Yoruba cultuur heeft nauwe raakvlakken met die van de Fon in zuidelijk Benin en Togo. Hun politieke systemen en religieuze werelden zijn vrijwel identiek, en ook de kunsten van beide groepen tonen wederzijdse beïnvloeding.\nVeel van de objecten worden gebruikt in de religie en voor het onderschrijven van de leiderschapssystemen van het koninklijke hof en van de ouderengenootschappen, de Ogboni. Deze genootschappen, met zowel mannelijke als vrouwelijke leden, regeren samen met de koning. Ogboni moet machtsmisbruik door de koning voorkomen, fungeren als rechtbank en spelen een hoofdrol bij het kiezen, inaugureren maar ook begraven van koningen.\n\nVervaardiging\nHet kledingstuk is geheel met de hand genaaid van wit katoen. Bij het lijfje is de stof door verticale diepe plooien driedubbel dik. De plooien zijn met een fijne rijgsteek vastgenaaid. Bij de overgang van het lijfje naar de rok lopen de plooien via een scherpe punt op niets uit, bovendien zijn er gerende stukken stof tussen gezet. Voor- en achterzijde van het lijfje zijn gevoerd met een driehoekig stuk witte katoen dat ook nog met een kleine driehoek in de mouw doorloopt. De ronde halsopening is versierd door middel van rijgsteekjes met een groene draad glanskatoen. Op de buik zitten twee schuine steekzakken. Rondom de zakopening is dezelfde groene rijgsteekversiering aangebracht. Schuingeknipte katoenen stof, gestreept in rood, wit en zwart is gezet langs de binnenkant van de wijde mouwopening en langs de binnenkant van de onderzijde van de rok."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The Yoruba are the most urbane African people. As early as the 11th century, their first city, Ile-Ife, was the centre of an influential city-state, and other city-states with bustling centres soon followed. This development has continued to the present day. The Yoruba culture has close affinities with that of the Fon in southern Benin and Togo. Their political systems and religious worlds are virtually identical, and the arts of both groups also show mutual influence.Many of the objects are used in religion and for endorsing the leadership systems of the royal court and of the elder societies, the Ogboni. These societies, with both male and female members, rule with the king. Ogboni must prevent abuse of power by the king, function as a court and play a leading role in the election, inauguration and burial of kings.‖ The garment is entirely hand-sewn from white cotton. At the bodice, the fabric is triple-thick due to deep vertical pleats. The pleats are sewn on with a fine running stitch. At the transition from the bodice to the skirt, the pleats end in a sharp point and there are also gathers in between. The front and back of the body are lined with a triangular piece of white cotton that also runs into the sleeve with a small triangle. The round neckline is decorated with green cotton thread. There are two slanting pockets on the stomach. Around the pocket opening, the same green running stitch decoration has been applied. Striped cotton fabric in red, white and black has been applied along the inside of the wide sleeve opening and along the inside of the bottom of the skirt."
+        ],
+        "nl": [
+          "De Yoruba is het meest urbane Afrikaanse volk. Al vanaf de 11e eeuw was hun eerste stad, Ile-Ife, het centrum van een invloedrijke stadstaat, en gauw volgden andere stadstaten met bruisende centra. Deze ontwikkeling heeft zich tot de dag van vandaag voortgezet. De Yoruba cultuur heeft nauwe raakvlakken met die van de Fon in zuidelijk Benin en Togo. Hun politieke systemen en religieuze werelden zijn vrijwel identiek, en ook de kunsten van beide groepen tonen wederzijdse beïnvloeding.\nVeel van de objecten worden gebruikt in de religie en voor het onderschrijven van de leiderschapssystemen van het koninklijke hof en van de ouderengenootschappen, de Ogboni. Deze genootschappen, met zowel mannelijke als vrouwelijke leden, regeren samen met de koning. Ogboni moet machtsmisbruik door de koning voorkomen, fungeren als rechtbank en spelen een hoofdrol bij het kiezen, inaugureren maar ook begraven van koningen.\n\nVervaardiging\nHet kledingstuk is geheel met de hand genaaid van wit katoen. Bij het lijfje is de stof door verticale diepe plooien driedubbel dik. De plooien zijn met een fijne rijgsteek vastgenaaid. Bij de overgang van het lijfje naar de rok lopen de plooien via een scherpe punt op niets uit, bovendien zijn er gerende stukken stof tussen gezet. Voor- en achterzijde van het lijfje zijn gevoerd met een driehoekig stuk witte katoen dat ook nog met een kleine driehoek in de mouw doorloopt. De ronde halsopening is versierd door middel van rijgsteekjes met een groene draad glanskatoen. Op de buik zitten twee schuine steekzakken. Rondom de zakopening is dezelfde groene rijgsteekversiering aangebracht. Schuingeknipte katoenen stof, gestreept in rood, wit en zwart is gezet langs de binnenkant van de wijde mouwopening en langs de binnenkant van de onderzijde van de rok."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Cotton shirt or jacket with long, wide sleeves"
+        ],
+        "nl": [
+          "Katoenen hemd of jak met lange, wijde mouwen"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10416",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10775",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10586",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10414",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10401",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Weiß"
+        },
+        {
+          "def": "gestreift"
+        },
+        {
+          "def": "Wachs"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Rot"
+        },
+        {
+          "def": "Schwarz"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "vit"
+        },
+        {
+          "def": "randig"
+        },
+        {
+          "def": "vax"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "röd"
+        },
+        {
+          "def": "svart"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "branco"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "vermelho"
+        },
+        {
+          "def": "preto"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "λευκό"
+        },
+        {
+          "def": "ριγέ"
+        },
+        {
+          "def": "κερί"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "κόκκινο"
+        },
+        {
+          "def": "μαύρο"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "white"
+        },
+        {
+          "def": "striped"
+        },
+        {
+          "def": "wax"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "red"
+        },
+        {
+          "def": "black"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "bianco"
+        },
+        {
+          "def": "righe"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "rosso"
+        },
+        {
+          "def": "nero"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "blanc"
+        },
+        {
+          "def": "rayé"
+        },
+        {
+          "def": "cire"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "rouge"
+        },
+        {
+          "def": "noir"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "לבן"
+        },
+        {
+          "def": "מפוספס"
+        },
+        {
+          "def": "שעווה"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "אדום"
+        },
+        {
+          "def": "שחור"
+        },
+        {
+          "def": "blanco"
+        },
+        {
+          "def": "rayas"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "rojo"
+        },
+        {
+          "def": "negro"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "wit"
+        },
+        {
+          "def": "gestreept"
+        },
+        {
+          "def": "was"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "rood"
+        },
+        {
+          "def": "zwart"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "бела"
+        },
+        {
+          "def": "na pruge"
+        },
+        {
+          "def": "vosak"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "црвена"
+        },
+        {
+          "def": "црна"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "gestreift",
+          "Wachs",
+          "Baumwolle",
+          "Rot",
+          "ambra",
+          "Schwarz",
+          "Weiß",
+          "Baumwollfaser"
+        ],
+        "fi": [
+          "Puuvilla"
+        ],
+        "ru": [
+          "Хлопок"
+        ],
+        "pt": [
+          "vermelho",
+          "preto",
+          "âmbar cinza",
+          "Algodão",
+          "branco",
+          "algodão"
+        ],
+        "bg": [
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "coton",
+          "ambre gris",
+          "Coton",
+          "cire",
+          "noir",
+          "rayé",
+          "blanc",
+          "rouge"
+        ],
+        "hu": [
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž"
+        ],
+        "ga": [
+          "Cadás"
+        ],
+        "ca": [
+          "Cotó"
+        ],
+        "sr": [
+          "бела",
+          "ćilibar",
+          "црвена",
+          "vosak",
+          "pamuk",
+          "na pruge",
+          "црна"
+        ],
+        "sv": [
+          "vit",
+          "randig",
+          "röd",
+          "Bomull",
+          "svart",
+          "vax",
+          "ambra",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "ριγέ",
+          "λευκό",
+          "άμπαρο",
+          "κερί",
+          "Βαμβάκι",
+          "μαύρο",
+          "κόκκινο"
+        ],
+        "en": [
+          "red",
+          "striped",
+          "white",
+          "cotton (fiber)",
+          "black",
+          "ambergris",
+          "Cotton",
+          "wax"
+        ],
+        "it": [
+          "bianco",
+          "ambra grigia",
+          "nero",
+          "rosso",
+          "Cotone",
+          "righe",
+          "cotone",
+          "cera"
+        ],
+        "es": [
+          "negro",
+          "Algodón",
+          "ámbar gris",
+          "rojo",
+          "rayas",
+          "blanco",
+          "algodón",
+          "cera"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "cs": [
+          "Bavlna"
+        ],
+        "eu": [
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna"
+        ],
+        "he": [
+          "מפוספס",
+          "אדום",
+          "כותנה",
+          "שעווה",
+          "שחור",
+          "ענבר אפור",
+          "לבן"
+        ],
+        "da": [
+          "Bomuld"
+        ],
+        "ro": [
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "wit",
+          "gestreept",
+          "rood",
+          "was",
+          "zwart",
+          "amber",
+          "katoen (vezel)"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/185605"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-A-11056.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Westafrika"
+        },
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Западная Африка"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "África Ocidental"
+        },
+        {
+          "def": "West Africa"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Africa occidentale"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Afrique de l'Ouest"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "África Occidental"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Westafrika",
+          "Nigerien"
+        ],
+        "ru": [
+          "Западная Африка",
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "pt": [
+          "África Ocidental"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "West Africa",
+          "Naija",
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Africa occidentale",
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Afrique de l'Ouest",
+          "Nigéria",
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "África Occidental",
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "West Africa"
+        },
+        {
+          "def": "Commonwealth of Nations"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "an Nigéir"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "in-Niġerja"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "no": [
+          "Nigeria"
+        ],
+        "de": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия",
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "def": [
+          "West Africa",
+          "Commonwealth of Nations"
+        ],
+        "pt": [
+          "Nigéria",
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия",
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija",
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija",
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija",
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria",
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria",
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija",
+          "Nigerija"
+        ],
+        "ga": [
+          "an Nigéir",
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria",
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία",
+          "Νιγηρία"
+        ],
+        "mt": [
+          "in-Niġerja",
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria",
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie",
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria",
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria",
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "18.31281",
+        "51.50488",
+        "10.0",
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "-4.83398",
+        "-0.13602",
+        "8.0",
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-A-11056.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1903/1903"
+        },
+        {
+          "def": "1900/2000"
+        },
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku",
+          "1900-luku"
+        ],
+        "ru": [
+          "XIX век",
+          "XX век"
+        ],
+        "pt": [
+          "Século XIX",
+          "Século XX"
+        ],
+        "bg": [
+          "19 век",
+          "20 век"
+        ],
+        "lt": [
+          "XIX amžius",
+          "XX amžius"
+        ],
+        "hr": [
+          "19. stoljeće",
+          "20. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts",
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle",
+          "XXe siècle"
+        ],
+        "hu": [
+          "19. század",
+          "20. század"
+        ],
+        "sk": [
+          "19. storočie",
+          "20. storočie"
+        ],
+        "sl": [
+          "19. stoletje",
+          "20. stoletje"
+        ],
+        "ga": [
+          "19ú haois",
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XIX",
+          "Segle XX"
+        ],
+        "sv": [
+          "1800-talet",
+          "1900-talet"
+        ],
+        "el": [
+          "19ος αιώνας",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "19th century",
+          "20th century"
+        ],
+        "it": [
+          "XIX secolo",
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XIX",
+          "Siglo XX"
+        ],
+        "et": [
+          "19. sajand",
+          "20. sajand"
+        ],
+        "cs": [
+          "19. století",
+          "20. století"
+        ],
+        "eu": [
+          "XIX. mendea",
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1903/1903",
+          "1900/2000"
+        ],
+        "pl": [
+          "XIX wiek",
+          "XX wiek"
+        ],
+        "da": [
+          "19. århundrede",
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea",
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "19e eeuw",
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_185605?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_185605",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_185605.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 28.74968,
+      "timestamp": 1762964273381,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Cotton shirt or jacket with long, wide sleeves",
+        "Katoenen hemd of jak met lange, wijde mouwen"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

@@ -1,0 +1,4371 @@
+[
+  {
+    "id": "europeana-437_item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Deutsche Fotothek",
+      "object_id": "437_item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D",
+      "object_url": "https://www.europeana.eu/item/437/item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a colonial-era topographic map (Karte von Deutsch-Ostafrika) of the Maasai Steppe region, not an object made, worn, or used by the Maasai people themselves.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "C5: Massai-steppe, Maasai Mara National Reserve, Narok County, Kenya, 1: 300,000, Lithography, 1897",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Deutsche Fotothek",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_dk_0009159_C5.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7f1ed4468d8a1623eb939368d97137809bc8125ca6f5e2cf31fb755ab2da6294",
+        "bytes": 56820,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_437_item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:10.747950+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Deutsche Fotothek"
+      ],
+      "dcDescription": [
+        "Map of German-East Africa: in 29 sheets and 8-10 sets in the Maassstabe of 1: 300,000/[Started under the direction of Richard Kiepert]; [continued under the direction of Paul Sprigade and Max Moisel]. - Berlin: Geogr. Publisher. D. Reimer; Berlin: Lithographic institution of L. Kraatz",
+        "Karte von Deutsch-Ostafrika : in 29 Blatt und 8-10 Ansatzstücken im Maassstabe von 1:300 000 / [Begonnen unter Leitung von Richard Kiepert] ; [fortgesetzt unter Leitung von Paul Sprigade und Max Moisel]. - Berlin : Geogr. Verlagsh. D. Reimer ; Berlin : Lithographische Anstalt von L. Kraatz",
+        "DFG-Karten (Digitalisierung)"
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Karte von Deutsch-Ostafrika : in 29 Blatt und 8-10 Ansatzstücken im Maassstabe von 1:300 000 / [Begonnen unter Leitung von Richard Kiepert] ; [fortgesetzt unter Leitung von Paul Sprigade und Max Moisel]. - Berlin : Geogr. Verlagsh. D. Reimer ; Berlin : Lithographische Anstalt von L. Kraatz",
+          "DFG-Karten (Digitalisierung)"
+        ],
+        "en": [
+          "Map of German-East Africa: in 29 sheets and 8-10 sets in the Maassstabe of 1: 300,000/[Started under the direction of Richard Kiepert]; [continued under the direction of Paul Sprigade and Max Moisel]. - Berlin: Geogr. Publisher. D. Reimer; Berlin: Lithographic institution of L. Kraatz"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "C5 : Massai-Steppe, Maasai Mara National Reserve, Narok County, Kenia, 1: 300 000, Lithographie, 1897"
+        ],
+        "en": [
+          "C5: Massai-steppe, Maasai Mara National Reserve, Narok County, Kenya, 1: 300,000, Lithography, 1897"
+        ]
+      },
+      "edmDatasetName": [
+        "437_DDB_SLUB_1"
+      ],
+      "edmIsShownAt": [
+        "http://www.deutschefotothek.de/documents/obj/90065225"
+      ],
+      "edmIsShownBy": [
+        "http://fotothek.slub-dresden.de/fotos/df_dk_0009159_C5.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_dk_0009159_C5.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "437_DDB_SLUB_1"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/437/item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/437/item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/437/item_KQY6XBPAYUVHFXTXRGORFM7M4HGBAS7D.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "score": 102.96483,
+      "timestamp": 1751998422686,
+      "timestamp_created": "2022-01-27T10:24:41.207Z",
+      "timestamp_created_epoch": 1643279081207,
+      "timestamp_update": "2022-01-27T10:24:41.207Z",
+      "timestamp_update_epoch": 1643279081207,
+      "title": [
+        "C5: Massai-steppe, Maasai Mara National Reserve, Narok County, Kenya, 1: 300,000, Lithography, 1897",
+        "C5 : Massai-Steppe, Maasai Mara National Reserve, Narok County, Kenia, 1: 300 000, Lithographie, 1897"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2024904_https___www_topfoto_co_uk_asset_3026334",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "TopFoto",
+      "object_id": "2024904_https___www_topfoto_co_uk_asset_3026334",
+      "object_url": "https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_3026334?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of Maasai warriors with traditional feathered headdresses, shields, and spears, consistent with the claimed ethnicity and location (Kenya Colony, 1930).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Maasai warriors ._x000D_\n( Kenya Colony",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "TopFoto",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.topfoto.co.uk%2FEuropeana%2FPhotography18391939%2FEU019567.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "50bc091f0c36e3dd2ef020b1495880f81ddd25a5e808bf7a2a2cdc795880ecd2",
+        "bytes": 48109,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_2024904_https___www_topfoto_co_uk_asset_3026334.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:11.355423+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "United Kingdom"
+      ],
+      "dataProvider": [
+        "TopFoto"
+      ],
+      "dcCreator": [
+        "TopFoto",
+        "http://www.wikidata.org/entity/Q110975090"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "TopFoto",
+          "http://www.wikidata.org/entity/Q110975090"
+        ]
+      },
+      "dcDescription": [
+        "Maasai warriors ._x000D_\n( Kenya Colony ) ._x000D_\nFebruary 1930"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Maasai warriors ._x000D_\n( Kenya Colony ) ._x000D_\nFebruary 1930"
+        ]
+      },
+      "dcLanguage": [
+        "English",
+        "eng"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "English",
+          "eng"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Maasai warriors ._x000D_\n( Kenya Colony"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q110975090"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "TopFoto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "en": [
+          "TopFoto"
+        ]
+      },
+      "edmDatasetName": [
+        "2024904_Ag_EU_EuropeanaPhotography_TopFoto_1013"
+      ],
+      "edmIsShownAt": [
+        "https://www.topfoto.co.uk/asset/3026334"
+      ],
+      "edmIsShownBy": [
+        "https://www.topfoto.co.uk/Europeana/Photography18391939/EU019567.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Republik Kenia"
+        },
+        {
+          "def": "Республика Кения"
+        },
+        {
+          "def": "Kenian tasavalta"
+        },
+        {
+          "def": "Republiken Kenya"
+        },
+        {
+          "def": "República do Quénia"
+        },
+        {
+          "def": "Quenia"
+        },
+        {
+          "def": "Republica do Quenia"
+        },
+        {
+          "def": "Δημοκρατία της Κένυας"
+        },
+        {
+          "def": "Repubblika tal-Kenja"
+        },
+        {
+          "def": "Republic of Kenya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "KEN"
+        },
+        {
+          "def": "Ke"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Chenia"
+        },
+        {
+          "def": "Kénya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "La République du Kenya"
+        },
+        {
+          "def": "Kenyai Köztársaság"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "República de Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keenia Vabariik"
+        },
+        {
+          "def": "Kenya Vabariik"
+        },
+        {
+          "def": "Kenská republika"
+        },
+        {
+          "def": "Kènia"
+        },
+        {
+          "def": "República de Kenya"
+        },
+        {
+          "def": "Kènya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "KEN"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Republik Kenia"
+        ],
+        "ru": [
+          "Республика Кения"
+        ],
+        "fi": [
+          "Kenian tasavalta"
+        ],
+        "sv": [
+          "Republiken Kenya"
+        ],
+        "pt": [
+          "República do Quénia",
+          "Quenia",
+          "Republica do Quenia"
+        ],
+        "el": [
+          "Δημοκρατία της Κένυας"
+        ],
+        "mt": [
+          "Repubblika tal-Kenja"
+        ],
+        "en": [
+          "Republic of Kenya",
+          "KE",
+          "KEN",
+          "Ke"
+        ],
+        "it": [
+          "Kenia",
+          "Chenia"
+        ],
+        "fr": [
+          "Kénya",
+          "KE",
+          "La République du Kenya"
+        ],
+        "hu": [
+          "Kenyai Köztársaság"
+        ],
+        "es": [
+          "Kenya",
+          "República de Kenia"
+        ],
+        "et": [
+          "Kenya",
+          "Keenia Vabariik",
+          "Kenya Vabariik"
+        ],
+        "sk": [
+          "Kenská republika"
+        ],
+        "ca": [
+          "Kènia",
+          "República de Kenya",
+          "Kènya"
+        ],
+        "nl": [
+          "KE",
+          "KEN"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Quénia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "An Chéinia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenja"
+        },
+        {
+          "def": "Κένυα"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Keenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Kenia"
+        ],
+        "ru": [
+          "Кения"
+        ],
+        "fi": [
+          "Kenia"
+        ],
+        "pt": [
+          "Quénia"
+        ],
+        "bg": [
+          "Кения"
+        ],
+        "lt": [
+          "Kenija"
+        ],
+        "lv": [
+          "Kenija"
+        ],
+        "hr": [
+          "Kenija"
+        ],
+        "fr": [
+          "Kenya"
+        ],
+        "hu": [
+          "Kenya"
+        ],
+        "sk": [
+          "Keňa"
+        ],
+        "sl": [
+          "Kenija"
+        ],
+        "ga": [
+          "An Chéinia"
+        ],
+        "ca": [
+          "Kenya"
+        ],
+        "sv": [
+          "Kenya"
+        ],
+        "mt": [
+          "Kenja"
+        ],
+        "el": [
+          "Κένυα"
+        ],
+        "en": [
+          "Kenya"
+        ],
+        "it": [
+          "Kenya"
+        ],
+        "es": [
+          "Kenia"
+        ],
+        "et": [
+          "Keenia"
+        ],
+        "eu": [
+          "Kenya"
+        ],
+        "cs": [
+          "Keňa"
+        ],
+        "pl": [
+          "Kenia"
+        ],
+        "ro": [
+          "Kenya"
+        ],
+        "da": [
+          "Kenya"
+        ],
+        "nl": [
+          "Kenia"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "0.1"
+      ],
+      "edmPlaceLongitude": [
+        "38.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.topfoto.co.uk%2FEuropeana%2FPhotography18391939%2FEU019567.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2024904_Ag_EU_EuropeanaPhotography_TopFoto_1013"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2024904/https___www_topfoto_co_uk_asset_3026334?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2024904/https___www_topfoto_co_uk_asset_3026334",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2024904/https___www_topfoto_co_uk_asset_3026334.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "PHOTOCONSORTIUM"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 167.66129,
+      "timestamp": 1752047444331,
+      "timestamp_created": "2020-03-27T10:38:53.055Z",
+      "timestamp_created_epoch": 1585305533055,
+      "timestamp_update": "2022-03-01T18:27:49.540Z",
+      "timestamp_update_epoch": 1646159269540,
+      "title": [
+        "Maasai warriors ._x000D_\n( Kenya Colony"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-9200101_BibliographicResource_1000126629866",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Complutense University of Madrid",
+      "object_id": "9200101_BibliographicResource_1000126629866",
+      "object_url": "https://www.europeana.eu/item/9200101/BibliographicResource_1000126629866?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned title page of an academic thesis document, not an image of Maasai material culture or life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Human development versus empowerment can the approach of human development adequately explain the poverty of indigenous peoples? : the case of the Maasai in Kajiado, Kenya",
+      "titles_alt": [],
+      "date_text": "2004",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Complutense University of Madrid",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ucm.es%2FBUCM%2Ftesis%2Fcee%2Fucm-t28094.pdf&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "31ddb85d41b6defafdac4ea59008b40357cb281d85cb972a9bee9e035553a0ac",
+        "bytes": 31901,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_9200101_BibliographicResource_1000126629866.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:11.394854+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Spain"
+      ],
+      "dataProvider": [
+        "Complutense University of Madrid"
+      ],
+      "dcCreator": [
+        "Isabell. Kempf",
+        "Isabell. Kempf"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Isabell. Kempf"
+        ],
+        "en": [
+          "Isabell. Kempf"
+        ]
+      },
+      "dcDescription": [
+        "elaborada por Isabell Kempf ; director, Pedro José Gómez Serrano.",
+        "Tesis de la Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Departamento de Economía Aplicada I, leída el 28-09-2004",
+        "La evolución del pensamiento sobre pobreza ha estado acompañada por una creciente evidencia de que la exclusión social y la discriminación étnica son causas importantes de la misma. Esta tesis propone un modelo nuevo para comprender las causas que originan la pobreza de los pueblos indígenas, el cual podría considerarse en un futuro para diseñar programas de reducción de la pobreza. Con este fin la tesis aborda dos preguntas centrales: 1. ¿Cuáles son las causas de la pobreza de los pueblos indígenas en este caso de los Maasai en Kajiado, Kenia?  2. ¿Son las teorías convencionales sobre pobreza basadas en las necesidades/el desarrollo humano adecuadas para explicar la pobreza de los pueblos indígenas? Ante estas dos interrogantes, la tesis se desarrolla a partir de un estudio de caso sobre los Maasai en Kenia, en donde queda demostrado después del análisis correspondiente que la evidencia teórica y empírica confirman la hipótesis. Esta señala que las teorías que describen la pobreza a partir del nivel de bienestar-calidad de vida basado en un enfoque sobre necesidades básicas-desarrollo humano, no pueden explicar adecuadamente las causas de la pobreza indígena. Por lo que el modelo de empoderamiento propuesto en esta tesis, basado en los derechos y que contempla las causas estructurales de la pobreza, resulta más adecuado para explicar los causas de la pobreza de los Maasai en Kajiado.",
+        "elaborada por Isabell Kempf ; director, Pedro José Gómez Serrano.",
+        "Tesis de la Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Departamento de Economía Aplicada I, leída el 28-09-2004",
+        "La evolución del pensamiento sobre pobreza ha estado acompañada por una creciente evidencia de que la exclusión social y la discriminación étnica son causas importantes de la misma. Esta tesis propone un modelo nuevo para comprender las causas que originan la pobreza de los pueblos indígenas, el cual podría considerarse en un futuro para diseñar programas de reducción de la pobreza. Con este fin la tesis aborda dos preguntas centrales: 1. ¿Cuáles son las causas de la pobreza de los pueblos indígenas en este caso de los Maasai en Kajiado, Kenia?  2. ¿Son las teorías convencionales sobre pobreza basadas en las necesidades/el desarrollo humano adecuadas para explicar la pobreza de los pueblos indígenas? Ante estas dos interrogantes, la tesis se desarrolla a partir de un estudio de caso sobre los Maasai en Kenia, en donde queda demostrado después del análisis correspondiente que la evidencia teórica y empírica confirman la hipótesis. Esta señala que las teorías que describen la pobreza a partir del nivel de bienestar-calidad de vida basado en un enfoque sobre necesidades básicas-desarrollo humano, no pueden explicar adecuadamente las causas de la pobreza indígena. Por lo que el modelo de empoderamiento propuesto en esta tesis, basado en los derechos y que contempla las causas estructurales de la pobreza, resulta más adecuado para explicar los causas de la pobreza de los Maasai en Kajiado.",
+        "Audience: Specialized"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "elaborada por Isabell Kempf ; director, Pedro José Gómez Serrano.",
+          "Tesis de la Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Departamento de Economía Aplicada I, leída el 28-09-2004",
+          "La evolución del pensamiento sobre pobreza ha estado acompañada por una creciente evidencia de que la exclusión social y la discriminación étnica son causas importantes de la misma. Esta tesis propone un modelo nuevo para comprender las causas que originan la pobreza de los pueblos indígenas, el cual podría considerarse en un futuro para diseñar programas de reducción de la pobreza. Con este fin la tesis aborda dos preguntas centrales: 1. ¿Cuáles son las causas de la pobreza de los pueblos indígenas en este caso de los Maasai en Kajiado, Kenia?  2. ¿Son las teorías convencionales sobre pobreza basadas en las necesidades/el desarrollo humano adecuadas para explicar la pobreza de los pueblos indígenas? Ante estas dos interrogantes, la tesis se desarrolla a partir de un estudio de caso sobre los Maasai en Kenia, en donde queda demostrado después del análisis correspondiente que la evidencia teórica y empírica confirman la hipótesis. Esta señala que las teorías que describen la pobreza a partir del nivel de bienestar-calidad de vida basado en un enfoque sobre necesidades básicas-desarrollo humano, no pueden explicar adecuadamente las causas de la pobreza indígena. Por lo que el modelo de empoderamiento propuesto en esta tesis, basado en los derechos y que contempla las causas estructurales de la pobreza, resulta más adecuado para explicar los causas de la pobreza de los Maasai en Kajiado."
+        ],
+        "en": [
+          "Audience: Specialized"
+        ],
+        "es": [
+          "elaborada por Isabell Kempf ; director, Pedro José Gómez Serrano.",
+          "Tesis de la Universidad Complutense de Madrid, Facultad de Ciencias Económicas y Empresariales, Departamento de Economía Aplicada I, leída el 28-09-2004",
+          "La evolución del pensamiento sobre pobreza ha estado acompañada por una creciente evidencia de que la exclusión social y la discriminación étnica son causas importantes de la misma. Esta tesis propone un modelo nuevo para comprender las causas que originan la pobreza de los pueblos indígenas, el cual podría considerarse en un futuro para diseñar programas de reducción de la pobreza. Con este fin la tesis aborda dos preguntas centrales: 1. ¿Cuáles son las causas de la pobreza de los pueblos indígenas en este caso de los Maasai en Kajiado, Kenia?  2. ¿Son las teorías convencionales sobre pobreza basadas en las necesidades/el desarrollo humano adecuadas para explicar la pobreza de los pueblos indígenas? Ante estas dos interrogantes, la tesis se desarrolla a partir de un estudio de caso sobre los Maasai en Kenia, en donde queda demostrado después del análisis correspondiente que la evidencia teórica y empírica confirman la hipótesis. Esta señala que las teorías que describen la pobreza a partir del nivel de bienestar-calidad de vida basado en un enfoque sobre necesidades básicas-desarrollo humano, no pueden explicar adecuadamente las causas de la pobreza indígena. Por lo que el modelo de empoderamiento propuesto en esta tesis, basado en los derechos y que contempla las causas estructurales de la pobreza, resulta más adecuado para explicar los causas de la pobreza de los Maasai en Kajiado."
+        ]
+      },
+      "dcLanguage": [
+        "es"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "es"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Desarrollo humano versus empoderamiento ¿puede el enfoque de desarrollo humano explicar adecuadamente la pobreza de los pueblos indígenas? : el caso de los Maasai en Kajiado, Kenia"
+        ],
+        "en": [
+          "Human development versus empowerment can the approach of human development adequately explain the poverty of indigenous peoples? : the case of the Maasai in Kajiado, Kenya"
+        ],
+        "es": [
+          "Desarrollo humano versus empoderamiento ¿puede el enfoque de desarrollo humano explicar adecuadamente la pobreza de los pueblos indígenas? : el caso de los Maasai en Kajiado, Kenia"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2841"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "Монография"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Монография"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "Monogrāfija"
+        },
+        {
+          "def": "Monographie"
+        },
+        {
+          "def": "Monográfia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Monografija"
+        },
+        {
+          "def": "Monagraf"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Monografi"
+        },
+        {
+          "def": "Μονογραφία"
+        },
+        {
+          "def": "Monograph"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Monografía"
+        },
+        {
+          "def": "Monograafia"
+        },
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Monografia"
+        },
+        {
+          "def": "Monografie"
+        },
+        {
+          "def": "Monografi"
+        },
+        {
+          "def": "Monografie"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Monografie"
+        ],
+        "ru": [
+          "Монография"
+        ],
+        "fi": [
+          "Monografia"
+        ],
+        "pt": [
+          "Monografia"
+        ],
+        "bg": [
+          "Монография"
+        ],
+        "lt": [
+          "Monografija"
+        ],
+        "hr": [
+          "Monografija"
+        ],
+        "lv": [
+          "Monogrāfija"
+        ],
+        "fr": [
+          "Monographie"
+        ],
+        "hu": [
+          "Monográfia"
+        ],
+        "sk": [
+          "Monografia"
+        ],
+        "sl": [
+          "Monografija"
+        ],
+        "ga": [
+          "Monagraf"
+        ],
+        "ca": [
+          "Monografia"
+        ],
+        "sv": [
+          "Monografi"
+        ],
+        "el": [
+          "Μονογραφία"
+        ],
+        "en": [
+          "Monograph"
+        ],
+        "it": [
+          "Monografia"
+        ],
+        "es": [
+          "Monografía"
+        ],
+        "et": [
+          "Monograafia"
+        ],
+        "cs": [
+          "Monografie"
+        ],
+        "eu": [
+          "Monografia"
+        ],
+        "pl": [
+          "Monografia"
+        ],
+        "ro": [
+          "Monografie"
+        ],
+        "da": [
+          "Monografi"
+        ],
+        "nl": [
+          "Monografie"
+        ]
+      },
+      "edmDatasetName": [
+        "9200101_Ag_EU_TEL_Europeana_Libraries_a1012"
+      ],
+      "edmIsShownBy": [
+        "http://www.ucm.es/BUCM/tesis/cee/ucm-t28094.pdf"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Μαδρίτη"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "def": [
+          "Μαδρίτη"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ucm.es%2FBUCM%2Ftesis%2Fcee%2Fucm-t28094.pdf&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "2004"
+        },
+        {
+          "def": "2005"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000"
+        ],
+        "zxx": [
+          "2004",
+          "2005"
+        ],
+        "fr": [
+          "2e millénaire après J.-C."
+        ]
+      },
+      "europeanaCollectionName": [
+        "9200101_Ag_EU_TEL_Europeana_Libraries_a1012"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/9200101/BibliographicResource_1000126629866?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/9200101/BibliographicResource_1000126629866",
+      "index": 0,
+      "language": [
+        "es"
+      ],
+      "link": "https://api.europeana.eu/record/9200101/BibliographicResource_1000126629866.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 69.45989,
+      "timestamp": 1752070526283,
+      "timestamp_created": "2014-06-30T13:42:15.874Z",
+      "timestamp_created_epoch": 1404135735874,
+      "timestamp_update": "2018-05-02T14:02:26.139Z",
+      "timestamp_update_epoch": 1525269746139,
+      "title": [
+        "Human development versus empowerment can the approach of human development adequately explain the poverty of indigenous peoples? : the case of the Maasai in Kajiado, Kenya",
+        "Desarrollo humano versus empoderamiento ¿puede el enfoque de desarrollo humano explicar adecuadamente la pobreza de los pueblos indígenas? : el caso de los Maasai en Kajiado, Kenia",
+        "Desarrollo humano versus empoderamiento ¿puede el enfoque de desarrollo humano explicar adecuadamente la pobreza de los pueblos indígenas? : el caso de los Maasai en Kajiado, Kenia"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2004",
+        "2005"
+      ]
+    }
+  },
+  {
+    "id": "europeana-9200111_BibliographicResource_1000085946664",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Uppsala University",
+      "object_id": "9200111_BibliographicResource_1000085946664",
+      "object_url": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085946664?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned thesis cover page (title page with flags, a small photo of a Maasai man in traditional red shawl, and text) rather than an actual ethnographic object or photograph of material culture; it's a document scan, not usable imagery of Maasai-made items.",
+      "vision_confidence": "HIGH",
+      "vision_image": "weak",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "The Maasai Changes in Livelihood after Land Loss",
+      "titles_alt": [],
+      "date_text": "2006",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Uppsala University",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fsh.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A16665%2FFULLTEXT01&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a84ec8221683c8a0317685beebf8b691f6387d1f02c4f68c081ecd03356dddad",
+        "bytes": 112362,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_9200111_BibliographicResource_1000085946664.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:11.979480+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Uppsala University"
+      ],
+      "dcCreator": [
+        "Mörner Sofie 1983- , Södertörns högskola, Institutionen för livsvetenskaper",
+        "Mörner Sofie 1983- , Södertörns högskola, Institutionen för livsvetenskaper",
+        "Mörner Sofie 1983-, Södertörn University, Department of Life Sciences"
+      ],
+      "dcCreatorLangAware": {
+        "sv": [
+          "Mörner Sofie 1983- , Södertörns högskola, Institutionen för livsvetenskaper"
+        ],
+        "def": [
+          "Mörner Sofie 1983- , Södertörns högskola, Institutionen för livsvetenskaper"
+        ],
+        "en": [
+          "Mörner Sofie 1983-, Södertörn University, Department of Life Sciences"
+        ]
+      },
+      "dcDescription": [
+        "<p>This is a case study about the Maasai and their land rights. The Maasai are semi-nomadic pastoralists, living in southern Kenya and northern Tanzania. It is said that they came to this area, now called Maasailand, about 300 years ago. In the beginning, they were independent and free to walk and graze their cattle without limitations and regulations. But when the British and German colonizers of these countries came to Maasailand, they discovered the advantages of its nature and started creating reserves. The Maasai were not strong enough to resist and it resulted in a land loss of two thirds for them. This has forced them to change their livelihood. They have to combine their pastoral lifestyle with other ways to make a living.</p><p>The main purpose with the study is to look at how the land loss has affected the Maasai and their livelihoods. The essay is mainly built on secondary sources, but also on a field work from the Ngorongoro Conservation Area, with qualitative interviews. This is used here, in order to give an example of a conservation area where the Maasai and the wildlife successfully coexist. To be able to understand the changes in Maasai livelihoods, the Sustainable Livelihoods Approach has been adapted. With this approach, a more holistic view of the changes can be made. The land losses have not always brought negative results for the Maasai. They have been able to adapt a multiple livelihood, including pastoralism, agriculture and tourist industry. The Maasai might benefit more by adapting different assets; instead of only rely on one.</p>",
+        "Självständigt arbete på grundnivå (kandidatexamen)",
+        "10 poäng / 15 hp",
+        "Självständigt arbete på grundnivå (kandidatexamen)",
+        "10 poäng / 15 hp",
+        "<p>This is a case study about the Maasai and their land rights. The Maasai are semi-nomadic pastoralists, living in southern Kenya and northern Tanzania. It is said that they came to this area, now called Maasailand, about 300 years ago. In the beginning, they were independent and free to walk and graze their cattle without limitations and regulations. But when the British and German colonizers of these countries came to Maasailand, they discovered the advantages of its nature and started creating reserves. The Maasai were not strong enough to resist and it resulted in a land loss of two thirds for them. This has forced them to change their livelihood. They have to combine their pastoral lifestyle with other ways to make a living.</p><p>The main purpose with the study is to look at how the land loss has affected the Maasai and their livelihoods. The essay is mainly built on secondary sources, but also on a field work from the Ngorongoro Conservation Area, with qualitative interviews. This is used here, in order to give an example of a conservation area where the Maasai and the wildlife successfully coexist. To be able to understand the changes in Maasai livelihoods, the Sustainable Livelihoods Approach has been adapted. With this approach, a more holistic view of the changes can be made. The land losses have not always brought negative results for the Maasai. They have been able to adapt a multiple livelihood, including pastoralism, agriculture and tourist industry. The Maasai might benefit more by adapting different assets; instead of only rely on one.</p>"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Självständigt arbete på grundnivå (kandidatexamen)",
+          "10 poäng / 15 hp"
+        ],
+        "def": [
+          "<p>This is a case study about the Maasai and their land rights. The Maasai are semi-nomadic pastoralists, living in southern Kenya and northern Tanzania. It is said that they came to this area, now called Maasailand, about 300 years ago. In the beginning, they were independent and free to walk and graze their cattle without limitations and regulations. But when the British and German colonizers of these countries came to Maasailand, they discovered the advantages of its nature and started creating reserves. The Maasai were not strong enough to resist and it resulted in a land loss of two thirds for them. This has forced them to change their livelihood. They have to combine their pastoral lifestyle with other ways to make a living.</p><p>The main purpose with the study is to look at how the land loss has affected the Maasai and their livelihoods. The essay is mainly built on secondary sources, but also on a field work from the Ngorongoro Conservation Area, with qualitative interviews. This is used here, in order to give an example of a conservation area where the Maasai and the wildlife successfully coexist. To be able to understand the changes in Maasai livelihoods, the Sustainable Livelihoods Approach has been adapted. With this approach, a more holistic view of the changes can be made. The land losses have not always brought negative results for the Maasai. They have been able to adapt a multiple livelihood, including pastoralism, agriculture and tourist industry. The Maasai might benefit more by adapting different assets; instead of only rely on one.</p>",
+          "Självständigt arbete på grundnivå (kandidatexamen)",
+          "10 poäng / 15 hp"
+        ],
+        "en": [
+          "<p>This is a case study about the Maasai and their land rights. The Maasai are semi-nomadic pastoralists, living in southern Kenya and northern Tanzania. It is said that they came to this area, now called Maasailand, about 300 years ago. In the beginning, they were independent and free to walk and graze their cattle without limitations and regulations. But when the British and German colonizers of these countries came to Maasailand, they discovered the advantages of its nature and started creating reserves. The Maasai were not strong enough to resist and it resulted in a land loss of two thirds for them. This has forced them to change their livelihood. They have to combine their pastoral lifestyle with other ways to make a living.</p><p>The main purpose with the study is to look at how the land loss has affected the Maasai and their livelihoods. The essay is mainly built on secondary sources, but also on a field work from the Ngorongoro Conservation Area, with qualitative interviews. This is used here, in order to give an example of a conservation area where the Maasai and the wildlife successfully coexist. To be able to understand the changes in Maasai livelihoods, the Sustainable Livelihoods Approach has been adapted. With this approach, a more holistic view of the changes can be made. The land losses have not always brought negative results for the Maasai. They have been able to adapt a multiple livelihood, including pastoralism, agriculture and tourist industry. The Maasai might benefit more by adapting different assets; instead of only rely on one.</p>"
+        ]
+      },
+      "dcLanguage": [
+        "en"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "en"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "The Maasai Changes in Livelihood after Land Loss"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/6"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Buch"
+        },
+        {
+          "def": "Kirja"
+        },
+        {
+          "def": "Книга"
+        },
+        {
+          "def": "Livro"
+        },
+        {
+          "def": "Книга"
+        },
+        {
+          "def": "Knyga"
+        },
+        {
+          "def": "Knjiga"
+        },
+        {
+          "def": "Grāmata"
+        },
+        {
+          "def": "Livre"
+        },
+        {
+          "def": "Könyv"
+        },
+        {
+          "def": "Kniha"
+        },
+        {
+          "def": "Knjiga"
+        },
+        {
+          "def": "Leabhar"
+        },
+        {
+          "def": "Llibre"
+        },
+        {
+          "def": "Bok"
+        },
+        {
+          "def": "Βιβλίο"
+        },
+        {
+          "def": "Ktieb"
+        },
+        {
+          "def": "Book"
+        },
+        {
+          "def": "Libro"
+        },
+        {
+          "def": "Libro"
+        },
+        {
+          "def": "Raamat"
+        },
+        {
+          "def": "Kniha"
+        },
+        {
+          "def": "Liburu"
+        },
+        {
+          "def": "Książka"
+        },
+        {
+          "def": "Bog"
+        },
+        {
+          "def": "Carte"
+        },
+        {
+          "def": "Boek"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Buch"
+        ],
+        "fi": [
+          "Kirja"
+        ],
+        "ru": [
+          "Книга"
+        ],
+        "pt": [
+          "Livro"
+        ],
+        "bg": [
+          "Книга"
+        ],
+        "lt": [
+          "Knyga"
+        ],
+        "hr": [
+          "Knjiga"
+        ],
+        "lv": [
+          "Grāmata"
+        ],
+        "fr": [
+          "Livre"
+        ],
+        "hu": [
+          "Könyv"
+        ],
+        "sk": [
+          "Kniha"
+        ],
+        "sl": [
+          "Knjiga"
+        ],
+        "ga": [
+          "Leabhar"
+        ],
+        "ca": [
+          "Llibre"
+        ],
+        "sv": [
+          "Bok"
+        ],
+        "el": [
+          "Βιβλίο"
+        ],
+        "mt": [
+          "Ktieb"
+        ],
+        "en": [
+          "Book"
+        ],
+        "it": [
+          "Libro"
+        ],
+        "es": [
+          "Libro"
+        ],
+        "et": [
+          "Raamat"
+        ],
+        "cs": [
+          "Kniha"
+        ],
+        "eu": [
+          "Liburu"
+        ],
+        "pl": [
+          "Książka"
+        ],
+        "da": [
+          "Bog"
+        ],
+        "ro": [
+          "Carte"
+        ],
+        "nl": [
+          "Boek"
+        ]
+      },
+      "edmDatasetName": [
+        "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+      ],
+      "edmIsShownAt": [
+        "http://urn.kb.se/resolve?urn=urn:nbn:se:sh:diva-933"
+      ],
+      "edmIsShownBy": [
+        "http://sh.diva-portal.org/smash/get/diva2:16665/FULLTEXT01"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fsh.diva-portal.org%2Fsmash%2Fget%2Fdiva2%3A16665%2FFULLTEXT01&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "Second millenium AD"
+        },
+        {
+          "def": "Second millenium AD, years 1001-2000"
+        },
+        {
+          "def": "Time"
+        },
+        {
+          "def": "Chronological period"
+        },
+        {
+          "def": "2e millénaire après J.-C."
+        },
+        {
+          "def": "2006"
+        },
+        {
+          "def": "2006-12-12"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "en": [
+          "Second millenium AD",
+          "Second millenium AD, years 1001-2000",
+          "Time",
+          "Chronological period"
+        ],
+        "zxx": [
+          "2006",
+          "2006-12-12"
+        ],
+        "fr": [
+          "2e millénaire après J.-C."
+        ]
+      },
+      "europeanaCollectionName": [
+        "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085946664?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/9200111/BibliographicResource_1000085946664",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/9200111/BibliographicResource_1000085946664.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 94.54095,
+      "timestamp": 1752047896026,
+      "timestamp_created": "2014-09-07T10:23:07.339Z",
+      "timestamp_created_epoch": 1410085387339,
+      "timestamp_update": "2014-09-07T10:23:07.339Z",
+      "timestamp_update_epoch": 1410085387339,
+      "title": [
+        "The Maasai Changes in Livelihood after Land Loss"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "2006"
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048223_europeana_fashion_312398",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "The Israel Museum, Jerusalem",
+      "object_id": "2048223_europeana_fashion_312398",
+      "object_url": "https://www.europeana.eu/item/2048223/europeana_fashion_312398?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a traditional feathered headdress (enkuraru) with beaded hide band, a known Maasai warrior ceremonial ornament — consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "Headdress (enkuraru)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1900/1940"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "The Israel Museum, Jerusalem",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fimj%2Fimages%2FX02-1895_19a.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "07f2db4a3d6bea5ba753f2ddcb84718bf7f0aeb736aa098374720d0d2db6a4e7",
+        "bytes": 73423,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_2048223_europeana_fashion_312398.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:12.009532+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Israel"
+      ],
+      "dataProvider": [
+        "The Israel Museum, Jerusalem"
+      ],
+      "dcDescription": [
+        "Material and technique: Ostrich and other feathers, hide, glass beads."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Material and technique: Ostrich and other feathers, hide, glass beads."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Headdress (enkuraru)"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10212",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10557",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10401",
+        "http://data.europeana.eu/concept/2396"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Kopfputz"
+        },
+        {
+          "def": "Glas"
+        },
+        {
+          "def": "Schwarz"
+        },
+        {
+          "def": "Kopfschmuck"
+        },
+        {
+          "def": "huvudbonad"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "svart"
+        },
+        {
+          "def": "cobertura de cabeça"
+        },
+        {
+          "def": "vidro"
+        },
+        {
+          "def": "preto"
+        },
+        {
+          "def": "κεφαλοκάλυμμα"
+        },
+        {
+          "def": "γυαλί"
+        },
+        {
+          "def": "μαύρο"
+        },
+        {
+          "def": "headdress"
+        },
+        {
+          "def": "glass"
+        },
+        {
+          "def": "black"
+        },
+        {
+          "def": "Headdress"
+        },
+        {
+          "def": "acconciatura"
+        },
+        {
+          "def": "vetro"
+        },
+        {
+          "def": "nero"
+        },
+        {
+          "def": "Acconciatura"
+        },
+        {
+          "def": "coiffe féminine"
+        },
+        {
+          "def": "verre"
+        },
+        {
+          "def": "noir"
+        },
+        {
+          "def": "Coiffure"
+        },
+        {
+          "def": "כיסוי ראש טקסי"
+        },
+        {
+          "def": "זכוכית"
+        },
+        {
+          "def": "שחור"
+        },
+        {
+          "def": "hoofdtooi"
+        },
+        {
+          "def": "glas"
+        },
+        {
+          "def": "zwart"
+        },
+        {
+          "def": "Hoofdtooi"
+        },
+        {
+          "def": "tocado"
+        },
+        {
+          "def": "vidrio"
+        },
+        {
+          "def": "negro"
+        },
+        {
+          "def": "Tocado"
+        },
+        {
+          "def": "oglavlje"
+        },
+        {
+          "def": "staklo"
+        },
+        {
+          "def": "црна"
+        },
+        {
+          "def": "Ozdoba hlavy"
+        },
+        {
+          "def": "Naglavno okrasje"
+        },
+        {
+          "def": "Apģērbs uz galvas"
+        },
+        {
+          "def": "Fejdísz"
+        },
+        {
+          "def": "Peaehe"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Kopfschmuck",
+          "Glas",
+          "Kopfputz",
+          "Schwarz"
+        ],
+        "sv": [
+          "huvudbonad",
+          "glas",
+          "svart"
+        ],
+        "pt": [
+          "preto",
+          "cobertura de cabeça",
+          "vidro"
+        ],
+        "el": [
+          "γυαλί",
+          "κεφαλοκάλυμμα",
+          "μαύρο"
+        ],
+        "en": [
+          "glass",
+          "black",
+          "Headdress",
+          "headdress"
+        ],
+        "lv": [
+          "Apģērbs uz galvas"
+        ],
+        "it": [
+          "acconciatura",
+          "nero",
+          "Acconciatura",
+          "vetro"
+        ],
+        "fr": [
+          "Coiffure",
+          "verre",
+          "coiffe féminine",
+          "noir"
+        ],
+        "hu": [
+          "Fejdísz"
+        ],
+        "es": [
+          "negro",
+          "vidrio",
+          "Tocado",
+          "tocado"
+        ],
+        "et": [
+          "Peaehe"
+        ],
+        "cs": [
+          "Ozdoba hlavy"
+        ],
+        "sl": [
+          "Naglavno okrasje"
+        ],
+        "he": [
+          "זכוכית",
+          "שחור",
+          "כיסוי ראש טקסי"
+        ],
+        "nl": [
+          "Hoofdtooi",
+          "hoofdtooi",
+          "glas",
+          "zwart"
+        ],
+        "sr": [
+          "oglavlje",
+          "staklo",
+          "црна"
+        ]
+      },
+      "edmDatasetName": [
+        "2048223_EuropeanaFashion_1046"
+      ],
+      "edmIsShownAt": [
+        "http://www.imj.org.il/imagine/collections/item.asp?itemNum=312398"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/imj/images/X02-1895_19a.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Fimj%2Fimages%2FX02-1895_19a.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1900/1940"
+        },
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert",
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku",
+          "1900-luku"
+        ],
+        "ru": [
+          "XIX век",
+          "XX век"
+        ],
+        "pt": [
+          "Século XIX",
+          "Século XX"
+        ],
+        "bg": [
+          "19 век",
+          "20 век"
+        ],
+        "lt": [
+          "XIX amžius",
+          "XX amžius"
+        ],
+        "hr": [
+          "19. stoljeće",
+          "20. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts",
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle",
+          "XXe siècle"
+        ],
+        "hu": [
+          "19. század",
+          "20. század"
+        ],
+        "sk": [
+          "19. storočie",
+          "20. storočie"
+        ],
+        "sl": [
+          "19. stoletje",
+          "20. stoletje"
+        ],
+        "ga": [
+          "19ú haois",
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XIX",
+          "Segle XX"
+        ],
+        "sv": [
+          "1800-talet",
+          "1900-talet"
+        ],
+        "el": [
+          "19ος αιώνας",
+          "20ός αιώνας"
+        ],
+        "en": [
+          "19th century",
+          "20th century"
+        ],
+        "it": [
+          "XIX secolo",
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XIX",
+          "Siglo XX"
+        ],
+        "et": [
+          "19. sajand",
+          "20. sajand"
+        ],
+        "cs": [
+          "19. století",
+          "20. století"
+        ],
+        "eu": [
+          "XIX. mendea",
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1900/1940"
+        ],
+        "pl": [
+          "XIX wiek",
+          "XX wiek"
+        ],
+        "da": [
+          "19. århundrede",
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea",
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "19e eeuw",
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048223_EuropeanaFashion_1046"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048223/europeana_fashion_312398?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048223/europeana_fashion_312398",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048223/europeana_fashion_312398.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 36.451256,
+      "timestamp": 1752072618178,
+      "timestamp_created": "2021-10-21T20:12:44.106Z",
+      "timestamp_created_epoch": 1634847164106,
+      "timestamp_update": "2024-06-24T12:34:00.608Z",
+      "timestamp_update_epoch": 1719232440608,
+      "title": [
+        "Headdress (enkuraru)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_48433",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_48433",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48433?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Photo shows a leather sheathed sword with a leather strap, collected from the Maasai area of British East Africa (Kenya/Tanzania), consistent with Maasai-made weaponry.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "arms",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Sabel, sabel med slida",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F700193%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d9d0c5f91021c5a77c1454b45e08989c3f587dc87108d4110ccf44023bfc568f",
+        "bytes": 8714,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48433.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:13.083585+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Sabel med slida.\nKöpt.\nSaknas från Karibu-Tanzania utst. Wass.\na) 60 cm lång, b) 54 cm lång",
+        "Massaiområdet, Brittiska Ostafrika",
+        "Kenya, Tanzania (massaiområdet)",
+        "Läderremmen är uttorkad och deformerad. Slidan är sliten i sömmen. [[från utställning]]",
+        "Horisonter - röster från ett globalt Afrika",
+        "1898.06.0026a-b",
+        "Chr. Christenssen",
+        "Brittiska Ostafrika. [[Haga]]",
+        "skiss",
+        "Masai",
+        "Horisonter - Urb",
+        "Tanzania",
+        "Kenya",
+        "Massaier",
+        "Masai",
+        "Maasai",
+        "Massajer",
+        "Maasai people",
+        "pueblo Maasai"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Sabel med slida.\nKöpt.\nSaknas från Karibu-Tanzania utst. Wass.\na) 60 cm lång, b) 54 cm lång",
+          "Massaiområdet, Brittiska Ostafrika",
+          "Kenya, Tanzania (massaiområdet)",
+          "Läderremmen är uttorkad och deformerad. Slidan är sliten i sömmen. [[från utställning]]",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1898.06.0026a-b",
+          "Chr. Christenssen",
+          "Brittiska Ostafrika. [[Haga]]",
+          "skiss",
+          "Masai",
+          "Horisonter - Urb",
+          "Tanzania",
+          "Kenya",
+          "Massaier",
+          "Masai",
+          "Maasai",
+          "Massajer",
+          "Maasai people",
+          "pueblo Maasai"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Sabel, sabel med slida"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/48433"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/700193/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F700193%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48433?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_48433",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_48433.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 39.11579,
+      "timestamp": 1752047584076,
+      "timestamp_created": "2014-10-01T16:23:43.180Z",
+      "timestamp_created_epoch": 1412180623180,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Sabel, sabel med slida"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_48719",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_48719",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48719?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A calabash gourd container with leather carrying strap and cowrie-shell decoration, used by Maasai for collecting blood/milk from cattle, matching the museum's description and Arusha, Kenya provenance.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "kalebass, gourd, calabash",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200069%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e6e06408f12bc1ea730f5fc32a1c8d80bfade45efca8ec439defb76e3c71ab11",
+        "bytes": 8596,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48719.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:13.608095+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Kalebass, för blod vid åderlåtning av boskapen hos massajerna. En blandning av blod och komjölk är deras huvudrätt. Mått: 15 cm * 31,5 cm. Kalebassen från Lagenaria-växten är försedd med bärrem av läder. \nKöpt 1968 från insaml.\nRemmen är besatt med kaurisnäckor, 10 st. Över kalebassens mynning ett lock av skinn.",
+        "Arusha, Kenya. (Från en by utanför staden Arusha).",
+        "Arusha, Kenya. (Från en by utanför staden Arusha).",
+        "God kondition. [[från utställning]]",
+        "Horisonter - röster från ett globalt Afrika",
+        "Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg",
+        "1968.13.0202",
+        "Josef Lagergren, Gbg.",
+        "skiss",
+        "Masai (masajerna)",
+        "Horisonter - Urb",
+        "Tanzania",
+        "Maasai",
+        "Masai",
+        "Massaier",
+        "Massajer",
+        "Maasai people",
+        "pueblo Maasai"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Kalebass, för blod vid åderlåtning av boskapen hos massajerna. En blandning av blod och komjölk är deras huvudrätt. Mått: 15 cm * 31,5 cm. Kalebassen från Lagenaria-växten är försedd med bärrem av läder. \nKöpt 1968 från insaml.\nRemmen är besatt med kaurisnäckor, 10 st. Över kalebassens mynning ett lock av skinn.",
+          "Arusha, Kenya. (Från en by utanför staden Arusha).",
+          "Arusha, Kenya. (Från en by utanför staden Arusha).",
+          "God kondition. [[från utställning]]",
+          "Horisonter - röster från ett globalt Afrika",
+          "Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg"
+        ],
+        "def": [
+          "1968.13.0202",
+          "Josef Lagergren, Gbg.",
+          "skiss",
+          "Masai (masajerna)",
+          "Horisonter - Urb",
+          "Tanzania",
+          "Maasai",
+          "Masai",
+          "Massaier",
+          "Massajer",
+          "Maasai people",
+          "pueblo Maasai"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "kalebass, gourd, calabash"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/48719"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200069/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Объединённая Республика Танзания"
+        },
+        {
+          "def": "Объединенная Республика Танзания"
+        },
+        {
+          "def": "Tansanian yhdistynyt tasavalta"
+        },
+        {
+          "def": "Förenade republiken Tanzania"
+        },
+        {
+          "def": "República Unida da Tanzânia"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Republica Unida da Tanzania"
+        },
+        {
+          "def": "Repubblika Magħquda tat-Tanzanija"
+        },
+        {
+          "def": "United Republic of Tanzania"
+        },
+        {
+          "def": "Tz"
+        },
+        {
+          "def": "United Republic of Tanganyika and Zanzibar"
+        },
+        {
+          "def": "Tza"
+        },
+        {
+          "def": "République unie de Tanzanie"
+        },
+        {
+          "def": "République-unie de Tanzanie"
+        },
+        {
+          "def": "TZ"
+        },
+        {
+          "def": "La République unie de Tanzanie"
+        },
+        {
+          "def": "Tanzániai Egyesült Köztársaság"
+        },
+        {
+          "def": "República Unida de Tanzania"
+        },
+        {
+          "def": "Republica Unida de Tanzania"
+        },
+        {
+          "def": "Tansaania Ühendvabariik"
+        },
+        {
+          "def": "Tanzánijská zjednotená republika"
+        },
+        {
+          "def": "TZ"
+        },
+        {
+          "def": "TZA"
+        },
+        {
+          "def": "República Unida de Tanzània"
+        },
+        {
+          "def": "Tanzania"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "ru": [
+          "Объединённая Республика Танзания",
+          "Объединенная Республика Танзания"
+        ],
+        "fi": [
+          "Tansanian yhdistynyt tasavalta"
+        ],
+        "sv": [
+          "Förenade republiken Tanzania"
+        ],
+        "pt": [
+          "República Unida da Tanzânia",
+          "Tanzania",
+          "Republica Unida da Tanzania"
+        ],
+        "mt": [
+          "Repubblika Magħquda tat-Tanzanija"
+        ],
+        "en": [
+          "United Republic of Tanzania",
+          "Tz",
+          "United Republic of Tanganyika and Zanzibar",
+          "Tza"
+        ],
+        "fr": [
+          "République unie de Tanzanie",
+          "République-unie de Tanzanie",
+          "TZ",
+          "La République unie de Tanzanie"
+        ],
+        "hu": [
+          "Tanzániai Egyesült Köztársaság"
+        ],
+        "es": [
+          "República Unida de Tanzania",
+          "Republica Unida de Tanzania"
+        ],
+        "et": [
+          "Tansaania Ühendvabariik"
+        ],
+        "sk": [
+          "Tanzánijská zjednotená republika"
+        ],
+        "nl": [
+          "TZ",
+          "TZA"
+        ],
+        "ca": [
+          "República Unida de Tanzània",
+          "Tanzania"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Tansania"
+        },
+        {
+          "def": "Tansania"
+        },
+        {
+          "def": "Танзания"
+        },
+        {
+          "def": "Tanzânia"
+        },
+        {
+          "def": "Танзания"
+        },
+        {
+          "def": "Tanzanija"
+        },
+        {
+          "def": "Tanzanija"
+        },
+        {
+          "def": "Tanzānija"
+        },
+        {
+          "def": "Tanzanie"
+        },
+        {
+          "def": "Tanzánia"
+        },
+        {
+          "def": "Tanzánia"
+        },
+        {
+          "def": "Tanzanija"
+        },
+        {
+          "def": "An Tansáin"
+        },
+        {
+          "def": "Tanzània"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Τανζανία"
+        },
+        {
+          "def": "Tanzanija"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tansaania"
+        },
+        {
+          "def": "Tanzanie"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tanzania"
+        },
+        {
+          "def": "Tanzania"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Tansania"
+        ],
+        "fi": [
+          "Tansania"
+        ],
+        "ru": [
+          "Танзания"
+        ],
+        "pt": [
+          "Tanzânia"
+        ],
+        "bg": [
+          "Танзания"
+        ],
+        "lt": [
+          "Tanzanija"
+        ],
+        "hr": [
+          "Tanzanija"
+        ],
+        "lv": [
+          "Tanzānija"
+        ],
+        "fr": [
+          "Tanzanie"
+        ],
+        "hu": [
+          "Tanzánia"
+        ],
+        "sk": [
+          "Tanzánia"
+        ],
+        "sl": [
+          "Tanzanija"
+        ],
+        "ga": [
+          "An Tansáin"
+        ],
+        "ca": [
+          "Tanzània"
+        ],
+        "sv": [
+          "Tanzania"
+        ],
+        "el": [
+          "Τανζανία"
+        ],
+        "mt": [
+          "Tanzanija"
+        ],
+        "en": [
+          "Tanzania"
+        ],
+        "it": [
+          "Tanzania"
+        ],
+        "es": [
+          "Tanzania"
+        ],
+        "et": [
+          "Tansaania"
+        ],
+        "cs": [
+          "Tanzanie"
+        ],
+        "eu": [
+          "Tanzania"
+        ],
+        "pl": [
+          "Tanzania"
+        ],
+        "da": [
+          "Tanzania"
+        ],
+        "ro": [
+          "Tanzania"
+        ],
+        "nl": [
+          "Tanzania"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-6.3069444"
+      ],
+      "edmPlaceLongitude": [
+        "34.85389"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200069%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48719?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_48719",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_48719.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 32.42398,
+      "timestamp": 1752047604077,
+      "timestamp_created": "2014-10-01T16:23:57.490Z",
+      "timestamp_created_epoch": 1412180637490,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "kalebass, gourd, calabash"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_48748",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_48748",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48748?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A gourd milk vessel with leather carrying strap and woven fiber lid cover — a classic Maasai calabash milk container, consistent with the claimed culture and region.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "kärl, Mjölkkärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F704293%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2c7a8f8fb6ca545982df1c1b555bb3499f8f2f90f2497b8752a01b629cc6fd3b",
+        "bytes": 33371,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48748.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:13.640051+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Mjölkkärl av kalebass. Kärlet försett med bärrem av läder. Locket överdraget av ett hölje av vävda fibrer.\nMått: a) 19 cm  b) 9,5 cm",
+        "Mjölkkärl",
+        "Torra läderremmar, med sprickor partiellt. Föremålet i god kondition. Ytsmuts. [[från utställning]]",
+        "Horisonter - röster från ett globalt Afrika",
+        "1981.29.0042a-b",
+        "Lennart Efgren, Gbg.",
+        "Aitong, Kenya",
+        "Aitong, Kenya",
+        "Kenya. [[Haga]]",
+        "skiss",
+        "Masai",
+        "Horisonter - Urb",
+        "Kenya",
+        "Maasai",
+        "Massaier",
+        "Masai",
+        "Massajer",
+        "Maasai people",
+        "pueblo Maasai"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Mjölkkärl av kalebass. Kärlet försett med bärrem av läder. Locket överdraget av ett hölje av vävda fibrer.\nMått: a) 19 cm  b) 9,5 cm",
+          "Mjölkkärl",
+          "Torra läderremmar, med sprickor partiellt. Föremålet i god kondition. Ytsmuts. [[från utställning]]",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1981.29.0042a-b",
+          "Lennart Efgren, Gbg.",
+          "Aitong, Kenya",
+          "Aitong, Kenya",
+          "Kenya. [[Haga]]",
+          "skiss",
+          "Masai",
+          "Horisonter - Urb",
+          "Kenya",
+          "Maasai",
+          "Massaier",
+          "Masai",
+          "Massajer",
+          "Maasai people",
+          "pueblo Maasai"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "kärl, Mjölkkärl"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/48748"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/704293/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Republik Kenia"
+        },
+        {
+          "def": "Республика Кения"
+        },
+        {
+          "def": "Kenian tasavalta"
+        },
+        {
+          "def": "Republiken Kenya"
+        },
+        {
+          "def": "República do Quénia"
+        },
+        {
+          "def": "Quenia"
+        },
+        {
+          "def": "Republica do Quenia"
+        },
+        {
+          "def": "Δημοκρατία της Κένυας"
+        },
+        {
+          "def": "Repubblika tal-Kenja"
+        },
+        {
+          "def": "Republic of Kenya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "KEN"
+        },
+        {
+          "def": "Ke"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Chenia"
+        },
+        {
+          "def": "Kénya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "La République du Kenya"
+        },
+        {
+          "def": "Kenyai Köztársaság"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "República de Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keenia Vabariik"
+        },
+        {
+          "def": "Kenya Vabariik"
+        },
+        {
+          "def": "Kenská republika"
+        },
+        {
+          "def": "Kènia"
+        },
+        {
+          "def": "República de Kenya"
+        },
+        {
+          "def": "Kènya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "KEN"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Republik Kenia"
+        ],
+        "ru": [
+          "Республика Кения"
+        ],
+        "fi": [
+          "Kenian tasavalta"
+        ],
+        "sv": [
+          "Republiken Kenya"
+        ],
+        "pt": [
+          "República do Quénia",
+          "Quenia",
+          "Republica do Quenia"
+        ],
+        "el": [
+          "Δημοκρατία της Κένυας"
+        ],
+        "mt": [
+          "Repubblika tal-Kenja"
+        ],
+        "en": [
+          "Republic of Kenya",
+          "KE",
+          "KEN",
+          "Ke"
+        ],
+        "it": [
+          "Kenia",
+          "Chenia"
+        ],
+        "fr": [
+          "Kénya",
+          "KE",
+          "La République du Kenya"
+        ],
+        "hu": [
+          "Kenyai Köztársaság"
+        ],
+        "es": [
+          "Kenya",
+          "República de Kenia"
+        ],
+        "et": [
+          "Kenya",
+          "Keenia Vabariik",
+          "Kenya Vabariik"
+        ],
+        "sk": [
+          "Kenská republika"
+        ],
+        "ca": [
+          "Kènia",
+          "República de Kenya",
+          "Kènya"
+        ],
+        "nl": [
+          "KE",
+          "KEN"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Quénia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "An Chéinia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenja"
+        },
+        {
+          "def": "Κένυα"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Keenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Kenia"
+        ],
+        "ru": [
+          "Кения"
+        ],
+        "fi": [
+          "Kenia"
+        ],
+        "pt": [
+          "Quénia"
+        ],
+        "bg": [
+          "Кения"
+        ],
+        "lt": [
+          "Kenija"
+        ],
+        "lv": [
+          "Kenija"
+        ],
+        "hr": [
+          "Kenija"
+        ],
+        "fr": [
+          "Kenya"
+        ],
+        "hu": [
+          "Kenya"
+        ],
+        "sk": [
+          "Keňa"
+        ],
+        "sl": [
+          "Kenija"
+        ],
+        "ga": [
+          "An Chéinia"
+        ],
+        "ca": [
+          "Kenya"
+        ],
+        "sv": [
+          "Kenya"
+        ],
+        "mt": [
+          "Kenja"
+        ],
+        "el": [
+          "Κένυα"
+        ],
+        "en": [
+          "Kenya"
+        ],
+        "it": [
+          "Kenya"
+        ],
+        "es": [
+          "Kenia"
+        ],
+        "et": [
+          "Keenia"
+        ],
+        "eu": [
+          "Kenya"
+        ],
+        "cs": [
+          "Keňa"
+        ],
+        "pl": [
+          "Kenia"
+        ],
+        "ro": [
+          "Kenya"
+        ],
+        "da": [
+          "Kenya"
+        ],
+        "nl": [
+          "Kenia"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "0.1"
+      ],
+      "edmPlaceLongitude": [
+        "38.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F704293%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48748?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_48748",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_48748.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 40.063717,
+      "timestamp": 1752047606324,
+      "timestamp_created": "2014-10-01T16:23:57.859Z",
+      "timestamp_created_epoch": 1412180637859,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "kärl, Mjölkkärl"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2021012__F52B2A2B1568FA980E558551AD936DB1",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish National Gallery",
+      "object_id": "2021012__F52B2A2B1568FA980E558551AD936DB1",
+      "object_url": "https://www.europeana.eu/item/2021012/_F52B2A2B1568FA980E558551AD936DB1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Japanese ukiyo-e colour woodcut depicting a kabuki actor in a scene from \"Satomi Hakkenden,\" a Japanese theatrical print with no connection to Maasai culture of Kenya.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Näyttelijä Bando Shuka näytelmässä Satomi hakkenden (Satomin suvun kahdeksan koiran elämäkerrat)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish National Gallery",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D2664037%26size%3Dextra_large%26org%3D39091&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "66120151f2820eb0c015f4d205b3a1bf870bc0e2cea1e69dc344c9f20ea25c45",
+        "bytes": 59400,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_2021012__F52B2A2B1568FA980E558551AD936DB1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:14.139052+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Finland"
+      ],
+      "dataProvider": [
+        "Finnish National Gallery"
+      ],
+      "dcCreator": [
+        "http://data.europeana.eu/agent/148341",
+        "Kunisada"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "http://data.europeana.eu/agent/148341",
+          "Kunisada"
+        ]
+      },
+      "dcDescription": [
+        "tekniikka: väripuupiirros",
+        "teknik: färgträsnitt",
+        "technique: colour woodcut"
+      ],
+      "dcDescriptionLangAware": {
+        "fi": [
+          "tekniikka: väripuupiirros"
+        ],
+        "sv": [
+          "teknik: färgträsnitt"
+        ],
+        "en": [
+          "technique: colour woodcut"
+        ]
+      },
+      "dcTitleLangAware": {
+        "fi": [
+          "Näyttelijä Bando Shuka näytelmässä Satomi hakkenden (Satomin suvun kahdeksan koiran elämäkerrat)"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q11060274",
+        "http://data.europeana.eu/concept/2538"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Druckgrafik"
+        },
+        {
+          "def": "Druckgrafik"
+        },
+        {
+          "def": "эстамп"
+        },
+        {
+          "def": "Эстамп"
+        },
+        {
+          "def": "grafiikka"
+        },
+        {
+          "def": "Grafiikka"
+        },
+        {
+          "def": "tryck"
+        },
+        {
+          "def": "Tryck"
+        },
+        {
+          "def": "estampa"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "Печатна графика"
+        },
+        {
+          "def": "Печатна графика"
+        },
+        {
+          "def": "εκτύπωση"
+        },
+        {
+          "def": "Εκτύπωση"
+        },
+        {
+          "def": "Estampas"
+        },
+        {
+          "def": "Estampas"
+        },
+        {
+          "def": "print"
+        },
+        {
+          "def": "Print"
+        },
+        {
+          "def": "estamps"
+        },
+        {
+          "def": "Estamps"
+        },
+        {
+          "def": "stampa"
+        },
+        {
+          "def": "Stampa"
+        },
+        {
+          "def": "estampe"
+        },
+        {
+          "def": "Estampe"
+        },
+        {
+          "def": "metszet"
+        },
+        {
+          "def": "Metszet"
+        },
+        {
+          "def": "estampado"
+        },
+        {
+          "def": "Estampado"
+        },
+        {
+          "def": "trükipilt"
+        },
+        {
+          "def": "Trükipilt"
+        },
+        {
+          "def": "tisk"
+        },
+        {
+          "def": "Tisk"
+        },
+        {
+          "def": "natis"
+        },
+        {
+          "def": "Natis"
+        },
+        {
+          "def": "prionta"
+        },
+        {
+          "def": "Prionta"
+        },
+        {
+          "def": "sztych"
+        },
+        {
+          "def": "Sztych"
+        },
+        {
+          "def": "stampă"
+        },
+        {
+          "def": "Stampă"
+        },
+        {
+          "def": "tryk"
+        },
+        {
+          "def": "Tryk"
+        },
+        {
+          "def": "estampa"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "prent"
+        },
+        {
+          "def": "Prent"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Druckgrafik"
+        ],
+        "ru": [
+          "Эстамп",
+          "эстамп"
+        ],
+        "fi": [
+          "grafiikka",
+          "Grafiikka"
+        ],
+        "sv": [
+          "Tryck",
+          "tryck"
+        ],
+        "pt": [
+          "estampa",
+          "Estampa"
+        ],
+        "bg": [
+          "Печатна графика"
+        ],
+        "el": [
+          "Εκτύπωση",
+          "εκτύπωση"
+        ],
+        "lt": [
+          "Estampas"
+        ],
+        "en": [
+          "Print",
+          "print"
+        ],
+        "lv": [
+          "estamps",
+          "Estamps"
+        ],
+        "it": [
+          "stampa",
+          "Stampa"
+        ],
+        "fr": [
+          "estampe",
+          "Estampe"
+        ],
+        "hu": [
+          "Metszet",
+          "metszet"
+        ],
+        "es": [
+          "Estampado",
+          "estampado"
+        ],
+        "et": [
+          "trükipilt",
+          "Trükipilt"
+        ],
+        "cs": [
+          "Tisk",
+          "tisk"
+        ],
+        "sl": [
+          "natis",
+          "Natis"
+        ],
+        "ga": [
+          "Prionta",
+          "prionta"
+        ],
+        "pl": [
+          "sztych",
+          "Sztych"
+        ],
+        "ro": [
+          "Stampă",
+          "stampă"
+        ],
+        "da": [
+          "tryk",
+          "Tryk"
+        ],
+        "ca": [
+          "estampa",
+          "Estampa"
+        ],
+        "nl": [
+          "Prent",
+          "prent"
+        ]
+      },
+      "edmDatasetName": [
+        "2021012_FINDL"
+      ],
+      "edmIsShownAt": [
+        "https://www.kansallisgalleria.fi/en/object/417390"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=2664037&size=extra_large&org=39091"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D2664037%26size%3Dextra_large%26org%3D39091&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2021012_FINDL"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/2021012/_F52B2A2B1568FA980E558551AD936DB1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2021012/_F52B2A2B1568FA980E558551AD936DB1",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2021012/_F52B2A2B1568FA980E558551AD936DB1.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Finland"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 74.8856,
+      "timestamp": 1752067360613,
+      "timestamp_created": "2023-11-08T09:11:03.624Z",
+      "timestamp_created_epoch": 1699434663624,
+      "timestamp_update": "2024-08-21T11:24:22.384Z",
+      "timestamp_update_epoch": 1724239462384,
+      "title": [
+        "Näyttelijä Bando Shuka näytelmässä Satomi hakkenden (Satomin suvun kahdeksan koiran elämäkerrat)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048429_item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Arts and Crafts, Hamburg",
+      "object_id": "2048429_item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD",
+      "object_url": "https://www.europeana.eu/item/2048429/item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Japanese ukiyo-e woodblock print by Utagawa Kuniyoshi depicting kabuki actors in role, a work entirely of Japanese tradition with no connection to the Maasai of Kenya.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Die Schauspieler Ichikawa Kodanji IV als Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku und Bandō Shuka I als Agemaki",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1850"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Arts and Crafts, Hamburg",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fresources.digicult-museen.net%2Fdam%2Fprovided_image%2Fm57d2f61f0d5cd&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "700ea59b80f44e6180a2512883476c0762a1a4ce3aed7f6995d0e6374f58d410",
+        "bytes": 138163,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_2048429_item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:14.723083+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Museum of Arts and Crafts, Hamburg"
+      ],
+      "dcCreator": [
+        "Utagawa Kuniyoshi",
+        "http://data.europeana.eu/agent/148342",
+        "Utagawa Kuniyoshi",
+        "Utagawa Kuniyoshi"
+      ],
+      "dcCreatorLangAware": {
+        "de": [
+          "Utagawa Kuniyoshi"
+        ],
+        "def": [
+          "Utagawa Kuniyoshi",
+          "http://data.europeana.eu/agent/148342"
+        ],
+        "en": [
+          "Utagawa Kuniyoshi"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Die Schauspieler Ichikawa Kodanji IV als Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku und Bandō Shuka I als Agemaki"
+        ],
+        "def": [
+          "Die Schauspieler Ichikawa Kodanji IV als Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku und Bandō Shuka I als Agemaki"
+        ],
+        "en": [
+          "Actors Ichikawa Kodanji IV as Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku and Bandō Shuka I as Agemaki"
+        ]
+      },
+      "edmConcept": [
+        "http://d-nb.info/gnd/4179440-0"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Schauspieler/Schauspielerin"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "def": [
+          "Schauspieler/Schauspielerin"
+        ]
+      },
+      "edmDatasetName": [
+        "2048429_Ag_DE_DDB_MKG"
+      ],
+      "edmIsShownAt": [
+        "http://sammlungonline.mkg-hamburg.de/de/object/Die+Schauspieler+Ichikawa+Kodanji+IV+als+Iky%C5%AB%2C+in+Wirklichkeit+Kaga+Heinaizaemon+%28%E9%AB%AD%E3%81%AE%E6%84%8F%E4%BC%91%E5%AE%9F%E3%81%AF%E4%BC%8A%E8%B3%80%E5%B9%B3%E5%86%85%E5%B7%A6%E8%A1%9B%E9%96%80%29%2C+Ichikawa+Danj%C5%ABr%C5%8D+VIII+as+Hanakawado+Sukeroku+%28%E8%8A%B1%E5%B7%9D%E6%88%B8%E5%8A%A9%E5%85%AD%29+und+Band%C5%8D+Shuka+I+als+Agemaki+%28%E3%81%82%E3%81%92%E3%81%BE%E3%81%8D%29/1980.254/dc00115154"
+      ],
+      "edmIsShownBy": [
+        "http://resources.digicult-museen.net/dam/provided_image/m57d2f61f0d5cd"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Tokio [J]; Firma Hitachi Ltd. Corp."
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Tokio [J]; Firma Hitachi Ltd. Corp."
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fresources.digicult-museen.net%2Fdam%2Fprovided_image%2Fm57d2f61f0d5cd&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1850"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1850"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048429_Ag_DE_DDB_MKG"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/2048429/item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048429/item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/2048429/item_HYDHBEXSEVVGGOGNVKY4P5DRH6FNMATD.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 67.28498,
+      "timestamp": 1752069941528,
+      "timestamp_created": "2016-09-15T07:27:26.476Z",
+      "timestamp_created_epoch": 1473924446476,
+      "timestamp_update": "2016-10-04T07:00:17.038Z",
+      "timestamp_update_epoch": 1475564417038,
+      "title": [
+        "Die Schauspieler Ichikawa Kodanji IV als Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku und Bandō Shuka I als Agemaki",
+        "Die Schauspieler Ichikawa Kodanji IV als Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku und Bandō Shuka I als Agemaki",
+        "Actors Ichikawa Kodanji IV as Ikyū, Ichikawa Danjūrō VIII as Hanakawado Sukeroku and Bandō Shuka I as Agemaki"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048429_item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Arts and Crafts, Hamburg",
+      "object_id": "2048429_item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4",
+      "object_url": "https://www.europeana.eu/item/2048429/item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Japanese ukiyo-e woodblock print by Utagawa Kuniyoshi depicting kabuki actors in traditional Japanese dress — a distant, unmistakable tradition with no connection to the Maasai of Kenya.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Die Schauspieler Bandō Shuka I als Miyuki und Ichikawa Danjūrō VIII als Miyagi Asojirō",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1848"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Arts and Crafts, Hamburg",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fresources.digicult-museen.net%2Fdam%2Fprovided_image%2Fm57d2f6fb1ae17&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8cf5555635b76ca0376cb8c1c6201aae224d79b91d397cbc10557c7f1e493b62",
+        "bytes": 89217,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\unclassified\\maasai-kenya\\images\\eu_2048429_item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:16.337801+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Museum of Arts and Crafts, Hamburg"
+      ],
+      "dcCreator": [
+        "Utagawa Kuniyoshi",
+        "http://data.europeana.eu/agent/148342",
+        "Utagawa Kuniyoshi",
+        "Utagawa Kuniyoshi"
+      ],
+      "dcCreatorLangAware": {
+        "de": [
+          "Utagawa Kuniyoshi"
+        ],
+        "def": [
+          "http://data.europeana.eu/agent/148342",
+          "Utagawa Kuniyoshi"
+        ],
+        "en": [
+          "Utagawa Kuniyoshi"
+        ]
+      },
+      "dcDescription": [
+        "Schenkung Gerhard Schack (Creditline)"
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Schenkung Gerhard Schack (Creditline)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Die Schauspieler Bandō Shuka I als Miyuki und Ichikawa Danjūrō VIII als Miyagi Asojirō"
+        ],
+        "def": [
+          "Die Schauspieler Bandō Shuka I als Miyuki und Ichikawa Danjūrō VIII als Miyagi Asojirō"
+        ],
+        "en": [
+          "Actors Bandō Shuka I as Miyuki and Ichikawa Danjūrō VIII as Miyagi Asojirō"
+        ]
+      },
+      "edmConcept": [
+        "http://d-nb.info/gnd/4689335-0",
+        "http://d-nb.info/gnd/4179440-0",
+        "http://data.europeana.eu/concept/2383"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fächer"
+        },
+        {
+          "def": "Schauspieler/Schauspielerin"
+        },
+        {
+          "def": "Fächer"
+        },
+        {
+          "def": "Веер"
+        },
+        {
+          "def": "Viuhka"
+        },
+        {
+          "def": "Solfjäder"
+        },
+        {
+          "def": "Leque"
+        },
+        {
+          "def": "Ветрило"
+        },
+        {
+          "def": "Βεντάλια"
+        },
+        {
+          "def": "Vėduoklė"
+        },
+        {
+          "def": "Hand fan"
+        },
+        {
+          "def": "Vēdeklis"
+        },
+        {
+          "def": "Ventaglio"
+        },
+        {
+          "def": "Éventail"
+        },
+        {
+          "def": "Legyező"
+        },
+        {
+          "def": "Abanico"
+        },
+        {
+          "def": "Lehvik"
+        },
+        {
+          "def": "Vějíř"
+        },
+        {
+          "def": "Haizemaile"
+        },
+        {
+          "def": "Vejár"
+        },
+        {
+          "def": "Pahljača"
+        },
+        {
+          "def": "Wachlarz"
+        },
+        {
+          "def": "Evantai"
+        },
+        {
+          "def": "Vifte"
+        },
+        {
+          "def": "Ventall"
+        },
+        {
+          "def": "Waaier"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fächer"
+        ],
+        "ru": [
+          "Веер"
+        ],
+        "fi": [
+          "Viuhka"
+        ],
+        "def": [
+          "Schauspieler/Schauspielerin",
+          "Fächer"
+        ],
+        "pt": [
+          "Leque"
+        ],
+        "bg": [
+          "Ветрило"
+        ],
+        "lt": [
+          "Vėduoklė"
+        ],
+        "lv": [
+          "Vēdeklis"
+        ],
+        "fr": [
+          "Éventail"
+        ],
+        "hu": [
+          "Legyező"
+        ],
+        "sk": [
+          "Vejár"
+        ],
+        "sl": [
+          "Pahljača"
+        ],
+        "ca": [
+          "Ventall"
+        ],
+        "sv": [
+          "Solfjäder"
+        ],
+        "el": [
+          "Βεντάλια"
+        ],
+        "en": [
+          "Hand fan"
+        ],
+        "it": [
+          "Ventaglio"
+        ],
+        "es": [
+          "Abanico"
+        ],
+        "et": [
+          "Lehvik"
+        ],
+        "cs": [
+          "Vějíř"
+        ],
+        "eu": [
+          "Haizemaile"
+        ],
+        "pl": [
+          "Wachlarz"
+        ],
+        "ro": [
+          "Evantai"
+        ],
+        "da": [
+          "Vifte"
+        ],
+        "nl": [
+          "Waaier"
+        ]
+      },
+      "edmDatasetName": [
+        "2048429_Ag_DE_DDB_MKG"
+      ],
+      "edmIsShownAt": [
+        "http://sammlungonline.mkg-hamburg.de/de/object/Die+Schauspieler+Band%C5%8D+Shuka+I+als+Miyuki+%28%E7%A7%8B%E6%9C%88%E5%A8%98%E6%B7%B1%E9%9B%AA%E5%BE%8C%E3%83%8B%E6%9C%9D%E9%A1%94+%E5%9D%82%E6%9D%B1%E3%81%97%E3%81%86%E3%81%8B%29+und+Ichikawa+Danj%C5%ABr%C5%8D+VIII+als+Miyagi+Asojir%C5%8D+%28%E5%AE%AE%E6%9C%A8%E9%98%BF%E6%9B%BD%E6%AC%A1%E9%83%8E+%E5%B8%82%E5%B7%9D%E5%9B%A3%E5%8D%81%E9%83%8E%29/S2012.50/dc00116175"
+      ],
+      "edmIsShownBy": [
+        "http://resources.digicult-museen.net/dam/provided_image/m57d2f6fb1ae17"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Tokio [J]; Firma Hitachi Ltd. Corp."
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Tokio [J]; Firma Hitachi Ltd. Corp."
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fresources.digicult-museen.net%2Fdam%2Fprovided_image%2Fm57d2f6fb1ae17&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1848"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1848"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048429_Ag_DE_DDB_MKG"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/2048429/item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048429/item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/2048429/item_5A5QHV6GWM36PH5T6V4AMM7RPEDTYLH4.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 76.058,
+      "timestamp": 1752069924157,
+      "timestamp_created": "2016-09-15T07:24:56.076Z",
+      "timestamp_created_epoch": 1473924296076,
+      "timestamp_update": "2016-10-04T06:59:31.588Z",
+      "timestamp_update_epoch": 1475564371588,
+      "title": [
+        "Die Schauspieler Bandō Shuka I als Miyuki und Ichikawa Danjūrō VIII als Miyagi Asojirō",
+        "Actors Bandō Shuka I as Miyuki and Ichikawa Danjūrō VIII as Miyagi Asojirō",
+        "Die Schauspieler Bandō Shuka I als Miyuki und Ichikawa Danjūrō VIII als Miyagi Asojirō"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

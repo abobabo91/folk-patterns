@@ -116,6 +116,27 @@ cd site && npm run prepare-data && vercel --prod --archive=tgz
 Individual scrapers still exist (`scrape_region.py`, `scrape_cleveland.py`,
 etc.) for targeted re-runs; `scrape_all.py` is the one-command wrapper.
 
+**On a fresh clone.** Everything needed to rebuild the site is in the repo:
+`library/**/metadata.json` (18,927 records, 18,025 kept by the image vetter and
+the dropped ones with their reasons) is tracked; only its images are not. The
+site serves 915 images from R2 and hotlinks the rest from the museums, so local
+images are not needed (`build_index.py` reads the duplicate-check features of
+missing files from `data/image_features.json`). The gitignored crawl caches
+and run logs are in `archive/local-data-2026-10-08.tar.xz` (65 MB, 417 MB
+unpacked): the `data/world/` caches (`bm_objects`, `eu_objects`,
+`ethno_objects_*`, `candidates`, `ntm_catalog`, the pick ledger and raw replies),
+`data/pool/`, `data/raw/` (territory sources, museum raw pulls),
+`.cache/image_hashes.json` and `work/audit/` (the audit judge's raw replies).
+Unpack it at the repo root before running the census or the territories:
+
+```bash
+tar -xJf archive/local-data-2026-10-08.tar.xz
+```
+
+Not archived, because they are downloads: `.cache/MetObjects.csv` (docs/museums.md)
+and `data/probes/`. The local working copy was deleted on 2026-10-08 after this
+archive was pushed.
+
 ## World-peoples census and unreviewed-only cultures
 
 The resumable `world_peoples.py` census keeps multilingual Wikidata labels,

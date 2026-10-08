@@ -1,0 +1,100 @@
+[
+  {
+    "id": "british_museum-E_Am1979-22-63",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1979-22-63",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1979-22-63",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1979.22.63",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Iñupiaq",
+      "tradition": "Iñupiaq",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Two finely carved walrus ivory bird figures (a Canada goose and a loon) with engraved feather detailing, a well-known Inupiat ivory carving tradition; the museum confirms \"Made by: Inupiat.\"",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Walrus ivory carving of a Canada goose with engraved body markings and dyed black and brown.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_15/faa4186f_1340_4cc6_91ac_a3b6010613d7/preview_00020569_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "57040004cf61621fc2830066bdd3bbfb2eed7b6950212adb40446e5eb6af5b0c",
+        "bytes": 25543,
+        "local_path": "library\\north-america\\united-states\\inupiaq\\sculpture\\inupiaq\\images\\bm_E_Am1979_22_63.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T02:33:45.271315+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Walrus ivory carving of a Canada goose with engraved body markings and dyed black and brown.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_15/faa4186f_1340_4cc6_91ac_a3b6010613d7/preview_00020569_001.jpg",
+      "production_ethnic_groups": [
+        "Inupiat",
+        "Arctic Peoples"
+      ],
+      "production_ethnic_attribution": "Made by: Inupiat Made by: Arctic Peoples"
+    }
+  }
+]

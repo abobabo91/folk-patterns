@@ -1,0 +1,1542 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1019044",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1019044",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1019044?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ethiopia",
+      "ethnicity": "Oromo",
+      "tradition": "Oromo Ethiopia",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a solid brass anklet/bracelet with incised geometric line and dot ornamentation, matching documented Oromo (Arsi/Bale) brass ring jewelry described in the cited source. This is body adornment plausibly from the claimed group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "fotring",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1441032%2F1955.22.0025.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "686adadef3fae66606401b5256a7018a6af90c086459e8e07d36f72d2d655531",
+        "bytes": 11774,
+        "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\metalwork\\oromo-ethiopia\\images\\eu_91619_SMVK_EM_objekt_1019044.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T06:53:50.982363+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "Östafrika",
+        "Fotring tillverkad i mässing. Framsidan har en ristad ornamentering bestående av vågräta och snedställda streck som bryts med jämna mellanrum av en lodrät rad med tre ringar på varandra. Fotringen är massiv och tung.\n\nMöjligen härstammar fotringen från Arsi- eller Bale-regionerna där typen av ringar av mässing tillverkas och används ; \"The Oromo people of Arsi and Bale wear heavy bracelets of brass incised with geometric designs of lines and dots.\" (Ethiopia: design and decoration,1986)\n\nSe även 1955.22.26.\n                                                                                               (HTB)",
+        "Ethiopia",
+        "1955.22.0025",
+        "1955.22.0025",
+        "Östafrika",
+        "Ethiopia"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Östafrika",
+          "Fotring tillverkad i mässing. Framsidan har en ristad ornamentering bestående av vågräta och snedställda streck som bryts med jämna mellanrum av en lodrät rad med tre ringar på varandra. Fotringen är massiv och tung.\n\nMöjligen härstammar fotringen från Arsi- eller Bale-regionerna där typen av ringar av mässing tillverkas och används ; \"The Oromo people of Arsi and Bale wear heavy bracelets of brass incised with geometric designs of lines and dots.\" (Ethiopia: design and decoration,1986)\n\nSe även 1955.22.26.\n                                                                                               (HTB)"
+        ],
+        "def": [
+          "1955.22.0025",
+          "Östafrika",
+          "Ethiopia"
+        ],
+        "en": [
+          "Ethiopia"
+        ],
+        "zxx": [
+          "1955.22.0025"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "fotring"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1772",
+        "http://data.europeana.eu/concept/1766"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Латунь"
+        },
+        {
+          "def": "Металл"
+        },
+        {
+          "def": "Messinki"
+        },
+        {
+          "def": "Metalli"
+        },
+        {
+          "def": "Latão"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Месинг"
+        },
+        {
+          "def": "Метал"
+        },
+        {
+          "def": "Žalvaris"
+        },
+        {
+          "def": "Metalai"
+        },
+        {
+          "def": "Mjed"
+        },
+        {
+          "def": "Kovine"
+        },
+        {
+          "def": "Misiņš"
+        },
+        {
+          "def": "Metāls"
+        },
+        {
+          "def": "Laiton"
+        },
+        {
+          "def": "Métal"
+        },
+        {
+          "def": "Sárgaréz"
+        },
+        {
+          "def": "Fém"
+        },
+        {
+          "def": "Mosadz"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Medenina"
+        },
+        {
+          "def": "Kovina"
+        },
+        {
+          "def": "Prás"
+        },
+        {
+          "def": "Miotal"
+        },
+        {
+          "def": "Llautó"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Mässing"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Ορείχαλκος"
+        },
+        {
+          "def": "Μέταλλο"
+        },
+        {
+          "def": "Brass"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Ottone"
+        },
+        {
+          "def": "Metallo"
+        },
+        {
+          "def": "Latón"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Letoi"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Mosaz"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Mosiądz"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Alamă"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metaal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Messing",
+          "Metall"
+        ],
+        "ru": [
+          "Латунь",
+          "Металл"
+        ],
+        "fi": [
+          "Messinki",
+          "Metalli"
+        ],
+        "pt": [
+          "Latão",
+          "Metal"
+        ],
+        "bg": [
+          "Месинг",
+          "Метал"
+        ],
+        "lt": [
+          "Metalai",
+          "Žalvaris"
+        ],
+        "hr": [
+          "Kovine",
+          "Mjed"
+        ],
+        "lv": [
+          "Metāls",
+          "Misiņš"
+        ],
+        "fr": [
+          "Laiton",
+          "Métal"
+        ],
+        "hu": [
+          "Sárgaréz",
+          "Fém"
+        ],
+        "sk": [
+          "Mosadz",
+          "Kov"
+        ],
+        "sl": [
+          "Medenina",
+          "Kovina"
+        ],
+        "ga": [
+          "Prás",
+          "Miotal"
+        ],
+        "ca": [
+          "Llautó",
+          "Metall"
+        ],
+        "sv": [
+          "Mässing",
+          "Metall"
+        ],
+        "el": [
+          "Ορείχαλκος",
+          "Μέταλλο"
+        ],
+        "en": [
+          "Brass",
+          "Metal"
+        ],
+        "it": [
+          "Ottone",
+          "Metallo"
+        ],
+        "es": [
+          "Latón",
+          "Metal"
+        ],
+        "et": [
+          "Messing",
+          "Metall"
+        ],
+        "eu": [
+          "Letoi",
+          "Metal"
+        ],
+        "cs": [
+          "Kov",
+          "Mosaz"
+        ],
+        "pl": [
+          "Mosiądz",
+          "Metal"
+        ],
+        "da": [
+          "Messing",
+          "Metal"
+        ],
+        "ro": [
+          "Alamă",
+          "Metal"
+        ],
+        "nl": [
+          "Messing",
+          "Metaal"
+        ]
+      },
+      "edmDatasetName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/1019044"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1441032/1955.22.0025.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Federala demokratiska republiken Etiopien"
+        },
+        {
+          "def": "Demokratiska förbundsrepubliken Etiopien"
+        },
+        {
+          "def": "Федеративная Демократическая Республика Эфиопия"
+        },
+        {
+          "def": "Абиссиния"
+        },
+        {
+          "def": "Абессиния"
+        },
+        {
+          "def": "Etiopian demokraattinen liittotasavalta"
+        },
+        {
+          "def": "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        },
+        {
+          "def": "Repubblika Demokratika Federali tal-Etjopja"
+        },
+        {
+          "def": "Federal Democratic Republic of Ethiopia"
+        },
+        {
+          "def": "et"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Repubblica Federale Democratica d'Etiopia"
+        },
+        {
+          "def": "République fédérale démocratique d'Éthiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "La République démocratique fédérale d’Éthiopie"
+        },
+        {
+          "def": "Etióp Szövetségi Demokratikus Köztársaság"
+        },
+        {
+          "def": "Asamblea Parlamentaria Federal"
+        },
+        {
+          "def": "República Democrática Federal de Etiopía"
+        },
+        {
+          "def": "Etioopia Demokraatlik Liitvabariik"
+        },
+        {
+          "def": "Habeš"
+        },
+        {
+          "def": "Abesínia"
+        },
+        {
+          "def": "Etiópska federatívna demokratická republika"
+        },
+        {
+          "def": "Ethiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Abissínia"
+        },
+        {
+          "def": "República Democràtica Federal d'Etiòpia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Imperi abissini"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "sv": [
+          "Federala demokratiska republiken Etiopien",
+          "Demokratiska förbundsrepubliken Etiopien"
+        ],
+        "ru": [
+          "Федеративная Демократическая Республика Эфиопия",
+          "Абиссиния",
+          "Абессиния"
+        ],
+        "fi": [
+          "Etiopian demokraattinen liittotasavalta"
+        ],
+        "el": [
+          "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        ],
+        "mt": [
+          "Repubblika Demokratika Federali tal-Etjopja"
+        ],
+        "en": [
+          "Federal Democratic Republic of Ethiopia",
+          "et",
+          "ETH"
+        ],
+        "it": [
+          "Repubblica Federale Democratica d'Etiopia"
+        ],
+        "fr": [
+          "République fédérale démocratique d'Éthiopie",
+          "ET",
+          "La République démocratique fédérale d’Éthiopie"
+        ],
+        "hu": [
+          "Etióp Szövetségi Demokratikus Köztársaság"
+        ],
+        "es": [
+          "Asamblea Parlamentaria Federal",
+          "República Democrática Federal de Etiopía"
+        ],
+        "et": [
+          "Etioopia Demokraatlik Liitvabariik"
+        ],
+        "cs": [
+          "Habeš"
+        ],
+        "sk": [
+          "Abesínia",
+          "Etiópska federatívna demokratická republika"
+        ],
+        "nl": [
+          "Ethiopie",
+          "ET",
+          "ETH"
+        ],
+        "ca": [
+          "Abissínia",
+          "República Democràtica Federal d'Etiòpia",
+          "Etiopia",
+          "Imperi abissini"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Äthiopien"
+        },
+        {
+          "def": "Эфиопия"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Етиопия"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Éthiopie"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "An Aetóip"
+        },
+        {
+          "def": "Etiòpia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Αιθιοπία"
+        },
+        {
+          "def": "Etjopja"
+        },
+        {
+          "def": "Ethiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopía"
+        },
+        {
+          "def": "Etioopia"
+        },
+        {
+          "def": "Etiopie"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Ethiopië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Äthiopien"
+        ],
+        "ru": [
+          "Эфиопия"
+        ],
+        "fi": [
+          "Etiopia"
+        ],
+        "pt": [
+          "Etiópia"
+        ],
+        "bg": [
+          "Етиопия"
+        ],
+        "lt": [
+          "Etiopija"
+        ],
+        "lv": [
+          "Etiopija"
+        ],
+        "hr": [
+          "Etiopija"
+        ],
+        "fr": [
+          "Éthiopie"
+        ],
+        "hu": [
+          "Etiópia"
+        ],
+        "sk": [
+          "Etiópia"
+        ],
+        "sl": [
+          "Etiopija"
+        ],
+        "ga": [
+          "An Aetóip"
+        ],
+        "ca": [
+          "Etiòpia"
+        ],
+        "sv": [
+          "Etiopien"
+        ],
+        "el": [
+          "Αιθιοπία"
+        ],
+        "mt": [
+          "Etjopja"
+        ],
+        "en": [
+          "Ethiopia"
+        ],
+        "it": [
+          "Etiopia"
+        ],
+        "es": [
+          "Etiopía"
+        ],
+        "et": [
+          "Etioopia"
+        ],
+        "cs": [
+          "Etiopie"
+        ],
+        "eu": [
+          "Etiopia"
+        ],
+        "pl": [
+          "Etiopia"
+        ],
+        "ro": [
+          "Etiopia"
+        ],
+        "da": [
+          "Etiopien"
+        ],
+        "nl": [
+          "Ethiopië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "40.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1441032%2F1955.22.0025.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1019044?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91619/SMVK_EM_objekt_1019044",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91619/SMVK_EM_objekt_1019044.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 29.027218,
+      "timestamp": 1752046976509,
+      "timestamp_created": "2014-08-27T14:51:14.760Z",
+      "timestamp_created_epoch": 1409151074760,
+      "timestamp_update": "2022-09-14T08:55:33.471Z",
+      "timestamp_update_epoch": 1663145733471,
+      "title": [
+        "fotring"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1019045",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1019045",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1019045?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ethiopia",
+      "ethnicity": "Oromo",
+      "tradition": "Oromo Ethiopia",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a heavy incised brass bracelet/anklet, matching the described Oromo (Arsi/Bale) brass ring jewelry with geometric line-and-dot ornamentation.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "fotring",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1441048%2F1955.22.0026.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0da10e43cc3ce19ffc4a0bf2c977be9793e8fd02e4c2b8093d9846a6304d8730",
+        "bytes": 11766,
+        "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\metalwork\\oromo-ethiopia\\images\\eu_91619_SMVK_EM_objekt_1019045.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T06:53:51.564364+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "Fotring tillverkad i mässing. Framsidan har en ristad ornamentering bestående av vågräta och snedställda streck som bryts med jämna mellanrum av en lodrät rad med tre ringar på varandra. Fotringen är massiv och tung.\n\nMöjligen härstammar fotringen från Arsi- eller Bale-regionerna där typen av ringar av mässing tillverkas och används ; \"The Oromo people of Arsi and Bale wear heavy bracelets of brass incised with geometric designs of lines and dots.\" (Ethiopia: design and decoration,1986)\n\nSe även 1955.22.25.\n                                                                                               (HTB)",
+        "Östafrika",
+        "1955.22.0026",
+        "Östafrika",
+        "Ethiopia",
+        "Ethiopia",
+        "1955.22.0026"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fotring tillverkad i mässing. Framsidan har en ristad ornamentering bestående av vågräta och snedställda streck som bryts med jämna mellanrum av en lodrät rad med tre ringar på varandra. Fotringen är massiv och tung.\n\nMöjligen härstammar fotringen från Arsi- eller Bale-regionerna där typen av ringar av mässing tillverkas och används ; \"The Oromo people of Arsi and Bale wear heavy bracelets of brass incised with geometric designs of lines and dots.\" (Ethiopia: design and decoration,1986)\n\nSe även 1955.22.25.\n                                                                                               (HTB)",
+          "Östafrika"
+        ],
+        "def": [
+          "1955.22.0026",
+          "Östafrika",
+          "Ethiopia"
+        ],
+        "en": [
+          "Ethiopia"
+        ],
+        "zxx": [
+          "1955.22.0026"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "fotring"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1772",
+        "http://data.europeana.eu/concept/1766"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Латунь"
+        },
+        {
+          "def": "Металл"
+        },
+        {
+          "def": "Messinki"
+        },
+        {
+          "def": "Metalli"
+        },
+        {
+          "def": "Latão"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Месинг"
+        },
+        {
+          "def": "Метал"
+        },
+        {
+          "def": "Žalvaris"
+        },
+        {
+          "def": "Metalai"
+        },
+        {
+          "def": "Mjed"
+        },
+        {
+          "def": "Kovine"
+        },
+        {
+          "def": "Misiņš"
+        },
+        {
+          "def": "Metāls"
+        },
+        {
+          "def": "Laiton"
+        },
+        {
+          "def": "Métal"
+        },
+        {
+          "def": "Sárgaréz"
+        },
+        {
+          "def": "Fém"
+        },
+        {
+          "def": "Mosadz"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Medenina"
+        },
+        {
+          "def": "Kovina"
+        },
+        {
+          "def": "Prás"
+        },
+        {
+          "def": "Miotal"
+        },
+        {
+          "def": "Llautó"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Mässing"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Ορείχαλκος"
+        },
+        {
+          "def": "Μέταλλο"
+        },
+        {
+          "def": "Brass"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Ottone"
+        },
+        {
+          "def": "Metallo"
+        },
+        {
+          "def": "Latón"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Letoi"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Mosaz"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Mosiądz"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Alamă"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Messing"
+        },
+        {
+          "def": "Metaal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Messing",
+          "Metall"
+        ],
+        "ru": [
+          "Латунь",
+          "Металл"
+        ],
+        "fi": [
+          "Messinki",
+          "Metalli"
+        ],
+        "pt": [
+          "Latão",
+          "Metal"
+        ],
+        "bg": [
+          "Месинг",
+          "Метал"
+        ],
+        "lt": [
+          "Metalai",
+          "Žalvaris"
+        ],
+        "hr": [
+          "Kovine",
+          "Mjed"
+        ],
+        "lv": [
+          "Metāls",
+          "Misiņš"
+        ],
+        "fr": [
+          "Laiton",
+          "Métal"
+        ],
+        "hu": [
+          "Sárgaréz",
+          "Fém"
+        ],
+        "sk": [
+          "Mosadz",
+          "Kov"
+        ],
+        "sl": [
+          "Medenina",
+          "Kovina"
+        ],
+        "ga": [
+          "Prás",
+          "Miotal"
+        ],
+        "ca": [
+          "Llautó",
+          "Metall"
+        ],
+        "sv": [
+          "Mässing",
+          "Metall"
+        ],
+        "el": [
+          "Ορείχαλκος",
+          "Μέταλλο"
+        ],
+        "en": [
+          "Brass",
+          "Metal"
+        ],
+        "it": [
+          "Ottone",
+          "Metallo"
+        ],
+        "es": [
+          "Latón",
+          "Metal"
+        ],
+        "et": [
+          "Messing",
+          "Metall"
+        ],
+        "eu": [
+          "Letoi",
+          "Metal"
+        ],
+        "cs": [
+          "Kov",
+          "Mosaz"
+        ],
+        "pl": [
+          "Mosiądz",
+          "Metal"
+        ],
+        "da": [
+          "Messing",
+          "Metal"
+        ],
+        "ro": [
+          "Alamă",
+          "Metal"
+        ],
+        "nl": [
+          "Messing",
+          "Metaal"
+        ]
+      },
+      "edmDatasetName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/1019045"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1441048/1955.22.0026.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Federala demokratiska republiken Etiopien"
+        },
+        {
+          "def": "Demokratiska förbundsrepubliken Etiopien"
+        },
+        {
+          "def": "Федеративная Демократическая Республика Эфиопия"
+        },
+        {
+          "def": "Абиссиния"
+        },
+        {
+          "def": "Абессиния"
+        },
+        {
+          "def": "Etiopian demokraattinen liittotasavalta"
+        },
+        {
+          "def": "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        },
+        {
+          "def": "Repubblika Demokratika Federali tal-Etjopja"
+        },
+        {
+          "def": "Federal Democratic Republic of Ethiopia"
+        },
+        {
+          "def": "et"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Repubblica Federale Democratica d'Etiopia"
+        },
+        {
+          "def": "République fédérale démocratique d'Éthiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "La République démocratique fédérale d’Éthiopie"
+        },
+        {
+          "def": "Etióp Szövetségi Demokratikus Köztársaság"
+        },
+        {
+          "def": "Asamblea Parlamentaria Federal"
+        },
+        {
+          "def": "República Democrática Federal de Etiopía"
+        },
+        {
+          "def": "Etioopia Demokraatlik Liitvabariik"
+        },
+        {
+          "def": "Habeš"
+        },
+        {
+          "def": "Abesínia"
+        },
+        {
+          "def": "Etiópska federatívna demokratická republika"
+        },
+        {
+          "def": "Ethiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Abissínia"
+        },
+        {
+          "def": "República Democràtica Federal d'Etiòpia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Imperi abissini"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "sv": [
+          "Federala demokratiska republiken Etiopien",
+          "Demokratiska förbundsrepubliken Etiopien"
+        ],
+        "ru": [
+          "Федеративная Демократическая Республика Эфиопия",
+          "Абиссиния",
+          "Абессиния"
+        ],
+        "fi": [
+          "Etiopian demokraattinen liittotasavalta"
+        ],
+        "el": [
+          "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        ],
+        "mt": [
+          "Repubblika Demokratika Federali tal-Etjopja"
+        ],
+        "en": [
+          "Federal Democratic Republic of Ethiopia",
+          "et",
+          "ETH"
+        ],
+        "it": [
+          "Repubblica Federale Democratica d'Etiopia"
+        ],
+        "fr": [
+          "République fédérale démocratique d'Éthiopie",
+          "ET",
+          "La République démocratique fédérale d’Éthiopie"
+        ],
+        "hu": [
+          "Etióp Szövetségi Demokratikus Köztársaság"
+        ],
+        "es": [
+          "Asamblea Parlamentaria Federal",
+          "República Democrática Federal de Etiopía"
+        ],
+        "et": [
+          "Etioopia Demokraatlik Liitvabariik"
+        ],
+        "cs": [
+          "Habeš"
+        ],
+        "sk": [
+          "Abesínia",
+          "Etiópska federatívna demokratická republika"
+        ],
+        "nl": [
+          "Ethiopie",
+          "ET",
+          "ETH"
+        ],
+        "ca": [
+          "Abissínia",
+          "República Democràtica Federal d'Etiòpia",
+          "Etiopia",
+          "Imperi abissini"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Äthiopien"
+        },
+        {
+          "def": "Эфиопия"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Етиопия"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Éthiopie"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "An Aetóip"
+        },
+        {
+          "def": "Etiòpia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Αιθιοπία"
+        },
+        {
+          "def": "Etjopja"
+        },
+        {
+          "def": "Ethiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopía"
+        },
+        {
+          "def": "Etioopia"
+        },
+        {
+          "def": "Etiopie"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Ethiopië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Äthiopien"
+        ],
+        "ru": [
+          "Эфиопия"
+        ],
+        "fi": [
+          "Etiopia"
+        ],
+        "pt": [
+          "Etiópia"
+        ],
+        "bg": [
+          "Етиопия"
+        ],
+        "lt": [
+          "Etiopija"
+        ],
+        "lv": [
+          "Etiopija"
+        ],
+        "hr": [
+          "Etiopija"
+        ],
+        "fr": [
+          "Éthiopie"
+        ],
+        "hu": [
+          "Etiópia"
+        ],
+        "sk": [
+          "Etiópia"
+        ],
+        "sl": [
+          "Etiopija"
+        ],
+        "ga": [
+          "An Aetóip"
+        ],
+        "ca": [
+          "Etiòpia"
+        ],
+        "sv": [
+          "Etiopien"
+        ],
+        "el": [
+          "Αιθιοπία"
+        ],
+        "mt": [
+          "Etjopja"
+        ],
+        "en": [
+          "Ethiopia"
+        ],
+        "it": [
+          "Etiopia"
+        ],
+        "es": [
+          "Etiopía"
+        ],
+        "et": [
+          "Etioopia"
+        ],
+        "cs": [
+          "Etiopie"
+        ],
+        "eu": [
+          "Etiopia"
+        ],
+        "pl": [
+          "Etiopia"
+        ],
+        "ro": [
+          "Etiopia"
+        ],
+        "da": [
+          "Etiopien"
+        ],
+        "nl": [
+          "Ethiopië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "40.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1441048%2F1955.22.0026.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1019045?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91619/SMVK_EM_objekt_1019045",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91619/SMVK_EM_objekt_1019045.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 28.58377,
+      "timestamp": 1752046976759,
+      "timestamp_created": "2014-08-27T14:51:14.767Z",
+      "timestamp_created_epoch": 1409151074767,
+      "timestamp_update": "2022-09-14T08:55:33.471Z",
+      "timestamp_update_epoch": 1663145733471,
+      "title": [
+        "fotring"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

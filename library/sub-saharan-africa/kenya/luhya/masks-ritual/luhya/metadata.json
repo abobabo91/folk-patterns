@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1934-1103-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1934-1103-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1934-1103-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1934.1103.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Luhya",
+      "tradition": "Luhya",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a woven fibre mask with a fringe of twisted cord strands, attributed by the museum to the Maragoli, a Luhya sub-group, matching a ritual mask used in the claimed culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "mask",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Fibre mask with a fringe of long twisted strings.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2023_3/28_16/e40d92c6_cd3b_4745_83e9_afd301089260/preview_EAF45261.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "10763e6c5355917363bf745b5718a0beb516aac05aadced456cf07db2b233639",
+        "bytes": 43060,
+        "local_path": "library\\sub-saharan-africa\\kenya\\luhya\\masks-ritual\\luhya\\images\\bm_E_Af1934_1103_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T22:05:39.130865+00:00",
+    "raw": {
+      "title": "mask",
+      "description": "Fibre mask with a fringe of long twisted strings.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_3/28_16/e40d92c6_cd3b_4745_83e9_afd301089260/preview_EAF45261.jpg",
+      "production_ethnic_groups": [
+        "Maragoli"
+      ],
+      "production_ethnic_attribution": "Made by: Maragoli"
+    }
+  }
+]

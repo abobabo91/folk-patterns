@@ -1,0 +1,122 @@
+[
+  {
+    "id": "europeana-91609_SMVK_VKM_fotografi_2448367",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91609_SMVK_VKM_fotografi_2448367",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2448367?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Russia",
+      "ethnicity": "Nanai",
+      "tradition": "Nanai",
+      "art_form": "photo",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A documentary photograph of a Nanai family in traditional embroidered robes and decorative textiles, consistent with Amur basin Tungusic dress and craft; this is clear positive evidence of the claimed people's clothing and material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2448371/ext-0246_D6Nanai.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d40755c85857694bfa1e07cf3d4d253294b0ddc39bed73614d93e83f737378c2",
+        "bytes": 144134,
+        "local_path": "library\\east-asia\\russia\\nanai\\photo\\nanai\\images\\eu_91609_SMVK_VKM_fotografi_2448367.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2448371%2Fext-0246_D6Nanai.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:01:03.172163+00:00",
+    "raw": {
+      "id": "/91609/SMVK_VKM_fotografi_2448367",
+      "guid": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_2448367?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "photograph",
+        "fotografi, photograph",
+        "fotografi, photograph"
+      ],
+      "dcCreator": [
+        "Unknown",
+        "Okänd"
+      ],
+      "dcDescription": [
+        "Nanai family in traditional costumes, Amur basin, Russia.\n\n(wikimedia commons) ext-0246 Nanai-familj i traditionella kläder, Amur, Ryssland.\n\n(Wikimedia Commons) Bilden tillhör samling med bilder (ext-) som inte är Etnografiska museets bilder. Bilden kan ha skickats till museet digitalt eller ha hämtats från nätet för att användas i en utställning eller för att komplettera och berika befintlig information i databasen. ext-0246 Nanai family in traditional costumes, Amur basin, Russia.\n\n(wikimedia commons)"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2448371%2Fext-0246_D6Nanai.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2448371/ext-0246_D6Nanai.jpg"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

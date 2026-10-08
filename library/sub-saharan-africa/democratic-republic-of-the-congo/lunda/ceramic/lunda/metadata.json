@@ -1,0 +1,593 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_59247",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_59247",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59247?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a dark burnished spherical clay vessel with a cylindrical neck, spout, and two handles, decorated with incised geometric bands on the neck — a traditional pottery type (\"mulondo\") documented as made by the Lunda people of the Congo. This is a plausible, well-documented ethnographic ceramic form consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Lerkruka, kruka, pot, vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200525/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "89e6d654961dcf74e05f7d8275410294fbba6ccb2ac115b01fba3fbf87a76eca",
+        "bytes": 58837,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\ceramic\\lunda\\images\\eu_91608_SMVK_VKM_objekt_59247.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200525%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:13:17.848721+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_59247",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59247?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lerkruka, kruka, pot, vessel"
+      ],
+      "dcDescription": [
+        "1968.13.0356 Josef lagergren Camp Massart, Elisabethville, Kongo Kinhasa Camp Massart, Elisabethville, Kongo Kinhasa Camp Massart, Elisabethville, Kongo-Kinshasa.. [[Haga]] skiss Lunda (Lwena) (=Balunda) Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo CONGO 2, ceramics Horisonter - Kongo Democratic Republic of the Congo Lerkruka, s.k. \"mulondo\". Höjd: 27 cm. Vidd: 25 cm. Corpus rund, fot av cirkulär platta, något urgröpt, c:a 1,7 cm hög o. med en diam. av 11,5 - 11,7 cm. Cylinderformad hals, något inåtlutade väggar. \n\nHöjd: 6,5 cm cm. Inre diam.: 7 cm, yttre diam."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200525%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200525/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_59248",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_59248",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59248?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A traditional dark burnished clay spouted jug (\"mulondo\") with cylindrical neck bearing incised geometric ornament and a loop handle, collected among Lunda (Lwena) communities near Elisabethville, Congo — a classic regional ceramic form consistent with the claimed people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kruka, Lerkruka, vessel, pot",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703721/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8432b0948f7272eb2add3975156720c67e2d75bfc5c5897f478d960ff3186817",
+        "bytes": 23520,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\ceramic\\lunda\\images\\eu_91608_SMVK_VKM_objekt_59248.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703721%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:13:18.374464+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_59248",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59248?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kruka, Lerkruka, vessel, pot"
+      ],
+      "dcDescription": [
+        "1968.13.0355 Josef lagergren Camp Massart, Elisabethville, Kongo Kinhasa Camp Massart, Elisabethville, Kongo Kinhasa Camp Massart, Elisabethville, Kongo-Kinshasa. [[Haga]] skiss Lunda (Lwena) Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo CONGO 2, ceramics Horisonter - Kongo Democratic Republic of the Congo Lerkruka, s.k. \"mulondo\". Höjd: 28 cm. Vidd: 25 cm. Corpus rund fot av cirkulär platta, c:a 2 cm hög o med en diameter av 10 cm. Cylinderformad hals med geometriska ornament inom rektanglar. Halsens höjd: 6,7 cm. Inre diameter: 7,5 - 7,8 cm. \nYttre diameter: 8"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703721%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703721/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_59273",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_59273",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59273?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Lunda",
+      "tradition": "Lunda",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a handmade black burnished lidded clay vessel (\"mulondo\") with spout and handle, collected in Elisabethville, Congo, and attributed to the Lunda(-Lwena) region — a traditional ceramic form plausible for this people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Lerkruka, kruka, pot, vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200529/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e83ff9364b11165f67877edfc7e2cbe902c1b0098fb72f2887bdbbb1f0223d4b",
+        "bytes": 62333,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\lunda\\ceramic\\lunda\\images\\eu_91608_SMVK_VKM_objekt_59273.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200529%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:13:19.623765+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_59273",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59273?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lerkruka, kruka, pot, vessel"
+      ],
+      "dcDescription": [
+        "1968.13.0357a-b Josef lagergren Camp Massart, Elisabethville, Kongo Kinhasa Camp Massart, Elisabethville, Kongo-Kinshasa. [[Haga]] Camp Massart, Elisabethville, Kongo Kinhasa skiss Lunda (Lwena) Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo CONGO 2, ceramics Horisonter - Kongo Democratic Republic of the Congo Lerkruka, s.k. \"mulondo\". Höjd: 28 cm. Vidd: inkl. handtag: 33 cm. (b) löst lock av lera, defekt. Corpus oval, utan fot, inbuktning vid 2/3 höjd. Därigenom bildas en kupolform under locket som inpassats i en c:a 1,5 cm hög halsring. Lockets knopp avslagen o"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200529%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200529/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

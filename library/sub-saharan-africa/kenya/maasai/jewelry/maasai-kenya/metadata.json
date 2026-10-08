@@ -1,0 +1,650 @@
+[
+  {
+    "id": "europeana-1269_mnha50834",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of Archaeology, History and Art",
+      "object_id": "1269_mnha50834",
+      "object_url": "https://www.europeana.eu/item/1269/mnha50834?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a wire necklace/collar with attached chains, consistent with Maasai-style metal jewelry as described in the museum's inventory. This is a plausible personal ornament type for the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "Collier des Maasaï",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of Archaeology, History and Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.mnaha.lu%2Fapi%2Fv1%2Frecords%2Fmnha50834%2Ffiles%2Fimages%2Fmnha50834_122901.jpg%2Ffull%2F%21460%2C460%2F0%2Fdefault.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c9001b3775fff2b3a7f693d64e93c1ee9d9e60db5a637422feb6e9f3a5832b46",
+        "bytes": 16196,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\jewelry\\maasai-kenya\\images\\eu_1269_mnha50834.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T06:54:57.341773+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Luxembourg"
+      ],
+      "dataProvider": [
+        "National Museum of Archaeology, History and Art"
+      ],
+      "dcDescription": [
+        "Formé d'un fil de fer fermé sur la nuque par un crochet et un anneau, et enroulé d'un autre fil. Sur le devant sont attachées quatre chaînettes doubles en fer.\n- Inventaire descriptif de la collection ethnographique Spring par Nicolas Van Werveke. N.B. : il s’agit d’une transcription fidèle de l’inventaire de Van Werveke, les termes utilisés en 1898 n’ont pas été modifiés, même ceux dont l’usage est considéré comme critique aujourd'hui.",
+        "Formed of an iron wire closed on the nape of the neck by a hook and a ring and wound with another wire. Four double iron chains are attached to the front.\n- Descriptive inventory by Nicolas Van Werveke of the Spring ethnographic collection. N.B.: this is a faithful transcription of Van Werveke's inventory, the terms used in 1898 have not been modified, even those whose use is considered critical today.",
+        "Temporal references: 1800?/[..1893]",
+        "Bestehend aus einem Eisendraht, der im Nacken mit einem Haken und einem Ring verschlossen und mit einem weiteren Draht umwickelt ist. An der Vorderseite sind vier Doppelketten aus Eisen befestigt.\n - Beschreibung von Nicolas Van Werveke des Inventars der ethnografischen Sammlung. Hinweis: Dies ist eine getreue Transkription von Van Wervekes Inventar. Die im Jahr 1898 verwendeten Begriffe wurden nicht geändert, auch nicht diejenigen, deren Verwendung heute als kritisch angesehen wird."
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Bestehend aus einem Eisendraht, der im Nacken mit einem Haken und einem Ring verschlossen und mit einem weiteren Draht umwickelt ist. An der Vorderseite sind vier Doppelketten aus Eisen befestigt.\n - Beschreibung von Nicolas Van Werveke des Inventars der ethnografischen Sammlung. Hinweis: Dies ist eine getreue Transkription von Van Wervekes Inventar. Die im Jahr 1898 verwendeten Begriffe wurden nicht geändert, auch nicht diejenigen, deren Verwendung heute als kritisch angesehen wird."
+        ],
+        "en": [
+          "Formed of an iron wire closed on the nape of the neck by a hook and a ring and wound with another wire. Four double iron chains are attached to the front.\n- Descriptive inventory by Nicolas Van Werveke of the Spring ethnographic collection. N.B.: this is a faithful transcription of Van Werveke's inventory, the terms used in 1898 have not been modified, even those whose use is considered critical today.",
+          "Temporal references: 1800?/[..1893]"
+        ],
+        "fr": [
+          "Formé d'un fil de fer fermé sur la nuque par un crochet et un anneau, et enroulé d'un autre fil. Sur le devant sont attachées quatre chaînettes doubles en fer.\n- Inventaire descriptif de la collection ethnographique Spring par Nicolas Van Werveke. N.B. : il s’agit d’une transcription fidèle de l’inventaire de Van Werveke, les termes utilisés en 1898 n’ont pas été modifiés, même ceux dont l’usage est considéré comme critique aujourd'hui."
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Massai Halskette"
+        ],
+        "en": [
+          "Maasai necklace"
+        ],
+        "fr": [
+          "Collier des Maasaï"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2474"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Halskette"
+        },
+        {
+          "def": "Kaulakoru"
+        },
+        {
+          "def": "Ожерелье"
+        },
+        {
+          "def": "Halsband"
+        },
+        {
+          "def": "Colar"
+        },
+        {
+          "def": "Огърлица"
+        },
+        {
+          "def": "Κολιέ"
+        },
+        {
+          "def": "Karoliai"
+        },
+        {
+          "def": "Necklace"
+        },
+        {
+          "def": "Kaklarota"
+        },
+        {
+          "def": "Collana"
+        },
+        {
+          "def": "Collier"
+        },
+        {
+          "def": "Nyaklánc"
+        },
+        {
+          "def": "Collar"
+        },
+        {
+          "def": "Kaelakee"
+        },
+        {
+          "def": "Lepoko"
+        },
+        {
+          "def": "Náhrdelník"
+        },
+        {
+          "def": "Ogrlica"
+        },
+        {
+          "def": "Naszyjnik"
+        },
+        {
+          "def": "Colier"
+        },
+        {
+          "def": "Halskæde"
+        },
+        {
+          "def": "Collaret"
+        },
+        {
+          "def": "Halsketting"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Halskette"
+        ],
+        "fi": [
+          "Kaulakoru"
+        ],
+        "ru": [
+          "Ожерелье"
+        ],
+        "sv": [
+          "Halsband"
+        ],
+        "pt": [
+          "Colar"
+        ],
+        "bg": [
+          "Огърлица"
+        ],
+        "el": [
+          "Κολιέ"
+        ],
+        "lt": [
+          "Karoliai"
+        ],
+        "en": [
+          "Necklace"
+        ],
+        "lv": [
+          "Kaklarota"
+        ],
+        "it": [
+          "Collana"
+        ],
+        "fr": [
+          "Collier"
+        ],
+        "hu": [
+          "Nyaklánc"
+        ],
+        "es": [
+          "Collar"
+        ],
+        "et": [
+          "Kaelakee"
+        ],
+        "eu": [
+          "Lepoko"
+        ],
+        "cs": [
+          "Náhrdelník"
+        ],
+        "sl": [
+          "Ogrlica"
+        ],
+        "pl": [
+          "Naszyjnik"
+        ],
+        "ro": [
+          "Colier"
+        ],
+        "da": [
+          "Halskæde"
+        ],
+        "ca": [
+          "Collaret"
+        ],
+        "nl": [
+          "Halsketting"
+        ]
+      },
+      "edmDatasetName": [
+        "1269_MNAHA"
+      ],
+      "edmIsShownAt": [
+        "https://collections.mnaha.lu/object/mnha50834"
+      ],
+      "edmIsShownBy": [
+        "https://collections.mnaha.lu/api/v1/records/mnha50834/files/images/mnha50834_122901.jpg/full/!460,460/0/default.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.mnaha.lu%2Fapi%2Fv1%2Frecords%2Fmnha50834%2Ffiles%2Fimages%2Fmnha50834_122901.jpg%2Ffull%2F%21460%2C460%2F0%2Fdefault.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "1269_MNAHA"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/1269/mnha50834?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1269/mnha50834",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/1269/mnha50834.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "MUSEU"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 78.94473,
+      "timestamp": 1777969260155,
+      "timestamp_created": "2026-05-05T08:16:30.526Z",
+      "timestamp_created_epoch": 1777968990526,
+      "timestamp_update": "2026-05-05T08:16:30.526Z",
+      "timestamp_update_epoch": 1777968990526,
+      "title": [
+        "Collier des Maasaï",
+        "Maasai necklace",
+        "Massai Halskette"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-1269_mnha98812",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of Archaeology, History and Art",
+      "object_id": "1269_mnha98812",
+      "object_url": "https://www.europeana.eu/item/1269/mnha98812?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a metal spearhead described as a Maasai lance, a weapon used by the Maasai; this is a weapon, not jewelry, so the claimed category is wrong, but the ethnicity attribution is plausible.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms"
+    },
+    "physical": {
+      "title": "Lance des Massais",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of Archaeology, History and Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.mnaha.lu%2Fapi%2Fv1%2Frecords%2Fmnha98812%2Ffiles%2Fimages%2Fmnha98812_148760.jpg%2Ffull%2F%21460%2C460%2F0%2Fdefault.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3f4c4ce1bb10677652fdd12068a1943e53f332064034df283737e26e9a622432",
+        "bytes": 5911,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\jewelry\\maasai-kenya\\images\\eu_1269_mnha98812.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T06:54:56.808142+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Luxembourg"
+      ],
+      "dataProvider": [
+        "National Museum of Archaeology, History and Art"
+      ],
+      "dcDescription": [
+        "Le fer se compose d'une douille, et de la pointe en forme de feuille se rétrécissant depuis la douille, où elle a sa plus grande largeur (8,7 cm) est longue de 64 cm. Le bois, visible seulement sur une longueur de 45 cm, se termine par un pied de fer très massif ; au-dessus du pied de fer un anneau de cuivre.\n\nEn tout semblable aux numéros 2 et 24. La pointe est en forme de feuille à nervure médiane fort prononcée. Le bois, visible sur une longueur de 17,8 cm, se termine par un pied de forme carrée.\n\n- Inventaire descriptif de la collection ethnographique Spring par Nicolas Van Werveke. N.B. : il s’agit d’une transcription fidèle de l’inventaire de Van Werveke, les termes utilisés en 1898 n’ont pas été modifiés, même ceux dont l’usage est considéré comme critique aujourd'hui.",
+        "The iron consists of a socket, and the leaf-shaped tip tapering from the socket, where it has its greatest width (8.7 cm) is 64 cm long. The wood, visible only over a length of 45 cm, ends in a very massive iron foot; above the iron foot a copper ring.\n\nIn all similar to numbers 2 and 24. The tip is leaf-shaped with a very pronounced midrib. The wood, visible over a length of 17.8 cm, ends in a square-shaped foot.\n\n - Descriptive inventory by Nicolas Van Werveke of the Spring ethnographic collection. N.B.: this is a faithful transcription of Van Werveke's inventory, the terms used in 1898 have not been modified, even those whose use is considered critical today.",
+        "Temporal references: 1800?/[..1893]",
+        "Das Eisen besteht aus einer Fassung, und die blattförmige Spitze verjüngt sich von der Fassung, wo sie ihre größte Breite (8,7 cm) hat, und ist 64 cm lang. Das Holz, das nur auf einer Länge von 45 cm sichtbar ist, endet in einem sehr massiven Eisenfuß; über dem eisernen Fuß ein Kupferring.\n\nIm Großen und Ganzen ähnlich den Nummern 2 und 24. Die Spitze ist blattförmig mit einer sehr ausgeprägten Mittelrippe. Das auf einer Länge von 17,8 cm sichtbare Holz endet in einem quadratischen Fuß.\n\n- Beschreibung von Nicolas Van Werveke des Inventars der ethnografischen Sammlung. Hinweis: Dies ist eine getreue Transkription von Van Wervekes Inventar. Die im Jahr 1898 verwendeten Begriffe wurden nicht geändert, auch nicht diejenigen, deren Verwendung heutzutage als kritisch angesehen wird."
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Das Eisen besteht aus einer Fassung, und die blattförmige Spitze verjüngt sich von der Fassung, wo sie ihre größte Breite (8,7 cm) hat, und ist 64 cm lang. Das Holz, das nur auf einer Länge von 45 cm sichtbar ist, endet in einem sehr massiven Eisenfuß; über dem eisernen Fuß ein Kupferring.\n\nIm Großen und Ganzen ähnlich den Nummern 2 und 24. Die Spitze ist blattförmig mit einer sehr ausgeprägten Mittelrippe. Das auf einer Länge von 17,8 cm sichtbare Holz endet in einem quadratischen Fuß.\n\n- Beschreibung von Nicolas Van Werveke des Inventars der ethnografischen Sammlung. Hinweis: Dies ist eine getreue Transkription von Van Wervekes Inventar. Die im Jahr 1898 verwendeten Begriffe wurden nicht geändert, auch nicht diejenigen, deren Verwendung heutzutage als kritisch angesehen wird."
+        ],
+        "en": [
+          "The iron consists of a socket, and the leaf-shaped tip tapering from the socket, where it has its greatest width (8.7 cm) is 64 cm long. The wood, visible only over a length of 45 cm, ends in a very massive iron foot; above the iron foot a copper ring.\n\nIn all similar to numbers 2 and 24. The tip is leaf-shaped with a very pronounced midrib. The wood, visible over a length of 17.8 cm, ends in a square-shaped foot.\n\n - Descriptive inventory by Nicolas Van Werveke of the Spring ethnographic collection. N.B.: this is a faithful transcription of Van Werveke's inventory, the terms used in 1898 have not been modified, even those whose use is considered critical today.",
+          "Temporal references: 1800?/[..1893]"
+        ],
+        "fr": [
+          "Le fer se compose d'une douille, et de la pointe en forme de feuille se rétrécissant depuis la douille, où elle a sa plus grande largeur (8,7 cm) est longue de 64 cm. Le bois, visible seulement sur une longueur de 45 cm, se termine par un pied de fer très massif ; au-dessus du pied de fer un anneau de cuivre.\n\nEn tout semblable aux numéros 2 et 24. La pointe est en forme de feuille à nervure médiane fort prononcée. Le bois, visible sur une longueur de 17,8 cm, se termine par un pied de forme carrée.\n\n- Inventaire descriptif de la collection ethnographique Spring par Nicolas Van Werveke. N.B. : il s’agit d’une transcription fidèle de l’inventaire de Van Werveke, les termes utilisés en 1898 n’ont pas été modifiés, même ceux dont l’usage est considéré comme critique aujourd'hui."
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Lanze de rMassai"
+        ],
+        "en": [
+          "Maasai spear"
+        ],
+        "fr": [
+          "Lance des Massais"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1915"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Speer"
+        },
+        {
+          "def": "Keihäs"
+        },
+        {
+          "def": "Копьё"
+        },
+        {
+          "def": "Lança"
+        },
+        {
+          "def": "Копие"
+        },
+        {
+          "def": "Ietis"
+        },
+        {
+          "def": "Šķēps"
+        },
+        {
+          "def": "Koplje"
+        },
+        {
+          "def": "Lance"
+        },
+        {
+          "def": "Gerely"
+        },
+        {
+          "def": "Kopija"
+        },
+        {
+          "def": "Kopje"
+        },
+        {
+          "def": "Sleá"
+        },
+        {
+          "def": "Llança"
+        },
+        {
+          "def": "Spjut"
+        },
+        {
+          "def": "Δόρυ"
+        },
+        {
+          "def": "Spear"
+        },
+        {
+          "def": "Lancia"
+        },
+        {
+          "def": "Lanza"
+        },
+        {
+          "def": "Oda"
+        },
+        {
+          "def": "Kopí"
+        },
+        {
+          "def": "Lantza"
+        },
+        {
+          "def": "Włócznia"
+        },
+        {
+          "def": "Suliță"
+        },
+        {
+          "def": "Spyd"
+        },
+        {
+          "def": "Speer"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Speer"
+        ],
+        "fi": [
+          "Keihäs"
+        ],
+        "ru": [
+          "Копьё"
+        ],
+        "pt": [
+          "Lança"
+        ],
+        "bg": [
+          "Копие"
+        ],
+        "lt": [
+          "Ietis"
+        ],
+        "lv": [
+          "Šķēps"
+        ],
+        "hr": [
+          "Koplje"
+        ],
+        "fr": [
+          "Lance"
+        ],
+        "hu": [
+          "Gerely"
+        ],
+        "sk": [
+          "Kopija"
+        ],
+        "sl": [
+          "Kopje"
+        ],
+        "ga": [
+          "Sleá"
+        ],
+        "ca": [
+          "Llança"
+        ],
+        "sv": [
+          "Spjut"
+        ],
+        "el": [
+          "Δόρυ"
+        ],
+        "en": [
+          "Spear"
+        ],
+        "it": [
+          "Lancia"
+        ],
+        "es": [
+          "Lanza"
+        ],
+        "et": [
+          "Oda"
+        ],
+        "cs": [
+          "Kopí"
+        ],
+        "eu": [
+          "Lantza"
+        ],
+        "pl": [
+          "Włócznia"
+        ],
+        "ro": [
+          "Suliță"
+        ],
+        "da": [
+          "Spyd"
+        ],
+        "nl": [
+          "Speer"
+        ]
+      },
+      "edmDatasetName": [
+        "1269_MNAHA"
+      ],
+      "edmIsShownAt": [
+        "https://collections.mnaha.lu/object/mnha98812"
+      ],
+      "edmIsShownBy": [
+        "https://collections.mnaha.lu/api/v1/records/mnha98812/files/images/mnha98812_148760.jpg/full/!460,460/0/default.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.mnaha.lu%2Fapi%2Fv1%2Frecords%2Fmnha98812%2Ffiles%2Fimages%2Fmnha98812_148760.jpg%2Ffull%2F%21460%2C460%2F0%2Fdefault.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "1269_MNAHA"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/1269/mnha98812?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1269/mnha98812",
+      "index": 0,
+      "language": [
+        "fr"
+      ],
+      "link": "https://api.europeana.eu/record/1269/mnha98812.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "MUSEU"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 72.89841,
+      "timestamp": 1777969302387,
+      "timestamp_created": "2026-05-05T08:16:30.526Z",
+      "timestamp_created_epoch": 1777968990526,
+      "timestamp_update": "2026-05-05T08:16:30.526Z",
+      "timestamp_update_epoch": 1777968990526,
+      "title": [
+        "Lance des Massais",
+        "Maasai spear",
+        "Lanze de rMassai"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

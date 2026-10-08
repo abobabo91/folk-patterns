@@ -1,0 +1,994 @@
+[
+  {
+    "id": "cleveland-170879",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "170879",
+      "object_url": "https://clevelandart.org/art/2013.347.b",
+      "iiif_manifest": null,
+      "credit_line": "Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2013.347.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is Persian/Safavid-Mughal calligraphy (verses of Hafiz) mounted in a Mughal-style album, made in a court tradition unrelated to Uzbek ethnicity; the \"Uzbekistan\" location tag reflects Bukhara only as a place-name, not the actual culture depicted.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "middle-east-north-africa__iran__persian",
+        "people": "Persian",
+        "belongs": true,
+        "art_form": "painting-mss",
+        "image": "good",
+        "era": "traditional",
+        "reason": "This is a Persian calligraphic album page with verses of Hafiz, mounted in a Mughal-style album border with illuminated panels — a genuine product of the Persianate calligraphic tradition, fitting the claimed Persian ethnicity despite the album's later Mughal compilation and Uzbek \"location on file.\""
+      }
+    },
+    "physical": {
+      "title": "Calligraphic exercises and verses of Hafiz (Persian, about 1325–1389) (verso)",
+      "titles_alt": [],
+      "date_text": "1575–76",
+      "date_earliest": 1575,
+      "date_latest": 1576,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Gum tempera, ink, and gold on paper",
+      "classification": "Calligraphy",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This fine calligraphic work is signed and dated by a calligrapher who was highly regarded in both Safavid Iran and Mughal India. Mughal albums typically had a painted portrait or figural scene on one side, and a work of calligraphy on the other. The British civil servant Sir Charles Forbes made his album following that format. <br><br>The verses are a lament over a lack of wine, beginning: <br>For some days now the Daughter of the Vine has been lost to us, <br>Gone away to tend to her own affairs. <br>Be alert and prepared as a search party. <br>Her dress is of rubies, and she wears a tiara of delicate glass.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Persian, Uzbekistan, Bukhara",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Mahmud ibn Ishaq al-Shahabi (Persian, active mid- to late 1500s)",
+          "role": "calligraphy by",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2dd4f5e4dd9c537ed1f02186993dee9b3b5892b56f53bba34097a5f585be324b",
+        "bytes": 251003,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\cle_170879.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:40:55.063147+00:00",
+    "raw": {
+      "id": 170879,
+      "accession_number": "2013.347.b",
+      "share_license_status": "CC0",
+      "tombstone": "Calligraphic exercises and verses of Hafiz (Persian, about 1325–1389) (verso), 1575–76. Mahmud ibn Ishaq al-Shahabi (Persian, active mid- to late 1500s). Gum tempera, ink, and gold on paper; page: 28 x 23.8 cm (11 x 9 3/8 in.). The Cleveland Museum of Art, Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection, 2013.347.b",
+      "current_location": null,
+      "title": "Calligraphic exercises and verses of Hafiz (Persian, about 1325–1389) (verso)",
+      "creation_date": "1575–76",
+      "creation_date_earliest": 1575,
+      "creation_date_latest": 1576,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Persian, Uzbekistan, Bukhara"
+      ],
+      "technique": "Gum tempera, ink, and gold on paper",
+      "support_materials": [],
+      "department": "Indian and Southeast Asian Art",
+      "collection": "Indian Art - Mughal",
+      "type": "Calligraphy",
+      "measurements": "Page: 28 x 23.8 cm (11 x 9 3/8 in.)",
+      "dimensions": {
+        "page": {
+          "height": 0.28,
+          "height_inch": 11,
+          "height_inch_fraction": 0.0,
+          "width": 0.238,
+          "width_inch": 9,
+          "width_inch_fraction": 0.375
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "In center, Persian exercises including on the second line down the “abjad” letters of numeration followed by calligrapher’s signature, in nasta‘liq script:\nDone by the hand of the sinful slave Mahmud ibn Ishaq al-Shahabi, may God forgive his sins, in the year 982",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Persian verses above from a ghazal of Hafiz (Persian, 1325–1389), in nasta‘liq script:\nFor some days now the Daughter of the Vine has been lost to us,/\nGone away to tend to her own affairs.  Be alert and prepared (as a search party)./\nHer dress is of rubies and she wears a tiara of delicate glass./\nShe carries off wisdom and knowledge. Till you feel safe and secure from her, remain alert!/\nWhoever will bring her bitter presence to me, I will give him sweet confectionaries (halwa) in exchange,/\nAnd should she be hiding in disguise in the underworld, go down (and seek her out)/\nThe daughter of the dark-colored (vine) is quick-tempered, petulant, rose-colored and drunk./\nShould you find her, take her towards Hafiz’s house.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        },
+        {
+          "inscription": "Persian verses below, continued from above, in nasta‘liq script:\nI saw her last night, sauntering and tipsy./\nA cup in hand, she was heading towards a gathering of the drunk/\nI was so vexed that my poetic powers/\nBecame distraught and fled away from me/\nShe was harboring thoughts of Khwarazm and the shores of the Oxus/\nWith a thousand complaints she was leaving the Kingdom of Solomon/\nGone would be the person who knew the very soul of poetry as no one else./\nI was witnessing this and my soul was seeping out of my body/\nI protested and much lamented but to no avail/\nFor this was a matter for the Sultan’s compassion to tend.",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 203111,
+            "title": "Art and Stories from Mughal India",
+            "description": "<i>Art and Stories from Mughal India</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (July 31-October 23, 2016).",
+            "opening_date": "2016-07-31T04:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Sir Charles Forbes, 7th Baronet [1773–1849], Bengal, London, and Scotland, by descent to his great-grandson, Colonel Sir John Forbes",
+          "citations": [],
+          "footnotes": [],
+          "date": "before 1811–1849",
+          "sortorder": 1
+        },
+        {
+          "description": "Colonel Sir John Stewart Forbes [1901–1984], Baronet, DSO, DL, Allargue House, Strathdon, Aberdeenshire, Scotland, UK, consigned to Sotheby's London for sale",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–1962",
+          "sortorder": 2
+        },
+        {
+          "description": "(Sotheby’s, London, Western and Oriental Manuscripts and Miniatures, 10 December 1962, lot 25, sold to Ralph Benkaim)",
+          "citations": [],
+          "footnotes": [],
+          "date": "December 10, 1962",
+          "sortorder": 3
+        },
+        {
+          "description": "Ralph Benkaim [1914–2001] and Catherine Glynn Benkaim [b. 1946], Beverly Hills, CA, sold to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": [],
+          "date": "1962–2013",
+          "sortorder": 4
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2013–",
+          "sortorder": 5
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The work was part of an album of paintings collected in India before 1811 by a Scottish politician who worked for the British East India Company.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This fine calligraphic work is signed and dated by a calligrapher who was highly regarded in both Safavid Iran and Mughal India. Mughal albums typically had a painted portrait or figural scene on one side, and a work of calligraphy on the other. The British civil servant Sir Charles Forbes made his album following that format. <br><br>The verses are a lament over a lack of wine, beginning: <br>For some days now the Daughter of the Vine has been lost to us, <br>Gone away to tend to her own affairs. <br>Be alert and prepared as a search party. <br>Her dress is of rubies, and she wears a tiara of delicate glass.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80080237"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2013.347.b-calligraphic-exercis"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2013.347.b",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_web.jpg",
+          "width": "780",
+          "height": "900",
+          "filesize": "261113",
+          "filename": "2013.347.b_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_print.jpg",
+          "width": "2948",
+          "height": "3400",
+          "filesize": "2871195",
+          "filename": "2013.347.b_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_full.tif",
+          "width": "5487",
+          "height": "6328",
+          "filesize": "104198712",
+          "filename": "2013.347.b_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt0_web.jpg",
+            "width": "900",
+            "height": "665",
+            "filesize": "271448"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt0_print.jpg",
+            "width": "3400",
+            "height": "2514",
+            "filesize": "2760050"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt0_full.tif",
+            "width": "6549",
+            "height": "4843",
+            "filesize": "95185068"
+          },
+          "date_created": "2015-08-31T11:21:49",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt1_web.jpg",
+            "width": "900",
+            "height": "371",
+            "filesize": "170184"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt1_print.jpg",
+            "width": "3400",
+            "height": "1400",
+            "filesize": "1507801"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt1_full.tif",
+            "width": "6572",
+            "height": "2706",
+            "filesize": "53383084"
+          },
+          "date_created": "2015-08-31T11:24:50",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt2_web.jpg",
+            "width": "900",
+            "height": "479",
+            "filesize": "217471"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt2_print.jpg",
+            "width": "3400",
+            "height": "1810",
+            "filesize": "2070739"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2013.347.b/2013.347.b_alt2_full.tif",
+            "width": "6556",
+            "height": "3490",
+            "filesize": "68674364"
+          },
+          "date_created": "2015-08-31T11:26:21",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift in honor of Madeline Neves Clapp; Gift of Mrs. Henry White Cannon by exchange; Bequest of Louise T. Cooper; Leonard C. Hanna Jr. Fund; From the Catherine and Ralph Benkaim Collection",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 170879,
+      "creators": [
+        {
+          "id": 64825,
+          "description": "Mahmud ibn Ishaq al-Shahabi (Persian, active mid- to late 1500s)",
+          "extent": null,
+          "qualifier": null,
+          "role": "calligraphy by",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2013-12-02T00:00:00",
+      "sortable_date": 1575,
+      "date_added_to_oa": null,
+      "date_text": "1575–76",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "part",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": "2013.347",
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Calligraphy",
+        "Calligraphic exercises and two ghazals of Hafiz (Persian, 1325–1389)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-06-10 19:49:36.560000"
+    }
+  },
+  {
+    "id": "british_museum-A_1974-0617-0-17-33",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1974-0617-0-17-33",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1974-0617-0-17-33",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1974.0617.0.17.33",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a Mughal-style miniature painting depicting a court audience scene with a ruler enthroned, courtiers, and a garden pavilion — a Persianate/Mughal painting tradition, portraying an Uzbek khan but made in the Mughal courtly idiom rather than an Uzbek-produced work, and stylistically fits Mughal album painting conventions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Album Leaf (recto). Portrait. ʿAbdullah Xán Uzbek (Abdullah Khan Uzbek). On Paper. According to register, folio 18.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_20/9c87444d_a33e_48a7_8798_a3ba01578a18/preview_00261327_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4c244ac7d58c8bd0cf909a4f62ee07ebcdb6891213727a5023b1237f348dbc43",
+        "bytes": 69463,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_A_1974-0617-0-17-33.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:21.829298+00:00",
+    "raw": {
+      "title": "album",
+      "description": "Album Leaf (recto). Portrait. ʿAbdullah Xán Uzbek (Abdullah Khan Uzbek). On Paper. According to register, folio 18.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_20/9c87444d_a33e_48a7_8798_a3ba01578a18/preview_00261327_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1928-0323-0-46-94",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1928-0323-0-46-94",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1928-0323-0-46-94",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1928.0323.0.46.94",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "The painting clearly depicts a bearded man labeled as an \"Uzbek dervish\" wearing traditional Central Asian dress (kaftan, turban, sash, boots), matching the claimed ethnicity's traditional attire even though the album otherwise focuses on Turkish/Ottoman court figures.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "An Uzbek dervish; single-page painting mounted on album folio. Uzbek dervish wearing a green kaftan with very long sleeves, red robe, white sash, yellow boots and turban with a blue cap. Blue and red purse attached to sash. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk and opaque watercolour on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/fb54bcf7_c2fe_4699_b641_a3c7009eb22a/preview_01028934_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9e118b5cb4dadd8d36a90217f6e4b8c447d466b57fcc12f99bca0437fff6c9cd",
+        "bytes": 32868,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_W_1928-0323-0-46-94.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:21.859644+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "An Uzbek dervish; single-page painting mounted on album folio. Uzbek dervish wearing a green kaftan with very long sleeves, red robe, white sash, yellow boots and turban with a blue cap. Blue and red purse attached to sash. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk and opaque watercolour on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/fb54bcf7_c2fe_4699_b641_a3c7009eb22a/preview_01028934_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_2000-0616-0-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_2000-0616-0-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_2000-0616-0-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,2000.0616.0.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a Mughal-style Baburnama miniature depicting Babur (a Timurid/Mughal ruler) and his army — Shaybani Khan the Uzbek is only the opposing enemy named in the narrative, not the culture the painting represents; this is Mughal/Timurid court art, not Uzbek.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "painting; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "painting; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting, detached from album. Babur and his army emerge from the Khwaja Didar Fort, from a Baburnama manuscript. Babur is shown riding a fully armoured horse, emerging with his cavalry from the Khwaja Didar fort, where he wintered in 1497. A drummer rides a camel behind him and another soldier leans forward to hold a parasol over Babur&#039;s head. The broken arrows in the left foreground indicate that the battle with Shaybani Khan the Uzbek has already begun. The fort is ringed with red brick walls and crenellated battlements. Inside a tomb with a vaulted roof, various buildings, pavilions and canopies are visible. This is the left-hand page of a double-page composition of which the right hand page represents Shaybani Khan and Uzbeks being driven toward Samarkand (also owned by the British Museum since 1921).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_12/62cac5f9_063b_4128_be22_a3b600c990c4/preview_00006825_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6dca67536468105fca9531a33f3e68e65e8546a85e0163219124b023a5b937e3",
+        "bytes": 36814,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_A_2000-0616-0-1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:21.885534+00:00",
+    "raw": {
+      "title": "painting; album",
+      "description": "Painting, detached from album. Babur and his army emerge from the Khwaja Didar Fort, from a Baburnama manuscript. Babur is shown riding a fully armoured horse, emerging with his cavalry from the Khwaja Didar fort, where he wintered in 1497. A drummer rides a camel behind him and another soldier leans forward to hold a parasol over Babur&#039;s head. The broken arrows in the left foreground indicate that the battle with Shaybani Khan the Uzbek has already begun. The fort is ringed with red brick walls and crenellated battlements. Inside a tomb with a vaulted roof, various buildings, pavilions and canopies are visible. This is the left-hand page of a double-page composition of which the right hand page represents Shaybani Khan and Uzbeks being driven toward Samarkand (also owned by the British Museum since 1921).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_12/62cac5f9_063b_4128_be22_a3b600c990c4/preview_00006825_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1921-0712-0-1_1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1921-0712-0-1_1",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1921-0712-0-1_1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1921.0712.0.1_1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a Mughal (Baburnama) manuscript painting made for Babur's court depicting his army defeating the Uzbeks near Samarkand — it is Mughal art about the Uzbeks as enemies, not something made by Uzbeks themselves.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "painting; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "painting; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting, detached album leaf. Depicts an epic event from the Baburnameh in which Babur and his men drive the Uzbeks toward Samarkand.  The soldiers at the top stop to gaze upon a probable spring, while the others flee towards Samarkand, viewed in the distance along the horizon.  No text.  Painted in opaque watercolours and ink on paper.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/6e322b6d_bd0a_487d_94d9_a3b7011d2104/preview_00090288_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "67fe15fa9c723a2db790998826286514f8c473054a0f0f31bdc1ae6481f5a9c5",
+        "bytes": 68109,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_A_1921-0712-0-1_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:21.910429+00:00",
+    "raw": {
+      "title": "painting; album",
+      "description": "Painting, detached album leaf. Depicts an epic event from the Baburnameh in which Babur and his men drive the Uzbeks toward Samarkand.  The soldiers at the top stop to gaze upon a probable spring, while the others flee towards Samarkand, viewed in the distance along the horizon.  No text.  Painted in opaque watercolours and ink on paper.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/6e322b6d_bd0a_487d_94d9_a3b7011d2104/preview_00090288_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1906-0509-1-33",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1906-0509-1-33",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1906-0509-1-33",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1906.0509.1.33",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "A watercolour depicting a Central Asian man in a striped robe over a floral tunic, with a fur-trimmed hat, consistent with \"Tartar or Uzbek\" costume study of the region — a European-style documentary drawing of Uzbek/Central Asian dress.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A Tartar or Uzbek man; wearing striped cloak over blue tunic and hat with fur trim\nWatercolour and bodycolour over graphite",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_17/acbe97cd_2621_49de_88d4_a3b90120e7ba/preview_00212069_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "658e86373dfd2748503968c5afc7466afcb61fe7a3fbf0a2f1ec919f74e911ff",
+        "bytes": 56875,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_P_1906-0509-1-33.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:26.942422+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "A Tartar or Uzbek man; wearing striped cloak over blue tunic and hat with fur trim\nWatercolour and bodycolour over graphite",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_17/acbe97cd_2621_49de_88d4_a3b90120e7ba/preview_00212069_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1948-1211-0-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1948-1211-0-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1948-1211-0-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1948.1211.0.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a Mughal-style opaque watercolour portrait depicting ʿAbdullah Khan Uzbek II (a historical Uzbek ruler) seated cross-legged, cutting melons — a genre scene of Central Asian court dress and custom, consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting of ʿAbdullah Khan Uzbek II slicing melons while seated, cross-legged. No text.  Opaque watercolour on paper.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/16b59b88_a877_4832_a60b_a3b7011ef3cb/preview_00090392_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f178bc3dd3d6862576e81201f71ea1d837c585a85da8d2dde63654b86e28e40c",
+        "bytes": 42297,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_W_1948-1211-0-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:27.011353+00:00",
+    "raw": {
+      "title": "painting",
+      "description": "Painting of ʿAbdullah Khan Uzbek II slicing melons while seated, cross-legged. No text.  Opaque watercolour on paper.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/16b59b88_a877_4832_a60b_a3b7011ef3cb/preview_00090392_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-A156-39",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-A156-39",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A156-39",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.A156.39",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Uzbek",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "photo",
+      "vision_reason": "The museum's own description identifies this as a Nigeria photograph of a stacked-stick structure/shrine, not an Uzbek painting or manuscript; nothing in the image suggests Central Asian material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "photographic print (black and white); album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print (black and white); album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Photograph (black and white) from an album; view of collection of upright sticks tied together at the top. Unidentified rounded object sitting on the ground to the right. Ikat, Nigeria.\r\nGelatin silver print",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/a2c8b98d_e380_45d0_b627_a3c101426ffa/preview_00695105_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b2bc847fbaea158d899be3c5f9299471999e172b4e948a3025bcced233c84b3b",
+        "bytes": 67864,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\uzbek\\images\\bm_EA_Af-A156-39.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:57:27.261595+00:00",
+    "raw": {
+      "title": "photographic print (black and white); album",
+      "description": "Photograph (black and white) from an album; view of collection of upright sticks tied together at the top. Unidentified rounded object sitting on the ground to the right. Ikat, Nigeria.\r\nGelatin silver print",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_19/a2c8b98d_e380_45d0_b627_a3c101426ffa/preview_00695105_001.jpg"
+    }
+  }
+]

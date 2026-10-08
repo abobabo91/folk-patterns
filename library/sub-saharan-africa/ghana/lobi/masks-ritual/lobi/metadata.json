@@ -1,0 +1,95 @@
+[
+  {
+    "id": "british_museum-E_Af1970-06-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1970-06-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1970-06-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1970.06.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ghana",
+      "ethnicity": "Lobi",
+      "tradition": "Lobi",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:codex-gpt-5.6-luna",
+      "vision_reason": "The picture shows a carved wooden horned-animal headdress, a ritual object plausibly made and used by the Lobi; the garment category is incorrect.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "head-dress",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "head-dress",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Wood headdress representing a horned animal.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/14_15/9aacd630_f7ec_402d_ae6e_a9d500f744ee/preview_EAF8322.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "24dedaf0d00ab309e7d8b60fff0800032508dfd299bb775f84c1ca104a3e816b",
+        "bytes": 59939,
+        "local_path": "library\\sub-saharan-africa\\ghana\\lobi\\masks-ritual\\lobi\\images\\bm_E_Af1970_06_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T20:40:35.242301+00:00",
+    "raw": {
+      "title": "head-dress",
+      "description": "Wood headdress representing a horned animal.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/14_15/9aacd630_f7ec_402d_ae6e_a9d500f744ee/preview_EAF8322.jpg"
+    }
+  }
+]

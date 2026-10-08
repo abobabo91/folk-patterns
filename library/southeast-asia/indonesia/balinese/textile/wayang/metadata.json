@@ -1,0 +1,772 @@
+[
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399935569-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399935569-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/132554",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1962-233-5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "wayang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a batik cloth panel depicting wayang kulit-style puppet figures, a classic Javanese batik motif; however this style of wayang batik is strongly associated with Javanese (e.g., Cirebon/Central Java) textile tradition rather than Balinese, though Bali produces closely related batik and shares the wayang iconography within the broader Indonesian region, so it is plausible for the neighboring/related culture and cannot be firmly distinguished.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Panel",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Panel"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 200 x 53.3 cm (78 3/4 x 21 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4b7d58b69-05f4-4fbd-99b0-29f120110c84"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-852E7C827D5B2-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f9de62c3ebc36038ab999f30d7a3899385d79a4ae2885d8bf181ebf5133d47f3",
+        "bytes": 4736777,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\si_chndm_1962-233-5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:57:35.271612+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399935569-0",
+      "title": "Panel",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1962-233-5",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Oblong cotton panel in black, dark blue, cream-white, and light brown. Shows six \"wayang\" puppets, moving toward center shrine, bearing Rama, a god-like figure. Outer border shows \"ship of the dead\" design and \"lar\" (wing of Garuda, the mount of Vishnu) motif."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1962-233-5"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Panel"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 200 x 53.3 cm (78 3/4 x 21 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4b7d58b69-05f4-4fbd-99b0-29f120110c84",
+          "title": {
+            "label": "Title",
+            "content": "Panel"
+          },
+          "record_ID": "chndm_1962-233-5",
+          "unit_code": "CHNDM",
+          "title_sort": "PANEL",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/132554",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-852E7C827D5B2-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9bf32971a-777c-4d08-aafb-b22cd4dd78a9",
+                "type": "Images",
+                "idsId": "CHSDM-852E7C827D5B2-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-852E7C827D5B2-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-852E7C827D5B2-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Oblong cotton panel in black, dark blue, cream-white, and light brown. Shows six \"wayang\" puppets, moving toward center shrine, bearing Rama, a god-like figure. Outer border shows \"ship of the dead\" design and \"lar\" (wing of Garuda, the mount of Vishnu) motif.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-852E7C827D5B2-000001.jpg",
+                    "width": 10323,
+                    "height": 6930,
+                    "dimensions": "10323x6930"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-852E7C827D5B2-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-852E7C827D5B2-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "98b2f37eb473e242c37fae7e7c606b04ce50eca1",
+      "docSignature": "80734cdb6b438d5be238fb001cf942e7",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933592-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933592-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129202",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-115-26",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "wayang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a batik-style square cloth with a wayang (shadow-puppet) figure in a central medallion and gunungan/parang-like corner motifs, a style associated with Javanese-influenced Balinese textile production; the imagery and technique are consistent with Balinese/Indonesian cloth work.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Square",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Square"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 104.1 x 104.1 cm (41 x 41 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq47070d782-cbc5-46c9-9a78-8250e7617739"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-3C9B587EAAB72-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "018bcc5ff49cfe8c0f03ad1988eb3d1f8e79ad30abac2076251e9f406d1d988c",
+        "bytes": 6414451,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\si_chndm_1961-115-26.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:57:52.444216+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933592-0",
+      "title": "Square",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-115-26",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Cotton square, possibly a head cloth (kain kepala), showing a \"wayang\" figure (a puppet acting out the heroic poem of the Mahabharata, describing the battle between Rama, God-hero, and the demons of Rawana) encircled in the center. All four corners ornamented with the stupa motif. Colors: black, brown, and white."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-115-26"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Square"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 104.1 x 104.1 cm (41 x 41 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles",
+            "Squares (geometric figures)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq47070d782-cbc5-46c9-9a78-8250e7617739",
+          "title": {
+            "label": "Title",
+            "content": "Square"
+          },
+          "record_ID": "chndm_1961-115-26",
+          "unit_code": "CHNDM",
+          "title_sort": "SQUARE",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129202",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-3C9B587EAAB72-000001",
+                "guid": "http://n2t.net/ark:/65665/vc94b4a85ef-b991-405c-8187-1c6106258136",
+                "type": "Images",
+                "idsId": "CHSDM-3C9B587EAAB72-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-3C9B587EAAB72-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-3C9B587EAAB72-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Cotton square, possibly a head cloth (kain kepala), showing a \"wayang\" figure (a puppet acting out the heroic poem of the Mahabharata, describing the battle between Rama, God-hero, and the demons of Rawana) encircled in the center. All four corners ornamented with the stupa motif. Colors: black, brown, and white.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-3C9B587EAAB72-000001.jpg",
+                    "width": 7737,
+                    "height": 8181,
+                    "dimensions": "7737x8181"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-3C9B587EAAB72-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-3C9B587EAAB72-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "2c9caabcfb8e03534a53872b03bf35a6cb56b68a",
+      "docSignature": "a2fb605b2ca44e9f787075f7d88680a1",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399935569-1",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399935569-1",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/132555",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1962-233-6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "wayang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "A batik cloth with wayang-style figures (echoing Balinese/Javanese kamasan wayang painting motifs) arranged around a central medallion, consistent with Indonesian batik textile traditions plausible for Bali.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Square",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: silk Technique: wax resist dyeing (batik) on plain weave",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Square"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 92 x 87.6 cm (36 1/4 x 34 1/2 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq44b6eddce-6349-41f9-88d4-931726ea6170"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-25B08E5FB3CD2-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b3f21655e48a6efe2c657cf03af355074533bdfdce58dbf8cba7a1dea586bf5f",
+        "bytes": 5562688,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\wayang\\images\\si_chndm_1962-233-6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:58:14.281117+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399935569-1",
+      "title": "Square",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1962-233-6",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Silk square in black, dark blue, brown, and cream-white. Shows four \"wayang\" figures facing diagonally toward center, one of which has a different pattern on his sarong. Outer border and center ornamented with \"ship of the dead\" and \"sawat\" (wings and tail of Garuda, mount of Vishnu) motifs, as well as architectural structures."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1962-233-6"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Square"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: silk Technique: wax resist dyeing (batik) on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 92 x 87.6 cm (36 1/4 x 34 1/2 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles",
+            "Squares (geometric figures)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq44b6eddce-6349-41f9-88d4-931726ea6170",
+          "title": {
+            "label": "Title",
+            "content": "Square"
+          },
+          "record_ID": "chndm_1962-233-6",
+          "unit_code": "CHNDM",
+          "title_sort": "SQUARE",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/132555",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-25B08E5FB3CD2-000001",
+                "guid": "http://n2t.net/ark:/65665/vc95e5a9b34-d1eb-4413-bd1e-224898849ef2",
+                "type": "Images",
+                "idsId": "CHSDM-25B08E5FB3CD2-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-25B08E5FB3CD2-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-25B08E5FB3CD2-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Silk square in black, dark blue, brown, and cream-white. Shows four \"wayang\" figures facing diagonally toward center, one of which has a different pattern on his sarong. Outer border and center ornamented with \"ship of the dead\" and \"sawat\" (wings and tail of Garuda, mount of Vishnu) motifs, as well as architectural structures.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-25B08E5FB3CD2-000001.jpg",
+                    "width": 8368,
+                    "height": 7626,
+                    "dimensions": "8368x7626"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-25B08E5FB3CD2-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-25B08E5FB3CD2-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "b40220e01e668568227dd56afbf133c16a02da83",
+      "docSignature": "36d819addeb42b6befc3b0d8894301b6",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  }
+]

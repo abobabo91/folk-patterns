@@ -1,0 +1,1721 @@
+[
+  {
+    "id": "europeana-2020903_KMS5794",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Gallery of Denmark",
+      "object_id": "2020903_KMS5794",
+      "object_url": "https://www.europeana.eu/item/2020903/KMS5794?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European academic sculpture (a bronze/black-patina portrait bust titled \"Babu Ani. Javanese Woman\"), held in a Danish national gallery — it is a Western artist's depiction of a Javanese woman, not an object made, worn or used by the Javanese themselves.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Babu Ani. Javanese Woman",
+      "titles_alt": [],
+      "date_text": "1922",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Gallery of Denmark",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fapi.smk.dk%2Fapi%2Fv1%2Fthumbnail%2F9eab207e-c997-4d9b-a29a-a27eecd66921.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a4031567ce21f203ca5da1d2ededd8429c498ab8d63fa7d6121651b1410056ad",
+        "bytes": 53442,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\eu_2020903_KMS5794.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:59.478516+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Denmark"
+      ],
+      "dataProvider": [
+        "National Gallery of Denmark"
+      ],
+      "dcCreator": [
+        "2794_person"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "2794_person"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Babu Ani. Javanese Woman"
+        ]
+      },
+      "edmConcept": [
+        "http://www.wikidata.org/entity/Q241045",
+        "http://www.wikidata.org/entity/Q40861",
+        "http://data.europeana.eu/concept/2067"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Porträtbüste"
+        },
+        {
+          "def": "Marmor"
+        },
+        {
+          "def": "Marmor"
+        },
+        {
+          "def": "bröstbild"
+        },
+        {
+          "def": "marmor"
+        },
+        {
+          "def": "Marmor"
+        },
+        {
+          "def": "бюст"
+        },
+        {
+          "def": "мрамор"
+        },
+        {
+          "def": "Мрамор"
+        },
+        {
+          "def": "rintakuva"
+        },
+        {
+          "def": "marmori"
+        },
+        {
+          "def": "Marmori"
+        },
+        {
+          "def": "busto"
+        },
+        {
+          "def": "mármore"
+        },
+        {
+          "def": "Mármore"
+        },
+        {
+          "def": "бюст"
+        },
+        {
+          "def": "мрамор"
+        },
+        {
+          "def": "Мрамор"
+        },
+        {
+          "def": "Προτομή"
+        },
+        {
+          "def": "μάρμαρο"
+        },
+        {
+          "def": "Μάρμαρο"
+        },
+        {
+          "def": "bust"
+        },
+        {
+          "def": "marble"
+        },
+        {
+          "def": "Marble"
+        },
+        {
+          "def": "poprsje"
+        },
+        {
+          "def": "mramor"
+        },
+        {
+          "def": "Mramor"
+        },
+        {
+          "def": "busto"
+        },
+        {
+          "def": "marmo"
+        },
+        {
+          "def": "Marmo"
+        },
+        {
+          "def": "buste"
+        },
+        {
+          "def": "marbre"
+        },
+        {
+          "def": "Marbre"
+        },
+        {
+          "def": "mellszobor"
+        },
+        {
+          "def": "márvány"
+        },
+        {
+          "def": "Márvány"
+        },
+        {
+          "def": "busto"
+        },
+        {
+          "def": "mármol"
+        },
+        {
+          "def": "Mármol"
+        },
+        {
+          "def": "Büst"
+        },
+        {
+          "def": "marmor"
+        },
+        {
+          "def": "Marmor"
+        },
+        {
+          "def": "Soingain"
+        },
+        {
+          "def": "haitzurdin"
+        },
+        {
+          "def": "Haitzurdin"
+        },
+        {
+          "def": "busta"
+        },
+        {
+          "def": "mramor"
+        },
+        {
+          "def": "Mramor"
+        },
+        {
+          "def": "Busta"
+        },
+        {
+          "def": "mramor"
+        },
+        {
+          "def": "Mramor"
+        },
+        {
+          "def": "doprsni portret"
+        },
+        {
+          "def": "marmor"
+        },
+        {
+          "def": "Marmor"
+        },
+        {
+          "def": "dealbh bhrád"
+        },
+        {
+          "def": "marmar"
+        },
+        {
+          "def": "Marmar"
+        },
+        {
+          "def": "popiersie"
+        },
+        {
+          "def": "marmur"
+        },
+        {
+          "def": "Marmur"
+        },
+        {
+          "def": "Bust"
+        },
+        {
+          "def": "Marmura"
+        },
+        {
+          "def": "Marmura"
+        },
+        {
+          "def": "buste"
+        },
+        {
+          "def": "marmor"
+        },
+        {
+          "def": "Marmor"
+        },
+        {
+          "def": "borstbeeld"
+        },
+        {
+          "def": "marmer"
+        },
+        {
+          "def": "Marmer"
+        },
+        {
+          "def": "bust"
+        },
+        {
+          "def": "marbre"
+        },
+        {
+          "def": "Marbre"
+        },
+        {
+          "def": "Marmuras"
+        },
+        {
+          "def": "Marmuras"
+        },
+        {
+          "def": "marmors"
+        },
+        {
+          "def": "Marmors"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Marmor",
+          "Porträtbüste"
+        ],
+        "ru": [
+          "мрамор",
+          "бюст",
+          "Мрамор"
+        ],
+        "fi": [
+          "marmori",
+          "rintakuva",
+          "Marmori"
+        ],
+        "pt": [
+          "busto",
+          "mármore",
+          "Mármore"
+        ],
+        "bg": [
+          "мрамор",
+          "бюст",
+          "Мрамор"
+        ],
+        "lt": [
+          "Marmuras"
+        ],
+        "hr": [
+          "mramor",
+          "Mramor",
+          "poprsje"
+        ],
+        "lv": [
+          "marmors",
+          "Marmors"
+        ],
+        "fr": [
+          "Marbre",
+          "buste",
+          "marbre"
+        ],
+        "hu": [
+          "Márvány",
+          "mellszobor",
+          "márvány"
+        ],
+        "sk": [
+          "mramor",
+          "Busta",
+          "Mramor"
+        ],
+        "sl": [
+          "doprsni portret",
+          "Marmor",
+          "marmor"
+        ],
+        "ga": [
+          "Marmar",
+          "marmar",
+          "dealbh bhrád"
+        ],
+        "ca": [
+          "Marbre",
+          "bust",
+          "marbre"
+        ],
+        "sv": [
+          "Marmor",
+          "bröstbild",
+          "marmor"
+        ],
+        "el": [
+          "μάρμαρο",
+          "Μάρμαρο",
+          "Προτομή"
+        ],
+        "en": [
+          "marble",
+          "bust",
+          "Marble"
+        ],
+        "it": [
+          "busto",
+          "Marmo",
+          "marmo"
+        ],
+        "es": [
+          "busto",
+          "Mármol",
+          "mármol"
+        ],
+        "et": [
+          "Marmor",
+          "Büst",
+          "marmor"
+        ],
+        "eu": [
+          "Soingain",
+          "haitzurdin",
+          "Haitzurdin"
+        ],
+        "cs": [
+          "mramor",
+          "busta",
+          "Mramor"
+        ],
+        "pl": [
+          "marmur",
+          "popiersie",
+          "Marmur"
+        ],
+        "ro": [
+          "Marmura",
+          "Bust"
+        ],
+        "da": [
+          "Marmor",
+          "buste",
+          "marmor"
+        ],
+        "nl": [
+          "marmer",
+          "borstbeeld",
+          "Marmer"
+        ]
+      },
+      "edmDatasetName": [
+        "2020903_Museu_NationalGalleryOfDenmark"
+      ],
+      "edmIsShownAt": [
+        "https://open.smk.dk/artwork/image/kms5794"
+      ],
+      "edmIsShownBy": [
+        "https://api.smk.dk/api/v1/thumbnail/9eab207e-c997-4d9b-a29a-a27eecd66921.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fapi.smk.dk%2Fapi%2Fv1%2Fthumbnail%2F9eab207e-c997-4d9b-a29a-a27eecd66921.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        },
+        {
+          "def": "1922"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1922"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2020903_Museu_NationalGalleryOfDenmark"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2020903/KMS5794?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2020903/KMS5794",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2020903/KMS5794.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "MUSEU"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 85.93051,
+      "timestamp": 1752062258783,
+      "timestamp_created": "2015-10-26T13:07:58.515Z",
+      "timestamp_created_epoch": 1445864878515,
+      "timestamp_update": "2024-06-24T15:49:52.672Z",
+      "timestamp_update_epoch": 1719244192672,
+      "title": [
+        "Babu Ani. Javanese Woman"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1922"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91670_SMVK_VKM_arkiv_1436034",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91670_SMVK_VKM_arkiv_1436034",
+      "object_url": "https://www.europeana.eu/item/91670/SMVK_VKM_arkiv_1436034?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a museum catalogue card (typed text on an index card) describing a Javanese batik tulis kain panjang, not a photograph of the actual textile itself — no object or pattern is visible to judge.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "southeast-asia__indonesia__javanese",
+        "people": "Javanese",
+        "belongs": false,
+        "art_form": "unclassified",
+        "image": "good",
+        "era": "traditional",
+        "reason": "The image is a scanned museum catalogue card (text document) describing a Javanese batik kain panjang, not a photograph of the actual textile itself."
+      }
+    },
+    "physical": {
+      "title": "katalogkort",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1835923%2Frepresentation&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "424a7cd1790c198b11e77a0a1d6c1c7f2da136912cb5152d2f16946430fdb459",
+        "bytes": 15321,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\eu_91670_SMVK_VKM_arkiv_1436034.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:59.483266+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Katalogkort ur Världskulturmuseets arkiv.",
+        "ETNOGRAFISKA MUSEET, Göteborg Etnogr. Arkeol. RA 588 81,03 Gen.nr 97291 Saml.nr 81.23.1 Dep.nr Föremål Kain Panjang, batik tulis av bomull med bl.a. växtmotiv. Färger: blått, natur vitt och sogabrunt. Storlek: 261x105 cm Insami av i Ar Gunilla Amnehäll 197.9 Ingå/Köp av Ikkr Gunilla Amnehäll 1981 Lokal Java Stam Javaner Utst Mag Kons/Vård Neg.nr !Bild nr !Dia nr övrigt Lit. Warming-Gaworski, 1981 The World of Indonesian Textiles pp 143-189. [ocr]",
+        "Catalogue card from the archives of the World Museum of Culture.",
+        "ETNOGRAPHICAL MUSEET, Gothenburg Etnogr. Archaeol. RA 588,81.03 Gen.nr 97291 Saml.nr 81.23.1 Dep.nr Object Kain Panjang, batik tulis of cotton with i.a. plant motifs. Colors: blue, nature white and soga-round. Size: 261x105 cm Insami by in Ar Gunilla Amnehäll 197.9 Entering/Purchase of Ikkr Gunilla Amnehäll 1981 Local Java Stam Javaner Utst Mag Kons/Care Neg.nr!Image no!Dia no other Lit. Warming-Gaworski, 1981 The World of Indonesian Textiles pp. 143-189. [ocr]"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Katalogkort ur Världskulturmuseets arkiv.",
+          "ETNOGRAFISKA MUSEET, Göteborg Etnogr. Arkeol. RA 588 81,03 Gen.nr 97291 Saml.nr 81.23.1 Dep.nr Föremål Kain Panjang, batik tulis av bomull med bl.a. växtmotiv. Färger: blått, natur vitt och sogabrunt. Storlek: 261x105 cm Insami av i Ar Gunilla Amnehäll 197.9 Ingå/Köp av Ikkr Gunilla Amnehäll 1981 Lokal Java Stam Javaner Utst Mag Kons/Vård Neg.nr !Bild nr !Dia nr övrigt Lit. Warming-Gaworski, 1981 The World of Indonesian Textiles pp 143-189. [ocr]"
+        ],
+        "en": [
+          "Catalogue card from the archives of the World Museum of Culture.",
+          "ETNOGRAPHICAL MUSEET, Gothenburg Etnogr. Archaeol. RA 588,81.03 Gen.nr 97291 Saml.nr 81.23.1 Dep.nr Object Kain Panjang, batik tulis of cotton with i.a. plant motifs. Colors: blue, nature white and soga-round. Size: 261x105 cm Insami by in Ar Gunilla Amnehäll 197.9 Entering/Purchase of Ikkr Gunilla Amnehäll 1981 Local Java Stam Javaner Utst Mag Kons/Care Neg.nr!Image no!Dia no other Lit. Warming-Gaworski, 1981 The World of Indonesian Textiles pp. 143-189. [ocr]"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "katalogkort"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2884"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Urkunde"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Uppbud"
+        },
+        {
+          "def": "Lainhuuto"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Τίτλος"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Akts"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Okirat"
+        },
+        {
+          "def": "Escritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Eskritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Gníomhas"
+        },
+        {
+          "def": "Dokument"
+        },
+        {
+          "def": "Bekendtgørelse"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Oorkonde"
+        },
+        {
+          "def": "Escriptura"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Urkunde"
+        ],
+        "ru": [
+          "Акт"
+        ],
+        "sv": [
+          "Uppbud"
+        ],
+        "fi": [
+          "Lainhuuto"
+        ],
+        "bg": [
+          "Акт"
+        ],
+        "el": [
+          "Τίτλος"
+        ],
+        "en": [
+          "Deed"
+        ],
+        "lv": [
+          "Akts"
+        ],
+        "it": [
+          "Deed"
+        ],
+        "fr": [
+          "Certificat"
+        ],
+        "hu": [
+          "Okirat"
+        ],
+        "es": [
+          "Escritura"
+        ],
+        "cs": [
+          "Listina"
+        ],
+        "eu": [
+          "Eskritura"
+        ],
+        "sk": [
+          "Listina"
+        ],
+        "sl": [
+          "Listina"
+        ],
+        "ga": [
+          "Gníomhas"
+        ],
+        "pl": [
+          "Dokument"
+        ],
+        "da": [
+          "Bekendtgørelse"
+        ],
+        "ro": [
+          "Certificat"
+        ],
+        "nl": [
+          "Oorkonde"
+        ],
+        "ca": [
+          "Escriptura"
+        ]
+      },
+      "edmDatasetName": [
+        "91670_SwedishNationalHeritage_smvk_vkm_arkiv"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/1436034"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1835923/representation"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1835923%2Frepresentation&type=TEXT"
+      ],
+      "europeanaCollectionName": [
+        "91670_SwedishNationalHeritage_smvk_vkm_arkiv"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91670/SMVK_VKM_arkiv_1436034?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91670/SMVK_VKM_arkiv_1436034",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91670/SMVK_VKM_arkiv_1436034.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 33.664085,
+      "timestamp": 1752038271578,
+      "timestamp_created": "2014-07-17T09:53:00.855Z",
+      "timestamp_created_epoch": 1405590780855,
+      "timestamp_update": "2022-10-21T13:43:27.764Z",
+      "timestamp_update_epoch": 1666359807764,
+      "title": [
+        "katalogkort"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91670_SMVK_VKM_arkiv_1436035",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91670_SMVK_VKM_arkiv_1436035",
+      "object_url": "https://www.europeana.eu/item/91670/SMVK_VKM_arkiv_1436035?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a scanned catalogue card (not a photo of the object) describing a Javanese batik tulis kain panjang textile; the image itself is a document scan, not the artifact.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "southeast-asia__indonesia__javanese",
+        "people": "Javanese",
+        "belongs": false,
+        "art_form": "unclassified",
+        "image": "good",
+        "era": "traditional",
+        "reason": "This is a scanned catalogue card (text document) describing a Javanese batik cloth (kain panjang), not a photograph of the actual textile; it is a document scan, not evidence of the object itself."
+      }
+    },
+    "physical": {
+      "title": "katalogkort",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1835927%2Frepresentation&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1bca4798037981715fd29bd25b2a12c183eb944c645ac34400db9e4a88a8de5c",
+        "bytes": 15932,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\eu_91670_SMVK_VKM_arkiv_1436035.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:00.044641+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Katalogkort ur Världskulturmuseets arkiv.",
+        "ETNOGRAFISKA MUSEET, Göteborg Etnogr. Arkeol. RA 588 81,03 Gen.nr 97292 Saml.nr 81.23.2 I Dep.nr Föremål Kain panjang, batik tulis av bomull med fågel,- djur och växtmotiv. Färger: blått, vitt och sogabrunt. Storlek: 259x105 cm Insaml av i Är Gunilla Amnehäll 1979 (N.« W Köp av 1År Gunilla Amnehäll 1981 Lokal Java Stam Javaner Utst Mag Kons/Vård Neg.nr !Bild nr Dia nr Övrigt Lit. Warming - Gaworski, 1981 The World of Indonesian Textiles pp 143-189. [ocr]",
+        "Catalogue card from the archives of the World Museum of Culture.",
+        "ETNOGRAPHICAL MUSEET, Gothenburg Etnogr. Archaeol. RA 588,81.03 Gen.nr 97292 Saml.nr 81.23.2 I Dep.nr Object Cain panjang, batik tulis of cotton with bird, - animal and plant motif. Colors: blue, white and soga round. Size: 259x105 cm Gunilla Amnehäll 1979 (N.\"W Purchase of 1Year Gunilla Amnehäll 1981 Local Java Stam Javaner Utst Mag Kons/Vård Neg.nr!Image No Dia No Other Lit. Warming - Gaworski, 1981 The World of Indonesian Textiles pp 143-189. [ocr]"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Katalogkort ur Världskulturmuseets arkiv.",
+          "ETNOGRAFISKA MUSEET, Göteborg Etnogr. Arkeol. RA 588 81,03 Gen.nr 97292 Saml.nr 81.23.2 I Dep.nr Föremål Kain panjang, batik tulis av bomull med fågel,- djur och växtmotiv. Färger: blått, vitt och sogabrunt. Storlek: 259x105 cm Insaml av i Är Gunilla Amnehäll 1979 (N.« W Köp av 1År Gunilla Amnehäll 1981 Lokal Java Stam Javaner Utst Mag Kons/Vård Neg.nr !Bild nr Dia nr Övrigt Lit. Warming - Gaworski, 1981 The World of Indonesian Textiles pp 143-189. [ocr]"
+        ],
+        "en": [
+          "Catalogue card from the archives of the World Museum of Culture.",
+          "ETNOGRAPHICAL MUSEET, Gothenburg Etnogr. Archaeol. RA 588,81.03 Gen.nr 97292 Saml.nr 81.23.2 I Dep.nr Object Cain panjang, batik tulis of cotton with bird, - animal and plant motif. Colors: blue, white and soga round. Size: 259x105 cm Gunilla Amnehäll 1979 (N.\"W Purchase of 1Year Gunilla Amnehäll 1981 Local Java Stam Javaner Utst Mag Kons/Vård Neg.nr!Image No Dia No Other Lit. Warming - Gaworski, 1981 The World of Indonesian Textiles pp 143-189. [ocr]"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "katalogkort"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2884"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Urkunde"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Uppbud"
+        },
+        {
+          "def": "Lainhuuto"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Τίτλος"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Akts"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Okirat"
+        },
+        {
+          "def": "Escritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Eskritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Gníomhas"
+        },
+        {
+          "def": "Dokument"
+        },
+        {
+          "def": "Bekendtgørelse"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Oorkonde"
+        },
+        {
+          "def": "Escriptura"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Urkunde"
+        ],
+        "ru": [
+          "Акт"
+        ],
+        "sv": [
+          "Uppbud"
+        ],
+        "fi": [
+          "Lainhuuto"
+        ],
+        "bg": [
+          "Акт"
+        ],
+        "el": [
+          "Τίτλος"
+        ],
+        "en": [
+          "Deed"
+        ],
+        "lv": [
+          "Akts"
+        ],
+        "it": [
+          "Deed"
+        ],
+        "fr": [
+          "Certificat"
+        ],
+        "hu": [
+          "Okirat"
+        ],
+        "es": [
+          "Escritura"
+        ],
+        "cs": [
+          "Listina"
+        ],
+        "eu": [
+          "Eskritura"
+        ],
+        "sk": [
+          "Listina"
+        ],
+        "sl": [
+          "Listina"
+        ],
+        "ga": [
+          "Gníomhas"
+        ],
+        "pl": [
+          "Dokument"
+        ],
+        "da": [
+          "Bekendtgørelse"
+        ],
+        "ro": [
+          "Certificat"
+        ],
+        "nl": [
+          "Oorkonde"
+        ],
+        "ca": [
+          "Escriptura"
+        ]
+      },
+      "edmDatasetName": [
+        "91670_SwedishNationalHeritage_smvk_vkm_arkiv"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/1436035"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1835927/representation"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1835927%2Frepresentation&type=TEXT"
+      ],
+      "europeanaCollectionName": [
+        "91670_SwedishNationalHeritage_smvk_vkm_arkiv"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91670/SMVK_VKM_arkiv_1436035?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91670/SMVK_VKM_arkiv_1436035",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91670/SMVK_VKM_arkiv_1436035.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 33.68769,
+      "timestamp": 1752038271646,
+      "timestamp_created": "2014-07-17T09:53:00.862Z",
+      "timestamp_created_epoch": 1405590780862,
+      "timestamp_update": "2022-10-21T13:43:27.764Z",
+      "timestamp_update_epoch": 1666359807764,
+      "title": [
+        "katalogkort"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "british_museum-A_As-St-895-a-c",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As-St-895-a-c",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As-St-895-a-c",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As.St.895.a.c",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The museum's own description explicitly attributes these blowpipe darts/arrows to the Dayak of Borneo, only speculating that the poison name \"Upos\" may derive from the Javanese word \"Upas\" — this is a linguistic aside, not evidence the objects are Javanese-made. The record's claimed ethnicity does not match the culture documented in the metadata.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "arms",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "southeast-asia__indonesia__dayak",
+        "people": "Dayak",
+        "belongs": true,
+        "art_form": "arms",
+        "image": "good",
+        "era": "traditional",
+        "reason": "The image shows three poisoned blowpipe darts/arrows with bamboo shafts, pith stoppers, and pointed tips, matching the museum's description of Dayak blowpipe darts used with poison (\"Upas\"). This is a weapon type documented as made and used by Dayak peoples of Borneo."
+      }
+    },
+    "physical": {
+      "title": "arrow; dart",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "arrow; dart",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "(Steinhauer description for As.St.895.a-c)\r\n&quot;3-5. Three poisoned arrows which the Dayaks commonly blow through the shaft of their spears; some of them however have blowpipes. The poison here used is called &#039;Upos&#039;, probably the Javanese &#039;Upas&#039;.&quot;\r\nChristy slip reads: &quot;They are 10-11 inches long made of a slender strip of bamboo rind or reed. Two of them have expanded blades. A conical piece of soft pith is placed on their butts.&quot;",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/c23b15a0_560d_47ac_b4cb_a3de01098098/preview_01446407_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4d6228962714f1895099a6e3f8ff0ceb5bbb4a2e6c76fb5e88eceb28399c12f5",
+        "bytes": 43240,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\bm_A_As-St-895-a-c.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:19.988129+00:00",
+    "raw": {
+      "title": "arrow; dart",
+      "description": "(Steinhauer description for As.St.895.a-c)\r\n&quot;3-5. Three poisoned arrows which the Dayaks commonly blow through the shaft of their spears; some of them however have blowpipes. The poison here used is called &#039;Upos&#039;, probably the Javanese &#039;Upas&#039;.&quot;\r\nChristy slip reads: &quot;They are 10-11 inches long made of a slender strip of bamboo rind or reed. Two of them have expanded blades. A conical piece of soft pith is placed on their butts.&quot;",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/c23b15a0_560d_47ac_b4cb_a3de01098098/preview_01446407_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-C_2002-1022-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "C_2002-1022-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/C_2002-1022-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "C,2002.1022.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A cast copper-alloy coin-charm with a square hole and figural imagery, of the Chinese-style \"kepeng\" type that was widely used in Java (and Bali) for ritual and ceremonial purposes, so it fits the claimed culture even if the design originates from Chinese coinage.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "charm",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "charm",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Copper-alloy coin-shaped charm. Javanese coin-shaped charm (details to follow).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/8de1d191_1d31_4fd7_8e93_a3c00181232e/preview_00572964_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "66b1c6aa9ccf0f9c379d552661a0a8a298d35a64f98608cefc7de962df114e8f",
+        "bytes": 89582,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\bm_C_2002-1022-4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:22.777284+00:00",
+    "raw": {
+      "title": "charm",
+      "description": "Copper-alloy coin-shaped charm. Javanese coin-shaped charm (details to follow).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/8de1d191_1d31_4fd7_8e93_a3c00181232e/preview_00572964_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-C_2002-1022-6",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "C_2002-1022-6",
+      "object_url": "https://www.britishmuseum.org/collection/object/C_2002-1022-6",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "C,2002.1022.6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A round copper-alloy coin-shaped charm with a square center hole and cast Chinese-style script, matching the well-documented Javanese use of Chinese cash-coin-form amulets (kepeng) as ritual/magical charms.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "charm",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "charm",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Copper-alloy coin-shaped charm. Javanese coin-shaped charm (details to follow).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/b0e8e7a2_d552_45fe_b917_a3c001812ad2/preview_00572969_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e50d01efc88c678f057e15a899ff0f43e14e31bfa14e194477578824554f3c09",
+        "bytes": 84043,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\bm_C_2002-1022-6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:22.802059+00:00",
+    "raw": {
+      "title": "charm",
+      "description": "Copper-alloy coin-shaped charm. Javanese coin-shaped charm (details to follow).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/b0e8e7a2_d552_45fe_b917_a3c001812ad2/preview_00572969_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-C_1842-0409-7",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "C_1842-0409-7",
+      "object_url": "https://www.britishmuseum.org/collection/object/C_1842-0409-7",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "C,1842.0409.7",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "Javanese",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A coin-shaped copper alloy amulet with a Javanese inscription (copied from a Bantam coin) and confronting Chinese dragons around a square/hexagonal hole — a charm used in Javanese culture, plausible object of the claimed people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork"
+    },
+    "physical": {
+      "title": "charm",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "charm",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Copper alloy coin-shaped charm. &lt;span class=&quot;vsuffix&quot;&gt;(whole)&lt;/span&gt; Javanese inscription around hole (copied from Bantam coin). Chinese dragons (2) confronting each other around hole.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/33031fec_3461_4393_8208_a9d900b7bbbe/coc238309.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d120111eefb0a0d635dd4e15830abdacb19abfacfb84ecf6ae0aa3af3d342eee",
+        "bytes": 137009,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\unclassified\\javanese\\images\\bm_C_1842-0409-7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:21:25.373706+00:00",
+    "raw": {
+      "title": "charm",
+      "description": "Copper alloy coin-shaped charm. &lt;span class=&quot;vsuffix&quot;&gt;(whole)&lt;/span&gt; Javanese inscription around hole (copied from Bantam coin). Chinese dragons (2) confronting each other around hole.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/18_11/33031fec_3461_4393_8208_a9d900b7bbbe/coc238309.jpg"
+    }
+  }
+]

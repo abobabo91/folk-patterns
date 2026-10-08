@@ -1,0 +1,487 @@
+[
+  {
+    "id": "british_museum-A_As1988-22-47",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1988-22-47",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-47",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1988.22.47",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Kelabit",
+      "tradition": "Kelabit",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a woven palm-leaf sun hat with concentric decorative patterns and colored pompoms, matching the museum's attribution to Kelabit makers and traditional material construction (ilad palm, rattan, bamboo).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "sun-hat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "sun-hat",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sun hat (ra&#039;ong), decorated with concentric circles, radiating lines, zigzags and pompoms of coloured thread in centre, along with lettering. Made of ilad palm leaves (da&#039;un ilad) on a frame of kusah rattan (ue kusah), poran bamboo cap (bulu&#039; poran), woven inner cap (oloh) of blue cotton cloth, and wool and cotton thread. Hook attached.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_5/7a13b6c0_f8f5_4838_8923_a3c1006112c0/preview_00606229_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cdd24682949ad9f6d0d5090e471ae7bb821fbf6c6f5c2fbbae3d8a933bac74af",
+        "bytes": 53596,
+        "local_path": "library\\southeast-asia\\malaysia\\kelabit\\garment\\kelabit\\images\\bm_A_As1988_22_47.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T22:36:33.881063+00:00",
+    "raw": {
+      "title": "sun-hat",
+      "description": "Sun hat (ra&#039;ong), decorated with concentric circles, radiating lines, zigzags and pompoms of coloured thread in centre, along with lettering. Made of ilad palm leaves (da&#039;un ilad) on a frame of kusah rattan (ue kusah), poran bamboo cap (bulu&#039; poran), woven inner cap (oloh) of blue cotton cloth, and wool and cotton thread. Hook attached.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/11_5/7a13b6c0_f8f5_4838_8923_a3c1006112c0/preview_00606229_001.jpg",
+      "production_ethnic_groups": [
+        "Kelabit"
+      ],
+      "production_ethnic_attribution": "Made by: Kelabit"
+    }
+  },
+  {
+    "id": "british_museum-A_As1972-Q-1295",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1972-Q-1295",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1972-Q-1295",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1972.Q.1295",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Kelabit",
+      "tradition": "Kelabit",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a traditional skin jacket (bear and gibbon hide) attributed by the museum to the Kelabit, a Bornean garment type consistent with regional dress traditions using animal hides.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "jacket",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "jacket",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Jacket made of skin (bear), skin (gibbon).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/4ba7fbfc_79f8_4c61_b812_a3bc006ff13e/preview_00391445_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9d1249dae02b07eefdeda5d49ad790a6d69536b5b83488f69b16c5d8d1aaa344",
+        "bytes": 101996,
+        "local_path": "library\\southeast-asia\\malaysia\\kelabit\\garment\\kelabit\\images\\bm_A_As1972_Q_1295.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T22:36:34.467904+00:00",
+    "raw": {
+      "title": "jacket",
+      "description": "Jacket made of skin (bear), skin (gibbon).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/4ba7fbfc_79f8_4c61_b812_a3bc006ff13e/preview_00391445_001.jpg",
+      "production_ethnic_groups": [
+        "Kelabit"
+      ],
+      "production_ethnic_attribution": "Made by: Kelabit"
+    }
+  },
+  {
+    "id": "british_museum-A_As1988-22-97",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1988-22-97",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-97",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1988.22.97",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Kelabit",
+      "tradition": "Kelabit",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A finely woven bamboo hat with colorful embroidery, sequins, and cloth trim, attributed by the museum to Kelabit makers — a plausible Bornean woven headwear item consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "hat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "hat",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Decorative hat made of fine woven strips of bamboo, wool, sequins, metal, thread (cotton), velvet cloth (?). Brim on two sides bound with nylon.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/fcd7e518_5aa0_4cc1_9347_a3de0129f534/preview_01458673_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f1553a2a4872b0c59b52bdaf594957fc2544c35384267731ef7c31600610028a",
+        "bytes": 55716,
+        "local_path": "library\\southeast-asia\\malaysia\\kelabit\\garment\\kelabit\\images\\bm_A_As1988_22_97.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T22:36:35.054431+00:00",
+    "raw": {
+      "title": "hat",
+      "description": "Decorative hat made of fine woven strips of bamboo, wool, sequins, metal, thread (cotton), velvet cloth (?). Brim on two sides bound with nylon.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/fcd7e518_5aa0_4cc1_9347_a3de0129f534/preview_01458673_001.jpg",
+      "production_ethnic_groups": [
+        "Kelabit"
+      ],
+      "production_ethnic_attribution": "Made by: Kelabit"
+    }
+  },
+  {
+    "id": "british_museum-A_As1988-22-46",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1988-22-46",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1988-22-46",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1988.22.46",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Kelabit",
+      "tradition": "Kelabit",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a traditional Kelabit sun-hat (ra'ong) woven from ilad leaf with a rattan frame and a beaded central medallion, matching the museum's attribution to Kelabit makers. This is a well-documented Kelabit headwear form, clearly photographed and whole.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "sun-hat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "sun-hat",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sun-hat (ra&#039;ong) with beaded centre and inner cap, lettering, and beaded hook attached. Made of ilad leaf (ilad), kusah rattan frame (ue kusah), beads, berpah grass (da&#039;un berpah) for cap, cotton thread and cotton cloth.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_21/cfc5170f_bb9d_4c8c_9bd3_a3e1015c7b1c/preview_00132431_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a059463a73fd56df3658e686380e643fc8801ae7358bfd51c109df9371f1e5ce",
+        "bytes": 50667,
+        "local_path": "library\\southeast-asia\\malaysia\\kelabit\\garment\\kelabit\\images\\bm_A_As1988_22_46.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T22:36:35.655732+00:00",
+    "raw": {
+      "title": "sun-hat",
+      "description": "Sun-hat (ra&#039;ong) with beaded centre and inner cap, lettering, and beaded hook attached. Made of ilad leaf (ilad), kusah rattan frame (ue kusah), beads, berpah grass (da&#039;un berpah) for cap, cotton thread and cotton cloth.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_21/cfc5170f_bb9d_4c8c_9bd3_a3e1015c7b1c/preview_00132431_001.jpg",
+      "production_ethnic_groups": [
+        "Kelabit"
+      ],
+      "production_ethnic_attribution": "Made by: Kelabit"
+    }
+  },
+  {
+    "id": "british_museum-A_2012-3024-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_2012-3024-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_2012-3024-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,2012.3024.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Kelabit",
+      "tradition": "Kelabit",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a wide-brimmed woven bamboo hat decorated with beadwork in a star-and-spiral motif and cloth trim, matching the museum's description of a Kelabit ceremonial hat, a garment type well documented among highland Borneo peoples like the Kelabit.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "hat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "hat",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "One of a pair of Kelabit hats made of bamboo and decorated with beads and cloth in abstract patterns, stars, and stripes.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/5aa54ed2_8bcc_46b0_9a8c_a3de010d952a/preview_01447807_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fc61e55bad49236621fc78365e5b64baba86bd4c28fe911789264adcf27762fc",
+        "bytes": 85559,
+        "local_path": "library\\southeast-asia\\malaysia\\kelabit\\garment\\kelabit\\images\\bm_A_2012_3024_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T22:36:36.204882+00:00",
+    "raw": {
+      "title": "hat",
+      "description": "One of a pair of Kelabit hats made of bamboo and decorated with beads and cloth in abstract patterns, stars, and stripes.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_16/5aa54ed2_8bcc_46b0_9a8c_a3de010d952a/preview_01447807_001.jpg",
+      "production_ethnic_groups": [
+        "Kelabit"
+      ],
+      "production_ethnic_attribution": "Made by: Kelabit"
+    }
+  }
+]

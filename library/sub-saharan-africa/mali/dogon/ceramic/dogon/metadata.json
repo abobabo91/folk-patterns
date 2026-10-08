@@ -1,0 +1,182 @@
+[
+  {
+    "id": "met-310387",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "310387",
+      "object_url": "https://www.metmuseum.org/art/collection/search/310387",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Lester Wunderman, 1977",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1977.394.62",
+      "accession_year": "1977"
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mali",
+      "ethnicity": "Dogon",
+      "tradition": "Dogon",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:codex-gpt-5.6-luna",
+      "vision_reason": "The image shows a handmade terracotta vessel with a distinctive footed base, consistent with Dogon pottery from Mali. It fits the claimed ethnicity and ceramic category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Vessel: Footed Base",
+      "titles_alt": [],
+      "date_text": "18th–19th century",
+      "date_earliest": 1700,
+      "date_latest": 1800,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Terracotta"
+      ],
+      "techniques": [],
+      "medium_raw": "Terracotta",
+      "classification": "Ceramics-Containers",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 4 5/8 x Diam. 5 3/4 in. (11.7 x 14.6 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Mali",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Dogon artist",
+          "role": "Artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/vs1977_394_62.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "88dbdeeeb8916e2e19422d8519a239a19467e368eb4f4c50717b6fa307c46a45",
+        "bytes": 82571,
+        "local_path": "library\\sub-saharan-africa\\mali\\dogon\\ceramic\\dogon\\images\\met_310387.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:19:04.220730+00:00",
+    "raw": {
+      "objectID": 310387,
+      "isHighlight": false,
+      "accessionNumber": "1977.394.62",
+      "accessionYear": "1977",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/vs1977_394_62.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/vs1977_394_62.jpg",
+      "additionalImages": [],
+      "constituents": [
+        {
+          "constituentID": 219143,
+          "role": "Artist",
+          "name": "Dogon artist",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Vessel",
+      "title": "Vessel: Footed Base",
+      "culture": "Dogon peoples",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Dogon artist",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "Dogon artist",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "18th–19th century",
+      "objectBeginDate": 1700,
+      "objectEndDate": 1800,
+      "medium": "Terracotta",
+      "dimensions": "H. 4 5/8 x Diam. 5 3/4 in. (11.7 x 14.6 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Diameter": 14.61
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Height": 11.7475
+          }
+        }
+      ],
+      "creditLine": "Gift of Lester Wunderman, 1977",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Mali",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Ceramics-Containers",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-10-23T04:51:40.987Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/310387",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

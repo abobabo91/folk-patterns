@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1987-06-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1987-06-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1987-06-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1987.06.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Algonquin",
+      "tradition": "Algonquin",
+      "art_form": "jewelry",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A leather amulet necklace with beaded edging and a tooth attached, a type of personal adornment plausible for Algonquin material culture; museum attributes it to Algonquin makers.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "amulet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "amulet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Amulet made of leather, beads (glass?), tooth; with leather suspension loop.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/cd983bee_765d_4ef6_846e_a3df013fedf6/preview_01541068_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bcae45e8ebde6f75359983cbdd433c4a605f1df535f63fb1c1a745fe3c6f32b5",
+        "bytes": 19425,
+        "local_path": "library\\north-america\\canada\\algonquin\\jewelry\\algonquin\\images\\bm_E_Am1987_06_3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:48:58.849496+00:00",
+    "raw": {
+      "title": "amulet",
+      "description": "Amulet made of leather, beads (glass?), tooth; with leather suspension loop.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/cd983bee_765d_4ef6_846e_a3df013fedf6/preview_01541068_001.jpg",
+      "production_ethnic_groups": [
+        "Algonquin"
+      ],
+      "production_ethnic_attribution": "Made by: Algonquin"
+    }
+  }
+]

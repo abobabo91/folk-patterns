@@ -1,0 +1,335 @@
+[
+  {
+    "id": "cleveland-674612",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "674612",
+      "object_url": "https://clevelandart.org/art/2024.72",
+      "iiif_manifest": null,
+      "credit_line": "Alma Kroeger Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2024.72",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Senegal",
+      "ethnicity": "Fulani",
+      "tradition": "Fulani",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A handwoven strip-pieced wool blanket with geometric weft-float motifs, consistent with a Fulani-style kaasa blanket from the West African Sahel region; this is exactly the type of textile made and used by Fulani and related groups.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Blanket or Cover (Kaasa)",
+      "titles_alt": [],
+      "date_text": "c. 1930s or earlier",
+      "date_earliest": 1875,
+      "date_latest": 1939,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wool, dye",
+      "classification": "Textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Made on order, this blanket was hand woven in six strips that were sewn together at the selvages to make the full textile. Repeated named, symbolic geometric motifs in deep browns, blacks, and reds create an overall sense of rhythmic dynamism as naturally dyed colored floated weft (horizontal) threads dance in and out of the undyed cream-colored wool base textile. Some motifs have ties to Islam, as the Fulani were among the first West Africans to convert, or to nearby Tuareg cultures.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa; West Africa; Mali, Niger, or Burkina Faso; Fulani (Peul) style; unknown weavers",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5c1f61926638511b5cb26b786434be79ec21cca22bdb965534ac1b5375197f79",
+        "bytes": 243272,
+        "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\textile\\fulani\\images\\cle_674612.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:31.505186+00:00",
+    "raw": {
+      "id": 674612,
+      "accession_number": "2024.72",
+      "share_license_status": "CC0",
+      "tombstone": "Blanket or Cover (Kaasa), c. 1930s or earlier. Africa; West Africa; Mali, Niger, or Burkina Faso; Fulani (Peul) style; unknown weavers. Wool, dye; overall: 217.8 x 126.4 cm (85 3/4 x 49 3/4 in.). The Cleveland Museum of Art, Alma Kroeger Fund, 2024.72",
+      "current_location": null,
+      "title": "Blanket or Cover (Kaasa)",
+      "creation_date": "c. 1930s or earlier",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1939,
+      "artists_tags": [],
+      "culture": [
+        "Africa; West Africa; Mali, Niger, or Burkina Faso; Fulani (Peul) style; unknown weavers"
+      ],
+      "technique": "Wool, dye",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Textile",
+      "measurements": "Overall: 217.8 x 126.4 cm (85 3/4 x 49 3/4 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 2.178,
+          "height_inch": 85,
+          "height_inch_fraction": 0.75,
+          "width": 1.264,
+          "width_inch": 49,
+          "width_inch_fraction": 0.75
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "The Roy H. Robinson (1882–1970) collection by gift, Chicago",
+          "citations": [],
+          "footnotes": [
+            "<div><!--block-->A paper tag attached to the textile says that the work was gifted to Roy H. Robinson on Christmas 1938</div>"
+          ],
+          "date": "1938–?",
+          "sortorder": 1
+        },
+        {
+          "description": "Bonhams Skinner Native American & Tribal Art (November 8, 2023, Lot 179)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2023",
+          "sortorder": 2
+        },
+        {
+          "description": "Andres Moraga, Berkeley, CA",
+          "citations": [],
+          "footnotes": null,
+          "date": "2023–2024",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art by purchase",
+          "citations": [],
+          "footnotes": null,
+          "date": "2024–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Weavers don’t make sketches to plan the design for this textile but recall it from memory instead.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Made on order, this blanket was hand woven in six strips that were sewn together at the selvages to make the full textile. Repeated named, symbolic geometric motifs in deep browns, blacks, and reds create an overall sense of rhythmic dynamism as naturally dyed colored floated weft (horizontal) threads dance in and out of the undyed cream-colored wool base textile. Some motifs have ties to Islam, as the Fulani were among the first West Africans to convert, or to nearby Tuareg cultures.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/2024.72",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_web.jpg",
+          "width": "900",
+          "height": "537",
+          "filesize": "252995",
+          "filename": "2024.72_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_print.jpg",
+          "width": "3400",
+          "height": "2029",
+          "filesize": "3210267",
+          "filename": "2024.72_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_full.tif",
+          "width": "13509",
+          "height": "8062",
+          "filesize": "326759760",
+          "filename": "2024.72_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_alt0_web.jpg",
+            "width": "900",
+            "height": "534",
+            "filesize": "249369"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_alt0_print.jpg",
+            "width": "3400",
+            "height": "2017",
+            "filesize": "3230428"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2024.72/2024.72_alt0_full.tif",
+            "width": "13604",
+            "height": "8069",
+            "filesize": "329342484"
+          },
+          "date_created": "2024-08-13T09:26:21",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Alma Kroeger Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 674612,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2024-09-09T04:00:00Z",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "c. 1930s or earlier",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": true,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 09:14:32.155000"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1993-22-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1993-22-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1993-22-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1993.22.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Senegal",
+      "ethnicity": "Fulani",
+      "tradition": "Fulani",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a richly embroidered strip-cloth tunic with a central neck slit, explicitly described as worn at the Gerewol festival — a well-known Fulani/Wodaabe courtship ceremony — consistent with Fulani garment traditions.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "tunic",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tunic",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A multicoloured, embroidered tunic in the form of a single strip of cloth in the middle of which is an opening for the neck. Twenty two rectangular sections, each with a different embroidered pattern, are arranged on either side of a narrow central band. Serrated sections of white, applique cloth which is also divide these sections and are also used to line the edges of the cloth. Used in the Gerewol festival.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_22/675861a7_1459_4fef_895b_a3d7017390e9/preview_01097543_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c699672c7cb5e75bca3c7c0ea63076b76d85fa8a8da73e59de13d1bb8367d987",
+        "bytes": 177730,
+        "local_path": "library\\sub-saharan-africa\\senegal\\fulani\\textile\\fulani\\images\\bm_E_Af1993-22-1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:24:03.815769+00:00",
+    "raw": {
+      "title": "tunic",
+      "description": "A multicoloured, embroidered tunic in the form of a single strip of cloth in the middle of which is an opening for the neck. Twenty two rectangular sections, each with a different embroidered pattern, are arranged on either side of a narrow central band. Serrated sections of white, applique cloth which is also divide these sections and are also used to line the edges of the cloth. Used in the Gerewol festival.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/2_22/675861a7_1459_4fef_895b_a3d7017390e9/preview_01097543_001.jpg"
+    }
+  }
+]

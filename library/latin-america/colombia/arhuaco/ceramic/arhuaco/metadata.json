@@ -1,0 +1,790 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_37752",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_37752",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37752?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Colombia",
+      "ethnicity": "Arhuaco",
+      "tradition": "Arhuaco",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A dark, hand-built clay cooking pot collected by Bolinder in the Sierra Nevada de Santa Marta, described as a \"gryta\" (pot) used at religious feasts by the Ika/Arhuaco people — a plausible traditional utilitarian ceramic for this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "gryta",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1141210/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7bdb248469923b33a7165493c03834ec7f9cf712540bee080b794deeffdc3657",
+        "bytes": 74350,
+        "local_path": "library\\latin-america\\colombia\\arhuaco\\ceramic\\arhuaco\\images\\eu_91608_SMVK_VKM_objekt_37752.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1141210%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:27:57.481875+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_37752",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37752?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "gryta"
+      ],
+      "dcDescription": [
+        "1916.03.0596b Gustaf Bolinder Sierra Nevada de Santa Marta, dep. Magdalena, Colombia, Sydamerika. Sierra Nevada de Santa Marta, dep. Magdalena skiss Ijca (II). Amerika Bolinders forskningsresa till Colombia (1914-1915) Colombia ike ijca bintuk aruaco ijka bíntukua ika bintucua ica Ijka Arhuaco People Gryta att koka i vid religiösa fester. Används vid religiösa fester"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1141210%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1141210/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kolumbien"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Colômbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Colombie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "An Cholóim"
+        },
+        {
+          "def": "Colòmbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolombja"
+        },
+        {
+          "def": "Κολομβία"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolonbia"
+        },
+        {
+          "def": "Kolumbie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Columbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_37363",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_37363",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37363?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Colombia",
+      "ethnicity": "Arhuaco",
+      "tradition": "Arhuaco",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a small ceramic lime-gourd/vessel (\"dtjåborrå\" for storing lime for coca chewing) collected among the Ika/Arhuaco (Ijca) people of the Sierra Nevada de Santa Marta by Gustaf Bolinder, a well-documented ethnographic collection from this group.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, Kärl., vessel, dtjåborrå",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1246383/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e11beb5d0dcd1ef4c4dd3abe51e18234edfc95a9738d557c8528c19c85cd41c1",
+        "bytes": 53106,
+        "local_path": "library\\latin-america\\colombia\\arhuaco\\ceramic\\arhuaco\\images\\eu_91608_SMVK_VKM_objekt_37363.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1246383%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:27:57.486062+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_37363",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37363?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, Kärl., vessel, dtjåborrå"
+      ],
+      "dcDescription": [
+        "1916.03.0510 Gustaf Bolinder Sierra Nevada de Santa Marta, dep. Magdalena, Colombia, Sydamerika. Sierra Nevada de Santa Marta, dep. Magdalena, Colombia. [[Haga]] Sierra Nevada de Santa Marta, dpto. Magdalena skiss Ijca (I). Amerika Bolinders forskningsresa till Colombia (1914-1915) Colombia ika bíntukua bintuk ijka bintucua ike ica ijca aruaco Ijka Arhuaco People Kärl /dtjåborrå för förvaring av kalk till cocatuggning. \nJfr. 16.3.509."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1246383%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1246383/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kolumbien"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Colômbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Colombie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "An Cholóim"
+        },
+        {
+          "def": "Colòmbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolombja"
+        },
+        {
+          "def": "Κολομβία"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolonbia"
+        },
+        {
+          "def": "Kolumbie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Columbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_37756",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_37756",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37756?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Colombia",
+      "ethnicity": "Arhuaco",
+      "tradition": "Arhuaco",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The photo shows a handmade dark clay cooking pot (\"mandtjiki\") collected by Bolinder among the Ijca/Arhuaco (Ika) people of Sierra Nevada de Santa Marta, matching the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Lerkärl., kärl, vessel, mandtjiki",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1141214/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8e75a95a83cf8b738861824ecbc913e2c8d0b41ae05e6b9d8d0d2b5bff19abe2",
+        "bytes": 35007,
+        "local_path": "library\\latin-america\\colombia\\arhuaco\\ceramic\\arhuaco\\images\\eu_91608_SMVK_VKM_objekt_37756.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1141214%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:27:57.507913+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_37756",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37756?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lerkärl., kärl, vessel, mandtjiki"
+      ],
+      "dcDescription": [
+        "1916.03.0597 Gustaf Bolinder Sierra Nevada de Santa Marta, dep. Magdalena, Colombia, Sydamerika. Sierra Nevada de Santa Marta, dep. Magdalena Sierra Nevada de Santa Marta, dep. Magdalena, Colombia [[Haga]] skiss Ijca (II). Amerika Bolinders forskningsresa till Colombia (1914-1915) Colombia ijca bintuk bíntukua ijka ika ike bintucua aruaco ica Ijka Arhuaco People \"Mandtjiki\" lerkärl att koka i."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1141214%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1141214/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kolumbien"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Colômbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Colombie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "An Cholóim"
+        },
+        {
+          "def": "Colòmbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolombja"
+        },
+        {
+          "def": "Κολομβία"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolonbia"
+        },
+        {
+          "def": "Kolumbie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Columbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_37762",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_37762",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37762?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Colombia",
+      "ethnicity": "Arhuaco",
+      "tradition": "Arhuaco",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The photo shows an old clay vessel with modeled lug handles, collected from Ijca/Arhuaco territory in the Sierra Nevada de Santa Marta; the museum notes describe it as an old pot found in ancient graves, prized and used especially by medicine men — a documented type of object used by this people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, Lerkärl., vessel, mandtjiki",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1332629/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4fd1a74c65f3820abfffbf8fccbf59f8bc1ca4b41e6ec6059ce9706f7c5aec15",
+        "bytes": 27399,
+        "local_path": "library\\latin-america\\colombia\\arhuaco\\ceramic\\arhuaco\\images\\eu_91608_SMVK_VKM_objekt_37762.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1332629%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:27:57.532754+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_37762",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_37762?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, Lerkärl., vessel, mandtjiki"
+      ],
+      "dcDescription": [
+        "1916.03.0598 Gustaf Bolinder Sierra Nevada de Santa Marta, dep. Magdalena, Colombia, Sydamerika. Sierra Nevada de Santa Marta, dep. Magdalena Sierra Nevada de Santa Marta, dep. Magdalena, Colombia [[Haga]] skiss Ijca (II). Amerika Bolinders forskningsresa till Colombia (1914-1915) Colombia ijca bintuk aruaco ika bintucua ica ike bíntukua ijka Ijka Arhuaco People \"Mandtjiki\" gammalt lerkärl. Hittas ofta i gamla gravar av indianerna och skattas högt då de äro bättre än de modärna. Användes särskilt av medicinmännen."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1332629%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1332629/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Kolumbien"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Colômbia"
+        },
+        {
+          "def": "Колумбия"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "Colombie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Kolumbija"
+        },
+        {
+          "def": "An Cholóim"
+        },
+        {
+          "def": "Colòmbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolombja"
+        },
+        {
+          "def": "Κολομβία"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Kolonbia"
+        },
+        {
+          "def": "Kolumbie"
+        },
+        {
+          "def": "Kolumbia"
+        },
+        {
+          "def": "Columbia"
+        },
+        {
+          "def": "Colombia"
+        },
+        {
+          "def": "Colombia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

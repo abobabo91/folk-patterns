@@ -1,0 +1,97 @@
+[
+  {
+    "id": "british_museum-EA_Af-B73-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B73-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B73-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B73.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Tetela",
+      "tradition": "Tetela",
+      "art_form": "photo",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The photo shows a Tetela man playing a large flat slit/message drum in a village setting, with villagers and thatched buildings visible, matching a documentary photo of the people's instruments and daily life.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Zaire [?], Tetela adult male &quot;sending a message&quot; on large, flat, four-cornered drum. Small groups of male and female adults and children in background, some looking on. Adults and children wearing cloths and personal-ornaments. Village setting, large single-storey building [thatched-roof?] in background.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/b84e2df3_636a_456e_8204_a3b700cdff4b/preview_00061004_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5dc8aa8214075280e010aa39f8c12c560d84c41a4e803fe36d5e211aa9641104",
+        "bytes": 47496,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\tetela\\photo\\tetela\\images\\bm_EA_Af_B73_11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T15:44:20.792577+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Zaire [?], Tetela adult male &quot;sending a message&quot; on large, flat, four-cornered drum. Small groups of male and female adults and children in background, some looking on. Adults and children wearing cloths and personal-ornaments. Village setting, large single-storey building [thatched-roof?] in background.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/b84e2df3_636a_456e_8204_a3b700cdff4b/preview_00061004_001.jpg",
+      "production_ethnic_groups": [],
+      "production_ethnic_attribution": ""
+    }
+  }
+]

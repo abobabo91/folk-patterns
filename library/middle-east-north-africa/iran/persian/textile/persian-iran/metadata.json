@@ -1,0 +1,2181 @@
+[
+  {
+    "id": "europeana-2048221_europeana_fashion_T1957_462",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Fries Museum",
+      "object_id": "2048221_europeana_fashion_T1957_462",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_T1957_462?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Dutch (Frisian) regional-dress jacket with leg-of-mutton sleeves, made of machine-printed cotton whose pattern merely imitates a \"Persian carpet\" motif; it is a European-made and -worn garment, not something Persian people made or wore.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Jacket with cape sleeves of dark printed cotton with stylized 'persian carpet' motive",
+      "titles_alt": [],
+      "date_text": "1815",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Fries Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Ffries%2Fimages%2FT1957-462_01.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4cdd20227c32a951da8a6edd3dce114d668e0c17a3ded263d1ec290f415c5a5e",
+        "bytes": 50731,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\persian-iran\\images\\eu_2048221_europeana_fashion_T1957_462.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:06.368855+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Fries Museum"
+      ],
+      "dcDescription": [
+        "Jacket with cape sleeves of dark printed cotton with stylized 'persian carpet' motive",
+        "Jak met schapeboutmouwen van donker bedrukt katoen met gestileerd 'perzisch tapijt' motief"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Jacket with cape sleeves of dark printed cotton with stylized 'persian carpet' motive"
+        ],
+        "nl": [
+          "Jak met schapeboutmouwen van donker bedrukt katoen met gestileerd 'perzisch tapijt' motief"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Jacket with cape sleeves of dark printed cotton with stylized 'persian carpet' motive"
+        ],
+        "nl": [
+          "Jak met schapeboutmouwen van donker bedrukt katoen met gestileerd 'perzisch tapijt' motief"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2412",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10045",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Jacke"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "Jacke"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "Куртка"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Jacka"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "jacka"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "Jaqueta"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "jaqueta"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "Jacket"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "ζακέτα"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "Jacket"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "jacket"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "Giacca"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "giacca"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "Veste"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "veste"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "Dzseki"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Chaqueta"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "chaqueta"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "Jaka"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bunda"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Jakna"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Seaicéad"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Kurtka"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Geacă"
+        },
+        {
+          "def": "Bumbac"
+        },
+        {
+          "def": "Jakke"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Jaqueta"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Korte jas"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "jasje"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "מעיל קצר"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "jakna"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Puuvill"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Jacke",
+          "Baumwolle",
+          "Baumwollfaser"
+        ],
+        "ru": [
+          "Хлопок",
+          "Куртка"
+        ],
+        "fi": [
+          "Puuvilla"
+        ],
+        "pt": [
+          "Algodão",
+          "Jaqueta",
+          "algodão",
+          "jaqueta"
+        ],
+        "bg": [
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "coton",
+          "Coton",
+          "veste",
+          "Veste"
+        ],
+        "hu": [
+          "Dzseki",
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž",
+          "Jakna"
+        ],
+        "ga": [
+          "Cadás",
+          "Seaicéad"
+        ],
+        "ca": [
+          "Jaqueta",
+          "Cotó"
+        ],
+        "sr": [
+          "jakna",
+          "pamuk"
+        ],
+        "sv": [
+          "jacka",
+          "Jacka",
+          "Bomull",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "Jacket",
+          "Βαμβάκι",
+          "ζακέτα"
+        ],
+        "en": [
+          "Jacket",
+          "cotton (fiber)",
+          "jacket",
+          "Cotton"
+        ],
+        "it": [
+          "Cotone",
+          "giacca",
+          "cotone",
+          "Giacca"
+        ],
+        "es": [
+          "chaqueta",
+          "Algodón",
+          "Chaqueta",
+          "algodón"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "eu": [
+          "Jaka",
+          "Kotoi"
+        ],
+        "cs": [
+          "Bunda",
+          "Bavlna"
+        ],
+        "pl": [
+          "Kurtka",
+          "Bawełna"
+        ],
+        "ro": [
+          "Geacă",
+          "Bumbac"
+        ],
+        "da": [
+          "Bomuld",
+          "Jakke"
+        ],
+        "he": [
+          "כותנה",
+          "מעיל קצר"
+        ],
+        "nl": [
+          "Katoen",
+          "jasje",
+          "katoen (vezel)",
+          "Korte jas"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://www.friesmuseum.nl/collectie/een-greep-uit-de-collectie/"
+      ],
+      "edmIsShownBy": [
+        "http://repos.europeanafashion.eu/fries/images/T1957-462_01.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Frepos.europeanafashion.eu%2Ffries%2Fimages%2FT1957-462_01.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "1815"
+        },
+        {
+          "def": "1815/1830"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "zxx": [
+          "1815",
+          "1815/1830"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_T1957_462?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_T1957_462",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_T1957_462.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 91.09543,
+      "timestamp": 1762961281972,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Jacket with cape sleeves of dark printed cotton with stylized 'persian carpet' motive",
+        "Jak met schapeboutmouwen van donker bedrukt katoen met gestileerd 'perzisch tapijt' motief"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1815"
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_20723_14",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_20723_14",
+      "object_url": "https://www.europeana.eu/item/15514/KI_20723_14?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a reproduction of a classic Northern Persian medallion carpet design—showing the characteristic split-palmette lattice, floral medallions, and cartouche border typical of Safavid-era Persian carpets. This is a legitimate Persian textile pattern, faithfully reproduced.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Reproduction of an excerpt of the Northern Persian carpet from the collection Franz Graf Clam Gallas with descriptive text",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1931-1941"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-20723-14_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4646cf42721312cd68c7f36e990f9ebb6d55dc975efeb391fd335172f653876f",
+        "bytes": 233268,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\persian-iran\\images\\eu_15514_KI_20723_14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:07.819274+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Reproduktion eines Ausschnitts des nordpersischen Teppichs aus der Sammlung Franz Graf Clam Gallas mit beschreibendem Textteil"
+        ],
+        "en": [
+          "Reproduction of an excerpt of the Northern Persian carpet from the collection Franz Graf Clam Gallas with descriptive text"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/32",
+        "http://data.europeana.eu/concept/2090",
+        "http://vocab.getty.edu/aat/300041424"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Lichtdruck"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Fotomechanischer Druck (Visuelles Werk)"
+        },
+        {
+          "def": "Фототипия"
+        },
+        {
+          "def": "Бумага"
+        },
+        {
+          "def": "Ljustryck"
+        },
+        {
+          "def": "Papper"
+        },
+        {
+          "def": "Valopaino"
+        },
+        {
+          "def": "Paperi"
+        },
+        {
+          "def": "Fototipia"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Collotype technique"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "photomechanical prints"
+        },
+        {
+          "def": "Fototipija"
+        },
+        {
+          "def": "Papīrs"
+        },
+        {
+          "def": "Collotipia"
+        },
+        {
+          "def": "Carta"
+        },
+        {
+          "def": "stampe fotomeccaniche"
+        },
+        {
+          "def": "Phototypie"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "impression photomécanique"
+        },
+        {
+          "def": "Fototipia"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "impresiones fotomecánicas"
+        },
+        {
+          "def": "Světlotisk"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Światłodruk"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Fototípia"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Lichtdruk"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "fotomechanische afdrukken"
+        },
+        {
+          "def": "Хартия"
+        },
+        {
+          "def": "Popierius"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Páipéar"
+        },
+        {
+          "def": "Χαρτί"
+        },
+        {
+          "def": "Karta"
+        },
+        {
+          "def": "Paber"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Hârtie"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Papier",
+          "Lichtdruck",
+          "Fotomechanischer Druck (Visuelles Werk)"
+        ],
+        "ru": [
+          "Фототипия",
+          "Бумага"
+        ],
+        "fi": [
+          "Paperi",
+          "Valopaino"
+        ],
+        "pt": [
+          "Papel",
+          "Fototipia"
+        ],
+        "bg": [
+          "Хартия"
+        ],
+        "lt": [
+          "Popierius"
+        ],
+        "lv": [
+          "Fototipija",
+          "Papīrs"
+        ],
+        "hr": [
+          "Papir"
+        ],
+        "fr": [
+          "Papier",
+          "impression photomécanique",
+          "Phototypie"
+        ],
+        "hu": [
+          "Papír"
+        ],
+        "sk": [
+          "Papier"
+        ],
+        "sl": [
+          "Papir"
+        ],
+        "ga": [
+          "Páipéar"
+        ],
+        "ca": [
+          "Paper",
+          "Fototípia"
+        ],
+        "sv": [
+          "Papper",
+          "Ljustryck"
+        ],
+        "el": [
+          "Χαρτί"
+        ],
+        "mt": [
+          "Karta"
+        ],
+        "en": [
+          "photomechanical prints",
+          "Paper",
+          "Collotype technique"
+        ],
+        "it": [
+          "Collotipia",
+          "Carta",
+          "stampe fotomeccaniche"
+        ],
+        "es": [
+          "Papel",
+          "Fototipia",
+          "impresiones fotomecánicas"
+        ],
+        "et": [
+          "Paber"
+        ],
+        "cs": [
+          "Papír",
+          "Světlotisk"
+        ],
+        "eu": [
+          "Paper"
+        ],
+        "pl": [
+          "Światłodruk",
+          "Papier"
+        ],
+        "da": [
+          "Papir"
+        ],
+        "ro": [
+          "Hârtie"
+        ],
+        "nl": [
+          "Papier",
+          "Lichtdruk",
+          "fotomechanische afdrukken"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-205068"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-20723-14_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-20723-14_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1931-1941"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1931-1941"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_20723_14?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_20723_14",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_20723_14.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 53.67708,
+      "timestamp": 1752015185272,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Reproduction of an excerpt of the Northern Persian carpet from the collection Franz Graf Clam Gallas with descriptive text",
+        "Reproduktion eines Ausschnitts des nordpersischen Teppichs aus der Sammlung Franz Graf Clam Gallas mit beschreibendem Textteil"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of Art of Romania",
+      "object_id": "2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd",
+      "object_url": "https://www.europeana.eu/item/2048047/Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by-sa/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "An embroidered termeh textile with red wool ground, metallic thread and pearl-beaded floral/vine scrollwork centered on a rosette medallion, a classic Qajar-era Persian embroidered cloth used as a gift/heirloom textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Termeh",
+      "titles_alt": [],
+      "date_text": {
+        "def": "19. Jahrhundert"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of Art of Romania",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fresource.culturalia.ro%2Fimagini-clasate%2Fimagini60%2Fc97058299af945afb1aef2be6817ea75.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ea08ccfe0a81f8f9a782f85d1bc4a4df8f88c90b2b1b3e0df28840b18d2ffa07",
+        "bytes": 34402,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\persian-iran\\images\\eu_2048047_Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:15.223249+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Romania"
+      ],
+      "dataProvider": [
+        "National Museum of Art of Romania"
+      ],
+      "dcDescription": [
+        "Termeh-ul era considerat în Iran un obiect de mare preț, transmis din generație în generație, putînd fi folosit ca dar de nuntă. Pe o țesăturâ din lînă de tip Cașmir de culoare roșie este brodată o compoziție vegetală cu vrejuri și ciorchini de struguri, realizată cu lamelă metalică și perle. Compoziția este simetrică față de rozeta din centru de unde pornesc vrejurle cu frunze, flori și ciorchini de struguri. Un șnur de mătase roșu cu alb este prins de marginile lucrării.",
+        "stil: Qajar"
+      ],
+      "dcDescriptionLangAware": {
+        "ro": [
+          "Termeh-ul era considerat în Iran un obiect de mare preț, transmis din generație în generație, putînd fi folosit ca dar de nuntă. Pe o țesăturâ din lînă de tip Cașmir de culoare roșie este brodată o compoziție vegetală cu vrejuri și ciorchini de struguri, realizată cu lamelă metalică și perle. Compoziția este simetrică față de rozeta din centru de unde pornesc vrejurle cu frunze, flori și ciorchini de struguri. Un șnur de mătase roșu cu alb este prins de marginile lucrării.",
+          "stil: Qajar"
+        ]
+      },
+      "dcTitleLangAware": {
+        "ro": [
+          "Termeh"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1809",
+        "http://vocab.getty.edu/aat/300014072",
+        "http://vocab.getty.edu/aat/300264024",
+        "http://data.europeana.eu/concept/2008",
+        "http://vocab.getty.edu/aat/300375563",
+        "http://vocab.getty.edu/aat/300053653",
+        "http://data.europeana.eu/concept/2747",
+        "http://data.europeana.eu/concept/2130",
+        "http://vocab.getty.edu/aat/300011827"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Perle"
+        },
+        {
+          "def": "Stickerei"
+        },
+        {
+          "def": "Kaschmirwolle"
+        },
+        {
+          "def": "Sticken"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Жемчуг"
+        },
+        {
+          "def": "Кашемир"
+        },
+        {
+          "def": "Вышивание"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Helmi"
+        },
+        {
+          "def": "Kašmirvilla"
+        },
+        {
+          "def": "Kirjonta"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Pérola"
+        },
+        {
+          "def": "bordados"
+        },
+        {
+          "def": "Casimira"
+        },
+        {
+          "def": "Bordado"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "Перла"
+        },
+        {
+          "def": "Бродиране"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Perlas"
+        },
+        {
+          "def": "Kašmyras"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Biser"
+        },
+        {
+          "def": "Vezenje"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Pērle"
+        },
+        {
+          "def": "Izšuvums"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Perle"
+        },
+        {
+          "def": "soie (fiber)"
+        },
+        {
+          "def": "broderie"
+        },
+        {
+          "def": "Cachemire"
+        },
+        {
+          "def": "Broderie"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "Igazgyöngy"
+        },
+        {
+          "def": "Kasmírgyapjú"
+        },
+        {
+          "def": "Hímzés"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Perla"
+        },
+        {
+          "def": "Kašmír"
+        },
+        {
+          "def": "Vyšívanie"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Biser"
+        },
+        {
+          "def": "Kašmir"
+        },
+        {
+          "def": "Vezenje"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Perla"
+        },
+        {
+          "def": "Llana caixmir"
+        },
+        {
+          "def": "Brodar"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Pärla"
+        },
+        {
+          "def": "Kashmir"
+        },
+        {
+          "def": "Broderi"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Μαργαριτάρι"
+        },
+        {
+          "def": "Κεντητική"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "Pearl"
+        },
+        {
+          "def": "silk (silkworm material)"
+        },
+        {
+          "def": "embroidery (visual works)"
+        },
+        {
+          "def": "Cashmere"
+        },
+        {
+          "def": "flower (motif)"
+        },
+        {
+          "def": "embroidering"
+        },
+        {
+          "def": "Embroidery"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "pearl (animal material)"
+        },
+        {
+          "def": "Perla"
+        },
+        {
+          "def": "Cashmere"
+        },
+        {
+          "def": "Ricamo"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "Perla"
+        },
+        {
+          "def": "seda (fibra)"
+        },
+        {
+          "def": "bordados (obra visual)"
+        },
+        {
+          "def": "Cachemira"
+        },
+        {
+          "def": "bordados"
+        },
+        {
+          "def": "Bordado"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "perla"
+        },
+        {
+          "def": "Pärl"
+        },
+        {
+          "def": "Tikand"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Perla"
+        },
+        {
+          "def": "Kašmír"
+        },
+        {
+          "def": "Vyšívání"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Perla"
+        },
+        {
+          "def": "Kaxmir (ehuna)"
+        },
+        {
+          "def": "Brodatu"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Perła"
+        },
+        {
+          "def": "Kaszmir"
+        },
+        {
+          "def": "Hafciarstwo"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Perle"
+        },
+        {
+          "def": "Kashmiruld"
+        },
+        {
+          "def": "Broderi"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Perlă"
+        },
+        {
+          "def": "Cașmir"
+        },
+        {
+          "def": "Broderie"
+        },
+        {
+          "def": "Mătase"
+        },
+        {
+          "def": "Parel"
+        },
+        {
+          "def": "zijde (vezel)"
+        },
+        {
+          "def": "borduurwerk"
+        },
+        {
+          "def": "Kasjmier"
+        },
+        {
+          "def": "bloem (motief)"
+        },
+        {
+          "def": "borduren"
+        },
+        {
+          "def": "Borduren"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "parel (dierlijk materiaal)"
+        },
+        {
+          "def": "Caismír"
+        },
+        {
+          "def": "Bróidnéireacht"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Rakkmu"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Perle",
+          "Kaschmirwolle",
+          "Sticken",
+          "Stickerei",
+          "Seide"
+        ],
+        "ru": [
+          "Жемчуг",
+          "Кашемир",
+          "Шёлк",
+          "Вышивание"
+        ],
+        "fi": [
+          "Kirjonta",
+          "Kašmirvilla",
+          "Helmi",
+          "Silkki"
+        ],
+        "pt": [
+          "Fibra da seda",
+          "Pérola",
+          "Bordado",
+          "bordados",
+          "Casimira"
+        ],
+        "bg": [
+          "Перла",
+          "Коприна",
+          "Бродиране"
+        ],
+        "lt": [
+          "Kašmyras",
+          "Perlas",
+          "Šilkas"
+        ],
+        "hr": [
+          "Svila",
+          "Vezenje",
+          "Biser"
+        ],
+        "lv": [
+          "Zīds",
+          "Pērle",
+          "Izšuvums"
+        ],
+        "fr": [
+          "Perle",
+          "Broderie",
+          "soie (fiber)",
+          "broderie",
+          "Cachemire",
+          "Soie"
+        ],
+        "hu": [
+          "Hímzés",
+          "Igazgyöngy",
+          "Selyem",
+          "Kasmírgyapjú"
+        ],
+        "sk": [
+          "Hodváb",
+          "Kašmír",
+          "Perla",
+          "Vyšívanie"
+        ],
+        "sl": [
+          "Svila",
+          "Vezenje",
+          "Biser",
+          "Kašmir"
+        ],
+        "ga": [
+          "Bróidnéireacht",
+          "Síoda",
+          "Caismír"
+        ],
+        "ca": [
+          "Perla",
+          "Seda",
+          "Brodar",
+          "Llana caixmir"
+        ],
+        "sv": [
+          "Silke",
+          "Pärla",
+          "Kashmir",
+          "Broderi"
+        ],
+        "el": [
+          "Κεντητική",
+          "Μετάξι",
+          "Μαργαριτάρι"
+        ],
+        "mt": [
+          "Rakkmu"
+        ],
+        "en": [
+          "Pearl",
+          "flower (motif)",
+          "Embroidery",
+          "Silk",
+          "embroidering",
+          "embroidery (visual works)",
+          "pearl (animal material)",
+          "silk (silkworm material)",
+          "Cashmere"
+        ],
+        "it": [
+          "Perla",
+          "Ricamo",
+          "Seta",
+          "Cashmere"
+        ],
+        "es": [
+          "bordados (obra visual)",
+          "Cachemira",
+          "Perla",
+          "Bordado",
+          "bordados",
+          "Seda",
+          "seda (fibra)",
+          "perla"
+        ],
+        "et": [
+          "Tikand",
+          "Siid",
+          "Pärl"
+        ],
+        "cs": [
+          "Kašmír",
+          "Vyšívání",
+          "Perla",
+          "Hedvábí"
+        ],
+        "eu": [
+          "Zeta",
+          "Brodatu",
+          "Perla",
+          "Kaxmir (ehuna)"
+        ],
+        "pl": [
+          "Hafciarstwo",
+          "Jedwab",
+          "Perła",
+          "Kaszmir"
+        ],
+        "da": [
+          "Perle",
+          "Silke",
+          "Broderi",
+          "Kashmiruld"
+        ],
+        "ro": [
+          "Broderie",
+          "Perlă",
+          "Mătase",
+          "Cașmir"
+        ],
+        "nl": [
+          "borduren",
+          "Borduren",
+          "zijde (vezel)",
+          "Zijde",
+          "bloem (motief)",
+          "parel (dierlijk materiaal)",
+          "borduurwerk",
+          "Kasjmier",
+          "Parel"
+        ]
+      },
+      "edmDatasetName": [
+        "2048047_INP"
+      ],
+      "edmIsShownAt": [
+        "https://clasate.cimec.ro/detaliu.asp?k=84f0ac6fb9a3449cb4989d3f71e0bffd"
+      ],
+      "edmIsShownBy": [
+        "https://resource.culturalia.ro/imagini-clasate/imagini60/c97058299af945afb1aef2be6817ea75.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fresource.culturalia.ro%2Fimagini-clasate%2Fimagini60%2Fc97058299af945afb1aef2be6817ea75.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048047_INP"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048047/Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048047/Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd",
+      "index": 0,
+      "language": [
+        "ro"
+      ],
+      "link": "https://api.europeana.eu/record/2048047/Clasate_84f0ac6fb9a3449cb4989d3f71e0bffd.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Heritage Institute, Bucharest"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by-sa/4.0/"
+      ],
+      "score": 19.25424,
+      "timestamp": 1752042697710,
+      "timestamp_created": "2025-06-09T13:10:44.079Z",
+      "timestamp_created_epoch": 1749474644079,
+      "timestamp_update": "2025-06-09T13:10:44.079Z",
+      "timestamp_update_epoch": 1749474644079,
+      "title": [
+        "Termeh"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

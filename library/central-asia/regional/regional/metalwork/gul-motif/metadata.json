@@ -1,0 +1,1213 @@
+[
+  {
+    "id": "va-O121126",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O121126",
+      "object_url": "https://collections.vam.ac.uk/item/O121126",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "2324-1876",
+      "accession_year": 1876
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "_regional",
+      "ethnicity": "_regional",
+      "tradition": "gul motif",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a woven wool bag face (chuval) with the classic Salor Turkoman gul design, a Central Asian textile, not metalwork as claimed—but that miscategorization doesn't affect ethnicity attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1800-1850",
+      "date_earliest": 1800,
+      "date_latest": 1850,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "wool",
+        "silk"
+      ],
+      "techniques": [],
+      "medium_raw": "WARP: white wool; Z2S; 24 threads per inch (91 per dm); depressed.\r\nWEFT: brown wool; Z spun, unplied, check possibly 2 parallel threads per shoot; 2 shoots after each row of knots;  19 knots per inch (71 per dm).\r\nPILE: wool and silk; 11 colours: dark red, red, orange, dark green, dark blue, blue, dark purple, purple (wool), purple (silk), dark brown, white; asymmetrical knot open to the left and tied around 2 threads; 228 knots per sq. inch (3230 per sq. dm).\r\nSIDE FINISH: Left: one cord oversewn with dark blue wool.  Right: one cord oversewn with dark green wool.\r\nEND FINISH: Lower: plain weave with a band of red weft and a band of cream weft; turned and stitched in place.  Upper: plain weave with 1\" of red and 1\" of cream weft; turned and stitched.",
+      "classification": "Chuval",
+      "styles": [],
+      "categories": [
+        "Textiles"
+      ],
+      "physical_description": "Turcoman, Salor bag face\r\nDESIGN: field: red ground with central band of three large hooked and stepped guls.  Within each there is a red ground containing a multi-coloured star within a hooked cruciform.  Similar upper and lower bands are partially evident.  In two bands off-set to the guls are groups of nine small rectangles stepped diagonally in threes.  They are outlined in dark blue and contain white stars.\r\nMain border: dark purple ground with a two-coloured flowerhead set in a small, white horned motif and four florets between each pair.\r\nInner and outer border: red ground with touching S-motifs: dark blue (inner) blue (outer).\r\nLower band: immediately above plain weave is a band of reciprocal arrowheads in dark blue/red.  The red ones contain a white dot; the dark blue ones contain a red dot.\r\nUpper band: 24 \"tree of life\" motifs: every 4th one is blue; the others are dark green or dark blue.  They bear either red or white blossoms.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "89",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "149.5",
+          "unit": "cm",
+          "part": "maximum"
+        },
+        {
+          "dimension": "Width",
+          "value": "141.5",
+          "unit": "cm",
+          "part": "minimum"
+        },
+        {
+          "dimension": "Weight",
+          "value": "13",
+          "unit": "kg",
+          "part": null
+        }
+      ],
+      "dimensions_note": "Weight including roller",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Central Asia",
+      "made_in_place_alt": [
+        "Turkmenistan"
+      ],
+      "current_gallery": "001",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BC8545/full/1000,/0/default.jpg",
+        "iiif_id": "2006BC8545",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BC8545/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "73fb2e05026ae835cd03e97bab0f37e8f6ed3b9c6349de0bb3a7c88d91512947",
+        "bytes": 164604,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O121126.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BF7104/full/1000,/0/default.jpg",
+        "iiif_id": "2006BF7104",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF7104/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "eeccd6575dc61494e6651a3dcc86e91aca3bf7a1cfcbcb7acdcfadbe9d251d4f",
+        "bytes": 429580,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O121126_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2013GB4183/full/1000,/0/default.jpg",
+        "iiif_id": "2013GB4183",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2013GB4183/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "435d2e05550487aa4636581b5c600f8bbf5dc642f961a029d7de29196c8948ca",
+        "bytes": 287018,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O121126_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:27:56.563878+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O121126",
+        "accessionNumber": "2324-1876",
+        "objectType": "Chuval",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES325749",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": "made"
+        },
+        "_primaryImageId": "2006BC8545",
+        "_primaryDate": "1800-1850",
+        "_primaryPlace": "Central Asia",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BC8545/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BC8545/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O121126/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O121126",
+        "accessionNumber": "2324-1876",
+        "objectType": "Chuval",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Turcoman, Salor bag face\r\nDESIGN: field: red ground with central band of three large hooked and stepped guls.  Within each there is a red ground containing a multi-coloured star within a hooked cruciform.  Similar upper and lower bands are partially evident.  In two bands off-set to the guls are groups of nine small rectangles stepped diagonally in threes.  They are outlined in dark blue and contain white stars.\r\nMain border: dark purple ground with a two-coloured flowerhead set in a small, white horned motif and four florets between each pair.\r\nInner and outer border: red ground with touching S-motifs: dark blue (inner) blue (outer).\r\nLower band: immediately above plain weave is a band of reciprocal arrowheads in dark blue/red.  The red ones contain a white dot; the dark blue ones contain a red dot.\r\nUpper band: 24 \"tree of life\" motifs: every 4th one is blue; the others are dark green or dark blue.  They bear either red or white blossoms.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28674"
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "wool",
+            "id": "x30441"
+          },
+          {
+            "text": "silk",
+            "id": "AAT14072"
+          }
+        ],
+        "techniques": [],
+        "materialsAndTechniques": "WARP: white wool; Z2S; 24 threads per inch (91 per dm); depressed.\r\nWEFT: brown wool; Z spun, unplied, check possibly 2 parallel threads per shoot; 2 shoots after each row of knots;  19 knots per inch (71 per dm).\r\nPILE: wool and silk; 11 colours: dark red, red, orange, dark green, dark blue, blue, dark purple, purple (wool), purple (silk), dark brown, white; asymmetrical knot open to the left and tied around 2 threads; 228 knots per sq. inch (3230 per sq. dm).\r\nSIDE FINISH: Left: one cord oversewn with dark blue wool.  Right: one cord oversewn with dark green wool.\r\nEND FINISH: Lower: plain weave with a band of red weft and a band of cream weft; turned and stitched in place.  Upper: plain weave with 1\" of red and 1\" of cream weft; turned and stitched.",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "T&F",
+          "id": "THES48601"
+        },
+        "images": [
+          "2006BC8545",
+          "2006BF7104",
+          "2013GB4183"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "001",
+              "id": "THES325749"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Chuval",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Central Asia",
+              "id": "x35011"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          },
+          {
+            "place": {
+              "text": "Turkmenistan",
+              "id": "x38876"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "possibly"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1800-1850",
+              "earliest": "1800-01-01",
+              "latest": "1850-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "89",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "149.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "maximum",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "141.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "minimum",
+            "note": ""
+          },
+          {
+            "dimension": "Weight",
+            "value": "13",
+            "unit": "kg",
+            "qualifier": "",
+            "date": {
+              "text": "30/09/2013",
+              "earliest": "2013-09-30",
+              "latest": "2013-09-30"
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "Weight including roller",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Middle East, Textile, Carpet; Front panel for chuval (nomadic storage bag), wool knotted pile with silk details on wool foundation, geometric design of three octagons (or guls), on red ground, Turkoman Salor, possibly Turkmenistan, Central Asia, 1800-1850",
+        "bibliographicReferences": [],
+        "production": "Turcoman, Salor.\r\n\r\ncf: Ulrich Schurmann (1969) p.16 of Intro., figs. 6 and 7\r\nA.A. Bogolynbov (ed. Thompson 1973) ill. 6. \"Antique Salor Chuval in wool and silk\" and ill. 39 \"Old Salor Chuval\".  Thompson queries both attributions.\r\n\r\nSiawosch Azadi (1975) ill. 19 \"Salor Chuval, 18th or 19th century\".\r\n\r\nElena Tzareva (1984) ill. 1. \"Salor Chuval, 18th century\"\r\n\r\nmentioned and illustrated Hali 1980, Vol.2, No. 4., p.302, 304, 315. \"Turkoman Rugs in the V & A\". by R. Pinner and M. Franses (intro by Donald King)., tech. analyses by L. Pinner.",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "2324-1876"
+        ],
+        "accessionNumberNum": "2324",
+        "accessionNumberPrefix": "",
+        "accessionYear": 1876,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-08-22",
+        "recordCreationDate": "2006-02-16",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O76669",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O76669",
+      "object_url": "https://collections.vam.ac.uk/item/O76669",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "394-1880",
+      "accession_year": 1880
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "_regional",
+      "ethnicity": "_regional",
+      "tradition": "gul motif",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a Turkoman (Salor) knotted wool and silk chuval (bag face) with typical guls and tribal border patterns, a textile made and used by a Central Asian Turkoman group, consistent with the regional claim. The category \"metalwork\" is clearly wrong given the description and image—it's a woven textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1825-1875",
+      "date_earliest": 1825,
+      "date_latest": 1875,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Hand knotted woollen and silk pile, on woollen warp and weft;  asymmetrical knot, open to the left; 238 knots per sq. in (3,510 per sq. dm)",
+      "classification": "Chuval",
+      "styles": [
+        "Turkoman"
+      ],
+      "categories": [
+        "Textiles",
+        "Household objects"
+      ],
+      "physical_description": "Bag Face, Turkoman,  Salor; 19th century\r\n\r\nWARP: grey wool; Z2S; 28 threads per inch (107 per dm); depressed\r\n\r\nWEFT: brown wool; Z spun, unplied, 2 parallel threads per shoot; 2 shoots after each row of knots; 17 knots per inch (65 per dm).\r\n\r\nPILE: wool and silk; 10 colours: red, light red, orange, dark green, dark blue, blue, dark purple/red, light purple silk, dark brown, white; asymmetrical knot open to the left and tied around 2 warp threads; 238 knots per sq. inch (3510 per sq. dm).\r\n\r\nSIDE FINISH: one cord oversewn with (goat's?) hair dyed blue.\r\n\r\nEND FINISH: Lower: plain weave turned and stitched and then covered with a band of red woollen braid. Upper: cut\r\n\r\nDESIGN: field: red ground with central band of three large hooked and stepped guls.  Within each on a red ground there is a multi-coloured star within a horned cruciform.  Similar upper and lower bands are partially evident.  In two bands off-set to the guls are groups of nine small rectangles stepped diagonally in threes.  They are outlined in dark blue and contain stars.\r\nMain border: dark purple ground with a two-coloured flowerhead set in a small, horned cartouche.  Each cartouche is separated by small, white, horned motif and four florettes between each pair.\r\nInner and outer borders: red ground with touching S-motifs in dark blue.\r\nLower band: immediately above plain weave, a band of reciprocal arrowheads in dark blue and red (the red ones containing two white dots).\r\nUpper band: 15 \"trees of life\": four are dark green, the rest are blue.\r\nDate catalogued: 4.10.94",
+      "summary": "Bags are important household articles for all nomadic people.  They are used to transport possessions on pack animals when the community travels and are used for storage and decoration, and as something comfortable to lean against, when the community settles for a while and erects tents.  The two sides of a bag, back and front, are called 'faces' and the one at the front is often decorated with knotted pile or with a woven design. This is the decorative pile face of a large storage bag probably made by the Salor people. Blue braid has been sewn along the lower edge to cover the raw edge - this is where the bag face was cut from the undecorated back panel. Small amounts of light purple silk have been used in the pile.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Width",
+          "value": "1482",
+          "unit": "mm",
+          "part": "Top Edge"
+        },
+        {
+          "dimension": "Width",
+          "value": "1540",
+          "unit": "mm",
+          "part": "Bottom Edge"
+        },
+        {
+          "dimension": "Length",
+          "value": "876",
+          "unit": "mm",
+          "part": "Proper Right"
+        },
+        {
+          "dimension": "Length",
+          "value": "906",
+          "unit": "mm",
+          "part": "Proper Left"
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Central Asia",
+      "made_in_place_alt": [],
+      "current_gallery": "003",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "P",
+        "u",
+        "r",
+        "c",
+        "h",
+        "a",
+        "s",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "V",
+        "i",
+        "n",
+        "c",
+        "e",
+        "n",
+        "t",
+        " ",
+        "R",
+        "o",
+        "b",
+        "i",
+        "n",
+        "s",
+        "o",
+        "n",
+        " ",
+        "&",
+        " ",
+        "C",
+        "o",
+        ".",
+        ",",
+        " ",
+        "f",
+        "o",
+        "r",
+        " ",
+        "£",
+        "7",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AU4959/full/1000,/0/default.jpg",
+        "iiif_id": "2006AU4959",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AU4959/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "d7fb47fe439e43540ae345c61498dcb2ee25a959d8a58f8269adf9dcc44f985b",
+        "bytes": 234902,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O76669.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FT8171/full/1000,/0/default.jpg",
+        "iiif_id": "2012FT8171",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FT8171/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "d6ff28ddc6a6f90b61f1644654f40e7c5694cb3e556fb4705faaaa91690eb59c",
+        "bytes": 349887,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O76669_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MB9170/full/1000,/0/default.jpg",
+        "iiif_id": "2019MB9170",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MB9170/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "9db3d45bcf4343bf948d3f94ef2ad7d02c83a8f2f32626b6f04838701fec2226",
+        "bytes": 111212,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O76669_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:28:19.105518+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O76669",
+        "accessionNumber": "394-1880",
+        "objectType": "Chuval",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES325487",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006AU4959",
+        "_primaryDate": "1825-1875",
+        "_primaryPlace": "Central Asia",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006AU4959/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006AU4959/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O76669/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O76669",
+        "accessionNumber": "394-1880",
+        "objectType": "Chuval",
+        "titles": [],
+        "summaryDescription": "Bags are important household articles for all nomadic people.  They are used to transport possessions on pack animals when the community travels and are used for storage and decoration, and as something comfortable to lean against, when the community settles for a while and erects tents.  The two sides of a bag, back and front, are called 'faces' and the one at the front is often decorated with knotted pile or with a woven design. This is the decorative pile face of a large storage bag probably made by the Salor people. Blue braid has been sewn along the lower edge to cover the raw edge - this is where the bag face was cut from the undecorated back panel. Small amounts of light purple silk have been used in the pile.",
+        "physicalDescription": "Bag Face, Turkoman,  Salor; 19th century\r\n\r\nWARP: grey wool; Z2S; 28 threads per inch (107 per dm); depressed\r\n\r\nWEFT: brown wool; Z spun, unplied, 2 parallel threads per shoot; 2 shoots after each row of knots; 17 knots per inch (65 per dm).\r\n\r\nPILE: wool and silk; 10 colours: red, light red, orange, dark green, dark blue, blue, dark purple/red, light purple silk, dark brown, white; asymmetrical knot open to the left and tied around 2 warp threads; 238 knots per sq. inch (3510 per sq. dm).\r\n\r\nSIDE FINISH: one cord oversewn with (goat's?) hair dyed blue.\r\n\r\nEND FINISH: Lower: plain weave turned and stitched and then covered with a band of red woollen braid. Upper: cut\r\n\r\nDESIGN: field: red ground with central band of three large hooked and stepped guls.  Within each on a red ground there is a multi-coloured star within a horned cruciform.  Similar upper and lower bands are partially evident.  In two bands off-set to the guls are groups of nine small rectangles stepped diagonally in threes.  They are outlined in dark blue and contain stars.\r\nMain border: dark purple ground with a two-coloured flowerhead set in a small, horned cartouche.  Each cartouche is separated by small, white, horned motif and four florettes between each pair.\r\nInner and outer borders: red ground with touching S-motifs in dark blue.\r\nLower band: immediately above plain weave, a band of reciprocal arrowheads in dark blue and red (the red ones containing two white dots).\r\nUpper band: 15 \"trees of life\": four are dark green, the rest are blue.\r\nDate catalogued: 4.10.94",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [],
+        "techniques": [],
+        "materialsAndTechniques": "Hand knotted woollen and silk pile, on woollen warp and weft;  asymmetrical knot, open to the left; 238 knots per sq. in (3,510 per sq. dm)",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Household objects",
+            "id": "THES48939"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Turkoman",
+            "id": "AAT21807"
+          }
+        ],
+        "collectionCode": {
+          "text": "T&F",
+          "id": "THES48601"
+        },
+        "images": [
+          "2006AU4959",
+          "2012FT8171",
+          "2019MB9170"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "003",
+              "id": "THES325487"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Chuval",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Central Asia",
+              "id": "x35011"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1825-1875",
+              "earliest": "1825-01-01",
+              "latest": "1875-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Width",
+            "value": "1482",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "03/07/2019",
+              "earliest": "2019-07-03",
+              "latest": "2019-07-03"
+            },
+            "part": "Top Edge",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "1540",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "03/07/2019",
+              "earliest": "2019-07-03",
+              "latest": "2019-07-03"
+            },
+            "part": "Bottom Edge",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "876",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "03/07/2019",
+              "earliest": "2019-07-03",
+              "latest": "2019-07-03"
+            },
+            "part": "Proper Right",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "906",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "03/07/2019",
+              "earliest": "2019-07-03",
+              "latest": "2019-07-03"
+            },
+            "part": "Proper Left",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Purchased from Vincent Robinson & Co., for £7.",
+        "historicalContext": "",
+        "briefDescription": "Middle East, Carpet; Chuval or bag-face, wool and silk knotted pile on wool foundation, design of 3 guls on red ground, Salor Turkoman, Turkmenistan, 1800-1875",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "<i>Le ciel dans un tapis.</i>  Paris: Institut du Monde Arabe; Lisbon: Gulbenkian Foundation; Ghent: Editions Snoeck, 2004.  Page 102."
+          },
+          {
+            "reference": {
+              "text": "",
+              "id": ""
+            },
+            "details": "",
+            "free": "Michael Franses and Robert Pinner (\"The History of the Collection\" introduction by Donald King, technical analysis by Lesley Pinner) \"Turkoman Rugs in the Victoria and Albert Museum\", <i>HALI</i> 2/4 (1980) pp.302-315."
+          }
+        ],
+        "production": "cf: Elena Tzareva (1984) ill. 1. \"Salor chuval, 18th century\"\r\nK. Gombos (1975) pp. 98, 101 \"Szalor gol, Szalor ornamentikak\"\r\nA.A. Bogolyubov (ed. Thompson, 1973) ill. 6 \"Antique Salor Chuval in wool and silk\" and ill. 39 \"Old Salor Chuval\".  Thompson queries both attributions.",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [
+          {
+            "text": "octagons",
+            "id": "AAT55635"
+          },
+          {
+            "text": "geometric patterns",
+            "id": "AAT165213"
+          }
+        ],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "394-1880"
+        ],
+        "accessionNumberNum": "394",
+        "accessionNumberPrefix": "",
+        "accessionYear": 1880,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-08-22",
+        "recordCreationDate": "2003-03-12",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O169086",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O169086",
+      "object_url": "https://collections.vam.ac.uk/item/O169086",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "T.337-1982",
+      "accession_year": 1982
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "_regional",
+      "ethnicity": "_regional",
+      "tradition": "gul motif",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a knotted-pile woven bag face (Yomud/Turkmen Central Asian tribal weaving) with a gul-patterned field and plain tabby-woven back, not metalwork at all — but as a regional Central Asian textile it plausibly belongs to the claimed regional/ethnic grouping.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1875-1900",
+      "date_earliest": 1875,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "wool"
+      ],
+      "techniques": [],
+      "medium_raw": "Wool",
+      "classification": "Bag face",
+      "styles": [],
+      "categories": [
+        "Accessories",
+        "Textiles"
+      ],
+      "physical_description": "Yomud (?) bag face. Woven with a rectangular field containing a series of guls, set in a plain brick red ground. The back is a continuation of the warp threads woven in tabby. An additional plaited cord of brown wool is sewn to the top. There are marker arrows in blue.\r\n\r\nWARP: brown wool; Z2S; depressed in places; 17 threads to the inch (67 per dm).\r\n\r\nWEFT: brown wool; Z spun, unplied; 2 parallel threads per shoot and 2 shoots after each row of knots; 19 knots to the inch (70 per dm).\r\n\r\nPILE: wool; 7 colours:  red, light orange, green/blue, dark blue, blue, light brown, white; symmetrical knots tied around 2 threads; 162 knots to the sq. inch (2345 per sq. dm).  The red ground and the elem have short  2.5 - 4 cm. rows of knots where extra knots lie between the shoots.\r\n\r\nSIDE FINISH: both pile sides have 2 cords overcast in shiny black hair.  Both plain weave sides have 2 cords of return weft.\r\n\r\nEND FINISH: lower (ie. top of back): 2.5 cms. of plain weave as back (see below) turned and stitched in place.  Along the fold a stout cord in plaited brown wool has been sewn on to strengthen the bag opening.  Upper 2.5 cm. of plain weave, first with narrow band of green/blue wool weft and a wider one of red, turned and stitched in place with a cord, as above, along the fold.\r\n\r\nDESIGN: field: red ground with four bands of four guls with three and two half bands of three and two half secondary guls, offset.  Primary guls have a blue quartered lozenge with lower left and upper right infilled with light brown, and with lower right and upper left with light orange.  The lozenge is within an elongated red cross that lies on a stepped white cross and with a hooked outline in dark blue.\r\n\r\nThe secondary motif has a cluster of four triangles, two in white and two in dark blue, with light brown and light orange infill and with their stems pointing horizontally outwards.  The cluster lies between two hooked green/blue brackets.\r\n\r\nMain border: white ground with central row and two half rows of stepped crosses in various colours.  The lower and upper borders have inward-facing pairs of arrowheads in place of the half crosses.\r\n\r\nInner and outer border: a reciprocal \"running dog\" pattern in red and dark blue.\r\n\r\nOutermost border: the elem has a solid red ground of 18.5 cms. with four dark blue knots down the centre continuing the line in white in the field.  At the bottom left is a small geometric motif in dark blue.  Below the pile is 1 cm. of plain weave with red wool weft.  The solid red of the elem continues along the other three sides.  Along the top third in from either side, are two upward pointing arrowheads in blue, at the head of each are four large jufti knots (brown and green/blue, light orange and green/blue) which may have been fastening points for closing the bag.  The jufti knots lie along the first of two bands of small, dark blue diagonal blocks, the final row of knots is in green/blue wool.  Below this is a further 2.5 cms. of plain weave, the first 1.25 cms. in red wool weft and the second in cream at which point the weaving is folded to create the two sides of the bag.  \r\n\r\nThe back: plain weave with cream wool weft.  Towards the edge are the remains of thick stitching in brown and light brown in the same wool or hair as the cords across the top of the bag.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Width",
+          "value": "1115",
+          "unit": "mm",
+          "part": "Top"
+        },
+        {
+          "dimension": "Width",
+          "value": "1100",
+          "unit": "mm",
+          "part": "Bottom"
+        },
+        {
+          "dimension": "Length",
+          "value": "1540",
+          "unit": "mm",
+          "part": "Proper left"
+        },
+        {
+          "dimension": "Length",
+          "value": "1525",
+          "unit": "mm",
+          "part": "Proper right"
+        },
+        {
+          "dimension": "Weight",
+          "value": "14",
+          "unit": "kg",
+          "part": null
+        }
+      ],
+      "dimensions_note": "Weight including roller",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Central Asia",
+      "made_in_place_alt": [],
+      "current_gallery": "001",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017KA1351/full/1000,/0/default.jpg",
+        "iiif_id": "2017KA1351",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1351/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "0b02088b6e12fdacc3d83b4807267f7510f7fab4f85f6a24755f045ba94f6599",
+        "bytes": 141843,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O169086.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017KA1313/full/1000,/0/default.jpg",
+        "iiif_id": "2017KA1313",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017KA1313/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "9245872ebf59f6b126c32cc95543fdc3be1d9bb4bb7c023ea55565be00d8e61e",
+        "bytes": 134377,
+        "local_path": "library\\central-asia\\regional\\regional\\metalwork\\gul-motif\\images\\va_O169086_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:30:29.155248+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O169086",
+        "accessionNumber": "T.337-1982",
+        "objectType": "Bag face",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES325749",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2017KA1351",
+        "_primaryDate": "1875-1900",
+        "_primaryPlace": "Central Asia",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2017KA1351/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2017KA1351/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O169086/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O169086",
+        "accessionNumber": "T.337-1982",
+        "objectType": "Bag face",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Yomud (?) bag face. Woven with a rectangular field containing a series of guls, set in a plain brick red ground. The back is a continuation of the warp threads woven in tabby. An additional plaited cord of brown wool is sewn to the top. There are marker arrows in blue.\r\n\r\nWARP: brown wool; Z2S; depressed in places; 17 threads to the inch (67 per dm).\r\n\r\nWEFT: brown wool; Z spun, unplied; 2 parallel threads per shoot and 2 shoots after each row of knots; 19 knots to the inch (70 per dm).\r\n\r\nPILE: wool; 7 colours:  red, light orange, green/blue, dark blue, blue, light brown, white; symmetrical knots tied around 2 threads; 162 knots to the sq. inch (2345 per sq. dm).  The red ground and the elem have short  2.5 - 4 cm. rows of knots where extra knots lie between the shoots.\r\n\r\nSIDE FINISH: both pile sides have 2 cords overcast in shiny black hair.  Both plain weave sides have 2 cords of return weft.\r\n\r\nEND FINISH: lower (ie. top of back): 2.5 cms. of plain weave as back (see below) turned and stitched in place.  Along the fold a stout cord in plaited brown wool has been sewn on to strengthen the bag opening.  Upper 2.5 cm. of plain weave, first with narrow band of green/blue wool weft and a wider one of red, turned and stitched in place with a cord, as above, along the fold.\r\n\r\nDESIGN: field: red ground with four bands of four guls with three and two half bands of three and two half secondary guls, offset.  Primary guls have a blue quartered lozenge with lower left and upper right infilled with light brown, and with lower right and upper left with light orange.  The lozenge is within an elongated red cross that lies on a stepped white cross and with a hooked outline in dark blue.\r\n\r\nThe secondary motif has a cluster of four triangles, two in white and two in dark blue, with light brown and light orange infill and with their stems pointing horizontally outwards.  The cluster lies between two hooked green/blue brackets.\r\n\r\nMain border: white ground with central row and two half rows of stepped crosses in various colours.  The lower and upper borders have inward-facing pairs of arrowheads in place of the half crosses.\r\n\r\nInner and outer border: a reciprocal \"running dog\" pattern in red and dark blue.\r\n\r\nOutermost border: the elem has a solid red ground of 18.5 cms. with four dark blue knots down the centre continuing the line in white in the field.  At the bottom left is a small geometric motif in dark blue.  Below the pile is 1 cm. of plain weave with red wool weft.  The solid red of the elem continues along the other three sides.  Along the top third in from either side, are two upward pointing arrowheads in blue, at the head of each are four large jufti knots (brown and green/blue, light orange and green/blue) which may have been fastening points for closing the bag.  The jufti knots lie along the first of two bands of small, dark blue diagonal blocks, the final row of knots is in green/blue wool.  Below this is a further 2.5 cms. of plain weave, the first 1.25 cms. in red wool weft and the second in cream at which point the weaving is folded to create the two sides of the bag.  \r\n\r\nThe back: plain weave with cream wool weft.  Towards the edge are the remains of thick stitching in brown and light brown in the same wool or hair as the cords across the top of the bag.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "C168"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "wool",
+            "id": "x40131"
+          }
+        ],
+        "techniques": [],
+        "materialsAndTechniques": "Wool",
+        "categories": [
+          {
+            "text": "Accessories",
+            "id": "THES48998"
+          },
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "T&F",
+          "id": "THES48601"
+        },
+        "images": [
+          "2017KA1351",
+          "2017KA1313"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "001",
+              "id": "THES325749"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Carpet",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Central Asia",
+              "id": "x35011"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1875-1900",
+              "earliest": "1875-01-01",
+              "latest": "1900-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Width",
+            "value": "1115",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "Top",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "1100",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "Bottom",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "1540",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "Proper left",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "1525",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "Proper right",
+            "note": ""
+          },
+          {
+            "dimension": "Weight",
+            "value": "14",
+            "unit": "kg",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "Weight including roller",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Bag face of woven wool, made in Central Asia, 1875-1900",
+        "bibliographicReferences": [],
+        "production": "cf: Gombos (1975) \"Yomut chuval, 19th century, (A)\"; ill. 58, \"Yomut chuval, 18th-19th century, (S)\".",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "T.337-1982"
+        ],
+        "accessionNumberNum": "337",
+        "accessionNumberPrefix": "T",
+        "accessionYear": 1982,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-09-12",
+        "recordCreationDate": "2008-10-09",
+        "availableToBook": true
+      }
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1898-0702-48",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1898-0702-48",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1898-0702-48",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1898.0702.48",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Russia",
+      "ethnicity": "Khanty",
+      "tradition": "Khanty",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows an embroidered square cloth with beadwork borders, tasseled corners, and geometric cross-stitch patterning, matching the museum's description of a Khanty domestic textile attributed directly to that group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A cloth for domestic use; embroidered and with beadwork.  Square in shape; ground made of natural cream tabby linen cloth.  Alternating bands of blue and brown wool embroidery; stylized floral (?) motifs either side of a horizontal line.  Zigzag patterning at one end, worked in salmon pink, lilac and blue.  At all four edges is a band of applied threaded glass (?) beads: white and green diamond patterning.  Suspended at each corner are beaded tassels with small pieces of cloth at each end (two tassels missing).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_22/d4c73f8a_2e47_4543_8b3d_a3bb016c7dad/preview_00382522_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9d1d91a8699be9b2d0e89064f69c71f4b56d1709e80a4c5ebaef176f44c079a7",
+        "bytes": 67758,
+        "local_path": "library\\east-asia\\russia\\khanty\\textile\\khanty\\images\\bm_A_As1898_0702_48.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T02:01:04.236532+00:00",
+    "raw": {
+      "title": "cloth",
+      "description": "A cloth for domestic use; embroidered and with beadwork.  Square in shape; ground made of natural cream tabby linen cloth.  Alternating bands of blue and brown wool embroidery; stylized floral (?) motifs either side of a horizontal line.  Zigzag patterning at one end, worked in salmon pink, lilac and blue.  At all four edges is a band of applied threaded glass (?) beads: white and green diamond patterning.  Suspended at each corner are beaded tassels with small pieces of cloth at each end (two tassels missing).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_22/d4c73f8a_2e47_4543_8b3d_a3bb016c7dad/preview_00382522_001.jpg",
+      "production_ethnic_groups": [
+        "Khanty"
+      ],
+      "production_ethnic_attribution": "Made by: Khanty"
+    }
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_51849",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_51849",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_51849?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A finely woven straw hat (\"mpu yangara\", noted as a Europeanized hat style) collected in the Madzia area of former French Congo, attributed to Bembe (Babembe) people, a traditional craft item of personal dress.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "hatt, Stråhatt, hat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1198426/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "00fdd832344918a399e3d9e8e37c98360e234745dbbeccbfb36fcec3e71946f2",
+        "bytes": 60728,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\garment\\bembe\\images\\eu_91608_SMVK_VKM_objekt_51849.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1198426%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:38.872562+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_51849",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_51849?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "hatt, Stråhatt, hat"
+      ],
+      "dcDescription": [
+        "1968.11.0435 J. Hammar skiss Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Stråhatt, \"mpu yangara\", europeiserad hatt, 33 cm, med brätte.\nGåva av insamlaren 2/9 1967 Madzia-området, f.d. Franska Kongo Madziaområdet, fd Franska Kongo. [[Haga]] Madzia-området, f.d. Franska Kongo Balali-babembe (efterbestämning) Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1198426%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1198426/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

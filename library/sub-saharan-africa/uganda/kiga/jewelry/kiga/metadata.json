@@ -1,0 +1,100 @@
+[
+  {
+    "id": "british_museum-E_Af1948-08-390",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1948-08-390",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1948-08-390",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1948.08.390",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Uganda",
+      "ethnicity": "Kiga",
+      "tradition": "Kiga",
+      "art_form": "jewelry",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:codex-gpt-5.6-luna",
+      "vision_reason": "The picture shows a handmade bracelet made from twisted goat hair bound with copper wire, explicitly recorded as made by the Kiga (Bachiga). It fits the claimed Kiga jewelry category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bracelet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bracelet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1948\r\nComposite bracelet, of a core of twisted goats&#039; hair, bound with copper wire.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/30_12/8a01e150_1ec2_42ed_8ec2_a43000ce1fd4/preview_EAF49196.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0d9864319a588de4bf126983f6d9a436f706f53b8a4d1603a5a7f67b691147e6",
+        "bytes": 35471,
+        "local_path": "library\\sub-saharan-africa\\uganda\\kiga\\jewelry\\kiga\\images\\bm_E_Af1948_08_390.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-04T14:30:23.719592+00:00",
+    "raw": {
+      "title": "bracelet",
+      "description": "Register 1948\r\nComposite bracelet, of a core of twisted goats&#039; hair, bound with copper wire.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/30_12/8a01e150_1ec2_42ed_8ec2_a43000ce1fd4/preview_EAF49196.jpg",
+      "production_ethnic_groups": [
+        "Bachiga",
+        "Kiga"
+      ],
+      "production_ethnic_attribution": "Made by: Bachiga Made by: Kiga"
+    }
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "british_museum-EA_Af-A16-68",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-A16-68",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-A16-68",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.A16.68",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ghana",
+      "ethnicity": "Ewe",
+      "tradition": "Ewe",
+      "art_form": "photo",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The photo shows an elderly man wearing a large strip-woven cloth (resembling kente-type cloth associated with Ewe/Akan weavers of Ghana) draped toga-style, holding a staff, a documentary portrait consistent with Ewe dress traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Portrait of an adult male wearing a cloth, shirt, wrist-ornament. Holding a staff.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_15/ac1e2bf3_17db_4458_badc_a3b70107661f/preview_00083112_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5aa7881be7a000a4e6109bada753d442744f99cea6ebf448cff1f110fd6c8fac",
+        "bytes": 103602,
+        "local_path": "library\\sub-saharan-africa\\ghana\\ewe\\photo\\ewe\\images\\bm_EA_Af_A16_68.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:08:00.820993+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Portrait of an adult male wearing a cloth, shirt, wrist-ornament. Holding a staff.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_15/ac1e2bf3_17db_4458_badc_a3b70107661f/preview_00083112_001.jpg",
+      "production_ethnic_groups": [],
+      "production_ethnic_attribution": ""
+    }
+  }
+]

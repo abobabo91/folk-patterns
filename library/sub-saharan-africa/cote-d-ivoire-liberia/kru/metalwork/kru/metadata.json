@@ -1,0 +1,189 @@
+[
+  {
+    "id": "met-317616",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "317616",
+      "object_url": "https://www.metmuseum.org/art/collection/search/317616",
+      "iiif_manifest": null,
+      "credit_line": "From the Collection of Nina and Gordon Bunshaft, Bequest of Nina Bunshaft, 1994",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1995.64.15",
+      "accession_year": "1995"
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Côte d'Ivoire / Liberia",
+      "ethnicity": "Kru",
+      "tradition": "Kru",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a brass currency/manilla-type object with terracotta core, attributed directly to the Kru peoples of Liberia/Ivory Coast, matching the claimed ethnicity and metalwork category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Currency",
+      "titles_alt": [],
+      "date_text": "probably 19th century",
+      "date_earliest": 1800,
+      "date_latest": 1897,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Brass",
+        "fired terracotta core"
+      ],
+      "techniques": [],
+      "medium_raw": "Brass, fired terracotta core",
+      "classification": "Metal-Implements",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Height 4 in.",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Sinoe County, Liberia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Kru artist",
+          "role": "Artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/1995.64.15_a.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "effb9574328b5d56533d69780eff41f3d1bc37d5cf8d61cb4be9388c958bef3c",
+        "bytes": 649252,
+        "local_path": "library\\sub-saharan-africa\\cote-d-ivoire-liberia\\kru\\metalwork\\kru\\images\\met_317616.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:08:09.522822+00:00",
+    "raw": {
+      "objectID": 317616,
+      "isHighlight": false,
+      "accessionNumber": "1995.64.15",
+      "accessionYear": "1995",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/1995.64.15_a.JPG",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/1995.64.15_a.JPG",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/ao/original/1995.64.15_b.JPG",
+        "https://images.metmuseum.org/CRDImages/ao/original/1995.64.15_c.JPG"
+      ],
+      "constituents": [
+        {
+          "constituentID": 222887,
+          "role": "Artist",
+          "name": "Kru artist",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Currency",
+      "title": "Currency",
+      "culture": "Kru peoples",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Kru artist",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "Kru artist",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "probably 19th century",
+      "objectBeginDate": 1800,
+      "objectEndDate": 1897,
+      "medium": "Brass, fired terracotta core",
+      "dimensions": "Height 4 in.",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 21.59,
+            "Width": 26.67
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 21.59,
+            "Height": 10.16,
+            "Width": 26.67
+          }
+        }
+      ],
+      "creditLine": "From the Collection of Nina and Gordon Bunshaft, Bequest of Nina Bunshaft, 1994",
+      "geographyType": "",
+      "city": "Sinoe County",
+      "state": "",
+      "county": "",
+      "country": "Liberia",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "Sinoe River region",
+      "classification": "Metal-Implements",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-07-28T04:54:17.813Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/317616",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

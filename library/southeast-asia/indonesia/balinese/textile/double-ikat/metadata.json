@@ -1,0 +1,315 @@
+[
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933599-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933599-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129214",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Alan L. Wolfe",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-115-37",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "double ikat",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a geringsing double-ikat ceremonial cloth from Tenganan, Bali — a textile form unique to the Balinese (specifically Bali Aged village) weaving tradition, matching the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Kamben geringsing (ceremonial cloth)",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: tied resist patterning in warp and weft (double ikat) on plain weave Label: cotton with tied resist patterning in warp and weft (double ikat)",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Kamben geringsing (ceremonial cloth)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 231.1 x 39.1 cm (7 ft. 7 in. x 15 3/8 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Tenganan, Bali, Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4d1ddae42-7736-4003-a4b4-c1b801563466"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1961-115-37MattFlynn",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "454560c85bef22a8e488925fa4176b45f2ac09ec43e3757437212f180b0c07ac",
+        "bytes": 723489,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\double-ikat\\images\\si_chndm_1961-115-37.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-8E154F7B2B512-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6c3b08eddd3a3a44794ab5f501ad34c49d580b5712eb4452e4129541572bc732",
+        "bytes": 3931717,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\double-ikat\\images\\si_chndm_1961-115-37_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:56:08.096084+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933599-0",
+      "title": "Kamben geringsing (ceremonial cloth)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-115-37",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Cotton textile created in the double ikat or 'geringsing' technique showing a \"kota-mesir\" pattern (four-pointed star, notched internal pattern, divides piece into semi-circular segments). Semi-circles depict \"wayang patlikur isi\" motif (geometric wayang figure) and other figures. Wide border at end with geometric pattern. Design in tan on black. Fringed."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Tenganan, Bali, Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Alan L. Wolfe"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-115-37"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Kamben geringsing (ceremonial cloth)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: tied resist patterning in warp and weft (double ikat) on plain weave Label: cotton with tied resist patterning in warp and weft (double ikat)"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 231.1 x 39.1 cm (7 ft. 7 in. x 15 3/8 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Tenganan",
+            "Bali",
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              },
+              "L3": {
+                "type": "State",
+                "content": "Bali"
+              },
+              "L5": {
+                "type": "City",
+                "content": "Tenganan"
+              }
+            }
+          ],
+          "object_type": [
+            "Kamben geringsing (ceremonial cloth)",
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4d1ddae42-7736-4003-a4b4-c1b801563466",
+          "title": {
+            "label": "Title",
+            "content": "Kamben geringsing (ceremonial cloth)"
+          },
+          "record_ID": "chndm_1961-115-37",
+          "unit_code": "CHNDM",
+          "title_sort": "KAMBEN GERINGSING (CEREMONIAL CLOTH)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129214",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-1961-115-37MattFlynn",
+                "guid": "http://n2t.net/ark:/65665/vc99e952737-cefe-43a5-9123-155c8a2cf8f9",
+                "type": "Images",
+                "idsId": "CHSDM-1961-115-37MattFlynn",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1961-115-37MattFlynn",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1961-115-37MattFlynn",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Cotton textile created in the double ikat  or 'geringsing' technique showing a \"kota-mesir\" pattern (four-pointed star, notched internal pattern, divides piece into semi-circular segments). Semi-circles depict \"wayang patlikur isi\" motif (geometric wayang figure) and other figures. Wide border at end with geometric pattern. Design in tan on black. Fringed.",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-37MattFlynn.tif",
+                    "width": 840,
+                    "height": 3000,
+                    "dimensions": "840x3000"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-37MattFlynn.jpg",
+                    "width": 840,
+                    "height": 3000,
+                    "dimensions": "840x3000"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-37MattFlynn_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1961-115-37MattFlynn_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-8E154F7B2B512-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9b670f040-26e4-4916-bf2a-5513fd4d7bd6",
+                "type": "Images",
+                "idsId": "CHSDM-8E154F7B2B512-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-8E154F7B2B512-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-8E154F7B2B512-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Cotton textile created in the double ikat  or 'geringsing' technique showing a \"kota-mesir\" pattern (four-pointed star, notched internal pattern, divides piece into semi-circular segments). Semi-circles depict \"wayang patlikur isi\" motif (geometric wayang figure) and other figures. Wide border at end with geometric pattern. Design in tan on black. Fringed.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-8E154F7B2B512-000001.jpg",
+                    "width": 5393,
+                    "height": 10186,
+                    "dimensions": "5393x10186"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-8E154F7B2B512-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-8E154F7B2B512-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "0c1845a0b59757d9eb4d10ceb6c581516d8da3af",
+      "docSignature": "0d600731d35c1ca188dcbb0e1efec0f3",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  }
+]

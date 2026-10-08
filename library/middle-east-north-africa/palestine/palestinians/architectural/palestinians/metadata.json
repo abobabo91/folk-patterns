@@ -1,0 +1,121 @@
+[
+  {
+    "id": "europeana-91627_SMVK_EM_fotografi_3746329",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91627_SMVK_EM_fotografi_3746329",
+      "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_3746329?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Palestine",
+      "ethnicity": "Palestinians",
+      "tradition": "Palestinians",
+      "art_form": "architectural",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Historic hand-colored photograph of the Dome of the Rock in Jerusalem with two local men in traditional dress in the foreground, a building and daily-life scene in the Palestinian homeland.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "architectural",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3746333/0875.0006.A_alt02.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c8a0a12ea11d91565c4de7dde4f3f7e02d9819c07d6fc9b67f246eccb090a939",
+        "bytes": 169417,
+        "local_path": "library\\middle-east-north-africa\\palestine\\palestinians\\architectural\\palestinians\\images\\eu_91627_SMVK_EM_fotografi_3746329.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3746333%2F0875.0006.A_alt02.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:55:49.647372+00:00",
+    "raw": {
+      "id": "/91627/SMVK_EM_fotografi_3746329",
+      "guid": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_3746329?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "fotografi, photograph"
+      ],
+      "dcCreator": [
+        "Larsson, Lewis",
+        "American Colony, Jerusalem",
+        "Jeppsson, Johan"
+      ],
+      "dcDescription": [
+        "0875.0006.A Al-Aqsa Mosque (Arabic: ٱلْمَسْجِد ٱلْأَقْصَىٰ‎, romanized: al-Masjid al-ʾAqṣā, \"the Farthest Mosque\"), located in the Old City of Jerusalem. The mosque was built on top of the Temple Mount, known as the Al Aqsa Compound or Haram esh-Sharif in Islam. Muslims believe that Muhammad was transported from the Great Mosque of Mecca to al-Aqsa during the Night Journey. Islamic tradition holds that Muhammad led prayers towards this site until the 16th or 17th month after his migration from Mecca to Medina, when Allah directed him to turn towards the Kaaba in Mecca. Fig. 24.4: Al-Aqsa Mosqu"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3746333%2F0875.0006.A_alt02.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3746333/0875.0006.A_alt02.jpg"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

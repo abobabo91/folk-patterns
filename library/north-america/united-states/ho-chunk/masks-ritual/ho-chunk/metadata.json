@@ -1,0 +1,167 @@
+[
+  {
+    "id": "met-319102",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "319102",
+      "object_url": "https://www.metmuseum.org/art/collection/search/319102",
+      "iiif_manifest": null,
+      "credit_line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2011.154.61a, b",
+      "accession_year": "2011"
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Ho-Chunk",
+      "tradition": "Ho-Chunk",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden bowl (with duck-head handle) and a woven medicine bundle bag, both Ho-Chunk-made objects used in ritual/medicine practice; the museum's own materials description confirms wood and native-tanned skin, not ceramic.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Medicine Bundle Bowl and Bag",
+      "titles_alt": [],
+      "date_text": "1850–60",
+      "date_earliest": 1850,
+      "date_latest": 1860,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Wood",
+        "wool",
+        "native-tanned skin"
+      ],
+      "techniques": [],
+      "medium_raw": "Wood, wool, native-tanned skin",
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Bowl: Diam. 5 in. (12.7 cm)\r\nBag: H. 3 x  W. 3 3/4  (7.6 x 9.5 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Nebraska, United States",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ad/original/DT261801.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f38534dc23f471a3da33ef7a12428e1d4693dc81ef53b10f378c90a70ded6437",
+        "bytes": 1651393,
+        "local_path": "library\\north-america\\united-states\\ho-chunk\\masks-ritual\\ho-chunk\\images\\met_319102.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:08:33.562710+00:00",
+    "raw": {
+      "objectID": 319102,
+      "isHighlight": false,
+      "accessionNumber": "2011.154.61a, b",
+      "accessionYear": "2011",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT261801.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT261801.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/ad/original/TR.165.34.2011_a.JPG",
+        "https://images.metmuseum.org/CRDImages/ad/original/TR.165.34.2011_b.JPG",
+        "https://images.metmuseum.org/CRDImages/ad/original/TR.165.34.2011_c.JPG"
+      ],
+      "constituents": null,
+      "department": "The American Wing",
+      "objectName": "Bowl and bag",
+      "title": "Medicine Bundle Bowl and Bag",
+      "culture": "Ho-Chunk",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "1850–60",
+      "objectBeginDate": 1850,
+      "objectEndDate": 1860,
+      "medium": "Wood, wool, native-tanned skin",
+      "dimensions": "Bowl: Diam. 5 in. (12.7 cm)\r\nBag: H. 3 x  W. 3 3/4  (7.6 x 9.5 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Diameter": 12.700026,
+            "Height": 7.620015,
+            "Width": 9.525019
+          }
+        }
+      ],
+      "creditLine": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+      "geographyType": "Object place",
+      "city": "",
+      "state": "Nebraska",
+      "county": "",
+      "country": "United States",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-08-06T04:50:55.473Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/319102",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

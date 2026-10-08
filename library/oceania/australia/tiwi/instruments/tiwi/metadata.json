@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Oc1925-1117-20",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Oc1925-1117-20",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Oc1925-1117-20",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Oc1925.1117.20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "oceania",
+      "country": "Australia",
+      "ethnicity": "Tiwi",
+      "tradition": "Tiwi",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a wooden clapping stick, a traditional percussion instrument used by Tiwi and other Aboriginal Australian groups for song and ceremony; this matches the claimed ethnicity and category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "clapping stick",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "clapping stick",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Clapping stick made of wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2020_11/23_14/93c1aa5c_bf81_4423_9012_ac7c00eae80d/preview_EOC16274.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c86aac663e8aa14983c022371ccb04842cc6e3ad6fdaa45aad93691aea588265",
+        "bytes": 143541,
+        "local_path": "library\\oceania\\australia\\tiwi\\instruments\\tiwi\\images\\bm_E_Oc1925_1117_20.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T00:35:20.931935+00:00",
+    "raw": {
+      "title": "clapping stick",
+      "description": "Clapping stick made of wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2020_11/23_14/93c1aa5c_bf81_4423_9012_ac7c00eae80d/preview_EOC16274.jpg",
+      "production_ethnic_groups": [
+        "Tiwi"
+      ],
+      "production_ethnic_attribution": "Made by: Tiwi"
+    }
+  }
+]

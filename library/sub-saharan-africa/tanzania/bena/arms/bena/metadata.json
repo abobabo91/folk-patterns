@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1934-0718-22",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1934-0718-22",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1934-0718-22",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1934.0718.22",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Tanzania",
+      "ethnicity": "Bena",
+      "tradition": "Bena",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "An iron harpoon-head with barb, used for hunting hippopotamus, matches the claimed Bena ethnicity and the arms category; a plausible weapon type for the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "harpoon",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "harpoon",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Harpoon-head made of iron used for hunting the hippopotamus.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/6394bd40_b6f6_48e0_a7af_a3e601482bde/preview_01607282_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fb9f7fb0397a214a2681d2c8e9e8d33ea34d031061b7a28beef6e9a5dacb8964",
+        "bytes": 23355,
+        "local_path": "library\\sub-saharan-africa\\tanzania\\bena\\arms\\bena\\images\\bm_E_Af1934_0718_22.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T08:19:07.670978+00:00",
+    "raw": {
+      "title": "harpoon",
+      "description": "Harpoon-head made of iron used for hunting the hippopotamus.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/6394bd40_b6f6_48e0_a7af_a3e601482bde/preview_01607282_001.jpg",
+      "production_ethnic_groups": [
+        "Bena"
+      ],
+      "production_ethnic_attribution": "Made by: Bena"
+    }
+  }
+]

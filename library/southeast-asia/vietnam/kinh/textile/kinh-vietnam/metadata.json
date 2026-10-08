@@ -1,0 +1,1756 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_104314",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_104314",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104314?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A woven plant-fiber pillow/headrest from Vinh Phu province, Vietnam, plausibly used by Kinh people; it's a household object, not really a textile despite the museum's category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "kudde, pillow",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2025874%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "62cc6b51ccac9576debde5b26270b2616c93da7a99cb72350c660d8fdefbed05",
+        "bytes": 15666,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\textile\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104314.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:25.479890+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Ur generalkatalogen: Huvudkudde, flätad.",
+        "Kudde att vila huvudet på.",
+        "växtdelar",
+        "1978.18.0014",
+        "Vinh Phu-provinsen",
+        "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+        "Playground",
+        "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+        "Vietnam",
+        "Vietnameser",
+        "Kinh people"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Ur generalkatalogen: Huvudkudde, flätad.",
+          "Kudde att vila huvudet på.",
+          "växtdelar"
+        ],
+        "def": [
+          "1978.18.0014",
+          "Vinh Phu-provinsen",
+          "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+          "Playground",
+          "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+          "Vietnam",
+          "Vietnameser",
+          "Kinh people"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "kudde, pillow"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1821",
+        "http://data.europeana.eu/concept/2098",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Faser"
+        },
+        {
+          "def": "Pflanzenfaser"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Волокна"
+        },
+        {
+          "def": "Растительное волокно"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Kuitu"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Fibra"
+        },
+        {
+          "def": "Fibra vegetal"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Влакно"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Skaidula"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Vlakno"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Šķiedra"
+        },
+        {
+          "def": "Augu šķiedra"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Fibre"
+        },
+        {
+          "def": "Fibre végétale"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szálasanyag"
+        },
+        {
+          "def": "Növényi rost"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Vlákno"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Vlakno"
+        },
+        {
+          "def": "Rastlinsko vlakno"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Snáithín"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Fibra"
+        },
+        {
+          "def": "Fibra vegetal"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Fiber"
+        },
+        {
+          "def": "Växtfibrer"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ίνα"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Fiber"
+        },
+        {
+          "def": "Plant fiber"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Fibra"
+        },
+        {
+          "def": "Fibra vegetale"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Fibra"
+        },
+        {
+          "def": "Fibra vegetal"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Kiud"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Vlákno"
+        },
+        {
+          "def": "Rostlinná textilní vlákna"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Zuntz"
+        },
+        {
+          "def": "Landare-zuntz"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Włókno"
+        },
+        {
+          "def": "Włókno roślinne"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Fibră"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Fiber"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Vezel"
+        },
+        {
+          "def": "Plantaardige vezel"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Pflanzenfaser",
+          "Faser",
+          "Textilie"
+        ],
+        "ru": [
+          "Текстиль",
+          "Растительное волокно",
+          "Волокна"
+        ],
+        "fi": [
+          "Kuitu",
+          "Tekstiili"
+        ],
+        "pt": [
+          "Fibra",
+          "Têxtil",
+          "Fibra vegetal"
+        ],
+        "bg": [
+          "Текстил",
+          "Влакно"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Skaidula"
+        ],
+        "hr": [
+          "Vlakno",
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums",
+          "Augu šķiedra",
+          "Šķiedra"
+        ],
+        "fr": [
+          "Textile",
+          "Fibre",
+          "Fibre végétale"
+        ],
+        "hu": [
+          "Szálasanyag",
+          "Növényi rost",
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia",
+          "Vlákno"
+        ],
+        "sl": [
+          "Tekstil",
+          "Vlakno",
+          "Rastlinsko vlakno"
+        ],
+        "ga": [
+          "Teicstíl",
+          "Snáithín"
+        ],
+        "ca": [
+          "Fibra",
+          "Tèxtil",
+          "Fibra vegetal"
+        ],
+        "sv": [
+          "Fiber",
+          "Växtfibrer",
+          "Textil"
+        ],
+        "el": [
+          "Ίνα",
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile",
+          "Fiber",
+          "Plant fiber"
+        ],
+        "it": [
+          "Tessuto",
+          "Fibra vegetale",
+          "Fibra"
+        ],
+        "es": [
+          "Fibra",
+          "Fibra vegetal",
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil",
+          "Kiud"
+        ],
+        "cs": [
+          "Vlákno",
+          "Rostlinná textilní vlákna",
+          "Textilie"
+        ],
+        "eu": [
+          "Zuntz",
+          "Landare-zuntz",
+          "Ehun"
+        ],
+        "pl": [
+          "Włókno roślinne",
+          "Tekstylia",
+          "Włókno"
+        ],
+        "ro": [
+          "Fibră",
+          "Material textil"
+        ],
+        "da": [
+          "Tekstil",
+          "Fiber"
+        ],
+        "nl": [
+          "Textiel",
+          "Vezel",
+          "Plantaardige vezel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/104314"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2025874/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Социалистическая Республика Вьетнам"
+        },
+        {
+          "def": "Vietnamin sosialistinen tasavalta"
+        },
+        {
+          "def": "Socialistiska republiken Vietnam"
+        },
+        {
+          "def": "República Socialista do Vietname"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Republica Socialista do Vietname"
+        },
+        {
+          "def": "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        },
+        {
+          "def": "Repubblika Soċjalista tal-Vjetnam"
+        },
+        {
+          "def": "Socialist Republic of Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "SRV"
+        },
+        {
+          "def": "VNM"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "La République socialiste du Vietnam"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Vietnámi Szocialista Köztársaság"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "República Socialista de Vietnam"
+        },
+        {
+          "def": "Republica Socialista de Vietnam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnami Sotsialistlik Vabariik"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "VSR"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "Socjalistyczna Republika Wietnamu"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Republica Socialistă Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "República Socialista del Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VNM"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "VN"
+        ],
+        "ru": [
+          "Социалистическая Республика Вьетнам"
+        ],
+        "fi": [
+          "Vietnamin sosialistinen tasavalta"
+        ],
+        "sv": [
+          "Socialistiska republiken Vietnam"
+        ],
+        "pt": [
+          "República Socialista do Vietname",
+          "Việt Nam",
+          "Republica Socialista do Vietname"
+        ],
+        "el": [
+          "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        ],
+        "mt": [
+          "Repubblika Soċjalista tal-Vjetnam"
+        ],
+        "en": [
+          "Socialist Republic of Vietnam",
+          "VN",
+          "VIE",
+          "Việt Nam",
+          "Viet Nam",
+          "SRV",
+          "VNM"
+        ],
+        "it": [
+          "VN"
+        ],
+        "fr": [
+          "Viet Nam",
+          "Vietnam",
+          "Viet-Nam",
+          "Viêt-Nam",
+          "Viêtnam",
+          "VN",
+          "La République socialiste du Vietnam",
+          "Việt Nam"
+        ],
+        "hu": [
+          "Vietnámi Szocialista Köztársaság",
+          "Vietnam"
+        ],
+        "es": [
+          "República Socialista de Vietnam",
+          "Republica Socialista de Vietnam",
+          "Viet Nam"
+        ],
+        "et": [
+          "Vietnami Sotsialistlik Vabariik"
+        ],
+        "cs": [
+          "Vietnamská socialistická republika",
+          "VSR"
+        ],
+        "sk": [
+          "Vietnamská socialistická republika"
+        ],
+        "pl": [
+          "Socjalistyczna Republika Wietnamu"
+        ],
+        "ro": [
+          "Viet Nam",
+          "Republica Socialistă Vietnam",
+          "VN",
+          "VIE",
+          "Viet-Nam",
+          "Viêtnam",
+          "Viêt-Nam"
+        ],
+        "ca": [
+          "República Socialista del Vietnam"
+        ],
+        "nl": [
+          "VN",
+          "VNM"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Вьетнам"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietname"
+        },
+        {
+          "def": "Виетнам"
+        },
+        {
+          "def": "Vietnamas"
+        },
+        {
+          "def": "Vjetnama"
+        },
+        {
+          "def": "Vijetnam"
+        },
+        {
+          "def": "Viêt Nam"
+        },
+        {
+          "def": "Vietnám"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vítneam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Βιετνάμ"
+        },
+        {
+          "def": "Vjetnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Wietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Vietnam"
+        ],
+        "ru": [
+          "Вьетнам"
+        ],
+        "fi": [
+          "Vietnam"
+        ],
+        "pt": [
+          "Vietname"
+        ],
+        "bg": [
+          "Виетнам"
+        ],
+        "lt": [
+          "Vietnamas"
+        ],
+        "lv": [
+          "Vjetnama"
+        ],
+        "hr": [
+          "Vijetnam"
+        ],
+        "fr": [
+          "Viêt Nam"
+        ],
+        "hu": [
+          "Vietnám"
+        ],
+        "sk": [
+          "Vietnam"
+        ],
+        "sl": [
+          "Vietnam"
+        ],
+        "ga": [
+          "Vítneam"
+        ],
+        "ca": [
+          "Vietnam"
+        ],
+        "sv": [
+          "Vietnam"
+        ],
+        "el": [
+          "Βιετνάμ"
+        ],
+        "mt": [
+          "Vjetnam"
+        ],
+        "en": [
+          "Vietnam"
+        ],
+        "it": [
+          "Vietnam"
+        ],
+        "es": [
+          "Vietnam"
+        ],
+        "et": [
+          "Vietnam"
+        ],
+        "eu": [
+          "Vietnam"
+        ],
+        "cs": [
+          "Vietnam"
+        ],
+        "pl": [
+          "Wietnam"
+        ],
+        "ro": [
+          "Vietnam"
+        ],
+        "da": [
+          "Vietnam"
+        ],
+        "nl": [
+          "Vietnam"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "16.0"
+      ],
+      "edmPlaceLongitude": [
+        "108.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2025874%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104314?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_104314",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_104314.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 34.70228,
+      "timestamp": 1752047495330,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "kudde, pillow"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_104322",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_104322",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104322?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A woven plaited mat used for sleeping, made in Vinh Phu province, Vietnam; this is a plausible traditional handwoven floor/sleeping mat consistent with Kinh (or general Vietnamese) craft, though the specific ethnicity can't be distinguished from the object alone.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "matta, mat, carpet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2337744%2F1978.18.0022.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "52e7b5bfe9ecf8071298f728dad75becc6f68576d28071f8273a2311e45f5e07",
+        "bytes": 31973,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\textile\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104322.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:25.730962+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Ur generalkatalogen: Matta, flätad, modern. En matta av liknande typ, ca 1,5 x 1,75 m, användes som sovmatta.",
+        "1978.18.0022",
+        "Vinh Phu-provinsen",
+        "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+        "Playground",
+        "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+        "Vietnam",
+        "Vietnameser",
+        "Kinh people"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Ur generalkatalogen: Matta, flätad, modern. En matta av liknande typ, ca 1,5 x 1,75 m, användes som sovmatta."
+        ],
+        "def": [
+          "1978.18.0022",
+          "Vinh Phu-provinsen",
+          "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+          "Playground",
+          "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+          "Vietnam",
+          "Vietnameser",
+          "Kinh people"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "matta, mat, carpet"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/124",
+        "http://data.europeana.eu/concept/2239"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Nahrung"
+        },
+        {
+          "def": "Teppich"
+        },
+        {
+          "def": "Ruoka"
+        },
+        {
+          "def": "Matto"
+        },
+        {
+          "def": "Пища"
+        },
+        {
+          "def": "Ковёр"
+        },
+        {
+          "def": "Alimento"
+        },
+        {
+          "def": "Tapete"
+        },
+        {
+          "def": "Храна"
+        },
+        {
+          "def": "Мокет"
+        },
+        {
+          "def": "Maistas"
+        },
+        {
+          "def": "Kilimas"
+        },
+        {
+          "def": "Hrana"
+        },
+        {
+          "def": "Tepih"
+        },
+        {
+          "def": "Pārtika"
+        },
+        {
+          "def": "Paklājs"
+        },
+        {
+          "def": "Nourriture"
+        },
+        {
+          "def": "Tapis"
+        },
+        {
+          "def": "Étel"
+        },
+        {
+          "def": "Szőnyeg"
+        },
+        {
+          "def": "Potrava"
+        },
+        {
+          "def": "Hrana"
+        },
+        {
+          "def": "Talna preproga"
+        },
+        {
+          "def": "Bia"
+        },
+        {
+          "def": "Cairpéad"
+        },
+        {
+          "def": "Aliment"
+        },
+        {
+          "def": "Catifa"
+        },
+        {
+          "def": "Mat"
+        },
+        {
+          "def": "Matta"
+        },
+        {
+          "def": "Τροφή"
+        },
+        {
+          "def": "Χαλί"
+        },
+        {
+          "def": "Ikel"
+        },
+        {
+          "def": "Food"
+        },
+        {
+          "def": "Carpet"
+        },
+        {
+          "def": "Alimento"
+        },
+        {
+          "def": "Tappeto"
+        },
+        {
+          "def": "Alimento"
+        },
+        {
+          "def": "Alfombra"
+        },
+        {
+          "def": "Toit"
+        },
+        {
+          "def": "Vaip"
+        },
+        {
+          "def": "Potravina"
+        },
+        {
+          "def": "Koberec"
+        },
+        {
+          "def": "Janari"
+        },
+        {
+          "def": "Tapiz"
+        },
+        {
+          "def": "Żywność"
+        },
+        {
+          "def": "Dywan"
+        },
+        {
+          "def": "Mad"
+        },
+        {
+          "def": "Gulvtæppe"
+        },
+        {
+          "def": "Mâncare"
+        },
+        {
+          "def": "Covor"
+        },
+        {
+          "def": "Voedsel"
+        },
+        {
+          "def": "Tapijt"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Nahrung",
+          "Teppich"
+        ],
+        "fi": [
+          "Matto",
+          "Ruoka"
+        ],
+        "ru": [
+          "Ковёр",
+          "Пища"
+        ],
+        "pt": [
+          "Tapete",
+          "Alimento"
+        ],
+        "bg": [
+          "Мокет",
+          "Храна"
+        ],
+        "lt": [
+          "Kilimas",
+          "Maistas"
+        ],
+        "hr": [
+          "Hrana",
+          "Tepih"
+        ],
+        "lv": [
+          "Pārtika",
+          "Paklājs"
+        ],
+        "fr": [
+          "Tapis",
+          "Nourriture"
+        ],
+        "hu": [
+          "Szőnyeg",
+          "Étel"
+        ],
+        "sk": [
+          "Potrava"
+        ],
+        "sl": [
+          "Hrana",
+          "Talna preproga"
+        ],
+        "ga": [
+          "Cairpéad",
+          "Bia"
+        ],
+        "ca": [
+          "Aliment",
+          "Catifa"
+        ],
+        "sv": [
+          "Mat",
+          "Matta"
+        ],
+        "el": [
+          "Χαλί",
+          "Τροφή"
+        ],
+        "mt": [
+          "Ikel"
+        ],
+        "en": [
+          "Carpet",
+          "Food"
+        ],
+        "it": [
+          "Tappeto",
+          "Alimento"
+        ],
+        "es": [
+          "Alfombra",
+          "Alimento"
+        ],
+        "et": [
+          "Toit",
+          "Vaip"
+        ],
+        "cs": [
+          "Potravina",
+          "Koberec"
+        ],
+        "eu": [
+          "Janari",
+          "Tapiz"
+        ],
+        "pl": [
+          "Żywność",
+          "Dywan"
+        ],
+        "da": [
+          "Mad",
+          "Gulvtæppe"
+        ],
+        "ro": [
+          "Mâncare",
+          "Covor"
+        ],
+        "nl": [
+          "Voedsel",
+          "Tapijt"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/104322"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2337744/1978.18.0022.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Социалистическая Республика Вьетнам"
+        },
+        {
+          "def": "Vietnamin sosialistinen tasavalta"
+        },
+        {
+          "def": "Socialistiska republiken Vietnam"
+        },
+        {
+          "def": "República Socialista do Vietname"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Republica Socialista do Vietname"
+        },
+        {
+          "def": "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        },
+        {
+          "def": "Repubblika Soċjalista tal-Vjetnam"
+        },
+        {
+          "def": "Socialist Republic of Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "SRV"
+        },
+        {
+          "def": "VNM"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "La République socialiste du Vietnam"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Vietnámi Szocialista Köztársaság"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "República Socialista de Vietnam"
+        },
+        {
+          "def": "Republica Socialista de Vietnam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnami Sotsialistlik Vabariik"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "VSR"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "Socjalistyczna Republika Wietnamu"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Republica Socialistă Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "República Socialista del Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VNM"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "VN"
+        ],
+        "ru": [
+          "Социалистическая Республика Вьетнам"
+        ],
+        "fi": [
+          "Vietnamin sosialistinen tasavalta"
+        ],
+        "sv": [
+          "Socialistiska republiken Vietnam"
+        ],
+        "pt": [
+          "República Socialista do Vietname",
+          "Việt Nam",
+          "Republica Socialista do Vietname"
+        ],
+        "el": [
+          "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        ],
+        "mt": [
+          "Repubblika Soċjalista tal-Vjetnam"
+        ],
+        "en": [
+          "Socialist Republic of Vietnam",
+          "VN",
+          "VIE",
+          "Việt Nam",
+          "Viet Nam",
+          "SRV",
+          "VNM"
+        ],
+        "it": [
+          "VN"
+        ],
+        "fr": [
+          "Viet Nam",
+          "Vietnam",
+          "Viet-Nam",
+          "Viêt-Nam",
+          "Viêtnam",
+          "VN",
+          "La République socialiste du Vietnam",
+          "Việt Nam"
+        ],
+        "hu": [
+          "Vietnámi Szocialista Köztársaság",
+          "Vietnam"
+        ],
+        "es": [
+          "República Socialista de Vietnam",
+          "Republica Socialista de Vietnam",
+          "Viet Nam"
+        ],
+        "et": [
+          "Vietnami Sotsialistlik Vabariik"
+        ],
+        "cs": [
+          "Vietnamská socialistická republika",
+          "VSR"
+        ],
+        "sk": [
+          "Vietnamská socialistická republika"
+        ],
+        "pl": [
+          "Socjalistyczna Republika Wietnamu"
+        ],
+        "ro": [
+          "Viet Nam",
+          "Republica Socialistă Vietnam",
+          "VN",
+          "VIE",
+          "Viet-Nam",
+          "Viêtnam",
+          "Viêt-Nam"
+        ],
+        "ca": [
+          "República Socialista del Vietnam"
+        ],
+        "nl": [
+          "VN",
+          "VNM"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Вьетнам"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietname"
+        },
+        {
+          "def": "Виетнам"
+        },
+        {
+          "def": "Vietnamas"
+        },
+        {
+          "def": "Vjetnama"
+        },
+        {
+          "def": "Vijetnam"
+        },
+        {
+          "def": "Viêt Nam"
+        },
+        {
+          "def": "Vietnám"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vítneam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Βιετνάμ"
+        },
+        {
+          "def": "Vjetnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Wietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Vietnam"
+        ],
+        "ru": [
+          "Вьетнам"
+        ],
+        "fi": [
+          "Vietnam"
+        ],
+        "pt": [
+          "Vietname"
+        ],
+        "bg": [
+          "Виетнам"
+        ],
+        "lt": [
+          "Vietnamas"
+        ],
+        "lv": [
+          "Vjetnama"
+        ],
+        "hr": [
+          "Vijetnam"
+        ],
+        "fr": [
+          "Viêt Nam"
+        ],
+        "hu": [
+          "Vietnám"
+        ],
+        "sk": [
+          "Vietnam"
+        ],
+        "sl": [
+          "Vietnam"
+        ],
+        "ga": [
+          "Vítneam"
+        ],
+        "ca": [
+          "Vietnam"
+        ],
+        "sv": [
+          "Vietnam"
+        ],
+        "el": [
+          "Βιετνάμ"
+        ],
+        "mt": [
+          "Vjetnam"
+        ],
+        "en": [
+          "Vietnam"
+        ],
+        "it": [
+          "Vietnam"
+        ],
+        "es": [
+          "Vietnam"
+        ],
+        "et": [
+          "Vietnam"
+        ],
+        "eu": [
+          "Vietnam"
+        ],
+        "cs": [
+          "Vietnam"
+        ],
+        "pl": [
+          "Wietnam"
+        ],
+        "ro": [
+          "Vietnam"
+        ],
+        "da": [
+          "Vietnam"
+        ],
+        "nl": [
+          "Vietnam"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "16.0"
+      ],
+      "edmPlaceLongitude": [
+        "108.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2337744%2F1978.18.0022.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104322?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_104322",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_104322.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 33.831215,
+      "timestamp": 1752047496421,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "matta, mat, carpet"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

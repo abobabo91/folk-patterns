@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1979-01-1241",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1979-01-1241",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-01-1241",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1979.01.1241",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Obolo",
+      "tradition": "Obolo",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a horseshoe-shaped brass manilla currency bracelet with flattened trumpet-like ends, a well-known West African trade currency form used and made by the Obolo and neighboring Niger Delta peoples, matching the claimed ethnicity and metalwork category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "manilla; currency; bracelet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "manilla; currency; bracelet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Manilla currency.\r\nHorse-shoe shaped, made of open circle of brass with flattened ends at opening.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/62e040f8_3b3b_48cf_aa62_a3be0119972a/preview_00448491_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "155de2db571c2df2d491195c89d423b3bb6497e6ad99a385340005e57ea04ae2",
+        "bytes": 82250,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\obolo\\metalwork\\obolo\\images\\bm_E_Af1979_01_1241.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T13:24:32.596411+00:00",
+    "raw": {
+      "title": "manilla; currency; bracelet",
+      "description": "Manilla currency.\r\nHorse-shoe shaped, made of open circle of brass with flattened ends at opening.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/62e040f8_3b3b_48cf_aa62_a3be0119972a/preview_00448491_001.jpg",
+      "production_ethnic_groups": [
+        "Obolo"
+      ],
+      "production_ethnic_attribution": "Made by: Obolo"
+    }
+  }
+]

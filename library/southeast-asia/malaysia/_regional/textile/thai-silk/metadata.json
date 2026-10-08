@@ -1,0 +1,646 @@
+[
+  {
+    "id": "va-O364428",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O364428",
+      "object_url": "https://collections.vam.ac.uk/item/O364428",
+      "iiif_manifest": null,
+      "credit_line": "Given by Mr H.V. Gilpin",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "T.167-1991",
+      "accession_year": 1991
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "_regional",
+      "tradition": "Thai silk",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": false,
+      "vision_reason": "The item is a plain silk cummerbund explicitly described as Thai silk, not a Malaysian-made textile; the museum's own metadata identifies the wrong culture for a \"Malaysia_regional\" claim.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "reattribution": {
+        "to": "southeast-asia__thailand__thai",
+        "people": "Thai",
+        "belongs": true,
+        "art_form": "garment",
+        "image": "good",
+        "era": "traditional",
+        "reason": "The image shows a red silk cummerbund/sash garment made of Thai silk, a wearable item consistent with Thai dress traditions, though this appears to be a Western-style tailored accessory made from Thai silk fabric rather than traditional Thai attire itself."
+      }
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1950s",
+      "date_earliest": 1950,
+      "date_latest": 1959,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk",
+      "classification": "Cummerbund",
+      "styles": [],
+      "categories": [
+        "Accessories",
+        "Fashion",
+        "Men's clothes"
+      ],
+      "physical_description": "Cummerbund of Thai silk.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Singapore",
+      "made_in_place_alt": [],
+      "current_gallery": "010",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "R",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "e",
+        "d",
+        " ",
+        "F",
+        "i",
+        "l",
+        "e",
+        " ",
+        "n",
+        "u",
+        "m",
+        "b",
+        "e",
+        "r",
+        " ",
+        "1",
+        "9",
+        "9",
+        "1",
+        "/",
+        "1",
+        "4",
+        "1",
+        "6",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019LL4288/full/1000,/0/default.jpg",
+        "iiif_id": "2019LL4288",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019LL4288/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "df643915ce3548d8fb0cb06d4084c100e32dc343c9c07635db116f1f714ff6e4",
+        "bytes": 84641,
+        "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\thai-silk\\images\\va_O364428.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:26:15.349569+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O364428",
+        "accessionNumber": "T.167-1991",
+        "objectType": "Cummerbund",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES306484",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2019LL4288",
+        "_primaryDate": "1950s",
+        "_primaryPlace": "Singapore",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2019LL4288/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2019LL4288/",
+          "_iiif_presentation_url": null,
+          "imageResolution": "low"
+        }
+      },
+      "deep": {
+        "systemNumber": "O364428",
+        "accessionNumber": "T.167-1991",
+        "objectType": "Cummerbund",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Cummerbund of Thai silk.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [],
+        "materialsAndTechniques": "Silk",
+        "categories": [
+          {
+            "text": "Accessories",
+            "id": "THES48998"
+          },
+          {
+            "text": "Fashion",
+            "id": "THES48957"
+          },
+          {
+            "text": "Men's clothes",
+            "id": "THES49043"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "T&F",
+          "id": "THES48601"
+        },
+        "images": [
+          "2019LL4288"
+        ],
+        "imageResolution": "low",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "010",
+              "id": "THES306484"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Cummerbund",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Singapore",
+              "id": "x30057"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1950s",
+              "earliest": "1950-01-01",
+              "latest": "1959-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Given by Mr H.V. Gilpin",
+        "dimensions": [],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Registered File number 1991/1416.",
+        "historicalContext": "",
+        "briefDescription": "Cummerbund of Thai silk, made in Singapore, 1950s",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "T.167-1991"
+        ],
+        "accessionNumberNum": "167",
+        "accessionNumberPrefix": "T",
+        "accessionYear": 1991,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-11",
+        "recordCreationDate": "2009-06-24",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O364427",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O364427",
+      "object_url": "https://collections.vam.ac.uk/item/O364427",
+      "iiif_manifest": null,
+      "credit_line": "Given by Mr H.V. Gilpin",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "T.166-1991",
+      "accession_year": 1991
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "_regional",
+      "tradition": "Thai silk",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": false,
+      "vision_reason": "This is a mass-produced, machine-made Western-style bow tie with adjustable-size labeling in English, made of Thai silk — a Western garment form using Thai silk fabric, not a Malaysian regional textile or dress item.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment",
+      "reattribution": {
+        "to": "southeast-asia__thailand__thai",
+        "people": "Thai",
+        "belongs": false,
+        "art_form": "garment",
+        "image": "good",
+        "era": "modern",
+        "reason": "This is a Western-style bow tie made of Thai silk fabric, a Western garment form manufactured using material from Thailand rather than a traditional Thai-made or worn item; it reflects industrial commercial production, not ethnic dress."
+      }
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1950s",
+      "date_earliest": 1950,
+      "date_latest": 1959,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "silk (textile)"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk",
+      "classification": "Bow tie",
+      "styles": [],
+      "categories": [
+        "Accessories",
+        "Fashion",
+        "Men's clothes"
+      ],
+      "physical_description": "Bow tie of Thai silk.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Singapore",
+      "made_in_place_alt": [],
+      "current_gallery": "010",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "R",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "e",
+        "d",
+        " ",
+        "F",
+        "i",
+        "l",
+        "e",
+        " ",
+        "n",
+        "u",
+        "m",
+        "b",
+        "e",
+        "r",
+        " ",
+        "1",
+        "9",
+        "9",
+        "1",
+        "/",
+        "1",
+        "4",
+        "1",
+        "6",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019LL4279/full/1000,/0/default.jpg",
+        "iiif_id": "2019LL4279",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019LL4279/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "b56eaaa157c12d823d1602564ac2511b7a755734263bd2fc6150d04a6a4d1a90",
+        "bytes": 95516,
+        "local_path": "library\\southeast-asia\\malaysia\\_regional\\textile\\thai-silk\\images\\va_O364427.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:26:17.451651+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O364427",
+        "accessionNumber": "T.166-1991",
+        "objectType": "Bow tie",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES306484",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2019LL4279",
+        "_primaryDate": "1950s",
+        "_primaryPlace": "Singapore",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2019LL4279/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2019LL4279/",
+          "_iiif_presentation_url": null,
+          "imageResolution": "low"
+        }
+      },
+      "deep": {
+        "systemNumber": "O364427",
+        "accessionNumber": "T.166-1991",
+        "objectType": "Bow tie",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Bow tie of Thai silk.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "silk (textile)",
+            "id": "AAT243428"
+          }
+        ],
+        "techniques": [],
+        "materialsAndTechniques": "Silk",
+        "categories": [
+          {
+            "text": "Accessories",
+            "id": "THES48998"
+          },
+          {
+            "text": "Fashion",
+            "id": "THES48957"
+          },
+          {
+            "text": "Men's clothes",
+            "id": "THES49043"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "T&F",
+          "id": "THES48601"
+        },
+        "images": [
+          "2019LL4279"
+        ],
+        "imageResolution": "low",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "010",
+              "id": "THES306484"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Bow tie",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Singapore",
+              "id": "x30057"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1950s",
+              "earliest": "1950-01-01",
+              "latest": "1959-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Given by Mr H.V. Gilpin",
+        "dimensions": [],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Registered File number 1991/1416.",
+        "historicalContext": "",
+        "briefDescription": "Bow tie of Thai silk, made in Singapore, 1950s",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "T.166-1991"
+        ],
+        "accessionNumberNum": "166",
+        "accessionNumberPrefix": "T",
+        "accessionYear": 1991,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-22",
+        "recordCreationDate": "2009-06-24",
+        "availableToBook": true
+      }
+    }
+  }
+]

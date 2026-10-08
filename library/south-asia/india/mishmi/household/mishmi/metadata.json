@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1919-1219-18",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1919-1219-18",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1919-1219-18",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1919.1219.18",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "south-asia",
+      "country": "India",
+      "ethnicity": "Mishmi",
+      "tradition": "Mishmi",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A handheld fan made of animal skin/fur with attached feathers, attributed to the Mishmi — a plausible traditional household/utility object using local materials for this Northeast Indian hill people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "fan",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "fan",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Fan made of skin, feather.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/41743c6a_8788_4851_978e_a3da011491b4/preview_01217282_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eee90a3728e320e4d102c2f9b064fd09a69f077b23de176c4df5b9184ef702da",
+        "bytes": 84724,
+        "local_path": "library\\south-asia\\india\\mishmi\\household\\mishmi\\images\\bm_A_As1919_1219_18.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:09:09.532212+00:00",
+    "raw": {
+      "title": "fan",
+      "description": "Fan made of skin, feather.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/5_16/41743c6a_8788_4851_978e_a3da011491b4/preview_01217282_001.jpg",
+      "production_ethnic_groups": [
+        "Mishmi"
+      ],
+      "production_ethnic_attribution": "Made by: Mishmi"
+    }
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "id": "va-O105395",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O105395",
+      "object_url": "https://collections.vam.ac.uk/item/O105395",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "1286-1893",
+      "accession_year": 1893
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Uzbekistan",
+      "ethnicity": "Uzbek",
+      "tradition": "Samarkand tile",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "architectural",
+      "vision_reason": "A carved earthenware tile with turquoise glazed calligraphy set in raised terracotta arabesque, from Samarkand — a classic Timurid-era architectural tile of the kind produced in the Central Asian region now Uzbekistan; this is an architectural fragment rather than a painting/manuscript.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "archaeological"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1380-1420",
+      "date_earliest": 1375,
+      "date_latest": 1420,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Earthenware",
+      "classification": "Tile",
+      "styles": [],
+      "categories": [
+        "Ceramics",
+        "Earthenware",
+        "Tiles"
+      ],
+      "physical_description": "Earthenware tile with turquoise calligraphy",
+      "summary": "The ancient traditions of unglazed and turquoise-glazed ceramics are here used side by side. The tile is from an architectural frieze. The colour contrast makes the fragment of text legible, even though the first two letters (reading left to right) have been twisted into a symmetrical knot.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Height",
+          "value": "34",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "26",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Samarkand",
+      "made_in_place_alt": [],
+      "current_gallery": "42 (VA)",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BB1738/full/1000,/0/default.jpg",
+        "iiif_id": "2006BB1738",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BB1738/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "fef64312127e1c57ece544bf6f64c8bc75bea540b334105fbff6194737c2d0e4",
+        "bytes": 353658,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\samarkand-tile\\images\\va_O105395.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017JU6350/full/1000,/0/default.jpg",
+        "iiif_id": "2017JU6350",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017JU6350/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "7f8e87102b6897bb4f923b8488ae7dd538d4ddc1d91e90fa4178f37711c9af10",
+        "bytes": 233075,
+        "local_path": "library\\central-asia\\uzbekistan\\uzbek\\painting-mss\\samarkand-tile\\images\\va_O105395_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:25:30.574422+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O105395",
+        "accessionNumber": "1286-1893",
+        "objectType": "Tile",
+        "availableToBook": false,
+        "_currentLocation": {
+          "id": "THES49806",
+          "displayName": "Islamic Middle East, Room 42, The Jameel Gallery",
+          "type": "display",
+          "site": "VA",
+          "onDisplay": true,
+          "detail": {
+            "free": "",
+            "case": "WE2",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006BB1738",
+        "_primaryDate": "ca. 1380-1420",
+        "_primaryPlace": "Samarkand",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BB1738/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BB1738/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O105395/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O105395",
+        "accessionNumber": "1286-1893",
+        "objectType": "Tile",
+        "titles": [],
+        "summaryDescription": "The ancient traditions of unglazed and turquoise-glazed ceramics are here used side by side. The tile is from an architectural frieze. The colour contrast makes the fragment of text legible, even though the first two letters (reading left to right) have been twisted into a symmetrical knot.",
+        "physicalDescription": "Earthenware tile with turquoise calligraphy",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [],
+        "techniques": [],
+        "materialsAndTechniques": "Earthenware",
+        "categories": [
+          {
+            "text": "Ceramics",
+            "id": "THES48982"
+          },
+          {
+            "text": "Earthenware",
+            "id": "THES48964"
+          },
+          {
+            "text": "Tiles",
+            "id": "THES48884"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "MES",
+          "id": "THES48607"
+        },
+        "images": [
+          "2006BB1738",
+          "2017JU6350"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "42 (VA)",
+              "id": "THES49806"
+            },
+            "free": "",
+            "case": "WE2",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Frieze part",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Samarkand",
+              "id": "x36446"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "probably"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1380-1420",
+              "earliest": "1375-01-01",
+              "latest": "1420-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Height",
+            "value": "34",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "26",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Carved earthenware tile with turquoise-glazed calligraphy, Uzbekistan, 1380-1420.",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [
+          {
+            "text": "Jameel Gallery \r\n\r\nTile with Knotted Letters\r\nUzbekistan\r\n1380-1420\r\n\r\nThe ancient traditions of unglazed and turquoise-glazed ceramics are here used side by side. The tile is from an architectural frieze. The colour contrast makes the fragment of text legible, even though the first two letters (reading left to right) have been twisted into a symmetrical knot.\r\n\r\nCarved earthenware and coloured glaze\r\n\r\nMuseum no. 1286-1893",
+            "date": {
+              "text": "2006",
+              "earliest": "2006-01-01",
+              "latest": "2006-12-31"
+            }
+          }
+        ],
+        "partNumbers": [
+          "1286-1893"
+        ],
+        "accessionNumberNum": "1286",
+        "accessionNumberPrefix": "",
+        "accessionYear": 1893,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [
+          "2019LR2629",
+          "2019LR5041",
+          "2019LR4024",
+          "2019LT2972",
+          "2019LU2784",
+          "2019LU1581"
+        ],
+        "recordModificationDate": "2025-04-15",
+        "recordCreationDate": "2004-09-16",
+        "availableToBook": false
+      }
+    }
+  }
+]

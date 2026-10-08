@@ -1,0 +1,298 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1019661",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1019661",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1019661?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Dakota",
+      "tradition": "Dakota",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A hide knife sheath with quilled geometric decoration (porcupine-quill mosaic), attributed to Dakota in the museum's catalogue notes; this matches known Plains/Dakota quillwork traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1332137/1854.02.0024.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d953f5d5d72369cc163db603555b287c5a470f821bf08ecc5ee6fe0bdd44b1d8",
+        "bytes": 33969,
+        "local_path": "library\\north-america\\united-states\\dakota\\household\\dakota\\images\\eu_91619_SMVK_EM_objekt_1019661.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1332137%2F1854.02.0024.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:52:04.190550+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1019661",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1019661?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau",
+        "knife slide, knife sheath [[Etno]], case [[Etno], étui de couteau",
+        "knivslida, fodral, knife sheath [[Etno]], case [[Etno]], étui de couteau"
+      ],
+      "dcDescription": [
+        "1854.02.0024 United States Amerika Knivslida av beredd hud. På ena sidan prydd med ett slags mosaikarbete av uppträdda färgade bitar av taggar av Erethizon. (Enl. generalkatalogen.)\n\nSkydd till vapen tillverkades ofta, vilket även gällde \"moderna\" vapen som gevär och dess ammunition för att hålla vapen och ammunition torrt. Tillverkandet och utsmyckningen till vapenbehållare/-fodral tillhörde en gammal tradition./SB, ASH [[Etno]] av beredd hud. På ena sidan prydd med ett slags mosalkarbeteav uppträdda färgade bitar av taggar av Erethizon. Orig.nr. 1320. Anseboin Dakota Enl. Douglas: Liksom nr."
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1332137%2F1854.02.0024.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1332137/1854.02.0024.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-E_Am1981-Q-1984",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1981-Q-1984",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1981-Q-1984",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1981.Q.1984",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Dakota",
+      "tradition": "Dakota",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a bone scraper/tool with a worked handle and toothed edge, a traditional household implement attributed to the Dakota; this is a plausible utilitarian object type for the culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "scraper",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "scraper",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Scraper made of bone.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/17_16/58b5ce58_8aa3_4e85_89ed_a9b90114da06/preview_am1981_q_1984__a_.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6672566b5dd306676fcf8c70770b5d3991e7dfe40302e3795d5bb3b65c9614ab",
+        "bytes": 28184,
+        "local_path": "library\\north-america\\united-states\\dakota\\household\\dakota\\images\\bm_E_Am1981_Q_1984.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:52:04.782376+00:00",
+    "raw": {
+      "title": "scraper",
+      "description": "Scraper made of bone.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_12/17_16/58b5ce58_8aa3_4e85_89ed_a9b90114da06/preview_am1981_q_1984__a_.jpg",
+      "production_ethnic_groups": [
+        "Dakota"
+      ],
+      "production_ethnic_attribution": "Made by: Dakota"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1994-13-125",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1994-13-125",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1994-13-125",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1994.13.125",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Guatemala",
+      "ethnicity": "Q'eqchi'",
+      "tradition": "Q'eqchi'",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a netted fibre carrying-bag with handle, matching the museum's attribution to Kekchi (Q'eqchi') makers — a traditional utilitarian craft item consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bag",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bag",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Carrying-bag; made of netted fibre; rounded bag with loop in one upper corner, handle extending from opposite upper corner and tied to loop.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/a739db22_12c4_4a2d_86bc_a3ba012024c3/preview_00244837_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "18f76b351dd62dbd387d530a0ac9a878f7f0ddb03e7039a68fd49f721551bbc4",
+        "bytes": 23756,
+        "local_path": "library\\latin-america\\guatemala\\q-eqchi\\household\\q-eqchi\\images\\bm_E_Am1994_13_125.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T01:32:23.041201+00:00",
+    "raw": {
+      "title": "bag",
+      "description": "Carrying-bag; made of netted fibre; rounded bag with loop in one upper corner, handle extending from opposite upper corner and tied to loop.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/a739db22_12c4_4a2d_86bc_a3ba012024c3/preview_00244837_001.jpg",
+      "production_ethnic_groups": [
+        "Kekchi"
+      ],
+      "production_ethnic_attribution": "Made by: Kekchi"
+    }
+  }
+]

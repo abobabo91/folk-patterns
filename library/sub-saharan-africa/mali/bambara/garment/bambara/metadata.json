@@ -1,0 +1,596 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_59855",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_59855",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59855?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mali",
+      "ethnicity": "Bambara",
+      "tradition": "Bambara",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A poncho-style cotton garment with classic bogolan (mud-cloth) resist-dyed geometric patterning in dark brown and white, a technique and dress form strongly associated with the Bambara/Bamana of the Segou region of Mali, matching the record's provenance.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "klädnad",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2341495/1965.15.0005.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d33d613eec3eb250782dae2a2794f3e0db8c3c99fd6f81175fcef8602258c50a",
+        "bytes": 163384,
+        "local_path": "library\\sub-saharan-africa\\mali\\bambara\\garment\\bambara\\images\\eu_91608_SMVK_VKM_objekt_59855.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2341495%2F1965.15.0005.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:33:20.339614+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_59855",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_59855?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "klädnad"
+      ],
+      "dcDescription": [
+        "1965.15.0005 Mali: Segou Mali: Segou Mali: Segou. [[Haga]] skiss Case 4: Bogolan and Indigo Horisonter - Mali Marie O'Connor Konstfack low waste/zero waste Mali Banmani Bambara Bambara ethinicity Banmana tyg Klädnad av ponchotyp. Av bomullstyg. Mönstring i mörkbrunt (bottenfärg). Mönstringen har erhållits genom ett utsparningsförfarande. detta har liknats vid etsning. Klädnadens hela längd: 185 cm, bredd:90 cm\nFör litteratur se:\nElsy Leuzinger: Afrikanische Skulpturen (im Museum Rietberg), Zurich, U. år Pp. 38f.\nUtFörfarandet beskrivs som \"discharge method\" i: Margaret Trowell: African Design,"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2341495%2F1965.15.0005.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2341495/1965.15.0005.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Mali"
+        },
+        {
+          "def": "Sweden"
+        },
+        {
+          "def": "Mali"
+        },
+        {
+          "def": "Suède"
+        },
+        {
+          "def": "Mali"
+        },
+        {
+          "def": "Zweden"
+        },
+        {
+          "def": "Schweden"
+        },
+        {
+          "def": "Ruotsi"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Suécia"
+        },
+        {
+          "def": "Швеция"
+        },
+        {
+          "def": "Švedija"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "Zviedrija"
+        },
+        {
+          "def": "Svédország"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Švedska"
+        },
+        {
+          "def": "An tSualainn"
+        },
+        {
+          "def": "Suècia"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Σουηδία"
+        },
+        {
+          "def": "Żvezja"
+        },
+        {
+          "def": "Svezia"
+        },
+        {
+          "def": "Suecia"
+        },
+        {
+          "def": "Rootsi"
+        },
+        {
+          "def": "Švédsko"
+        },
+        {
+          "def": "Suedia"
+        },
+        {
+          "def": "Szwecja"
+        },
+        {
+          "def": "Sverige"
+        },
+        {
+          "def": "Suedia"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-E_2018-2036-359",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_2018-2036-359",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_2018-2036-359",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,2018.2036.359",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mali",
+      "ethnicity": "Bambara",
+      "tradition": "Bambara",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a discharge-dyed (bogolan-style) cotton wrapper cloth with dense geometric symbols, a classic Bamana (Bambara) women's textile technique and pattern vocabulary; the museum confirms maker as Bamana.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "wrapper",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "wrapper",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Woman&#039;s wrapper. Single width, natural-coloured cotton warp and weft, discharge-dyed brown. Densely arranged geometric and abstract patterns throughout, no borders. Loose warp thread fringes at both ends.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/13_14/6b4649cb_4110_4f70_bbbb_aef000ed7a34/preview_2018_2036_359_F.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "62df3aa56543b9884a71a631d2ba00e249d4ced1e5dd46d5a5d696049e453901",
+        "bytes": 124541,
+        "local_path": "library\\sub-saharan-africa\\mali\\bambara\\garment\\bambara\\images\\bm_E_2018_2036_359.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:33:21.182101+00:00",
+    "raw": {
+      "title": "wrapper",
+      "description": "Woman&#039;s wrapper. Single width, natural-coloured cotton warp and weft, discharge-dyed brown. Densely arranged geometric and abstract patterns throughout, no borders. Loose warp thread fringes at both ends.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/13_14/6b4649cb_4110_4f70_bbbb_aef000ed7a34/preview_2018_2036_359_F.jpg",
+      "production_ethnic_groups": [
+        "Bamana"
+      ],
+      "production_ethnic_attribution": "Made by: Bamana"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1987-07-21-a",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1987-07-21-a",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1987-07-21-a",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1987.07.21.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mali",
+      "ethnicity": "Bambara",
+      "tradition": "Bambara",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A hand-woven strip-cloth masquerade garment with wax-resist (mud-cloth style) zig-zag decorated side panels, attributed by the museum to Bamana makers — a classic Bambara textile form (bogolanfini-related masquerade costume).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "masquerade-costume; garment",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "masquerade-costume; garment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Masquerade costume made of cotton: composed of 22 hand woven plain weave narrow strips hand sewn together selvedge to selvedge. The garment is square with a draw string neckline and sleeves and two &#039;sleeves&#039; at the bottom two corners for legs. The garment is dyed burnt orange with a panel running down each side which is decorated with wax resist dyed zig-zags on a brown background.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_21/7e3d3dbf_27cb_45a0_8c0b_a3be0168032e/preview_00472976_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1712b8579730e4245e0ed7e2e26da581036325f7eab1c7f2c61eba7aae9fcc84",
+        "bytes": 56298,
+        "local_path": "library\\sub-saharan-africa\\mali\\bambara\\garment\\bambara\\images\\bm_E_Af1987_07_21_a.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:33:21.766925+00:00",
+    "raw": {
+      "title": "masquerade-costume; garment",
+      "description": "Masquerade costume made of cotton: composed of 22 hand woven plain weave narrow strips hand sewn together selvedge to selvedge. The garment is square with a draw string neckline and sleeves and two &#039;sleeves&#039; at the bottom two corners for legs. The garment is dyed burnt orange with a panel running down each side which is decorated with wax resist dyed zig-zags on a brown background.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_21/7e3d3dbf_27cb_45a0_8c0b_a3be0168032e/preview_00472976_001.jpg",
+      "production_ethnic_groups": [
+        "Bamana"
+      ],
+      "production_ethnic_attribution": "Made by: Bamana"
+    }
+  },
+  {
+    "id": "british_museum-E_2018-2036-358",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_2018-2036-358",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_2018-2036-358",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,2018.2036.358",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mali",
+      "ethnicity": "Bambara",
+      "tradition": "Bambara",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a classic Bamana mudcloth (bogolanfini) woman's wrapper, hand-woven strip cloth with dark dyed ground and geometric white motifs, plus the unusual metal-strip embroidery detail confirming a specific traditional garment attributed directly to Bamana makers by the museum.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "wrapper",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "wrapper",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Woman&#039;s wrapper, textile; woven in eight strips hand sewn together. Hand spun cotton warp and weft, dyed brown. Embroidered using strips of recycled sardine tins couched onto surface of cloth with cotton thread. Four deep borders and central design  of wavy lines. Loose warp thread fringes at both ends.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/13_14/e53f6b97_903d_4d81_a237_aef000ec980b/preview_2018_2036_358_F.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a6b794acfa5b8bfa724078c2847d0232ea1b7f8656cbb949ab56aaa5ec55328c",
+        "bytes": 63742,
+        "local_path": "library\\sub-saharan-africa\\mali\\bambara\\garment\\bambara\\images\\bm_E_2018_2036_358.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:33:22.587369+00:00",
+    "raw": {
+      "title": "wrapper",
+      "description": "Woman&#039;s wrapper, textile; woven in eight strips hand sewn together. Hand spun cotton warp and weft, dyed brown. Embroidered using strips of recycled sardine tins couched onto surface of cloth with cotton thread. Four deep borders and central design  of wavy lines. Loose warp thread fringes at both ends.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/13_14/e53f6b97_903d_4d81_a237_aef000ec980b/preview_2018_2036_358_F.jpg",
+      "production_ethnic_groups": [
+        "Bamana"
+      ],
+      "production_ethnic_attribution": "Made by: Bamana"
+    }
+  },
+  {
+    "id": "british_museum-E_2018-2036-360",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_2018-2036-360",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_2018-2036-360",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,2018.2036.360",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mali",
+      "ethnicity": "Bambara",
+      "tradition": "Bambara",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A hand-woven strip-loom cotton wrapper cloth, discharge-dyed with concentric oval wave patterns in brown and white — a classic Bamana (Bambara) textile technique and design type.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "wrapper",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "wrapper",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Woman&#039;s wrapper. Single width, hand spun natural-coloured cotton warp and weft, discharge-dyed brown. Repeating pattern of concentric ovals in wave design in brown and white. Loose warp thread fringes at both ends.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/13_14/1da8a7b3_1f02_4a0f_a6c3_aef000eee12f/preview_2018_2036_360_F.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "34dda9c6ed43360001f3db5e41f337b6f1070ef3b775fb471a4e252cd3719f9d",
+        "bytes": 78608,
+        "local_path": "library\\sub-saharan-africa\\mali\\bambara\\garment\\bambara\\images\\bm_E_2018_2036_360.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:33:23.157157+00:00",
+    "raw": {
+      "title": "wrapper",
+      "description": "Woman&#039;s wrapper. Single width, hand spun natural-coloured cotton warp and weft, discharge-dyed brown. Repeating pattern of concentric ovals in wave design in brown and white. Loose warp thread fringes at both ends.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_8/13_14/1da8a7b3_1f02_4a0f_a6c3_aef000eee12f/preview_2018_2036_360_F.jpg",
+      "production_ethnic_groups": [
+        "Bamana"
+      ],
+      "production_ethnic_attribution": "Made by: Bamana"
+    }
+  }
+]

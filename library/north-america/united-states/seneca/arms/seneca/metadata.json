@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am-5486",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am-5486",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am-5486",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am.5486",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Seneca",
+      "tradition": "Seneca",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows classic gunstock-style war clubs with curved wooden bodies, ball/knob heads, and iron blades or spikes set into the stock — a well-documented Iroquoian (including Seneca) weapon form, consistent with the museum's attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "club",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "club",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Gunstock club made of wood, ornamented with brass nails, and with a pointed flat iron blade.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_9/28e363c9_bfc4_4a53_ba7c_a3b6009857df/preview_00187049_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b66bfa1c8e1dd351c5d726f44f3a16fb190d135786d07b6d459520ab221015b1",
+        "bytes": 19601,
+        "local_path": "library\\north-america\\united-states\\seneca\\arms\\seneca\\images\\bm_E_Am_5486.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:43:45.152694+00:00",
+    "raw": {
+      "title": "club",
+      "description": "Gunstock club made of wood, ornamented with brass nails, and with a pointed flat iron blade.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_9/28e363c9_bfc4_4a53_ba7c_a3b6009857df/preview_00187049_001.jpg",
+      "production_ethnic_groups": [
+        "Seneca"
+      ],
+      "production_ethnic_attribution": "Made by: Seneca"
+    }
+  }
+]

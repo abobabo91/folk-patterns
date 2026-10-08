@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1907-0528-405",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1907-0528-405",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1907-0528-405",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1907.0528.405",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Tanzania",
+      "ethnicity": "Nyamwezi",
+      "tradition": "Nyamwezi",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a hammered brass/metal vessel with a wide body and flared neck, consistent with metal vessels made and used by Nyamwezi communities in Tanzania; no evidence contradicts the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vase; vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "vase; vessel",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Vase, vessel made of brass.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/19_11/743888b7_97fe_4aae_8833_a42500c32a0f/preview_EAF36277.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e82a20bc239a7053536329bda15232d4cd9cbec4ee97db7de21e6f7eedf60106",
+        "bytes": 36085,
+        "local_path": "library\\sub-saharan-africa\\tanzania\\nyamwezi\\metalwork\\nyamwezi\\images\\bm_E_Af1907_0528_405.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T08:08:24.807651+00:00",
+    "raw": {
+      "title": "vase; vessel",
+      "description": "Vase, vessel made of brass.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/19_11/743888b7_97fe_4aae_8833_a42500c32a0f/preview_EAF36277.jpg",
+      "production_ethnic_groups": [
+        "Nyamwezi"
+      ],
+      "production_ethnic_attribution": "Made by: Nyamwezi"
+    }
+  }
+]

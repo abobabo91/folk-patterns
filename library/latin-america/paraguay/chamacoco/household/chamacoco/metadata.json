@@ -1,0 +1,790 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_22321",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_22321",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22321?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Paraguay",
+      "ethnicity": "Chamacoco",
+      "tradition": "Chamacoco",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A handwoven fiber shoulder bag with geometric patterning, collected by Guido Boggiani among the Chamacoco in the Gran Chaco, Paraguay — a classic documented example of their caraguatá-fiber bagwork.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "väska, bag, bolsa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1223945/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b0a39bb642dad972874a1e0db328f6bbbfc71c26bcc8eae079e381515cdd0441",
+        "bytes": 54073,
+        "local_path": "library\\latin-america\\paraguay\\chamacoco\\household\\chamacoco\\images\\eu_91608_SMVK_VKM_objekt_22321.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1223945%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:42:55.564466+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_22321",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22321?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "väska, bag, bolsa"
+      ],
+      "dcDescription": [
+        "1917.13.0005 Guido Boggiani Chaco, Paraguay, Sydamerika El Gran Chaco. [[Haga]] skiss Chamacoco Paraguay Väska. Chaco-området, Paraguay"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1223945%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1223945/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paragvajus"
+        },
+        {
+          "def": "Paragvaja"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguaj"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paragua"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Παραγουάη"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_22314",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_22314",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22314?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Paraguay",
+      "ethnicity": "Chamacoco",
+      "tradition": "Chamacoco",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a woven bag/fan-like household object mounted on a wooden handle, collected by Guido Boggiani among the Chamacoco in the Gran Chaco, Paraguay — a handmade utilitarian item consistent with this people's material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Flugdräkt., flugfläkt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1854712/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "12a0b83ebfe2486da41d1801e3dc8002f17bfbd01def0d6415eb46927b882a8e",
+        "bytes": 103743,
+        "local_path": "library\\latin-america\\paraguay\\chamacoco\\household\\chamacoco\\images\\eu_91608_SMVK_VKM_objekt_22314.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1854712%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:42:56.055790+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_22314",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22314?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Flugdräkt., flugfläkt"
+      ],
+      "dcDescription": [
+        "1917.13.0002 Guido Boggiani Chaco, Paraguay, Sydamerika El Gran Chaco. [[Haga]] skiss Chamacoco Paraguay Flugfläkt. Chaco-området, Paraguay"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1854712%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1854712/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paragvajus"
+        },
+        {
+          "def": "Paragvaja"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguaj"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paragua"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Παραγουάη"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_22297",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_22297",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22297?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Paraguay",
+      "ethnicity": "Chamacoco",
+      "tradition": "Chamacoco",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A woven fiber bag collected by Guido Boggiani among the Chamacoco in the Gran Chaco, Paraguay — a plausible handmade carrying bag of this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "väska, bag, bolsa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1290067/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7cbb092b1022b5c0d78272baa919773bb1d8cd50b740806c0efef69829ea2aaa",
+        "bytes": 86188,
+        "local_path": "library\\latin-america\\paraguay\\chamacoco\\household\\chamacoco\\images\\eu_91608_SMVK_VKM_objekt_22297.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1290067%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:42:56.621521+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_22297",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22297?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "väska, bag, bolsa"
+      ],
+      "dcDescription": [
+        "1917.13.0001 Guido Boggiani Chaco, Paraguay, Sydamerika El Gran Chaco [[Haga]] skiss Chamacoco Paraguay Väska Chaco-området, Paraguay"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1290067%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1290067/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paragvajus"
+        },
+        {
+          "def": "Paragvaja"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguaj"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paragua"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Παραγουάη"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_22324",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_22324",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22324?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Paraguay",
+      "ethnicity": "Chamacoco",
+      "tradition": "Chamacoco",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A handwoven net-like fiber bag/carrying sack collected by Guido Boggiani among the Chamacoco in the Gran Chaco, Paraguay — a documented traditional craft item of this people.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "väska, bag, bolsa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1233924/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3eddad6af5c5ae097e2038220acbb7237f5598b6400842cea7e25fa665e646f9",
+        "bytes": 74881,
+        "local_path": "library\\latin-america\\paraguay\\chamacoco\\household\\chamacoco\\images\\eu_91608_SMVK_VKM_objekt_22324.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1233924%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:42:57.237468+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_22324",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_22324?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "väska, bag, bolsa"
+      ],
+      "dcDescription": [
+        "1917.13.0008 Guido Boggiani Chaco, Paraguay, Sydamerika El Gran Chaco. [[Haga]] skiss Chamacoco Paraguay Väska. Chaco-området, Paraguay"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1233924%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1233924/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Парагвай"
+        },
+        {
+          "def": "Paragvajus"
+        },
+        {
+          "def": "Paragvaja"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguaj"
+        },
+        {
+          "def": "Paragvaj"
+        },
+        {
+          "def": "Paragua"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Παραγουάη"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguai"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paragwaj"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        },
+        {
+          "def": "Paraguay"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

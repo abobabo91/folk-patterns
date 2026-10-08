@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1898-0702-90-n",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1898-0702-90-n",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1898-0702-90-n",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1898.0702.90.n",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Russia",
+      "ethnicity": "Khanty",
+      "tradition": "Khanty",
+      "art_form": "architectural",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a disassembled model chum (tent) — wooden poles and a reindeer/fur skin covering — explicitly made by the Khanty, representing their traditional portable dwelling.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "architectural",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "model building/structure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "model building/structure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Model tent made of fur, wood, skin.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_17/064961fd_39c3_4df9_9b28_a3dd011a00b1/preview_01387385_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fa7adefdf3000fa908da33a056686cc6f4c7a660c165dfc18b637965278afa25",
+        "bytes": 45527,
+        "local_path": "library\\east-asia\\russia\\khanty\\architectural\\khanty\\images\\bm_A_As1898_0702_90_n.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T02:01:04.813173+00:00",
+    "raw": {
+      "title": "model building/structure",
+      "description": "Model tent made of fur, wood, skin.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_17/064961fd_39c3_4df9_9b28_a3dd011a00b1/preview_01387385_001.jpg",
+      "production_ethnic_groups": [
+        "Khanty"
+      ],
+      "production_ethnic_attribution": "Made by: Khanty"
+    }
+  }
+]

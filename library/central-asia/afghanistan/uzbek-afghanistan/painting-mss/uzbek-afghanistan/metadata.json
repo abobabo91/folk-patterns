@@ -1,0 +1,93 @@
+[
+  {
+    "id": "british_museum-W_1948-1211-0-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1948-1211-0-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1948-1211-0-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1948.1211.0.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "Afghanistan",
+      "ethnicity": "Uzbek (Afghanistan)",
+      "tradition": "Uzbek (Afghanistan)",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "painting-mss",
+      "vision_reason": "This is a Mughal-style opaque watercolour portrait depicting ʿAbdullah Khan Uzbek II, a historical Uzbek ruler, painted in a courtly manuscript-painting tradition — fitting the claimed Uzbek ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting of ʿAbdullah Khan Uzbek II slicing melons while seated, cross-legged. No text.  Opaque watercolour on paper.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/16b59b88_a877_4832_a60b_a3b7011ef3cb/preview_00090392_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f178bc3dd3d6862576e81201f71ea1d837c585a85da8d2dde63654b86e28e40c",
+        "bytes": 42297,
+        "local_path": "library\\central-asia\\afghanistan\\uzbek-afghanistan\\painting-mss\\uzbek-afghanistan\\images\\bm_W_1948-1211-0-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:38.705312+00:00",
+    "raw": {
+      "title": "painting",
+      "description": "Painting of ʿAbdullah Khan Uzbek II slicing melons while seated, cross-legged. No text.  Opaque watercolour on paper.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_17/16b59b88_a877_4832_a60b_a3b7011ef3cb/preview_00090392_001.jpg"
+    }
+  }
+]

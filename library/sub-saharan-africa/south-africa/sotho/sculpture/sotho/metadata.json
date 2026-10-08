@@ -1,0 +1,933 @@
+[
+  {
+    "id": "cleveland-168429",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "168429",
+      "object_url": "https://clevelandart.org/art/2010.208",
+      "iiif_manifest": null,
+      "credit_line": "Leonard C. Hanna Jr. Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2010.208",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Sotho",
+      "tradition": "Sotho",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A bead-covered fertility figure with wooden core, metal disc face, and geometric beadwork consistent with Sotho fertility dolls (kgöngwana-tshingwana) used in girls' initiation ceremonies, matching the museum's own attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Figure (kgöngwana-tshingwana/Ngwana sehô)",
+      "titles_alt": [],
+      "date_text": "1800s–1900s",
+      "date_earliest": 1800,
+      "date_latest": 1999,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood, glass beads, cloth, thread, and copper alloy",
+      "classification": "Sculpture",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Historically, figures made from bundled reeds or bead-covered wooden forms––such as this example––were linked to fertility in Sotho communities. A man carved the wooden core, while a woman covered it with fabric and beads. The small size of the glass beads indicates their age, while the patterns can be linked to Sotho aesthetics. Like the beads, the round metal disc that functions as the figure's face would have been imported. While no longer used, records indicate these figures may have been used in several contexts associated with conception, including the initiation ceremonies of young girls, divination rites, or as gifts to brides who might symbolically care for the figure in advance of her firstborn's arrival. Some accounts even describe them as toys. Meanings and appearances both appear to have changed over time.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Southern Africa, Lesotho, Southern Sotho-style maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "281ce3b8381ac1d9f809ab30d488e0eb3a48cab897a81f34e23ce3d6feff735a",
+        "bytes": 290097,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\sculpture\\sotho\\images\\cle_168429.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:34.114356+00:00",
+    "raw": {
+      "id": 168429,
+      "accession_number": "2010.208",
+      "share_license_status": "CC0",
+      "tombstone": "Figure (kgöngwana-tshingwana/Ngwana sehô), 1800s–1900s. Southern Africa, Lesotho, Southern Sotho-style maker. Wood, glass beads, cloth, thread, and copper alloy; overall: 25.4 cm (10 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2010.208",
+      "current_location": "108B Southern African",
+      "title": "Figure (kgöngwana-tshingwana/Ngwana sehô)",
+      "creation_date": "1800s–1900s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1999,
+      "artists_tags": [],
+      "culture": [
+        "Southern Africa, Lesotho, Southern Sotho-style maker"
+      ],
+      "technique": "Wood, glass beads, cloth, thread, and copper alloy",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Sculpture",
+      "measurements": "Overall: 25.4 cm (10 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.254,
+          "height_inch": 10,
+          "height_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197333,
+            "title": "The Art of Daily Life: Portable Objects From Southeast Africa",
+            "description": "<i>The Art of Daily Life: Portable Objects From Southeast Africa</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 17, 2011-February 26, 2012).",
+            "opening_date": "2011-04-17T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, (4/16/11-2/26/12); \"The Art of Daily Life: Portable Objects from Southeast Africa\" cat. no. 78",
+            "opening_date": "2011-04-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Jonathan Lowen, London",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "Bowmint Collection [Nicolas Maritz], Pretoria, South Africa",
+          "citations": [],
+          "footnotes": null,
+          "date": "2009",
+          "sortorder": 2
+        },
+        {
+          "description": "(Jacaranda Tribal Art Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Recent scholarship suggests that these figures do not represent a child, but rather, an adult woman who hoped for one. In Sotho belief, the image of a person can be used to impact their <em>seriti</em>, a concept related to one's personal energy.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Historically, figures made from bundled reeds or bead-covered wooden forms––such as this example––were linked to fertility in Sotho communities. A man carved the wooden core, while a woman covered it with fabric and beads. The small size of the glass beads indicates their age, while the patterns can be linked to Sotho aesthetics. Like the beads, the round metal disc that functions as the figure's face would have been imported. While no longer used, records indicate these figures may have been used in several contexts associated with conception, including the initiation ceremonies of young girls, divination rites, or as gifts to brides who might symbolically care for the figure in advance of her firstborn's arrival. Some accounts even describe them as toys. Meanings and appearances both appear to have changed over time.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60760088"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2010.208-figure-kgongwana-tsh"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Petridis, Constantine. \"The Art of Daily Life: Portable Objects from Southeast Africa. \" Tribal Art. (Summer 2011). Pg. 66, Fig. 3",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantine. \"The Art of Daily Life.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine</em> 51, no. 3 (May/June 2011): 6-7.",
+          "page_number": "Mentioned and reproduced: p. 6",
+          "url": "https://archive.org/details/CMAMM2011-03/page/6/mode/2up"
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 39",
+          "url": ""
+        },
+        {
+          "citation": "Cole, Herbert M. <em>Maternity: Mothers and Children in the Arts of Africa</em>. <br> Brussels : Mercatorfonds, 2017",
+          "page_number": "Reproduced: p. 123, fig. 105; mentioned: p. 124",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/2010.208",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_web.jpg",
+          "width": "632",
+          "height": "893",
+          "filesize": "286682",
+          "filename": "2010.208_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_print.jpg",
+          "width": "2406",
+          "height": "3400",
+          "filesize": "4722563",
+          "filename": "2010.208_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_full.tif",
+          "width": "3968",
+          "height": "5606",
+          "filesize": "66760316",
+          "filename": "2010.208_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt0_web.jpg",
+            "width": "679",
+            "height": "893",
+            "filesize": "288364"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt0_print.jpg",
+            "width": "2587",
+            "height": "3400",
+            "filesize": "4945754"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt0_full.tif",
+            "width": "4363",
+            "height": "5732",
+            "filesize": "75052368"
+          },
+          "date_created": "2010-08-24T17:37:44",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt1_web.jpg",
+            "width": "638",
+            "height": "893",
+            "filesize": "286012"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt1_print.jpg",
+            "width": "2431",
+            "height": "3400",
+            "filesize": "4911176"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt1_full.tif",
+            "width": "3999",
+            "height": "5592",
+            "filesize": "67113636"
+          },
+          "date_created": "2010-08-24T18:03:06",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt2_web.jpg",
+            "width": "672",
+            "height": "893",
+            "filesize": "301915"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt2_print.jpg",
+            "width": "2560",
+            "height": "3400",
+            "filesize": "5159081"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.208/2010.208_alt2_full.tif",
+            "width": "4118",
+            "height": "5468",
+            "filesize": "67578164"
+          },
+          "date_created": "2010-08-24T17:54:23",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168429,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2010-09-07T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s–1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Doll",
+        "Fertility Figure"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 11:27:01.470000"
+    }
+  },
+  {
+    "id": "cleveland-168423",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "168423",
+      "object_url": "https://clevelandart.org/art/2010.202",
+      "iiif_manifest": null,
+      "credit_line": "Leonard C. Hanna Jr. Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2010.202",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Sotho",
+      "tradition": "Sotho",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The picture shows a dark carved horn snuff container in stylized anthropomorphic form, with a small head, arms folded across the chest, and a tapering conical body — a classic South Sotho snuff container form, clearly photographed against a neutral background.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Snuff Container",
+      "titles_alt": [],
+      "date_text": "1800s-1900s",
+      "date_earliest": 1800,
+      "date_latest": 1999,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Horn and wood",
+      "classification": "Vessels",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This snuff container in the form of a human (female) figure was carved from cattle horn. The form of the image follows the curve of the horn, with arms and hands held to the chest. Despite its smallish size and minimalist execution, this object demonstrates considerable expressive power. Cattle had special meaning for the pastoralist peoples of southern Africa in that it stood for the wealth and status of the individual and the group. However, similar to the ideas associated with tobacco and snuff, cattle also referred to the world of the ancestors. Snuff containers like this one had great significance for their owners and users.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Southern Africa, Lesotho, South Sotho maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a7e02222d7227e438966a2fab0ac79f85800654f7fa5701b6e319b3adef0c01a",
+        "bytes": 125260,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\sculpture\\sotho\\images\\cle_168423.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:34.116498+00:00",
+    "raw": {
+      "id": 168423,
+      "accession_number": "2010.202",
+      "share_license_status": "CC0",
+      "tombstone": "Snuff Container, 1800s-1900s. Africa, Southern Africa, Lesotho, South Sotho maker. Horn and wood; overall: 10.3 x 4 x 3.5 cm (4 1/16 x 1 9/16 x 1 3/8 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2010.202",
+      "current_location": null,
+      "title": "Snuff Container",
+      "creation_date": "1800s-1900s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1999,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Southern Africa, Lesotho, South Sotho maker"
+      ],
+      "technique": "Horn and wood",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Vessels",
+      "measurements": "Overall: 10.3 x 4 x 3.5 cm (4 1/16 x 1 9/16 x 1 3/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.103,
+          "height_inch": 4,
+          "height_inch_fraction": 0.0625,
+          "width": 0.04,
+          "width_inch": 1,
+          "width_inch_fraction": 0.5625,
+          "depth": 0.035,
+          "depth_inch": 1,
+          "depth_inch_fraction": 0.375
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197333,
+            "title": "The Art of Daily Life: Portable Objects From Southeast Africa",
+            "description": "<i>The Art of Daily Life: Portable Objects From Southeast Africa</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 17, 2011-February 26, 2012).",
+            "opening_date": "2011-04-17T00:00:00"
+          },
+          {
+            "id": 412365,
+            "title": "The Language of Beauty in African Art",
+            "description": "<i>The Language of Beauty in African Art</i>. Kimbell Art Museum, Fort Worth, TX (April 3-July 31, 2022) https://kimbellart.org/exhibition/language-beauty-african-art; The Art Institute of Chicago, Chicago, IL (organizer) (November 20, 2022-February 27, 2023) https://www.artic.edu/exhibitions/9344/the-language-of-beauty-in-african-art.",
+            "opening_date": "2022-04-03T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, (4/16/11-2/26/12); \"The Art of Daily Life:  Portable Objects from Southeast Africa\" cat. no. 23",
+            "opening_date": "2011-04-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Steven Alpert, Dallas, TX",
+          "citations": [],
+          "footnotes": [],
+          "date": "2005",
+          "sortorder": null
+        },
+        {
+          "description": "(Jacaranda Tribal Art Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "2010",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "2010–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The tobacco product snuff was stored in decorative, yet useful, containers like this one.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This snuff container in the form of a human (female) figure was carved from cattle horn. The form of the image follows the curve of the horn, with arms and hands held to the chest. Despite its smallish size and minimalist execution, this object demonstrates considerable expressive power. Cattle had special meaning for the pastoralist peoples of southern Africa in that it stood for the wealth and status of the individual and the group. However, similar to the ideas associated with tobacco and snuff, cattle also referred to the world of the ancestors. Snuff containers like this one had great significance for their owners and users.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60778298"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2010.202-snuff-container"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Petridis, Constatine. \"The Art of Daily Life: Portable Objects from Southeast Africa. \" Tribal Art. (Summer 2011). Pg. 66, Fig. 2.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Cleveland Museum of Art. <em>The CMA Companion: A Guide to the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2014.",
+          "page_number": "Mentioned and reproduced: P. 41",
+          "url": ""
+        },
+        {
+          "citation": "Rondeau, James, Constantijn Petridis, Yaëlle Biro, Herbert M. Cole, Kassim Kone, Babatunde Lawal, Wilfried Van Damme, and Susan Mullin Vogel. T<em>he language of beauty in African art.</em> 2022.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2010.202",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_web.jpg",
+          "width": "640",
+          "height": "900",
+          "filesize": "134831",
+          "filename": "2010.202_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_print.jpg",
+          "width": "2418",
+          "height": "3400",
+          "filesize": "720421",
+          "filename": "2010.202_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_full.tif",
+          "width": "5800",
+          "height": "8156",
+          "filesize": "141938692",
+          "filename": "2010.202_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt0_web.jpg",
+            "width": "641",
+            "height": "900",
+            "filesize": "130921"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt0_print.jpg",
+            "width": "2423",
+            "height": "3400",
+            "filesize": "667455"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt0_full.tif",
+            "width": "5800",
+            "height": "8137",
+            "filesize": "141608168"
+          },
+          "date_created": "2021-04-21T17:55:23",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt1_web.jpg",
+            "width": "639",
+            "height": "900",
+            "filesize": "130034"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt1_print.jpg",
+            "width": "2415",
+            "height": "3400",
+            "filesize": "649064"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt1_full.tif",
+            "width": "5800",
+            "height": "8166",
+            "filesize": "142112752"
+          },
+          "date_created": "2021-04-21T18:11:28",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt2_web.jpg",
+            "width": "638",
+            "height": "900",
+            "filesize": "127982"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt2_print.jpg",
+            "width": "2412",
+            "height": "3400",
+            "filesize": "606244"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt2_full.tif",
+            "width": "5800",
+            "height": "8175",
+            "filesize": "142269340"
+          },
+          "date_created": "2021-04-21T18:20:46",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt3_web.jpg",
+            "width": "640",
+            "height": "900",
+            "filesize": "131221"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt3_print.jpg",
+            "width": "2418",
+            "height": "3400",
+            "filesize": "665610"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt3_full.tif",
+            "width": "5800",
+            "height": "8157",
+            "filesize": "141956164"
+          },
+          "date_created": "2021-04-21T18:28:40",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt4_web.jpg",
+            "width": "641",
+            "height": "900",
+            "filesize": "128748"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt4_print.jpg",
+            "width": "2422",
+            "height": "3400",
+            "filesize": "623147"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt4_full.tif",
+            "width": "5800",
+            "height": "8141",
+            "filesize": "141677724"
+          },
+          "date_created": "2021-04-21T18:42:51",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt5_web.jpg",
+            "width": "900",
+            "height": "837",
+            "filesize": "142398"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt5_print.jpg",
+            "width": "3400",
+            "height": "3162",
+            "filesize": "810900"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt5_full.tif",
+            "width": "4506",
+            "height": "4190",
+            "filesize": "56664964"
+          },
+          "date_created": "2021-04-21T19:00:12",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt6_web.jpg",
+            "width": "900",
+            "height": "825",
+            "filesize": "184835"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt6_print.jpg",
+            "width": "3400",
+            "height": "3115",
+            "filesize": "1233318"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt6_full.tif",
+            "width": "4540",
+            "height": "4159",
+            "filesize": "56671076"
+          },
+          "date_created": "2021-04-21T19:20:49",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt7_web.jpg",
+            "width": "825",
+            "height": "893",
+            "filesize": "245953"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt7_print.jpg",
+            "width": "3143",
+            "height": "3400",
+            "filesize": "5353609"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.202/2010.202_alt7_full.tif",
+            "width": "3792",
+            "height": "4101",
+            "filesize": "46677716"
+          },
+          "date_created": "2010-08-26T14:03:07",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168423,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2010-09-07T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s-1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:39:56.426000"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1905-62",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1905-62",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1905-62",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1905.62",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Sotho",
+      "tradition": "Sotho",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved horn snuff-box with a plug and carrying loop, a traditional Southern African container type plausible for Sotho material culture; it is a household/personal object rather than a figural sculpture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "snuff-box",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "snuff-box",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Snuff-box made of pale horn, carved and moulded at one end; plug in the other.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_21/2832980c_51da_4ad4_9b9c_a3de0163b348/preview_01477862_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "af8f97907c4c3e21cb36a9dd574f86551707537a2a10b3f4279ae75852e9ebba",
+        "bytes": 21855,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\sculpture\\sotho\\images\\bm_E_Af1905-62.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T03:19:27.969327+00:00",
+    "raw": {
+      "title": "snuff-box",
+      "description": "Snuff-box made of pale horn, carved and moulded at one end; plug in the other.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_21/2832980c_51da_4ad4_9b9c_a3de0163b348/preview_01477862_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-1971",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-1971",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1971",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.1971",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Sotho",
+      "tradition": "Sotho",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden smoking pipe fashioned in the shape of a steam engine, a form of household/personal object plausibly made and used by Sotho people in southern Africa.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "smoking-pipe",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "smoking-pipe",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Smoking pipe carved from a single piece of wood into the form of a steam engine.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/ced6cb5e_35ad_4ff2_ad6a_a3de0137d50c/preview_01462013_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e3f0e6e04a54d2f7d5f6d3ff01b3d0b7991a902371848ed769e065242d9b9678",
+        "bytes": 86067,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\sculpture\\sotho\\images\\bm_E_Af1954-23-1971.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T03:19:28.902986+00:00",
+    "raw": {
+      "title": "smoking-pipe",
+      "description": "Smoking pipe carved from a single piece of wood into the form of a steam engine.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/ced6cb5e_35ad_4ff2_ad6a_a3de0137d50c/preview_01462013_001.jpg"
+    }
+  }
+]

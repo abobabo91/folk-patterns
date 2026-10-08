@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1928-0409-58",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1928-0409-58",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1928-0409-58",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1928.0409.58",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Moru",
+      "tradition": "Moru",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a leather-thong waist girdle strung with clusters of nuts on iron rings and iron pendants, matching the museum's attribution to Moru manufacture as a worn adornment/garment component.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "girdle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "girdle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Waist girdle made of a leather thong, from which hang bunches of nuts strung on iron rings, a few iron pendants are among them.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_5/8_8/89f6428f_0457_41ad_a205_a49200881914/preview_EAF42240.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4cd132b26517bc1057b87386d3b112c53c43f75160dfa632a3599435c87e1106",
+        "bytes": 52095,
+        "local_path": "library\\sub-saharan-africa\\south-sudan\\moru\\garment\\moru\\images\\bm_E_Af1928_0409_58.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T03:09:06.009077+00:00",
+    "raw": {
+      "title": "girdle",
+      "description": "Waist girdle made of a leather thong, from which hang bunches of nuts strung on iron rings, a few iron pendants are among them.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_5/8_8/89f6428f_0457_41ad_a205_a49200881914/preview_EAF42240.jpg",
+      "production_ethnic_groups": [
+        "Moru"
+      ],
+      "production_ethnic_attribution": "Made by: Moru"
+    }
+  }
+]

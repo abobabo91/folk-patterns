@@ -1,0 +1,673 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43777",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43777",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43777?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Djibouti / Eritrea",
+      "ethnicity": "Afar",
+      "tradition": "Afar Ethiopia",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A curved iron knife with brass pommel, leather sheath and studded leather belt, collected at Awash Station in Ethiopia's Shoa province — a region and object type consistent with Afar material culture (this style of curved knife with belt is a well-known Afar/Danakil artifact type).",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms"
+    },
+    "physical": {
+      "title": "kniv, skida, bälte, Kniv",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703885%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ab3d421e3443e9b9f327ee31254c12480a220374b76b9625492332421aa9a2c4",
+        "bytes": 12097,
+        "local_path": "library\\sub-saharan-africa\\djibouti-eritrea\\afar\\metalwork\\afar-ethiopia\\images\\eu_91608_SMVK_VKM_objekt_43777.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:48:37.305112+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Kniv med skida av läder, komplett med bälte. Kniven mäter 48 cm, skidan 44 cm, bältet 102 cm. Knivens klinga är av järn, svagt böjd, 5 cm på bredden långt handtag; fastsatt vid detta en trattformad knopp av mässing. \nSkidan av flammigt läder; bältet en läderrem med hål, beslagna med järn. Ordinärt spänne av järn.",
+        "Horisonter - röster från ett globalt Afrika",
+        "1970.04.0041a-b",
+        "Arne Lexander, Uppsala",
+        "Awash Staion, Shoa-provinsen, 225 km Ö om Addis Ababa mot Dire Dawa & Harrar, Etiopien",
+        "Awash Station, Shoa-provinsen, 225 km Ö om Addis Ababa mot Dire Dawa & Harrar, Etiopien. [[Haga]]",
+        "Awash Staion, Shoa-provinsen, 225 km Ö om Addis Ababa mot Dire Dawa & Harrar, Etiopien",
+        "skiss",
+        "Danakil Afar 8/3 -74/ant?",
+        "IDENTITY, Identity 1",
+        "Horisonter - Horn",
+        "Ethiopia"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Kniv med skida av läder, komplett med bälte. Kniven mäter 48 cm, skidan 44 cm, bältet 102 cm. Knivens klinga är av järn, svagt böjd, 5 cm på bredden långt handtag; fastsatt vid detta en trattformad knopp av mässing. \nSkidan av flammigt läder; bältet en läderrem med hål, beslagna med järn. Ordinärt spänne av järn.",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1970.04.0041a-b",
+          "Arne Lexander, Uppsala",
+          "Awash Staion, Shoa-provinsen, 225 km Ö om Addis Ababa mot Dire Dawa & Harrar, Etiopien",
+          "Awash Station, Shoa-provinsen, 225 km Ö om Addis Ababa mot Dire Dawa & Harrar, Etiopien. [[Haga]]",
+          "Awash Staion, Shoa-provinsen, 225 km Ö om Addis Ababa mot Dire Dawa & Harrar, Etiopien",
+          "skiss",
+          "Danakil Afar 8/3 -74/ant?",
+          "IDENTITY, Identity 1",
+          "Horisonter - Horn",
+          "Ethiopia"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "kniv, skida, bälte, Kniv"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1766"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Metalli"
+        },
+        {
+          "def": "Металл"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Метал"
+        },
+        {
+          "def": "Metalai"
+        },
+        {
+          "def": "Kovine"
+        },
+        {
+          "def": "Metāls"
+        },
+        {
+          "def": "Métal"
+        },
+        {
+          "def": "Fém"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Kovina"
+        },
+        {
+          "def": "Miotal"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Μέταλλο"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Metallo"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Metall"
+        },
+        {
+          "def": "Kov"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Metal"
+        },
+        {
+          "def": "Metaal"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Metall"
+        ],
+        "fi": [
+          "Metalli"
+        ],
+        "ru": [
+          "Металл"
+        ],
+        "pt": [
+          "Metal"
+        ],
+        "bg": [
+          "Метал"
+        ],
+        "lt": [
+          "Metalai"
+        ],
+        "hr": [
+          "Kovine"
+        ],
+        "lv": [
+          "Metāls"
+        ],
+        "fr": [
+          "Métal"
+        ],
+        "hu": [
+          "Fém"
+        ],
+        "sk": [
+          "Kov"
+        ],
+        "sl": [
+          "Kovina"
+        ],
+        "ga": [
+          "Miotal"
+        ],
+        "ca": [
+          "Metall"
+        ],
+        "sv": [
+          "Metall"
+        ],
+        "el": [
+          "Μέταλλο"
+        ],
+        "en": [
+          "Metal"
+        ],
+        "it": [
+          "Metallo"
+        ],
+        "es": [
+          "Metal"
+        ],
+        "et": [
+          "Metall"
+        ],
+        "cs": [
+          "Kov"
+        ],
+        "eu": [
+          "Metal"
+        ],
+        "pl": [
+          "Metal"
+        ],
+        "da": [
+          "Metal"
+        ],
+        "ro": [
+          "Metal"
+        ],
+        "nl": [
+          "Metaal"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43777"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703885/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Federala demokratiska republiken Etiopien"
+        },
+        {
+          "def": "Demokratiska förbundsrepubliken Etiopien"
+        },
+        {
+          "def": "Федеративная Демократическая Республика Эфиопия"
+        },
+        {
+          "def": "Абиссиния"
+        },
+        {
+          "def": "Абессиния"
+        },
+        {
+          "def": "Etiopian demokraattinen liittotasavalta"
+        },
+        {
+          "def": "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        },
+        {
+          "def": "Repubblika Demokratika Federali tal-Etjopja"
+        },
+        {
+          "def": "Federal Democratic Republic of Ethiopia"
+        },
+        {
+          "def": "et"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Repubblica Federale Democratica d'Etiopia"
+        },
+        {
+          "def": "République fédérale démocratique d'Éthiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "La République démocratique fédérale d’Éthiopie"
+        },
+        {
+          "def": "Etióp Szövetségi Demokratikus Köztársaság"
+        },
+        {
+          "def": "Asamblea Parlamentaria Federal"
+        },
+        {
+          "def": "República Democrática Federal de Etiopía"
+        },
+        {
+          "def": "Etioopia Demokraatlik Liitvabariik"
+        },
+        {
+          "def": "Habeš"
+        },
+        {
+          "def": "Abesínia"
+        },
+        {
+          "def": "Etiópska federatívna demokratická republika"
+        },
+        {
+          "def": "Ethiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Abissínia"
+        },
+        {
+          "def": "República Democràtica Federal d'Etiòpia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Imperi abissini"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "sv": [
+          "Federala demokratiska republiken Etiopien",
+          "Demokratiska förbundsrepubliken Etiopien"
+        ],
+        "ru": [
+          "Федеративная Демократическая Республика Эфиопия",
+          "Абиссиния",
+          "Абессиния"
+        ],
+        "fi": [
+          "Etiopian demokraattinen liittotasavalta"
+        ],
+        "el": [
+          "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        ],
+        "mt": [
+          "Repubblika Demokratika Federali tal-Etjopja"
+        ],
+        "en": [
+          "Federal Democratic Republic of Ethiopia",
+          "et",
+          "ETH"
+        ],
+        "it": [
+          "Repubblica Federale Democratica d'Etiopia"
+        ],
+        "fr": [
+          "République fédérale démocratique d'Éthiopie",
+          "ET",
+          "La République démocratique fédérale d’Éthiopie"
+        ],
+        "hu": [
+          "Etióp Szövetségi Demokratikus Köztársaság"
+        ],
+        "es": [
+          "Asamblea Parlamentaria Federal",
+          "República Democrática Federal de Etiopía"
+        ],
+        "et": [
+          "Etioopia Demokraatlik Liitvabariik"
+        ],
+        "cs": [
+          "Habeš"
+        ],
+        "sk": [
+          "Abesínia",
+          "Etiópska federatívna demokratická republika"
+        ],
+        "nl": [
+          "Ethiopie",
+          "ET",
+          "ETH"
+        ],
+        "ca": [
+          "Abissínia",
+          "República Democràtica Federal d'Etiòpia",
+          "Etiopia",
+          "Imperi abissini"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Äthiopien"
+        },
+        {
+          "def": "Эфиопия"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Етиопия"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Éthiopie"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "An Aetóip"
+        },
+        {
+          "def": "Etiòpia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Αιθιοπία"
+        },
+        {
+          "def": "Etjopja"
+        },
+        {
+          "def": "Ethiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopía"
+        },
+        {
+          "def": "Etioopia"
+        },
+        {
+          "def": "Etiopie"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Ethiopië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Äthiopien"
+        ],
+        "ru": [
+          "Эфиопия"
+        ],
+        "fi": [
+          "Etiopia"
+        ],
+        "pt": [
+          "Etiópia"
+        ],
+        "bg": [
+          "Етиопия"
+        ],
+        "lt": [
+          "Etiopija"
+        ],
+        "lv": [
+          "Etiopija"
+        ],
+        "hr": [
+          "Etiopija"
+        ],
+        "fr": [
+          "Éthiopie"
+        ],
+        "hu": [
+          "Etiópia"
+        ],
+        "sk": [
+          "Etiópia"
+        ],
+        "sl": [
+          "Etiopija"
+        ],
+        "ga": [
+          "An Aetóip"
+        ],
+        "ca": [
+          "Etiòpia"
+        ],
+        "sv": [
+          "Etiopien"
+        ],
+        "el": [
+          "Αιθιοπία"
+        ],
+        "mt": [
+          "Etjopja"
+        ],
+        "en": [
+          "Ethiopia"
+        ],
+        "it": [
+          "Etiopia"
+        ],
+        "es": [
+          "Etiopía"
+        ],
+        "et": [
+          "Etioopia"
+        ],
+        "cs": [
+          "Etiopie"
+        ],
+        "eu": [
+          "Etiopia"
+        ],
+        "pl": [
+          "Etiopia"
+        ],
+        "ro": [
+          "Etiopia"
+        ],
+        "da": [
+          "Etiopien"
+        ],
+        "nl": [
+          "Ethiopië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "40.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703885%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43777?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43777",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43777.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 22.51742,
+      "timestamp": 1752047596274,
+      "timestamp_created": "2014-10-01T16:21:22.064Z",
+      "timestamp_created_epoch": 1412180482064,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "kniv, skida, bälte, Kniv"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

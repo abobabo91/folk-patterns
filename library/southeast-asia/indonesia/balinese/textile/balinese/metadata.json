@@ -1,0 +1,3531 @@
+[
+  {
+    "id": "europeana-2048221_europeana_fashion_674298",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_674298",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_674298?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "Balinese",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Hand-drawn batik cloth showing the classic Javanese/Balinese-style tulis batik pattern (menjangan gringsing) with deer, scales, and floral motifs — a traditional textile technique and motif consistent with Indonesian (Balinese) batik production.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Batik pattern: Menjangan gringing",
+      "titles_alt": [],
+      "date_text": {
+        "def": "19. Jahrhundert"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FRV%2FRV-847-45.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3066989b660d3cb7641ba40eada30d1ae14f5b9938fca3d1cfeadb44fcc42fef",
+        "bytes": 87898,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\eu_2048221_europeana_fashion_674298.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:12.530291+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "The name of this batiked pattern is Menjangan gringsing and means deer-and-scales pattern. The name for this pattern is appropriate because the pattern consists of scales and large blue spots filled with brown stylized deer, frogs, birds and plants. The border is called Upan-upan, brown on a blue background with white stars. Upan-upan means like grains of rice.",
+        "De naam van dit gebatikte patroon is Menjangan gringsing en betekent herten-en-schubpatroon. De benaming voor dit patroon is toepasselijk, omdat het patroon bestaat uit schubben en grote blauwe vlekken die gevuld zijn met bruine gestileerde herten, kikkers, vogels en planten. De rand heet Upan-upan, bruin op een blauwe achtergrond met witte sterren. Upan-upan betekent als rijstkorrels."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The name of this batiked pattern is Menjangan gringsing and means deer-and-scales pattern. The name for this pattern is appropriate because the pattern consists of scales and large blue spots filled with brown stylized deer, frogs, birds and plants. The border is called Upan-upan, brown on a blue background with white stars. Upan-upan means like grains of rice."
+        ],
+        "nl": [
+          "De naam van dit gebatikte patroon is Menjangan gringsing en betekent herten-en-schubpatroon. De benaming voor dit patroon is toepasselijk, omdat het patroon bestaat uit schubben en grote blauwe vlekken die gevuld zijn met bruine gestileerde herten, kikkers, vogels en planten. De rand heet Upan-upan, bruin op een blauwe achtergrond met witte sterren. Upan-upan betekent als rijstkorrels."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Batik pattern: Menjangan gringing"
+        ],
+        "nl": [
+          "Batikpatroon: Menjangan gringsing"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2721",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10618",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10294",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://data.europeana.eu/concept/2639",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10602",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10403",
+        "http://data.europeana.eu/concept/2022",
+        "http://data.europeana.eu/concept/2088"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Stoffprobe"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "Stoffprobe"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Lack"
+        },
+        {
+          "def": "Braun"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "Malfarbe"
+        },
+        {
+          "def": "Batiikki"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Maali"
+        },
+        {
+          "def": "Батик"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Краска"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "provbit"
+        },
+        {
+          "def": "batik"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "Provbit"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "målarfärg"
+        },
+        {
+          "def": "brun"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "Målarfärg"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "castanho"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "Tinta"
+        },
+        {
+          "def": "Батик"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Боя"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "swatch"
+        },
+        {
+          "def": "batik"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "Swatch"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "paint"
+        },
+        {
+          "def": "brown"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "Paint"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Nalič"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "campione"
+        },
+        {
+          "def": "batik (un tipo di tintura a riserva)"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "Campione"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "pittura"
+        },
+        {
+          "def": "bruno"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "Vernice"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "échantillon"
+        },
+        {
+          "def": "batik"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "Échantillon"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "peinture"
+        },
+        {
+          "def": "brun"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "Peinture"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Festék"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "muestra de tejido"
+        },
+        {
+          "def": "batik"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "Muestra de tejido"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "pintura"
+        },
+        {
+          "def": "marrón"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Batika"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Värv"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Margo"
+        },
+        {
+          "def": "Batikování"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Barva"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Barva"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Farba"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "Bumbac"
+        },
+        {
+          "def": "Vopsea"
+        },
+        {
+          "def": "Bàtik"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Pintura"
+        },
+        {
+          "def": "Batik"
+        },
+        {
+          "def": "staal"
+        },
+        {
+          "def": "batik"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "Staaltje"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "verf"
+        },
+        {
+          "def": "bruin"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "Verf"
+        },
+        {
+          "def": "swatch"
+        },
+        {
+          "def": "μπατίκ"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "Swatch"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "μπογιά"
+        },
+        {
+          "def": "καφέ"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "Βαφές"
+        },
+        {
+          "def": "דוגמת אריג"
+        },
+        {
+          "def": "בטיק"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "צבע"
+        },
+        {
+          "def": "חום"
+        },
+        {
+          "def": "uzorak"
+        },
+        {
+          "def": "batik"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "boja"
+        },
+        {
+          "def": "смеђа"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Dažas"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Krāsa"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Farba"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Péint"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Maling"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Baumwolle",
+          "Batik",
+          "Lack",
+          "Stoffprobe",
+          "ambra",
+          "Braun",
+          "Baumwollfaser",
+          "Malfarbe"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Maali",
+          "Batiikki"
+        ],
+        "ru": [
+          "Батик",
+          "Краска",
+          "Хлопок"
+        ],
+        "pt": [
+          "âmbar cinza",
+          "Algodão",
+          "Tinta",
+          "Batik",
+          "algodão",
+          "castanho"
+        ],
+        "bg": [
+          "Батик",
+          "Памук",
+          "Боя"
+        ],
+        "lt": [
+          "Medvilnė",
+          "Dažas"
+        ],
+        "hr": [
+          "Nalič",
+          "Pamuk",
+          "Batik"
+        ],
+        "lv": [
+          "Krāsa",
+          "Kokvilna"
+        ],
+        "fr": [
+          "coton",
+          "ambre gris",
+          "Coton",
+          "peinture",
+          "batik",
+          "brun",
+          "Batik",
+          "échantillon",
+          "Peinture",
+          "Échantillon"
+        ],
+        "hu": [
+          "Batik",
+          "Festék",
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna",
+          "Farba"
+        ],
+        "sl": [
+          "Bombaž",
+          "Barva",
+          "Batik"
+        ],
+        "ga": [
+          "Péint",
+          "Cadás"
+        ],
+        "ca": [
+          "Bàtik",
+          "Pintura",
+          "Cotó"
+        ],
+        "sr": [
+          "uzorak",
+          "ćilibar",
+          "batik",
+          "смеђа",
+          "pamuk",
+          "boja"
+        ],
+        "sv": [
+          "provbit",
+          "batik",
+          "målarfärg",
+          "brun",
+          "Batik",
+          "Målarfärg",
+          "Provbit",
+          "Bomull",
+          "ambra",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "Βαφές",
+          "Swatch",
+          "καφέ",
+          "άμπαρο",
+          "swatch",
+          "μπογιά",
+          "Βαμβάκι",
+          "μπατίκ"
+        ],
+        "en": [
+          "Swatch",
+          "swatch",
+          "batik",
+          "cotton (fiber)",
+          "Batik",
+          "ambergris",
+          "paint",
+          "Paint",
+          "brown",
+          "Cotton"
+        ],
+        "it": [
+          "campione",
+          "pittura",
+          "ambra grigia",
+          "Batik",
+          "Campione",
+          "Cotone",
+          "Vernice",
+          "cotone",
+          "bruno",
+          "batik (un tipo di tintura a riserva)"
+        ],
+        "es": [
+          "marrón",
+          "Algodón",
+          "batik",
+          "ámbar gris",
+          "Muestra de tejido",
+          "Pintura",
+          "Batik",
+          "muestra de tejido",
+          "algodón",
+          "pintura"
+        ],
+        "et": [
+          "Puuvill",
+          "Batika",
+          "Värv"
+        ],
+        "eu": [
+          "Batik",
+          "Margo",
+          "Kotoi"
+        ],
+        "cs": [
+          "Barva",
+          "Bavlna",
+          "Batikování"
+        ],
+        "pl": [
+          "Batik",
+          "Bawełna",
+          "Farba"
+        ],
+        "ro": [
+          "Batik",
+          "Bumbac",
+          "Vopsea"
+        ],
+        "he": [
+          "צבע",
+          "דוגמת אריג",
+          "כותנה",
+          "חום",
+          "ענבר אפור",
+          "בטיק"
+        ],
+        "da": [
+          "Bomuld",
+          "Maling"
+        ],
+        "nl": [
+          "Staaltje",
+          "bruin",
+          "staal",
+          "Katoen",
+          "verf",
+          "batik",
+          "Batik",
+          "amber",
+          "Verf",
+          "katoen (vezel)"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/674298"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-847-45.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FRV%2FRV-847-45.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "1891/1891"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "zxx": [
+          "1891/1891"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_674298?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_674298",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_674298.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 98.011314,
+      "timestamp": 1762960468070,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Batik pattern: Menjangan gringing",
+        "Batikpatroon: Menjangan gringsing"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_707253",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_707253",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_707253?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "Balinese",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A gold-leaf-decorated silk hip cloth with triangular pucuk rebong border motifs, collected in Gianyar, Bali — a classic Balinese songket-style textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Hip cloth",
+      "titles_alt": [],
+      "date_text": "0",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FRV%2FRV-1436-15.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "95278e1c259f2dc9f4710a156fa7103f8e0c276f2cdf45db6451c0d5da7cc5c1",
+        "bytes": 77775,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\eu_2048221_europeana_fashion_707253.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:13.032524+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Donated in 1903 to Controller H.J.E.F. Schwartz, by Dewa Gede Raka, Town Clerk of Gianyar. The edges are decorated with triangular motifs applied with gold leaf. The Balinese name for these motifs refers to the conical shape of the rice dusters (tetumpengan) or to the shape of stylized newly emerging bamboo shoots (pucuk rebong).",
+        "Geschonken in 1903 aan controleur H.J.E.F. Schwartz, door Dewa Gede Raka, Stedehouder van Gianyar. De randen zijn versierd driehoekige motieven die aangebracht zijn met bladgoud. De Balinese naam voor deze motieven verwijst naar de conische vorm van de rijstoffers (tetumpengan) of naar de vorm van  gestileerde pas opkomende bamboescheuten (pucuk rebong)."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Donated in 1903 to Controller H.J.E.F. Schwartz, by Dewa Gede Raka, Town Clerk of Gianyar. The edges are decorated with triangular motifs applied with gold leaf. The Balinese name for these motifs refers to the conical shape of the rice dusters (tetumpengan) or to the shape of stylized newly emerging bamboo shoots (pucuk rebong)."
+        ],
+        "nl": [
+          "Geschonken in 1903 aan controleur H.J.E.F. Schwartz, door Dewa Gede Raka, Stedehouder van Gianyar. De randen zijn versierd driehoekige motieven die aangebracht zijn met bladgoud. De Balinese naam voor deze motieven verwijst naar de conische vorm van de rijstoffers (tetumpengan) of naar de vorm van  gestileerde pas opkomende bamboescheuten (pucuk rebong)."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Hip cloth"
+        ],
+        "nl": [
+          "Heupdoek"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1771",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10509",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10546",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "Fragment (Stoff)"
+        },
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Kulta"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Золото"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Ouro"
+        },
+        {
+          "def": "ouro"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Злато"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Auksas"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Zelts"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "fragment (tissu)"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Arany"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Ór"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Guld"
+        },
+        {
+          "def": "fragment (tyg)"
+        },
+        {
+          "def": "guld"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Χρυσός"
+        },
+        {
+          "def": "Κομμάτι (ύφασμα)"
+        },
+        {
+          "def": "χρυσός"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Deheb"
+        },
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "fabric fragment"
+        },
+        {
+          "def": "gold"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Oro"
+        },
+        {
+          "def": "frammento (tessuto)"
+        },
+        {
+          "def": "oro"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Oro"
+        },
+        {
+          "def": "fragmento (tejido)"
+        },
+        {
+          "def": "oro"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Kuld"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Urre"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Złoto"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Guld"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Aur"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Goud"
+        },
+        {
+          "def": "fragment (stof)"
+        },
+        {
+          "def": "goud"
+        },
+        {
+          "def": "Textiel"
+        },
+        {
+          "def": "קטע (אריג)"
+        },
+        {
+          "def": "זהב"
+        },
+        {
+          "def": "fragment (tkanina)"
+        },
+        {
+          "def": "zlato"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gold",
+          "Fragment (Stoff)",
+          "Textilie"
+        ],
+        "fi": [
+          "Kulta",
+          "Tekstiili"
+        ],
+        "ru": [
+          "Золото",
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil",
+          "Ouro",
+          "ouro"
+        ],
+        "bg": [
+          "Злато",
+          "Текстил"
+        ],
+        "lt": [
+          "Auksas",
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina",
+          "Zlato"
+        ],
+        "lv": [
+          "Audums",
+          "Zelts"
+        ],
+        "fr": [
+          "or",
+          "fragment (tissu)",
+          "Textile"
+        ],
+        "hu": [
+          "Arany",
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia",
+          "Zlato"
+        ],
+        "sl": [
+          "Tekstil",
+          "Zlato"
+        ],
+        "ga": [
+          "Teicstíl",
+          "Ór"
+        ],
+        "ca": [
+          "or",
+          "Tèxtil"
+        ],
+        "sr": [
+          "zlato",
+          "fragment (tkanina)"
+        ],
+        "sv": [
+          "Guld",
+          "fragment (tyg)",
+          "guld",
+          "Textil"
+        ],
+        "el": [
+          "Χρυσός",
+          "Κομμάτι (ύφασμα)",
+          "χρυσός",
+          "Ύφασμα"
+        ],
+        "mt": [
+          "Deheb"
+        ],
+        "en": [
+          "gold",
+          "Gold",
+          "Textile",
+          "fabric fragment"
+        ],
+        "it": [
+          "Tessuto",
+          "frammento (tessuto)",
+          "Oro",
+          "oro"
+        ],
+        "es": [
+          "fragmento (tejido)",
+          "Oro",
+          "oro",
+          "Textil"
+        ],
+        "et": [
+          "Kuld",
+          "Tekstiil"
+        ],
+        "cs": [
+          "Zlato",
+          "Textilie"
+        ],
+        "eu": [
+          "Urre",
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia",
+          "Złoto"
+        ],
+        "da": [
+          "Tekstil",
+          "Guld"
+        ],
+        "ro": [
+          "Material textil",
+          "Aur"
+        ],
+        "he": [
+          "זהב",
+          "קטע (אריג)"
+        ],
+        "nl": [
+          "fragment (stof)",
+          "Textiel",
+          "Goud",
+          "goud"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/707253"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-1436-15.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FRV%2FRV-1436-15.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_707253?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_707253",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_707253.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 17.501377,
+      "timestamp": 1762961733916,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Hip cloth",
+        "Heupdoek"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "0"
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_739562",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_739562",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_739562?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "Balinese",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A songket-woven cloth with gold/silver thread patterning, consistent with a Balinese breast cloth used in ceremonial dress as described.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Breast cloth woven with gold and silver thread",
+      "titles_alt": [],
+      "date_text": "1920",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FRV%2FRV-2407-44.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ddc39e81b8e1df3e66c0e311e519fe1843058bfa8f888e326fd1b584032d8d32",
+        "bytes": 35699,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\eu_2048221_europeana_fashion_739562.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:14.744198+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "The technique used to weave this cloth is called 'songket'. Gold and silver threads are woven along with the cloth. Not only in Bali, but also in other parts of Indonesia this technique is used. On Bali, Gelgel is the most important village where these songkets are traditionally woven. Balinese wear these cloths on festive occasions to show status and wealth, for example as ceremonial clothing during a wedding or the ritual of filing teeth, or as part of a dance costume. \\Cloths can be made of different materials. If they are used for performing dances they are made of cotton or viscose. Silk cloths were previously reserved for the highest castes to wear. Due to economic changes and increased democratization in the Balinese community that took place from about 1970 onwards the silk songkets are not so exclusive anymore. This songket serves as a breast cloth.",
+        "De techniek waarmee deze doek geweven is heet ‘songket’. Hierbij worden goud- en zilverdraad mee geweven. Niet alleen op Bali, maar ook in andere delen van Indonesië wordt deze techniek toegepast. Op Bali is Gelgel het belangrijkste dorp waar van oudsher deze songkets worden geweven. Balinezen dragen deze doeken bij feestelijke gelegenheden om status en rijkdom te laten zien, bijv. als ceremoniële kleding tijdens een huwelijk of het ritueel van het tandenvijlen, of als onderdeel van een danskostuum. \n\nDe doeken kunnen van verschillende materialen zijn gemaakt. Als ze voor het opvoeren van dansen worden gebruikt zijn ze van katoen of viscose gemaakt. Zijden doeken waren voorheen voorbehouden aan de hoogste kasten om te dragen. Door economische veranderingen en toegenomen democratisering in de Balinese gemeenschap die vanaf ongeveer 1970 hebben plaatsgevonden zijn de zijden songkets niet zo exclusief meer. Deze songket dient als borstdoek."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The technique used to weave this cloth is called 'songket'. Gold and silver threads are woven along with the cloth. Not only in Bali, but also in other parts of Indonesia this technique is used. On Bali, Gelgel is the most important village where these songkets are traditionally woven. Balinese wear these cloths on festive occasions to show status and wealth, for example as ceremonial clothing during a wedding or the ritual of filing teeth, or as part of a dance costume. \\Cloths can be made of different materials. If they are used for performing dances they are made of cotton or viscose. Silk cloths were previously reserved for the highest castes to wear. Due to economic changes and increased democratization in the Balinese community that took place from about 1970 onwards the silk songkets are not so exclusive anymore. This songket serves as a breast cloth."
+        ],
+        "nl": [
+          "De techniek waarmee deze doek geweven is heet ‘songket’. Hierbij worden goud- en zilverdraad mee geweven. Niet alleen op Bali, maar ook in andere delen van Indonesië wordt deze techniek toegepast. Op Bali is Gelgel het belangrijkste dorp waar van oudsher deze songkets worden geweven. Balinezen dragen deze doeken bij feestelijke gelegenheden om status en rijkdom te laten zien, bijv. als ceremoniële kleding tijdens een huwelijk of het ritueel van het tandenvijlen, of als onderdeel van een danskostuum. \n\nDe doeken kunnen van verschillende materialen zijn gemaakt. Als ze voor het opvoeren van dansen worden gebruikt zijn ze van katoen of viscose gemaakt. Zijden doeken waren voorheen voorbehouden aan de hoogste kasten om te dragen. Door economische veranderingen en toegenomen democratisering in de Balinese gemeenschap die vanaf ongeveer 1970 hebben plaatsgevonden zijn de zijden songkets niet zo exclusief meer. Deze songket dient als borstdoek."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Breast cloth woven with gold and silver thread"
+        ],
+        "nl": [
+          "Borstdoek geweven met goud- en zilverdraad"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10407",
+        "http://data.europeana.eu/concept/1775",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10484",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10352",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10509",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10470",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10547",
+        "http://data.europeana.eu/concept/2130",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10546",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "Silber"
+        },
+        {
+          "def": "Viskose"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Fragment (Stoff)"
+        },
+        {
+          "def": "Silberfaden"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Silber"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "guld"
+        },
+        {
+          "def": "Silver"
+        },
+        {
+          "def": "viskos"
+        },
+        {
+          "def": "siden"
+        },
+        {
+          "def": "fragment (tyg)"
+        },
+        {
+          "def": "silvertråd"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "silver"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "guld"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "dourado"
+        },
+        {
+          "def": "Prata"
+        },
+        {
+          "def": "viscose"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "prata"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "prata"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "ouro"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Χρυσό"
+        },
+        {
+          "def": "Άργυρος"
+        },
+        {
+          "def": "βισκόζη"
+        },
+        {
+          "def": "μετάξι"
+        },
+        {
+          "def": "Κομμάτι (ύφασμα)"
+        },
+        {
+          "def": "ασημοκλωστή"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "ασήμι"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "χρυσός"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "gold"
+        },
+        {
+          "def": "Silver"
+        },
+        {
+          "def": "viscose"
+        },
+        {
+          "def": "silk (silkworm material)"
+        },
+        {
+          "def": "fabric fragment"
+        },
+        {
+          "def": "silver thread"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "silver"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "gold"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "oro"
+        },
+        {
+          "def": "Argento"
+        },
+        {
+          "def": "viscosa"
+        },
+        {
+          "def": "seta"
+        },
+        {
+          "def": "frammento (tessuto)"
+        },
+        {
+          "def": "filo d'argento"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "argento"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "oro"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "Argent"
+        },
+        {
+          "def": "viscose"
+        },
+        {
+          "def": "soie"
+        },
+        {
+          "def": "fragment (tissu)"
+        },
+        {
+          "def": "fil d'argent"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "argent"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "זהב"
+        },
+        {
+          "def": "ויסקוזה"
+        },
+        {
+          "def": "משי"
+        },
+        {
+          "def": "קטע (אריג)"
+        },
+        {
+          "def": "חוט (כסף)"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "כסף"
+        },
+        {
+          "def": "זהב"
+        },
+        {
+          "def": "goud"
+        },
+        {
+          "def": "Zilver"
+        },
+        {
+          "def": "viscose"
+        },
+        {
+          "def": "zijde (vezel)"
+        },
+        {
+          "def": "fragment (stof)"
+        },
+        {
+          "def": "zilverdraad"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "zilver"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "goud"
+        },
+        {
+          "def": "Textiel"
+        },
+        {
+          "def": "oro"
+        },
+        {
+          "def": "Plata"
+        },
+        {
+          "def": "viscosa"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "fragmento (tejido)"
+        },
+        {
+          "def": "hilo de plata"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "plata"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "oro"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "златна"
+        },
+        {
+          "def": "viskoza"
+        },
+        {
+          "def": "svila"
+        },
+        {
+          "def": "fragment (tkanina)"
+        },
+        {
+          "def": "srebrna nit"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "srebro"
+        },
+        {
+          "def": "zlato"
+        },
+        {
+          "def": "Серебро"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Hopea"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Сребро"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Sidabras"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Srebro"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Sudrabs"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Ezüst"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Striebro"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Srebro"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Airgead"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Argent"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Fidda"
+        },
+        {
+          "def": "Hõbe"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Stříbro"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Zilar"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Srebro"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Sølv"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Argint"
+        },
+        {
+          "def": "Mătase"
+        },
+        {
+          "def": "Material textil"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gold",
+          "Silber",
+          "Baumwolle",
+          "Seide",
+          "Silberfaden",
+          "Fragment (Stoff)",
+          "ambra",
+          "Viskose",
+          "Textilie"
+        ],
+        "ru": [
+          "Текстиль",
+          "Шёлк",
+          "Серебро"
+        ],
+        "fi": [
+          "Hopea",
+          "Silkki",
+          "Tekstiili"
+        ],
+        "pt": [
+          "Prata",
+          "viscose",
+          "âmbar cinza",
+          "prata",
+          "Fibra da seda",
+          "Têxtil",
+          "ouro",
+          "seda",
+          "algodão",
+          "dourado"
+        ],
+        "bg": [
+          "Коприна",
+          "Текстил",
+          "Сребро"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Sidabras",
+          "Šilkas"
+        ],
+        "hr": [
+          "Srebro",
+          "Svila",
+          "Tkanina"
+        ],
+        "lv": [
+          "Sudrabs",
+          "Audums",
+          "Zīds"
+        ],
+        "fr": [
+          "coton",
+          "viscose",
+          "ambre gris",
+          "or",
+          "fragment (tissu)",
+          "Textile",
+          "Argent",
+          "argent",
+          "fil d'argent",
+          "soie",
+          "Soie"
+        ],
+        "hu": [
+          "Selyem",
+          "Szövet",
+          "Ezüst"
+        ],
+        "sk": [
+          "Striebro",
+          "Hodváb",
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil",
+          "Srebro",
+          "Svila"
+        ],
+        "ga": [
+          "Airgead",
+          "Teicstíl",
+          "Síoda"
+        ],
+        "ca": [
+          "Argent",
+          "Tèxtil",
+          "Seda"
+        ],
+        "sr": [
+          "svila",
+          "ćilibar",
+          "zlato",
+          "srebrna nit",
+          "viskoza",
+          "fragment (tkanina)",
+          "pamuk",
+          "srebro",
+          "златна"
+        ],
+        "sv": [
+          "Silver",
+          "siden",
+          "Silke",
+          "guld",
+          "viskos",
+          "fragment (tyg)",
+          "silver",
+          "ambra",
+          "silvertråd",
+          "Textil",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "ασήμι",
+          "άμπαρο",
+          "Κομμάτι (ύφασμα)",
+          "Μετάξι",
+          "ασημοκλωστή",
+          "μετάξι",
+          "χρυσός",
+          "Άργυρος",
+          "βισκόζη",
+          "Ύφασμα",
+          "Χρυσό"
+        ],
+        "mt": [
+          "Fidda"
+        ],
+        "en": [
+          "gold",
+          "Silver",
+          "viscose",
+          "silver thread",
+          "Silk",
+          "Textile",
+          "fabric fragment",
+          "cotton (fiber)",
+          "ambergris",
+          "silk (silkworm material)",
+          "silver"
+        ],
+        "it": [
+          "Tessuto",
+          "frammento (tessuto)",
+          "Argento",
+          "filo d'argento",
+          "viscosa",
+          "argento",
+          "ambra grigia",
+          "Seta",
+          "seta",
+          "cotone",
+          "oro"
+        ],
+        "es": [
+          "hilo de plata",
+          "viscosa",
+          "ámbar gris",
+          "fragmento (tejido)",
+          "Seda",
+          "seda",
+          "Plata",
+          "algodón",
+          "oro",
+          "plata",
+          "Textil"
+        ],
+        "et": [
+          "Hõbe",
+          "Siid",
+          "Tekstiil"
+        ],
+        "cs": [
+          "Stříbro",
+          "Hedvábí",
+          "Textilie"
+        ],
+        "eu": [
+          "Zeta",
+          "Zilar",
+          "Ehun"
+        ],
+        "pl": [
+          "Srebro",
+          "Tekstylia",
+          "Jedwab"
+        ],
+        "he": [
+          "ויסקוזה",
+          "זהב",
+          "כותנה",
+          "חוט (כסף)",
+          "משי",
+          "קטע (אריג)",
+          "ענבר אפור",
+          "כסף"
+        ],
+        "da": [
+          "Tekstil",
+          "Silke",
+          "Sølv"
+        ],
+        "ro": [
+          "Argint",
+          "Mătase",
+          "Material textil"
+        ],
+        "nl": [
+          "viscose",
+          "fragment (stof)",
+          "Textiel",
+          "goud",
+          "Zilver",
+          "zijde (vezel)",
+          "Zijde",
+          "zilverdraad",
+          "amber",
+          "katoen (vezel)",
+          "zilver"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/739562"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/RV/RV-2407-44.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FRV%2FRV-2407-44.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1920/1939"
+        },
+        {
+          "def": "1930~"
+        },
+        {
+          "def": "1920"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1920/1939",
+          "1930~",
+          "1920"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_739562?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_739562",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_739562.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 14.36049,
+      "timestamp": 1762960444038,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Breast cloth woven with gold and silver thread",
+        "Borstdoek geweven met goud- en zilverdraad"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1920"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1041611",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1041611",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1041611?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "Balinese",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image is just a card/label sketch (a diagram outline representing the textile's motif placement) rather than a photograph of the actual saput cloth; nothing of the textile itself can be judged from this documentation drawing.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "duk, saput [[Etno]]",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2430873%2F1972.08.0030_teck.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9488e8c050a6903e06b61ec424dbfc6bc24c21fb0624715ce95f0e442d11e91e",
+        "bytes": 21605,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\eu_91619_SMVK_EM_objekt_1041611.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:15.915619+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "Indonesia",
+        "\"Bröstduk, (balin.) saput, i siden med mönster i inslagsikat. Duken har röd varp med inslag i mörk indigo och ofärgat silke. Mönstret har regelbundet återkommande motiv; det viktigaste är en kvadrat med konkava sidor och utdragna spetsar. Denna omsluter ett koncentriskt, kvadratiskt motiv, det s.k. kota mesir, \"Egyptens stad\" (möjligen en mystisk symbol inom sufismen). Fyra mänskliga figurer i wayangstil omger den yttersta (konkava) kvadraten. De står med ett knä på marken och vänder sig bort från kvadraten. Varje figur vänder sig mot en annan, sittande wayangfigur som bär en hög håruppsättning, troligen med diadem. Figurernas handställning tyder på att någonting överlämnas och mottages. Samma motiv, men i dubbelikat, är vanligt på det ceremoniella tyg, kain gringsing, som vävs i Tenganan (Karang Asem) på Bali\". (Elisabet Lind, generalkatalogen)\n\nBröstduken är rektangulär, avlång och löper från stadkant till stadkant. Kortsidorna är fållade. \n\n(NS) [[Etno]]",
+        "Indonesia",
+        "“Breast cloth, (balin.) saput, in silk with a pattern in wrapped sheets. The canvas has a red warp with an element of dark indigo and uncoloured silk. The pattern has recurring motifs; the most important is a square with concave sides and protracted tips. This encloses a concentric, square motif, the so-called cota mesir, the” city of Egypt \"(possibly a mystical symbol within the Sufism). Four human figures in wayangstil d surround (Elisabet Lind, catalogue general)\n\nThe breastcloth is rectangular, oblong and runs from the city edge to the city edge. The short pages are patched. \n\n(NS) [[Etno]]",
+        "1972.08.0030",
+        "1972.08.0030",
+        "Indonesia"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Indonesia",
+          "\"Bröstduk, (balin.) saput, i siden med mönster i inslagsikat. Duken har röd varp med inslag i mörk indigo och ofärgat silke. Mönstret har regelbundet återkommande motiv; det viktigaste är en kvadrat med konkava sidor och utdragna spetsar. Denna omsluter ett koncentriskt, kvadratiskt motiv, det s.k. kota mesir, \"Egyptens stad\" (möjligen en mystisk symbol inom sufismen). Fyra mänskliga figurer i wayangstil omger den yttersta (konkava) kvadraten. De står med ett knä på marken och vänder sig bort från kvadraten. Varje figur vänder sig mot en annan, sittande wayangfigur som bär en hög håruppsättning, troligen med diadem. Figurernas handställning tyder på att någonting överlämnas och mottages. Samma motiv, men i dubbelikat, är vanligt på det ceremoniella tyg, kain gringsing, som vävs i Tenganan (Karang Asem) på Bali\". (Elisabet Lind, generalkatalogen)\n\nBröstduken är rektangulär, avlång och löper från stadkant till stadkant. Kortsidorna är fållade. \n\n(NS) [[Etno]]"
+        ],
+        "def": [
+          "1972.08.0030",
+          "Indonesia"
+        ],
+        "en": [
+          "Indonesia",
+          "“Breast cloth, (balin.) saput, in silk with a pattern in wrapped sheets. The canvas has a red warp with an element of dark indigo and uncoloured silk. The pattern has recurring motifs; the most important is a square with concave sides and protracted tips. This encloses a concentric, square motif, the so-called cota mesir, the” city of Egypt \"(possibly a mystical symbol within the Sufism). Four human figures in wayangstil d surround (Elisabet Lind, catalogue general)\n\nThe breastcloth is rectangular, oblong and runs from the city edge to the city edge. The short pages are patched. \n\n(NS) [[Etno]]"
+        ],
+        "zxx": [
+          "1972.08.0030"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "duk, saput [[Etno]]"
+        ],
+        "def": [
+          "duk, saput [[Etno]]"
+        ],
+        "en": [
+          "canvas, saput [[Etno]]"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2130",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Mătase"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Seide",
+          "Textilie"
+        ],
+        "ru": [
+          "Текстиль",
+          "Шёлк"
+        ],
+        "fi": [
+          "Silkki",
+          "Tekstiili"
+        ],
+        "pt": [
+          "Fibra da seda",
+          "Têxtil"
+        ],
+        "bg": [
+          "Коприна",
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Šilkas"
+        ],
+        "hr": [
+          "Svila",
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums",
+          "Zīds"
+        ],
+        "fr": [
+          "Textile",
+          "Soie"
+        ],
+        "hu": [
+          "Selyem",
+          "Szövet"
+        ],
+        "sk": [
+          "Hodváb",
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil",
+          "Svila"
+        ],
+        "ga": [
+          "Teicstíl",
+          "Síoda"
+        ],
+        "ca": [
+          "Tèxtil",
+          "Seda"
+        ],
+        "sv": [
+          "Silke",
+          "Textil"
+        ],
+        "el": [
+          "Μετάξι",
+          "Ύφασμα"
+        ],
+        "en": [
+          "Silk",
+          "Textile"
+        ],
+        "it": [
+          "Tessuto",
+          "Seta"
+        ],
+        "es": [
+          "Seda",
+          "Textil"
+        ],
+        "et": [
+          "Siid",
+          "Tekstiil"
+        ],
+        "eu": [
+          "Zeta",
+          "Ehun"
+        ],
+        "cs": [
+          "Hedvábí",
+          "Textilie"
+        ],
+        "pl": [
+          "Tekstylia",
+          "Jedwab"
+        ],
+        "da": [
+          "Tekstil",
+          "Silke"
+        ],
+        "ro": [
+          "Mătase",
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel",
+          "Zijde"
+        ]
+      },
+      "edmDatasetName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/1041611"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/2430873/1972.08.0030_teck.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2430873%2F1972.08.0030_teck.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91619_Ag_SE_SwedishNationalHeritage_smvk_em"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1041611?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91619/SMVK_EM_objekt_1041611",
+      "index": 0,
+      "language": [
+        "sv"
+      ],
+      "link": "https://api.europeana.eu/record/91619/SMVK_EM_objekt_1041611.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 11.152378,
+      "timestamp": 1752046970459,
+      "timestamp_created": "2014-08-27T14:54:08.343Z",
+      "timestamp_created_epoch": 1409151248343,
+      "timestamp_update": "2022-09-14T08:55:33.471Z",
+      "timestamp_update_epoch": 1663145733471,
+      "title": [
+        "duk, saput [[Etno]]",
+        "canvas, saput [[Etno]]",
+        "duk, saput [[Etno]]"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "british_museum-A_As1980-07-6",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1980-07-6",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1980-07-6",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1980.07.6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Balinese",
+      "tradition": "Balinese",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a geringsing double-ikat cloth with wayang-derived motifs, a textile type traditionally made only in Tenganan, Bali, matching the claimed Balinese ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "textile",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Double ikat, geringsing, textile with metal thread embroidery at both ends. Wayang design.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_19/184e704d_2af7_4c6e_86d9_a3b80147d3ac/preview_00328264_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "75eb34cb3b095fdfcb7bd514f3e4018bddafa3fa55aeda226c764dfa773b29c4",
+        "bytes": 205245,
+        "local_path": "library\\southeast-asia\\indonesia\\balinese\\textile\\balinese\\images\\bm_A_As1980-07-6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:22:34.800561+00:00",
+    "raw": {
+      "title": "textile",
+      "description": "Double ikat, geringsing, textile with metal thread embroidery at both ends. Wayang design.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_19/184e704d_2af7_4c6e_86d9_a3b80147d3ac/preview_00328264_001.jpg"
+    }
+  }
+]

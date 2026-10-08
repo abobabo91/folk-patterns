@@ -1,0 +1,199 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_52036",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_52036",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_52036?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Ibibio",
+      "tradition": "Ibibio",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a brass tray with repoussé decoration; the museum note explicitly states this type of imported Birmingham brass tray was decorated by Ibibio women of Calabar, Eastern Nigeria, confirming Ibibio attribution despite the confused Congo location fields.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "fat, Mässingsfat, plate",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123905/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9de4b65bc0712b00a113f447a76cf5bb49fafd92f43c41b8757ef70064e9af9b",
+        "bytes": 67859,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\ibibio\\metalwork\\ibibio\\images\\eu_91608_SMVK_VKM_objekt_52036.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123905%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T08:21:17.656615+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_52036",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_52036?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "fat, Mässingsfat, plate"
+      ],
+      "dcDescription": [
+        "1902.04.0008 Nedre Kongo, Afrika Nedre Kongo. [[Haga]] skiss ibibio Kongostaten Kongofristaten Demokratiska republiken Kongo Zaire Belgiska Kongo This brass tray  is of the type exported  from Birmingham in the undecorated  state, and then decorated on repousse´by the Ibibio women of Calabar, Eastern Nigeria. W.B.Fagg. 30.9.57. Democratic Republic of the Congo Ibibio Fat av mässing, ornerat för hand medelst spikar - nlonga.  Köpt. Missionär S.A. Flodén"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1123905%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1123905/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

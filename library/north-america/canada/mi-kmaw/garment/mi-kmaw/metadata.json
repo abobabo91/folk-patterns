@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1985-Q-22-a-b",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1985-Q-22-a-b",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1985-Q-22-a-b",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1985.Q.22.a.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "Canada",
+      "ethnicity": "Mi'kmaw",
+      "tradition": "Mi'kmaw",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A pair of beaded leather moccasins with the classic Mi'kmaw double-curve floral beadwork on the vamp, matching the museum's attribution to Micmac makers.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "moccasin",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "moccasin",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Pair of moccasins (with decorative designs including crowns) made of leather, velvet, cotton and glass beadwork.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2022_3/3_14/0f972132_5963_4fd7_8a69_ae4d00e6f313/preview_am1985_q_22_a_b__a_.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "054e68e4a6d200c202b88db8b09db2c5dd210b9ac3dee347a02f3ab7ff4dc1ed",
+        "bytes": 99224,
+        "local_path": "library\\north-america\\canada\\mi-kmaw\\garment\\mi-kmaw\\images\\bm_E_Am1985_Q_22_a_b.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T13:57:37.945051+00:00",
+    "raw": {
+      "title": "moccasin",
+      "description": "Pair of moccasins (with decorative designs including crowns) made of leather, velvet, cotton and glass beadwork.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_3/3_14/0f972132_5963_4fd7_8a69_ae4d00e6f313/preview_am1985_q_22_a_b__a_.jpg",
+      "production_ethnic_groups": [
+        "Micmac"
+      ],
+      "production_ethnic_attribution": "Made by: Micmac"
+    }
+  }
+]

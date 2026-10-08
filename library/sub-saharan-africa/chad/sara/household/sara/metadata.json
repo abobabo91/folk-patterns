@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1926-1015-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1926-1015-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1926-1015-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1926.1015.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Chad",
+      "ethnicity": "Sara",
+      "tradition": "Sara",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A crescent-shaped iron hoe-blade form currency (\"sakania\"), a well-documented traditional object type of the Sara and neighboring Chadian groups, explicitly attributed to Sara production by the museum.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "currency; hoe",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "currency; hoe",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Hoe blade currency.\r\nIron, crescent moon-shaped blade, also called &#039;sakania&#039;.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2023_2/1_9/c881392d_ed61_4285_aa74_af9c009a5f67/preview_Af1926_1015_2_EAF16429_F.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "05288d032e275e543a1557571cfa73129f1cc5238d52ed610b93aab3287c934e",
+        "bytes": 43661,
+        "local_path": "library\\sub-saharan-africa\\chad\\sara\\household\\sara\\images\\bm_E_Af1926_1015_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:59:06.461341+00:00",
+    "raw": {
+      "title": "currency; hoe",
+      "description": "Hoe blade currency.\r\nIron, crescent moon-shaped blade, also called &#039;sakania&#039;.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2023_2/1_9/c881392d_ed61_4285_aa74_af9c009a5f67/preview_Af1926_1015_2_EAF16429_F.jpg",
+      "production_ethnic_groups": [
+        "Sara"
+      ],
+      "production_ethnic_attribution": "Made by: Sara"
+    }
+  }
+]

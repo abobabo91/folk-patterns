@@ -1,0 +1,447 @@
+[
+  {
+    "id": "europeana-188_item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Deutsche Fotothek",
+      "object_id": "188_item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR",
+      "object_url": "https://www.europeana.eu/item/188/item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ethiopia",
+      "ethnicity": "Oromo",
+      "tradition": "Oromo Ethiopia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photographic portrait of an Oromo (Galla) woman in traditional dress, not a painting or manuscript, but it does document the claimed people's appearance/clothing.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Portrait of a Woman from the People’s Group of Galla (Abhu)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1927"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Deutsche Fotothek",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_hauptkatalog_0057769.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "07f884d99b83af19ab0cdd27966b619e6c7b896c3d125bdacb8cd5eea182b401",
+        "bytes": 86680,
+        "local_path": "library\\sub-saharan-africa\\ethiopia\\oromo\\painting-mss\\oromo-ethiopia\\images\\eu_188_item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:03.519320+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Deutsche Fotothek"
+      ],
+      "dcCreator": [
+        "Steinlehner, Josef (Herstellung) (Fotograf)"
+      ],
+      "dcCreatorLangAware": {
+        "zxx": [
+          "Steinlehner, Josef (Herstellung) (Fotograf)"
+        ]
+      },
+      "dcDescription": [
+        "Portrait of a Woman from the People’s Group of Galla (Abhu)",
+        "Black and white glass, high",
+        "Porträt einer Frau aus der Volksgruppe der Galla (Abhu)",
+        "aus Glas in schwarzweiß, hoch"
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "Porträt einer Frau aus der Volksgruppe der Galla (Abhu)",
+          "aus Glas in schwarzweiß, hoch"
+        ],
+        "en": [
+          "Portrait of a Woman from the People’s Group of Galla (Abhu)",
+          "Black and white glass, high"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Porträt einer Frau aus der Volksgruppe der Galla (Abhu)"
+        ],
+        "en": [
+          "Portrait of a Woman from the People’s Group of Galla (Abhu)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2380",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Frisur"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Frisyr"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Причёска"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Hiustyyli"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Penteado"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Фризьорство"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Κόμμωση"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Hairstyle"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Frizura"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Acconciatura"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Coiffure"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Frizura"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Peinado"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Soeng"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Účes"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Orrazkera"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Pričeska"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Stíl ghruaige"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fryzura"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Frisure"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Hair style"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Kapsel"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Pentinat"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Frisur"
+        ],
+        "ru": [
+          "Фотография",
+          "Причёска"
+        ],
+        "fi": [
+          "Valokuva",
+          "Hiustyyli"
+        ],
+        "pt": [
+          "Penteado",
+          "Fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "Фризьорство"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "hr": [
+          "Frizura",
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "fr": [
+          "Photographie",
+          "Coiffure"
+        ],
+        "hu": [
+          "Fénykép",
+          "Frizura"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Pričeska",
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf",
+          "Stíl ghruaige"
+        ],
+        "ca": [
+          "Fotografia",
+          "Pentinat"
+        ],
+        "sv": [
+          "Fotografi",
+          "Frisyr"
+        ],
+        "el": [
+          "Κόμμωση",
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Hairstyle",
+          "Photograph"
+        ],
+        "it": [
+          "Acconciatura",
+          "Fotografia"
+        ],
+        "es": [
+          "Peinado",
+          "Fotografía"
+        ],
+        "et": [
+          "Foto",
+          "Soeng"
+        ],
+        "cs": [
+          "Fotografie",
+          "Účes"
+        ],
+        "eu": [
+          "Orrazkera",
+          "Argazki"
+        ],
+        "pl": [
+          "Fryzura",
+          "Fotografia"
+        ],
+        "da": [
+          "Fotografi",
+          "Frisure"
+        ],
+        "ro": [
+          "Fotografie",
+          "Hair style"
+        ],
+        "nl": [
+          "Foto",
+          "Kapsel"
+        ]
+      },
+      "edmDatasetName": [
+        "188_DDB_SLUB_0"
+      ],
+      "edmIsShownAt": [
+        "http://www.deutschefotothek.de/documents/obj/72018884"
+      ],
+      "edmIsShownBy": [
+        "http://fotothek.slub-dresden.de/fotos/df_hauptkatalog_0057769.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_hauptkatalog_0057769.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1927"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1927"
+        ]
+      },
+      "europeanaCollectionName": [
+        "188_DDB_SLUB_0"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/188/item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/188/item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/188/item_5WSPLWIXK4ZQ4G3BJ73DQRQAQGGJYZMR.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 29.006767,
+      "timestamp": 1751999299226,
+      "timestamp_created": "2020-12-16T09:50:12.330Z",
+      "timestamp_created_epoch": 1608112212330,
+      "timestamp_update": "2022-01-27T09:19:05.373Z",
+      "timestamp_update_epoch": 1643275145373,
+      "title": [
+        "Portrait of a Woman from the People’s Group of Galla (Abhu)",
+        "Porträt einer Frau aus der Volksgruppe der Galla (Abhu)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

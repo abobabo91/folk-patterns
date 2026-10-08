@@ -1,0 +1,792 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1067983",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1067983",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067983?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Laguna",
+      "tradition": "Laguna",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Classic Laguna Pueblo polychrome storage jar with black-and-red geometric and feather motifs on white slip, a well-documented traditional pottery type made by this people.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vessel, pot,",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1330934/1998.20.0001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0ca60a94f8ea90ac77a3290e471939581c8dfc2b3b80b746de350a5ed142b5c7",
+        "bytes": 56372,
+        "local_path": "library\\north-america\\united-states\\laguna\\ceramic\\laguna\\images\\eu_91619_SMVK_EM_objekt_1067983.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1330934%2F1998.20.0001.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:03:27.535788+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1067983",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067983?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "vessel, pot,",
+        "kärl, kruka, vessel"
+      ],
+      "dcDescription": [
+        "United States 1998.20.0001 Nordamerika (2008) Amerika Kruka av vit lera med dekorationer i rött och svart. Halvsluten form med högt markerad buk. laguna pueblo NAm-08 8-pueblo 1998.20.0001 laguna pueblo Nordamerika (2008) NAm-08 8-pueblo United States Amerika"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1330934%2F1998.20.0001.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1330934/1998.20.0001.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1067914",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1067914",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067914?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Laguna",
+      "tradition": "Laguna",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A classic wedding-vase style small ceramic jar with twin spouts joined by a handle, painted with black and red geometric/floral designs on white slip — characteristic of Laguna Pueblo pottery traditions.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, kruka, vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1341258/1998.20.0002_alt7.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dac95d61b02abb43cf7249866767b8a4c78eb9d0a140963c5a68a77d392554e7",
+        "bytes": 22793,
+        "local_path": "library\\north-america\\united-states\\laguna\\ceramic\\laguna\\images\\eu_91619_SMVK_EM_objekt_1067914.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1341258%2F1998.20.0002_alt7.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:03:28.268609+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1067914",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1067914?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, kruka, vessel",
+        "vessel, pot,"
+      ],
+      "dcDescription": [
+        "1998.20.0002 laguna pueblo Nordamerika (2008) NAm-08 8-pueblo United States Amerika Litet kärl av ljus lera. Sluten form med två öppningar åtskilda av ett handtag. Dekor i ljust rött och svart. Nordamerika (2008) Amerika United States 1998.20.0002 laguna pueblo NAm-08 8-pueblo"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1341258%2F1998.20.0002_alt7.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1341258/1998.20.0002_alt7.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_15107",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_15107",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15107?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Laguna",
+      "tradition": "Laguna",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A small handmade earthenware jar with broken-off handle, cream slip and brown-black geometric triangle/eye design, consistent with traditional Pueblo pottery; museum records it as from Laguna Pueblo, New Mexico.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kärl, Lerkärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155690/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "50ef78d71b4adc24a3ca47fc63dac5faba9f8b8c3eb0873549f23bed4d236fb3",
+        "bytes": 43757,
+        "local_path": "library\\north-america\\united-states\\laguna\\ceramic\\laguna\\images\\eu_91608_SMVK_VKM_objekt_15107.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155690%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:03:28.888184+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_15107",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15107?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kärl, Lerkärl"
+      ],
+      "dcDescription": [
+        "1927.12.0012 Laguna, New Mexico. U.S.A. Laguna, New Mexico, USA [[Haga]] Laguna Pueblo, New Mexico, USA skiss Laguna Amerika United States laguna pueblo Lerkärl, handtaget avbrutet.\nByte med Museum for Anthropology, University of California. kärl utan handtag"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155690%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155690/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_15125",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_15125",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15125?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Laguna",
+      "tradition": "Laguna",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A cream-slipped earthenware bowl with dark brown triangular/geometric painted band, explicitly documented as from Laguna Pueblo, New Mexico, consistent with historic Laguna pottery traditions.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "skål, Lerskål, kärl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1049290/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c9dcf9fc113acc4a39de5ec43665d38f1299428c92571f9ab5357c85840c473a",
+        "bytes": 20322,
+        "local_path": "library\\north-america\\united-states\\laguna\\ceramic\\laguna\\images\\eu_91608_SMVK_VKM_objekt_15125.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1049290%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:03:29.399554+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_15125",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_15125?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "skål, Lerskål, kärl"
+      ],
+      "dcDescription": [
+        "1927.12.0013 Laguna, New Mexico. U.S.A. Laguna Pueblo, New Mexico, USA Laguna, New Mexico. [[Haga]] skiss Laguna Amerika United States laguna pueblo skål av lergods, vit bottenfärg, med mörkbrun dekoration. Byte med Museum for Anthropology, University of California."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1049290%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1049290/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

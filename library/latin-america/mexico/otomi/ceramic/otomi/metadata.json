@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1989-12-222",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1989-12-222",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1989-12-222",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1989.12.222",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Otomi",
+      "tradition": "Otomi",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A clay jug with three loop handles and pitch-painted geometric/floral decoration, a traditional Otomí pottery technique (chapopote resin painting); museum attributes it to Otomí makers.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "jug",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "jug",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Jug; made of pottery; lightly fired and fire-stained; circular bottom, tapering slightly on sides, then in sharply at neck, with vertical lip slightly flared out at top; three looped handles on sides; just above handles, sides painted with geometric and floral design in pitch-like substance (chapopote in Spanish); rim painted black with pitch.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_17/9035d084_152f_44ef_b256_a3e1011b8c72/preview_00116447_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e1a7385f7dd2ca8578b275eb716073db2d83ca57aef5d5f011535246bcfda31f",
+        "bytes": 48226,
+        "local_path": "library\\latin-america\\mexico\\otomi\\ceramic\\otomi\\images\\bm_E_Am1989_12_222.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:07:39.189790+00:00",
+    "raw": {
+      "title": "jug",
+      "description": "Jug; made of pottery; lightly fired and fire-stained; circular bottom, tapering slightly on sides, then in sharply at neck, with vertical lip slightly flared out at top; three looped handles on sides; just above handles, sides painted with geometric and floral design in pitch-like substance (chapopote in Spanish); rim painted black with pitch.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_17/9035d084_152f_44ef_b256_a3e1011b8c72/preview_00116447_001.jpg",
+      "production_ethnic_groups": [
+        "Otomí"
+      ],
+      "production_ethnic_attribution": "Made by: Otomí"
+    }
+  }
+]

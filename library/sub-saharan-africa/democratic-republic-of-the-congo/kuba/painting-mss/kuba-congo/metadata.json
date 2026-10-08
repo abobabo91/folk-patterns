@@ -1,0 +1,399 @@
+[
+  {
+    "id": "europeana-91627_SMVK_EM_fotografi_25192737",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91627_SMVK_EM_fotografi_25192737",
+      "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_25192737?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba Congo",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a hand-tinted documentary photograph of Bakuba (Kuba) boys in raffia skirts gathered for puberty rite ceremonies, matching the claimed ethnicity and their traditional dress/customs, though it is not a painting or manuscript.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "pojkar, gruppbild, utsmyckningar, fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25192741%2F0964.3396.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9172ba70537cb0526b0f303d0fe0e288e92ea81e2f0a5a523ac6bb1faf5733e3",
+        "bytes": 107457,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\painting-mss\\kuba-congo\\images\\eu_91627_SMVK_EM_fotografi_25192737.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:02.709354+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "dcDescription": [
+        "Bakuba, Pojkar som genomgå pubertetsriter. EA.",
+        "Samling 0964 gåva från Equmeniakyrkans (tidigare Svenska Missionskyrkans) arkiv 2014.",
+        "0964.3396"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Bakuba, Pojkar som genomgå pubertetsriter. EA.",
+          "Samling 0964 gåva från Equmeniakyrkans (tidigare Svenska Missionskyrkans) arkiv 2014."
+        ],
+        "def": [
+          "0964.3396"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "pojkar, gruppbild, utsmyckningar, fotografi, photograph"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1718"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Gruppenporträt"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Ryhmämuotokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Групповой портрет"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Retrato de grupo"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Portrait de groupe"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Skupinski portret"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Retrat grupal"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Grupporträtt"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Group portrait"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Ritratto di gruppo"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Retrato grupal"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Skupinový portrét"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Portret grupowy"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Gruppeportræt"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Groepsportret"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Gruppenporträt",
+          "Fotografie"
+        ],
+        "fi": [
+          "Ryhmämuotokuva",
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Групповой портрет"
+        ],
+        "pt": [
+          "Retrato de grupo",
+          "Fotografia"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "Photographie",
+          "Portrait de groupe"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Skupinski portret"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Retrat grupal"
+        ],
+        "sv": [
+          "Fotografi",
+          "Grupporträtt"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Group portrait",
+          "Photograph"
+        ],
+        "it": [
+          "Ritratto di gruppo",
+          "Fotografia"
+        ],
+        "es": [
+          "Retrato grupal",
+          "Fotografía"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Skupinový portrét",
+          "Fotografie"
+        ],
+        "pl": [
+          "Portret grupowy",
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi",
+          "Gruppeportræt"
+        ],
+        "nl": [
+          "Groepsportret",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "91627_SOCH_smvk_emfoto"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-em/web/object/25192737"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/25192741/0964.3396.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25192741%2F0964.3396.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91627_SOCH_smvk_emfoto"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_25192737?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91627/SMVK_EM_fotografi_25192737",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91627/SMVK_EM_fotografi_25192737.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 19.162762,
+      "timestamp": 1752045398760,
+      "timestamp_created": "2022-02-10T12:33:58.652Z",
+      "timestamp_created_epoch": 1644496438652,
+      "timestamp_update": "2022-02-10T12:33:58.652Z",
+      "timestamp_update_epoch": 1644496438652,
+      "title": [
+        "pojkar, gruppbild, utsmyckningar, fotografi, photograph"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

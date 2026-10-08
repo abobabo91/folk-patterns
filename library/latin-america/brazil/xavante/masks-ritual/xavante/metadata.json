@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1959-10-89",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1959-10-89",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1959-10-89",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1959.10.89",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Brazil",
+      "ethnicity": "Xavante",
+      "tradition": "Xavante",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a bundle of long grass strands bound with cotton cord, matching the museum's description of a Xavante dance mask made from grass bundles and native cotton binding with urucu coloring visible on the binding.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "dance-mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "dance-mask",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1959:\r\nDance mask, made of a bundle of long grass strands bound at the top with white native cotton and decorated with urucu.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_11/7_15/23fb56e7_0e92_4884_b556_aafe0103c9ca/preview_DSC_0759.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "58961521f5014eb5149b8f6df0b0f5473cf15bc85fda594d925b2406c547cfb4",
+        "bytes": 166791,
+        "local_path": "library\\latin-america\\brazil\\xavante\\masks-ritual\\xavante\\images\\bm_E_Am1959_10_89.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T09:33:47.722926+00:00",
+    "raw": {
+      "title": "dance-mask",
+      "description": "Register 1959:\r\nDance mask, made of a bundle of long grass strands bound at the top with white native cotton and decorated with urucu.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_11/7_15/23fb56e7_0e92_4884_b556_aafe0103c9ca/preview_DSC_0759.jpg",
+      "production_ethnic_groups": [
+        "Xavante"
+      ],
+      "production_ethnic_attribution": "Made by: Xavante"
+    }
+  }
+]

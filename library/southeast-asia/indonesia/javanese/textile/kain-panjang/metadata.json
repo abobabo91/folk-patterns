@@ -1,0 +1,812 @@
+[
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399905903-1",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399905903-1",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/56091",
+      "iiif_manifest": null,
+      "credit_line": "Given by Miss Helen S. Stone and Bromley S. Stone",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1937-35-4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "kain panjang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "A batik kain panjang with dense floral/tendril motif in indigo and brown, a classic Javanese batik textile form and typical hand-drawn batik palette.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Kain panjang (long sarong)",
+      "titles_alt": [],
+      "date_text": "1850–99",
+      "date_earliest": 1850,
+      "date_latest": 1850,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Kain panjang (long sarong)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 250.5 x 105.4 cm (98 5/8 x 41 1/2 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq478a02b88-be2a-4700-bbfc-abbde4287221"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-8BAC707423882-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1f2c2a9980ad369902adbae7703df71561959fa253685f6242b2bbb7adaf939a",
+        "bytes": 7221960,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1937-35-4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:51:16.198634+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399905903-1",
+      "title": "Kain panjang (long sarong)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1937-35-4",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "1850–99"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "A long sarong (kain panjang) with a blue ground and design in brown and white. All-over floral motifs with vine or tendril design."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Given by Miss Helen S. Stone and Bromley S. Stone"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1937-35-4"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Kain panjang (long sarong)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 250.5 x 105.4 cm (98 5/8 x 41 1/2 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1890s",
+            "1850s"
+          ],
+          "place": [
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              }
+            }
+          ],
+          "object_type": [
+            "Kain panjang (long sarong)",
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq478a02b88-be2a-4700-bbfc-abbde4287221",
+          "title": {
+            "label": "Title",
+            "content": "Kain panjang (long sarong)"
+          },
+          "record_ID": "chndm_1937-35-4",
+          "unit_code": "CHNDM",
+          "title_sort": "KAIN PANJANG (LONG SARONG)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/56091",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-8BAC707423882-000001",
+                "guid": "http://n2t.net/ark:/65665/vc930e0180c-7f4f-4780-abf9-2c6353229b78",
+                "type": "Images",
+                "idsId": "CHSDM-8BAC707423882-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-8BAC707423882-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-8BAC707423882-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "A long sarong (kain panjang) with a blue ground and design in brown and white. All-over floral motifs with vine or tendril design.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-8BAC707423882-000001.jpg",
+                    "width": 7684,
+                    "height": 8944,
+                    "dimensions": "7684x8944"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-8BAC707423882-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-8BAC707423882-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "813ca8135a3662ed197b79a62aaf0c73839708a7",
+      "docSignature": "9d6c774c12a7c2bdc15f86cdf97e5fd4",
+      "timestamp": "1663784056",
+      "lastTimeUpdated": "1776336432",
+      "version": "1776332796"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399940743-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399940743-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/142764",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Harvey Smith",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1968-135-96",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "kain panjang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a hand-drawn batik \"kain panjang\" with a fine tumpal/cecek ground and floral sprigs, a classic Javanese batik textile form and technique.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Kain panjang (long sarong)",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Kain panjang (long sarong)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 242.5 x 104.5 cm (95 1/2 x 41 1/8 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4d99170c6-1321-4a46-822b-28870ae35b0c"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-5860270FEC942-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3475e0980db13bf59194e429b8a05c4544343354f9ba69d0f4e36b4ce128a429",
+        "bytes": 7851683,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1968-135-96.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:52:14.674147+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399940743-0",
+      "title": "Kain panjang (long sarong)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1968-135-96",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Long sarong (kain panjang) printed with an all-over pattern of sparsely used flower and leaf designs in white-dotted indigo blue and brown on a light tan ground, which is evenly divided into small all-over geometric pattern of diagonally striped squares (\"isen\" motif)."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Harvey Smith"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1968-135-96"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Kain panjang (long sarong)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 242.5 x 104.5 cm (95 1/2 x 41 1/8 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              }
+            }
+          ],
+          "object_type": [
+            "Kain panjang (long sarong)",
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4d99170c6-1321-4a46-822b-28870ae35b0c",
+          "title": {
+            "label": "Title",
+            "content": "Kain panjang (long sarong)"
+          },
+          "record_ID": "chndm_1968-135-96",
+          "unit_code": "CHNDM",
+          "title_sort": "KAIN PANJANG (LONG SARONG)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/142764",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-5860270FEC942-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9df242b2f-62f8-41f4-b4b6-96db37c749e1",
+                "type": "Images",
+                "idsId": "CHSDM-5860270FEC942-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-5860270FEC942-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-5860270FEC942-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Long sarong (kain panjang) printed with an all-over pattern of sparsely used flower and leaf designs in white-dotted indigo blue and brown on a light tan ground, which is evenly divided into small all-over geometric pattern of diagonally striped squares (\"isen\" motif).",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-5860270FEC942-000001.jpg",
+                    "width": 10295,
+                    "height": 7663,
+                    "dimensions": "10295x7663"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-5860270FEC942-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-5860270FEC942-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "fc346d29d22429ca76bd40246b54415945b63252",
+      "docSignature": "6333812e3aabb62fa1278bd7d49601d0",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399921524-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399921524-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/103473",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Frances Morris",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1951-111-20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Javanese",
+      "tradition": "kain panjang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a batik kain panjang with a classic repeating parang/tumpal-style motif in brown, cream and dark tones typical of Javanese batik cloth, consistent with the claimed Javanese textile.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Long sarong (kain panjang)",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave",
+      "classification": "printed, dyed & painted textiles",
+      "styles": [],
+      "categories": [
+        "printed, dyed & painted textiles",
+        "Long sarong (kain panjang)"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 254 x 105.8 cm (100 x 41 5/8 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Indonesia",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4ff6ee731-a6a3-4b80-a4ed-2ce567bacce3"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-2ACC4A33950F2-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2a0d9978f148d5fb8696b777e662ac596084cb695738e07d8df7ac07121e40b1",
+        "bytes": 8478147,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1951-111-20.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CHT2744",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0cef57a20c39fea79dc834b60ce06e73e3b3b7fe18cf678340ba20db5bee46d8",
+        "bytes": 478719,
+        "local_path": "library\\southeast-asia\\indonesia\\javanese\\textile\\kain-panjang\\images\\si_chndm_1951-111-20_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:53:09.840561+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399921524-0",
+      "title": "Long sarong (kain panjang)",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1951-111-20",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Long cotton sarong (kain panjang) featuring diagonal repeat of medium-sized decorated blade-like motifs with stylized leaves and flowers attached to curving stems alternating with small four-lobed rosettes in dark blue, white, and cocoa brown. Design on a ground of cocoa crackle and five dark wavy parallel comb marks. Two plain selvedges, narrow hem at one end. Reversible."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Indonesia"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Frances Morris"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1951-111-20"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "printed, dyed & painted textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Long sarong (kain panjang)"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: cotton Technique: wax resist dyeing (batik) on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 254 x 105.8 cm (100 x 41 5/8 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Indonesia"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Indonesia"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles",
+            "Long sarong (kain panjang)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4ff6ee731-a6a3-4b80-a4ed-2ce567bacce3",
+          "title": {
+            "label": "Title",
+            "content": "Long sarong (kain panjang)"
+          },
+          "record_ID": "chndm_1951-111-20",
+          "unit_code": "CHNDM",
+          "title_sort": "LONG SARONG (KAIN PANJANG)",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/103473",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-2ACC4A33950F2-000001",
+                "guid": "http://n2t.net/ark:/65665/vc92e1325c0-2e36-4ecf-acfe-ce534a39b5b5",
+                "type": "Images",
+                "idsId": "CHSDM-2ACC4A33950F2-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-2ACC4A33950F2-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-2ACC4A33950F2-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Long cotton sarong (kain panjang) featuring diagonal repeat of medium-sized decorated blade-like motifs with stylized leaves and flowers attached to curving stems alternating with small four-lobed rosettes in dark blue, white, and cocoa brown. Design on a ground of cocoa crackle and five dark wavy parallel comb marks. Two plain selvedges, narrow hem at one end. Reversible.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-2ACC4A33950F2-000001.jpg",
+                    "width": 7724,
+                    "height": 10292,
+                    "dimensions": "7724x10292"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-2ACC4A33950F2-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-2ACC4A33950F2-000001_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-CHT2744",
+                "guid": "http://n2t.net/ark:/65665/vc947c22b4e-b657-4bab-a81e-1cd65402128b",
+                "type": "Images",
+                "idsId": "CHSDM-CHT2744",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CHT2744",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CHT2744",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Long cotton sarong (kain panjang) featuring diagonal repeat of medium-sized decorated blade-like motifs with stylized leaves and flowers attached to curving stems alternating with small four-lobed rosettes in dark blue, white, and cocoa brown. Design on a ground of cocoa crackle and five dark wavy parallel comb marks. Two plain selvedges, narrow hem at one end. Reversible.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CHT2744.jpg",
+                    "width": 1500,
+                    "height": 1189,
+                    "dimensions": "1500x1189"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CHT2744_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CHT2744_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "5b531c30f3b708eb283f651d7ec8253be9ba0a62",
+      "docSignature": "b08e604d4003911b1aa43dd255736199",
+      "timestamp": "1663784057",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  }
+]

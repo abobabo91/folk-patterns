@@ -1,0 +1,1885 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_104324",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_104324",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104324?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "ceramic",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a woven basket/tray made of cane or rattan, from Vinh Phu province, Vietnam — a plausible Kinh craft item, but it is a basketry object, not ceramic as claimed.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "fat, Korgfat, plate",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2289181%2F1978.18.0024.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c903b0b58957a95d96f7ab11b8e3dac50d3db1f9f7845da05507a12850c62807",
+        "bytes": 19108,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\ceramic\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104324.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:25.770018+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Ur generalkatalogen: Korgfat, modernt. Mått: 21 cm.",
+        "1978.18.0024",
+        "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+        "Vinh Phu-provinsen",
+        "Playground",
+        "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+        "Vietnam",
+        "Vietnameser",
+        "Kinh people"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Ur generalkatalogen: Korgfat, modernt. Mått: 21 cm."
+        ],
+        "def": [
+          "1978.18.0024",
+          "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+          "Vinh Phu-provinsen",
+          "Playground",
+          "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+          "Vietnam",
+          "Vietnameser",
+          "Kinh people"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "fat, Korgfat, plate"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1918"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Teller"
+        },
+        {
+          "def": "Тарелка"
+        },
+        {
+          "def": "Lautanen"
+        },
+        {
+          "def": "Prato"
+        },
+        {
+          "def": "Чиния"
+        },
+        {
+          "def": "Lėkštė"
+        },
+        {
+          "def": "Tanjur"
+        },
+        {
+          "def": "Šķīvis"
+        },
+        {
+          "def": "Assiette"
+        },
+        {
+          "def": "Tányér"
+        },
+        {
+          "def": "Tanier"
+        },
+        {
+          "def": "Krožnik"
+        },
+        {
+          "def": "Pláta"
+        },
+        {
+          "def": "Plat"
+        },
+        {
+          "def": "Tallrik"
+        },
+        {
+          "def": "Πιάτο"
+        },
+        {
+          "def": "Plate"
+        },
+        {
+          "def": "Piatto"
+        },
+        {
+          "def": "Plato"
+        },
+        {
+          "def": "Taldrik"
+        },
+        {
+          "def": "Talíř"
+        },
+        {
+          "def": "Plater"
+        },
+        {
+          "def": "Talerz"
+        },
+        {
+          "def": "Tallerken"
+        },
+        {
+          "def": "Farfurie"
+        },
+        {
+          "def": "Bord"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Teller"
+        ],
+        "ru": [
+          "Тарелка"
+        ],
+        "fi": [
+          "Lautanen"
+        ],
+        "pt": [
+          "Prato"
+        ],
+        "bg": [
+          "Чиния"
+        ],
+        "lt": [
+          "Lėkštė"
+        ],
+        "hr": [
+          "Tanjur"
+        ],
+        "lv": [
+          "Šķīvis"
+        ],
+        "fr": [
+          "Assiette"
+        ],
+        "hu": [
+          "Tányér"
+        ],
+        "sk": [
+          "Tanier"
+        ],
+        "sl": [
+          "Krožnik"
+        ],
+        "ga": [
+          "Pláta"
+        ],
+        "ca": [
+          "Plat"
+        ],
+        "sv": [
+          "Tallrik"
+        ],
+        "el": [
+          "Πιάτο"
+        ],
+        "en": [
+          "Plate"
+        ],
+        "it": [
+          "Piatto"
+        ],
+        "es": [
+          "Plato"
+        ],
+        "et": [
+          "Taldrik"
+        ],
+        "cs": [
+          "Talíř"
+        ],
+        "eu": [
+          "Plater"
+        ],
+        "pl": [
+          "Talerz"
+        ],
+        "da": [
+          "Tallerken"
+        ],
+        "ro": [
+          "Farfurie"
+        ],
+        "nl": [
+          "Bord"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/104324"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2289181/1978.18.0024.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Социалистическая Республика Вьетнам"
+        },
+        {
+          "def": "Vietnamin sosialistinen tasavalta"
+        },
+        {
+          "def": "Socialistiska republiken Vietnam"
+        },
+        {
+          "def": "República Socialista do Vietname"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Republica Socialista do Vietname"
+        },
+        {
+          "def": "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        },
+        {
+          "def": "Repubblika Soċjalista tal-Vjetnam"
+        },
+        {
+          "def": "Socialist Republic of Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "SRV"
+        },
+        {
+          "def": "VNM"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "La République socialiste du Vietnam"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Vietnámi Szocialista Köztársaság"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "República Socialista de Vietnam"
+        },
+        {
+          "def": "Republica Socialista de Vietnam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnami Sotsialistlik Vabariik"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "VSR"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "Socjalistyczna Republika Wietnamu"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Republica Socialistă Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "República Socialista del Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VNM"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "VN"
+        ],
+        "ru": [
+          "Социалистическая Республика Вьетнам"
+        ],
+        "fi": [
+          "Vietnamin sosialistinen tasavalta"
+        ],
+        "sv": [
+          "Socialistiska republiken Vietnam"
+        ],
+        "pt": [
+          "República Socialista do Vietname",
+          "Việt Nam",
+          "Republica Socialista do Vietname"
+        ],
+        "el": [
+          "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        ],
+        "mt": [
+          "Repubblika Soċjalista tal-Vjetnam"
+        ],
+        "en": [
+          "Socialist Republic of Vietnam",
+          "VN",
+          "VIE",
+          "Việt Nam",
+          "Viet Nam",
+          "SRV",
+          "VNM"
+        ],
+        "it": [
+          "VN"
+        ],
+        "fr": [
+          "Viet Nam",
+          "Vietnam",
+          "Viet-Nam",
+          "Viêt-Nam",
+          "Viêtnam",
+          "VN",
+          "La République socialiste du Vietnam",
+          "Việt Nam"
+        ],
+        "hu": [
+          "Vietnámi Szocialista Köztársaság",
+          "Vietnam"
+        ],
+        "es": [
+          "República Socialista de Vietnam",
+          "Republica Socialista de Vietnam",
+          "Viet Nam"
+        ],
+        "et": [
+          "Vietnami Sotsialistlik Vabariik"
+        ],
+        "cs": [
+          "Vietnamská socialistická republika",
+          "VSR"
+        ],
+        "sk": [
+          "Vietnamská socialistická republika"
+        ],
+        "pl": [
+          "Socjalistyczna Republika Wietnamu"
+        ],
+        "ro": [
+          "Viet Nam",
+          "Republica Socialistă Vietnam",
+          "VN",
+          "VIE",
+          "Viet-Nam",
+          "Viêtnam",
+          "Viêt-Nam"
+        ],
+        "ca": [
+          "República Socialista del Vietnam"
+        ],
+        "nl": [
+          "VN",
+          "VNM"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Вьетнам"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietname"
+        },
+        {
+          "def": "Виетнам"
+        },
+        {
+          "def": "Vietnamas"
+        },
+        {
+          "def": "Vjetnama"
+        },
+        {
+          "def": "Vijetnam"
+        },
+        {
+          "def": "Viêt Nam"
+        },
+        {
+          "def": "Vietnám"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vítneam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Βιετνάμ"
+        },
+        {
+          "def": "Vjetnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Wietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Vietnam"
+        ],
+        "ru": [
+          "Вьетнам"
+        ],
+        "fi": [
+          "Vietnam"
+        ],
+        "pt": [
+          "Vietname"
+        ],
+        "bg": [
+          "Виетнам"
+        ],
+        "lt": [
+          "Vietnamas"
+        ],
+        "lv": [
+          "Vjetnama"
+        ],
+        "hr": [
+          "Vijetnam"
+        ],
+        "fr": [
+          "Viêt Nam"
+        ],
+        "hu": [
+          "Vietnám"
+        ],
+        "sk": [
+          "Vietnam"
+        ],
+        "sl": [
+          "Vietnam"
+        ],
+        "ga": [
+          "Vítneam"
+        ],
+        "ca": [
+          "Vietnam"
+        ],
+        "sv": [
+          "Vietnam"
+        ],
+        "el": [
+          "Βιετνάμ"
+        ],
+        "mt": [
+          "Vjetnam"
+        ],
+        "en": [
+          "Vietnam"
+        ],
+        "it": [
+          "Vietnam"
+        ],
+        "es": [
+          "Vietnam"
+        ],
+        "et": [
+          "Vietnam"
+        ],
+        "eu": [
+          "Vietnam"
+        ],
+        "cs": [
+          "Vietnam"
+        ],
+        "pl": [
+          "Wietnam"
+        ],
+        "ro": [
+          "Vietnam"
+        ],
+        "da": [
+          "Vietnam"
+        ],
+        "nl": [
+          "Vietnam"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "16.0"
+      ],
+      "edmPlaceLongitude": [
+        "108.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2289181%2F1978.18.0024.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104324?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_104324",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_104324.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 35.520752,
+      "timestamp": 1752047496630,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "fat, Korgfat, plate"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_104325",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_104325",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104325?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "ceramic",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a woven bamboo/rattan basket from Vinh Phu province, Vietnam, plausible household craft of the Kinh people, though it is a basket rather than ceramic.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "household",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "korg, basket",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2290652%2F1978.18.0025.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4465e696bd19c79e8fa7c9ed1d121cff2ac58d34e4b6d03d6278a8ea344735d8",
+        "bytes": 14338,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\ceramic\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104325.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:25.783085+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Ur generalkatalogen: Korg. Mått: 52 x 78 cm.",
+        "1978.18.0025",
+        "Vinh Phu-provinsen",
+        "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+        "Playground",
+        "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+        "Vietnam",
+        "Vietnameser",
+        "Kinh people"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Ur generalkatalogen: Korg. Mått: 52 x 78 cm."
+        ],
+        "def": [
+          "1978.18.0025",
+          "Vinh Phu-provinsen",
+          "Vinh Phu-provinsen, Vietnam. [[Haga]]",
+          "Playground",
+          "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+          "Vietnam",
+          "Vietnameser",
+          "Kinh people"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "korg, basket"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/104325"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2290652/1978.18.0025.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Социалистическая Республика Вьетнам"
+        },
+        {
+          "def": "Vietnamin sosialistinen tasavalta"
+        },
+        {
+          "def": "Socialistiska republiken Vietnam"
+        },
+        {
+          "def": "República Socialista do Vietname"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Republica Socialista do Vietname"
+        },
+        {
+          "def": "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        },
+        {
+          "def": "Repubblika Soċjalista tal-Vjetnam"
+        },
+        {
+          "def": "Socialist Republic of Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "SRV"
+        },
+        {
+          "def": "VNM"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "La République socialiste du Vietnam"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Vietnámi Szocialista Köztársaság"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "República Socialista de Vietnam"
+        },
+        {
+          "def": "Republica Socialista de Vietnam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnami Sotsialistlik Vabariik"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "VSR"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "Socjalistyczna Republika Wietnamu"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Republica Socialistă Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "República Socialista del Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VNM"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "VN"
+        ],
+        "ru": [
+          "Социалистическая Республика Вьетнам"
+        ],
+        "fi": [
+          "Vietnamin sosialistinen tasavalta"
+        ],
+        "sv": [
+          "Socialistiska republiken Vietnam"
+        ],
+        "pt": [
+          "República Socialista do Vietname",
+          "Việt Nam",
+          "Republica Socialista do Vietname"
+        ],
+        "el": [
+          "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        ],
+        "mt": [
+          "Repubblika Soċjalista tal-Vjetnam"
+        ],
+        "en": [
+          "Socialist Republic of Vietnam",
+          "VN",
+          "VIE",
+          "Việt Nam",
+          "Viet Nam",
+          "SRV",
+          "VNM"
+        ],
+        "it": [
+          "VN"
+        ],
+        "fr": [
+          "Viet Nam",
+          "Vietnam",
+          "Viet-Nam",
+          "Viêt-Nam",
+          "Viêtnam",
+          "VN",
+          "La République socialiste du Vietnam",
+          "Việt Nam"
+        ],
+        "hu": [
+          "Vietnámi Szocialista Köztársaság",
+          "Vietnam"
+        ],
+        "es": [
+          "República Socialista de Vietnam",
+          "Republica Socialista de Vietnam",
+          "Viet Nam"
+        ],
+        "et": [
+          "Vietnami Sotsialistlik Vabariik"
+        ],
+        "cs": [
+          "Vietnamská socialistická republika",
+          "VSR"
+        ],
+        "sk": [
+          "Vietnamská socialistická republika"
+        ],
+        "pl": [
+          "Socjalistyczna Republika Wietnamu"
+        ],
+        "ro": [
+          "Viet Nam",
+          "Republica Socialistă Vietnam",
+          "VN",
+          "VIE",
+          "Viet-Nam",
+          "Viêtnam",
+          "Viêt-Nam"
+        ],
+        "ca": [
+          "República Socialista del Vietnam"
+        ],
+        "nl": [
+          "VN",
+          "VNM"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Вьетнам"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietname"
+        },
+        {
+          "def": "Виетнам"
+        },
+        {
+          "def": "Vietnamas"
+        },
+        {
+          "def": "Vjetnama"
+        },
+        {
+          "def": "Vijetnam"
+        },
+        {
+          "def": "Viêt Nam"
+        },
+        {
+          "def": "Vietnám"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vítneam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Βιετνάμ"
+        },
+        {
+          "def": "Vjetnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Wietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Vietnam"
+        ],
+        "ru": [
+          "Вьетнам"
+        ],
+        "fi": [
+          "Vietnam"
+        ],
+        "pt": [
+          "Vietname"
+        ],
+        "bg": [
+          "Виетнам"
+        ],
+        "lt": [
+          "Vietnamas"
+        ],
+        "lv": [
+          "Vjetnama"
+        ],
+        "hr": [
+          "Vijetnam"
+        ],
+        "fr": [
+          "Viêt Nam"
+        ],
+        "hu": [
+          "Vietnám"
+        ],
+        "sk": [
+          "Vietnam"
+        ],
+        "sl": [
+          "Vietnam"
+        ],
+        "ga": [
+          "Vítneam"
+        ],
+        "ca": [
+          "Vietnam"
+        ],
+        "sv": [
+          "Vietnam"
+        ],
+        "el": [
+          "Βιετνάμ"
+        ],
+        "mt": [
+          "Vjetnam"
+        ],
+        "en": [
+          "Vietnam"
+        ],
+        "it": [
+          "Vietnam"
+        ],
+        "es": [
+          "Vietnam"
+        ],
+        "et": [
+          "Vietnam"
+        ],
+        "eu": [
+          "Vietnam"
+        ],
+        "cs": [
+          "Vietnam"
+        ],
+        "pl": [
+          "Wietnam"
+        ],
+        "ro": [
+          "Vietnam"
+        ],
+        "da": [
+          "Vietnam"
+        ],
+        "nl": [
+          "Vietnam"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "16.0"
+      ],
+      "edmPlaceLongitude": [
+        "108.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2290652%2F1978.18.0025.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104325?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_104325",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_104325.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 35.648376,
+      "timestamp": 1752047496716,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "korg, basket"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_104330",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_104330",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104330?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "\"Kinh\" Vietnam",
+      "art_form": "ceramic",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a woven bamboo/rattan market basket from Vinh Phu province, Vietnam, a household craft item plausible for the Kinh people; it is a basket, not ceramic, but that mismatch in category doesn't affect ethnicity fit.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "korg, basket",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2291245%2F1978.18.0030.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "985004154857d55da9cc9a49bfe7d1e4af55557a96b9d0f897d3241e504e5da8",
+        "bytes": 17930,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\ceramic\\kinh-vietnam\\images\\eu_91608_SMVK_VKM_objekt_104330.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:25.997823+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Ur generalkatalogen: Korg, användes bland annat vid försäljning av frukt på marknaden. Mått: 44 cm.",
+        "1978.18.0030",
+        "Vinh Phu-provinsen",
+        "Playground",
+        "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+        "Vietnam",
+        "Vietnameser",
+        "Kinh people"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Ur generalkatalogen: Korg, användes bland annat vid försäljning av frukt på marknaden. Mått: 44 cm."
+        ],
+        "def": [
+          "1978.18.0030",
+          "Vinh Phu-provinsen",
+          "Playground",
+          "Sturtevant, William C. & Heizer, Robert Fleming (red.) (1978). Handbook of North American Indians. Vol. 8, California. Washington",
+          "Vietnam",
+          "Vietnameser",
+          "Kinh people"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "korg, basket"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/104330"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2291245/1978.18.0030.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Социалистическая Республика Вьетнам"
+        },
+        {
+          "def": "Vietnamin sosialistinen tasavalta"
+        },
+        {
+          "def": "Socialistiska republiken Vietnam"
+        },
+        {
+          "def": "República Socialista do Vietname"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Republica Socialista do Vietname"
+        },
+        {
+          "def": "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        },
+        {
+          "def": "Repubblika Soċjalista tal-Vjetnam"
+        },
+        {
+          "def": "Socialist Republic of Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "SRV"
+        },
+        {
+          "def": "VNM"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "La République socialiste du Vietnam"
+        },
+        {
+          "def": "Việt Nam"
+        },
+        {
+          "def": "Vietnámi Szocialista Köztársaság"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "República Socialista de Vietnam"
+        },
+        {
+          "def": "Republica Socialista de Vietnam"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Vietnami Sotsialistlik Vabariik"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "VSR"
+        },
+        {
+          "def": "Vietnamská socialistická republika"
+        },
+        {
+          "def": "Socjalistyczna Republika Wietnamu"
+        },
+        {
+          "def": "Viet Nam"
+        },
+        {
+          "def": "Republica Socialistă Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VIE"
+        },
+        {
+          "def": "Viet-Nam"
+        },
+        {
+          "def": "Viêtnam"
+        },
+        {
+          "def": "Viêt-Nam"
+        },
+        {
+          "def": "República Socialista del Vietnam"
+        },
+        {
+          "def": "VN"
+        },
+        {
+          "def": "VNM"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "VN"
+        ],
+        "ru": [
+          "Социалистическая Республика Вьетнам"
+        ],
+        "fi": [
+          "Vietnamin sosialistinen tasavalta"
+        ],
+        "sv": [
+          "Socialistiska republiken Vietnam"
+        ],
+        "pt": [
+          "República Socialista do Vietname",
+          "Việt Nam",
+          "Republica Socialista do Vietname"
+        ],
+        "el": [
+          "Σοσιαλιστική Δημοκρατία του Βιετνάμ"
+        ],
+        "mt": [
+          "Repubblika Soċjalista tal-Vjetnam"
+        ],
+        "en": [
+          "Socialist Republic of Vietnam",
+          "VN",
+          "VIE",
+          "Việt Nam",
+          "Viet Nam",
+          "SRV",
+          "VNM"
+        ],
+        "it": [
+          "VN"
+        ],
+        "fr": [
+          "Viet Nam",
+          "Vietnam",
+          "Viet-Nam",
+          "Viêt-Nam",
+          "Viêtnam",
+          "VN",
+          "La République socialiste du Vietnam",
+          "Việt Nam"
+        ],
+        "hu": [
+          "Vietnámi Szocialista Köztársaság",
+          "Vietnam"
+        ],
+        "es": [
+          "República Socialista de Vietnam",
+          "Republica Socialista de Vietnam",
+          "Viet Nam"
+        ],
+        "et": [
+          "Vietnami Sotsialistlik Vabariik"
+        ],
+        "cs": [
+          "Vietnamská socialistická republika",
+          "VSR"
+        ],
+        "sk": [
+          "Vietnamská socialistická republika"
+        ],
+        "pl": [
+          "Socjalistyczna Republika Wietnamu"
+        ],
+        "ro": [
+          "Viet Nam",
+          "Republica Socialistă Vietnam",
+          "VN",
+          "VIE",
+          "Viet-Nam",
+          "Viêtnam",
+          "Viêt-Nam"
+        ],
+        "ca": [
+          "República Socialista del Vietnam"
+        ],
+        "nl": [
+          "VN",
+          "VNM"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Вьетнам"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietname"
+        },
+        {
+          "def": "Виетнам"
+        },
+        {
+          "def": "Vietnamas"
+        },
+        {
+          "def": "Vjetnama"
+        },
+        {
+          "def": "Vijetnam"
+        },
+        {
+          "def": "Viêt Nam"
+        },
+        {
+          "def": "Vietnám"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vítneam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Βιετνάμ"
+        },
+        {
+          "def": "Vjetnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Wietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        },
+        {
+          "def": "Vietnam"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Vietnam"
+        ],
+        "ru": [
+          "Вьетнам"
+        ],
+        "fi": [
+          "Vietnam"
+        ],
+        "pt": [
+          "Vietname"
+        ],
+        "bg": [
+          "Виетнам"
+        ],
+        "lt": [
+          "Vietnamas"
+        ],
+        "lv": [
+          "Vjetnama"
+        ],
+        "hr": [
+          "Vijetnam"
+        ],
+        "fr": [
+          "Viêt Nam"
+        ],
+        "hu": [
+          "Vietnám"
+        ],
+        "sk": [
+          "Vietnam"
+        ],
+        "sl": [
+          "Vietnam"
+        ],
+        "ga": [
+          "Vítneam"
+        ],
+        "ca": [
+          "Vietnam"
+        ],
+        "sv": [
+          "Vietnam"
+        ],
+        "el": [
+          "Βιετνάμ"
+        ],
+        "mt": [
+          "Vjetnam"
+        ],
+        "en": [
+          "Vietnam"
+        ],
+        "it": [
+          "Vietnam"
+        ],
+        "es": [
+          "Vietnam"
+        ],
+        "et": [
+          "Vietnam"
+        ],
+        "eu": [
+          "Vietnam"
+        ],
+        "cs": [
+          "Vietnam"
+        ],
+        "pl": [
+          "Wietnam"
+        ],
+        "ro": [
+          "Vietnam"
+        ],
+        "da": [
+          "Vietnam"
+        ],
+        "nl": [
+          "Vietnam"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "16.0"
+      ],
+      "edmPlaceLongitude": [
+        "108.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2291245%2F1978.18.0030.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_104330?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_104330",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_104330.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 34.773987,
+      "timestamp": 1752047497212,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "korg, basket"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

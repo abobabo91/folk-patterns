@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1954-23-710_1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-710_1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-710_1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.710_1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Igala",
+      "tradition": "Igala",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a brass lost-wax cast bell with a wooden clapper, a form and technique well attested among Igala metalworkers; the museum explicitly attributes it to the Igala.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bell",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bell",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Bell; lost-wax cast in brass. Cylindrical form; slightly waisted, small looped strap handle. Decorated with linear bands in low relief at top and bottom of bell intersected by four vertical bands of spirals. Clapper made of wood attached with cotton cord to handle through hole in top of bell.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_6/12_15/ccf39f39_8770_44a1_bba9_a79000f77370/preview_EAF21643.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "94def007dfbc0991511248a8935210583ad0066d97dae66763362da2de7850e4",
+        "bytes": 36864,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\igala\\instruments\\igala\\images\\bm_E_Af1954_23_710_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:13:01.461950+00:00",
+    "raw": {
+      "title": "bell",
+      "description": "Bell; lost-wax cast in brass. Cylindrical form; slightly waisted, small looped strap handle. Decorated with linear bands in low relief at top and bottom of bell intersected by four vertical bands of spirals. Clapper made of wood attached with cotton cord to handle through hole in top of bell.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_6/12_15/ccf39f39_8770_44a1_bba9_a79000f77370/preview_EAF21643.jpg",
+      "production_ethnic_groups": [
+        "Igala"
+      ],
+      "production_ethnic_attribution": "Made by: Igala"
+    }
+  }
+]

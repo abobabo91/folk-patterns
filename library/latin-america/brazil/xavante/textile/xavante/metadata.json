@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1959-10-91",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1959-10-91",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1959-10-91",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1959.10.91",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Brazil",
+      "ethnicity": "Xavante",
+      "tradition": "Xavante",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A woven palm-fibre sleeping mat with a fringed edge, clearly photographed and documented as made by the Xavante — a plausible and consistent object type for this Brazilian indigenous group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "mat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "mat",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1959:\r\nSleeping mat, woven of palm fibre, and with a fringe running along its length at the bottom.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/28_16/947dccf4_58a4_4674_a11f_a89501181db2/preview_DSC_0372.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7360090cf060dffd2bb534f0bd980e20c58cea368867b9e4fcb3874be5157926",
+        "bytes": 68381,
+        "local_path": "library\\latin-america\\brazil\\xavante\\textile\\xavante\\images\\bm_E_Am1959_10_91.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T09:33:57.450616+00:00",
+    "raw": {
+      "title": "mat",
+      "description": "Register 1959:\r\nSleeping mat, woven of palm fibre, and with a fringe running along its length at the bottom.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_2/28_16/947dccf4_58a4_4674_a11f_a89501181db2/preview_DSC_0372.jpg",
+      "production_ethnic_groups": [
+        "Xavante"
+      ],
+      "production_ethnic_attribution": "Made by: Xavante"
+    }
+  }
+]

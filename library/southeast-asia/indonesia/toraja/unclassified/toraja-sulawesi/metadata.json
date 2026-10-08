@@ -1,0 +1,2730 @@
+[
+  {
+    "id": "europeana-2048221_europeana_fashion_498983",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_498983",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_498983?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Toraja",
+      "tradition": "Toraja Sulawesi",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo documents a mannequin dressed in a traditional woven Toraja woman's costume (beaded/patterned blouse, headdress, tasseled belt panel) displayed in a Dutch colonial museum context; the clothing represents Toraja dress even though it's shown on a doll rather than a living wearer.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Doll representing a Toradja woman in the museum of the Colonial- or the Indisch Institute",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1926/1950"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-60059395.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c37f0e9d7dfd1ad20b6f74a2e7052b34d2e1926d36171cb949366aaa2aceba81",
+        "bytes": 66637,
+        "local_path": "library\\southeast-asia\\indonesia\\toraja\\unclassified\\toraja-sulawesi\\images\\eu_2048221_europeana_fashion_498983.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:12.740147+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcTitleLangAware": {
+        "en": [
+          "Doll representing a Toradja woman in the museum of the Colonial- or the Indisch Institute",
+          "Mannequin representing a Toraja woman in the museum of the Colonial- or the Indies Institute"
+        ],
+        "nl": [
+          "Pop die een Toradja vrouw voorstelt in het museum van het Koloniaal- of het Indisch Instituut"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "ćilibar"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "ambra"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография"
+        ],
+        "pt": [
+          "âmbar cinza",
+          "Fotografia"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "ambre gris",
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia"
+        ],
+        "sr": [
+          "ćilibar"
+        ],
+        "sv": [
+          "Fotografi",
+          "ambra"
+        ],
+        "el": [
+          "άμπαρο",
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "ambergris",
+          "Photograph"
+        ],
+        "it": [
+          "ambra grigia",
+          "Fotografia"
+        ],
+        "es": [
+          "ámbar gris",
+          "Fotografía"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "he": [
+          "ענבר אפור"
+        ],
+        "nl": [
+          "Foto",
+          "amber"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/498983"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-60059395.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "A’dam"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amesterdã"
+        },
+        {
+          "def": "Amesterdão"
+        },
+        {
+          "def": "Amsterdã"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdã"
+        },
+        {
+          "def": "Amesterdao"
+        },
+        {
+          "def": "Amsterdam, Países Baixos"
+        },
+        {
+          "def": "Abstradam"
+        },
+        {
+          "def": "Mastradama"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Ámsterdam"
+        },
+        {
+          "def": "Άμστερνταμ"
+        },
+        {
+          "def": "Αμστελόδαμον"
+        },
+        {
+          "def": "Αμστελόδαμο"
+        },
+        {
+          "def": "Amsterdamas"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam municipality"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "Amsterdam, NL"
+        },
+        {
+          "def": "Amsterdam, Netherlands"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "Amsterdama"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amszterdam"
+        },
+        {
+          "def": "Amsterodam"
+        },
+        {
+          "def": "Amsterodam"
+        },
+        {
+          "def": "Amstardam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Aemstelredamme"
+        },
+        {
+          "def": "Aemsterdam"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Gemeente Amsterdam"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "Amsterdam (gemeente)"
+        },
+        {
+          "def": "AMS"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "Mokum Alef"
+        },
+        {
+          "def": "Gemeente Amsterdam"
+        },
+        {
+          "def": "Stad Amsterdam"
+        },
+        {
+          "def": "Mokum"
+        },
+        {
+          "def": "A'dam"
+        },
+        {
+          "def": "020"
+        },
+        {
+          "def": "Asd."
+        },
+        {
+          "def": "Damsko"
+        },
+        {
+          "def": "Gobierno de Amsterdam"
+        },
+        {
+          "def": "Ámsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Proclamado de sucesos larry styinson"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "no": [
+          "Amsterdam"
+        ],
+        "de": [
+          "Amsterdam",
+          "A’dam"
+        ],
+        "ru": [
+          "Амстердам"
+        ],
+        "fi": [
+          "Amsterdam"
+        ],
+        "pt": [
+          "Amesterdã",
+          "Amesterdão",
+          "Amsterdã",
+          "Amsterdam",
+          "Amsterdã",
+          "Amesterdao",
+          "Amsterdam, Países Baixos",
+          "Abstradam",
+          "Mastradama"
+        ],
+        "bg": [
+          "Амстердам"
+        ],
+        "el": [
+          "Ámsterdam",
+          "Άμστερνταμ",
+          "Αμστελόδαμον",
+          "Αμστελόδαμο"
+        ],
+        "lt": [
+          "Amsterdamas"
+        ],
+        "en": [
+          "Amsterdam",
+          "Amsterdam municipality",
+          "Mokum",
+          "Amsterdam, NL",
+          "Amsterdam, Netherlands",
+          "A'dam"
+        ],
+        "lv": [
+          "Amsterdama"
+        ],
+        "hr": [
+          "Amsterdam"
+        ],
+        "fr": [
+          "Amsterdam"
+        ],
+        "hu": [
+          "Amszterdam"
+        ],
+        "es": [
+          "Gobierno de Amsterdam",
+          "Ámsterdam",
+          "Amsterdam",
+          "Proclamado de sucesos larry styinson"
+        ],
+        "cs": [
+          "Amsterodam",
+          "Amsterodam"
+        ],
+        "ga": [
+          "Amstardam"
+        ],
+        "ro": [
+          "Amsterdam"
+        ],
+        "ca": [
+          "Amsterdam"
+        ],
+        "nl": [
+          "Aemstelredamme",
+          "Aemsterdam",
+          "Mokum",
+          "Amsterdam",
+          "Gemeente Amsterdam",
+          "A'dam",
+          "Amsterdam (gemeente)",
+          "AMS",
+          "Mokum",
+          "Mokum Alef",
+          "Gemeente Amsterdam",
+          "Stad Amsterdam",
+          "Mokum",
+          "A'dam",
+          "020",
+          "Asd.",
+          "Damsko"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Ámsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Ámsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amesterdão"
+        },
+        {
+          "def": "Amesterdão"
+        },
+        {
+          "def": "Δήμος Άμστερνταμ"
+        },
+        {
+          "def": "Άμστερνταμ"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdama"
+        },
+        {
+          "def": "Amsterdama"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amszterdam"
+        },
+        {
+          "def": "Amszterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amstardam"
+        },
+        {
+          "def": "Amstardam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Амстердам"
+        },
+        {
+          "def": "Amsterdamas"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        },
+        {
+          "def": "Amsterdam"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "ru": [
+          "Амстердам",
+          "Амстердам"
+        ],
+        "fi": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "pt": [
+          "Amesterdão",
+          "Amesterdão"
+        ],
+        "bg": [
+          "Амстердам"
+        ],
+        "lt": [
+          "Amsterdamas"
+        ],
+        "lv": [
+          "Amsterdama",
+          "Amsterdama"
+        ],
+        "hr": [
+          "Amsterdam"
+        ],
+        "fr": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "hu": [
+          "Amszterdam",
+          "Amszterdam"
+        ],
+        "sk": [
+          "Amsterdam"
+        ],
+        "sl": [
+          "Amsterdam"
+        ],
+        "ga": [
+          "Amstardam",
+          "Amstardam"
+        ],
+        "ca": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "sv": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "el": [
+          "Δήμος Άμστερνταμ",
+          "Άμστερνταμ"
+        ],
+        "mt": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "en": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "it": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "es": [
+          "Ámsterdam",
+          "Amsterdam",
+          "Amsterdam",
+          "Ámsterdam"
+        ],
+        "et": [
+          "Amsterdam"
+        ],
+        "cs": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "eu": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "pl": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "da": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "ro": [
+          "Amsterdam",
+          "Amsterdam"
+        ],
+        "nl": [
+          "Amsterdam",
+          "Amsterdam",
+          "Amsterdam"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "52.37403",
+        "52.37302",
+        "52.366665",
+        "52.372776"
+      ],
+      "edmPlaceLongitude": [
+        "4.88969",
+        "4.89856",
+        "4.883333",
+        "4.893611"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-60059395.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1926/1950"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1926/1950"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_498983?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_498983",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_498983.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 55.72086,
+      "timestamp": 1762960257319,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Doll representing a Toradja woman in the museum of the Colonial- or the Indisch Institute",
+        "Mannequin representing a Toraja woman in the museum of the Colonial- or the Indies Institute",
+        "Pop die een Toradja vrouw voorstelt in het museum van het Koloniaal- of het Indisch Instituut"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_219065",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_219065",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_219065?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Toraja",
+      "tradition": "Toraja Sulawesi",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a rectangular reddish-brown ceremonial cotton cloth with a repeating geometric pattern and decorated borders — consistent with imported Indian trade cloths (patola-style) that were treasured and used ceremonially by Toraja communities, a well-documented historical practice, so it fits \"used\" by the claimed people even if not locally made.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Ceremoniële doek met ganzen",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1450/1650"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-6005-1.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a194273b8effc2308101fb6599b23614caf269d1b19fa76f31745953280c2438",
+        "bytes": 21352,
+        "local_path": "library\\southeast-asia\\indonesia\\toraja\\unclassified\\toraja-sulawesi\\images\\eu_2048221_europeana_fashion_219065.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:14.627464+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Rechthoekige katoenen doek met een donkerrrode/bruine kleur versierd met o.a. vogels (ganzen). De doek vertoont gaatjes en vlekken. Op de achterkant zijn 4 letters geschreven .\nIndia was en is een belangrijk centrum voor de produktie van textiel. Indiase weefsels waren in het verleden beroemd vanwege de fijnheid, rijkdom aan patroon en kleur en van een ongeëvenaarde kleurechtheid. Omdat Indiaas textiel een veelgevraagd produkt was van China tot het Middellandse Zeegebied, was India ook eeuwenlang het centrum van de internationale handel in aromaten, specerijen en andere luxe goederen tussen Oost en West.  De V.O.C. had lange tijd het monopolie op de handel in textiel afkomstig uit India: het belangrijkste ruilmiddel voor specerijen uit de Indische archipel.\nHet bestaan van deze weefsels werd bekend door de V.O.C. handelsrapporten die in de loop van de eeuwen werden bijgehouden. Hoe zij eruit zagen is lange tijd onbekend gebleven totdat bij opgravingen textielfragmenten werden gevonden en overgeleverde doeken in Zuidoost Azië en Japan bekend werden. In India zijn de doeken waar het hier om gaat niet bewaard gebleven omdat zij in opdracht voor de externe markt werden vervaardigd en in India zelf geen toepassingen vonden. De doeken en fragmenten komen vooral uit Egypte, Japan en in Indonesië vooral uit Sumatra, Sulawesi, Timor en de Molukken. Deze gebieden zijn ook de historische centra van de handel in specerijen geweest. Dit geeft aan hoe belangrijkd e rol is geweest die textiel in deze handel speelde.\nDe doeken, die verhandeld werden naar het Midden-Oosten en naar de archipel, maakten deel uit van een groot handelssysteem. In de V.O.C. tijd werden circa 60 verschillende soorten weefsels naar Zuidoost Azië verhandeld. In de pakhuizen van de V.O.C. in Batavia lagen permanent grote aantallen weefsels opgeslagen om te gebruiken als betaalmiddel. Er werden in India verschillende typen doeken speciaal voor de smaak van verschillende groepen gemaakt zoals bijvoorbeeld de Toraja op Sulawesi en diverse bevolkingsgroepen op Sumatera. Opvallend is dat in het Mediterrane gebied alleen textielfragmenten in moslimgraven zijn gevonden, terwijl uit Indonesië vooral complete doeken komen. Dit heeft te maken met het verschil in gebruik. In het Midden-Oosten was het textiel een dagelijks gebruiksartikel, het werd gebruikt voor kleding en in het interieur en kennelijk ook meegegeven in het graf. In bepaalde delen van Indonesië gingen de doeken deel uitmaken van het ceremoniële en rituele (geschenkenruil) leven. Zij werden eeuwenlang bewaard als heilig erfgoed en alleen tevoorschijn gehaald en getoond bij bepaalde ceremonies. Vanaf het begin van de 20e eeuw gingen eigenaars over tot verkoop van sommige stukken.",
+        "Rectangular cotton cloth with a dark red/brown colour decorated with birds (geese). The cloth has holes and stains. On the backside 4 letters are written. India was and is an important centre for textile production. Indian fabrics in the past were famous for their fineness, richness in pattern and color and unmatched color fastness. As Indian textiles were in demand from China to the Mediterranean, India was also for centuries the centre of international trade in aromatics, spices and other luxury goods between East and West.  The V.O.C. had for a long time a monopoly on the trade in textiles from India: the main medium of exchange for spices from the Indian archipelago.Ó The existence of these fabrics became known through the V.O.C. trade records kept over the centuries. What they looked like remained unknown for a long time until textile fragments were found during excavations and surviving cloths in Southeast Asia and Japan became known. In India the cloths in question have not been preserved because they were made on commission for the external market and had no use in India itself. The canvases and fragments come mainly from Egypt, Japan and in Indonesia mainly from Sumatra, Sulawesi, Timor and the Moluccas. These areas have also been the historical centres of the spice trade. This is an indication of the important role that textiles played in this trade.™ The cloths, which were traded to the Middle East and to the archipelago, were part of a large trading system. In the time of the V.O.C., approximately 60 different types of cloth were traded to Southeast Asia. In the warehouses of the V.O.C. in Batavia large numbers of fabrics were permanently stored to be used as currency. Different types of cloth were made in India to suit the tastes of different groups, such as the Toraja on Sulawesi and various population groups on Sumatera. It is striking that in the Mediterranean area only textile fragments have been found in Muslim graves, while from Indonesia mainly complete cloths have been found. This has to do with the difference in use. In the Middle East textiles were a daily commodity, they were used for clothing and in the interior and apparently also given to the grave. In certain parts of Indonesia the cloths became part of the ceremonial and ritual (gift exchange) life. For centuries they were kept as sacred heritage and only brought out and displayed at certain ceremonies. From the beginning of the 20th century, owners started selling some of the pieces."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Rectangular cotton cloth with a dark red/brown colour decorated with birds (geese). The cloth has holes and stains. On the backside 4 letters are written. India was and is an important centre for textile production. Indian fabrics in the past were famous for their fineness, richness in pattern and color and unmatched color fastness. As Indian textiles were in demand from China to the Mediterranean, India was also for centuries the centre of international trade in aromatics, spices and other luxury goods between East and West.  The V.O.C. had for a long time a monopoly on the trade in textiles from India: the main medium of exchange for spices from the Indian archipelago.Ó The existence of these fabrics became known through the V.O.C. trade records kept over the centuries. What they looked like remained unknown for a long time until textile fragments were found during excavations and surviving cloths in Southeast Asia and Japan became known. In India the cloths in question have not been preserved because they were made on commission for the external market and had no use in India itself. The canvases and fragments come mainly from Egypt, Japan and in Indonesia mainly from Sumatra, Sulawesi, Timor and the Moluccas. These areas have also been the historical centres of the spice trade. This is an indication of the important role that textiles played in this trade.™ The cloths, which were traded to the Middle East and to the archipelago, were part of a large trading system. In the time of the V.O.C., approximately 60 different types of cloth were traded to Southeast Asia. In the warehouses of the V.O.C. in Batavia large numbers of fabrics were permanently stored to be used as currency. Different types of cloth were made in India to suit the tastes of different groups, such as the Toraja on Sulawesi and various population groups on Sumatera. It is striking that in the Mediterranean area only textile fragments have been found in Muslim graves, while from Indonesia mainly complete cloths have been found. This has to do with the difference in use. In the Middle East textiles were a daily commodity, they were used for clothing and in the interior and apparently also given to the grave. In certain parts of Indonesia the cloths became part of the ceremonial and ritual (gift exchange) life. For centuries they were kept as sacred heritage and only brought out and displayed at certain ceremonies. From the beginning of the 20th century, owners started selling some of the pieces."
+        ],
+        "nl": [
+          "Rechthoekige katoenen doek met een donkerrrode/bruine kleur versierd met o.a. vogels (ganzen). De doek vertoont gaatjes en vlekken. Op de achterkant zijn 4 letters geschreven .\nIndia was en is een belangrijk centrum voor de produktie van textiel. Indiase weefsels waren in het verleden beroemd vanwege de fijnheid, rijkdom aan patroon en kleur en van een ongeëvenaarde kleurechtheid. Omdat Indiaas textiel een veelgevraagd produkt was van China tot het Middellandse Zeegebied, was India ook eeuwenlang het centrum van de internationale handel in aromaten, specerijen en andere luxe goederen tussen Oost en West.  De V.O.C. had lange tijd het monopolie op de handel in textiel afkomstig uit India: het belangrijkste ruilmiddel voor specerijen uit de Indische archipel.\nHet bestaan van deze weefsels werd bekend door de V.O.C. handelsrapporten die in de loop van de eeuwen werden bijgehouden. Hoe zij eruit zagen is lange tijd onbekend gebleven totdat bij opgravingen textielfragmenten werden gevonden en overgeleverde doeken in Zuidoost Azië en Japan bekend werden. In India zijn de doeken waar het hier om gaat niet bewaard gebleven omdat zij in opdracht voor de externe markt werden vervaardigd en in India zelf geen toepassingen vonden. De doeken en fragmenten komen vooral uit Egypte, Japan en in Indonesië vooral uit Sumatra, Sulawesi, Timor en de Molukken. Deze gebieden zijn ook de historische centra van de handel in specerijen geweest. Dit geeft aan hoe belangrijkd e rol is geweest die textiel in deze handel speelde.\nDe doeken, die verhandeld werden naar het Midden-Oosten en naar de archipel, maakten deel uit van een groot handelssysteem. In de V.O.C. tijd werden circa 60 verschillende soorten weefsels naar Zuidoost Azië verhandeld. In de pakhuizen van de V.O.C. in Batavia lagen permanent grote aantallen weefsels opgeslagen om te gebruiken als betaalmiddel. Er werden in India verschillende typen doeken speciaal voor de smaak van verschillende groepen gemaakt zoals bijvoorbeeld de Toraja op Sulawesi en diverse bevolkingsgroepen op Sumatera. Opvallend is dat in het Mediterrane gebied alleen textielfragmenten in moslimgraven zijn gevonden, terwijl uit Indonesië vooral complete doeken komen. Dit heeft te maken met het verschil in gebruik. In het Midden-Oosten was het textiel een dagelijks gebruiksartikel, het werd gebruikt voor kleding en in het interieur en kennelijk ook meegegeven in het graf. In bepaalde delen van Indonesië gingen de doeken deel uitmaken van het ceremoniële en rituele (geschenkenruil) leven. Zij werden eeuwenlang bewaard als heilig erfgoed en alleen tevoorschijn gehaald en getoond bij bepaalde ceremonies. Vanaf het begin van de 20e eeuw gingen eigenaars over tot verkoop van sommige stukken."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Ceremonial cloth with geese"
+        ],
+        "nl": [
+          "Ceremoniële doek met ganzen"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10371",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10586",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gewebebindung"
+        },
+        {
+          "def": "Wachs"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "väva"
+        },
+        {
+          "def": "vax"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "estrutura de tecelagem"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "ύφανση"
+        },
+        {
+          "def": "κερί"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "weave"
+        },
+        {
+          "def": "wax"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "tessitura"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "tissé"
+        },
+        {
+          "def": "cire"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "מארג"
+        },
+        {
+          "def": "שעווה"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "ligamento"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "binding"
+        },
+        {
+          "def": "was"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "tkanje"
+        },
+        {
+          "def": "vosak"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Wachs",
+          "Baumwolle",
+          "Gewebebindung",
+          "ambra",
+          "Baumwollfaser"
+        ],
+        "fi": [
+          "Puuvilla"
+        ],
+        "ru": [
+          "Хлопок"
+        ],
+        "pt": [
+          "âmbar cinza",
+          "Algodão",
+          "algodão",
+          "estrutura de tecelagem"
+        ],
+        "bg": [
+          "Памук"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "tissé",
+          "coton",
+          "ambre gris",
+          "Coton",
+          "cire"
+        ],
+        "hu": [
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Bombaž"
+        ],
+        "ga": [
+          "Cadás"
+        ],
+        "ca": [
+          "Cotó"
+        ],
+        "sr": [
+          "ćilibar",
+          "vosak",
+          "pamuk",
+          "tkanje"
+        ],
+        "sv": [
+          "väva",
+          "Bomull",
+          "vax",
+          "ambra",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "άμπαρο",
+          "κερί",
+          "Βαμβάκι",
+          "ύφανση"
+        ],
+        "en": [
+          "cotton (fiber)",
+          "ambergris",
+          "Cotton",
+          "weave",
+          "wax"
+        ],
+        "it": [
+          "ambra grigia",
+          "tessitura",
+          "Cotone",
+          "cotone",
+          "cera"
+        ],
+        "es": [
+          "Algodón",
+          "ámbar gris",
+          "ligamento",
+          "algodón",
+          "cera"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "cs": [
+          "Bavlna"
+        ],
+        "eu": [
+          "Kotoi"
+        ],
+        "pl": [
+          "Bawełna"
+        ],
+        "he": [
+          "כותנה",
+          "שעווה",
+          "ענבר אפור",
+          "מארג"
+        ],
+        "da": [
+          "Bomuld"
+        ],
+        "ro": [
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "was",
+          "binding",
+          "amber",
+          "katoen (vezel)"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/219065"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-6005-1.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-6005-1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1450/1650"
+        },
+        {
+          "def": "15. Jahrhundert"
+        },
+        {
+          "def": "16. Jahrhundert"
+        },
+        {
+          "def": "17. Jahrhundert"
+        },
+        {
+          "def": "1400-luku"
+        },
+        {
+          "def": "1500-luku"
+        },
+        {
+          "def": "1600-luku"
+        },
+        {
+          "def": "XV век"
+        },
+        {
+          "def": "XVI век"
+        },
+        {
+          "def": "XVII век"
+        },
+        {
+          "def": "Século XV"
+        },
+        {
+          "def": "Século XVI"
+        },
+        {
+          "def": "Século XVII"
+        },
+        {
+          "def": "15 век"
+        },
+        {
+          "def": "16 век"
+        },
+        {
+          "def": "17 век"
+        },
+        {
+          "def": "XV amžius"
+        },
+        {
+          "def": "XVI amžius"
+        },
+        {
+          "def": "XVII amžius"
+        },
+        {
+          "def": "15. stoljeće"
+        },
+        {
+          "def": "16. stoljeće"
+        },
+        {
+          "def": "17. stoljeće"
+        },
+        {
+          "def": "15. gadsimts"
+        },
+        {
+          "def": "16. gadsimts"
+        },
+        {
+          "def": "17. gadsimts"
+        },
+        {
+          "def": "XVe siècle"
+        },
+        {
+          "def": "XVIe siècle"
+        },
+        {
+          "def": "XVIIe siècle"
+        },
+        {
+          "def": "15. század"
+        },
+        {
+          "def": "16. század"
+        },
+        {
+          "def": "17. század"
+        },
+        {
+          "def": "15. storočie"
+        },
+        {
+          "def": "16. storočie"
+        },
+        {
+          "def": "17. storočie"
+        },
+        {
+          "def": "15. stoletje"
+        },
+        {
+          "def": "16. stoletje"
+        },
+        {
+          "def": "17. stoletje"
+        },
+        {
+          "def": "15ú haois"
+        },
+        {
+          "def": "16ú haois"
+        },
+        {
+          "def": "17ú haois"
+        },
+        {
+          "def": "Segle XV"
+        },
+        {
+          "def": "Segle XVI"
+        },
+        {
+          "def": "Segle XVII"
+        },
+        {
+          "def": "1400-talet"
+        },
+        {
+          "def": "1500-talet"
+        },
+        {
+          "def": "1600-talet"
+        },
+        {
+          "def": "15ος αιώνας"
+        },
+        {
+          "def": "16ος αιώνας"
+        },
+        {
+          "def": "17ος αιώνας"
+        },
+        {
+          "def": "15th century"
+        },
+        {
+          "def": "16th century"
+        },
+        {
+          "def": "17th century"
+        },
+        {
+          "def": "XV secolo"
+        },
+        {
+          "def": "XVI secolo"
+        },
+        {
+          "def": "XVII secolo"
+        },
+        {
+          "def": "Siglo XV"
+        },
+        {
+          "def": "Siglo XVI"
+        },
+        {
+          "def": "Siglo XVII"
+        },
+        {
+          "def": "15. sajand"
+        },
+        {
+          "def": "16. sajand"
+        },
+        {
+          "def": "17. sajand"
+        },
+        {
+          "def": "15. století"
+        },
+        {
+          "def": "16. století"
+        },
+        {
+          "def": "17. století"
+        },
+        {
+          "def": "XV. mendea"
+        },
+        {
+          "def": "XVI. mendea"
+        },
+        {
+          "def": "XVII. mendea"
+        },
+        {
+          "def": "XV wiek"
+        },
+        {
+          "def": "XVI wiek"
+        },
+        {
+          "def": "XVII wiek"
+        },
+        {
+          "def": "15. århundrede"
+        },
+        {
+          "def": "16. århundrede"
+        },
+        {
+          "def": "17. århundrede"
+        },
+        {
+          "def": "Secolul al XV-lea"
+        },
+        {
+          "def": "Secolul al XVI-lea"
+        },
+        {
+          "def": "Secolul al XVII-lea"
+        },
+        {
+          "def": "15e eeuw"
+        },
+        {
+          "def": "16e eeuw"
+        },
+        {
+          "def": "17e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7018"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85048142"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049668"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b1m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b1m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.475.500"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404465"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814426n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/15th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7017"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85123070"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049669"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b23"
+        },
+        {
+          "def": "https://g.co/kg/m/08b23"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.475.750"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404510"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814512n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/16th_century"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7016"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85120427"
+        },
+        {
+          "def": "http://data.bnf.fr/ark:/12148/cb120419182"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049670"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b2m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b2m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.750"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404511"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814624n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/17th_century"
+        },
+        {
+          "def": "Seklu XVII"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "15. Jahrhundert",
+          "16. Jahrhundert",
+          "17. Jahrhundert"
+        ],
+        "fi": [
+          "1400-luku",
+          "1500-luku",
+          "1600-luku"
+        ],
+        "ru": [
+          "XV век",
+          "XVI век",
+          "XVII век"
+        ],
+        "pt": [
+          "Século XV",
+          "Século XVI",
+          "Século XVII"
+        ],
+        "bg": [
+          "15 век",
+          "16 век",
+          "17 век"
+        ],
+        "lt": [
+          "XV amžius",
+          "XVI amžius",
+          "XVII amžius"
+        ],
+        "hr": [
+          "15. stoljeće",
+          "16. stoljeće",
+          "17. stoljeće"
+        ],
+        "lv": [
+          "15. gadsimts",
+          "16. gadsimts",
+          "17. gadsimts"
+        ],
+        "fr": [
+          "XVe siècle",
+          "XVIe siècle",
+          "XVIIe siècle"
+        ],
+        "hu": [
+          "15. század",
+          "16. század",
+          "17. század"
+        ],
+        "sk": [
+          "15. storočie",
+          "16. storočie",
+          "17. storočie"
+        ],
+        "sl": [
+          "15. stoletje",
+          "16. stoletje",
+          "17. stoletje"
+        ],
+        "ga": [
+          "15ú haois",
+          "16ú haois",
+          "17ú haois"
+        ],
+        "ca": [
+          "Segle XV",
+          "Segle XVI",
+          "Segle XVII"
+        ],
+        "sv": [
+          "1400-talet",
+          "1500-talet",
+          "1600-talet"
+        ],
+        "el": [
+          "15ος αιώνας",
+          "16ος αιώνας",
+          "17ος αιώνας"
+        ],
+        "mt": [
+          "Seklu XVII"
+        ],
+        "en": [
+          "15th century",
+          "16th century",
+          "17th century"
+        ],
+        "it": [
+          "XV secolo",
+          "XVI secolo",
+          "XVII secolo"
+        ],
+        "es": [
+          "Siglo XV",
+          "Siglo XVI",
+          "Siglo XVII"
+        ],
+        "et": [
+          "15. sajand",
+          "16. sajand",
+          "17. sajand"
+        ],
+        "cs": [
+          "15. století",
+          "16. století",
+          "17. století"
+        ],
+        "eu": [
+          "XV. mendea",
+          "XVI. mendea",
+          "XVII. mendea"
+        ],
+        "zxx": [
+          "1450/1650"
+        ],
+        "pl": [
+          "XV wiek",
+          "XVI wiek",
+          "XVII wiek"
+        ],
+        "da": [
+          "15. århundrede",
+          "16. århundrede",
+          "17. århundrede"
+        ],
+        "ro": [
+          "Secolul al XV-lea",
+          "Secolul al XVI-lea",
+          "Secolul al XVII-lea"
+        ],
+        "nl": [
+          "15e eeuw",
+          "16e eeuw",
+          "17e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_219065?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_219065",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_219065.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 16.53859,
+      "timestamp": 1762959266893,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Ceremoniële doek met ganzen",
+        "Ceremonial cloth with geese"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_99949",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_99949",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_99949?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Toraja",
+      "tradition": "Toraja Sulawesi",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a bundle of raw plant-fiber cordage/thread made from leaf fiber, collected in Kantéwoe, Central Sulawesi — a plausible handmade material used by Toraja-area peoples (the record itself notes it as \"Paloe\" cordmaking in Central Celebes, a neighboring/related group indistinguishable at this level of material culture).",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tråd",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1040949%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7cf182a954faaf09d775189c4561af1eda7979dcb65b442fd5140f6f20345433",
+        "bytes": 12540,
+        "local_path": "library\\southeast-asia\\indonesia\\toraja\\unclassified\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_99949.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:16.060849+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Inhemsk \"tråd\" från blad. \n(Orig. nr 1924).\n\nMellan-Celebes: Paloe\nsnöretillverkning",
+        "1926.09.0745",
+        "Walter Kaudern",
+        "Kantéwoe, bygd i NV. Central-Celebes",
+        "Kantéwoe, NV. Central-Sulawesi",
+        "Kantéwoe, NV Central-Celebes, Indonesien. [[Haga]]",
+        "skiss",
+        "Walter Kauderns expedition till Celebes (1917-1921)",
+        "Indonesia",
+        "Pipkoro",
+        "Western Toradja",
+        "Western Toraja"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Inhemsk \"tråd\" från blad. \n(Orig. nr 1924).\n\nMellan-Celebes: Paloe\nsnöretillverkning"
+        ],
+        "def": [
+          "1926.09.0745",
+          "Walter Kaudern",
+          "Kantéwoe, bygd i NV. Central-Celebes",
+          "Kantéwoe, NV. Central-Sulawesi",
+          "Kantéwoe, NV Central-Celebes, Indonesien. [[Haga]]",
+          "skiss",
+          "Walter Kauderns expedition till Celebes (1917-1921)",
+          "Indonesia",
+          "Pipkoro",
+          "Western Toradja",
+          "Western Toraja"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "tråd"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2156"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Garn"
+        },
+        {
+          "def": "Lanka"
+        },
+        {
+          "def": "Пряжа"
+        },
+        {
+          "def": "Tråd"
+        },
+        {
+          "def": "Fio têxtil"
+        },
+        {
+          "def": "Прежда"
+        },
+        {
+          "def": "Νήμα"
+        },
+        {
+          "def": "Yarn"
+        },
+        {
+          "def": "Dzija"
+        },
+        {
+          "def": "Filato"
+        },
+        {
+          "def": "Fil textile"
+        },
+        {
+          "def": "Fonal"
+        },
+        {
+          "def": "Hilo"
+        },
+        {
+          "def": "Lõng"
+        },
+        {
+          "def": "Příze"
+        },
+        {
+          "def": "Hari"
+        },
+        {
+          "def": "Priadza"
+        },
+        {
+          "def": "Preja"
+        },
+        {
+          "def": "Snáth"
+        },
+        {
+          "def": "Przędza"
+        },
+        {
+          "def": "Ață"
+        },
+        {
+          "def": "Strikkegarn"
+        },
+        {
+          "def": "Fil tèxtil"
+        },
+        {
+          "def": "Garen"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Garn"
+        ],
+        "fi": [
+          "Lanka"
+        ],
+        "ru": [
+          "Пряжа"
+        ],
+        "sv": [
+          "Tråd"
+        ],
+        "pt": [
+          "Fio têxtil"
+        ],
+        "bg": [
+          "Прежда"
+        ],
+        "el": [
+          "Νήμα"
+        ],
+        "en": [
+          "Yarn"
+        ],
+        "lv": [
+          "Dzija"
+        ],
+        "it": [
+          "Filato"
+        ],
+        "fr": [
+          "Fil textile"
+        ],
+        "hu": [
+          "Fonal"
+        ],
+        "es": [
+          "Hilo"
+        ],
+        "et": [
+          "Lõng"
+        ],
+        "cs": [
+          "Příze"
+        ],
+        "eu": [
+          "Hari"
+        ],
+        "sk": [
+          "Priadza"
+        ],
+        "sl": [
+          "Preja"
+        ],
+        "ga": [
+          "Snáth"
+        ],
+        "pl": [
+          "Przędza"
+        ],
+        "ro": [
+          "Ață"
+        ],
+        "da": [
+          "Strikkegarn"
+        ],
+        "ca": [
+          "Fil tèxtil"
+        ],
+        "nl": [
+          "Garen"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/99949"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1040949/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1040949%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_99949?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_99949",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_99949.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 31.529533,
+      "timestamp": 1752047755173,
+      "timestamp_created": "2014-10-01T16:53:20.255Z",
+      "timestamp_created_epoch": 1412182400255,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "tråd"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

@@ -1,0 +1,454 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_30679",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_30679",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_30679?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Gabon",
+      "ethnicity": "Fang",
+      "tradition": "Fang Gabon",
+      "art_form": "ceramic",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A small handmade textured clay vessel collected from Gabon (Ogooué region), consistent with local pottery of Central African peoples including the Fang; plausible for the region even without a diagnostic pattern.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic"
+    },
+    "physical": {
+      "title": "kärl, Lerkärl, vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1122285%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "af97a0ef3106e6dd89ae7c9f4a5e98fed7842971d18a3c3273c9a0afd4319031",
+        "bytes": 22395,
+        "local_path": "library\\sub-saharan-africa\\gabon\\fang\\ceramic\\fang-gabon\\images\\eu_91608_SMVK_VKM_objekt_30679.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:19.435346+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Lerkärl. Gåva.\nDiam.: 10 cm.",
+        "P. Möller",
+        "0000.00.1050",
+        "Gabun el. Ogove, Afrika",
+        "Gabun el. Ogove",
+        "Gabuneller Övre Kuilo, Afrika. [[Haga]]",
+        "skiss",
+        "Fang? (att. Tessmann: 1: 272 :224:2",
+        "Fans",
+        "Pangwe",
+        "Fang"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Lerkärl. Gåva.\nDiam.: 10 cm.",
+          "P. Möller"
+        ],
+        "def": [
+          "0000.00.1050",
+          "Gabun el. Ogove, Afrika",
+          "Gabun el. Ogove",
+          "Gabuneller Övre Kuilo, Afrika. [[Haga]]",
+          "skiss",
+          "Fang? (att. Tessmann: 1: 272 :224:2",
+          "Fans",
+          "Pangwe",
+          "Fang"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "kärl, Lerkärl, vessel"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/31",
+        "http://data.europeana.eu/concept/186"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Keramik"
+        },
+        {
+          "def": "Schiff"
+        },
+        {
+          "def": "Керамика"
+        },
+        {
+          "def": "Судно"
+        },
+        {
+          "def": "Keraami"
+        },
+        {
+          "def": "Laiva"
+        },
+        {
+          "def": "Cerâmica"
+        },
+        {
+          "def": "Navio"
+        },
+        {
+          "def": "Керамика"
+        },
+        {
+          "def": "Кораб"
+        },
+        {
+          "def": "Keramika"
+        },
+        {
+          "def": "Laivas"
+        },
+        {
+          "def": "Keramika"
+        },
+        {
+          "def": "Brod"
+        },
+        {
+          "def": "Keramika"
+        },
+        {
+          "def": "Kuģis"
+        },
+        {
+          "def": "Céramique"
+        },
+        {
+          "def": "Navire"
+        },
+        {
+          "def": "Kerámia"
+        },
+        {
+          "def": "Hajó"
+        },
+        {
+          "def": "Keramika"
+        },
+        {
+          "def": "Loď"
+        },
+        {
+          "def": "Keramika"
+        },
+        {
+          "def": "Ladja"
+        },
+        {
+          "def": "Ceirmeacht"
+        },
+        {
+          "def": "Long"
+        },
+        {
+          "def": "Ceràmica"
+        },
+        {
+          "def": "Vaixell"
+        },
+        {
+          "def": "Keramik"
+        },
+        {
+          "def": "Fartyg"
+        },
+        {
+          "def": "Κεραμική"
+        },
+        {
+          "def": "Πλοίο"
+        },
+        {
+          "def": "Ceramic"
+        },
+        {
+          "def": "Ship"
+        },
+        {
+          "def": "Ceramica"
+        },
+        {
+          "def": "Nave"
+        },
+        {
+          "def": "Cerámica"
+        },
+        {
+          "def": "Barco"
+        },
+        {
+          "def": "Keraamika"
+        },
+        {
+          "def": "Laev"
+        },
+        {
+          "def": "Zeramika"
+        },
+        {
+          "def": "Itsasontzi"
+        },
+        {
+          "def": "Keramika"
+        },
+        {
+          "def": "Loď"
+        },
+        {
+          "def": "Ceramika"
+        },
+        {
+          "def": "Statek wodny"
+        },
+        {
+          "def": "Keramik"
+        },
+        {
+          "def": "Skib"
+        },
+        {
+          "def": "Ceramică"
+        },
+        {
+          "def": "Navă"
+        },
+        {
+          "def": "Keramiek"
+        },
+        {
+          "def": "Schip"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Keramik",
+          "Schiff"
+        ],
+        "ru": [
+          "Керамика",
+          "Судно"
+        ],
+        "fi": [
+          "Laiva",
+          "Keraami"
+        ],
+        "pt": [
+          "Navio",
+          "Cerâmica"
+        ],
+        "bg": [
+          "Кораб",
+          "Керамика"
+        ],
+        "lt": [
+          "Keramika",
+          "Laivas"
+        ],
+        "hr": [
+          "Brod",
+          "Keramika"
+        ],
+        "lv": [
+          "Kuģis",
+          "Keramika"
+        ],
+        "fr": [
+          "Navire",
+          "Céramique"
+        ],
+        "hu": [
+          "Hajó",
+          "Kerámia"
+        ],
+        "sk": [
+          "Keramika",
+          "Loď"
+        ],
+        "sl": [
+          "Ladja",
+          "Keramika"
+        ],
+        "ga": [
+          "Ceirmeacht",
+          "Long"
+        ],
+        "ca": [
+          "Vaixell",
+          "Ceràmica"
+        ],
+        "sv": [
+          "Fartyg",
+          "Keramik"
+        ],
+        "el": [
+          "Κεραμική",
+          "Πλοίο"
+        ],
+        "en": [
+          "Ceramic",
+          "Ship"
+        ],
+        "it": [
+          "Nave",
+          "Ceramica"
+        ],
+        "es": [
+          "Barco",
+          "Cerámica"
+        ],
+        "et": [
+          "Laev",
+          "Keraamika"
+        ],
+        "eu": [
+          "Zeramika",
+          "Itsasontzi"
+        ],
+        "cs": [
+          "Keramika",
+          "Loď"
+        ],
+        "pl": [
+          "Ceramika",
+          "Statek wodny"
+        ],
+        "da": [
+          "Skib",
+          "Keramik"
+        ],
+        "ro": [
+          "Navă",
+          "Ceramică"
+        ],
+        "nl": [
+          "Keramiek",
+          "Schip"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/30679"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1122285/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1122285%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_30679?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_30679",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_30679.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 34.80308,
+      "timestamp": 1752047551489,
+      "timestamp_created": "2014-10-01T16:16:30.016Z",
+      "timestamp_created_epoch": 1412180190016,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "kärl, Lerkärl, vessel"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

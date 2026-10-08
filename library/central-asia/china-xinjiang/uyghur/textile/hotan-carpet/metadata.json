@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "va-O456776",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O456776",
+      "object_url": "https://collections.vam.ac.uk/item/O456776",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "05308(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Uyghur",
+      "tradition": "Hotan carpet",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "A hand-knotted wool carpet with an allover geometric/floral lattice field and multiple guard-and-border bands, located to Hotan—a classic style of Uyghur carpet weaving from Xinjiang.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1867",
+      "date_earliest": 1862,
+      "date_latest": 1867,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "",
+      "classification": "Carpet",
+      "styles": [],
+      "categories": [
+        "India Museum",
+        "Textiles",
+        "Interiors"
+      ],
+      "physical_description": "The carpet is of a reddish tone with flower patterns of various colours in the middle of the carpet. On the sides of the carpet there are geometrical patterns of a combination of shades such as blue, yellow, brown and red which match those of the flowers.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Width",
+          "value": "1571",
+          "unit": "mm",
+          "part": "Top Edge"
+        },
+        {
+          "dimension": "Width",
+          "value": "1635",
+          "unit": "mm",
+          "part": "Bottom Edge"
+        },
+        {
+          "dimension": "Length",
+          "value": "3194",
+          "unit": "mm",
+          "part": "Proper Right"
+        },
+        {
+          "dimension": "Length",
+          "value": "3100",
+          "unit": "mm",
+          "part": "Proper Left"
+        },
+        {
+          "dimension": "Weight",
+          "value": "16.5",
+          "unit": "kg",
+          "part": null
+        }
+      ],
+      "dimensions_note": "Weight including roller",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Hotan",
+      "made_in_place_alt": [],
+      "current_gallery": "003",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0140/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0140",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0140/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "16c3fd91691a4daea05ed98a0859064fd002ddc77366e2e6d6a9c57a6de1f031",
+        "bytes": 513745,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2011EV3334/full/1000,/0/default.jpg",
+        "iiif_id": "2011EV3334",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2011EV3334/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "c6e46ab98569d71b8a6a71ea53869b3d770d0e7f38e85f252978d609d30f6e47",
+        "bytes": 402304,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2013GD0234/full/1000,/0/default.jpg",
+        "iiif_id": "2013GD0234",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2013GD0234/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "ee22fe326b28683a6679d9422238eaf1edda278b286a8cb72b6e9d4ce77ae1dc",
+        "bytes": 471695,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_2.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0141/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0141",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0141/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "7634acc5a40f14b10e2cdeba8cf08a417cb5f2af0d5e9fb1f75451aabb6358b8",
+        "bytes": 240415,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_3.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0142/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0142",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0142/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "d8b2bb60554cca65d397a6746b8de14611942bc118ac5f99454ccfed39470f8f",
+        "bytes": 238325,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_4.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0143/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0143",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0143/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "01594f3e823fa21dad15a1a2dc2f0e59f7347976b6b27e4e5383ca1ef3e172ae",
+        "bytes": 457260,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_5.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0144/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0144",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0144/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "21a9451a68899ba8feec0ea5018594025428bf3a91048301b5f51332b8a7d4a2",
+        "bytes": 220832,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_6.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0145/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0145",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0145/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "08973925560b8aab5e2c731ec4fc5525b2e2ac96df0f8d49d282c5b6753b8a14",
+        "bytes": 250158,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_7.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0146/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0146",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0146/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "186d2173fafaf2577771e0121ad47be05e2e0646c3e4fe858d0f5ef39c6ba7c1",
+        "bytes": 239677,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_8.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA0170/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA0170",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA0170/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "4e2334bc2e28d0dd614263b02a5b4a8ed73130c6801d7c3cbac16c426e68d81b",
+        "bytes": 139795,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O456776_9.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:36:06.779394+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O456776",
+        "accessionNumber": "05308(IS)",
+        "objectType": "Carpet",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES325422",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2019MA0140",
+        "_primaryDate": "ca. 1867",
+        "_primaryPlace": "Hotan",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2019MA0140/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2019MA0140/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O456776/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O456776",
+        "accessionNumber": "05308(IS)",
+        "objectType": "Carpet",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "The carpet is of a reddish tone with flower patterns of various colours in the middle of the carpet. On the sides of the carpet there are geometrical patterns of a combination of shades such as blue, yellow, brown and red which match those of the flowers.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [],
+        "techniques": [],
+        "materialsAndTechniques": "",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          },
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Interiors",
+            "id": "THES48933"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "EAS",
+          "id": "THES48596"
+        },
+        "images": [
+          "2019MA0140",
+          "2011EV3334",
+          "2013GD0234",
+          "2019MA0141",
+          "2019MA0142",
+          "2019MA0143",
+          "2019MA0144",
+          "2019MA0145",
+          "2019MA0146",
+          "2019MA0170"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "003",
+              "id": "THES325422"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Carpet",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Hotan",
+              "id": "THES271204"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1867",
+              "earliest": "1862-01-01",
+              "latest": "1867-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Width",
+            "value": "1571",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "07/06/2019",
+              "earliest": "2019-06-07",
+              "latest": "2019-06-07"
+            },
+            "part": "Top Edge",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "1635",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "07/06/2019",
+              "earliest": "2019-06-07",
+              "latest": "2019-06-07"
+            },
+            "part": "Bottom Edge",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "3194",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "07/06/2019",
+              "earliest": "2019-06-07",
+              "latest": "2019-06-07"
+            },
+            "part": "Proper Right",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "3100",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "07/06/2019",
+              "earliest": "2019-06-07",
+              "latest": "2019-06-07"
+            },
+            "part": "Proper Left",
+            "note": ""
+          },
+          {
+            "dimension": "Weight",
+            "value": "16.5",
+            "unit": "kg",
+            "qualifier": "",
+            "date": {
+              "text": "07/06/2019",
+              "earliest": "2019-06-07",
+              "latest": "2019-06-07"
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "Weight including roller",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Carpet, Hotan (also known as Hetian or Khotan), China, ca. 1867",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "05308(IS)"
+        ],
+        "accessionNumberNum": "05308",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O485637",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O485637",
+      "object_url": "https://collections.vam.ac.uk/item/O485637",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "61-1904",
+      "accession_year": 1904
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Uyghur",
+      "tradition": "Hotan carpet",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "A knotted wool pile carpet with compartmented floral niche medallions, from Hotan, Xinjiang — a classic Khotanese carpet-weaving tradition associated with the Uyghur region.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "wool (textile)",
+        "linen (material)"
+      ],
+      "techniques": [
+        "knotting"
+      ],
+      "medium_raw": "Knotted woollen pile on linen warps",
+      "classification": "Carpet",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Interiors"
+      ],
+      "physical_description": "Carpet (incomplete) in knotted woollen pile on linen warps. The pattern consists of four niche-shaped compartments, enclosing devices of flowering plants and stems on red, blue and green grounds. The spandrels are filled with flowering stems. The compartments have wavy floral borders.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Weight",
+          "value": "10",
+          "unit": "kg",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "2235",
+          "unit": "mm",
+          "part": "Top Edge"
+        },
+        {
+          "dimension": "Width",
+          "value": "2194",
+          "unit": "mm",
+          "part": "Bottom edge"
+        },
+        {
+          "dimension": "Length",
+          "value": "1156",
+          "unit": "mm",
+          "part": "Proper Right"
+        },
+        {
+          "dimension": "Length",
+          "value": "1151",
+          "unit": "mm",
+          "part": "Proper Left"
+        }
+      ],
+      "dimensions_note": "Weight including roller",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Hotan (prefecture)",
+      "made_in_place_alt": [],
+      "current_gallery": "007",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA9483/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA9483",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA9483/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "1fffc98d2941ff30da81825cb7d59b9bc24ff0417abc427d04b50856cbbc5b3b",
+        "bytes": 335196,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2011EV3402/full/1000,/0/default.jpg",
+        "iiif_id": "2011EV3402",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2011EV3402/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "e70f6bccb6506f5fee41217a8374958f0849c0554dd476e42a0a88eef60243d7",
+        "bytes": 213423,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2013GD0254/full/1000,/0/default.jpg",
+        "iiif_id": "2013GD0254",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2013GD0254/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "402b4f94de9d01f629b7bf2fceb4aa37f37076724e85c48f7773b5f630680da3",
+        "bytes": 450664,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_2.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA9432/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA9432",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA9432/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "32176d95f64fef4961e98612545342a08c65636365e7f8a8009bc0b7174e9c27",
+        "bytes": 475458,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_3.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA9484/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA9484",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA9484/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "c5e87bff016b43e4cb951b40966554236583a3e7ff41cc7dd0f7eeca0c5addab",
+        "bytes": 173024,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_4.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA9485/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA9485",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA9485/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "106a49864b7c1b9e229e98d66451e40780162cddcca2c411827889c348831ecb",
+        "bytes": 183025,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_5.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA9486/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA9486",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA9486/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "24b41ef70c22bee5025de2a781b057064f46988ceb2854513b70aebf028e723c",
+        "bytes": 163684,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_6.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MA9487/full/1000,/0/default.jpg",
+        "iiif_id": "2019MA9487",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MA9487/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "cc2a0b4e347550df0b14c06e35a930be4a98400e3a1f09503db1309f0602b2b3",
+        "bytes": 148447,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O485637_7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:36:19.673554+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O485637",
+        "accessionNumber": "61-1904",
+        "objectType": "Carpet",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES325435",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": "maker"
+        },
+        "_primaryImageId": "2019MA9483",
+        "_primaryDate": "19th century",
+        "_primaryPlace": "Hotan (prefecture)",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2019MA9483/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2019MA9483/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O485637/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O485637",
+        "accessionNumber": "61-1904",
+        "objectType": "Carpet",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Carpet (incomplete) in knotted woollen pile on linen warps. The pattern consists of four niche-shaped compartments, enclosing devices of flowering plants and stems on red, blue and green grounds. The spandrels are filled with flowering stems. The compartments have wavy floral borders.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "maker",
+              "id": "x40240"
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "wool (textile)",
+            "id": "AAT243430"
+          },
+          {
+            "text": "linen (material)",
+            "id": "AAT14069"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "knotting",
+            "id": "AAT53635"
+          }
+        ],
+        "materialsAndTechniques": "Knotted woollen pile on linen warps",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Interiors",
+            "id": "THES48933"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "EAS",
+          "id": "THES48596"
+        },
+        "images": [
+          "2019MA9483",
+          "2011EV3402",
+          "2013GD0254",
+          "2019MA9432",
+          "2019MA9484",
+          "2019MA9485",
+          "2019MA9486",
+          "2019MA9487"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "007",
+              "id": "THES325435"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Carpet",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Hotan (prefecture)",
+              "id": "THES406525"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "19th century",
+              "earliest": "1800-01-01",
+              "latest": "1899-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Weight",
+            "value": "10",
+            "unit": "kg",
+            "qualifier": "",
+            "date": {
+              "text": "10/06/2019",
+              "earliest": "2019-06-10",
+              "latest": "2019-06-10"
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "2235",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "10/06/2019",
+              "earliest": "2019-06-10",
+              "latest": "2019-06-10"
+            },
+            "part": "Top Edge",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "2194",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "10/06/2019",
+              "earliest": "2019-06-10",
+              "latest": "2019-06-10"
+            },
+            "part": "Bottom edge",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "1156",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "10/06/2019",
+              "earliest": "2019-06-10",
+              "latest": "2019-06-10"
+            },
+            "part": "Proper Right",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "1151",
+            "unit": "mm",
+            "qualifier": "",
+            "date": {
+              "text": "10/06/2019",
+              "earliest": "2019-06-10",
+              "latest": "2019-06-10"
+            },
+            "part": "Proper Left",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "Weight including roller",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Carpet, knotted woollen pile on linen warps, possibly Hotan (Hetian), China, 19th century (Qing dynasty)",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "61-1904"
+        ],
+        "accessionNumberNum": "61",
+        "accessionNumberPrefix": "",
+        "accessionYear": 1904,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O451681",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O451681",
+      "object_url": "https://collections.vam.ac.uk/item/O451681",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "2222(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Uyghur",
+      "tradition": "Hotan carpet",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "household",
+      "vision_reason": "The image shows a wooden and metal weaving comb, a tool used to beat down weft threads in carpet weaving, from Hotan in Xinjiang — a plausible Uyghur craft tool tied to the region's carpet-weaving tradition.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1873",
+      "date_earliest": 1868,
+      "date_latest": 1873,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "wood"
+      ],
+      "techniques": [],
+      "medium_raw": "Wood and metal",
+      "classification": "Weaving comb",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Tools & Equipment",
+        "Floor coverings",
+        "India Museum"
+      ],
+      "physical_description": "Weaving comb used in carpet weaving (hand loom) for compressing each line of work, made of wood and metal. ",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Hotan (prefecture)",
+      "made_in_place_alt": [],
+      "current_gallery": "004",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "T",
+        "r",
+        "a",
+        "n",
+        "s",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "7",
+        "9",
+        ".",
+        " ",
+        "P",
+        "a",
+        "r",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "a",
+        "n",
+        " ",
+        "e",
+        "t",
+        "h",
+        "n",
+        "o",
+        "l",
+        "o",
+        "g",
+        "i",
+        "c",
+        "a",
+        "l",
+        " ",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "a",
+        "c",
+        "q",
+        "u",
+        "i",
+        "r",
+        "e",
+        "d",
+        " ",
+        "b",
+        "y",
+        " ",
+        "S",
+        "i",
+        "r",
+        " ",
+        "T",
+        "h",
+        "o",
+        "m",
+        "a",
+        "s",
+        " ",
+        "D",
+        "o",
+        "u",
+        "g",
+        "l",
+        "a",
+        "s",
+        " ",
+        "F",
+        "o",
+        "r",
+        "s",
+        "y",
+        "t",
+        "h",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "Y",
+        "a",
+        "r",
+        "k",
+        "a",
+        "n",
+        "d",
+        " ",
+        "(",
+        "S",
+        "h",
+        "a",
+        "c",
+        "h",
+        "e",
+        " ",
+        "i",
+        "n",
+        " ",
+        "C",
+        "h",
+        "i",
+        "n",
+        "e",
+        "s",
+        "e",
+        ")",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "7",
+        "3",
+        "-",
+        "4",
+        ".",
+        "\r",
+        "\n",
+        "\r",
+        "\n",
+        "A",
+        " ",
+        "w",
+        "o",
+        "o",
+        "d",
+        "e",
+        "n",
+        " ",
+        "p",
+        "r",
+        "i",
+        "n",
+        "t",
+        "i",
+        "n",
+        "g",
+        " ",
+        "b",
+        "l",
+        "o",
+        "c",
+        "k",
+        " ",
+        "d",
+        "e",
+        "p",
+        "i",
+        "c",
+        "t",
+        "i",
+        "n",
+        "g",
+        " ",
+        "t",
+        "h",
+        "i",
+        "s",
+        " ",
+        "o",
+        "b",
+        "j",
+        "e",
+        "c",
+        "t",
+        " ",
+        "i",
+        "s",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "c",
+        "o",
+        "l",
+        "l",
+        "e",
+        "c",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "S",
+        "o",
+        "c",
+        "i",
+        "e",
+        "t",
+        "y",
+        " ",
+        "o",
+        "f",
+        " ",
+        "A",
+        "n",
+        "t",
+        "i",
+        "q",
+        "u",
+        "a",
+        "r",
+        "i",
+        "e",
+        "s",
+        " ",
+        "o",
+        "f",
+        " ",
+        "L",
+        "o",
+        "n",
+        "d",
+        "o",
+        "n",
+        ".",
+        " ",
+        "L",
+        "D",
+        "S",
+        "A",
+        "L",
+        "2",
+        "0",
+        "2",
+        "2",
+        ".",
+        "1",
+        ".",
+        "5",
+        "2",
+        "4"
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP8850/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP8850",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8850/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "93d9454127a52e601d13410ed079da91b5fb8d1b700da39abfec1540d9419762",
+        "bytes": 93877,
+        "local_path": "library\\central-asia\\china-xinjiang\\uyghur\\textile\\hotan-carpet\\images\\va_O451681.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T06:36:30.103428+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O451681",
+        "accessionNumber": "2222(IS)",
+        "objectType": "Weaving comb",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES369527",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP8850",
+        "_primaryDate": "ca. 1873",
+        "_primaryPlace": "Hotan (prefecture)",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP8850/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP8850/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O451681/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O451681",
+        "accessionNumber": "2222(IS)",
+        "objectType": "Weaving comb",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Weaving comb used in carpet weaving (hand loom) for compressing each line of work, made of wood and metal. ",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "wood",
+            "id": "AAT11914"
+          }
+        ],
+        "techniques": [],
+        "materialsAndTechniques": "Wood and metal",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Tools & Equipment",
+            "id": "THES48883"
+          },
+          {
+            "text": "Floor coverings",
+            "id": "THES48953"
+          },
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP8850"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "004",
+              "id": "THES369527"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Weaving comb",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Hotan (prefecture)",
+              "id": "THES406525"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1873",
+              "earliest": "1868-01-01",
+              "latest": "1873-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Transferred from the India Museum in 1879. Part of an ethnological collection acquired by Sir Thomas Douglas Forsyth from Yarkand (Shache in Chinese) in 1873-4.\r\n\r\nA wooden printing block depicting this object is in the collection of the Society of Antiquaries of London. LDSAL2022.1.524",
+        "historicalContext": "",
+        "briefDescription": "Weaving comb for carpet weaving used in Hetian (Khotan), wood and metal, collected from Shache (Yarkand), China, ca. 1873",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "2222(IS)"
+        ],
+        "accessionNumberNum": "2222",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [
+          {
+            "type": {
+              "text": "India Museum Slip Book",
+              "id": "THES50388"
+            },
+            "number": "12,898"
+          }
+        ],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-08-21",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  }
+]

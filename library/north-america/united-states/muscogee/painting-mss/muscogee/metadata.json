@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am2006-Drg-58",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am2006-Drg-58",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am2006-Drg-58",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am2006.Drg.58",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Muscogee",
+      "tradition": "Muscogee",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a watercolor self-portrait drawing by Hilis Hadjo (Josiah Francis), a Creek (Muscogee) leader, depicting himself in regalia with pipe, pistol, belt and coat — a traditional-era work made by a member of the claimed culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Drawing; self portrait of  Hilis Hadjo, or Josiah Francis, a noted Creek (Seminole) leader; wearing  red head-gear, military red coat with epaulettes, waist belt with tassels and shoes with spurs. A pistol is held by his waist belt. He is smoking a long thin pipe.\r\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_19/f0aa1d58_24fb_461f_a329_a3e1014666d3/preview_00126212_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b958112df1800bd2c7147e265fcd6b561e9fa2fee5b8911fa0e32ec86838a48a",
+        "bytes": 33387,
+        "local_path": "library\\north-america\\united-states\\muscogee\\painting-mss\\muscogee\\images\\bm_E_Am2006_Drg_58.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:29:09.969509+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "Drawing; self portrait of  Hilis Hadjo, or Josiah Francis, a noted Creek (Seminole) leader; wearing  red head-gear, military red coat with epaulettes, waist belt with tassels and shoes with spurs. A pistol is held by his waist belt. He is smoking a long thin pipe.\r\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_19/f0aa1d58_24fb_461f_a329_a3e1014666d3/preview_00126212_001.jpg",
+      "production_ethnic_groups": [
+        "Creek"
+      ],
+      "production_ethnic_attribution": "Made by: Creek"
+    }
+  }
+]

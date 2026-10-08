@@ -1,0 +1,703 @@
+[
+  {
+    "id": "europeana-1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Archives of the Netherlands",
+      "object_id": "1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84",
+      "object_url": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "\"Batak\" Indonesia",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of two Batak women in Sumatra, one carrying a woven basket on her head with a headcloth support, showing traditional daily-life dress and a household carrying implement.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "[zonder titel] [reportage Batak-gebied Sumatra] [vrouwen, waarvan een met mand op hoofd ]",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Archives of the Netherlands",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Fbe%2F68%2F44%2Fe9%2F40%2F29%2F4d%2Fb8%2Fbc%2F82%2Fe1%2F3f%2Fdd%2Ffd%2Fe7%2F22%2F14213e64-c237-4023-8bb7-ea9c937bf89a.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "df9e76c0ed9fcff7ebecbc89ff361f54ec50514cbdc6bf02a216e2dbdc3246f7",
+        "bytes": 14397,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\household\\batak-indonesia\\images\\eu_1417_https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:26.567584+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Archives of the Netherlands"
+      ],
+      "dcCreator": [
+        "Onbekend / Publiek Domein of Rechtenvrij"
+      ],
+      "dcCreatorLangAware": {
+        "nl": [
+          "Onbekend / Publiek Domein of Rechtenvrij"
+        ]
+      },
+      "dcDescription": [
+        "[zonder titel] [reportage Batak-gebied Sumatra] [vrouwen, waarvan een met mand op hoofd ]"
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "[zonder titel] [reportage Batak-gebied Sumatra] [vrouwen, waarvan een met mand op hoofd ]"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie"
+        ],
+        "ru": [
+          "Фотография"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "pt": [
+          "Fotografia"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "fr": [
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "en": [
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia"
+        ],
+        "es": [
+          "Fotografía"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "cs": [
+          "Fotografie"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "pl": [
+          "Fotografia"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "nl": [
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "1417__Nationaal_Archief"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10648/ae103810-d0b4-102d-bcf8-003048976d84"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indië"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "Republik Indonesien"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Δημοκρατία της Ινδονησίας"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "Unitary State of the Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "République d'Indonésie"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonéská republika"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezija"
+        },
+        {
+          "def": "Indonezijska republika"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "RI"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Republik Indonesien"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "pt": [
+          "República da Indonésia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "el": [
+          "Δημοκρατία της Ινδονησίας"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "Unitary State of the Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "République d'Indonésie",
+          "ID",
+          "Indonesie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "cs": [
+          "Indonéská republika"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "sl": [
+          "Republika Indonezija",
+          "Indonezijska republika",
+          "IDN",
+          "RI"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indië",
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesië"
+        },
+        {
+          "def": "Sumatra"
+        },
+        {
+          "def": "Nederlands-Indië"
+        },
+        {
+          "def": "Indonesië"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonezia"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "nl": [
+          "Indonesië",
+          "Sumatra",
+          "Nederlands-Indië",
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fservice.archief.nl%2Fiip%2Fbe%2F68%2F44%2Fe9%2F40%2F29%2F4d%2Fb8%2Fbc%2F82%2Fe1%2F3f%2Fdd%2Ffd%2Fe7%2F22%2F14213e64-c237-4023-8bb7-ea9c937bf89a.jp2%2Ffull%2Fmax%2F0%2Fdefault.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "1417__Nationaal_Archief"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/1417/https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1417/https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/1417/https___archief_nl_id_foto_ae103810_d0b4_102d_bcf8_003048976d84.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Dutch Collections for Europe"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 30.384253,
+      "timestamp": 1768412409938,
+      "timestamp_created": "2026-01-14T13:28:00.441Z",
+      "timestamp_created_epoch": 1768397280441,
+      "timestamp_update": "2026-01-14T13:28:00.441Z",
+      "timestamp_update_epoch": 1768397280441,
+      "title": [
+        "[zonder titel] [reportage Batak-gebied Sumatra] [vrouwen, waarvan een met mand op hoofd ]"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

@@ -1,0 +1,4863 @@
+[
+  {
+    "id": "europeana-199_item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "German Documentation Center for Art History - Marburg Picture Index",
+      "object_id": "199_item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2",
+      "object_url": "https://www.europeana.eu/item/199/item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A wooden face mask with raffia/fiber hair and beard is a plausible mask form for the Yoruba region of Nigeria; nothing contradicts the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "Mask of the Yoruba",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "German Documentation Center for Art History - Marburg Picture Index",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Ffm629893&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "78a7cc27bf84497b295894451fa96edaa123ac70ddde6dd5de4f7e4699c1c871",
+        "bytes": 57720,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba-nigeria\\images\\eu_199_item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:31.438995+00:00",
+    "raw": {
+      "completeness": 3,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "German Documentation Center for Art History - Marburg Picture Index"
+      ],
+      "dcTitleLangAware": {
+        "de": [
+          "Maske der Yoruba"
+        ],
+        "en": [
+          "Mask of the Yoruba"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300138758",
+        "http://data.europeana.eu/concept/2448"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske (Kleidung)"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "μάσκα"
+        },
+        {
+          "def": "masks (costume)"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "maschera"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "masques (costume)"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "máscara (vestuario)"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "maskers (kleding)"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Mască"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Maske",
+          "Maske (Kleidung)"
+        ],
+        "ru": [
+          "Маска"
+        ],
+        "fi": [
+          "Naamari"
+        ],
+        "pt": [
+          "Máscara"
+        ],
+        "bg": [
+          "Маска"
+        ],
+        "lt": [
+          "Kaukė"
+        ],
+        "hr": [
+          "Maska"
+        ],
+        "lv": [
+          "Maska"
+        ],
+        "fr": [
+          "masques (costume)",
+          "Masque"
+        ],
+        "hu": [
+          "Álarc"
+        ],
+        "sk": [
+          "Maska"
+        ],
+        "sl": [
+          "Maska"
+        ],
+        "ga": [
+          "Masc"
+        ],
+        "ca": [
+          "Màscara"
+        ],
+        "sv": [
+          "Ansiktsmask"
+        ],
+        "el": [
+          "μάσκα"
+        ],
+        "en": [
+          "masks (costume)",
+          "Mask"
+        ],
+        "it": [
+          "Maschera",
+          "maschera"
+        ],
+        "es": [
+          "Máscara",
+          "máscara (vestuario)"
+        ],
+        "et": [
+          "Mask"
+        ],
+        "cs": [
+          "Maska"
+        ],
+        "eu": [
+          "Maskara"
+        ],
+        "pl": [
+          "Maska"
+        ],
+        "da": [
+          "Maske"
+        ],
+        "ro": [
+          "Mască"
+        ],
+        "nl": [
+          "Masker",
+          "maskers (kleding)"
+        ]
+      },
+      "edmDatasetName": [
+        "199_DDB_BildarchivFotoMarburg"
+      ],
+      "edmIsShownAt": [
+        "http://www.bildindex.de/document/obj22017561"
+      ],
+      "edmIsShownBy": [
+        "http://www.bildindex.de/bilder/d/fm629893"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "de"
+        },
+        {
+          "def": "GER"
+        },
+        {
+          "def": "BR Deutschland"
+        },
+        {
+          "def": "BRD"
+        },
+        {
+          "def": "FRG"
+        },
+        {
+          "def": "DEU"
+        },
+        {
+          "def": "Saksan liittotasavalta"
+        },
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "Федеративная Республика Германия"
+        },
+        {
+          "def": "ФРГ"
+        },
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "Дойчланд"
+        },
+        {
+          "def": "Карлсруэ (административный округ)"
+        },
+        {
+          "def": "Административный округ Карлсруэ"
+        },
+        {
+          "def": "Хайдель­берг"
+        },
+        {
+          "def": "Förbundsrepubliken Tyskland"
+        },
+        {
+          "def": "Федерална република Германия"
+        },
+        {
+          "def": "ФРГ"
+        },
+        {
+          "def": "Ομοσπονδιακή Δημοκρατία της Γερμανίας"
+        },
+        {
+          "def": "Repubblika Federali tal-Ġermanja"
+        },
+        {
+          "def": "Federal Republic of Germany"
+        },
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "GER"
+        },
+        {
+          "def": "BR Deutschland"
+        },
+        {
+          "def": "DE"
+        },
+        {
+          "def": "BRD"
+        },
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "de"
+        },
+        {
+          "def": "GFR"
+        },
+        {
+          "def": "Repubblica Federale di Germania"
+        },
+        {
+          "def": "DEU"
+        },
+        {
+          "def": "GER"
+        },
+        {
+          "def": "BR Deutschland"
+        },
+        {
+          "def": "BRD"
+        },
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "de"
+        },
+        {
+          "def": "RFA"
+        },
+        {
+          "def": "République fédérale allemande"
+        },
+        {
+          "def": "République fédérale d'Allemagne"
+        },
+        {
+          "def": "de"
+        },
+        {
+          "def": "GER"
+        },
+        {
+          "def": "BR Deutschland"
+        },
+        {
+          "def": "BRD"
+        },
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "DE"
+        },
+        {
+          "def": "La République fédérale d’Allemagne"
+        },
+        {
+          "def": "All."
+        },
+        {
+          "def": "R. F. A."
+        },
+        {
+          "def": "District de Karlsruhe"
+        },
+        {
+          "def": "Német Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Alemania"
+        },
+        {
+          "def": "Republica Federal de Alemania"
+        },
+        {
+          "def": "Region de Karlsruhe"
+        },
+        {
+          "def": "Saksamaa Liitvabariik"
+        },
+        {
+          "def": "SLV"
+        },
+        {
+          "def": "Spolková republika Německo"
+        },
+        {
+          "def": "SRN"
+        },
+        {
+          "def": "NSR"
+        },
+        {
+          "def": "BRD"
+        },
+        {
+          "def": "Nemecká spolková republika"
+        },
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "BR Deutschland"
+        },
+        {
+          "def": "BRD"
+        },
+        {
+          "def": "Bundesrepublik Deutschland"
+        },
+        {
+          "def": "Republica Federală Germania"
+        },
+        {
+          "def": "RFG"
+        },
+        {
+          "def": "Bondsrepubliek Duitsland"
+        },
+        {
+          "def": "DE"
+        },
+        {
+          "def": "DEU"
+        },
+        {
+          "def": "Bondsrepubliek"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Bundesrepublik Deutschland",
+          "de",
+          "GER",
+          "BR Deutschland",
+          "BRD",
+          "FRG",
+          "DEU"
+        ],
+        "fi": [
+          "Saksan liittotasavalta",
+          "Bundesrepublik Deutschland"
+        ],
+        "ru": [
+          "Федеративная Республика Германия",
+          "ФРГ",
+          "Deutschland",
+          "Bundesrepublik Deutschland",
+          "Дойчланд",
+          "Карлсруэ (административный округ)",
+          "Административный округ Карлсруэ",
+          "Хайдель­берг"
+        ],
+        "sv": [
+          "Förbundsrepubliken Tyskland"
+        ],
+        "bg": [
+          "Федерална република Германия",
+          "ФРГ"
+        ],
+        "el": [
+          "Ομοσπονδιακή Δημοκρατία της Γερμανίας"
+        ],
+        "mt": [
+          "Repubblika Federali tal-Ġermanja"
+        ],
+        "en": [
+          "Federal Republic of Germany",
+          "Deutschland",
+          "GER",
+          "BR Deutschland",
+          "DE",
+          "BRD",
+          "Bundesrepublik Deutschland",
+          "de",
+          "GFR"
+        ],
+        "it": [
+          "Repubblica Federale di Germania",
+          "DEU",
+          "GER",
+          "BR Deutschland",
+          "BRD",
+          "Bundesrepublik Deutschland",
+          "Deutschland",
+          "de"
+        ],
+        "fr": [
+          "RFA",
+          "République fédérale allemande",
+          "République fédérale d'Allemagne",
+          "de",
+          "GER",
+          "BR Deutschland",
+          "BRD",
+          "Bundesrepublik Deutschland",
+          "Deutschland",
+          "DE",
+          "La République fédérale d’Allemagne",
+          "All.",
+          "R. F. A.",
+          "District de Karlsruhe"
+        ],
+        "hu": [
+          "Német Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Alemania",
+          "Republica Federal de Alemania",
+          "Region de Karlsruhe"
+        ],
+        "et": [
+          "Saksamaa Liitvabariik",
+          "SLV"
+        ],
+        "cs": [
+          "Spolková republika Německo",
+          "SRN",
+          "NSR",
+          "BRD"
+        ],
+        "sk": [
+          "Nemecká spolková republika"
+        ],
+        "pl": [
+          "Deutschland",
+          "BR Deutschland",
+          "BRD",
+          "Bundesrepublik Deutschland"
+        ],
+        "ro": [
+          "Republica Federală Germania",
+          "RFG"
+        ],
+        "nl": [
+          "Bondsrepubliek Duitsland",
+          "DE",
+          "DEU",
+          "Bondsrepubliek"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "Regierungsbezirk Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Германия"
+        },
+        {
+          "def": "Карлсруэ"
+        },
+        {
+          "def": "Гейдельберг"
+        },
+        {
+          "def": "Saksa"
+        },
+        {
+          "def": "Karlsruhen hallintopiiri"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Alemanha"
+        },
+        {
+          "def": "Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Германия"
+        },
+        {
+          "def": "Хайделберг"
+        },
+        {
+          "def": "Vokietija"
+        },
+        {
+          "def": "Heidelbergas"
+        },
+        {
+          "def": "Vācija"
+        },
+        {
+          "def": "Heidelberga"
+        },
+        {
+          "def": "Njemačka"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Allemagne"
+        },
+        {
+          "def": "Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Németország"
+        },
+        {
+          "def": "Regierungsbezirk Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Nemecko"
+        },
+        {
+          "def": "Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Nemčija"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "An Ghearmáin"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Alemanya"
+        },
+        {
+          "def": "Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Tyskland"
+        },
+        {
+          "def": "Regierungsbezirk Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Γερμανία"
+        },
+        {
+          "def": "Διοικητική Περιφέρεια Καρλσρούης"
+        },
+        {
+          "def": "Χαϊδελβέργη"
+        },
+        {
+          "def": "Ġermanja"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Germany"
+        },
+        {
+          "def": "Karlsruhe Government Region"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Germania"
+        },
+        {
+          "def": "Distretto governativo di Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Alemania"
+        },
+        {
+          "def": "Región de Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Saksamaa"
+        },
+        {
+          "def": "Karlsruhe ringkond"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Alemania"
+        },
+        {
+          "def": "Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Německo"
+        },
+        {
+          "def": "Vládní obvod Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Niemcy"
+        },
+        {
+          "def": "Rejencja Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Germania"
+        },
+        {
+          "def": "Regiunea administrativă Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Tyskland"
+        },
+        {
+          "def": "Regierungsbezirk Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Duitsland"
+        },
+        {
+          "def": "Regierungsbezirk Karlsruhe"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Heidelberg"
+        },
+        {
+          "def": "Heidelberg"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Deutschland",
+          "Regierungsbezirk Karlsruhe",
+          "Heidelberg"
+        ],
+        "ru": [
+          "Германия",
+          "Карлсруэ",
+          "Гейдельберг"
+        ],
+        "fi": [
+          "Saksa",
+          "Karlsruhen hallintopiiri",
+          "Heidelberg"
+        ],
+        "def": [
+          "Heidelberg",
+          "Heidelberg"
+        ],
+        "pt": [
+          "Alemanha",
+          "Karlsruhe",
+          "Heidelberg"
+        ],
+        "bg": [
+          "Германия",
+          "Хайделберг"
+        ],
+        "lt": [
+          "Vokietija",
+          "Heidelbergas"
+        ],
+        "lv": [
+          "Vācija",
+          "Heidelberga"
+        ],
+        "hr": [
+          "Njemačka",
+          "Heidelberg"
+        ],
+        "fr": [
+          "Allemagne",
+          "Karlsruhe",
+          "Heidelberg"
+        ],
+        "hu": [
+          "Németország",
+          "Regierungsbezirk Karlsruhe",
+          "Heidelberg"
+        ],
+        "sk": [
+          "Nemecko",
+          "Karlsruhe",
+          "Heidelberg"
+        ],
+        "sl": [
+          "Nemčija",
+          "Heidelberg"
+        ],
+        "ga": [
+          "An Ghearmáin",
+          "Heidelberg"
+        ],
+        "ca": [
+          "Alemanya",
+          "Karlsruhe",
+          "Heidelberg"
+        ],
+        "sv": [
+          "Tyskland",
+          "Regierungsbezirk Karlsruhe",
+          "Heidelberg"
+        ],
+        "el": [
+          "Γερμανία",
+          "Διοικητική Περιφέρεια Καρλσρούης",
+          "Χαϊδελβέργη"
+        ],
+        "mt": [
+          "Ġermanja",
+          "Heidelberg"
+        ],
+        "en": [
+          "Germany",
+          "Karlsruhe Government Region",
+          "Heidelberg"
+        ],
+        "it": [
+          "Germania",
+          "Distretto governativo di Karlsruhe",
+          "Heidelberg"
+        ],
+        "es": [
+          "Alemania",
+          "Región de Karlsruhe",
+          "Heidelberg"
+        ],
+        "et": [
+          "Saksamaa",
+          "Karlsruhe ringkond",
+          "Heidelberg"
+        ],
+        "eu": [
+          "Alemania",
+          "Karlsruhe",
+          "Heidelberg"
+        ],
+        "cs": [
+          "Německo",
+          "Vládní obvod Karlsruhe",
+          "Heidelberg"
+        ],
+        "pl": [
+          "Niemcy",
+          "Rejencja Karlsruhe",
+          "Heidelberg"
+        ],
+        "ro": [
+          "Germania",
+          "Regiunea administrativă Karlsruhe",
+          "Heidelberg"
+        ],
+        "da": [
+          "Tyskland",
+          "Regierungsbezirk Karlsruhe",
+          "Heidelberg"
+        ],
+        "nl": [
+          "Duitsland",
+          "Regierungsbezirk Karlsruhe",
+          "Heidelberg"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "51.0",
+        "49.0",
+        "49.412224"
+      ],
+      "edmPlaceLongitude": [
+        "10.0",
+        "8.5",
+        "8.71"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.bildindex.de%2Fbilder%2Fd%2Ffm629893&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "199_DDB_BildarchivFotoMarburg"
+      ],
+      "europeanaCompleteness": 3,
+      "guid": "https://www.europeana.eu/item/199/item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/199/item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/199/item_Q2NCWCY5NCGVTYHNBUYWDPK47KGQ3DP2.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 156.82675,
+      "timestamp": 1752002747109,
+      "timestamp_created": "2022-01-31T11:04:15.728Z",
+      "timestamp_created_epoch": 1643627055728,
+      "timestamp_update": "2022-01-31T11:04:15.728Z",
+      "timestamp_update_epoch": 1643627055728,
+      "title": [
+        "Mask of the Yoruba",
+        "Maske der Yoruba"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_29057",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_29057",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29057?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The drawing shows a helmet-style wooden mask with a carved face, painted details, and pointed ear flaps, collected in Oyo, Nigeria — consistent with a Yoruba Gelede-type masquerade helmet mask (the description explicitly ties it to \"geledesällskapet,\" the Gelede society).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "mask, Hjälmmask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2656003%2Fteck-1000_teck.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "53e844455e72b39f08ea3a4ea875b12033cbcda312e78025f3aa81c785c403dc",
+        "bytes": 79303,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_29057.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:36.780688+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Hjälmmask av trä. Defekt: spricka på ena sidan. Masken är målad med oljefärg i svart, gult och rött (öronens insida). Den gula färgen inramar ansiktet där färgen skavs av. Höjd: 24 cm. Mask av det slag som bäres vid danser vilka uppföres av geledesällskapet. Masken \ninsamlat 1961 i Oyo av donator.",
+        "Gåva av R. Stråhle 26/10-1961",
+        "Årsberättelse 1961, Årstryck 1959-62, Etnografiska museet, Göteborg",
+        "1961.29.0001",
+        "Nigeria: Oyo",
+        "Oyo, Nigeria. [[Haga]]",
+        "Nigeria: Oyo",
+        "skiss",
+        "Yoruba",
+        "Nigeria",
+        "Yorouba",
+        "Yoruba"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Hjälmmask av trä. Defekt: spricka på ena sidan. Masken är målad med oljefärg i svart, gult och rött (öronens insida). Den gula färgen inramar ansiktet där färgen skavs av. Höjd: 24 cm. Mask av det slag som bäres vid danser vilka uppföres av geledesällskapet. Masken \ninsamlat 1961 i Oyo av donator.",
+          "Gåva av R. Stråhle 26/10-1961",
+          "Årsberättelse 1961, Årstryck 1959-62, Etnografiska museet, Göteborg"
+        ],
+        "def": [
+          "1961.29.0001",
+          "Nigeria: Oyo",
+          "Oyo, Nigeria. [[Haga]]",
+          "Nigeria: Oyo",
+          "skiss",
+          "Yoruba",
+          "Nigeria",
+          "Yorouba",
+          "Yoruba"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "mask, Hjälmmask"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2448",
+        "http://data.europeana.eu/concept/1816"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Древесина"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Puuaines"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madeira"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Дървесина"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Mediena"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drvo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Koksne"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "Bois"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "fa"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drevo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Les"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Adhmad"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Fusta"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "Trä"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Wood"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "Legno"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madera"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Puit"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Dřevo"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Zur"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drewno"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Træ"
+        },
+        {
+          "def": "Mască"
+        },
+        {
+          "def": "Lemn"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "Hout"
+        },
+        {
+          "def": "Ξύλο"
+        },
+        {
+          "def": "Injam"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Maske",
+          "Holz"
+        ],
+        "ru": [
+          "Древесина",
+          "Маска"
+        ],
+        "fi": [
+          "Puuaines",
+          "Naamari"
+        ],
+        "pt": [
+          "Madeira",
+          "Máscara"
+        ],
+        "bg": [
+          "Маска",
+          "Дървесина"
+        ],
+        "lt": [
+          "Mediena",
+          "Kaukė"
+        ],
+        "hr": [
+          "Drvo",
+          "Maska"
+        ],
+        "lv": [
+          "Koksne",
+          "Maska"
+        ],
+        "fr": [
+          "Masque",
+          "Bois"
+        ],
+        "hu": [
+          "Álarc",
+          "fa"
+        ],
+        "sk": [
+          "Drevo",
+          "Maska"
+        ],
+        "sl": [
+          "Les",
+          "Maska"
+        ],
+        "ga": [
+          "Masc",
+          "Adhmad"
+        ],
+        "ca": [
+          "Fusta",
+          "Màscara"
+        ],
+        "sv": [
+          "Trä",
+          "Ansiktsmask"
+        ],
+        "el": [
+          "Ξύλο"
+        ],
+        "mt": [
+          "Injam"
+        ],
+        "en": [
+          "Wood",
+          "Mask"
+        ],
+        "it": [
+          "Legno",
+          "Maschera"
+        ],
+        "es": [
+          "Máscara",
+          "Madera"
+        ],
+        "et": [
+          "Puit",
+          "Mask"
+        ],
+        "cs": [
+          "Dřevo",
+          "Maska"
+        ],
+        "eu": [
+          "Zur",
+          "Maskara"
+        ],
+        "pl": [
+          "Drewno",
+          "Maska"
+        ],
+        "da": [
+          "Maske",
+          "Træ"
+        ],
+        "ro": [
+          "Mască",
+          "Lemn"
+        ],
+        "nl": [
+          "Hout",
+          "Masker"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/29057"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2656003/teck-1000_teck.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2656003%2Fteck-1000_teck.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29057?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_29057",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_29057.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 85.994125,
+      "timestamp": 1752047534427,
+      "timestamp_created": "2020-02-06T11:21:21.999Z",
+      "timestamp_created_epoch": 1580988081999,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "mask, Hjälmmask"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_52547",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_52547",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_52547?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The museum's own metadata identifies this wooden helmet mask as Ibo (Igbo) work from Nigeria, not Yoruba — a different, well-documented ethnic group, so the claimed attribution is contradicted by the record itself.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "reattribution": {
+        "to": "sub-saharan-africa__nigeria__igbo",
+        "people": "Igbo",
+        "belongs": true,
+        "art_form": "masks-ritual",
+        "image": "good",
+        "era": "traditional",
+        "reason": "The image shows a wooden helmet mask with a carved crest and painted facial features, consistent with Igbo (Ibo) helmet masks used in masquerade traditions in Nigeria, matching the museum's attribution."
+      }
+    },
+    "physical": {
+      "title": "Hjämmask, mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1244806%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "65dda7e9a639d45c160e43d582fdcfe9452117b299cdf78777fe7258ba1e8623",
+        "bytes": 31948,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_52547.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:36.827020+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Hjälmmask av trä, höjd 50 cm.",
+        "Köp från Bengt Olsson, Göteborg",
+        "Årsberättelse 1975, Årstryck 1975, Göteborgs Etnografiska Museum",
+        "1975.01.0001",
+        "Ibo, Nigeria",
+        "Ibo, Nigeria. [[Haga]]",
+        "skiss",
+        "Ibo (Yoruba?)",
+        "Konservering; K82:143",
+        "Nigeria"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Hjälmmask av trä, höjd 50 cm.",
+          "Köp från Bengt Olsson, Göteborg",
+          "Årsberättelse 1975, Årstryck 1975, Göteborgs Etnografiska Museum"
+        ],
+        "def": [
+          "1975.01.0001",
+          "Ibo, Nigeria",
+          "Ibo, Nigeria. [[Haga]]",
+          "skiss",
+          "Ibo (Yoruba?)",
+          "Konservering; K82:143",
+          "Nigeria"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "Hjämmask, mask"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2448",
+        "http://data.europeana.eu/concept/1816"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Древесина"
+        },
+        {
+          "def": "Naamari"
+        },
+        {
+          "def": "Puuaines"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madeira"
+        },
+        {
+          "def": "Маска"
+        },
+        {
+          "def": "Дървесина"
+        },
+        {
+          "def": "Kaukė"
+        },
+        {
+          "def": "Mediena"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drvo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Koksne"
+        },
+        {
+          "def": "Masque"
+        },
+        {
+          "def": "Bois"
+        },
+        {
+          "def": "Álarc"
+        },
+        {
+          "def": "fa"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drevo"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Les"
+        },
+        {
+          "def": "Masc"
+        },
+        {
+          "def": "Adhmad"
+        },
+        {
+          "def": "Màscara"
+        },
+        {
+          "def": "Fusta"
+        },
+        {
+          "def": "Ansiktsmask"
+        },
+        {
+          "def": "Trä"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Wood"
+        },
+        {
+          "def": "Maschera"
+        },
+        {
+          "def": "Legno"
+        },
+        {
+          "def": "Máscara"
+        },
+        {
+          "def": "Madera"
+        },
+        {
+          "def": "Mask"
+        },
+        {
+          "def": "Puit"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Dřevo"
+        },
+        {
+          "def": "Maskara"
+        },
+        {
+          "def": "Zur"
+        },
+        {
+          "def": "Maska"
+        },
+        {
+          "def": "Drewno"
+        },
+        {
+          "def": "Maske"
+        },
+        {
+          "def": "Træ"
+        },
+        {
+          "def": "Mască"
+        },
+        {
+          "def": "Lemn"
+        },
+        {
+          "def": "Masker"
+        },
+        {
+          "def": "Hout"
+        },
+        {
+          "def": "Ξύλο"
+        },
+        {
+          "def": "Injam"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Maske",
+          "Holz"
+        ],
+        "ru": [
+          "Древесина",
+          "Маска"
+        ],
+        "fi": [
+          "Puuaines",
+          "Naamari"
+        ],
+        "pt": [
+          "Madeira",
+          "Máscara"
+        ],
+        "bg": [
+          "Маска",
+          "Дървесина"
+        ],
+        "lt": [
+          "Mediena",
+          "Kaukė"
+        ],
+        "hr": [
+          "Drvo",
+          "Maska"
+        ],
+        "lv": [
+          "Koksne",
+          "Maska"
+        ],
+        "fr": [
+          "Masque",
+          "Bois"
+        ],
+        "hu": [
+          "Álarc",
+          "fa"
+        ],
+        "sk": [
+          "Drevo",
+          "Maska"
+        ],
+        "sl": [
+          "Les",
+          "Maska"
+        ],
+        "ga": [
+          "Masc",
+          "Adhmad"
+        ],
+        "ca": [
+          "Fusta",
+          "Màscara"
+        ],
+        "sv": [
+          "Trä",
+          "Ansiktsmask"
+        ],
+        "el": [
+          "Ξύλο"
+        ],
+        "mt": [
+          "Injam"
+        ],
+        "en": [
+          "Wood",
+          "Mask"
+        ],
+        "it": [
+          "Legno",
+          "Maschera"
+        ],
+        "es": [
+          "Máscara",
+          "Madera"
+        ],
+        "et": [
+          "Puit",
+          "Mask"
+        ],
+        "cs": [
+          "Dřevo",
+          "Maska"
+        ],
+        "eu": [
+          "Zur",
+          "Maskara"
+        ],
+        "pl": [
+          "Drewno",
+          "Maska"
+        ],
+        "da": [
+          "Maske",
+          "Træ"
+        ],
+        "ro": [
+          "Mască",
+          "Lemn"
+        ],
+        "nl": [
+          "Hout",
+          "Masker"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/52547"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1244806/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1244806%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_52547?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_52547",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_52547.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 84.80562,
+      "timestamp": 1752047627135,
+      "timestamp_created": "2014-10-01T16:26:42.095Z",
+      "timestamp_created_epoch": 1412180802095,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Hjämmask, mask"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_29064",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_29064",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29064?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a classic Yoruba Ere Ibeji twin figure with the characteristic coiffure, beaded waist and ankle adornments, and worn dark patina from ritual handling—exactly matching the described twin-cult practice from Oyo, Nigeria.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Skulptur, figur, figurine, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2440988%2F1981.11.0002.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f8c37195aa3863121cfdeb61ece3798814b78711ea1f5bd9e0d72d294c0e51cd",
+        "bytes": 33671,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_29064.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:37.391525+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Skulptur som används i Ere-Ibeji, tvillingkulten hos Yoruba. Y. betraktar tvillingarnas själar som oskiljaktliga. Om en tvilling dör införskaffar man en dylik skulptur som tjänar som boning åt den avlidne tvillingens själ. Skulpturen vårdas som ett litet barn av mamman tills \nden andra tvillingen är gammal nog att ta hand om den. \nMått: 28,5 cm.",
+        "Köp av Jan Lundberg",
+        "Horisonter - röster från ett globalt Afrika",
+        "1981.11.0002",
+        "tvillingkulten hos Yoruba",
+        "Oyo, Nigeria",
+        "Oyo, Nigeria. [[Haga]]",
+        "Oyo, Nigeria",
+        "skiss",
+        "Yoruba",
+        "God kondition.",
+        "Kingdom before slavery",
+        "Horisonter - Slaveri",
+        "Nigeria",
+        "Yorouba",
+        "Yoruba"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Skulptur som används i Ere-Ibeji, tvillingkulten hos Yoruba. Y. betraktar tvillingarnas själar som oskiljaktliga. Om en tvilling dör införskaffar man en dylik skulptur som tjänar som boning åt den avlidne tvillingens själ. Skulpturen vårdas som ett litet barn av mamman tills \nden andra tvillingen är gammal nog att ta hand om den. \nMått: 28,5 cm.",
+          "Köp av Jan Lundberg",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1981.11.0002",
+          "tvillingkulten hos Yoruba",
+          "Oyo, Nigeria",
+          "Oyo, Nigeria. [[Haga]]",
+          "Oyo, Nigeria",
+          "skiss",
+          "Yoruba",
+          "God kondition.",
+          "Kingdom before slavery",
+          "Horisonter - Slaveri",
+          "Nigeria",
+          "Yorouba",
+          "Yoruba"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Skulptur, figur, figurine, sculpture"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/29064"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2440988/1981.11.0002.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2440988%2F1981.11.0002.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29064?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_29064",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_29064.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 20.28278,
+      "timestamp": 1752047534616,
+      "timestamp_created": "2014-10-01T16:15:57.981Z",
+      "timestamp_created_epoch": 1412180157981,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Skulptur, figur, figurine, sculpture"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_29065",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_29065",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29065?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a classic Yoruba Ere Ibeji figure—a carved wooden twin commemorative statue with the typical coiffure, beaded waist ornaments, and worn patina from ritual care—matching both the claimed ethnicity and Oshogbo-area provenance.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Skulptur, figur, sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2441008%2F1981.11.0003.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8387c54c9ae2355fd8bb94ba778287abfbc6c37081cc91a74de2e7d63eeb639b",
+        "bytes": 35899,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_29065.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:37.437301+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Skulptur som används i Ere-Ibeji, tvillingkulten hos Yoruba. Y. betraktar tvillingarnas själar som oskiljaktliga. Om en tvilling dör införskaffar man en dylik skulptur som tjänar som boning åt den avlidne tvillingens själ. Skulpturen vårdas som ett litet barn av mamman tills \nden andra tvillingen är gammal nog att ta hand om den. \nMått: 25 cm.",
+        "Köp av Jan Lundberg, Malmö",
+        "Oshogboområdet, Nigeria",
+        "Oshogboområdet, Nigeria",
+        "Oshogboområdet, Nigeria. [[Haga]]",
+        "Horisonter - röster från ett globalt Afrika",
+        "1981.11.0003",
+        "tvillingkulten hos Yoruba",
+        "skiss",
+        "Yoruba",
+        "God kondition.",
+        "Kingdom before slavery",
+        "Horisonter - Slaveri",
+        "Nigeria",
+        "Yorouba",
+        "Yoruba"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Skulptur som används i Ere-Ibeji, tvillingkulten hos Yoruba. Y. betraktar tvillingarnas själar som oskiljaktliga. Om en tvilling dör införskaffar man en dylik skulptur som tjänar som boning åt den avlidne tvillingens själ. Skulpturen vårdas som ett litet barn av mamman tills \nden andra tvillingen är gammal nog att ta hand om den. \nMått: 25 cm.",
+          "Köp av Jan Lundberg, Malmö",
+          "Oshogboområdet, Nigeria",
+          "Oshogboområdet, Nigeria",
+          "Oshogboområdet, Nigeria. [[Haga]]",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1981.11.0003",
+          "tvillingkulten hos Yoruba",
+          "skiss",
+          "Yoruba",
+          "God kondition.",
+          "Kingdom before slavery",
+          "Horisonter - Slaveri",
+          "Nigeria",
+          "Yorouba",
+          "Yoruba"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Skulptur, figur, sculpture, figurine"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/29065"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2441008/1981.11.0003.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2441008%2F1981.11.0003.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29065?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_29065",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_29065.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 20.070948,
+      "timestamp": 1752047534753,
+      "timestamp_created": "2014-10-01T16:15:57.983Z",
+      "timestamp_created_epoch": 1412180157983,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Skulptur, figur, sculpture, figurine"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_29066",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_29066",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29066?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Yoruba",
+      "tradition": "Yoruba Nigeria",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a classic Yoruba ere ibeji twin figure—carved wooden standing figure with typical coiffure, elongated proportions, and worn surface from ritual anointing—matching the described twin-cult practice from the Oshogbo area.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "figur, Skulptur, sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2441028%2F1981.11.0004.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "22093360b68d1ed90f9fc6267caa0e0cd62c640d002b81fad18c5609fd97df1a",
+        "bytes": 35179,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\yoruba\\sculpture\\yoruba-nigeria\\images\\eu_91608_SMVK_VKM_objekt_29066.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:45:37.481976+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Skulptur som används i Ere-Ibeji, tvillingkulten hos Yoruba. Y. betraktar tvillingarnas själar som oskiljaktliga. Om en tvilling dör införskaffar man en dylik skulptur som tjänar som boning åt den avlidne tvillingens själ. Skulpturen vårdas som ett litet barn av mamman tills \nden andra tvillingen är gammal nog att ta hand om den. \nMått: 24,5 cm.",
+        "Köp av Jan Lundberg, Malmö",
+        "Oshogboområdet, Nigeria",
+        "Oshogboområdet, Nigeria. [[Haga]]",
+        "Oshogboområdet, Nigeria",
+        "Horisonter - röster från ett globalt Afrika",
+        "1981.11.0004",
+        "tvillingkulten hos Yoruba",
+        "skiss",
+        "Yoruba",
+        "God kondition.",
+        "Kingdom before slavery",
+        "Horisonter - Slaveri",
+        "Nigeria",
+        "Yorouba",
+        "Yoruba"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Skulptur som används i Ere-Ibeji, tvillingkulten hos Yoruba. Y. betraktar tvillingarnas själar som oskiljaktliga. Om en tvilling dör införskaffar man en dylik skulptur som tjänar som boning åt den avlidne tvillingens själ. Skulpturen vårdas som ett litet barn av mamman tills \nden andra tvillingen är gammal nog att ta hand om den. \nMått: 24,5 cm.",
+          "Köp av Jan Lundberg, Malmö",
+          "Oshogboområdet, Nigeria",
+          "Oshogboområdet, Nigeria. [[Haga]]",
+          "Oshogboområdet, Nigeria",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1981.11.0004",
+          "tvillingkulten hos Yoruba",
+          "skiss",
+          "Yoruba",
+          "God kondition.",
+          "Kingdom before slavery",
+          "Horisonter - Slaveri",
+          "Nigeria",
+          "Yorouba",
+          "Yoruba"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "figur, Skulptur, sculpture, figurine"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2346",
+        "http://data.europeana.eu/concept/51"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhauerkunst"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Bildhuggeri"
+        },
+        {
+          "def": "Фигурка"
+        },
+        {
+          "def": "Скульптура"
+        },
+        {
+          "def": "Φιγούρα"
+        },
+        {
+          "def": "Γλυπτική"
+        },
+        {
+          "def": "Figure"
+        },
+        {
+          "def": "Art of sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Scultura"
+        },
+        {
+          "def": "Représentation figurée"
+        },
+        {
+          "def": "Sculpture"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Figuur"
+        },
+        {
+          "def": "Skulptuur"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Sochařství"
+        },
+        {
+          "def": "Figura"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Fíor"
+        },
+        {
+          "def": "Dealbhóireacht"
+        },
+        {
+          "def": "Postać"
+        },
+        {
+          "def": "Rzeźbiarstwo"
+        },
+        {
+          "def": "Figur"
+        },
+        {
+          "def": "Skulpturkunst"
+        },
+        {
+          "def": "Figuurvoorstelling"
+        },
+        {
+          "def": "Beeldhouwkunst"
+        },
+        {
+          "def": "Figureta"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Kuvanveisto"
+        },
+        {
+          "def": "Escultura"
+        },
+        {
+          "def": "Скулптура"
+        },
+        {
+          "def": "Skulptūra"
+        },
+        {
+          "def": "Kiparstvo"
+        },
+        {
+          "def": "Tēlniecība"
+        },
+        {
+          "def": "Szobrászat"
+        },
+        {
+          "def": "Sochárstvo"
+        },
+        {
+          "def": "Skultura"
+        },
+        {
+          "def": "Eskulturagintza"
+        },
+        {
+          "def": "Sculptură"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Bildhauerkunst",
+          "Figur"
+        ],
+        "ru": [
+          "Скульптура",
+          "Фигурка"
+        ],
+        "fi": [
+          "Kuvanveisto"
+        ],
+        "pt": [
+          "Escultura"
+        ],
+        "bg": [
+          "Скулптура"
+        ],
+        "lt": [
+          "Skulptūra"
+        ],
+        "hr": [
+          "Kiparstvo"
+        ],
+        "lv": [
+          "Tēlniecība"
+        ],
+        "fr": [
+          "Représentation figurée",
+          "Sculpture"
+        ],
+        "hu": [
+          "Szobrászat"
+        ],
+        "sk": [
+          "Sochárstvo"
+        ],
+        "sl": [
+          "Kiparstvo",
+          "Figura"
+        ],
+        "ga": [
+          "Dealbhóireacht",
+          "Fíor"
+        ],
+        "ca": [
+          "Figureta",
+          "Escultura"
+        ],
+        "sv": [
+          "Bildhuggeri",
+          "Figur"
+        ],
+        "el": [
+          "Φιγούρα",
+          "Γλυπτική"
+        ],
+        "mt": [
+          "Skultura"
+        ],
+        "en": [
+          "Art of sculpture",
+          "Figure"
+        ],
+        "it": [
+          "Figura",
+          "Scultura"
+        ],
+        "es": [
+          "Figura",
+          "Escultura"
+        ],
+        "et": [
+          "Figuur",
+          "Skulptuur"
+        ],
+        "cs": [
+          "Sochařství",
+          "Figura"
+        ],
+        "eu": [
+          "Eskulturagintza"
+        ],
+        "pl": [
+          "Postać",
+          "Rzeźbiarstwo"
+        ],
+        "da": [
+          "Skulpturkunst",
+          "Figur"
+        ],
+        "ro": [
+          "Sculptură"
+        ],
+        "nl": [
+          "Beeldhouwkunst",
+          "Figuurvoorstelling"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/29066"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2441028/1981.11.0004.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Nigerien"
+        },
+        {
+          "def": "Федеративная Республика Нигерия"
+        },
+        {
+          "def": "Nigerian liittotasavalta"
+        },
+        {
+          "def": "Förbundsrepubliken Nigeria"
+        },
+        {
+          "def": "Repubblika Federali tan-Niġerja"
+        },
+        {
+          "def": "Federal Republic of Nigeria"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "FRN"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "Naija"
+        },
+        {
+          "def": "Repubblica Federale della Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "NGR"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "ng"
+        },
+        {
+          "def": "RFN"
+        },
+        {
+          "def": "République fédérale du Nigeria"
+        },
+        {
+          "def": "République fédérale du Nigéria"
+        },
+        {
+          "def": "République fédérale nigériane"
+        },
+        {
+          "def": "La République fédérale du Nigéria"
+        },
+        {
+          "def": "Nigériai Szövetségi Köztársaság"
+        },
+        {
+          "def": "República Federal de Nigeria"
+        },
+        {
+          "def": "Republica Federal de Nigeria"
+        },
+        {
+          "def": "Nigeeria Liitvabariik"
+        },
+        {
+          "def": "Nigérijská federatívna republika"
+        },
+        {
+          "def": "NG"
+        },
+        {
+          "def": "NGA"
+        },
+        {
+          "def": "República Federal de Nigèria"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Nigerien"
+        ],
+        "ru": [
+          "Федеративная Республика Нигерия"
+        ],
+        "fi": [
+          "Nigerian liittotasavalta"
+        ],
+        "sv": [
+          "Förbundsrepubliken Nigeria"
+        ],
+        "mt": [
+          "Repubblika Federali tan-Niġerja"
+        ],
+        "en": [
+          "Federal Republic of Nigeria",
+          "NG",
+          "FRN",
+          "NGA",
+          "NGR",
+          "Naija"
+        ],
+        "it": [
+          "Repubblica Federale della Nigeria"
+        ],
+        "fr": [
+          "Nigéria",
+          "NGR",
+          "NGA",
+          "NG",
+          "ng",
+          "RFN",
+          "République fédérale du Nigeria",
+          "République fédérale du Nigéria",
+          "République fédérale nigériane",
+          "La République fédérale du Nigéria"
+        ],
+        "hu": [
+          "Nigériai Szövetségi Köztársaság"
+        ],
+        "es": [
+          "República Federal de Nigeria",
+          "Republica Federal de Nigeria"
+        ],
+        "et": [
+          "Nigeeria Liitvabariik"
+        ],
+        "sk": [
+          "Nigérijská federatívna republika"
+        ],
+        "nl": [
+          "NG",
+          "NGA"
+        ],
+        "ca": [
+          "República Federal de Nigèria"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Нигерия"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigērija"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigéria"
+        },
+        {
+          "def": "Nigerija"
+        },
+        {
+          "def": "An Nigéir"
+        },
+        {
+          "def": "Nigèria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Νιγηρία"
+        },
+        {
+          "def": "Niġerja"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeeria"
+        },
+        {
+          "def": "Nigérie"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        },
+        {
+          "def": "Nigeria"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Nigeria"
+        ],
+        "ru": [
+          "Нигерия"
+        ],
+        "fi": [
+          "Nigeria"
+        ],
+        "pt": [
+          "Nigéria"
+        ],
+        "bg": [
+          "Нигерия"
+        ],
+        "lt": [
+          "Nigerija"
+        ],
+        "lv": [
+          "Nigērija"
+        ],
+        "hr": [
+          "Nigerija"
+        ],
+        "fr": [
+          "Nigeria"
+        ],
+        "hu": [
+          "Nigéria"
+        ],
+        "sk": [
+          "Nigéria"
+        ],
+        "sl": [
+          "Nigerija"
+        ],
+        "ga": [
+          "An Nigéir"
+        ],
+        "ca": [
+          "Nigèria"
+        ],
+        "sv": [
+          "Nigeria"
+        ],
+        "el": [
+          "Νιγηρία"
+        ],
+        "mt": [
+          "Niġerja"
+        ],
+        "en": [
+          "Nigeria"
+        ],
+        "it": [
+          "Nigeria"
+        ],
+        "es": [
+          "Nigeria"
+        ],
+        "et": [
+          "Nigeeria"
+        ],
+        "cs": [
+          "Nigérie"
+        ],
+        "eu": [
+          "Nigeria"
+        ],
+        "pl": [
+          "Nigeria"
+        ],
+        "ro": [
+          "Nigeria"
+        ],
+        "da": [
+          "Nigeria"
+        ],
+        "nl": [
+          "Nigeria"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "8.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2441028%2F1981.11.0004.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_29066?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_29066",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_29066.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 19.968689,
+      "timestamp": 1752047534852,
+      "timestamp_created": "2014-10-01T16:15:57.987Z",
+      "timestamp_created_epoch": 1412180157987,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "figur, Skulptur, sculpture, figurine"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

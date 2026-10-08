@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "europeana-90402_RP_F_2001_17_298",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Rijksmuseum",
+      "object_id": "90402_RP_F_2001_17_298",
+      "object_url": "https://www.europeana.eu/item/90402/RP_F_2001_17_298?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Minangkabau",
+      "tradition": "Minangkabau",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A documentary photograph of two Minangkabau children in traditional woven sarongs and head cloths (including the tanduk-style headdress) in Batipuh, West Sumatra, matching the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Portret van een Minangkabau jongen en meisje in traditionele kleding in Batipoe.",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1890/1912"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Rijksmuseum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flh3.ggpht.com%2FcBkLhkM5eDGETPb3OckYwJ4hZGIpNlUrt2LoaJXiI15yFhTHJflm2kkUDy1Z_ZKVJ3RTVaWt0aHz7iefhOZ3EGjluxY%3Ds0&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "68ecf00fada92d2ae239effbe7e2f4f4292bcd144baf9e2b79b8ce90b4cda970",
+        "bytes": 32591,
+        "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\minangkabau\\images\\eu_90402_RP_F_2001_17_298.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:39.843646+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "Rijksmuseum"
+      ],
+      "dcDescription": [
+        "Een Minangkabau jongen en meisje in traditionele kleding met haardoekenen dikke geweven stoffen sarongs."
+      ],
+      "dcDescriptionLangAware": {
+        "nl": [
+          "Een Minangkabau jongen en meisje in traditionele kleding met haardoekenen dikke geweven stoffen sarongs."
+        ]
+      },
+      "dcLanguage": [
+        "nl"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "nl"
+        ]
+      },
+      "dcTitleLangAware": {
+        "nl": [
+          "Portret van een Minangkabau jongen en meisje in traditionele kleding in Batipoe.",
+          "Batipoeh 60."
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2090",
+        "http://data.europeana.eu/concept/48"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Paperi"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Бумага"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Хартия"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Popierius"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Papīrs"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Páipéar"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papper"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Χαρτί"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Karta"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Carta"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Paber"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Papír"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Paper"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papir"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Hârtie"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Papier"
+        },
+        {
+          "def": "Foto"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Papier"
+        ],
+        "fi": [
+          "Paperi",
+          "Valokuva"
+        ],
+        "ru": [
+          "Бумага",
+          "Фотография"
+        ],
+        "pt": [
+          "Papel",
+          "Fotografia"
+        ],
+        "bg": [
+          "Снимка",
+          "Хартия"
+        ],
+        "lt": [
+          "Popierius",
+          "Fotografija"
+        ],
+        "hr": [
+          "Fotografija",
+          "Papir"
+        ],
+        "lv": [
+          "Fotoattēls",
+          "Papīrs"
+        ],
+        "fr": [
+          "Photographie",
+          "Papier"
+        ],
+        "hu": [
+          "Fénykép",
+          "Papír"
+        ],
+        "sk": [
+          "Papier",
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Papir"
+        ],
+        "ga": [
+          "Páipéar",
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Paper"
+        ],
+        "sv": [
+          "Papper",
+          "Fotografi"
+        ],
+        "el": [
+          "Χαρτί",
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Karta",
+          "Fotografija"
+        ],
+        "en": [
+          "Paper",
+          "Photograph"
+        ],
+        "it": [
+          "Fotografia",
+          "Carta"
+        ],
+        "es": [
+          "Papel",
+          "Fotografía"
+        ],
+        "et": [
+          "Foto",
+          "Paber"
+        ],
+        "cs": [
+          "Papír",
+          "Fotografie"
+        ],
+        "eu": [
+          "Paper",
+          "Argazki"
+        ],
+        "pl": [
+          "Papier",
+          "Fotografia"
+        ],
+        "da": [
+          "Fotografi",
+          "Papir"
+        ],
+        "ro": [
+          "Fotografie",
+          "Hârtie"
+        ],
+        "nl": [
+          "Foto",
+          "Papier"
+        ]
+      },
+      "edmDatasetName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "edmIsShownAt": [
+        "http://hdl.handle.net/10934/RM0001.COLLECT.454755"
+      ],
+      "edmIsShownBy": [
+        "https://lh3.ggpht.com/cBkLhkM5eDGETPb3OckYwJ4hZGIpNlUrt2LoaJXiI15yFhTHJflm2kkUDy1Z_ZKVJ3RTVaWt0aHz7iefhOZ3EGjluxY=s0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flh3.ggpht.com%2FcBkLhkM5eDGETPb3OckYwJ4hZGIpNlUrt2LoaJXiI15yFhTHJflm2kkUDy1Z_ZKVJ3RTVaWt0aHz7iefhOZ3EGjluxY%3Ds0&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1890/1912"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1890/1912"
+        ]
+      },
+      "europeanaCollectionName": [
+        "90402_M_NL_Rijksmuseum"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/90402/RP_F_2001_17_298?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/90402/RP_F_2001_17_298",
+      "index": 0,
+      "language": [
+        "nl"
+      ],
+      "link": "https://api.europeana.eu/record/90402/RP_F_2001_17_298.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Rijksmuseum"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 67.38849,
+      "timestamp": 1751999309488,
+      "timestamp_created": "2014-05-27T14:42:31.499Z",
+      "timestamp_created_epoch": 1401201751499,
+      "timestamp_update": "2018-03-17T13:17:11.573Z",
+      "timestamp_update_epoch": 1521292631573,
+      "title": [
+        "Portret van een Minangkabau jongen en meisje in traditionele kleding in Batipoe.",
+        "Batipoeh 60."
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_66260",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_66260",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_66260?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Minangkabau",
+      "tradition": "Minangkabau",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a woven fiber jacket with beaded/embroidered eye motifs and bronze bells attached, a ceremonial bridal garment consistent with Indonesian archipelago dress traditions; even if the specific style is more associated with a neighboring Sumatran/Nusantara group than Minangkabau proper, it is plausible for the broader region and fits the claimed category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Beaded bridal gown",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1940"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-1772-16.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bedb5d1c1d4c553308f05d923c2f7efe65657d1b6278e1c54ebf8f66e193c805",
+        "bytes": 22413,
+        "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\minangkabau\\images\\eu_2048221_europeana_fashion_66260.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:46.221331+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Such a bridal bath was only worn by a woman of higher rank. The bronze bells are not only striking to the eye, but also have a beautiful sound with every movement of the bride. \\The bells have another, possibly even more important function. The often rhythmic sound of bells is thought to have a magical effect not only on humans, but also on the gods and forces in the supernatural world. Bells, as well as other sound-producing objects, such as shells, are often attached to ceremonial clothing of persons seeking contact with the supernatural world (priests, shamans), but also to clothing of persons in transition, such as brides, from unmarried to married, from member of the father's family to member of the husband's family (van Hout, 2005). \\Nowadays, white Western wedding dresses are in vogue as wedding attire. Songket hip and shoulder cloths (with gold suppletive weft) originating from, or in the style of, luxury garments from the more southern areas of Sumatra (e.g. Minangkabau, Palembang) are also very common. This 'baju omon' from an even earlier era indicates that the Batak sought inspiration from the south for luxury clothing for a much longer time.Ó Nowadays, the Indonesian meaning of 'baju', i.e. 'clothing in general' is used in the Batak area. Earlier, the term was used by the Batak only for blouse-like garments.  Such sewn garments are not indigenous. Batak clothing consists of pieces of cloth that are wrapped or hung around the body. From the design and motifs of the cloths, however, it can be deduced that much influence from outside the Batak area has been incorporated into the Batak weaving art. Batak 'baju' act as evidence of the absorption of outside influences.‖ Professor A. Grubauer has taken photographs of the use of such a garment in Pekanten (Mandailing) (see Siebeth 1991:208, 209, figs. 293- 296).‖ The hand-woven cotton fabric was decorated during weaving with chain stripes and suppletive weft motifs. After weaving, beaded decoration and bronze bells were applied.",
+        "Een dergelijk bruidsbaadje werd alleen door een vrouw van hogere stand gedragen. De bronzen belletjes zijn niet alleen opvallend was voor het oog, maar hebben ook een mooie klank bij iedere beweging van de bruid. \nDe belletjes hebben echter nog een, zo mogelijk nog belangrijker functie. Het vaak ritmische geluid van bellen wordt geacht niet alleen een magische uitwerking op mensen te hebben, maar ook op de goden en krachten in de bovennatuurlijke wereld. Bellen, maar ook andere geluidproducerende voorwerpen, zoals bijv. schelpen, zijn vaak bevestigd aan ceremoniele kleding van personen die contact zoeken met de bovennatuurlijke wereld (priesters, sjamanen), maar ook aan kleding van personen die zich in een overgangsfase bevinden, zoals bruiden, van ongetrouwd naar getrouwd, van lid van de vader's familie naar lid van de familie van de echtgenoot (van Hout, 2005). \n\nTegenwoordig zijn witte Westerse bruidsjurken in zwang als huwelijkskleding. Songket heup- en schouderdoeken (met gouden suppletoire inslag) afkomstig uit, of in de stijl van, luxe kleding uit de meer zuidelijke gebieden van Sumatra (e.g. Minangkabau, Palembang) zijn ook zeer gangbaar. Deze 'baju omon' van een nog vroeger tijdperk geeft aan dat de Batak nog veel langer inspiratie hebben gezocht in het zuiden voor luxe kleding.\n\nTegenwoordig wordt de Indonesisch betekenis van 'baju', d.w.z. 'kleding in het algemeen' in het Batakgebied gehanteerd. Vroeger werd de term door de Batak alleen voor bloesachtige kledingstukken gebruikt.  Zulke genaaide kledingstukken zijn niet inheems. Batak kleding bestaat uit lappen stof die gewikkeld of gehangen worden aan en om het lijf. Uit het ontwerp en motieven van de doeken valt echter af te leiden dat veel invloed van buiten het Batak- gebied is opgenomen in de Batakweefkunst. Batak 'baju' fungeren als bewijsstukken van het opnemen van invloeden van buitenaf.\n\n\n\nProfessor A. Grubauer heeft foto's van het gebruik van een dergelijke kledingstuk in Pekanten (Mandailing) gemaakt (zie Siebeth 1991:208, 209, fig. 293- 296).\n\nVervaardiging\nDe met de hand geweven katoenen stof werd versierd tijdens het weven met kettingstrepen en suppletoire inslagmotieven. Na het weven is kralenversiering  en zijn bronzen belletjes aangebracht."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Such a bridal bath was only worn by a woman of higher rank. The bronze bells are not only striking to the eye, but also have a beautiful sound with every movement of the bride. \\The bells have another, possibly even more important function. The often rhythmic sound of bells is thought to have a magical effect not only on humans, but also on the gods and forces in the supernatural world. Bells, as well as other sound-producing objects, such as shells, are often attached to ceremonial clothing of persons seeking contact with the supernatural world (priests, shamans), but also to clothing of persons in transition, such as brides, from unmarried to married, from member of the father's family to member of the husband's family (van Hout, 2005). \\Nowadays, white Western wedding dresses are in vogue as wedding attire. Songket hip and shoulder cloths (with gold suppletive weft) originating from, or in the style of, luxury garments from the more southern areas of Sumatra (e.g. Minangkabau, Palembang) are also very common. This 'baju omon' from an even earlier era indicates that the Batak sought inspiration from the south for luxury clothing for a much longer time.Ó Nowadays, the Indonesian meaning of 'baju', i.e. 'clothing in general' is used in the Batak area. Earlier, the term was used by the Batak only for blouse-like garments.  Such sewn garments are not indigenous. Batak clothing consists of pieces of cloth that are wrapped or hung around the body. From the design and motifs of the cloths, however, it can be deduced that much influence from outside the Batak area has been incorporated into the Batak weaving art. Batak 'baju' act as evidence of the absorption of outside influences.‖ Professor A. Grubauer has taken photographs of the use of such a garment in Pekanten (Mandailing) (see Siebeth 1991:208, 209, figs. 293- 296).‖ The hand-woven cotton fabric was decorated during weaving with chain stripes and suppletive weft motifs. After weaving, beaded decoration and bronze bells were applied."
+        ],
+        "nl": [
+          "Een dergelijk bruidsbaadje werd alleen door een vrouw van hogere stand gedragen. De bronzen belletjes zijn niet alleen opvallend was voor het oog, maar hebben ook een mooie klank bij iedere beweging van de bruid. \nDe belletjes hebben echter nog een, zo mogelijk nog belangrijker functie. Het vaak ritmische geluid van bellen wordt geacht niet alleen een magische uitwerking op mensen te hebben, maar ook op de goden en krachten in de bovennatuurlijke wereld. Bellen, maar ook andere geluidproducerende voorwerpen, zoals bijv. schelpen, zijn vaak bevestigd aan ceremoniele kleding van personen die contact zoeken met de bovennatuurlijke wereld (priesters, sjamanen), maar ook aan kleding van personen die zich in een overgangsfase bevinden, zoals bruiden, van ongetrouwd naar getrouwd, van lid van de vader's familie naar lid van de familie van de echtgenoot (van Hout, 2005). \n\nTegenwoordig zijn witte Westerse bruidsjurken in zwang als huwelijkskleding. Songket heup- en schouderdoeken (met gouden suppletoire inslag) afkomstig uit, of in de stijl van, luxe kleding uit de meer zuidelijke gebieden van Sumatra (e.g. Minangkabau, Palembang) zijn ook zeer gangbaar. Deze 'baju omon' van een nog vroeger tijdperk geeft aan dat de Batak nog veel langer inspiratie hebben gezocht in het zuiden voor luxe kleding.\n\nTegenwoordig wordt de Indonesisch betekenis van 'baju', d.w.z. 'kleding in het algemeen' in het Batakgebied gehanteerd. Vroeger werd de term door de Batak alleen voor bloesachtige kledingstukken gebruikt.  Zulke genaaide kledingstukken zijn niet inheems. Batak kleding bestaat uit lappen stof die gewikkeld of gehangen worden aan en om het lijf. Uit het ontwerp en motieven van de doeken valt echter af te leiden dat veel invloed van buiten het Batak- gebied is opgenomen in de Batakweefkunst. Batak 'baju' fungeren als bewijsstukken van het opnemen van invloeden van buitenaf.\n\n\n\nProfessor A. Grubauer heeft foto's van het gebruik van een dergelijke kledingstuk in Pekanten (Mandailing) gemaakt (zie Siebeth 1991:208, 209, fig. 293- 296).\n\nVervaardiging\nDe met de hand geweven katoenen stof werd versierd tijdens het weven met kettingstrepen en suppletoire inslagmotieven. Na het weven is kralenversiering  en zijn bronzen belletjes aangebracht."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Beaded bridal gown"
+        ],
+        "nl": [
+          "Met kralen versierd bruidsjak"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2720",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10427",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10586",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10354",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10017",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10577",
+        "http://data.europeana.eu/concept/2022"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Applike"
+        },
+        {
+          "def": "Applikation (Technik)"
+        },
+        {
+          "def": "Wachs"
+        },
+        {
+          "def": "Baumwolle"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "wichtigste Kleidungsstücke oberhalb der Taille getragen"
+        },
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Baumwollfaser"
+        },
+        {
+          "def": "Аппликация"
+        },
+        {
+          "def": "Хлопок"
+        },
+        {
+          "def": "Applikation"
+        },
+        {
+          "def": "applikation (teknik)"
+        },
+        {
+          "def": "vax"
+        },
+        {
+          "def": "bomull"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "dräktdelar överkropp"
+        },
+        {
+          "def": "trä"
+        },
+        {
+          "def": "Bomull"
+        },
+        {
+          "def": "Applikaatio"
+        },
+        {
+          "def": "Puuvilla"
+        },
+        {
+          "def": "Апликация"
+        },
+        {
+          "def": "Памук"
+        },
+        {
+          "def": "Appliqué"
+        },
+        {
+          "def": "appliqué (technique)"
+        },
+        {
+          "def": "wax"
+        },
+        {
+          "def": "cotton (fiber)"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "main garments upper body"
+        },
+        {
+          "def": "wood"
+        },
+        {
+          "def": "Cotton"
+        },
+        {
+          "def": "Aplikacija"
+        },
+        {
+          "def": "Bombaž"
+        },
+        {
+          "def": "Appliqué inversé"
+        },
+        {
+          "def": "appliqué (technique)"
+        },
+        {
+          "def": "cire"
+        },
+        {
+          "def": "coton"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "vêtements principaux haut du corps"
+        },
+        {
+          "def": "bois"
+        },
+        {
+          "def": "Coton"
+        },
+        {
+          "def": "Aplikacja (zdobnictwo)"
+        },
+        {
+          "def": "Bawełna"
+        },
+        {
+          "def": "Appliqué"
+        },
+        {
+          "def": "appliqué (techniek)"
+        },
+        {
+          "def": "was"
+        },
+        {
+          "def": "katoen (vezel)"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "bovenkleding voor het bovenlichaam"
+        },
+        {
+          "def": "hout"
+        },
+        {
+          "def": "Katoen"
+        },
+        {
+          "def": "Aplicación"
+        },
+        {
+          "def": "apliqué (técnica)"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "algodón"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "prendas principales parte superior del cuerpo"
+        },
+        {
+          "def": "madera"
+        },
+        {
+          "def": "Algodón"
+        },
+        {
+          "def": "appliqué (técnica)"
+        },
+        {
+          "def": "algodão"
+        },
+        {
+          "def": "âmbar cinza"
+        },
+        {
+          "def": "vestuário principal parte superior corpo"
+        },
+        {
+          "def": "Algodão"
+        },
+        {
+          "def": "appliqué (τεχνική)"
+        },
+        {
+          "def": "κερί"
+        },
+        {
+          "def": "βαμβάκι"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "βασικό ένδυμα άνω κορμού"
+        },
+        {
+          "def": "ξύλο"
+        },
+        {
+          "def": "Βαμβάκι"
+        },
+        {
+          "def": "appliqué (tecnica)"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "cotone"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "principali capi di abbigliamento per la parte superiore del corpo"
+        },
+        {
+          "def": "legno"
+        },
+        {
+          "def": "Cotone"
+        },
+        {
+          "def": "יישום (טכניקה)"
+        },
+        {
+          "def": "שעווה"
+        },
+        {
+          "def": "כותנה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "בגדים עיקריים פלג גוף עליון"
+        },
+        {
+          "def": "עץ"
+        },
+        {
+          "def": "appliqué (tehnika)"
+        },
+        {
+          "def": "vosak"
+        },
+        {
+          "def": "pamuk"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "glavni odevni predmeti – gornji delovi tela"
+        },
+        {
+          "def": "drvo"
+        },
+        {
+          "def": "Medvilnė"
+        },
+        {
+          "def": "Pamuk"
+        },
+        {
+          "def": "Kokvilna"
+        },
+        {
+          "def": "Pamut"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Cadás"
+        },
+        {
+          "def": "Cotó"
+        },
+        {
+          "def": "Puuvill"
+        },
+        {
+          "def": "Bavlna"
+        },
+        {
+          "def": "Kotoi"
+        },
+        {
+          "def": "Bomuld"
+        },
+        {
+          "def": "Bumbac"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Applikation (Technik)",
+          "Wachs",
+          "Baumwolle",
+          "Holz",
+          "Applike",
+          "ambra",
+          "wichtigste Kleidungsstücke oberhalb der Taille getragen",
+          "Baumwollfaser"
+        ],
+        "ru": [
+          "Хлопок",
+          "Аппликация"
+        ],
+        "fi": [
+          "Puuvilla",
+          "Applikaatio"
+        ],
+        "pt": [
+          "appliqué (técnica)",
+          "âmbar cinza",
+          "Algodão",
+          "vestuário principal parte superior corpo",
+          "algodão"
+        ],
+        "bg": [
+          "Памук",
+          "Апликация"
+        ],
+        "lt": [
+          "Medvilnė"
+        ],
+        "hr": [
+          "Pamuk"
+        ],
+        "lv": [
+          "Kokvilna"
+        ],
+        "fr": [
+          "coton",
+          "ambre gris",
+          "appliqué (technique)",
+          "Coton",
+          "cire",
+          "bois",
+          "Appliqué inversé",
+          "vêtements principaux haut du corps"
+        ],
+        "hu": [
+          "Pamut"
+        ],
+        "sk": [
+          "Bavlna"
+        ],
+        "sl": [
+          "Aplikacija",
+          "Bombaž"
+        ],
+        "ga": [
+          "Cadás"
+        ],
+        "ca": [
+          "Cotó"
+        ],
+        "sr": [
+          "ćilibar",
+          "appliqué (tehnika)",
+          "vosak",
+          "glavni odevni predmeti – gornji delovi tela",
+          "drvo",
+          "pamuk"
+        ],
+        "sv": [
+          "applikation (teknik)",
+          "trä",
+          "Bomull",
+          "dräktdelar överkropp",
+          "Applikation",
+          "vax",
+          "ambra",
+          "bomull"
+        ],
+        "el": [
+          "βαμβάκι",
+          "ξύλο",
+          "appliqué (τεχνική)",
+          "άμπαρο",
+          "κερί",
+          "Βαμβάκι",
+          "βασικό ένδυμα άνω κορμού"
+        ],
+        "en": [
+          "appliqué (technique)",
+          "cotton (fiber)",
+          "main garments upper body",
+          "ambergris",
+          "wood",
+          "Cotton",
+          "Appliqué",
+          "wax"
+        ],
+        "it": [
+          "principali capi di abbigliamento per la parte superiore del corpo",
+          "ambra grigia",
+          "appliqué (tecnica)",
+          "Cotone",
+          "cotone",
+          "legno",
+          "cera"
+        ],
+        "es": [
+          "madera",
+          "Aplicación",
+          "prendas principales parte superior del cuerpo",
+          "Algodón",
+          "apliqué (técnica)",
+          "ámbar gris",
+          "algodón",
+          "cera"
+        ],
+        "et": [
+          "Puuvill"
+        ],
+        "cs": [
+          "Bavlna"
+        ],
+        "eu": [
+          "Kotoi"
+        ],
+        "pl": [
+          "Aplikacja (zdobnictwo)",
+          "Bawełna"
+        ],
+        "he": [
+          "עץ",
+          "כותנה",
+          "שעווה",
+          "יישום (טכניקה)",
+          "ענבר אפור",
+          "בגדים עיקריים פלג גוף עליון"
+        ],
+        "da": [
+          "Bomuld"
+        ],
+        "ro": [
+          "Bumbac"
+        ],
+        "nl": [
+          "Katoen",
+          "hout",
+          "was",
+          "bovenkleding voor het bovenlichaam",
+          "amber",
+          "katoen (vezel)",
+          "Appliqué",
+          "appliqué (techniek)"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/66260"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-1772-16.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-1772-16.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1940"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1940"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_66260?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_66260",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_66260.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 9.583645,
+      "timestamp": 1762964488451,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Beaded bridal gown",
+        "Met kralen versierd bruidsjak"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048221_europeana_fashion_189251",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Museum of World Cultures Foundation",
+      "object_id": "2048221_europeana_fashion_189251",
+      "object_url": "https://www.europeana.eu/item/2048221/europeana_fashion_189251?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Minangkabau",
+      "tradition": "Minangkabau",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The museum's own description identifies this as a Batak \"baju omon\" bridal jacket, only noting that Batak weavers drew stylistic inspiration from Minangkabau/Palembang songket traditions — the object itself is Batak, not Minangkabau.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "reattribution": {
+        "to": "southeast-asia__indonesia__batak",
+        "people": "Batak",
+        "belongs": true,
+        "art_form": "garment",
+        "image": "good",
+        "era": "traditional",
+        "reason": "The image shows a traditional Batak bridal jacket (\"baju omon\") with beadwork, tassels, and hand-woven decoration, matching the museum's description of a garment worn by Batak women of high status."
+      }
+    },
+    "physical": {
+      "title": "Bridal gown",
+      "titles_alt": [],
+      "date_text": {
+        "def": "19. Jahrhundert"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Museum of World Cultures Foundation",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-A-3318.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fcfabe237c6fd191f0ad7d3e3531f2552ec2e8785fcdbd9180bd054cc37a734a",
+        "bytes": 13766,
+        "local_path": "library\\southeast-asia\\indonesia\\minangkabau\\garment\\minangkabau\\images\\eu_2048221_europeana_fashion_189251.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:43:48.633867+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Netherlands"
+      ],
+      "dataProvider": [
+        "National Museum of World Cultures Foundation"
+      ],
+      "dcDescription": [
+        "Nowadays white western wedding dresses are in vogue as wedding attire. Songket hip and shoulder cloths (with gold complementary weft) from, or in the style of, luxury garments from the more southern areas of Sumatra (e.g. Minangkabau, Palembang) are also very common. This 'baju omon' from an even earlier era indicates that the Batak sought inspiration from the south for luxury clothing for a much longer time.ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊThis kind of bridal bag was worn only by a woman of higher standing. The hand-woven fabric was decorated during weaving with chain stripes and suppletmentary weft motifs. After weaving, beads and bronze bells were applied so that the jacket was not only striking to the eye, but also made a beautiful sound with every movement of the bride.Professor A. Grubauer has taken photographs of the use of such a garment in Pekanten (Mandailing) (see Siebeth 1991:208, 209, figs. 293- 296).\\ Today, the Indonesian meaning of 'baju', i.e. 'clothing in general' is used in the Batak area.  Earlier the term was used by the Batak only for blouse-like garments. Such sewn garments are not indigenous. Batak clothing consists of pieces of cloth that are wrapped or hung around the body. From the design and motifs of the cloths, however, it can be deduced that much influence from outside the Batak area has been incorporated into Batak weaving.  Batak 'baju' act as evidence of the absorption of outside influences.",
+        "Tegenwoordig zijn witte westerse bruidsjurken in zwang als huwelijkskleding. Songket heup- en schouderdoeken (met gouden suppletoire inslag) afkomstig uit, of in de stijl van luxe kleding uit de meer zuidelijke gebieden van Sumatra (e.g. Minangkabau, Palembang) zijn ook zeer gangbaar. Deze 'baju omon' van een nog vroeger tijdperk geeft aan dat de Batak nog veel langer inspiratie hebben gezocht in het zuiden voor luxe kleding.\n\nEen dergelijk bruidsbaadje werd alleen door een vrouw van hogere stand gedragen. De met de hand geweven stof werd versierd tijdens het weven met kettingstrepen en suppletmentaire inslagmotieven. Na het weven werden kralen en bronzen belletjes aangebracht waardoor het jak niet alleen opvallend was voor het oog, maar ook een mooie klank maakte bij iedere beweging van de bruid.\n\nProfessor A. Grubauer heeft foto's van het gebruik van een dergelijke kledingstuk in Pekanten (Mandailing) gemaakt (zie Siebeth 1991:208, 209, fig. 293- 296).\n\nTegenwoordig wordt de Indonesisch betekenis van 'baju', d.w.z. 'kleding in het algemeen' in het Batakgebied gehanteerd.  Vroeger werd de term door de Batak alleen voor bloesachtige kledingstukken gebruikt. Zulke genaaide kledingstukken zijn niet inheems. Batakkleding bestaat uit lappen stof die gewikkeld of gehangen worden aan en om het lijf. Uit het ontwerp en motieven van de doeken valt echter af te leiden dat veel invloed van buiten het Batakgebied is opgenomen in de Batakweefkunst.  Batak 'baju' fungeren als bewijsstukken van het opnemen van invloeden van buitenaf."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Nowadays white western wedding dresses are in vogue as wedding attire. Songket hip and shoulder cloths (with gold complementary weft) from, or in the style of, luxury garments from the more southern areas of Sumatra (e.g. Minangkabau, Palembang) are also very common. This 'baju omon' from an even earlier era indicates that the Batak sought inspiration from the south for luxury clothing for a much longer time.ÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊThis kind of bridal bag was worn only by a woman of higher standing. The hand-woven fabric was decorated during weaving with chain stripes and suppletmentary weft motifs. After weaving, beads and bronze bells were applied so that the jacket was not only striking to the eye, but also made a beautiful sound with every movement of the bride.Professor A. Grubauer has taken photographs of the use of such a garment in Pekanten (Mandailing) (see Siebeth 1991:208, 209, figs. 293- 296).\\ Today, the Indonesian meaning of 'baju', i.e. 'clothing in general' is used in the Batak area.  Earlier the term was used by the Batak only for blouse-like garments. Such sewn garments are not indigenous. Batak clothing consists of pieces of cloth that are wrapped or hung around the body. From the design and motifs of the cloths, however, it can be deduced that much influence from outside the Batak area has been incorporated into Batak weaving.  Batak 'baju' act as evidence of the absorption of outside influences."
+        ],
+        "nl": [
+          "Tegenwoordig zijn witte westerse bruidsjurken in zwang als huwelijkskleding. Songket heup- en schouderdoeken (met gouden suppletoire inslag) afkomstig uit, of in de stijl van luxe kleding uit de meer zuidelijke gebieden van Sumatra (e.g. Minangkabau, Palembang) zijn ook zeer gangbaar. Deze 'baju omon' van een nog vroeger tijdperk geeft aan dat de Batak nog veel langer inspiratie hebben gezocht in het zuiden voor luxe kleding.\n\nEen dergelijk bruidsbaadje werd alleen door een vrouw van hogere stand gedragen. De met de hand geweven stof werd versierd tijdens het weven met kettingstrepen en suppletmentaire inslagmotieven. Na het weven werden kralen en bronzen belletjes aangebracht waardoor het jak niet alleen opvallend was voor het oog, maar ook een mooie klank maakte bij iedere beweging van de bruid.\n\nProfessor A. Grubauer heeft foto's van het gebruik van een dergelijke kledingstuk in Pekanten (Mandailing) gemaakt (zie Siebeth 1991:208, 209, fig. 293- 296).\n\nTegenwoordig wordt de Indonesisch betekenis van 'baju', d.w.z. 'kleding in het algemeen' in het Batakgebied gehanteerd.  Vroeger werd de term door de Batak alleen voor bloesachtige kledingstukken gebruikt. Zulke genaaide kledingstukken zijn niet inheems. Batakkleding bestaat uit lappen stof die gewikkeld of gehangen worden aan en om het lijf. Uit het ontwerp en motieven van de doeken valt echter af te leiden dat veel invloed van buiten het Batakgebied is opgenomen in de Batakweefkunst.  Batak 'baju' fungeren als bewijsstukken van het opnemen van invloeden van buitenaf."
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Bridal gown"
+        ],
+        "nl": [
+          "Bruidsjak"
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10586",
+        "http://thesaurus.europeanafashion.eu/thesaurus/11079"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Wachs"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "vax"
+        },
+        {
+          "def": "ambra"
+        },
+        {
+          "def": "κερί"
+        },
+        {
+          "def": "άμπαρο"
+        },
+        {
+          "def": "wax"
+        },
+        {
+          "def": "ambergris"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "ambra grigia"
+        },
+        {
+          "def": "cire"
+        },
+        {
+          "def": "ambre gris"
+        },
+        {
+          "def": "שעווה"
+        },
+        {
+          "def": "ענבר אפור"
+        },
+        {
+          "def": "was"
+        },
+        {
+          "def": "amber"
+        },
+        {
+          "def": "cera"
+        },
+        {
+          "def": "ámbar gris"
+        },
+        {
+          "def": "vosak"
+        },
+        {
+          "def": "ćilibar"
+        },
+        {
+          "def": "âmbar cinza"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Wachs",
+          "ambra"
+        ],
+        "sv": [
+          "vax",
+          "ambra"
+        ],
+        "pt": [
+          "âmbar cinza"
+        ],
+        "el": [
+          "άμπαρο",
+          "κερί"
+        ],
+        "en": [
+          "ambergris",
+          "wax"
+        ],
+        "it": [
+          "ambra grigia",
+          "cera"
+        ],
+        "fr": [
+          "ambre gris",
+          "cire"
+        ],
+        "he": [
+          "שעווה",
+          "ענבר אפור"
+        ],
+        "nl": [
+          "was",
+          "amber"
+        ],
+        "es": [
+          "ámbar gris",
+          "cera"
+        ],
+        "sr": [
+          "ćilibar",
+          "vosak"
+        ]
+      },
+      "edmDatasetName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "edmIsShownAt": [
+        "https://hdl.handle.net/20.500.11840/189251"
+      ],
+      "edmIsShownBy": [
+        "http://collectie.wereldculturen.nl/cc/imageproxy.ashx?server=localhost&port=17581&filename=images//Images/TM/TM-A-3318.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fcollectie.wereldculturen.nl%2Fcc%2Fimageproxy.ashx%3Fserver%3Dlocalhost%26port%3D17581%26filename%3Dimages%2F%2FImages%2FTM%2FTM-A-3318.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "1852/1857"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "zxx": [
+          "1852/1857"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048221_EuropeanaFashion_1040"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048221/europeana_fashion_189251?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048221/europeana_fashion_189251",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048221/europeana_fashion_189251.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 12.890641,
+      "timestamp": 1762964460223,
+      "timestamp_created": "2020-03-31T16:16:09.268Z",
+      "timestamp_created_epoch": 1585671369268,
+      "timestamp_update": "2025-11-12T13:49:46.144Z",
+      "timestamp_update_epoch": 1762955386144,
+      "title": [
+        "Bridal gown",
+        "Bruidsjak"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

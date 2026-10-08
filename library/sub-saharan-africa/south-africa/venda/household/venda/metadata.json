@@ -1,0 +1,972 @@
+[
+  {
+    "id": "british_museum-E_Af1946-04-1-a-y",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1946-04-1-a-y",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1946-04-1-a-y",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1946.04.1.a.y",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved wooden divination bowl with zoomorphic and geometric relief decoration, plus bone divining pieces and a cloth bag, attributed by the museum to Venda makers — this matches the well-known Venda/Sotho-Tsonga divination tray tradition of household divinatory equipment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "divination-tray",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "divination-tray",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Wooden divining bowl (a) or game board with zoomorphic decoration and attached cord; bone flute or part of game (b); game-piece (c) made of part of bird&#039;s bone pierced; cotton bag (d); and twenty-one divining-bones or game pieces made of of bone (e-y).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_10/41c7fd07_0624_4e18_b76f_a3b600ab20a8/preview_00193138_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "26fb3e862293aa39263cb5f8e7c4b5e85a003cf74bfa06349527629917227f6e",
+        "bytes": 43193,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1946_04_1_a_y.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:05.390422+00:00",
+    "raw": {
+      "title": "divination-tray",
+      "description": "Wooden divining bowl (a) or game board with zoomorphic decoration and attached cord; bone flute or part of game (b); game-piece (c) made of part of bird&#039;s bone pierced; cotton bag (d); and twenty-one divining-bones or game pieces made of of bone (e-y).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_10/41c7fd07_0624_4e18_b76f_a3b600ab20a8/preview_00193138_001.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1930-0128-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1930-0128-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1930-0128-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1930.0128.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A decorated gourd vessel used as a porridge bowl, a household item made and used by the Venda, matching the museum's attribution; though technically gourd rather than fired clay, it functions as a serving vessel with typical geometric triangle motifs.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bowl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bowl",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Porridge bowl made of gourd.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_8/c5890bf1_ebdc_406e_89eb_a3df00846550/preview_01495434_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "66260c950766a4470e58549f5795787c6325614f263bd4e222c9c50a380e3872",
+        "bytes": 46184,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1930_0128_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:05.957507+00:00",
+    "raw": {
+      "title": "bowl",
+      "description": "Porridge bowl made of gourd.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_8/c5890bf1_ebdc_406e_89eb_a3df00846550/preview_01495434_001.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1936-0314-15",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1936-0314-15",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1936-0314-15",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1936.0314.15",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A decorated gourd vessel with poker-work (pyrography) figures, a style well documented among Venda makers; museum attributes it as \"Made by: Venda\". This is a traditional household/utility vessel made and used by the people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "vessel",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Gourd decorated with figuers outlined in poker work and amrked MAKILIEBIN.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/11_12/6224ab36_c9b1_4202_967d_a43c00d02779/preview_Af1936_0314_15__2_.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "93547b3b4189efaa8628e9258d0814280d9e2180a86a9b61eac0064680683dac",
+        "bytes": 50341,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1936_0314_15.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:06.526444+00:00",
+    "raw": {
+      "title": "vessel",
+      "description": "Gourd decorated with figuers outlined in poker work and amrked MAKILIEBIN.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/11_12/6224ab36_c9b1_4202_967d_a43c00d02779/preview_Af1936_0314_15__2_.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1945-04-9",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1945-04-9",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1945-04-9",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1945.04.9",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A turned wooden walking stick with a spiral-carved shaft and knob handle, attributed by the museum to Venda makers; a plain household/personal object plausible for the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "stick; staff",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "stick; staff",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1945:\r\nWooden stick, spiral shaped in the centre, with copper wiring.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/18_14/d9e3a629_3c06_44eb_8e41_a44300ef5a2c/preview_EAF48306.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f9cb9653fb0014b42c33cfee282ff16f762daa35f1800bdfc96a0baca685d868",
+        "bytes": 21087,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1945_04_9.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:07.103233+00:00",
+    "raw": {
+      "title": "stick; staff",
+      "description": "Register 1945:\r\nWooden stick, spiral shaped in the centre, with copper wiring.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/18_14/d9e3a629_3c06_44eb_8e41_a44300ef5a2c/preview_EAF48306.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-3050",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-3050",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-3050",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.3050",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a pair of handmade iron blacksmith's tongs, a plausible traditional tool made and used by the Venda for metalworking, consistent with the museum's attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "tongs",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tongs",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tongs made of iron.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/d5e61623_3353_4b3c_91c0_a3de0137fbd7/preview_01462035_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3aa496c26966185ae14a171cb9034b0a68b6ad5896497da96fb45e65b6f81453",
+        "bytes": 24063,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1954_23_3050.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:07.676592+00:00",
+    "raw": {
+      "title": "tongs",
+      "description": "Tongs made of iron.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/d5e61623_3353_4b3c_91c0_a3de0137fbd7/preview_01462035_001.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1945-04-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1945-04-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1945-04-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1945.04.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A rhino-horn walking stick attributed to the Venda, a plausible personal/household item for the claimed culture, clearly photographed whole.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "walking-stick",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "walking-stick",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1945:\r\nRhino-horn walking stick, two pieces screwed together.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/16_16/e870505c_b505_43b1_9525_a4410107b60a/preview_EAF48308.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ad2ba2e522bd28d562c582ea09c5541158b7b84ca0d834b89b2db8ce28a24ba7",
+        "bytes": 21039,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1945_04_11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:08.231767+00:00",
+    "raw": {
+      "title": "walking-stick",
+      "description": "Register 1945:\r\nRhino-horn walking stick, two pieces screwed together.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/16_16/e870505c_b505_43b1_9525_a4410107b60a/preview_EAF48308.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1930-0128-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1930-0128-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1930-0128-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1930.0128.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A simple long-handled wooden porridge spoon, plausible traditional household item attributed to Venda makers; the museum explicitly credits Venda production.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "spoon",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "spoon",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Porridge spoon made of wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_4/18_8/b884898c_7abe_42dc_a56d_a5ec00915a9c/preview_EAF43010.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "26b42a013f90883371f50ad41742a0f2b5f344cf2d361efcd39edc78aa4f88cd",
+        "bytes": 44550,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1930_0128_3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:08.878300+00:00",
+    "raw": {
+      "title": "spoon",
+      "description": "Porridge spoon made of wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_4/18_8/b884898c_7abe_42dc_a56d_a5ec00915a9c/preview_EAF43010.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-818_1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-818_1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-818_1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.818_1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A long-handled wooden ladle with a carved bowl, a traditional household utensil consistent with Venda material culture; nothing contradicts the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "ladle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "ladle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Ladle.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_19/2c17c21d_4f6d_4920_8a13_a3de014609c2/preview_01467133_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c46b2cc1403ce941a1e5d217aa6cba51ce4ac5203f0080df68cd1898ca14d1b4",
+        "bytes": 26949,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1954_23_818_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:09.557245+00:00",
+    "raw": {
+      "title": "ladle",
+      "description": "Ladle.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_19/2c17c21d_4f6d_4920_8a13_a3de014609c2/preview_01467133_001.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1930-0128-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1930-0128-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1930-0128-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1930.0128.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A gourd vessel with burnt chevron ornament and repair stitching, a well-documented Venda decorative craft (fire-engraved calabash containers used for porridge/beer). This matches Venda material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "bowl",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bowl",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Gourd porridge bowl with burnt ornament, partially repaired.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_8/75f5aa33_dc11_4696_ae49_a3df008429bc/preview_01495376_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "924622ca9be6477b16597d1dfa8c0928a986c6d5052afdaad9031953cbe33910",
+        "bytes": 32117,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1930_0128_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:10.169173+00:00",
+    "raw": {
+      "title": "bowl",
+      "description": "Gourd porridge bowl with burnt ornament, partially repaired.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_8/75f5aa33_dc11_4696_ae49_a3df008429bc/preview_01495376_001.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1945-04-8",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1945-04-8",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1945-04-8",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1945.04.8",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Venda",
+      "tradition": "Venda",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved wooden walking stick with a three-headed finial and decorative notching/wire wrapping, a traditional Venda-made staff used as a personal/ceremonial object.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "stick; staff",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "stick; staff",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1945:\r\nWooden stiick, three-headed, with many notches and wiring.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/18_14/6cbdd2ff_a268_4372_81e0_a44300eb02cc/preview_EAF48305.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "75fd943a0874c1ad1ca7f6c578013c64a8b647e90b2bde90727876241b80d061",
+        "bytes": 21618,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\venda\\household\\venda\\images\\bm_E_Af1945_04_8.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:14:10.740781+00:00",
+    "raw": {
+      "title": "stick; staff",
+      "description": "Register 1945:\r\nWooden stiick, three-headed, with many notches and wiring.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_2/18_14/6cbdd2ff_a268_4372_81e0_a44300eb02cc/preview_EAF48305.jpg",
+      "production_ethnic_groups": [
+        "Venda"
+      ],
+      "production_ethnic_attribution": "Made by: Venda"
+    }
+  }
+]

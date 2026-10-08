@@ -1,0 +1,6081 @@
+[
+  {
+    "id": "europeana-1100_1826",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Chester Beatty",
+      "object_id": "1100_1826",
+      "object_url": "https://www.europeana.eu/item/1100/1826?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a folio of Persian manuscript text (nasta'liq script) from a Persian cosmology treatise, consistent with the claimed Persian ethnicity; the described illustration of Jupiter as a scholar is not visible on this particular page shown, only the text.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "The planet Jupiter as a scholar, from a Persian cosmology treatise",
+      "titles_alt": [],
+      "date_text": {
+        "def": "16. Jahrhundert"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Chester Beatty",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fviewer.cbl.ie%2Fviewer%2Fcontent%2FPer_212_32%2F800%2F0%2FPer212_32_42324.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1949e561de4ca609cd9aa285d99cb6d3c7376fcf957db50aaed6bf35cf9784f8",
+        "bytes": 30225,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_1100_1826.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T14:49:36.309574+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Ireland"
+      ],
+      "dataProvider": [
+        "Chester Beatty"
+      ],
+      "dcCreator": [
+        "Murshid al-Katib al-Shirazi"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Murshid al-Katib al-Shirazi"
+        ]
+      },
+      "dcDescription": [
+        "The planet Jupiter as a scholar, from a Persian cosmology treatise.  \nThis folio is from a wide-ranging book on cosmology, outlining recorded knowledge of the skies and the earth, and describing natural wonders. Discussed here are the planet Jupiter’s earthly (or \"natural\") influences, affecting world regions, human behaviours, and the wider natural and mineral worlds. In Middle Eastern scientific imagery, Jupiter is depicted as a senior scholar. Here he sits cross-legged, holding up a pen. Books are stacked on a folding book-stand beside him, with an hour-glass in between.  \nFolio, ink, colours and gold on paper, Persian text in nasta`liq script, heading (Jupiter, or Mushtari) in blue, with painting (on verso), from cosmology treatise composed in fifteenth-century Shiraz, adapted and expanded from Zakariya al-Qazvini's Wonders of Creation in Persian translation, text copied by Murshid al-Katib al-Shirazi known as `Attar, Shiraz, Iran, dated 25 Jumada I 952H, 4 August 1545. The codex (Per 212) and a further 64 detached folios are also in the Chester Beatty collection."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "The planet Jupiter as a scholar, from a Persian cosmology treatise.  \nThis folio is from a wide-ranging book on cosmology, outlining recorded knowledge of the skies and the earth, and describing natural wonders. Discussed here are the planet Jupiter’s earthly (or \"natural\") influences, affecting world regions, human behaviours, and the wider natural and mineral worlds. In Middle Eastern scientific imagery, Jupiter is depicted as a senior scholar. Here he sits cross-legged, holding up a pen. Books are stacked on a folding book-stand beside him, with an hour-glass in between.  \nFolio, ink, colours and gold on paper, Persian text in nasta`liq script, heading (Jupiter, or Mushtari) in blue, with painting (on verso), from cosmology treatise composed in fifteenth-century Shiraz, adapted and expanded from Zakariya al-Qazvini's Wonders of Creation in Persian translation, text copied by Murshid al-Katib al-Shirazi known as `Attar, Shiraz, Iran, dated 25 Jumada I 952H, 4 August 1545. The codex (Per 212) and a further 64 detached folios are also in the Chester Beatty collection."
+        ]
+      },
+      "dcLanguage": [
+        "Persian",
+        "fa"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "Persian",
+          "fa"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "The planet Jupiter as a scholar, from a Persian cosmology treatise"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1771",
+        "http://vocab.getty.edu/aat/300028569",
+        "http://data.europeana.eu/concept/17"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "Manuskript (Dokumentengattung)"
+        },
+        {
+          "def": "Manuskript"
+        },
+        {
+          "def": "Kulta"
+        },
+        {
+          "def": "Käsikirjoitus"
+        },
+        {
+          "def": "Золото"
+        },
+        {
+          "def": "Рукопись"
+        },
+        {
+          "def": "Ouro"
+        },
+        {
+          "def": "manuscritos"
+        },
+        {
+          "def": "Manuscrito"
+        },
+        {
+          "def": "Злато"
+        },
+        {
+          "def": "Ръкопис"
+        },
+        {
+          "def": "Auksas"
+        },
+        {
+          "def": "Rankraštis"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Rukopis"
+        },
+        {
+          "def": "Zelts"
+        },
+        {
+          "def": "Rokraksts"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "manuscrits"
+        },
+        {
+          "def": "Manuscrit"
+        },
+        {
+          "def": "Arany"
+        },
+        {
+          "def": "Kézirat"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Rukopis"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Rokopis"
+        },
+        {
+          "def": "Ór"
+        },
+        {
+          "def": "Lámhscríbhinn"
+        },
+        {
+          "def": "or"
+        },
+        {
+          "def": "Manuscrit"
+        },
+        {
+          "def": "Guld"
+        },
+        {
+          "def": "Handskrift"
+        },
+        {
+          "def": "Χρυσός"
+        },
+        {
+          "def": "Χειρόγραφο"
+        },
+        {
+          "def": "Deheb"
+        },
+        {
+          "def": "Gold"
+        },
+        {
+          "def": "manuscripts (documents)"
+        },
+        {
+          "def": "Manuscript"
+        },
+        {
+          "def": "Oro"
+        },
+        {
+          "def": "Manoscritto"
+        },
+        {
+          "def": "Oro"
+        },
+        {
+          "def": "manuscritos"
+        },
+        {
+          "def": "Manuscrito"
+        },
+        {
+          "def": "Kuld"
+        },
+        {
+          "def": "Käsikiri"
+        },
+        {
+          "def": "Zlato"
+        },
+        {
+          "def": "Rukopis"
+        },
+        {
+          "def": "Urre"
+        },
+        {
+          "def": "Eskuizkribu"
+        },
+        {
+          "def": "Złoto"
+        },
+        {
+          "def": "Rękopis"
+        },
+        {
+          "def": "Guld"
+        },
+        {
+          "def": "Håndskrift"
+        },
+        {
+          "def": "Aur"
+        },
+        {
+          "def": "Manuscris"
+        },
+        {
+          "def": "Goud"
+        },
+        {
+          "def": "manuscripten"
+        },
+        {
+          "def": "Manuscript"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Manuskript (Dokumentengattung)",
+          "Gold",
+          "Manuskript"
+        ],
+        "fi": [
+          "Käsikirjoitus",
+          "Kulta"
+        ],
+        "ru": [
+          "Золото",
+          "Рукопись"
+        ],
+        "pt": [
+          "Ouro",
+          "Manuscrito",
+          "manuscritos"
+        ],
+        "bg": [
+          "Ръкопис",
+          "Злато"
+        ],
+        "lt": [
+          "Auksas",
+          "Rankraštis"
+        ],
+        "hr": [
+          "Zlato",
+          "Rukopis"
+        ],
+        "lv": [
+          "Zelts",
+          "Rokraksts"
+        ],
+        "fr": [
+          "manuscrits",
+          "or",
+          "Manuscrit"
+        ],
+        "hu": [
+          "Arany",
+          "Kézirat"
+        ],
+        "sk": [
+          "Zlato",
+          "Rukopis"
+        ],
+        "sl": [
+          "Rokopis",
+          "Zlato"
+        ],
+        "ga": [
+          "Lámhscríbhinn",
+          "Ór"
+        ],
+        "ca": [
+          "or",
+          "Manuscrit"
+        ],
+        "sv": [
+          "Handskrift",
+          "Guld"
+        ],
+        "el": [
+          "Χρυσός",
+          "Χειρόγραφο"
+        ],
+        "mt": [
+          "Deheb"
+        ],
+        "en": [
+          "Gold",
+          "Manuscript",
+          "manuscripts (documents)"
+        ],
+        "it": [
+          "Oro",
+          "Manoscritto"
+        ],
+        "es": [
+          "Manuscrito",
+          "Oro",
+          "manuscritos"
+        ],
+        "et": [
+          "Kuld",
+          "Käsikiri"
+        ],
+        "cs": [
+          "Zlato",
+          "Rukopis"
+        ],
+        "eu": [
+          "Eskuizkribu",
+          "Urre"
+        ],
+        "pl": [
+          "Rękopis",
+          "Złoto"
+        ],
+        "da": [
+          "Guld",
+          "Håndskrift"
+        ],
+        "ro": [
+          "Manuscris",
+          "Aur"
+        ],
+        "nl": [
+          "Manuscript",
+          "Goud",
+          "manuscripten"
+        ]
+      },
+      "edmDatasetName": [
+        "1100_Chester_Beatty"
+      ],
+      "edmIsShownAt": [
+        "https://viewer.cbl.ie/viewer/ppnresolver?id=Per_212_32"
+      ],
+      "edmIsShownBy": [
+        "https://viewer.cbl.ie/viewer/content/Per_212_32/800/0/Per212_32_42324.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fviewer.cbl.ie%2Fviewer%2Fcontent%2FPer_212_32%2F800%2F0%2FPer212_32_42324.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "16. Jahrhundert"
+        },
+        {
+          "def": "XVI век"
+        },
+        {
+          "def": "1500-luku"
+        },
+        {
+          "def": "Século XVI"
+        },
+        {
+          "def": "16 век"
+        },
+        {
+          "def": "XVI amžius"
+        },
+        {
+          "def": "16. stoljeće"
+        },
+        {
+          "def": "16. gadsimts"
+        },
+        {
+          "def": "XVIe siècle"
+        },
+        {
+          "def": "16. század"
+        },
+        {
+          "def": "16. storočie"
+        },
+        {
+          "def": "16. stoletje"
+        },
+        {
+          "def": "16ú haois"
+        },
+        {
+          "def": "Segle XVI"
+        },
+        {
+          "def": "1500-talet"
+        },
+        {
+          "def": "16ος αιώνας"
+        },
+        {
+          "def": "16th century"
+        },
+        {
+          "def": "XVI secolo"
+        },
+        {
+          "def": "Siglo XVI"
+        },
+        {
+          "def": "16. sajand"
+        },
+        {
+          "def": "16. století"
+        },
+        {
+          "def": "XVI. mendea"
+        },
+        {
+          "def": "XVI wiek"
+        },
+        {
+          "def": "16. århundrede"
+        },
+        {
+          "def": "Secolul al XVI-lea"
+        },
+        {
+          "def": "16e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q7017"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85123070"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049669"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b23"
+        },
+        {
+          "def": "https://g.co/kg/m/08b23"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.475.750"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404510"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02814512n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/16th_century"
+        },
+        {
+          "def": "1545"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "16. Jahrhundert"
+        ],
+        "ru": [
+          "XVI век"
+        ],
+        "fi": [
+          "1500-luku"
+        ],
+        "pt": [
+          "Século XVI"
+        ],
+        "bg": [
+          "16 век"
+        ],
+        "lt": [
+          "XVI amžius"
+        ],
+        "hr": [
+          "16. stoljeće"
+        ],
+        "lv": [
+          "16. gadsimts"
+        ],
+        "fr": [
+          "XVIe siècle"
+        ],
+        "hu": [
+          "16. század"
+        ],
+        "sk": [
+          "16. storočie"
+        ],
+        "sl": [
+          "16. stoletje"
+        ],
+        "ga": [
+          "16ú haois"
+        ],
+        "ca": [
+          "Segle XVI"
+        ],
+        "sv": [
+          "1500-talet"
+        ],
+        "el": [
+          "16ος αιώνας"
+        ],
+        "en": [
+          "16th century"
+        ],
+        "it": [
+          "XVI secolo"
+        ],
+        "es": [
+          "Siglo XVI"
+        ],
+        "et": [
+          "16. sajand"
+        ],
+        "cs": [
+          "16. století"
+        ],
+        "eu": [
+          "XVI. mendea"
+        ],
+        "zxx": [
+          "1545"
+        ],
+        "pl": [
+          "XVI wiek"
+        ],
+        "da": [
+          "16. århundrede"
+        ],
+        "ro": [
+          "Secolul al XVI-lea"
+        ],
+        "nl": [
+          "16e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "1100_Chester_Beatty"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/1100/1826?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1100/1826",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/1100/1826.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "MUSEU"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 58.562393,
+      "timestamp": 1755093223222,
+      "timestamp_created": "2024-04-12T17:35:04.044Z",
+      "timestamp_created_epoch": 1712943304044,
+      "timestamp_update": "2025-08-13T13:52:37.769Z",
+      "timestamp_update_epoch": 1755093157769,
+      "title": [
+        "The planet Jupiter as a scholar, from a Persian cosmology treatise"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91670_SMVK_VKM_arkiv_2373071",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91670_SMVK_VKM_arkiv_2373071",
+      "object_url": "https://www.europeana.eu/item/91670/SMVK_VKM_arkiv_2373071?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The picture is a scanned page of a Swedish-language magazine article titled \"Kelim (Kilim)\" about kilim rugs in general, with only a small inset photograph of a kilim in the corner — this is reference text/documentation, not a museum photograph of a Persian object itself.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "föremålsanalys",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fblob%2F2373080%2FLSK1998.11.0487.pdf&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c452e1ac7d53d42b5968e5f19dd261931ea7da8417d4e70928014a3c61d07ece",
+        "bytes": 210225,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_91670_SMVK_VKM_arkiv_2373071.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T14:49:37.341346+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        ".se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\"7B1B57F63D-C8C7-440E-9457-2E2C305D978D%7D \n\nhttp://www.ikea.com/se/sv/catalog/products/10217061/ \n\nhttp://www.mattkompaniet.se/ \n\nhttp://www.riksvav.se/kronobergsvav/y10/dec10.html \n\n \n\nBildkällor: \n\nhttps://www.carpetvista.se/mattor/Kelim/matta_254565-Kelim_Afghan_Old_style.html \n\nhttps://www.carpetvista.se/mattor/Kelim/matta_140513-Kelim_Konya_Semiantik.html \n\nhttp://www.shopalike.se/hemtextil/mattor/kelimer/?sort=price_desc",
+        "Kelim (Kilim) \nOrdet Kelim kommer från persika gelim, som betyder grovvävd filt. På turkiska kallas det för \n\nKilim. På internet kan man läsa att Kelim beskrevs som ”Handvävd magi” och det är inte så svårt \natt förstå varför. När man bara tittar på den persiska Kelimmattan kan man se fantastiskt fina \n\ngeometriska mönster. Det är fascinerande att se på hur dessa mönster är vävda, och jag är säker på \n\natt en ”vanlig Svensson” hade det haft lite svårigheter med att väva denna persiska Kelim-matta. \nDet är mestadels kvinnor som håller på med Kelim i Iran. I alla böcker och artiklar hittar man \n\nkvinnor som sysselsätter sig med Kelimvävning och jag har inte sett någon manlig arbetare som \nhåller på med det. \n\nKelim är namnet på föremålet men det är även värt att \n\npåpeka att ordet Kelim är också namn på den teknik \n\nsom används vid tillverkningen; en vävteknik som är \n\nvanlig i arabisk och muslimsk tradition. En Kelim-\n\nliknande närbesläktad vävteknik har man även i \n\nSverige under namnet röllakan. Kelim betyder “grov \nfilt” medan röllakan ursprungligen betyder ”rygg-\nlakan”. \n\nI boken ”Kilim The Complete Guide”, skriven utav \nThames och Hudson 1993, kunde jag läsa om att det \n\ninte är bara i Iran som Kelim tillverkas, utan tekniken \n\nfinns även i Kaukasus. Det var när det nämndes \n\n”Kaukasus” som mitt intresse för Kelim-mattorna \nökade ännu mer. Jag har själv haft sådana liknande \n\nmattor hängandes på väggar. Just de mönster som man \n\nkan se på Kelim mattan kände jag direkt igen redan \n\nvid första ögonkastet. Jag visste att jag ville jobba med \n\nden mattan eftersom jag kände en sorts närhet till den. \n\nSom sagt har jag själv haft en liknande matta när jag \n\nvar liten och har sedan dess haft intresse för liknande \n\nmattor, i det här sammanhanget Kelim.  \n\nPersiska Kelim finns det i oändligt många olika former och färger. På bilden till vänster ser \n\nman en handvävd persisk Kelim med geometriska mönster. Men det är inte bara i Iran som \n\nKelim tillverkas. Det finns även turkisk, afghansk och moldavisk Kelim bland andra. Dock \n\nser man stora skillnader på Kelimvävnader beroende på i vilket land de är producerade. Även \n\nom alla är Kelim, vävs Kelimmattor på olika sätt i olika länder. Förutom att Kelim tillverkas i \n\nolika länder, används Kelim till annat också än bara mattor. De används även till möbler, \n\nkuddar gardiner bland andra. På marknaden finner man som sagt olika sorters Kelim. \n\nSkillnaden mellan olika länders Kelim kan man se här nedan: \n\n \n\n \n\n \n\n\n\n \n \n\n        (Turkisk Kelim)                                            (Afghansk Kelim) \n\n \n\nKälla till båda bilder: https://www.carpetvista.se/swe/Kelim/ \n\n \nDet man som tittare reagerar på först när de ser på två bilderna ovan är att den turkiska Kelim-\n\nmattan kostar betydligt mer än den afganska. Utseendemässigt ser afghanska Kelim ljusare ut \n\nän turkiska som har mörkare färger i. Den afghanska Kelim vi ser på bilden har ljusa och \n\nglada färger och ser därför finare ut enligt min åsikt. Förutom färgen, ser man även fransar på \n\nden turkiska Kelimen som man inte ser på den afghanska. Precis som den persiska Kelimen, \n\nhar även den Kaukasiska Kelimen fransar. \n\nVarför den turkiska Kelim mattan kostar ungefär dubbelt så mycket på marknaden som den \n\nafganska har jag inte riktigt lyckats hitta svaret på. Kanske är det kvalitén på vävningen som \n\ndet är skillnad på, eller så är det nog att den turkiska Kelimen är mer populär och därmed \n\ndyrare. På internet kunde jag hitta att en Iransk kelim kostar cirka 2000 kronor på Ikea, där \n\nmattan är 180cm lång och 125cm bredd. På mattkompaniet.se kunde jag dock se hur priserna \n\npå den persiska mattan varierar, dels beroende på storleken på mattan, dels beroende på \n\nmönstren på mattan. Vissa mattor som det är mycket mer mönster på kostar över",
+        "5000, medan \n\nmattor med färre mönster kostar mellan 1000-4000 spänn (http://www.mattkompaniet.se/). \n\n \n\nJag tycker att det är intressant hur mycket priset kan variera, även om alla är gjorda i samma \n\nland. Mattor med ljusare och tydliga mönster i kostar i princip alltid mer än de med otydliga \n\nmönster där mönstren inte fångar köparens intresse. En bra kelim kostar förstås mer, och \n\ngenom att ha högt pris ges oftast en signal till köparen att mattan är av bra kvalitét. \n\nFörutom persisk, afghansk och turkisk Kelim, grävde jag även fram moldavisk Kelim. Jag \n\nmåste erkänna att jag blev lite förvånad faktiskt över att läsa på olika hemsidor om att Kelim- \n\nmattor även existerar i Moldavien. Hur kan man känna igen en Moldavisk Kelim utifrån dess \n\nmönster? Jo, de moldaviska kelimerna är lätta att känna igen, mycket tack vare de speciella \n\nrosenmönstren som präglar mattorna. Dessa så kallade rosenkelimer har ofta något mörkare \n\nbottenfärger och rosorna går i rött och rosa med gröna inslag i bladen. Att den moldaviska \n\nkelimen är lätt att känna igen beror alltså på att den dels ser helt annorlunda ut. Här nedan kan \n\nman se hur en Moldavisk Kelim ser ut: \n\n\n\n\n\n \n(Bilderna tagna efter sökningen på Google-bilder) \n\nOavsett hur mycket man än skulle försöka, skulle det aldrig gå att blanda ihop Moldavisk \n\nKelim med, till exempel persisk Kelim. Det typiska med Moldaviska Kelim är som jag \n\nanmärkte innan, att rosor på mattan förekommer i alla Moldaviska Kelim. På den persiska \n\nmattan som jag valde att titta närmare på från Världskulturmuseet, fanns det inga rosor eller \n\nblommor utan det var andra mönster såsom kvadrater och andra typer av fyrkantiga former, \n\nmest i form av romber, eller i diamantformen som man också kan beskriva den \n\nmönsterformen som. Hade det lagts ner hundra olika små kelim-mattor och om det endast \n\nhade funnits en enda moldavisk matta bland dem, tror jag att de flesta skulle ha pekat ut den \n\nså fort de hade fått syn på den. \n\nSom jag påpekade lite tidigare så förekommer Kelim-mattorna i en mängd olika mönster och \n\nfärger där mönstren oftast ser rektangulära ut och ibland är gjorda med spetsiga detaljer. Och \n\ndetta har förstås med vävtekniken att göra. Trots att det idag är stor efterfrågan på kelimer är \n\ndet inte ofta man ser kelimer i svenska hushåll. Detta baserar jag på de många hushållen som \n\njag har vart inne i och sett med mina egna ögon. Men när det gäller varför det är stor \n\nefterfrågan på kelimer idag är det på grund av att Kelimer lätt passar in i stilrena och \n\nminimalistiska miljöer (http://www.alltommattor.se/pages/Kategorier/Kelimer-1115.html). \n\n \n\nNär det gäller användningsområden för Kelim på andra håll i världen, är det oftast man ser i \n\nIran och Afghanistan bland andra, att Kelim-mattor hänger på väggar. Man har alltså mattor \n\nhängandes på väggarna istället för tavlor. Jag som är född och uppväxt i ett hus där det är \n\nnormalt att folk gör så, tycker inte att det är något konstigt med det. Dock har jag stött på \n\nnågra som tycker det är lustigt och även dumt att hänga mattor på väggar. På ett sätt kan man \n\nförstå dem, dock tror jag inte de hade haft samma åsikt och tankar om det om de också hade \n\nvuxit upp i ett hus med Kelim-mattor hängande på väggarna. Det är kulturen och livsstilen \n\nsom ligger bakom detta. Förutom mattor, används Kelim även till sängöverkast och till \n\nkuddar, för att skapa en orientalisk stämning i hemmet. \n\nJag tycker det var både enkelt och svårt samtidigt att samla ihop information om Kelim. Om \n\nman ska börja med det enkla, så var det min vilja och intresset för Kelimmattorna som gjorde \n\ndet enkelt för mig att söka efter fakta och information om just mitt föremål. Dock stötte jag på \n\nlite problem när det gäller att hitta litteratur om Kelim. Boken Kilim The Complete Guide var",
+        "det enda boken jag hittade något om Kelim i. Jag sökte på Geovetarcentrum och även i HDK:s \n\nkonstbibliotek efter böcker som berörde Kelim, dock utan något resultat. Det enda jag hittade \n\n\n\n\npå HDK var samma bok som jag hade lånat på världskulturmuseet, nämligen boken ” Kilim \nThe Complete Guide”. \n\nNär jag undersökte mitt föremål satt jag den allra första dagen på Världskulturmuseet och \n\nförsökte titta noga på de fantastiska mönstren på Kelim-mattan. Jag blev både imponerad och \n\nglad samtidigt, av att det finns folk som har tålamod och vilja att producera sådana fantastiska \n\nmattor som finns i många länder runt om i världen. \n\nMitt val av föremål var som jag skrev tidigare, väldigt enkelt. När jag först kikade över de \n\nandra föremålen, föll inte min blick på något intressant. Det var när jag fick syn på \n\nKelimmattan som blicken fastnade och jag är glad över mitt val och tycker att jag har lärt mig \n\nmer om Kelim, framförallt att det även finns Moldavisk Kelim, vilket jag ska försöka hitta i \n\nnågon butik i verkliga livet eftersom jag ännu bara har sett den på bilder. Jag tycker att Kelim \n\nhar ett värde i mångas hushåll och det finns även folk jag känner som har sparade mattor från \n\nsina gamla släktingar som har dött. Att kunna ha möjlighet att spara något som ens \n\nfarföräldrar hade, tror jag har stor betydelse för personens liv. När jag av ren nyfikenhet sökte \n\nefter priser på Kelimmattor för att se hur dyra de kan vara, blev jag överraskad när jag såg en \n\nBulgarisk Kelim med värde 165 000 kronor. \n\nVilka material använder man när man tillverkar Kelim?  \n\n \n\nPå hemsidan alltommattor.se kunde jag läsa om Kelimens material och tillverkningsteknik. \n\nMan kan även läsa att Persiska Kelimer bland andra tillverkas främst av nomader och görs \n\nbåde som mattor och väskor, och att i Kelim används uteslutande naturliga material som ull \n\nvid tillverkningen. Och ibland görs finare kelimer även med inslag av silke. När det gäller \n\nfärgningen av garnet är det med växter och mineraler som Kelimmattorna får sina naturliga \n\noch fina färger. \n\nHur långt bakåt i tiden ska man gå när man ska prata om Kelims historia?  \n\nDet finns inget exakt år när det gäller när Kelim började tillverkas men från utgrävningar och \n\nundersökningar av gravar kan vi idag veta att vävda textilier har funnits och tillverkats i mer \n\nän 4 tusen år tillbaka. Att det var just i Asien och Mellanöstern som flera textila tekniker \n\nutvecklades mycket tidigt, är ingen hemlighet. Även till Indien och Pakistan bland många \n\nländer, har Kelim spritt sig och blivit populära.  \n\nJag har lyckats komma i kontakt med två av mina iranska kompisar genom sociala medier för \n\natt fråga dem om hur populärt Kelim är i Iran idag och av båda personerna fick jag ungefär \n\nsamma svar - att Kelim är ett mycket trendigt och kulturellt föremål som de flesta i Persien \n\nhar hängande på väggarna. Den ena kompisen pratade även om hur han såg hur trendigt det \n\nvar med mattor mot väggarna, vid ett i besök i Iran i somras. \n\nSå med det som slutsats kan man konstatera att Kelims historia har än idag inte tagit slut, och \n\neftersom Kelim är mycket efterfrågad som prydnad på väggen än idag är det omöjligt att veta \n\nnär den iranska befolkningen kommer börja leva ett liv med utan kelim-mattor hängandes mot \n\nväggen eller på golvet. \n\n \n\n \n\n \n\n \n\n\n\n\n \nLitteraturkällor: \n\nHull, Alastair & Jose Luczyc-Wyhowska, Kilim The Complete Guide (kap.2 & 7), London: \n\nThames & Hudson Ltd (2000) \n\n \n\nInternetkällor: \n\nhttp://blogg.vasabladet.fi/inredning/2012/08/21/kelim/ \n\nhttp://www.arhan.se/se/sortiment/kelim/ \n\nhttp://www.alltommattor.se/pages/Kategorier/Kelimer-1115.html \n\nhttp://www.tanersmattor.se/getpage.asp?do=% HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\"  \n\n\"http://www.tanersmattor",
+        ".se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d \"7B1B57F63D-C8C7-440E-9457-2E2C305D978D% 7D \n\nhttp://www.ikea.com \n\nhttp://www.mattkompaniet.se / \n\nhttp://www.riksvav.se/kronobergvav/y10/dec10.html\n\nImage sources: \n\nhttps://www.carpetvista.se/mats/Kelim/matta _ 254565-Kelim _ Afghan _ Old _ style.html \n\nhttps://www.carpetvista.se/mats/Kelim/matta _ 140513-Kelim _ Konya _ Semiantik.html \n\nhttp://www.shopalike.se/hemtextil/mats/kelimer /?variety = price _ desc",
+        "Kelim (Kilim) \nThe word Kelim comes from peach cornice, which means coarse-woven felt. In Turkish it is called for \n\nKilim On the Internet, it can be read that Kelim was described as “Hand-woven magic” and it is not that difficult \nto understand why. When you just look at the Persian Kelim mat, you can see wonderfully fine \n\ngeometric patterns. It’s fascinating to see how these patterns are woven, and I’m sure \n\nThat an “ordinary Svensson” had little difficulty in weaving this Persian Kelim carpet. \nIt is mostly women who are holding Kelim in Iran. All books and articles find \n\nwomen who work with Kelim weaving and I have seen no male worker as \nagree. \n\nKelim is the name of the object but it is also worth \n\npoint out that the word Kelim is also the name of the technology \n\nused in manufacturing; a weaving technique \n\ncommon in Arab and Muslim tradition. A Kelim-\n\nsimilar related weaving technology has also been found in \n\nSweden under the name of the Role. Kelim means \"rough \nfelt “while the roll cake originally means” back\nSheet’. \n\nIn the book “Kilim The Complete Guide,” written by \nThames and Hudson 1993, I could read about it \n\nnot only in Iran is Kelim manufactured, but technology \n\nis also present in the Caucasus. It was when it was mentioned \n\nThe “Caucasus” as my interest in the Kelim carpets \nincreased even more. I myself have had such similar \n\ncarpets hanging on walls. Just the patterns that man \n\ncan see on the Kelim carpet I felt directly again already \n\nat first glance. I knew I wanted to work with \n\nthat carpet because I felt a kind of closeness to it. \n\nThat said, I myself had a similar carpet when I \n\nwas small and has since had an interest in similar \n\ncarpets, in this context Kelim.  \n\nPersian Kelim there are infinitely many different shapes and colors. The picture on the left sees \n\nman a hand-woven Persian Kelim with geometric patterns. But it is not only in Iran that \n\nKelim is manufactured. There are also Turkish, Afghan and Moldovan Kelim among others. However \n\none sees great differences on Kelim tissues depending on the country they are produced. Even \n\nIf everyone is Kelim, Kelimmattor is woven differently in different countries. In addition to Kelim being manufactured in \n\ndifferent countries, Kelim is used for other things also than just carpets. They are also used for furniture, \n\npillows curtains among others. As I said, the market finds different kinds of Kelim. \n\nThe difference between the different countries Kelim can be seen here below:\n\n        (Turkish Kelim) (Afghan Kelim)\n\nSource of both pictures: https://www.carpetvista.se/swe/Kelim /\nWhat viewers react to only when they look at two pictures above is that the Turkish Kelim-\n\nThe carpet costs significantly more than the Afghan. Appearance looks Afghan Kelim brighter \n\nthan Turkish with darker colours. The Afghan Kelim we see in the picture has bright and \n\ncheerful colours and therefore look finer in my opinion. In addition to the colour, one also sees fringes on \n\nthe Turkish Kelimen that one does not see in the Afghan. Like the Persian Kelimen \n\nalso has the Caucasian Kelimen lashes. \n\nWhy the Turkish Kelim carpet costs about twice as much on the market as the \n\nI have not really managed to find the answer. Perhaps it is the quality of weaving that \n\nthere is a difference, or it is enough that the Turkish Kelimen is more popular and thus \n\nmore expensive. On the internet I could find that an Iranian kelim costs about 2000 kroner at Ikea, where \n\nThe carpet is 180cm long and 125cm wide. On math companiet.se, however, I could see how prices \n\non the Persian carpet varies, depending on the size of the carpet and depending on \n\nthe patterns on the carpet. Some carpets on which there is much more pattern",
+        "5000, while \n\nCarpets with fewer patterns cost between 1000-4000 buckles (http://www.mattkompaniet.se /).\n\nI think it’s interesting how much the price can vary, even if everyone is made in the same \n\ncountry. Carpets with lighter and clear patterns in basically always cost more than those with unclear \n\npatterns where the patterns do not capture the buyer’s interest. A good kelim is more costly, and \n\nby having a high price, a signal is usually given to the buyer that the carpet is of good quality. \n\nIn addition to Persian, Afghan and Turkish Kelim, I also dug Moldovan Kelim. I \n\nmust admit that I was a little surprised actually to read on different websites that Kelim- \n\ncarpets also exist in Moldova. How to recognize a Moldovan Kelim from its \n\npatterns? Jo, the Moldovan Kelims are easy to recognize, much thanks to the special \n\nthe rose patterns that characterize the carpets. These so-called Rosaries often have some darker \n\nbottom colours and the roses go in red and pink with green touches in the leaves. That the Moldovan \n\nThe chelime is easily recognizable is thus because it looks quite different. Here below \n\nA Moldovan Kelim looks like:\n(The pictures taken after the search on Google images) \n\nNo matter how much one would try, it would never be possible to mix Moldovan together \n\nKelim with, for example, Persian Kelim. The typical thing about Moldovan Kelim is like me \n\nnoted before, that roses on the carpet appear in all Moldovan Kelim. In the Persian \n\nthe carpet that I chose to look more closely at from the World Museum of Culture, there were no roses or \n\nflowers without it were other patterns such as squares and other types of square shapes, \n\nmost in the form of a rhombus, or in the diamond shape that one can also describe it \n\nthe pattern shape. Had it laid down a hundred different small kelim mats and if only \n\nhad been a single Moldovan carpet among them, I think most people would have pointed it out \n\nas soon as they had seen it. \n\nAs I pointed out a little earlier, the Kelim rugs occur in a variety of patterns and \n\ncolours where the patterns usually look rectangular and are sometimes made with pointed details. And \n\nthis is understood by the weaving technique to do. Although today there is great demand for kelims is \n\nit is not often seen in Swedish households. I base this on the many households that \n\nI have been in and seen with my own eyes. But when it comes to why it’s big \n\nthe demand for kelimer today is due to the fact that Kelimer easily fits into the style and \n\nminimalist environments (http://www.järommattor.se/pages/Categories/Kelimer-1115.html).\n\nWhen it comes to uses for Kelim elsewhere in the world, it is most often seen in \n\nIran and Afghanistan among others, that Kelim carpets hang on walls. There are therefore carpets \n\nhanging on the walls instead of boards. I born and raised in a house where it is \n\nnormal for people to do so, don’t think there’s anything strange about it. However, I’ve encountered \n\nsome who find it hilarious and also stupid to hang carpets on walls. In a way you can \n\nunderstand them, however, I don’t think they had the same opinion and thoughts about it if they also had \n\ngrown up in a house with Kelim carpets hanging on the walls. It’s culture and lifestyle \n\nbehind it. In addition to carpets, Kelim is also used for bedspreads and for \n\npillows, to create an oriental mood in the home. \n\nI find it both simple and difficult at the same time to gather information about Kelim. About \n\none should start with the simple, so was it my will and the interest in the Kelimmattas that made \n\nit easy for me to search for facts and information about my particular object. However, I encountered \n\na little trouble in finding literature about Kelim. The book Kilim The Complete Guide was",
+        "the only book I found something about Kelim in. I searched GeovetarJag and also in HDK \n\nart library after books that touched Kelim, though without any result. The only thing I found \n\n\n\n\nat HDK was the same book that I had borrowed at the World Museum of Culture, namely the book \"Kilim \nThe Complete Guide’. \n\nWhen I examined my object, I sat on the very first day at the World Museum of Culture and \n\ntried to look closely at the amazing patterns on the Kelim carpet. I was both impressed and \n\nhappy at the same time, of the fact that there are people who have the patience and the will to produce such amazing \n\ncarpets found in many countries around the world. \n\nMy choice of objects was as I wrote before, very simple. When I first peeked over they \n\nother objects, did not my gaze fall on anything interesting. It was when I got my sight on \n\nThe Kelime mat that the gaze stuck and I am happy about my choice and I find myself learning \n\nmore about Kelim, especially that there is also Moldovan Kelim, which I will try to find in \n\nsome store in real life because I have yet only seen it in pictures. I think Kelim \n\nhas a value in a moon gas household and there are also people I know who have saved carpets from \n\ntheir old relatives who have died. To be able to save something like even \n\ngrandparents had, I think has great significance for the person’s life. When I sought from pure curiosity \n\nafter prices on Kelimmattor to see how expensive they can be, I was surprised when I saw one \n\nBulgarian Kelim with a value of 165.000 kroner. \n\nWhat materials do you use when making Kelim?\n\nOn the homepage allommattor.se I could read about Kelimen’s material and manufacturing technology. \n\nIt can also be read that Persian Celims are made mainly from nomads and made \n\nboth as carpets and bags, and in Kelim natural materials are used exclusively as wool \n\nin manufacturing. And sometimes finer kelims are made even with elements of silk. As regards \n\nThe staining of the yarn is the one with plants and minerals that the Kelimmattas get their natural \n\nand fine colours. \n\nHow far back in time to talk about Kelim’s history?  \n\nThere is no exact year when Kelim started to be manufactured but from excavations and \n\nstudies of graves we can know today that woven textiles have been present and manufactured in more \n\nthan 4 thousand years back. That it was precisely in Asia and the Middle East that several textile technologies \n\ndeveloped very early, is no secret. Even to India and Pakistan among many \n\ncountries, Kelim has spread and become popular.  \n\nI have managed to get in touch with two of my Iranian mates through social media for \n\nTo ask them about how popular Kelim is in Iran today and of both people I got about \n\nThe same answer - that Kelim is a very trendy and cultural object like most people in Persia \n\nhas a hanging on the walls. One friend also talked about how he saw how trendy it \n\nwas with carpets against the walls, during a visit to Iran this summer. \n\nSo with that conclusion it can be seen that Kelim’s history has not yet come to an end, and \n\nSince Kelim is much in demand as an ornament on the wall than today, it is impossible to know \n\nwhen the Iranian population comes to live a life with no kelim carpets hanging against \n\nthe wall or on the floor.\nLiterature sources: \n\nHull, Alastair & Jose Luczyc-Wyhowska, Kilim The Complete Guide \n\nThames & Hudson Ltd (2000)\n\nInternet sources: \n\nhttp://blogg.vasabladet.fi/interior/2012/08/21/kelim / \n\nhttp://www.arhan.se/se/assortment/kelim / \n\nhttp://www.alltommattor.se/pages/Categories/Kelimer-1115.html \n\nhttp://www.tanersmattor.se/getpage.asp?do =% HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d'  \n\n\"http://www.tanersmattor"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          ".se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\" HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\"7B1B57F63D-C8C7-440E-9457-2E2C305D978D%7D \n\nhttp://www.ikea.com/se/sv/catalog/products/10217061/ \n\nhttp://www.mattkompaniet.se/ \n\nhttp://www.riksvav.se/kronobergsvav/y10/dec10.html \n\n \n\nBildkällor: \n\nhttps://www.carpetvista.se/mattor/Kelim/matta_254565-Kelim_Afghan_Old_style.html \n\nhttps://www.carpetvista.se/mattor/Kelim/matta_140513-Kelim_Konya_Semiantik.html \n\nhttp://www.shopalike.se/hemtextil/mattor/kelimer/?sort=price_desc",
+          "Kelim (Kilim) \nOrdet Kelim kommer från persika gelim, som betyder grovvävd filt. På turkiska kallas det för \n\nKilim. På internet kan man läsa att Kelim beskrevs som ”Handvävd magi” och det är inte så svårt \natt förstå varför. När man bara tittar på den persiska Kelimmattan kan man se fantastiskt fina \n\ngeometriska mönster. Det är fascinerande att se på hur dessa mönster är vävda, och jag är säker på \n\natt en ”vanlig Svensson” hade det haft lite svårigheter med att väva denna persiska Kelim-matta. \nDet är mestadels kvinnor som håller på med Kelim i Iran. I alla böcker och artiklar hittar man \n\nkvinnor som sysselsätter sig med Kelimvävning och jag har inte sett någon manlig arbetare som \nhåller på med det. \n\nKelim är namnet på föremålet men det är även värt att \n\npåpeka att ordet Kelim är också namn på den teknik \n\nsom används vid tillverkningen; en vävteknik som är \n\nvanlig i arabisk och muslimsk tradition. En Kelim-\n\nliknande närbesläktad vävteknik har man även i \n\nSverige under namnet röllakan. Kelim betyder “grov \nfilt” medan röllakan ursprungligen betyder ”rygg-\nlakan”. \n\nI boken ”Kilim The Complete Guide”, skriven utav \nThames och Hudson 1993, kunde jag läsa om att det \n\ninte är bara i Iran som Kelim tillverkas, utan tekniken \n\nfinns även i Kaukasus. Det var när det nämndes \n\n”Kaukasus” som mitt intresse för Kelim-mattorna \nökade ännu mer. Jag har själv haft sådana liknande \n\nmattor hängandes på väggar. Just de mönster som man \n\nkan se på Kelim mattan kände jag direkt igen redan \n\nvid första ögonkastet. Jag visste att jag ville jobba med \n\nden mattan eftersom jag kände en sorts närhet till den. \n\nSom sagt har jag själv haft en liknande matta när jag \n\nvar liten och har sedan dess haft intresse för liknande \n\nmattor, i det här sammanhanget Kelim.  \n\nPersiska Kelim finns det i oändligt många olika former och färger. På bilden till vänster ser \n\nman en handvävd persisk Kelim med geometriska mönster. Men det är inte bara i Iran som \n\nKelim tillverkas. Det finns även turkisk, afghansk och moldavisk Kelim bland andra. Dock \n\nser man stora skillnader på Kelimvävnader beroende på i vilket land de är producerade. Även \n\nom alla är Kelim, vävs Kelimmattor på olika sätt i olika länder. Förutom att Kelim tillverkas i \n\nolika länder, används Kelim till annat också än bara mattor. De används även till möbler, \n\nkuddar gardiner bland andra. På marknaden finner man som sagt olika sorters Kelim. \n\nSkillnaden mellan olika länders Kelim kan man se här nedan: \n\n \n\n \n\n \n\n\n\n \n \n\n        (Turkisk Kelim)                                            (Afghansk Kelim) \n\n \n\nKälla till båda bilder: https://www.carpetvista.se/swe/Kelim/ \n\n \nDet man som tittare reagerar på först när de ser på två bilderna ovan är att den turkiska Kelim-\n\nmattan kostar betydligt mer än den afganska. Utseendemässigt ser afghanska Kelim ljusare ut \n\nän turkiska som har mörkare färger i. Den afghanska Kelim vi ser på bilden har ljusa och \n\nglada färger och ser därför finare ut enligt min åsikt. Förutom färgen, ser man även fransar på \n\nden turkiska Kelimen som man inte ser på den afghanska. Precis som den persiska Kelimen, \n\nhar även den Kaukasiska Kelimen fransar. \n\nVarför den turkiska Kelim mattan kostar ungefär dubbelt så mycket på marknaden som den \n\nafganska har jag inte riktigt lyckats hitta svaret på. Kanske är det kvalitén på vävningen som \n\ndet är skillnad på, eller så är det nog att den turkiska Kelimen är mer populär och därmed \n\ndyrare. På internet kunde jag hitta att en Iransk kelim kostar cirka 2000 kronor på Ikea, där \n\nmattan är 180cm lång och 125cm bredd. På mattkompaniet.se kunde jag dock se hur priserna \n\npå den persiska mattan varierar, dels beroende på storleken på mattan, dels beroende på \n\nmönstren på mattan. Vissa mattor som det är mycket mer mönster på kostar över",
+          "5000, medan \n\nmattor med färre mönster kostar mellan 1000-4000 spänn (http://www.mattkompaniet.se/). \n\n \n\nJag tycker att det är intressant hur mycket priset kan variera, även om alla är gjorda i samma \n\nland. Mattor med ljusare och tydliga mönster i kostar i princip alltid mer än de med otydliga \n\nmönster där mönstren inte fångar köparens intresse. En bra kelim kostar förstås mer, och \n\ngenom att ha högt pris ges oftast en signal till köparen att mattan är av bra kvalitét. \n\nFörutom persisk, afghansk och turkisk Kelim, grävde jag även fram moldavisk Kelim. Jag \n\nmåste erkänna att jag blev lite förvånad faktiskt över att läsa på olika hemsidor om att Kelim- \n\nmattor även existerar i Moldavien. Hur kan man känna igen en Moldavisk Kelim utifrån dess \n\nmönster? Jo, de moldaviska kelimerna är lätta att känna igen, mycket tack vare de speciella \n\nrosenmönstren som präglar mattorna. Dessa så kallade rosenkelimer har ofta något mörkare \n\nbottenfärger och rosorna går i rött och rosa med gröna inslag i bladen. Att den moldaviska \n\nkelimen är lätt att känna igen beror alltså på att den dels ser helt annorlunda ut. Här nedan kan \n\nman se hur en Moldavisk Kelim ser ut: \n\n\n\n\n\n \n(Bilderna tagna efter sökningen på Google-bilder) \n\nOavsett hur mycket man än skulle försöka, skulle det aldrig gå att blanda ihop Moldavisk \n\nKelim med, till exempel persisk Kelim. Det typiska med Moldaviska Kelim är som jag \n\nanmärkte innan, att rosor på mattan förekommer i alla Moldaviska Kelim. På den persiska \n\nmattan som jag valde att titta närmare på från Världskulturmuseet, fanns det inga rosor eller \n\nblommor utan det var andra mönster såsom kvadrater och andra typer av fyrkantiga former, \n\nmest i form av romber, eller i diamantformen som man också kan beskriva den \n\nmönsterformen som. Hade det lagts ner hundra olika små kelim-mattor och om det endast \n\nhade funnits en enda moldavisk matta bland dem, tror jag att de flesta skulle ha pekat ut den \n\nså fort de hade fått syn på den. \n\nSom jag påpekade lite tidigare så förekommer Kelim-mattorna i en mängd olika mönster och \n\nfärger där mönstren oftast ser rektangulära ut och ibland är gjorda med spetsiga detaljer. Och \n\ndetta har förstås med vävtekniken att göra. Trots att det idag är stor efterfrågan på kelimer är \n\ndet inte ofta man ser kelimer i svenska hushåll. Detta baserar jag på de många hushållen som \n\njag har vart inne i och sett med mina egna ögon. Men när det gäller varför det är stor \n\nefterfrågan på kelimer idag är det på grund av att Kelimer lätt passar in i stilrena och \n\nminimalistiska miljöer (http://www.alltommattor.se/pages/Kategorier/Kelimer-1115.html). \n\n \n\nNär det gäller användningsområden för Kelim på andra håll i världen, är det oftast man ser i \n\nIran och Afghanistan bland andra, att Kelim-mattor hänger på väggar. Man har alltså mattor \n\nhängandes på väggarna istället för tavlor. Jag som är född och uppväxt i ett hus där det är \n\nnormalt att folk gör så, tycker inte att det är något konstigt med det. Dock har jag stött på \n\nnågra som tycker det är lustigt och även dumt att hänga mattor på väggar. På ett sätt kan man \n\nförstå dem, dock tror jag inte de hade haft samma åsikt och tankar om det om de också hade \n\nvuxit upp i ett hus med Kelim-mattor hängande på väggarna. Det är kulturen och livsstilen \n\nsom ligger bakom detta. Förutom mattor, används Kelim även till sängöverkast och till \n\nkuddar, för att skapa en orientalisk stämning i hemmet. \n\nJag tycker det var både enkelt och svårt samtidigt att samla ihop information om Kelim. Om \n\nman ska börja med det enkla, så var det min vilja och intresset för Kelimmattorna som gjorde \n\ndet enkelt för mig att söka efter fakta och information om just mitt föremål. Dock stötte jag på \n\nlite problem när det gäller att hitta litteratur om Kelim. Boken Kilim The Complete Guide var",
+          "det enda boken jag hittade något om Kelim i. Jag sökte på Geovetarcentrum och även i HDK:s \n\nkonstbibliotek efter böcker som berörde Kelim, dock utan något resultat. Det enda jag hittade \n\n\n\n\npå HDK var samma bok som jag hade lånat på världskulturmuseet, nämligen boken ” Kilim \nThe Complete Guide”. \n\nNär jag undersökte mitt föremål satt jag den allra första dagen på Världskulturmuseet och \n\nförsökte titta noga på de fantastiska mönstren på Kelim-mattan. Jag blev både imponerad och \n\nglad samtidigt, av att det finns folk som har tålamod och vilja att producera sådana fantastiska \n\nmattor som finns i många länder runt om i världen. \n\nMitt val av föremål var som jag skrev tidigare, väldigt enkelt. När jag först kikade över de \n\nandra föremålen, föll inte min blick på något intressant. Det var när jag fick syn på \n\nKelimmattan som blicken fastnade och jag är glad över mitt val och tycker att jag har lärt mig \n\nmer om Kelim, framförallt att det även finns Moldavisk Kelim, vilket jag ska försöka hitta i \n\nnågon butik i verkliga livet eftersom jag ännu bara har sett den på bilder. Jag tycker att Kelim \n\nhar ett värde i mångas hushåll och det finns även folk jag känner som har sparade mattor från \n\nsina gamla släktingar som har dött. Att kunna ha möjlighet att spara något som ens \n\nfarföräldrar hade, tror jag har stor betydelse för personens liv. När jag av ren nyfikenhet sökte \n\nefter priser på Kelimmattor för att se hur dyra de kan vara, blev jag överraskad när jag såg en \n\nBulgarisk Kelim med värde 165 000 kronor. \n\nVilka material använder man när man tillverkar Kelim?  \n\n \n\nPå hemsidan alltommattor.se kunde jag läsa om Kelimens material och tillverkningsteknik. \n\nMan kan även läsa att Persiska Kelimer bland andra tillverkas främst av nomader och görs \n\nbåde som mattor och väskor, och att i Kelim används uteslutande naturliga material som ull \n\nvid tillverkningen. Och ibland görs finare kelimer även med inslag av silke. När det gäller \n\nfärgningen av garnet är det med växter och mineraler som Kelimmattorna får sina naturliga \n\noch fina färger. \n\nHur långt bakåt i tiden ska man gå när man ska prata om Kelims historia?  \n\nDet finns inget exakt år när det gäller när Kelim började tillverkas men från utgrävningar och \n\nundersökningar av gravar kan vi idag veta att vävda textilier har funnits och tillverkats i mer \n\nän 4 tusen år tillbaka. Att det var just i Asien och Mellanöstern som flera textila tekniker \n\nutvecklades mycket tidigt, är ingen hemlighet. Även till Indien och Pakistan bland många \n\nländer, har Kelim spritt sig och blivit populära.  \n\nJag har lyckats komma i kontakt med två av mina iranska kompisar genom sociala medier för \n\natt fråga dem om hur populärt Kelim är i Iran idag och av båda personerna fick jag ungefär \n\nsamma svar - att Kelim är ett mycket trendigt och kulturellt föremål som de flesta i Persien \n\nhar hängande på väggarna. Den ena kompisen pratade även om hur han såg hur trendigt det \n\nvar med mattor mot väggarna, vid ett i besök i Iran i somras. \n\nSå med det som slutsats kan man konstatera att Kelims historia har än idag inte tagit slut, och \n\neftersom Kelim är mycket efterfrågad som prydnad på väggen än idag är det omöjligt att veta \n\nnär den iranska befolkningen kommer börja leva ett liv med utan kelim-mattor hängandes mot \n\nväggen eller på golvet. \n\n \n\n \n\n \n\n \n\n\n\n\n \nLitteraturkällor: \n\nHull, Alastair & Jose Luczyc-Wyhowska, Kilim The Complete Guide (kap.2 & 7), London: \n\nThames & Hudson Ltd (2000) \n\n \n\nInternetkällor: \n\nhttp://blogg.vasabladet.fi/inredning/2012/08/21/kelim/ \n\nhttp://www.arhan.se/se/sortiment/kelim/ \n\nhttp://www.alltommattor.se/pages/Kategorier/Kelimer-1115.html \n\nhttp://www.tanersmattor.se/getpage.asp?do=% HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do=%7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D%7d\"  \n\n\"http://www.tanersmattor"
+        ],
+        "en": [
+          ".se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d \"7B1B57F63D-C8C7-440E-9457-2E2C305D978D% 7D \n\nhttp://www.ikea.com \n\nhttp://www.mattkompaniet.se / \n\nhttp://www.riksvav.se/kronobergvav/y10/dec10.html\n\nImage sources: \n\nhttps://www.carpetvista.se/mats/Kelim/matta _ 254565-Kelim _ Afghan _ Old _ style.html \n\nhttps://www.carpetvista.se/mats/Kelim/matta _ 140513-Kelim _ Konya _ Semiantik.html \n\nhttp://www.shopalike.se/hemtextil/mats/kelimer /?variety = price _ desc",
+          "Kelim (Kilim) \nThe word Kelim comes from peach cornice, which means coarse-woven felt. In Turkish it is called for \n\nKilim On the Internet, it can be read that Kelim was described as “Hand-woven magic” and it is not that difficult \nto understand why. When you just look at the Persian Kelim mat, you can see wonderfully fine \n\ngeometric patterns. It’s fascinating to see how these patterns are woven, and I’m sure \n\nThat an “ordinary Svensson” had little difficulty in weaving this Persian Kelim carpet. \nIt is mostly women who are holding Kelim in Iran. All books and articles find \n\nwomen who work with Kelim weaving and I have seen no male worker as \nagree. \n\nKelim is the name of the object but it is also worth \n\npoint out that the word Kelim is also the name of the technology \n\nused in manufacturing; a weaving technique \n\ncommon in Arab and Muslim tradition. A Kelim-\n\nsimilar related weaving technology has also been found in \n\nSweden under the name of the Role. Kelim means \"rough \nfelt “while the roll cake originally means” back\nSheet’. \n\nIn the book “Kilim The Complete Guide,” written by \nThames and Hudson 1993, I could read about it \n\nnot only in Iran is Kelim manufactured, but technology \n\nis also present in the Caucasus. It was when it was mentioned \n\nThe “Caucasus” as my interest in the Kelim carpets \nincreased even more. I myself have had such similar \n\ncarpets hanging on walls. Just the patterns that man \n\ncan see on the Kelim carpet I felt directly again already \n\nat first glance. I knew I wanted to work with \n\nthat carpet because I felt a kind of closeness to it. \n\nThat said, I myself had a similar carpet when I \n\nwas small and has since had an interest in similar \n\ncarpets, in this context Kelim.  \n\nPersian Kelim there are infinitely many different shapes and colors. The picture on the left sees \n\nman a hand-woven Persian Kelim with geometric patterns. But it is not only in Iran that \n\nKelim is manufactured. There are also Turkish, Afghan and Moldovan Kelim among others. However \n\none sees great differences on Kelim tissues depending on the country they are produced. Even \n\nIf everyone is Kelim, Kelimmattor is woven differently in different countries. In addition to Kelim being manufactured in \n\ndifferent countries, Kelim is used for other things also than just carpets. They are also used for furniture, \n\npillows curtains among others. As I said, the market finds different kinds of Kelim. \n\nThe difference between the different countries Kelim can be seen here below:\n\n        (Turkish Kelim) (Afghan Kelim)\n\nSource of both pictures: https://www.carpetvista.se/swe/Kelim /\nWhat viewers react to only when they look at two pictures above is that the Turkish Kelim-\n\nThe carpet costs significantly more than the Afghan. Appearance looks Afghan Kelim brighter \n\nthan Turkish with darker colours. The Afghan Kelim we see in the picture has bright and \n\ncheerful colours and therefore look finer in my opinion. In addition to the colour, one also sees fringes on \n\nthe Turkish Kelimen that one does not see in the Afghan. Like the Persian Kelimen \n\nalso has the Caucasian Kelimen lashes. \n\nWhy the Turkish Kelim carpet costs about twice as much on the market as the \n\nI have not really managed to find the answer. Perhaps it is the quality of weaving that \n\nthere is a difference, or it is enough that the Turkish Kelimen is more popular and thus \n\nmore expensive. On the internet I could find that an Iranian kelim costs about 2000 kroner at Ikea, where \n\nThe carpet is 180cm long and 125cm wide. On math companiet.se, however, I could see how prices \n\non the Persian carpet varies, depending on the size of the carpet and depending on \n\nthe patterns on the carpet. Some carpets on which there is much more pattern",
+          "5000, while \n\nCarpets with fewer patterns cost between 1000-4000 buckles (http://www.mattkompaniet.se /).\n\nI think it’s interesting how much the price can vary, even if everyone is made in the same \n\ncountry. Carpets with lighter and clear patterns in basically always cost more than those with unclear \n\npatterns where the patterns do not capture the buyer’s interest. A good kelim is more costly, and \n\nby having a high price, a signal is usually given to the buyer that the carpet is of good quality. \n\nIn addition to Persian, Afghan and Turkish Kelim, I also dug Moldovan Kelim. I \n\nmust admit that I was a little surprised actually to read on different websites that Kelim- \n\ncarpets also exist in Moldova. How to recognize a Moldovan Kelim from its \n\npatterns? Jo, the Moldovan Kelims are easy to recognize, much thanks to the special \n\nthe rose patterns that characterize the carpets. These so-called Rosaries often have some darker \n\nbottom colours and the roses go in red and pink with green touches in the leaves. That the Moldovan \n\nThe chelime is easily recognizable is thus because it looks quite different. Here below \n\nA Moldovan Kelim looks like:\n(The pictures taken after the search on Google images) \n\nNo matter how much one would try, it would never be possible to mix Moldovan together \n\nKelim with, for example, Persian Kelim. The typical thing about Moldovan Kelim is like me \n\nnoted before, that roses on the carpet appear in all Moldovan Kelim. In the Persian \n\nthe carpet that I chose to look more closely at from the World Museum of Culture, there were no roses or \n\nflowers without it were other patterns such as squares and other types of square shapes, \n\nmost in the form of a rhombus, or in the diamond shape that one can also describe it \n\nthe pattern shape. Had it laid down a hundred different small kelim mats and if only \n\nhad been a single Moldovan carpet among them, I think most people would have pointed it out \n\nas soon as they had seen it. \n\nAs I pointed out a little earlier, the Kelim rugs occur in a variety of patterns and \n\ncolours where the patterns usually look rectangular and are sometimes made with pointed details. And \n\nthis is understood by the weaving technique to do. Although today there is great demand for kelims is \n\nit is not often seen in Swedish households. I base this on the many households that \n\nI have been in and seen with my own eyes. But when it comes to why it’s big \n\nthe demand for kelimer today is due to the fact that Kelimer easily fits into the style and \n\nminimalist environments (http://www.järommattor.se/pages/Categories/Kelimer-1115.html).\n\nWhen it comes to uses for Kelim elsewhere in the world, it is most often seen in \n\nIran and Afghanistan among others, that Kelim carpets hang on walls. There are therefore carpets \n\nhanging on the walls instead of boards. I born and raised in a house where it is \n\nnormal for people to do so, don’t think there’s anything strange about it. However, I’ve encountered \n\nsome who find it hilarious and also stupid to hang carpets on walls. In a way you can \n\nunderstand them, however, I don’t think they had the same opinion and thoughts about it if they also had \n\ngrown up in a house with Kelim carpets hanging on the walls. It’s culture and lifestyle \n\nbehind it. In addition to carpets, Kelim is also used for bedspreads and for \n\npillows, to create an oriental mood in the home. \n\nI find it both simple and difficult at the same time to gather information about Kelim. About \n\none should start with the simple, so was it my will and the interest in the Kelimmattas that made \n\nit easy for me to search for facts and information about my particular object. However, I encountered \n\na little trouble in finding literature about Kelim. The book Kilim The Complete Guide was",
+          "the only book I found something about Kelim in. I searched GeovetarJag and also in HDK \n\nart library after books that touched Kelim, though without any result. The only thing I found \n\n\n\n\nat HDK was the same book that I had borrowed at the World Museum of Culture, namely the book \"Kilim \nThe Complete Guide’. \n\nWhen I examined my object, I sat on the very first day at the World Museum of Culture and \n\ntried to look closely at the amazing patterns on the Kelim carpet. I was both impressed and \n\nhappy at the same time, of the fact that there are people who have the patience and the will to produce such amazing \n\ncarpets found in many countries around the world. \n\nMy choice of objects was as I wrote before, very simple. When I first peeked over they \n\nother objects, did not my gaze fall on anything interesting. It was when I got my sight on \n\nThe Kelime mat that the gaze stuck and I am happy about my choice and I find myself learning \n\nmore about Kelim, especially that there is also Moldovan Kelim, which I will try to find in \n\nsome store in real life because I have yet only seen it in pictures. I think Kelim \n\nhas a value in a moon gas household and there are also people I know who have saved carpets from \n\ntheir old relatives who have died. To be able to save something like even \n\ngrandparents had, I think has great significance for the person’s life. When I sought from pure curiosity \n\nafter prices on Kelimmattor to see how expensive they can be, I was surprised when I saw one \n\nBulgarian Kelim with a value of 165.000 kroner. \n\nWhat materials do you use when making Kelim?\n\nOn the homepage allommattor.se I could read about Kelimen’s material and manufacturing technology. \n\nIt can also be read that Persian Celims are made mainly from nomads and made \n\nboth as carpets and bags, and in Kelim natural materials are used exclusively as wool \n\nin manufacturing. And sometimes finer kelims are made even with elements of silk. As regards \n\nThe staining of the yarn is the one with plants and minerals that the Kelimmattas get their natural \n\nand fine colours. \n\nHow far back in time to talk about Kelim’s history?  \n\nThere is no exact year when Kelim started to be manufactured but from excavations and \n\nstudies of graves we can know today that woven textiles have been present and manufactured in more \n\nthan 4 thousand years back. That it was precisely in Asia and the Middle East that several textile technologies \n\ndeveloped very early, is no secret. Even to India and Pakistan among many \n\ncountries, Kelim has spread and become popular.  \n\nI have managed to get in touch with two of my Iranian mates through social media for \n\nTo ask them about how popular Kelim is in Iran today and of both people I got about \n\nThe same answer - that Kelim is a very trendy and cultural object like most people in Persia \n\nhas a hanging on the walls. One friend also talked about how he saw how trendy it \n\nwas with carpets against the walls, during a visit to Iran this summer. \n\nSo with that conclusion it can be seen that Kelim’s history has not yet come to an end, and \n\nSince Kelim is much in demand as an ornament on the wall than today, it is impossible to know \n\nwhen the Iranian population comes to live a life with no kelim carpets hanging against \n\nthe wall or on the floor.\nLiterature sources: \n\nHull, Alastair & Jose Luczyc-Wyhowska, Kilim The Complete Guide \n\nThames & Hudson Ltd (2000)\n\nInternet sources: \n\nhttp://blogg.vasabladet.fi/interior/2012/08/21/kelim / \n\nhttp://www.arhan.se/se/assortment/kelim / \n\nhttp://www.alltommattor.se/pages/Categories/Kelimer-1115.html \n\nhttp://www.tanersmattor.se/getpage.asp?do =% HYPERLINK \n\n\"http://www.tanersmattor.se/getpage.asp?do =% 7b1B57F63D-C8C7-440E-9457-\n\n2E2C305D978D% 7d'  \n\n\"http://www.tanersmattor"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "föremålsanalys"
+        ],
+        "en": [
+          "object analysis"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2884"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Urkunde"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Uppbud"
+        },
+        {
+          "def": "Lainhuuto"
+        },
+        {
+          "def": "Акт"
+        },
+        {
+          "def": "Τίτλος"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Akts"
+        },
+        {
+          "def": "Deed"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Okirat"
+        },
+        {
+          "def": "Escritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Eskritura"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Listina"
+        },
+        {
+          "def": "Gníomhas"
+        },
+        {
+          "def": "Dokument"
+        },
+        {
+          "def": "Bekendtgørelse"
+        },
+        {
+          "def": "Certificat"
+        },
+        {
+          "def": "Oorkonde"
+        },
+        {
+          "def": "Escriptura"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Urkunde"
+        ],
+        "ru": [
+          "Акт"
+        ],
+        "sv": [
+          "Uppbud"
+        ],
+        "fi": [
+          "Lainhuuto"
+        ],
+        "bg": [
+          "Акт"
+        ],
+        "el": [
+          "Τίτλος"
+        ],
+        "en": [
+          "Deed"
+        ],
+        "lv": [
+          "Akts"
+        ],
+        "it": [
+          "Deed"
+        ],
+        "fr": [
+          "Certificat"
+        ],
+        "hu": [
+          "Okirat"
+        ],
+        "es": [
+          "Escritura"
+        ],
+        "cs": [
+          "Listina"
+        ],
+        "eu": [
+          "Eskritura"
+        ],
+        "sk": [
+          "Listina"
+        ],
+        "sl": [
+          "Listina"
+        ],
+        "ga": [
+          "Gníomhas"
+        ],
+        "pl": [
+          "Dokument"
+        ],
+        "da": [
+          "Bekendtgørelse"
+        ],
+        "ro": [
+          "Certificat"
+        ],
+        "nl": [
+          "Oorkonde"
+        ],
+        "ca": [
+          "Escriptura"
+        ]
+      },
+      "edmDatasetName": [
+        "91670_SwedishNationalHeritage_smvk_vkm_arkiv"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/2373071"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/blob/2373080/LSK1998.11.0487.pdf"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fblob%2F2373080%2FLSK1998.11.0487.pdf&type=TEXT"
+      ],
+      "europeanaCollectionName": [
+        "91670_SwedishNationalHeritage_smvk_vkm_arkiv"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91670/SMVK_VKM_arkiv_2373071?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91670/SMVK_VKM_arkiv_2373071",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91670/SMVK_VKM_arkiv_2373071.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 15.792107,
+      "timestamp": 1752038301246,
+      "timestamp_created": "2022-10-21T13:43:27.764Z",
+      "timestamp_created_epoch": 1666359807764,
+      "timestamp_update": "2022-10-21T13:43:27.764Z",
+      "timestamp_update_epoch": 1666359807764,
+      "title": [
+        "föremålsanalys",
+        "object analysis"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_1",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_1",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph (not a painting/manuscript) documenting a Persian carpet's floral medallion pattern, a textile object made by Persian weavers; it fits the claimed ethnicity but not the stated category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-1_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7fbd52315a4dc8e209d26867782e389974184206a8b2e9f7eed20c3cbb796dbe",
+        "bytes": 187204,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:08.802468+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170394"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-1_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-1_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_1",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_1.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 49.841576,
+      "timestamp": 1752015222247,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_10",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_10",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_10?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph documenting a Persian carpet's detailed floral/medallion pattern, made and used within Persian culture — the category label is wrong (it's a photo, not a manuscript/painting) but the ethnicity attribution fits.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-10_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "643d3e643d1a913e783842f25889e7f60a524cd3f325214d183709381320f363",
+        "bytes": 160279,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:09.370728+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170406"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-10_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-10_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_10?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_10",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_10.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 50.133377,
+      "timestamp": 1752015222338,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_11",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_11",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_11?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph of a Persian carpet's floral corner ornamentation from the Archduke Leopold collection—a woven textile, not a painting or manuscript, but clearly an object made and used by Persian weavers.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-11_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c1130f7cfb6572bc27cd1ed8738150624a1e8d880284024a5a12f6b5f25542fc",
+        "bytes": 183312,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:10.009487+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170407"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-11_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-11_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_11?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_11",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_11.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 50.17621,
+      "timestamp": 1752015222474,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_12",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_12",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_12?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph of a Persian carpet's central medallion, made by/for Persian weaving tradition (from the Archduke Leopold collection); it fits Persian material culture despite being catalogued under \"painting-mss,\" which is the wrong art form for a textile photo.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-12_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "104cd81f0afde9a2d9c7631e60e572140b61bfa14816e507b9f8d753061a14f5",
+        "bytes": 166100,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_12.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:10.598382+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "deu",
+        "de"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "deu",
+          "de"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170408"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-12_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-12_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_12?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_12",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_12.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 49.841576,
+      "timestamp": 1752015222617,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)",
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_13",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_13",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_13?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photograph documents a Persian carpet's corner detail with floral medallion ornament, once owned by Archduke Leopold — this is a textile object, not a painting/manuscript as claimed, but it clearly belongs to the Persian tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-13_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "34464e25ae07fa0897b44e76ed52dad0efe630688870431601797e224bb3302d",
+        "bytes": 165264,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:11.188386+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170409"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-13_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-13_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_13?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_13",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_13.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 49.841576,
+      "timestamp": 1752015222725,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)",
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_14",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_14",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_14?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph (not a painting/manuscript) of a Persian carpet with a central medallion and floral ornament, from Archduke Leopold's collection — a genuine Persian textile in image form.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-14_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4ce28547d8f8b2c9913213d5a3c027fb3374a0bc3756e7433066ed35073e4e6a",
+        "bytes": 174477,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:11.724126+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170410"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-14_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-14_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_14?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_14",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_14.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 49.841576,
+      "timestamp": 1752015222931,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)",
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-15514_KI_3994_15",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "MAK – Museum of Applied Arts",
+      "object_id": "15514_KI_3994_15",
+      "object_url": "https://www.europeana.eu/item/15514/KI_3994_15?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a photograph (albumen print) documenting the detail of a Persian carpet with floral ornament and central medallion, once in the Archduke Leopold collection; it belongs to Persian material culture (a woven textile), though the object itself is a photo, not a manuscript painting.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "photo",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1873-1882"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "MAK – Museum of Applied Arts",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-15_1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2d992f149f854985b726d08940dc386d7adb0a9cdfeb95b8ca359855a7c252dc",
+        "bytes": 174601,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_15514_KI_3994_15.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:12.264974+00:00",
+    "raw": {
+      "completeness": 8,
+      "country": [
+        "Austria"
+      ],
+      "dataProvider": [
+        "MAK – Museum of Applied Arts"
+      ],
+      "dcLanguage": [
+        "de",
+        "deu"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "de",
+          "deu"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)"
+        ],
+        "en": [
+          "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/48",
+        "http://data.europeana.eu/concept/1692",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminpapierabzug"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Альбуминовая печать"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Papel albuminado"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "Papier albuminé"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Albuminpapíros eljárás"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Albuminski tisk"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Còpia a l'albúmina"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Albuminfotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "Albumen print"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Stampa all'albumina"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "Copia a la albúmina"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albumiinfoto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Albuminový papír"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Odbitka albuminowa"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Albuminedruk"
+        },
+        {
+          "def": "foto's"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Albuminpapierabzug",
+          "Foto"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "ru": [
+          "Фотография",
+          "Альбуминовая печать"
+        ],
+        "pt": [
+          "Papel albuminado",
+          "Fotografia",
+          "fotografias (obras visuais)"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "Photographie",
+          "Papier albuminé"
+        ],
+        "hu": [
+          "Fénykép",
+          "Albuminpapíros eljárás"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija",
+          "Albuminski tisk"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Fotografia",
+          "Còpia a l'albúmina"
+        ],
+        "sv": [
+          "Fotografi",
+          "Albuminfotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "Albumen print",
+          "photographs",
+          "Photograph"
+        ],
+        "it": [
+          "fotografie",
+          "Fotografia",
+          "Stampa all'albumina"
+        ],
+        "es": [
+          "fotografías (obra visual)",
+          "Fotografía",
+          "Copia a la albúmina"
+        ],
+        "et": [
+          "Albumiinfoto",
+          "Foto"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "cs": [
+          "Albuminový papír",
+          "Fotografie"
+        ],
+        "pl": [
+          "Fotografia",
+          "Odbitka albuminowa"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Foto",
+          "Albuminedruk"
+        ]
+      },
+      "edmDatasetName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "edmIsShownAt": [
+        "https://sammlung.mak.at/sammlung_online?id=collect-170411"
+      ],
+      "edmIsShownBy": [
+        "https://sammlung.mak.at/img/1200x1200/publikationsbilder/ki-3994-15_1.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Вена"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Βιέννη"
+        },
+        {
+          "def": "Beč"
+        },
+        {
+          "def": "Vienna"
+        },
+        {
+          "def": "Vienne"
+        },
+        {
+          "def": "Bécs"
+        },
+        {
+          "def": "Vídeň"
+        },
+        {
+          "def": "Dunaj"
+        },
+        {
+          "def": "Vín"
+        },
+        {
+          "def": "Wiedeń"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wenen"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Wien"
+        ],
+        "fi": [
+          "Wien"
+        ],
+        "sv": [
+          "Wien"
+        ],
+        "ru": [
+          "Вена"
+        ],
+        "pt": [
+          "Viena"
+        ],
+        "el": [
+          "Βιέννη"
+        ],
+        "en": [
+          "Vienna",
+          "Vienna"
+        ],
+        "hr": [
+          "Beč"
+        ],
+        "it": [
+          "Vienna"
+        ],
+        "fr": [
+          "Vienne"
+        ],
+        "hu": [
+          "Bécs"
+        ],
+        "cs": [
+          "Vídeň"
+        ],
+        "sl": [
+          "Dunaj"
+        ],
+        "ga": [
+          "Vín"
+        ],
+        "pl": [
+          "Wiedeń"
+        ],
+        "da": [
+          "Wien"
+        ],
+        "ca": [
+          "Viena"
+        ],
+        "nl": [
+          "Wenen"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Wien"
+        },
+        {
+          "def": "Виена"
+        },
+        {
+          "def": "Viedeň"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viena"
+        },
+        {
+          "def": "Viin"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Wien",
+          "Wien"
+        ],
+        "no": [
+          "Wien"
+        ],
+        "bg": [
+          "Виена"
+        ],
+        "sk": [
+          "Viedeň"
+        ],
+        "lt": [
+          "Viena"
+        ],
+        "ro": [
+          "Viena"
+        ],
+        "es": [
+          "Viena",
+          "Viena"
+        ],
+        "et": [
+          "Viin"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "48.2066",
+        "48.20849"
+      ],
+      "edmPlaceLongitude": [
+        "16.37341",
+        "16.37208"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlung.mak.at%2Fimg%2F300x300%2Fpublikationsbilder%2Fki-3994-15_1.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1873-1882"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "def": [
+          "1873-1882"
+        ]
+      },
+      "europeanaCollectionName": [
+        "15514_Ag_AT_Kulturpool_MAK"
+      ],
+      "europeanaCompleteness": 8,
+      "guid": "https://www.europeana.eu/item/15514/KI_3994_15?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/15514/KI_3994_15",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/15514/KI_3994_15.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Kulturpool"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 49.841576,
+      "timestamp": 1752015223056,
+      "timestamp_created": "2020-04-29T16:47:56.156Z",
+      "timestamp_created_epoch": 1588178876156,
+      "timestamp_update": "2023-02-13T15:37:53.434Z",
+      "timestamp_update_epoch": 1676302673434,
+      "title": [
+        "Fotografie eines Details eines persischen Teppichs mit Blumenornamenten aus dem Besitz des Erzherzogs Leopold (vom Bearbeiter vergebener Titel)",
+        "Photograph of a detail of a Persian carpet with flower ornaments from the possession of Archduke Leopold (vom BeFotogravergebener Titel)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-440_item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Deutsche Fotothek",
+      "object_id": "440_item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP",
+      "object_url": "https://www.europeana.eu/item/440/item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "Persian Iran",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European (German/Dutch) copper engraving depicting the royal palace and bridge at Isfahan, made by a Western artist for a European architectural compendium—an outsider's depiction rather than Persian-made art.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Design of a Historical Architecture. Book 3, Of some buildings, the Arabs and Turks; as well as new Persian, Siamitic, Sinesian, and Japonesian construction = De quelques Bâtimens des Arabes & des Turcs; comme außi de l 'Architecture Persanne Buch, Siamoise, Chinoise, et Japonoise",
+      "titles_alt": [],
+      "date_text": {
+        "def": "2017"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Deutsche Fotothek",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_dat_0015963.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "160e46f6999802286121a91d76afe61241a762a9ce702564caf4e81b6968743a",
+        "bytes": 74497,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\painting-mss\\persian-iran\\images\\eu_440_item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:13.970811+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Germany"
+      ],
+      "dataProvider": [
+        "Deutsche Fotothek"
+      ],
+      "dcDescription": [
+        "\"Vüe du Palais des Rois de Perse à Isfahan... Vüe du grand Pont Isfahan... Coupe du Pont Alverdy- Chan... \"(Palace and Bridge in Isfahan) copper engraving. Table IX from: [Design Drawing of a Historical Architecture]. Book 3, Of some buildings, the Arabs and Turks; as well as new Persian, Siamitic, Sinesian, and Japonesian construction = De quelques Bâtimens des Arabes & des Turcs; comme außi de l 'Architecture Persanne Buch, Siamoise, Chinoise, et Japonoise., 1725 Dresden: SLUB 1.D.31",
+        "\"Vüe du Palais des Rois de Perse à Isfahan  ... Vüe du grand Pont Isfahan... Coupe du Pont Alverdy- Chan ...\" (Palast und Brücke in Isfahan) Kupferstich. Tafel IX aus: [Entwurff Einer Historischen Architectur]. Buch 3, Von einigen Gebäuden, der Araber und Türcken; wie auch neuen Persianischen, Siamitischen, Sinesischen, und Japonesischen Bau-art = De quelques Bâtimens des Arabes & des Turcs; comme außi de l'Architecture Persanne moderne, Siamoise, Chinoise, et Japonoise., 1725 Dresden: SLUB 1.D.31",
+        "in color, quer"
+      ],
+      "dcDescriptionLangAware": {
+        "de": [
+          "\"Vüe du Palais des Rois de Perse à Isfahan  ... Vüe du grand Pont Isfahan... Coupe du Pont Alverdy- Chan ...\" (Palast und Brücke in Isfahan) Kupferstich. Tafel IX aus: [Entwurff Einer Historischen Architectur]. Buch 3, Von einigen Gebäuden, der Araber und Türcken; wie auch neuen Persianischen, Siamitischen, Sinesischen, und Japonesischen Bau-art = De quelques Bâtimens des Arabes & des Turcs; comme außi de l'Architecture Persanne moderne, Siamoise, Chinoise, et Japonoise., 1725 Dresden: SLUB 1.D.31",
+          "in color, quer"
+        ],
+        "en": [
+          "\"Vüe du Palais des Rois de Perse à Isfahan... Vüe du grand Pont Isfahan... Coupe du Pont Alverdy- Chan... \"(Palace and Bridge in Isfahan) copper engraving. Table IX from: [Design Drawing of a Historical Architecture]. Book 3, Of some buildings, the Arabs and Turks; as well as new Persian, Siamitic, Sinesian, and Japonesian construction = De quelques Bâtimens des Arabes & des Turcs; comme außi de l 'Architecture Persanne Buch, Siamoise, Chinoise, et Japonoise., 1725 Dresden: SLUB 1.D.31"
+        ]
+      },
+      "dcTitleLangAware": {
+        "de": [
+          "Entwurff Einer Historischen Architectur. Buch 3, Von einigen Gebäuden, der Araber und Türcken; wie auch neuen Persianischen, Siamitischen, Sinesischen, und Japonesischen Bau-art = De quelques Bâtimens des Arabes & des Turcs; comme außi de l'Architecture Persanne moderne, Siamoise, Chinoise, et Japonoise"
+        ],
+        "en": [
+          "Design of a Historical Architecture. Book 3, Of some buildings, the Arabs and Turks; as well as new Persian, Siamitic, Sinesian, and Japonesian construction = De quelques Bâtimens des Arabes & des Turcs; comme außi de l 'Architecture Persanne Buch, Siamoise, Chinoise, et Japonoise"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/94",
+        "http://data.europeana.eu/concept/3139",
+        "http://data.europeana.eu/concept/1876",
+        "http://data.europeana.eu/concept/2538",
+        "http://data.europeana.eu/concept/1846",
+        "http://data.europeana.eu/concept/2275"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Architektur"
+        },
+        {
+          "def": "Reiter"
+        },
+        {
+          "def": "Palast"
+        },
+        {
+          "def": "Druckgrafik"
+        },
+        {
+          "def": "Brücke"
+        },
+        {
+          "def": "Kupferstichdruck"
+        },
+        {
+          "def": "Arkkitehtuuri"
+        },
+        {
+          "def": "Ratsastaja"
+        },
+        {
+          "def": "Palatsi"
+        },
+        {
+          "def": "Grafiikka"
+        },
+        {
+          "def": "Silta"
+        },
+        {
+          "def": "Kuparipiirros"
+        },
+        {
+          "def": "Архитектура"
+        },
+        {
+          "def": "Наездник"
+        },
+        {
+          "def": "Дворец"
+        },
+        {
+          "def": "Эстамп"
+        },
+        {
+          "def": "Мост"
+        },
+        {
+          "def": "Гравирование на меди"
+        },
+        {
+          "def": "Arquitetura"
+        },
+        {
+          "def": "Equestre"
+        },
+        {
+          "def": "Palácio"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "Ponte"
+        },
+        {
+          "def": "Gravura em cobre"
+        },
+        {
+          "def": "Архитектура"
+        },
+        {
+          "def": "Дворец"
+        },
+        {
+          "def": "Печатна графика"
+        },
+        {
+          "def": "Мост"
+        },
+        {
+          "def": "Architektūra"
+        },
+        {
+          "def": "Rūmai"
+        },
+        {
+          "def": "Estampas"
+        },
+        {
+          "def": "Tiltas"
+        },
+        {
+          "def": "Arhitektura"
+        },
+        {
+          "def": "Palača"
+        },
+        {
+          "def": "Most"
+        },
+        {
+          "def": "Arhitektūra"
+        },
+        {
+          "def": "Jātnieks"
+        },
+        {
+          "def": "Pils"
+        },
+        {
+          "def": "Estamps"
+        },
+        {
+          "def": "Tilts"
+        },
+        {
+          "def": "Architecture"
+        },
+        {
+          "def": "Cavalier"
+        },
+        {
+          "def": "Palais"
+        },
+        {
+          "def": "Estampe"
+        },
+        {
+          "def": "Pont"
+        },
+        {
+          "def": "Chalcographie"
+        },
+        {
+          "def": "Építészet"
+        },
+        {
+          "def": "Sportlovas"
+        },
+        {
+          "def": "Palota"
+        },
+        {
+          "def": "Metszet"
+        },
+        {
+          "def": "Híd"
+        },
+        {
+          "def": "Rézmetszet"
+        },
+        {
+          "def": "Architektúra"
+        },
+        {
+          "def": "Jazdec"
+        },
+        {
+          "def": "Palác"
+        },
+        {
+          "def": "Most"
+        },
+        {
+          "def": "Arhitektura"
+        },
+        {
+          "def": "Jahač"
+        },
+        {
+          "def": "Palača"
+        },
+        {
+          "def": "Natis"
+        },
+        {
+          "def": "Most"
+        },
+        {
+          "def": "Bakrotisk"
+        },
+        {
+          "def": "Ailtireacht"
+        },
+        {
+          "def": "Marcach"
+        },
+        {
+          "def": "Pálás"
+        },
+        {
+          "def": "Prionta"
+        },
+        {
+          "def": "Droichead"
+        },
+        {
+          "def": "Arquitectura"
+        },
+        {
+          "def": "Genet"
+        },
+        {
+          "def": "Palau"
+        },
+        {
+          "def": "Estampa"
+        },
+        {
+          "def": "Pont"
+        },
+        {
+          "def": "Calcografia"
+        },
+        {
+          "def": "Arkitektur"
+        },
+        {
+          "def": "Ryttare"
+        },
+        {
+          "def": "Palats"
+        },
+        {
+          "def": "Tryck"
+        },
+        {
+          "def": "Bro"
+        },
+        {
+          "def": "Αρχιτεκτονική"
+        },
+        {
+          "def": "Αθλητής ιππασίας"
+        },
+        {
+          "def": "Ανάκτορο"
+        },
+        {
+          "def": "Εκτύπωση"
+        },
+        {
+          "def": "Γέφυρα"
+        },
+        {
+          "def": "Χαλκογραφία"
+        },
+        {
+          "def": "Arkitettura"
+        },
+        {
+          "def": "Palazz"
+        },
+        {
+          "def": "Pont"
+        },
+        {
+          "def": "Architecture"
+        },
+        {
+          "def": "Equestrian"
+        },
+        {
+          "def": "Palace"
+        },
+        {
+          "def": "Print"
+        },
+        {
+          "def": "Bridge"
+        },
+        {
+          "def": "Copper engraving print"
+        },
+        {
+          "def": "Architettura"
+        },
+        {
+          "def": "Cavaliere"
+        },
+        {
+          "def": "Palazzo"
+        },
+        {
+          "def": "Stampa"
+        },
+        {
+          "def": "Ponte"
+        },
+        {
+          "def": "Calcografia"
+        },
+        {
+          "def": "Arquitectura"
+        },
+        {
+          "def": "Jinete hípico"
+        },
+        {
+          "def": "Palacio"
+        },
+        {
+          "def": "Estampado"
+        },
+        {
+          "def": "Puente"
+        },
+        {
+          "def": "Grabado en cobre"
+        },
+        {
+          "def": "Arhitektuur"
+        },
+        {
+          "def": "Ratsutaja"
+        },
+        {
+          "def": "Palee"
+        },
+        {
+          "def": "Trükipilt"
+        },
+        {
+          "def": "Sild"
+        },
+        {
+          "def": "Architektura"
+        },
+        {
+          "def": "Jezdec"
+        },
+        {
+          "def": "Palác"
+        },
+        {
+          "def": "Tisk"
+        },
+        {
+          "def": "Most"
+        },
+        {
+          "def": "Arkitektura"
+        },
+        {
+          "def": "Jauregi"
+        },
+        {
+          "def": "Zubi"
+        },
+        {
+          "def": "Architektura"
+        },
+        {
+          "def": "Jeździec"
+        },
+        {
+          "def": "Pałac"
+        },
+        {
+          "def": "Sztych"
+        },
+        {
+          "def": "Most"
+        },
+        {
+          "def": "Miedzioryt"
+        },
+        {
+          "def": "Arkitektur"
+        },
+        {
+          "def": "Rytter"
+        },
+        {
+          "def": "Palads"
+        },
+        {
+          "def": "Tryk"
+        },
+        {
+          "def": "Bro"
+        },
+        {
+          "def": "Kobberstik"
+        },
+        {
+          "def": "Arhitectură"
+        },
+        {
+          "def": "Călăreț"
+        },
+        {
+          "def": "Palat"
+        },
+        {
+          "def": "Stampă"
+        },
+        {
+          "def": "Pod"
+        },
+        {
+          "def": "Architectuur"
+        },
+        {
+          "def": "Ruiter"
+        },
+        {
+          "def": "Paleis"
+        },
+        {
+          "def": "Prent"
+        },
+        {
+          "def": "Brug"
+        },
+        {
+          "def": "Kopergravure"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Druckgrafik",
+          "Architektur",
+          "Reiter",
+          "Palast",
+          "Brücke",
+          "Kupferstichdruck"
+        ],
+        "fi": [
+          "Silta",
+          "Grafiikka",
+          "Arkkitehtuuri",
+          "Palatsi",
+          "Kuparipiirros",
+          "Ratsastaja"
+        ],
+        "ru": [
+          "Архитектура",
+          "Дворец",
+          "Гравирование на меди",
+          "Эстамп",
+          "Мост",
+          "Наездник"
+        ],
+        "pt": [
+          "Palácio",
+          "Estampa",
+          "Ponte",
+          "Equestre",
+          "Arquitetura",
+          "Gravura em cobre"
+        ],
+        "bg": [
+          "Архитектура",
+          "Дворец",
+          "Печатна графика",
+          "Мост"
+        ],
+        "lt": [
+          "Architektūra",
+          "Rūmai",
+          "Estampas",
+          "Tiltas"
+        ],
+        "hr": [
+          "Palača",
+          "Most",
+          "Arhitektura"
+        ],
+        "lv": [
+          "Pils",
+          "Arhitektūra",
+          "Tilts",
+          "Jātnieks",
+          "Estamps"
+        ],
+        "fr": [
+          "Cavalier",
+          "Pont",
+          "Architecture",
+          "Chalcographie",
+          "Estampe",
+          "Palais"
+        ],
+        "hu": [
+          "Sportlovas",
+          "Metszet",
+          "Rézmetszet",
+          "Palota",
+          "Építészet",
+          "Híd"
+        ],
+        "sk": [
+          "Architektúra",
+          "Most",
+          "Palác",
+          "Jazdec"
+        ],
+        "sl": [
+          "Natis",
+          "Palača",
+          "Most",
+          "Bakrotisk",
+          "Arhitektura",
+          "Jahač"
+        ],
+        "ga": [
+          "Ailtireacht",
+          "Pálás",
+          "Prionta",
+          "Marcach",
+          "Droichead"
+        ],
+        "ca": [
+          "Pont",
+          "Genet",
+          "Estampa",
+          "Palau",
+          "Arquitectura",
+          "Calcografia"
+        ],
+        "sv": [
+          "Tryck",
+          "Palats",
+          "Arkitektur",
+          "Bro",
+          "Ryttare"
+        ],
+        "el": [
+          "Αθλητής ιππασίας",
+          "Ανάκτορο",
+          "Εκτύπωση",
+          "Αρχιτεκτονική",
+          "Γέφυρα",
+          "Χαλκογραφία"
+        ],
+        "mt": [
+          "Pont",
+          "Arkitettura",
+          "Palazz"
+        ],
+        "en": [
+          "Print",
+          "Architecture",
+          "Copper engraving print",
+          "Equestrian",
+          "Palace",
+          "Bridge"
+        ],
+        "it": [
+          "Cavaliere",
+          "Palazzo",
+          "Architettura",
+          "Ponte",
+          "Stampa",
+          "Calcografia"
+        ],
+        "es": [
+          "Jinete hípico",
+          "Estampado",
+          "Arquitectura",
+          "Palacio",
+          "Puente",
+          "Grabado en cobre"
+        ],
+        "et": [
+          "Arhitektuur",
+          "Trükipilt",
+          "Sild",
+          "Palee",
+          "Ratsutaja"
+        ],
+        "cs": [
+          "Most",
+          "Palác",
+          "Tisk",
+          "Jezdec",
+          "Architektura"
+        ],
+        "eu": [
+          "Zubi",
+          "Arkitektura",
+          "Jauregi"
+        ],
+        "pl": [
+          "Miedzioryt",
+          "Most",
+          "Pałac",
+          "Jeździec",
+          "Sztych",
+          "Architektura"
+        ],
+        "da": [
+          "Tryk",
+          "Rytter",
+          "Palads",
+          "Kobberstik",
+          "Arkitektur",
+          "Bro"
+        ],
+        "ro": [
+          "Stampă",
+          "Călăreț",
+          "Pod",
+          "Arhitectură",
+          "Palat"
+        ],
+        "nl": [
+          "Ruiter",
+          "Prent",
+          "Paleis",
+          "Architectuur",
+          "Kopergravure",
+          "Brug"
+        ]
+      },
+      "edmDatasetName": [
+        "440_DDB_SLUB_2"
+      ],
+      "edmIsShownAt": [
+        "http://www.deutschefotothek.de/documents/obj/90092859"
+      ],
+      "edmIsShownBy": [
+        "http://fotothek.slub-dresden.de/fotos/df_dat_0015963.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Dresden"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Dresden"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Ffotothek.slub-dresden.de%2Ffotos%2Fdf_dat_0015963.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "2017"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "2017"
+        ]
+      },
+      "europeanaCollectionName": [
+        "440_DDB_SLUB_2"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/440/item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/440/item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP",
+      "index": 0,
+      "language": [
+        "de"
+      ],
+      "link": "https://api.europeana.eu/record/440/item_RHWU5BQ53DLRZ7K23D4LY66ALT5E44HP.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "German Digital Library"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 22.070942,
+      "timestamp": 1751998829648,
+      "timestamp_created": "2021-01-13T10:17:17.054Z",
+      "timestamp_created_epoch": 1610533037054,
+      "timestamp_update": "2022-01-28T08:02:13.084Z",
+      "timestamp_update_epoch": 1643356933084,
+      "title": [
+        "Design of a Historical Architecture. Book 3, Of some buildings, the Arabs and Turks; as well as new Persian, Siamitic, Sinesian, and Japonesian construction = De quelques Bâtimens des Arabes & des Turcs; comme außi de l 'Architecture Persanne Buch, Siamoise, Chinoise, et Japonoise",
+        "Entwurff Einer Historischen Architectur. Buch 3, Von einigen Gebäuden, der Araber und Türcken; wie auch neuen Persianischen, Siamitischen, Sinesischen, und Japonesischen Bau-art = De quelques Bâtimens des Arabes & des Turcs; comme außi de l'Architecture Persanne moderne, Siamoise, Chinoise, et Japonoise"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

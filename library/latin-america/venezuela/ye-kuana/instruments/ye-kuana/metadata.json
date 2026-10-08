@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1973-05-5",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1973-05-5",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1973-05-5",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1973.05.5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Venezuela",
+      "ethnicity": "Ye'kuana",
+      "tradition": "Ye'kuana",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a bamboo flute with a slit, two finger holes, and zigzag carved designs near the base, consistent with Ye'kuana craftsmanship and the museum's attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "flute",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "flute",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Flute made of bamboo; long slit and two holes pierced near top; zigzag designs carved at bottom.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/15_10/494434e1_fb20_4ada_9fad_b15300b01b9b/preview_am1973_05_5__a_.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0816421944aa4bc83aabd0285539433fdf87c902fc6ed617a685f8fb3e792715",
+        "bytes": 5933,
+        "local_path": "library\\latin-america\\venezuela\\ye-kuana\\instruments\\ye-kuana\\images\\bm_E_Am1973_05_5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T09:43:39.816698+00:00",
+    "raw": {
+      "title": "flute",
+      "description": "Flute made of bamboo; long slit and two holes pierced near top; zigzag designs carved at bottom.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2024_4/15_10/494434e1_fb20_4ada_9fad_b15300b01b9b/preview_am1973_05_5__a_.jpg",
+      "production_ethnic_groups": [
+        "Ye'kuana"
+      ],
+      "production_ethnic_attribution": "Made by: Ye'kuana"
+    }
+  }
+]

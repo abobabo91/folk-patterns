@@ -1,0 +1,3158 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_48017",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_48017",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48017?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A handwoven silk ikat shawl with diamond lattice motifs, explicitly documented as woven in Isan, Northeast Thailand — a textile made and used by Thai (Isan/Lao-Thai) weavers, consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "sjal",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "techniques": [],
+      "medium_raw": "http://data.europeana.eu/concept/55",
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1228536%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e1f070f9fee6f9053c18bdf492a9224435794ef33f5834c060433c8107903522",
+        "bytes": 33603,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\eu_91608_SMVK_VKM_objekt_48017.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-21T15:34:01.864699+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Schal av silke (100% Thai silk). Inslagsikat. Rödviolett med mönster i gult och grönt. Traditionellt ebenholtsfärgad.\nFörvärvsdatum: Mars 1988   220 cm x 61,5 cm\nInköpt genom Etnografiska Museet, Göteborg.\n\nLItt: Katalog: Tissus Royaux Tissus Villageois de Thailande Musée de L'impression sur Etoffes Mulhouse, 1988.\n\nKatalogiserad för G. Sandberg av K. Wadensten, Nora den 18/5 1988.",
+        "Gösta Sandberg",
+        "Isan, Nordöstra Thailand, Thailand",
+        "1998.11.1208",
+        "Isan, Thailand",
+        "Thailand"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Schal av silke (100% Thai silk). Inslagsikat. Rödviolett med mönster i gult och grönt. Traditionellt ebenholtsfärgad.\nFörvärvsdatum: Mars 1988   220 cm x 61,5 cm\nInköpt genom Etnografiska Museet, Göteborg.\n\nLItt: Katalog: Tissus Royaux Tissus Villageois de Thailande Musée de L'impression sur Etoffes Mulhouse, 1988.\n\nKatalogiserad för G. Sandberg av K. Wadensten, Nora den 18/5 1988.",
+          "Gösta Sandberg",
+          "Isan, Nordöstra Thailand, Thailand"
+        ],
+        "def": [
+          "1998.11.1208",
+          "Isan, Thailand",
+          "Thailand"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "sjal"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2580",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Schal"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Sjal"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Шаль"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Saali"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Xaile"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Σάλι"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Skara"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Shawl"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Scialle"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Châle"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Vállkendő"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Chal"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Xal"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Plet"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Szal"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Sjal"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Șal"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Xal"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Schal",
+          "Textilie"
+        ],
+        "ru": [
+          "Текстиль",
+          "Шаль"
+        ],
+        "fi": [
+          "Saali",
+          "Tekstiili"
+        ],
+        "pt": [
+          "Têxtil",
+          "Xaile"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Skara"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile",
+          "Châle"
+        ],
+        "hu": [
+          "Vállkendő",
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil",
+          "Plet"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Xal",
+          "Tèxtil"
+        ],
+        "sv": [
+          "Sjal",
+          "Textil"
+        ],
+        "el": [
+          "Σάλι",
+          "Ύφασμα"
+        ],
+        "en": [
+          "Shawl",
+          "Textile"
+        ],
+        "it": [
+          "Tessuto",
+          "Scialle"
+        ],
+        "es": [
+          "Chal",
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "eu": [
+          "Xal",
+          "Ehun"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "pl": [
+          "Szal",
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil",
+          "Sjal"
+        ],
+        "ro": [
+          "Șal",
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/48017"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1228536/image.jpg"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1228536%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48017?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_48017",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_48017.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 20.034992,
+      "timestamp": 1752047598718,
+      "timestamp_created": "2014-10-01T16:23:19.801Z",
+      "timestamp_created_epoch": 1412180599801,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "sjal"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91643_SMVK_OM_objekt_104010",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Far Eastern Antiquities",
+      "object_id": "91643_SMVK_OM_objekt_104010",
+      "object_url": "https://www.europeana.eu/item/91643/SMVK_OM_objekt_104010?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This shows sample swatch books/catalogues of Jim Thompson Thai Silk textile samples, not the fabric itself as a genuine cultural artifact — it's a commercial sample kit/catalog with an order slip from 1987. The silk swatches themselves are Thai-made textiles, so the fiber content qualifies, but the object photographed is essentially a product catalogue.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "modern",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textilprov",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Far Eastern Antiquities",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-om%2Fweb%2Fimage%2Fzoom%2F389225%2Frepresentation&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "122d7a8c64b27fdb5c053d6cd348b0e6ac6277142ccb0c896ca5b560b798b7f2",
+        "bytes": 15642,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\eu_91643_SMVK_OM_objekt_104010.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-21T15:34:05.835493+00:00",
+    "raw": {
+      "completeness": 9,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of Far Eastern Antiquities"
+      ],
+      "dcDescription": [
+        "Sex st. kataloger med textilprover från Jim Thompson Thai Silk Collection, Bangkok. \nInnehåller ordersedel från 1987.",
+        "Textilprover, kataloger, Thailand.",
+        "TEMP-0553"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Sex st. kataloger med textilprover från Jim Thompson Thai Silk Collection, Bangkok. \nInnehåller ordersedel från 1987."
+        ],
+        "def": [
+          "Textilprover, kataloger, Thailand.",
+          "TEMP-0553"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Textilprov"
+        ]
+      },
+      "edmDatasetName": [
+        "91643_SwedishNationalHeritage_smvk_oa_object"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-om/web/object/104010"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-om/web/image/zoom/389225/representation"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-om%2Fweb%2Fimage%2Fzoom%2F389225%2Frepresentation&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91643_SwedishNationalHeritage_smvk_oa_object"
+      ],
+      "europeanaCompleteness": 9,
+      "guid": "https://www.europeana.eu/item/91643/SMVK_OM_objekt_104010?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91643/SMVK_OM_objekt_104010",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91643/SMVK_OM_objekt_104010.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 26.122398,
+      "timestamp": 1752063293060,
+      "timestamp_created": "2014-07-17T08:08:58.871Z",
+      "timestamp_created_epoch": 1405584538871,
+      "timestamp_update": "2022-02-23T09:37:40.101Z",
+      "timestamp_update_epoch": 1645609060101,
+      "title": [
+        "Textilprov"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-2048213_europeana_fashion_http___collections_vam_ac_uk_item_O56036",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "2048213_europeana_fashion_http___collections_vam_ac_uk_item_O56036",
+      "object_url": "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O56036?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a necktie designed by British designer Gordon Deighton in 1970 using Thai silk as a fabric; it is a Western garment made in Britain, not an object made, worn, or used within Thai ethnic tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "Wide bottomed tie of red Thai silk designed by Gordon Deighton; Britain, 1970.  Silk. ",
+      "titles_alt": [],
+      "date_text": "1970",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Victoria and Albert Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FJ%2F2012FJ0171_jpg_l.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6ecaae4caa569f2865ea3b5d62db5b4dcee0c303962912c4cd6dbf870053baa3",
+        "bytes": 23176,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\eu_2048213_europeana_fashion_http___collections_vam_ac_uk_item_O56036.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:20.826547+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "United Kingdom"
+      ],
+      "dataProvider": [
+        "Victoria and Albert Museum"
+      ],
+      "dcCreator": [
+        "Gordon Deighton (designer)",
+        "Gordon Deighton (Designer)"
+      ],
+      "dcCreatorLangAware": {
+        "en": [
+          "Gordon Deighton (designer)",
+          "Gordon Deighton (Designer)"
+        ]
+      },
+      "dcDescription": [
+        "Wide bottomed tie of red Thai silk designed by Gordon Deighton; Britain, 1970.  Silk. "
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Wide bottomed tie of red Thai silk designed by Gordon Deighton; Britain, 1970.  Silk. "
+        ]
+      },
+      "edmConcept": [
+        "http://thesaurus.europeanafashion.eu/thesaurus/10352",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10064",
+        "http://data.europeana.eu/concept/2427",
+        "http://thesaurus.europeanafashion.eu/thesaurus/10414",
+        "http://data.europeana.eu/concept/2130"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "Schnürband"
+        },
+        {
+          "def": "Schnürung"
+        },
+        {
+          "def": "Rot"
+        },
+        {
+          "def": "Seide"
+        },
+        {
+          "def": "siden"
+        },
+        {
+          "def": "snörning"
+        },
+        {
+          "def": "Snörning"
+        },
+        {
+          "def": "röd"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "cordão"
+        },
+        {
+          "def": "Cordão"
+        },
+        {
+          "def": "vermelho"
+        },
+        {
+          "def": "Fibra da seda"
+        },
+        {
+          "def": "μετάξι"
+        },
+        {
+          "def": "κορδόνι"
+        },
+        {
+          "def": "Κορδόνια"
+        },
+        {
+          "def": "κόκκινο"
+        },
+        {
+          "def": "Μετάξι"
+        },
+        {
+          "def": "silk (silkworm material)"
+        },
+        {
+          "def": "lace (fastening)"
+        },
+        {
+          "def": "Lacing"
+        },
+        {
+          "def": "red"
+        },
+        {
+          "def": "Silk"
+        },
+        {
+          "def": "seta"
+        },
+        {
+          "def": "laccio (allacciatura)"
+        },
+        {
+          "def": "Laccio (allacciatura)"
+        },
+        {
+          "def": "rosso"
+        },
+        {
+          "def": "Seta"
+        },
+        {
+          "def": "soie"
+        },
+        {
+          "def": "lacet"
+        },
+        {
+          "def": "Laçage"
+        },
+        {
+          "def": "rouge"
+        },
+        {
+          "def": "Soie"
+        },
+        {
+          "def": "משי"
+        },
+        {
+          "def": "שרוך"
+        },
+        {
+          "def": "אדום"
+        },
+        {
+          "def": "seda"
+        },
+        {
+          "def": "cordón"
+        },
+        {
+          "def": "Cordón"
+        },
+        {
+          "def": "rojo"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "zijde (vezel)"
+        },
+        {
+          "def": "veter"
+        },
+        {
+          "def": "Vetersluiting"
+        },
+        {
+          "def": "rood"
+        },
+        {
+          "def": "Zijde"
+        },
+        {
+          "def": "svila"
+        },
+        {
+          "def": "pertla"
+        },
+        {
+          "def": "црвена"
+        },
+        {
+          "def": "Lokarri"
+        },
+        {
+          "def": "Zeta"
+        },
+        {
+          "def": "Šněrování"
+        },
+        {
+          "def": "Hedvábí"
+        },
+        {
+          "def": "Sznurowanie"
+        },
+        {
+          "def": "Jedwab"
+        },
+        {
+          "def": "Шёлк"
+        },
+        {
+          "def": "Silkki"
+        },
+        {
+          "def": "Коприна"
+        },
+        {
+          "def": "Šilkas"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Zīds"
+        },
+        {
+          "def": "Selyem"
+        },
+        {
+          "def": "Hodváb"
+        },
+        {
+          "def": "Svila"
+        },
+        {
+          "def": "Síoda"
+        },
+        {
+          "def": "Seda"
+        },
+        {
+          "def": "Siid"
+        },
+        {
+          "def": "Silke"
+        },
+        {
+          "def": "Mătase"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Schnürung",
+          "Rot",
+          "Seide",
+          "Schnürband"
+        ],
+        "ru": [
+          "Шёлк"
+        ],
+        "fi": [
+          "Silkki"
+        ],
+        "pt": [
+          "vermelho",
+          "Fibra da seda",
+          "seda",
+          "cordão",
+          "Cordão"
+        ],
+        "bg": [
+          "Коприна"
+        ],
+        "lt": [
+          "Šilkas"
+        ],
+        "hr": [
+          "Svila"
+        ],
+        "lv": [
+          "Zīds"
+        ],
+        "fr": [
+          "lacet",
+          "Laçage",
+          "rouge",
+          "soie",
+          "Soie"
+        ],
+        "hu": [
+          "Selyem"
+        ],
+        "sk": [
+          "Hodváb"
+        ],
+        "sl": [
+          "Svila"
+        ],
+        "ga": [
+          "Síoda"
+        ],
+        "ca": [
+          "Seda"
+        ],
+        "sr": [
+          "svila",
+          "црвена",
+          "pertla"
+        ],
+        "sv": [
+          "röd",
+          "siden",
+          "Silke",
+          "Snörning",
+          "snörning"
+        ],
+        "el": [
+          "Μετάξι",
+          "κορδόνι",
+          "μετάξι",
+          "κόκκινο",
+          "Κορδόνια"
+        ],
+        "en": [
+          "red",
+          "Lacing",
+          "Silk",
+          "lace (fastening)",
+          "silk (silkworm material)"
+        ],
+        "it": [
+          "Laccio (allacciatura)",
+          "rosso",
+          "Seta",
+          "laccio (allacciatura)",
+          "seta"
+        ],
+        "es": [
+          "rojo",
+          "cordón",
+          "Seda",
+          "seda",
+          "Cordón"
+        ],
+        "et": [
+          "Siid"
+        ],
+        "eu": [
+          "Zeta",
+          "Lokarri"
+        ],
+        "cs": [
+          "Hedvábí",
+          "Šněrování"
+        ],
+        "pl": [
+          "Sznurowanie",
+          "Jedwab"
+        ],
+        "he": [
+          "אדום",
+          "שרוך",
+          "משי"
+        ],
+        "da": [
+          "Silke"
+        ],
+        "ro": [
+          "Mătase"
+        ],
+        "nl": [
+          "Vetersluiting",
+          "rood",
+          "zijde (vezel)",
+          "Zijde",
+          "veter"
+        ]
+      },
+      "edmDatasetName": [
+        "2048213_EuropeanaFashion_1023"
+      ],
+      "edmIsShownAt": [
+        "http://collections.vam.ac.uk/item/O56036"
+      ],
+      "edmIsShownBy": [
+        "http://media.vam.ac.uk/media/thira/collection_images/2012FJ/2012FJ0171_jpg_l.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Vereinigtes Königreich Großbritannien und Nordirland"
+        },
+        {
+          "def": "Großbritannien"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "U.K."
+        },
+        {
+          "def": "U. K."
+        },
+        {
+          "def": "U K"
+        },
+        {
+          "def": "G.B."
+        },
+        {
+          "def": "G. B."
+        },
+        {
+          "def": "G B"
+        },
+        {
+          "def": "G.B.R."
+        },
+        {
+          "def": "G. B. R."
+        },
+        {
+          "def": "G B R"
+        },
+        {
+          "def": "Vereinigte Königreich"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Vereinigtes Königreich Großbritannien und Nordirland"
+        },
+        {
+          "def": "Großbritannien"
+        },
+        {
+          "def": "U.K."
+        },
+        {
+          "def": "U. K."
+        },
+        {
+          "def": "U K"
+        },
+        {
+          "def": "G.B."
+        },
+        {
+          "def": "G. B."
+        },
+        {
+          "def": "G B"
+        },
+        {
+          "def": "G.B.R."
+        },
+        {
+          "def": "G. B. R."
+        },
+        {
+          "def": "G B R"
+        },
+        {
+          "def": "Vereinigte Königreich"
+        },
+        {
+          "def": "Iso-Britannia"
+        },
+        {
+          "def": "Britannia"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "Iso-Britannia"
+        },
+        {
+          "def": "Britannia"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Соединённое Королевство Великобритании и Северной Ирландии"
+        },
+        {
+          "def": "Соединённое Королевство"
+        },
+        {
+          "def": "Британия"
+        },
+        {
+          "def": "Туманный Альбион"
+        },
+        {
+          "def": "Соединённое Королевство Великобритании и Северной Ирландии"
+        },
+        {
+          "def": "Соединённое Королевство"
+        },
+        {
+          "def": "Британия"
+        },
+        {
+          "def": "Туманный Альбион"
+        },
+        {
+          "def": "Storbritannien och Nordirland"
+        },
+        {
+          "def": "Förenade konungariket Storbritannien och Nordirland"
+        },
+        {
+          "def": "Förenade kungariket"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "Stor-Britannien"
+        },
+        {
+          "def": "Stor-Britannien och Nordirland"
+        },
+        {
+          "def": "Stor-Britannien och Nord-Irland"
+        },
+        {
+          "def": "Stora Britannien"
+        },
+        {
+          "def": "Storbritannien och Nordirland"
+        },
+        {
+          "def": "Förenade konungariket Storbritannien och Nordirland"
+        },
+        {
+          "def": "Förenade kungariket"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Stor-Britannien"
+        },
+        {
+          "def": "Stor-Britannien och Nordirland"
+        },
+        {
+          "def": "Stor-Britannien och Nord-Irland"
+        },
+        {
+          "def": "Stora Britannien"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "Reino Unido da Grã-Bretanha e Irlanda do Norte"
+        },
+        {
+          "def": "Reino Unido da Grã-Bretanha e Irlanda do Norte"
+        },
+        {
+          "def": "Британия"
+        },
+        {
+          "def": "Обединеното кралство"
+        },
+        {
+          "def": "Обединено кралство Великобритания и Северна Ирландия"
+        },
+        {
+          "def": "Британия"
+        },
+        {
+          "def": "Обединеното кралство"
+        },
+        {
+          "def": "Обединено кралство Великобритания и Северна Ирландия"
+        },
+        {
+          "def": "Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq"
+        },
+        {
+          "def": "Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq"
+        },
+        {
+          "def": "JK"
+        },
+        {
+          "def": "JK"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+          "def": "U.K."
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "U. K."
+        },
+        {
+          "def": "U K"
+        },
+        {
+          "def": "G.B."
+        },
+        {
+          "def": "G. B."
+        },
+        {
+          "def": "G B"
+        },
+        {
+          "def": "Great Britain"
+        },
+        {
+          "def": "G.B.R."
+        },
+        {
+          "def": "G B R"
+        },
+        {
+          "def": "Britain"
+        },
+        {
+          "def": "Great Britain and Northern Ireland"
+        },
+        {
+          "def": "The United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+          "def": "The UK"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+          "def": "U.K."
+        },
+        {
+          "def": "U. K."
+        },
+        {
+          "def": "U K"
+        },
+        {
+          "def": "G.B."
+        },
+        {
+          "def": "G. B."
+        },
+        {
+          "def": "G B"
+        },
+        {
+          "def": "Great Britain"
+        },
+        {
+          "def": "G.B.R."
+        },
+        {
+          "def": "G B R"
+        },
+        {
+          "def": "Britain"
+        },
+        {
+          "def": "Great Britain and Northern Ireland"
+        },
+        {
+          "def": "The United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+          "def": "The UK"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske"
+        },
+        {
+          "def": "Velika Britanija"
+        },
+        {
+          "def": "VB"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske"
+        },
+        {
+          "def": "Velika Britanija"
+        },
+        {
+          "def": "VB"
+        },
+        {
+          "def": "Regno Unito di Gran Bretagna e Irlanda del Nord"
+        },
+        {
+          "def": "Gran Bretagna"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "Regno Unito di Gran Bretagna e Irlanda del Nord"
+        },
+        {
+          "def": "Gran Bretagna"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Royaume-Uni de Grande-Bretagne et d’Irlande du Nord"
+        },
+        {
+          "def": "Royaume Uni"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "Le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord"
+        },
+        {
+          "def": "Royaume-uni"
+        },
+        {
+          "def": "R.-U."
+        },
+        {
+          "def": "R.U."
+        },
+        {
+          "def": "Grande-Bretagne"
+        },
+        {
+          "def": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord"
+        },
+        {
+          "def": "Royaume Uni"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Royaume-Uni de Grande-Bretagne et Irlande du Nord"
+        },
+        {
+          "def": "Royaume-uni"
+        },
+        {
+          "def": "R.-U."
+        },
+        {
+          "def": "R.U."
+        },
+        {
+          "def": "Grande-Bretagne"
+        },
+        {
+          "def": "Nagy-Britannia"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Nagy-Britannia és Észak-Írország Egyesült Királysága"
+        },
+        {
+          "def": "Nagy-Britannia"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Nagy-Britannia és Észak-Írország Egyesült Királysága"
+        },
+        {
+          "def": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+        },
+        {
+          "def": "Gran Bretaña"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "Inglaterra"
+        },
+        {
+          "def": "Reino Unido de la Gran Bretaña e Irlanda del Norte"
+        },
+        {
+          "def": "Reino Unido de Gran Bretaña e Irlanda del Norte"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "Reino Unido de la Gran Bretaña e Irlanda del Norte"
+        },
+        {
+          "def": "Ühendkuningriik"
+        },
+        {
+          "def": "Ühendkuningriik"
+        },
+        {
+          "def": "Spojené království Velké Británie a Severního Irska"
+        },
+        {
+          "def": "Británie"
+        },
+        {
+          "def": "Velká Británie"
+        },
+        {
+          "def": "Spojené království Velké Británie a Severního Irska"
+        },
+        {
+          "def": "Británie"
+        },
+        {
+          "def": "Velká Británie"
+        },
+        {
+          "def": "Spojené kráľovstvo Veľkej Británie a Severného Írska"
+        },
+        {
+          "def": "Spojené kráľovstvo Veľkej Británie a Severného Írska"
+        },
+        {
+          "def": "Združeno kraljestvo Velike Britanije in Severne Irske"
+        },
+        {
+          "def": "Združeno kraljestvo Velike Britanije in Severne Irske"
+        },
+        {
+          "def": "Ríocht Aontaithe"
+        },
+        {
+          "def": "An RA"
+        },
+        {
+          "def": "Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann"
+        },
+        {
+          "def": "Ríocht Aontaithe"
+        },
+        {
+          "def": "An RA"
+        },
+        {
+          "def": "Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann"
+        },
+        {
+          "def": "An Ríocht Aontaithe"
+        },
+        {
+          "def": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+        },
+        {
+          "def": "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+        },
+        {
+          "def": "Regatul Unit al Marii Britanii și al Irlandei de Nord"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "Regatul Unit al Marii Britanii și al Irlandei de Nord"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "Det Forenede Kongerige"
+        },
+        {
+          "def": "Storbritanien"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "Det Forenede Kongerige"
+        },
+        {
+          "def": "Storbritanien"
+        },
+        {
+          "def": "Regne Unit De La Gran Bretanya I Irlanda Del Nord"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "Reialme Unit"
+        },
+        {
+          "def": "Reialme Unit de la Gran Bretanya i Irlanda del Nord"
+        },
+        {
+          "def": "RU"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "Reialme Unit"
+        },
+        {
+          "def": "RU"
+        },
+        {
+          "def": "Regne Unit de Gran Bretanya i Irlanda del Nord"
+        },
+        {
+          "def": "Reialme Unit de Gran Bretanya i Irlanda del Nord"
+        },
+        {
+          "def": "Verenigde Koningrijk"
+        },
+        {
+          "def": "V.K."
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        {
+          "def": "Verenigd Konkrijk"
+        },
+        {
+          "def": "United Kingdom of England, Scotland and Wales"
+        },
+        {
+          "def": "Y Deyrnas Unedig"
+        },
+        {
+          "def": "Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland"
+        },
+        {
+          "def": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland"
+        },
+        {
+          "def": "VK"
+        },
+        {
+          "def": "UK"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        },
+        {
+          "def": "Verenigde Koningrijk"
+        },
+        {
+          "def": "V.K."
+        },
+        {
+          "def": "Verenigd Konkrijk"
+        },
+        {
+          "def": "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland"
+        },
+        {
+          "def": "VK"
+        },
+        {
+          "def": "GB"
+        },
+        {
+          "def": "GBR"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "UK",
+          "Vereinigtes Königreich Großbritannien und Nordirland",
+          "Großbritannien",
+          "GB",
+          "GBR",
+          "U.K.",
+          "U. K.",
+          "U K",
+          "G.B.",
+          "G. B.",
+          "G B",
+          "G.B.R.",
+          "G. B. R.",
+          "G B R",
+          "Vereinigte Königreich",
+          "UK",
+          "Vereinigtes Königreich Großbritannien und Nordirland",
+          "Großbritannien",
+          "U.K.",
+          "U. K.",
+          "U K",
+          "G.B.",
+          "G. B.",
+          "G B",
+          "G.B.R.",
+          "G. B. R.",
+          "G B R",
+          "Vereinigte Königreich"
+        ],
+        "fi": [
+          "Iso-Britannia",
+          "Britannia",
+          "United Kingdom",
+          "UK",
+          "GB",
+          "Iso-Britannia",
+          "Britannia",
+          "United Kingdom",
+          "UK"
+        ],
+        "ru": [
+          "Соединённое Королевство Великобритании и Северной Ирландии",
+          "Соединённое Королевство",
+          "Британия",
+          "Туманный Альбион",
+          "Соединённое Королевство Великобритании и Северной Ирландии",
+          "Соединённое Королевство",
+          "Британия",
+          "Туманный Альбион"
+        ],
+        "sv": [
+          "Storbritannien och Nordirland",
+          "Förenade konungariket Storbritannien och Nordirland",
+          "Förenade kungariket",
+          "UK",
+          "GB",
+          "GBR",
+          "Stor-Britannien",
+          "Stor-Britannien och Nordirland",
+          "Stor-Britannien och Nord-Irland",
+          "Stora Britannien",
+          "Storbritannien och Nordirland",
+          "Förenade konungariket Storbritannien och Nordirland",
+          "Förenade kungariket",
+          "UK",
+          "Stor-Britannien",
+          "Stor-Britannien och Nordirland",
+          "Stor-Britannien och Nord-Irland",
+          "Stora Britannien"
+        ],
+        "pt": [
+          "GB",
+          "GBR",
+          "Reino Unido da Grã-Bretanha e Irlanda do Norte",
+          "Reino Unido da Grã-Bretanha e Irlanda do Norte"
+        ],
+        "bg": [
+          "Британия",
+          "Обединеното кралство",
+          "Обединено кралство Великобритания и Северна Ирландия",
+          "Британия",
+          "Обединеното кралство",
+          "Обединено кралство Великобритания и Северна Ирландия"
+        ],
+        "mt": [
+          "Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq",
+          "Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq"
+        ],
+        "lt": [
+          "JK",
+          "JK"
+        ],
+        "en": [
+          "UK",
+          "United Kingdom of Great Britain and Northern Ireland",
+          "U.K.",
+          "GBR",
+          "GB",
+          "U. K.",
+          "U K",
+          "G.B.",
+          "G. B.",
+          "G B",
+          "Great Britain",
+          "G.B.R.",
+          "G B R",
+          "Britain",
+          "Great Britain and Northern Ireland",
+          "The United Kingdom of Great Britain and Northern Ireland",
+          "The UK",
+          "UK",
+          "United Kingdom of Great Britain and Northern Ireland",
+          "U.K.",
+          "U. K.",
+          "U K",
+          "G.B.",
+          "G. B.",
+          "G B",
+          "Great Britain",
+          "G.B.R.",
+          "G B R",
+          "Britain",
+          "Great Britain and Northern Ireland",
+          "The United Kingdom of Great Britain and Northern Ireland",
+          "The UK"
+        ],
+        "hr": [
+          "UK",
+          "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+          "Velika Britanija",
+          "VB",
+          "GB",
+          "UK",
+          "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+          "Velika Britanija",
+          "VB"
+        ],
+        "it": [
+          "Regno Unito di Gran Bretagna e Irlanda del Nord",
+          "Gran Bretagna",
+          "UK",
+          "GBR",
+          "GB",
+          "Regno Unito di Gran Bretagna e Irlanda del Nord",
+          "Gran Bretagna"
+        ],
+        "fr": [
+          "UK",
+          "Royaume-Uni de Grande-Bretagne et d’Irlande du Nord",
+          "Royaume Uni",
+          "GB",
+          "GBR",
+          "Le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord",
+          "Royaume-uni",
+          "R.-U.",
+          "R.U.",
+          "Grande-Bretagne",
+          "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+          "Royaume Uni",
+          "UK",
+          "Royaume-Uni de Grande-Bretagne et Irlande du Nord",
+          "Royaume-uni",
+          "R.-U.",
+          "R.U.",
+          "Grande-Bretagne"
+        ],
+        "hu": [
+          "Nagy-Britannia",
+          "UK",
+          "Nagy-Britannia és Észak-Írország Egyesült Királysága",
+          "Nagy-Britannia",
+          "UK",
+          "Nagy-Britannia és Észak-Írország Egyesült Királysága"
+        ],
+        "es": [
+          "Reino Unido de Gran Bretaña e Irlanda del Norte",
+          "Gran Bretaña",
+          "UK",
+          "GB",
+          "GBR",
+          "Inglaterra",
+          "Reino Unido de la Gran Bretaña e Irlanda del Norte",
+          "Reino Unido de Gran Bretaña e Irlanda del Norte",
+          "UK",
+          "Reino Unido de la Gran Bretaña e Irlanda del Norte"
+        ],
+        "et": [
+          "Ühendkuningriik",
+          "Ühendkuningriik"
+        ],
+        "cs": [
+          "Spojené království Velké Británie a Severního Irska",
+          "Británie",
+          "Velká Británie",
+          "Spojené království Velké Británie a Severního Irska",
+          "Británie",
+          "Velká Británie"
+        ],
+        "sk": [
+          "Spojené kráľovstvo Veľkej Británie a Severného Írska",
+          "Spojené kráľovstvo Veľkej Británie a Severného Írska"
+        ],
+        "sl": [
+          "Združeno kraljestvo Velike Britanije in Severne Irske",
+          "Združeno kraljestvo Velike Britanije in Severne Irske"
+        ],
+        "ga": [
+          "Ríocht Aontaithe",
+          "An RA",
+          "Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann",
+          "Ríocht Aontaithe",
+          "An RA",
+          "Ríocht Aontaithe na Breataine Móire agus Thuaisceart Éireann",
+          "An Ríocht Aontaithe"
+        ],
+        "pl": [
+          "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej",
+          "Zjednoczone Królestwo Wielkiej Brytanii i Irlandii Północnej"
+        ],
+        "ro": [
+          "Regatul Unit al Marii Britanii și al Irlandei de Nord",
+          "UK",
+          "GBR",
+          "Regatul Unit al Marii Britanii și al Irlandei de Nord",
+          "UK",
+          "GB",
+          "GBR"
+        ],
+        "da": [
+          "United Kingdom",
+          "Det Forenede Kongerige",
+          "Storbritanien",
+          "United Kingdom",
+          "Det Forenede Kongerige",
+          "Storbritanien"
+        ],
+        "ca": [
+          "Regne Unit De La Gran Bretanya I Irlanda Del Nord",
+          "UK",
+          "United Kingdom",
+          "Reialme Unit",
+          "Reialme Unit de la Gran Bretanya i Irlanda del Nord",
+          "RU",
+          "UK",
+          "United Kingdom",
+          "Reialme Unit",
+          "RU",
+          "Regne Unit de Gran Bretanya i Irlanda del Nord",
+          "Reialme Unit de Gran Bretanya i Irlanda del Nord"
+        ],
+        "nl": [
+          "Verenigde Koningrijk",
+          "V.K.",
+          "United Kingdom",
+          "United Kingdom of Great Britain and Northern Ireland",
+          "Verenigd Konkrijk",
+          "United Kingdom of England, Scotland and Wales",
+          "Y Deyrnas Unedig",
+          "Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland",
+          "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+          "VK",
+          "UK",
+          "GB",
+          "GBR",
+          "Verenigde Koningrijk",
+          "V.K.",
+          "Verenigd Konkrijk",
+          "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland",
+          "VK",
+          "GB",
+          "GBR"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigtes Königreich"
+        },
+        {
+          "def": "Vereinigtes Königreich"
+        },
+        {
+          "def": "Великобритания"
+        },
+        {
+          "def": "Великобритания"
+        },
+        {
+          "def": "Yhdistynyt kuningaskunta"
+        },
+        {
+          "def": "Yhdistynyt kuningaskunta"
+        },
+        {
+          "def": "Reino Unido"
+        },
+        {
+          "def": "Reino Unido"
+        },
+        {
+          "def": "Великобритания"
+        },
+        {
+          "def": "Великобритания"
+        },
+        {
+          "def": "Jungtinė Karalystė"
+        },
+        {
+          "def": "Jungtinė Karalystė"
+        },
+        {
+          "def": "Apvienotā Karaliste"
+        },
+        {
+          "def": "Apvienotā Karaliste"
+        },
+        {
+          "def": "Ujedinjeno Kraljevstvo"
+        },
+        {
+          "def": "Ujedinjeno Kraljevstvo"
+        },
+        {
+          "def": "Royaume-Uni"
+        },
+        {
+          "def": "Royaume-Uni"
+        },
+        {
+          "def": "Egyesült Királyság"
+        },
+        {
+          "def": "Egyesült Királyság"
+        },
+        {
+          "def": "Spojené kráľovstvo"
+        },
+        {
+          "def": "Spojené kráľovstvo"
+        },
+        {
+          "def": "Združeno kraljestvo"
+        },
+        {
+          "def": "Združeno kraljestvo"
+        },
+        {
+          "def": "An Ríocht Aontaithe"
+        },
+        {
+          "def": "an Ríocht Aontaithe"
+        },
+        {
+          "def": "Regne Unit"
+        },
+        {
+          "def": "Regne Unit"
+        },
+        {
+          "def": "Storbritannien"
+        },
+        {
+          "def": "Storbritannien"
+        },
+        {
+          "def": "Ηνωμένο Βασίλειο"
+        },
+        {
+          "def": "Ηνωμένο Βασίλειο"
+        },
+        {
+          "def": "Renju Unit"
+        },
+        {
+          "def": "Renju Unit"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "United Kingdom"
+        },
+        {
+          "def": "Regno Unito"
+        },
+        {
+          "def": "Regno Unito"
+        },
+        {
+          "def": "Reino Unido"
+        },
+        {
+          "def": "Reino Unido"
+        },
+        {
+          "def": "Suurbritannia"
+        },
+        {
+          "def": "Suurbritannia"
+        },
+        {
+          "def": "Erresuma Batua"
+        },
+        {
+          "def": "Erresuma Batua"
+        },
+        {
+          "def": "Spojené království"
+        },
+        {
+          "def": "Spojené království"
+        },
+        {
+          "def": "Wielka Brytania"
+        },
+        {
+          "def": "Wielka Brytania"
+        },
+        {
+          "def": "Regatul Unit"
+        },
+        {
+          "def": "Regatul Unit"
+        },
+        {
+          "def": "Storbritannien"
+        },
+        {
+          "def": "Storbritannien"
+        },
+        {
+          "def": "Verenigd Koninkrijk"
+        },
+        {
+          "def": "Verenigd Koninkrijk"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Vereinigtes Königreich",
+          "Vereinigtes Königreich"
+        ],
+        "ru": [
+          "Великобритания",
+          "Великобритания"
+        ],
+        "fi": [
+          "Yhdistynyt kuningaskunta",
+          "Yhdistynyt kuningaskunta"
+        ],
+        "pt": [
+          "Reino Unido",
+          "Reino Unido"
+        ],
+        "bg": [
+          "Великобритания",
+          "Великобритания"
+        ],
+        "lt": [
+          "Jungtinė Karalystė",
+          "Jungtinė Karalystė"
+        ],
+        "lv": [
+          "Apvienotā Karaliste",
+          "Apvienotā Karaliste"
+        ],
+        "hr": [
+          "Ujedinjeno Kraljevstvo",
+          "Ujedinjeno Kraljevstvo"
+        ],
+        "fr": [
+          "Royaume-Uni",
+          "Royaume-Uni"
+        ],
+        "hu": [
+          "Egyesült Királyság",
+          "Egyesült Királyság"
+        ],
+        "sk": [
+          "Spojené kráľovstvo",
+          "Spojené kráľovstvo"
+        ],
+        "sl": [
+          "Združeno kraljestvo",
+          "Združeno kraljestvo"
+        ],
+        "ga": [
+          "An Ríocht Aontaithe",
+          "an Ríocht Aontaithe"
+        ],
+        "ca": [
+          "Regne Unit",
+          "Regne Unit"
+        ],
+        "sv": [
+          "Storbritannien",
+          "Storbritannien"
+        ],
+        "el": [
+          "Ηνωμένο Βασίλειο",
+          "Ηνωμένο Βασίλειο"
+        ],
+        "mt": [
+          "Renju Unit",
+          "Renju Unit"
+        ],
+        "en": [
+          "United Kingdom",
+          "United Kingdom"
+        ],
+        "it": [
+          "Regno Unito",
+          "Regno Unito"
+        ],
+        "es": [
+          "Reino Unido",
+          "Reino Unido"
+        ],
+        "et": [
+          "Suurbritannia",
+          "Suurbritannia"
+        ],
+        "eu": [
+          "Erresuma Batua",
+          "Erresuma Batua"
+        ],
+        "cs": [
+          "Spojené království",
+          "Spojené království"
+        ],
+        "pl": [
+          "Wielka Brytania",
+          "Wielka Brytania"
+        ],
+        "ro": [
+          "Regatul Unit",
+          "Regatul Unit"
+        ],
+        "da": [
+          "Storbritannien",
+          "Storbritannien"
+        ],
+        "nl": [
+          "Verenigd Koninkrijk",
+          "Verenigd Koninkrijk"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "54.6",
+        "54.6"
+      ],
+      "edmPlaceLongitude": [
+        "-2.0",
+        "-2.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FJ%2F2012FJ0171_jpg_l.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1970"
+        },
+        {
+          "def": "20. Jahrhundert"
+        },
+        {
+          "def": "1900-luku"
+        },
+        {
+          "def": "XX век"
+        },
+        {
+          "def": "Século XX"
+        },
+        {
+          "def": "20 век"
+        },
+        {
+          "def": "XX amžius"
+        },
+        {
+          "def": "20. stoljeće"
+        },
+        {
+          "def": "20. gadsimts"
+        },
+        {
+          "def": "XXe siècle"
+        },
+        {
+          "def": "20. század"
+        },
+        {
+          "def": "20. storočie"
+        },
+        {
+          "def": "20. stoletje"
+        },
+        {
+          "def": "20ú haois"
+        },
+        {
+          "def": "Segle XX"
+        },
+        {
+          "def": "1900-talet"
+        },
+        {
+          "def": "20ός αιώνας"
+        },
+        {
+          "def": "20th century"
+        },
+        {
+          "def": "XX secolo"
+        },
+        {
+          "def": "Siglo XX"
+        },
+        {
+          "def": "20. sajand"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "XX. mendea"
+        },
+        {
+          "def": "XX wiek"
+        },
+        {
+          "def": "20. århundrede"
+        },
+        {
+          "def": "Secolul al XX-lea"
+        },
+        {
+          "def": "20e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6927"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012476"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85139020"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049673"
+        },
+        {
+          "def": "https://www.freebase.com/m/089_x"
+        },
+        {
+          "def": "https://g.co/kg/m/089_x"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.968"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404514"
+        },
+        {
+          "def": "http://id.worldcat.org/fast/1159810"
+        },
+        {
+          "def": "http://dbpedia.org/resource/20th_century"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "20. Jahrhundert"
+        ],
+        "fi": [
+          "1900-luku"
+        ],
+        "ru": [
+          "XX век"
+        ],
+        "pt": [
+          "Século XX"
+        ],
+        "bg": [
+          "20 век"
+        ],
+        "lt": [
+          "XX amžius"
+        ],
+        "hr": [
+          "20. stoljeće"
+        ],
+        "lv": [
+          "20. gadsimts"
+        ],
+        "fr": [
+          "XXe siècle"
+        ],
+        "hu": [
+          "20. század"
+        ],
+        "sk": [
+          "20. storočie"
+        ],
+        "sl": [
+          "20. stoletje"
+        ],
+        "ga": [
+          "20ú haois"
+        ],
+        "ca": [
+          "Segle XX"
+        ],
+        "sv": [
+          "1900-talet"
+        ],
+        "el": [
+          "20ός αιώνας"
+        ],
+        "en": [
+          "20th century"
+        ],
+        "it": [
+          "XX secolo"
+        ],
+        "es": [
+          "Siglo XX"
+        ],
+        "et": [
+          "20. sajand"
+        ],
+        "cs": [
+          "20. století"
+        ],
+        "eu": [
+          "XX. mendea"
+        ],
+        "zxx": [
+          "1970"
+        ],
+        "pl": [
+          "XX wiek"
+        ],
+        "da": [
+          "20. århundrede"
+        ],
+        "ro": [
+          "Secolul al XX-lea"
+        ],
+        "nl": [
+          "20e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "2048213_EuropeanaFashion_1023"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O56036?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O56036",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O56036.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "European Fashion Heritage Association"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 28.783855,
+      "timestamp": 1752069017358,
+      "timestamp_created": "2020-04-09T09:16:57.098Z",
+      "timestamp_created_epoch": 1586423817098,
+      "timestamp_update": "2024-07-16T09:06:00.856Z",
+      "timestamp_update_epoch": 1721120760856,
+      "title": [
+        "Wide bottomed tie of red Thai silk designed by Gordon Deighton; Britain, 1970.  Silk. "
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1970"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-A_1991-1022-0-100",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1991-1022-0-100",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1991-1022-0-100",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1991.1022.0.100",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A hand-woven ikat silk scarf with fringed ends, plausibly a northern Thai hilltribe design as the museum notes, consistent with the claimed Thai ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "scarf",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "scarf",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Silk scarf, length in single ikat using coloured silks. Fringed at both ends. Probably traditional northern Thai hilltribe design and technique, but adapted to European shape. Made of silk, hand woven.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_17/83694f70_18db_43c1_bbbf_a3dc011b2984/preview_01304412_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e197107dfc5cf223b70d4809b4886005f0b224c5259d1ff627e311c870ed595e",
+        "bytes": 69417,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_1991-1022-0-100.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:47.328364+00:00",
+    "raw": {
+      "title": "scarf",
+      "description": "Silk scarf, length in single ikat using coloured silks. Fringed at both ends. Probably traditional northern Thai hilltribe design and technique, but adapted to European shape. Made of silk, hand woven.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/7_17/83694f70_18db_43c1_bbbf_a3dc011b2984/preview_01304412_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_As1910-58",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1910-58",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-58",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1910.58",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A red cotton shoulder-cloth with khit-woven supplementary weft bands (naga diamonds, horse-and-rider, floral and 'S' motifs) is a classic handwoven textile type used across Thailand/Laos, consistent with the claimed Thai attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "shoulder-cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "shoulder-cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A rectangular cloth, a shoulder-cloth, with identical woven patterning at each end.  Ground made from red tabby cotton cloth (paired warps and wefts); plain centre field.  Deep patterned bands of different widths at each warp end [circa 65 cms].  Widest band has a diamond pattern, each diamond formed from two pairs of naga (mythical snake) motifs.  Also a line of yellow horses with rider; small-scale floral motifs; bird, scrolling and &#039;S&#039; motifs.  Worked in supplementary weft, &#039;khit&#039;, using mostly yellow cotton yarns, with some green and blue silk yarns.  Warp ends plied and knotted at end.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/282c9905_4e0e_43a9_a698_a3be01140be1/preview_00446826_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ebdb278dbcc77a0a5acb860980938483d169e0d87240995988793f000b357c76",
+        "bytes": 95027,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_As1910-58.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:49.570606+00:00",
+    "raw": {
+      "title": "shoulder-cloth",
+      "description": "A rectangular cloth, a shoulder-cloth, with identical woven patterning at each end.  Ground made from red tabby cotton cloth (paired warps and wefts); plain centre field.  Deep patterned bands of different widths at each warp end [circa 65 cms].  Widest band has a diamond pattern, each diamond formed from two pairs of naga (mythical snake) motifs.  Also a line of yellow horses with rider; small-scale floral motifs; bird, scrolling and &#039;S&#039; motifs.  Worked in supplementary weft, &#039;khit&#039;, using mostly yellow cotton yarns, with some green and blue silk yarns.  Warp ends plied and knotted at end.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/282c9905_4e0e_43a9_a698_a3be01140be1/preview_00446826_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_As1975-02-16",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1975-02-16",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1975-02-16",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1975.02.16",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Purple silk phasin cloth with silver supplementary-weft floral/tree-of-life border, a traditional Thai skirt fabric form, industrially woven but consistent with regional dress use.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "weaving sample; skirt (cloth for)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "weaving sample; skirt (cloth for)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A weaving-sample; a length of purple shot synthetic (?) silk with patterning worked in discontinuous supplementary weft using silver-coloured metal strip.  Black warp; pink/purple weft; tabby woven.  Cloth for a tube skirt, a &#039;phasin&#039;?; patterning worn as bands.  A 28 cms deep tree-of-life (?) band at one selvedge, triangular in outline, with isolated stylized floral motifs, worked on the diagonal, in the centre field.  Chemically dyed yarns; poor quality materials.  Warp ends raw.  Industrially woven.  Unused.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/d0d1f9c3_b458_43d1_97df_a3be0119a867/preview_00448503_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e4d37bdbb4ea7a52b4d14cf2ff5790e53963ed9fb11db7d55ecb29ba7ef6f96c",
+        "bytes": 73089,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_As1975-02-16.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:52.555388+00:00",
+    "raw": {
+      "title": "weaving sample; skirt (cloth for)",
+      "description": "A weaving-sample; a length of purple shot synthetic (?) silk with patterning worked in discontinuous supplementary weft using silver-coloured metal strip.  Black warp; pink/purple weft; tabby woven.  Cloth for a tube skirt, a &#039;phasin&#039;?; patterning worn as bands.  A 28 cms deep tree-of-life (?) band at one selvedge, triangular in outline, with isolated stylized floral motifs, worked on the diagonal, in the centre field.  Chemically dyed yarns; poor quality materials.  Warp ends raw.  Industrially woven.  Unused.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/d0d1f9c3_b458_43d1_97df_a3be0119a867/preview_00448503_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_As1975-02-20",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1975-02-20",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1975-02-20",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1975.02.20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a handwoven weft ikat (matmi) silk cloth intended for a phasin (tube skirt), a garment type made and worn across Thailand (and neighboring Tai groups); the technique and format are consistent with the claimed Thai attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "weaving sample; skirt (cloth for?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "weaving sample; skirt (cloth for?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A weaving-sample; a length of blue/ white (indigo dyed?) weft ikat, &#039;matmi&#039;, tabby woven silk cloth.  Two identical registers: two lines of very stylized stemmed flowers.  Below a blue zigzag line, outlined in white, with vertical lines extending to a white fuzzy line below, which runs the length of the cloth; a similar line at top of the cloth.  Cloth for a tube skirt, a &#039;phasin&#039;?; patterning worn as bands.  Warp ends raw.  Unused.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/95156d6f_c646_4e38_b784_a3be011994b7/preview_00448543_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ec4c5bc671dbf4a8c7993ef8ed60876c8d292a3df0e2af4ccdbe494ebbb7b07f",
+        "bytes": 125436,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_As1975-02-20.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:53.521109+00:00",
+    "raw": {
+      "title": "weaving sample; skirt (cloth for?)",
+      "description": "A weaving-sample; a length of blue/ white (indigo dyed?) weft ikat, &#039;matmi&#039;, tabby woven silk cloth.  Two identical registers: two lines of very stylized stemmed flowers.  Below a blue zigzag line, outlined in white, with vertical lines extending to a white fuzzy line below, which runs the length of the cloth; a similar line at top of the cloth.  Cloth for a tube skirt, a &#039;phasin&#039;?; patterning worn as bands.  Warp ends raw.  Unused.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/95156d6f_c646_4e38_b784_a3be011994b7/preview_00448543_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_As1910-59",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1910-59",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-59",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1910.59",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A hand-woven cotton tube-skirt (phasin) with striped red/black bands and a plain waistband is a classic Thai/Tai textile form, consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "skirt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "skirt",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A woman&#039;s tube skirt, a phasin; made of tabby cotton cloth (paired warps).  Predominantly red, with black cotton and some fine yellow and pale blue silk bands (woven as stripes).  Separate band at top [21 cms deep] made of natural cream tabby cotton cloth (also with paired warps).  Top edge raw, lower edge a selvedge.  All joins hand stitched.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/ca2f0081_e13b_4dc6_826a_a3be0112c966/preview_00446391_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e2658f0c09ba6d1227f76a1cfafea3e84b25c87f0bb1bd3040ccb53570f902f8",
+        "bytes": 50419,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_As1910-59.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:55.096571+00:00",
+    "raw": {
+      "title": "skirt",
+      "description": "A woman&#039;s tube skirt, a phasin; made of tabby cotton cloth (paired warps).  Predominantly red, with black cotton and some fine yellow and pale blue silk bands (woven as stripes).  Separate band at top [21 cms deep] made of natural cream tabby cotton cloth (also with paired warps).  Top edge raw, lower edge a selvedge.  All joins hand stitched.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_16/ca2f0081_e13b_4dc6_826a_a3be0112c966/preview_00446391_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_As1910-54",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1910-54",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1910-54",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1910.54",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A woven cotton and silk tube skirt (phasin) with supplementary weft diamond bands and confronting bird motifs, a traditional Thai/Lao-Tai style garment consistent with Thai textile culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "skirt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "skirt",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A woman&#039;s tube skirt, a &#039;phasin&#039;.  Made of four unequal sized pieces of cotton cloth with plain and polychrome bands.  Top section [9.5 cms deep] made from pieces of natural cream tabby cotton cloth.  (2) Next section [8 cms deep] has plain red tabby cotton band.  (3) The widest section [49 cms deep] has five identical diamond-patterned bands (lowest one has no zigzag border), worked in supplementary weft, using yellow silk yarn, on a red/brown tabby cotton ground (paired warps and wefts). (4) This band [25 cms deep] has a diamond patterned band, with black contronting birds in middle, worked in discontinuous supplementary weft on a red tabby cotton ground, using white and yellow silk yarns, green, blue and black cotton yarns.  Yellow silk/red cotton selvedge at hemline.  All joins hand stitched.  Some staining of top band.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2022_1/18_11/55800062_34cf_47dc_8ad2_ae2100c3701f/preview_EAS12553.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7ca986eecc3f036d4f502bbab77e8bc556aa4ed56203816f0c1a970e7f74a5f1",
+        "bytes": 56265,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_As1910-54.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:23:57.352654+00:00",
+    "raw": {
+      "title": "skirt",
+      "description": "A woman&#039;s tube skirt, a &#039;phasin&#039;.  Made of four unequal sized pieces of cotton cloth with plain and polychrome bands.  Top section [9.5 cms deep] made from pieces of natural cream tabby cotton cloth.  (2) Next section [8 cms deep] has plain red tabby cotton band.  (3) The widest section [49 cms deep] has five identical diamond-patterned bands (lowest one has no zigzag border), worked in supplementary weft, using yellow silk yarn, on a red/brown tabby cotton ground (paired warps and wefts). (4) This band [25 cms deep] has a diamond patterned band, with black contronting birds in middle, worked in discontinuous supplementary weft on a red tabby cotton ground, using white and yellow silk yarns, green, blue and black cotton yarns.  Yellow silk/red cotton selvedge at hemline.  All joins hand stitched.  Some staining of top band.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_1/18_11/55800062_34cf_47dc_8ad2_ae2100c3701f/preview_EAS12553.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_As1975-02-19",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1975-02-19",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1975-02-19",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1975.02.19",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Thailand",
+      "ethnicity": "Thai",
+      "tradition": "Thai",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a weft ikat (matmi) silk cloth intended for a phasin (tube skirt), a traditional Thai (particularly Isan/Thai-Lao) weaving technique and garment form, showing naga motifs and geometric bands typical of the region.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "weaving sample",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "weaving sample",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A weaving-sample; a length of weft ikat, &#039;matmi&#039;, patterned shot silk; tabby woven.  Two main registers: two lines of pink/white confronted nagas (snakes), the ends of their bodies touching; patterning in lower register slightly longer and wider than upper.  A white fuzzy line separates this imagery from a geometric band below; a diamond-within-diamond pattern.  Brown warp, red weft; cloth for a tube skirt, a &#039;phasin&#039;?; patterning worn as bands.  Chemically dyed yarns.  Warp ends raw.  Unused.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/6f07273e_3dae_496a_b593_a3be01199ece/preview_00448549_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ff332e0ef359cd3a971a214221559e30c1db5b2aac027f0771863e7ee51c9134",
+        "bytes": 113482,
+        "local_path": "library\\southeast-asia\\thailand\\thai\\textile\\thai\\images\\bm_A_As1975-02-19.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:24:05.362076+00:00",
+    "raw": {
+      "title": "weaving sample",
+      "description": "A weaving-sample; a length of weft ikat, &#039;matmi&#039;, patterned shot silk; tabby woven.  Two main registers: two lines of pink/white confronted nagas (snakes), the ends of their bodies touching; patterning in lower register slightly longer and wider than upper.  A white fuzzy line separates this imagery from a geometric band below; a diamond-within-diamond pattern.  Brown warp, red weft; cloth for a tube skirt, a &#039;phasin&#039;?; patterning worn as bands.  Chemically dyed yarns.  Warp ends raw.  Unused.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_17/6f07273e_3dae_496a_b593_a3be01199ece/preview_00448549_001.jpg"
+    }
+  }
+]

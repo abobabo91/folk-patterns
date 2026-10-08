@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1905-179-a-b",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1905-179-a-b",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1905-179-a-b",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1905.179.a.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Kanuri",
+      "tradition": "Kanuri",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A pair of metal stirrups with plaited leather slings, a well-known equestrian item used by the Kanuri of the Lake Chad region, consistent with their tradition of horsemanship.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "stirrup",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "stirrup",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Pair of stirrups on plaited leather slings",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_13/eced817e_1c7b_45fb_9ddb_a9cf00da81d2/preview_EAF14995.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a5cdbd1b584134a400e41d8a430a8313f732b9134ca08bc3bd6be611838c82bc",
+        "bytes": 35836,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\kanuri\\metalwork\\kanuri\\images\\bm_E_Af1905_179_a_b.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:51:10.495633+00:00",
+    "raw": {
+      "title": "stirrup",
+      "description": "Pair of stirrups on plaited leather slings",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/8_13/eced817e_1c7b_45fb_9ddb_a9cf00da81d2/preview_EAF14995.jpg",
+      "production_ethnic_groups": [
+        "Kanuri"
+      ],
+      "production_ethnic_attribution": "Made by: Kanuri"
+    }
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "va-O481840",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O481840",
+      "object_url": "https://collections.vam.ac.uk/item/O481840",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.17-1960",
+      "accession_year": 1960
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Batak",
+      "tradition": "Batak weaving",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a classic ragidup-style Batak Toba ikat shoulder cloth with the characteristic dark warp-striped ikat center panel flanked by supplementary-weft tapestry end panels and fringe, matching Batak textile tradition of Sumatra.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1950-1959",
+      "date_earliest": 1950,
+      "date_latest": 1959,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [
+        "weaving"
+      ],
+      "medium_raw": "Plain weave cotton, warp ikat, supplementary weft patterning",
+      "classification": "Shoulder cloth",
+      "styles": [],
+      "categories": [
+        "Textiles"
+      ],
+      "physical_description": "Shoulder cloth (ragidup) of ikat woven cotton. Divided into three sections. The large section in the middle has a striped pattern in dark blue, brown and natural, and ikat on warp threads. Both ends have large white panels inserted with additional weft threads in tapestry technique.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "93.5",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "36",
+          "unit": "in",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Sumatra",
+      "made_in_place_alt": [],
+      "current_gallery": "002",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP7666/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP7666",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP7666/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "5b27bf80410962e7ac89553cbdcf3e49a3aa45a7da32d0538c94bbc23f4aef21",
+        "bytes": 387730,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-weaving\\images\\va_O481840.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017KC6894/full/1000,/0/default.jpg",
+        "iiif_id": "2017KC6894",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6894/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "9c39fe5a31aa673983f225d11f9daf0bfb8cd3dd07079ba7558b2c564536a39a",
+        "bytes": 426774,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-weaving\\images\\va_O481840_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017KC6895/full/1000,/0/default.jpg",
+        "iiif_id": "2017KC6895",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017KC6895/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "2696d8bb18da05af553c5397f617288bc95877ed82e018655257b41f80fe8f16",
+        "bytes": 323980,
+        "local_path": "library\\southeast-asia\\indonesia\\batak\\textile\\batak-weaving\\images\\va_O481840_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:49.601161+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O481840",
+        "accessionNumber": "IS.17-1960",
+        "objectType": "Shoulder cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312202",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP7666",
+        "_primaryDate": "1950-1959",
+        "_primaryPlace": "Sumatra",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP7666/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP7666/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O481840/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O481840",
+        "accessionNumber": "IS.17-1960",
+        "objectType": "Shoulder cloth",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Shoulder cloth (ragidup) of ikat woven cotton. Divided into three sections. The large section in the middle has a striped pattern in dark blue, brown and natural, and ikat on warp threads. Both ends have large white panels inserted with additional weft threads in tapestry technique.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [],
+        "techniques": [
+          {
+            "text": "weaving",
+            "id": "AAT53642"
+          }
+        ],
+        "materialsAndTechniques": "Plain weave cotton, warp ikat, supplementary weft patterning",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP7666",
+          "2017KC6894",
+          "2017KC6895"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "002",
+              "id": "THES312202"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Textile",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Sumatra",
+              "id": "x35701"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1950-1959",
+              "earliest": "1950-01-01",
+              "latest": "1959-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "93.5",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "36",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Shoulder cloth (ragidup) of ikat woven cotton, made by the Batak people, Sumatra, Indonesia, 1950-59.",
+        "bibliographicReferences": [],
+        "production": "Batak",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.17-1960"
+        ],
+        "accessionNumberNum": "17",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1960,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-11-06",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  }
+]

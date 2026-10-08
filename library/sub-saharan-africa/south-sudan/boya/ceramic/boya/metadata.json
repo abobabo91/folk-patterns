@@ -1,0 +1,95 @@
+[
+  {
+    "id": "british_museum-E_Af1979-06-146",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1979-06-146",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-06-146",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1979.06.146",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Sudan",
+      "ethnicity": "Boya",
+      "tradition": "Boya",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a handmade earthenware storage vessel with a globular body and short neck, consistent with traditional South Sudanese ceramic pottery types; no evidence contradicts the Boya attribution, and such vessels are plausible for the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "vessel",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Vessel made of pottery.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/94734ea6_4be9_4a03_b26c_a48700f334d5/preview_EAF57711.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4a76e30a39291a6330dab53c359d69dabc3df665d7931fff18d22ee02d00ab63",
+        "bytes": 47624,
+        "local_path": "library\\sub-saharan-africa\\south-sudan\\boya\\ceramic\\boya\\images\\bm_E_Af1979-06-146.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-26T21:30:22.921897+00:00",
+    "raw": {
+      "title": "vessel",
+      "description": "Vessel made of pottery.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_4/27_14/94734ea6_4be9_4a03_b26c_a48700f334d5/preview_EAF57711.jpg"
+    }
+  }
+]

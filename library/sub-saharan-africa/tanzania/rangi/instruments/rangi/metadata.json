@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1924-1218-86",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1924-1218-86",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1924-1218-86",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1924.1218.86",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Tanzania",
+      "ethnicity": "Rangi",
+      "tradition": "Rangi",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved horn with a mouth-hole and ribbed grip, made and used as a signal horn/instrument by the Rangi — a plausible traditional object for the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bugle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bugle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Bugle made from a horn.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/c33830de_0bfe_4070_96c3_a3e60147dae7/preview_01607211_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "45c0d2812c29b518a3a89b3bc0f2001490e735b82415931e85708031aa1cbdc9",
+        "bytes": 95147,
+        "local_path": "library\\sub-saharan-africa\\tanzania\\rangi\\instruments\\rangi\\images\\bm_E_Af1924_1218_86.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:27:21.706961+00:00",
+    "raw": {
+      "title": "bugle",
+      "description": "Bugle made from a horn.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/17_19/c33830de_0bfe_4070_96c3_a3e60147dae7/preview_01607211_001.jpg",
+      "production_ethnic_groups": [
+        "Rangi"
+      ],
+      "production_ethnic_attribution": "Made by: Rangi"
+    }
+  }
+]

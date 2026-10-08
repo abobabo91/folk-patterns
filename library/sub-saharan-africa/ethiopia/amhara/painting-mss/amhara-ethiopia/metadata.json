@@ -1,0 +1,884 @@
+[
+  {
+    "id": "europeana-1100_6139",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Chester Beatty",
+      "object_id": "1100_6139",
+      "object_url": "https://www.europeana.eu/item/1100/6139?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ethiopia",
+      "ethnicity": "Amhara",
+      "tradition": "Amhara Ethiopia",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is the striped fabric binding cover of an Ethiopian Ge'ez manuscript (Amhara Christian tradition), not a page of text but the textile binding itself, which is an object used/made within the culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Ethiopian Psalter and Prayers to the Virgin (Weddase Maryam, Weddase wa-genay la-Emma Adonay)",
+      "titles_alt": [],
+      "date_text": {
+        "def": "19. Jahrhundert"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Chester Beatty",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fviewer.cbl.ie%2Fviewer%2Fcontent%2FW_908%2F800%2F0%2FW908_1_001.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a7e109e4b28c8dfa7fea1838a9d6c3a306c8c14c16f8cf3c41acdb5f0bf5f6b6",
+        "bytes": 38028,
+        "local_path": "library\\sub-saharan-africa\\ethiopia\\amhara\\painting-mss\\amhara-ethiopia\\images\\eu_1100_6139.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T06:53:22.550617+00:00",
+    "raw": {
+      "completeness": 0,
+      "country": [
+        "Ireland"
+      ],
+      "dataProvider": [
+        "Chester Beatty"
+      ],
+      "dcCreator": [
+        "Unknown"
+      ],
+      "dcCreatorLangAware": {
+        "def": [
+          "Unknown"
+        ]
+      },
+      "dcDescription": [
+        "Parchment codex written in Ge'ez in Ethiopia in the nineteenth century, containing a Psalter, and at the end, a collection of prayers to Our Lady Mary, praises and thanksgiving to the Mother of God, and notes written in Amhairc. Decorative headings and bands on ff.1r, 7r, 13c, 14r, 21r, 31v, 39r, 44r, 51v, 61r, 68v, 74r, 86v, 97v, 100v, 106r, 112r, and 123v. The manuscript has a multi-colour, striped fabric binding cover with long straps. The leather satchel is housed separate (CBL W 908.1)."
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "Parchment codex written in Ge'ez in Ethiopia in the nineteenth century, containing a Psalter, and at the end, a collection of prayers to Our Lady Mary, praises and thanksgiving to the Mother of God, and notes written in Amhairc. Decorative headings and bands on ff.1r, 7r, 13c, 14r, 21r, 31v, 39r, 44r, 51v, 61r, 68v, 74r, 86v, 97v, 100v, 106r, 112r, and 123v. The manuscript has a multi-colour, striped fabric binding cover with long straps. The leather satchel is housed separate (CBL W 908.1)."
+        ]
+      },
+      "dcLanguage": [
+        "Ge'ez",
+        "Amharic",
+        "am"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "Ge'ez",
+          "Amharic",
+          "am"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Ethiopian Psalter and Prayers to the Virgin (Weddase Maryam, Weddase wa-genay la-Emma Adonay)"
+        ]
+      },
+      "edmConcept": [
+        "http://vocab.getty.edu/aat/300028569",
+        "http://data.europeana.eu/concept/17"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Manuskript (Dokumentengattung)"
+        },
+        {
+          "def": "Manuskript"
+        },
+        {
+          "def": "manuscritos"
+        },
+        {
+          "def": "Manuscrito"
+        },
+        {
+          "def": "manuscripts (documents)"
+        },
+        {
+          "def": "Manuscript"
+        },
+        {
+          "def": "manuscrits"
+        },
+        {
+          "def": "Manuscrit"
+        },
+        {
+          "def": "manuscritos"
+        },
+        {
+          "def": "Manuscrito"
+        },
+        {
+          "def": "manuscripten"
+        },
+        {
+          "def": "Manuscript"
+        },
+        {
+          "def": "Рукопись"
+        },
+        {
+          "def": "Käsikirjoitus"
+        },
+        {
+          "def": "Ръкопис"
+        },
+        {
+          "def": "Rankraštis"
+        },
+        {
+          "def": "Rokraksts"
+        },
+        {
+          "def": "Rukopis"
+        },
+        {
+          "def": "Kézirat"
+        },
+        {
+          "def": "Rukopis"
+        },
+        {
+          "def": "Rokopis"
+        },
+        {
+          "def": "Lámhscríbhinn"
+        },
+        {
+          "def": "Manuscrit"
+        },
+        {
+          "def": "Handskrift"
+        },
+        {
+          "def": "Χειρόγραφο"
+        },
+        {
+          "def": "Manoscritto"
+        },
+        {
+          "def": "Käsikiri"
+        },
+        {
+          "def": "Eskuizkribu"
+        },
+        {
+          "def": "Rukopis"
+        },
+        {
+          "def": "Rękopis"
+        },
+        {
+          "def": "Håndskrift"
+        },
+        {
+          "def": "Manuscris"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Manuskript (Dokumentengattung)",
+          "Manuskript"
+        ],
+        "ru": [
+          "Рукопись"
+        ],
+        "fi": [
+          "Käsikirjoitus"
+        ],
+        "pt": [
+          "Manuscrito",
+          "manuscritos"
+        ],
+        "bg": [
+          "Ръкопис"
+        ],
+        "lt": [
+          "Rankraštis"
+        ],
+        "lv": [
+          "Rokraksts"
+        ],
+        "hr": [
+          "Rukopis"
+        ],
+        "fr": [
+          "manuscrits",
+          "Manuscrit"
+        ],
+        "hu": [
+          "Kézirat"
+        ],
+        "sk": [
+          "Rukopis"
+        ],
+        "sl": [
+          "Rokopis"
+        ],
+        "ga": [
+          "Lámhscríbhinn"
+        ],
+        "ca": [
+          "Manuscrit"
+        ],
+        "sv": [
+          "Handskrift"
+        ],
+        "el": [
+          "Χειρόγραφο"
+        ],
+        "en": [
+          "Manuscript",
+          "manuscripts (documents)"
+        ],
+        "it": [
+          "Manoscritto"
+        ],
+        "es": [
+          "Manuscrito",
+          "manuscritos"
+        ],
+        "et": [
+          "Käsikiri"
+        ],
+        "eu": [
+          "Eskuizkribu"
+        ],
+        "cs": [
+          "Rukopis"
+        ],
+        "pl": [
+          "Rękopis"
+        ],
+        "da": [
+          "Håndskrift"
+        ],
+        "ro": [
+          "Manuscris"
+        ],
+        "nl": [
+          "Manuscript",
+          "manuscripten"
+        ]
+      },
+      "edmDatasetName": [
+        "1100_Chester_Beatty"
+      ],
+      "edmIsShownAt": [
+        "https://viewer.cbl.ie/viewer/ppnresolver?id=W_908"
+      ],
+      "edmIsShownBy": [
+        "https://viewer.cbl.ie/viewer/content/W_908/800/0/W908_1_001.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Federala demokratiska republiken Etiopien"
+        },
+        {
+          "def": "Demokratiska förbundsrepubliken Etiopien"
+        },
+        {
+          "def": "Федеративная Демократическая Республика Эфиопия"
+        },
+        {
+          "def": "Абиссиния"
+        },
+        {
+          "def": "Абессиния"
+        },
+        {
+          "def": "Etiopian demokraattinen liittotasavalta"
+        },
+        {
+          "def": "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        },
+        {
+          "def": "Repubblika Demokratika Federali tal-Etjopja"
+        },
+        {
+          "def": "Federal Democratic Republic of Ethiopia"
+        },
+        {
+          "def": "et"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Repubblica Federale Democratica d'Etiopia"
+        },
+        {
+          "def": "République fédérale démocratique d'Éthiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "La République démocratique fédérale d’Éthiopie"
+        },
+        {
+          "def": "Etióp Szövetségi Demokratikus Köztársaság"
+        },
+        {
+          "def": "Asamblea Parlamentaria Federal"
+        },
+        {
+          "def": "República Democrática Federal de Etiopía"
+        },
+        {
+          "def": "Etioopia Demokraatlik Liitvabariik"
+        },
+        {
+          "def": "Habeš"
+        },
+        {
+          "def": "Abesínia"
+        },
+        {
+          "def": "Etiópska federatívna demokratická republika"
+        },
+        {
+          "def": "Ethiopie"
+        },
+        {
+          "def": "ET"
+        },
+        {
+          "def": "ETH"
+        },
+        {
+          "def": "Abissínia"
+        },
+        {
+          "def": "República Democràtica Federal d'Etiòpia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Imperi abissini"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "sv": [
+          "Federala demokratiska republiken Etiopien",
+          "Demokratiska förbundsrepubliken Etiopien"
+        ],
+        "ru": [
+          "Федеративная Демократическая Республика Эфиопия",
+          "Абиссиния",
+          "Абессиния"
+        ],
+        "fi": [
+          "Etiopian demokraattinen liittotasavalta"
+        ],
+        "el": [
+          "Ομοσπονδιακή Δημοκρατία της Αιθιοπίας"
+        ],
+        "mt": [
+          "Repubblika Demokratika Federali tal-Etjopja"
+        ],
+        "en": [
+          "Federal Democratic Republic of Ethiopia",
+          "et",
+          "ETH"
+        ],
+        "it": [
+          "Repubblica Federale Democratica d'Etiopia"
+        ],
+        "fr": [
+          "République fédérale démocratique d'Éthiopie",
+          "ET",
+          "La République démocratique fédérale d’Éthiopie"
+        ],
+        "hu": [
+          "Etióp Szövetségi Demokratikus Köztársaság"
+        ],
+        "es": [
+          "Asamblea Parlamentaria Federal",
+          "República Democrática Federal de Etiopía"
+        ],
+        "et": [
+          "Etioopia Demokraatlik Liitvabariik"
+        ],
+        "cs": [
+          "Habeš"
+        ],
+        "sk": [
+          "Abesínia",
+          "Etiópska federatívna demokratická republika"
+        ],
+        "nl": [
+          "Ethiopie",
+          "ET",
+          "ETH"
+        ],
+        "ca": [
+          "Abissínia",
+          "República Democràtica Federal d'Etiòpia",
+          "Etiopia",
+          "Imperi abissini"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Äthiopien"
+        },
+        {
+          "def": "Эфиопия"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Етиопия"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "Éthiopie"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiópia"
+        },
+        {
+          "def": "Etiopija"
+        },
+        {
+          "def": "An Aetóip"
+        },
+        {
+          "def": "Etiòpia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Αιθιοπία"
+        },
+        {
+          "def": "Etjopja"
+        },
+        {
+          "def": "Ethiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopía"
+        },
+        {
+          "def": "Etioopia"
+        },
+        {
+          "def": "Etiopie"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopia"
+        },
+        {
+          "def": "Etiopien"
+        },
+        {
+          "def": "Ethiopië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Äthiopien"
+        ],
+        "ru": [
+          "Эфиопия"
+        ],
+        "fi": [
+          "Etiopia"
+        ],
+        "pt": [
+          "Etiópia"
+        ],
+        "bg": [
+          "Етиопия"
+        ],
+        "lt": [
+          "Etiopija"
+        ],
+        "lv": [
+          "Etiopija"
+        ],
+        "hr": [
+          "Etiopija"
+        ],
+        "fr": [
+          "Éthiopie"
+        ],
+        "hu": [
+          "Etiópia"
+        ],
+        "sk": [
+          "Etiópia"
+        ],
+        "sl": [
+          "Etiopija"
+        ],
+        "ga": [
+          "An Aetóip"
+        ],
+        "ca": [
+          "Etiòpia"
+        ],
+        "sv": [
+          "Etiopien"
+        ],
+        "el": [
+          "Αιθιοπία"
+        ],
+        "mt": [
+          "Etjopja"
+        ],
+        "en": [
+          "Ethiopia"
+        ],
+        "it": [
+          "Etiopia"
+        ],
+        "es": [
+          "Etiopía"
+        ],
+        "et": [
+          "Etioopia"
+        ],
+        "cs": [
+          "Etiopie"
+        ],
+        "eu": [
+          "Etiopia"
+        ],
+        "pl": [
+          "Etiopia"
+        ],
+        "ro": [
+          "Etiopia"
+        ],
+        "da": [
+          "Etiopien"
+        ],
+        "nl": [
+          "Ethiopië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "9.0"
+      ],
+      "edmPlaceLongitude": [
+        "40.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fviewer.cbl.ie%2Fviewer%2Fcontent%2FW_908%2F800%2F0%2FW908_1_001.jpg&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "19. Jahrhundert"
+        },
+        {
+          "def": "1800-luku"
+        },
+        {
+          "def": "XIX век"
+        },
+        {
+          "def": "Século XIX"
+        },
+        {
+          "def": "19 век"
+        },
+        {
+          "def": "XIX amžius"
+        },
+        {
+          "def": "19. stoljeće"
+        },
+        {
+          "def": "19. gadsimts"
+        },
+        {
+          "def": "XIXᵉ siècle"
+        },
+        {
+          "def": "19. század"
+        },
+        {
+          "def": "19. storočie"
+        },
+        {
+          "def": "19. stoletje"
+        },
+        {
+          "def": "19ú haois"
+        },
+        {
+          "def": "Segle XIX"
+        },
+        {
+          "def": "1800-talet"
+        },
+        {
+          "def": "19ος αιώνας"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "XIX secolo"
+        },
+        {
+          "def": "Siglo XIX"
+        },
+        {
+          "def": "19. sajand"
+        },
+        {
+          "def": "19. století"
+        },
+        {
+          "def": "XIX. mendea"
+        },
+        {
+          "def": "XIX wiek"
+        },
+        {
+          "def": "19. århundrede"
+        },
+        {
+          "def": "Secolul al XIX-lea"
+        },
+        {
+          "def": "19e eeuw"
+        },
+        {
+          "def": "http://www.wikidata.org/entity/Q6955"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh2002012475"
+        },
+        {
+          "def": "http://id.loc.gov/authorities/names/sh85091984"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/D049672"
+        },
+        {
+          "def": "https://www.freebase.com/m/08b3m"
+        },
+        {
+          "def": "https://g.co/kg/m/08b3m"
+        },
+        {
+          "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+        },
+        {
+          "def": "http://datos.bne.es/resource/XX4343988"
+        },
+        {
+          "def": "http://vocab.getty.edu/aat/300404513"
+        },
+        {
+          "def": "http://babelnet.org/rdf/s02210346n"
+        },
+        {
+          "def": "http://dbpedia.org/resource/19th_century"
+        },
+        {
+          "def": "18XX"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "de": [
+          "19. Jahrhundert"
+        ],
+        "fi": [
+          "1800-luku"
+        ],
+        "ru": [
+          "XIX век"
+        ],
+        "pt": [
+          "Século XIX"
+        ],
+        "bg": [
+          "19 век"
+        ],
+        "lt": [
+          "XIX amžius"
+        ],
+        "hr": [
+          "19. stoljeće"
+        ],
+        "lv": [
+          "19. gadsimts"
+        ],
+        "fr": [
+          "XIXᵉ siècle"
+        ],
+        "hu": [
+          "19. század"
+        ],
+        "sk": [
+          "19. storočie"
+        ],
+        "sl": [
+          "19. stoletje"
+        ],
+        "ga": [
+          "19ú haois"
+        ],
+        "ca": [
+          "Segle XIX"
+        ],
+        "sv": [
+          "1800-talet"
+        ],
+        "el": [
+          "19ος αιώνας"
+        ],
+        "en": [
+          "19th century"
+        ],
+        "it": [
+          "XIX secolo"
+        ],
+        "es": [
+          "Siglo XIX"
+        ],
+        "et": [
+          "19. sajand"
+        ],
+        "cs": [
+          "19. století"
+        ],
+        "eu": [
+          "XIX. mendea"
+        ],
+        "zxx": [
+          "18XX"
+        ],
+        "pl": [
+          "XIX wiek"
+        ],
+        "da": [
+          "19. århundrede"
+        ],
+        "ro": [
+          "Secolul al XIX-lea"
+        ],
+        "nl": [
+          "19e eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "1100_Chester_Beatty"
+      ],
+      "europeanaCompleteness": 0,
+      "guid": "https://www.europeana.eu/item/1100/6139?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/1100/6139",
+      "index": 0,
+      "language": [
+        "en"
+      ],
+      "link": "https://api.europeana.eu/record/1100/6139.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "MUSEU"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 70.41979,
+      "timestamp": 1755093527462,
+      "timestamp_created": "2024-04-12T17:35:04.044Z",
+      "timestamp_created_epoch": 1712943304044,
+      "timestamp_update": "2025-08-13T13:52:37.769Z",
+      "timestamp_update_epoch": 1755093157769,
+      "title": [
+        "Ethiopian Psalter and Prayers to the Virgin (Weddase Maryam, Weddase wa-genay la-Emma Adonay)"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

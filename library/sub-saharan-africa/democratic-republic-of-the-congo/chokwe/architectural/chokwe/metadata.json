@@ -1,0 +1,677 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_43301",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_43301",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43301?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "architectural",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a fiber wig/headdress made of bast fiber mixed with clay and grease, styled with a fringe of cords — a woman's festive headdress worn in the region, consistent with Chokwe/Central African traditions; the museum's own category (headdress) is more accurate than the claimed \"architectural\" category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "peruk, headdress, wig, peluca",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F702805%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a0b3545945489bdde5132997878e92b03ce33ab9aa77ba2a0d230d9f3703879c",
+        "bytes": 20069,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\architectural\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_43301.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-24T07:00:10.975618+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Peruk buren av kvinnorna vid festliga tillfällen. Överensstämmer med eras gängse festfrisyrer: håret   har insmorts med lera och fett och ordnats i lockmönster. \nPerukerna är mestadels förfärdigade av bast, inmängd med lera och fett, undantagsvis av hår. Förr användes peruker även av männen. Baktill hänger en tjock tofs av svrtfärgade bastsnoddar med lerklumpar i ändan.",
+        "Textilperuk  med ett tjockt lager pigment. \nMycket dåligt skick, väldigt skör. Pigmentet faller av så fort man rör den.",
+        "Inre stöd (neopolen och nonwoven ), inför utställning.",
+        "Ytmaterialet smular och släpper. Mycket ömtålig. [[från utställning]]",
+        "Peruk buren av kvinnorna vid festliga tillfällen. Överensstämmer med deras gängse festfrisyrer: håret   har insmorts med lera och fett och ordnats i lockmönster. \nDiam: 3 cm, Höjd: 12 cm. \nUrsprung: Angola\nEtnisk grupp: Chokwe\n\nwig worn by women at festive occations. In agreement with their prevalent festive coiffures: the hair has been greased with clay and fat and is arranged in curls.  \nDiam: 3 cm, Höjd: 12 cm.\nOrigin: Angola\nEthnic group: Chokwe (utställningstext Horisonter - röster från ett globalt Afrika)",
+        "Horisonter - röster från ett globalt Afrika",
+        "Bolinders expedition till södra Afrika (1948-1949)",
+        "1949.23.0054",
+        "Gustaf Bolinder",
+        "Angola",
+        "skiss",
+        "Chokwe",
+        "CONGO 7",
+        "Horisonter - Kongo",
+        "Angola",
+        "Kioko",
+        "Badjok",
+        "Ciokwe",
+        "Cokwe",
+        "Kibokwe",
+        "Batshioko",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Peruk buren av kvinnorna vid festliga tillfällen. Överensstämmer med eras gängse festfrisyrer: håret   har insmorts med lera och fett och ordnats i lockmönster. \nPerukerna är mestadels förfärdigade av bast, inmängd med lera och fett, undantagsvis av hår. Förr användes peruker även av männen. Baktill hänger en tjock tofs av svrtfärgade bastsnoddar med lerklumpar i ändan.",
+          "Textilperuk  med ett tjockt lager pigment. \nMycket dåligt skick, väldigt skör. Pigmentet faller av så fort man rör den.",
+          "Inre stöd (neopolen och nonwoven ), inför utställning.",
+          "Ytmaterialet smular och släpper. Mycket ömtålig. [[från utställning]]",
+          "Peruk buren av kvinnorna vid festliga tillfällen. Överensstämmer med deras gängse festfrisyrer: håret   har insmorts med lera och fett och ordnats i lockmönster. \nDiam: 3 cm, Höjd: 12 cm. \nUrsprung: Angola\nEtnisk grupp: Chokwe\n\nwig worn by women at festive occations. In agreement with their prevalent festive coiffures: the hair has been greased with clay and fat and is arranged in curls.  \nDiam: 3 cm, Höjd: 12 cm.\nOrigin: Angola\nEthnic group: Chokwe (utställningstext Horisonter - röster från ett globalt Afrika)",
+          "Horisonter - röster från ett globalt Afrika",
+          "Bolinders expedition till södra Afrika (1948-1949)"
+        ],
+        "def": [
+          "1949.23.0054",
+          "Gustaf Bolinder",
+          "Angola",
+          "skiss",
+          "Chokwe",
+          "CONGO 7",
+          "Horisonter - Kongo",
+          "Angola",
+          "Kioko",
+          "Badjok",
+          "Ciokwe",
+          "Cokwe",
+          "Kibokwe",
+          "Batshioko",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "peruk, headdress, wig, peluca"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2712"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Perücke"
+        },
+        {
+          "def": "Парик"
+        },
+        {
+          "def": "Peruukki"
+        },
+        {
+          "def": "Peruca"
+        },
+        {
+          "def": "Перука"
+        },
+        {
+          "def": "Perukas"
+        },
+        {
+          "def": "Perika"
+        },
+        {
+          "def": "Parūka"
+        },
+        {
+          "def": "Perruque"
+        },
+        {
+          "def": "Paróka"
+        },
+        {
+          "def": "Parochňa"
+        },
+        {
+          "def": "Lasulja"
+        },
+        {
+          "def": "Perruca"
+        },
+        {
+          "def": "Peruk"
+        },
+        {
+          "def": "Περούκα"
+        },
+        {
+          "def": "Wig"
+        },
+        {
+          "def": "Parrucca"
+        },
+        {
+          "def": "Peluca"
+        },
+        {
+          "def": "Parukas"
+        },
+        {
+          "def": "Ileorde"
+        },
+        {
+          "def": "Paruka"
+        },
+        {
+          "def": "Peruka"
+        },
+        {
+          "def": "Perucă"
+        },
+        {
+          "def": "Paryk"
+        },
+        {
+          "def": "Pruik"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Perücke"
+        ],
+        "ru": [
+          "Парик"
+        ],
+        "fi": [
+          "Peruukki"
+        ],
+        "pt": [
+          "Peruca"
+        ],
+        "bg": [
+          "Перука"
+        ],
+        "lt": [
+          "Perukas"
+        ],
+        "hr": [
+          "Perika"
+        ],
+        "lv": [
+          "Parūka"
+        ],
+        "fr": [
+          "Perruque"
+        ],
+        "hu": [
+          "Paróka"
+        ],
+        "sk": [
+          "Parochňa"
+        ],
+        "sl": [
+          "Lasulja"
+        ],
+        "ca": [
+          "Perruca"
+        ],
+        "sv": [
+          "Peruk"
+        ],
+        "el": [
+          "Περούκα"
+        ],
+        "en": [
+          "Wig"
+        ],
+        "it": [
+          "Parrucca"
+        ],
+        "es": [
+          "Peluca"
+        ],
+        "et": [
+          "Parukas"
+        ],
+        "eu": [
+          "Ileorde"
+        ],
+        "cs": [
+          "Paruka"
+        ],
+        "pl": [
+          "Peruka"
+        ],
+        "ro": [
+          "Perucă"
+        ],
+        "da": [
+          "Paryk"
+        ],
+        "nl": [
+          "Pruik"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/43301"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/702805/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F702805%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_43301?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_43301",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_43301.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 28.506067,
+      "timestamp": 1752047601720,
+      "timestamp_created": "2014-10-01T16:21:02.674Z",
+      "timestamp_created_epoch": 1412180462674,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "peruk, headdress, wig, peluca"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

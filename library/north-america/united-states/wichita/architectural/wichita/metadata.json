@@ -1,0 +1,117 @@
+[
+  {
+    "id": "europeana-91609_SMVK_VKM_fotografi_112396",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91609_SMVK_VKM_fotografi_112396",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112396?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Wichita",
+      "tradition": "Wichita",
+      "art_form": "architectural",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The photograph shows a museum diorama of scale models of traditional Wichita grass-house and other dwellings, a documentary record of Wichita architectural forms (shown as miniatures, not photos of actual full-size buildings).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "architectural",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Gräshyddor, modeller, fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/519106/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6463aca4bbaba2f130818fa1b941c50f7708ed8ec09862dcc830b4c14cc6c61a",
+        "bytes": 25025,
+        "local_path": "library\\north-america\\united-states\\wichita\\architectural\\wichita\\images\\eu_91609_SMVK_VKM_fotografi_112396.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F519106%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-04T14:19:35.142338+00:00",
+    "raw": {
+      "id": "/91609/SMVK_VKM_fotografi_112396",
+      "guid": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112396?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Gräshyddor, modeller, fotografi, photograph",
+        "Grass shades, models, photography, ph"
+      ],
+      "dcDescription": [
+        "732D Wichita People Wichitas Indian Territory, USA. Modeller av gräshyddor från Wichita-indianer.\n(Wichita en caddostam, förr i norra Texas).  Efter Ture, Holmes & Merrill: Report on the Exhibit of the U.S.A. Nat. Mus. at the Pan. Amer. \nExposition, Buffalo, N.Y., 1901, plate 41 och text p. 209. (Rep. of the U.S. Nat. Mus. for the year 1901, Wash.: 1903). 732D Wichitas Indian Territory, USA. Wichita People"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F519106%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/519106/zoom"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

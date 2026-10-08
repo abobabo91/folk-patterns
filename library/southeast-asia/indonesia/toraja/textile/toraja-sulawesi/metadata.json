@@ -1,0 +1,1557 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_99667",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_99667",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_99667?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Toraja",
+      "tradition": "Toraja Sulawesi",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a folded pandanus-leaf mat used as an improvised umbrella/roof cover, collected in Central Sulawesi (Paloe/Kantéwoe) — a plausible Toraja-region material culture object even if the folded state obscures pattern.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Resmatta, matta, mat, carpet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2827317%2F1951.23.2151_mh01.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "05517330887e53a3d5a744eaa5dbc683b22d188a5d6d03a83c223ca439a498a0",
+        "bytes": 73433,
+        "local_path": "library\\southeast-asia\\indonesia\\toraja\\textile\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_99667.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:14.620316+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Resmatta av pandanusblad. Dubbelvikt så att den duger till paraply och tak.\nOrig. nr 1822a\nMellan-Celebes: Paloe\nMattor",
+        "Årsberättelse för 1950-51, Årstryck 1951-52, Etnografiska museet, Göteborg, s. 242-275",
+        "1951.23.2151",
+        "paraply? tak?",
+        "Walter Kaudern",
+        "Kantéwoe, bygd i N.V. Central Celebes",
+        "Kantéwoe, bygd i N.V. Central-Sulawesi",
+        "Kantéwoe, NV Central Celebes. [[Haga]]",
+        "skiss",
+        "Walter Kauderns expedition till Celebes (1917-1921)",
+        "Indonesia",
+        "Pipkoro",
+        "Western Toradja",
+        "Western Toraja"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Resmatta av pandanusblad. Dubbelvikt så att den duger till paraply och tak.\nOrig. nr 1822a\nMellan-Celebes: Paloe\nMattor",
+          "Årsberättelse för 1950-51, Årstryck 1951-52, Etnografiska museet, Göteborg, s. 242-275"
+        ],
+        "def": [
+          "1951.23.2151",
+          "paraply? tak?",
+          "Walter Kaudern",
+          "Kantéwoe, bygd i N.V. Central Celebes",
+          "Kantéwoe, bygd i N.V. Central-Sulawesi",
+          "Kantéwoe, NV Central Celebes. [[Haga]]",
+          "skiss",
+          "Walter Kauderns expedition till Celebes (1917-1921)",
+          "Indonesia",
+          "Pipkoro",
+          "Western Toradja",
+          "Western Toraja"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Resmatta, matta, mat, carpet"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/124",
+        "http://data.europeana.eu/concept/2239",
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Nahrung"
+        },
+        {
+          "def": "Teppich"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ruoka"
+        },
+        {
+          "def": "Matto"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Пища"
+        },
+        {
+          "def": "Ковёр"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Alimento"
+        },
+        {
+          "def": "Tapete"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Храна"
+        },
+        {
+          "def": "Мокет"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Maistas"
+        },
+        {
+          "def": "Kilimas"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Hrana"
+        },
+        {
+          "def": "Tepih"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Pārtika"
+        },
+        {
+          "def": "Paklājs"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Nourriture"
+        },
+        {
+          "def": "Tapis"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Étel"
+        },
+        {
+          "def": "Szőnyeg"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Potrava"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Hrana"
+        },
+        {
+          "def": "Talna preproga"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Bia"
+        },
+        {
+          "def": "Cairpéad"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Aliment"
+        },
+        {
+          "def": "Catifa"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Mat"
+        },
+        {
+          "def": "Matta"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Τροφή"
+        },
+        {
+          "def": "Χαλί"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Ikel"
+        },
+        {
+          "def": "Food"
+        },
+        {
+          "def": "Carpet"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Alimento"
+        },
+        {
+          "def": "Tappeto"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Alimento"
+        },
+        {
+          "def": "Alfombra"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Toit"
+        },
+        {
+          "def": "Vaip"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Potravina"
+        },
+        {
+          "def": "Koberec"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Janari"
+        },
+        {
+          "def": "Tapiz"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Żywność"
+        },
+        {
+          "def": "Dywan"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Mad"
+        },
+        {
+          "def": "Gulvtæppe"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Mâncare"
+        },
+        {
+          "def": "Covor"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Voedsel"
+        },
+        {
+          "def": "Tapijt"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Nahrung",
+          "Textilie",
+          "Teppich"
+        ],
+        "fi": [
+          "Matto",
+          "Ruoka",
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль",
+          "Ковёр",
+          "Пища"
+        ],
+        "pt": [
+          "Tapete",
+          "Têxtil",
+          "Alimento"
+        ],
+        "bg": [
+          "Мокет",
+          "Текстил",
+          "Храна"
+        ],
+        "lt": [
+          "Tekstilė",
+          "Kilimas",
+          "Maistas"
+        ],
+        "hr": [
+          "Hrana",
+          "Tepih",
+          "Tkanina"
+        ],
+        "lv": [
+          "Pārtika",
+          "Audums",
+          "Paklājs"
+        ],
+        "fr": [
+          "Tapis",
+          "Textile",
+          "Nourriture"
+        ],
+        "hu": [
+          "Szőnyeg",
+          "Szövet",
+          "Étel"
+        ],
+        "sk": [
+          "Textilia",
+          "Potrava"
+        ],
+        "sl": [
+          "Tekstil",
+          "Hrana",
+          "Talna preproga"
+        ],
+        "ga": [
+          "Teicstíl",
+          "Cairpéad",
+          "Bia"
+        ],
+        "ca": [
+          "Aliment",
+          "Tèxtil",
+          "Catifa"
+        ],
+        "sv": [
+          "Mat",
+          "Matta",
+          "Textil"
+        ],
+        "el": [
+          "Χαλί",
+          "Τροφή",
+          "Ύφασμα"
+        ],
+        "mt": [
+          "Ikel"
+        ],
+        "en": [
+          "Textile",
+          "Carpet",
+          "Food"
+        ],
+        "it": [
+          "Tessuto",
+          "Tappeto",
+          "Alimento"
+        ],
+        "es": [
+          "Alfombra",
+          "Alimento",
+          "Textil"
+        ],
+        "et": [
+          "Toit",
+          "Tekstiil",
+          "Vaip"
+        ],
+        "cs": [
+          "Potravina",
+          "Koberec",
+          "Textilie"
+        ],
+        "eu": [
+          "Janari",
+          "Tapiz",
+          "Ehun"
+        ],
+        "pl": [
+          "Żywność",
+          "Dywan",
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil",
+          "Mad",
+          "Gulvtæppe"
+        ],
+        "ro": [
+          "Mâncare",
+          "Covor",
+          "Material textil"
+        ],
+        "nl": [
+          "Voedsel",
+          "Tapijt",
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/99667"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2827317/1951.23.2151_mh01.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2827317%2F1951.23.2151_mh01.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_99667?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_99667",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_99667.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 27.152145,
+      "timestamp": 1752047774771,
+      "timestamp_created": "2022-02-21T11:07:27.703Z",
+      "timestamp_created_epoch": 1645441647703,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "Resmatta, matta, mat, carpet"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_46189",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_46189",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_46189?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Toraja",
+      "tradition": "Toraja Sulawesi",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Handwoven warp-ikat cotton cloth with stylized human figure motifs, from Mandar, Celebes (Sulawesi) — a weaving tradition consistent with the Toraja/South Sulawesi region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "väv, fabric",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1893899%2Fimage.jpg&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fef3522a2cb81591a54bc8e352422664c9b6ace5c20e87779f936693675b981d",
+        "bytes": 25830,
+        "local_path": "library\\southeast-asia\\indonesia\\toraja\\textile\\toraja-sulawesi\\images\\eu_91608_SMVK_VKM_objekt_46189.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:44:15.320255+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Vävnad av det slag som brukar användas som svepkläde. Hopsydd av fyra vävnadsstycken, så att varpen går från långsida till långsida på vävnaden. De båda mittstyckenas mönstring har erhållits med varpikat, Färger: rött, svart och blått. Genomgående mönster är en \nstiliserad människofigur. Vävnadens material: bomull från Celebes. Garnet z-spunnet och s-tvinnat.\nLängd: 270 cm. Bredd: 154 cm\nUppgifter om vävnadens material lämnad av Dr. J. H. Jager Gerlings, Koninklijk Instituut voor de Tropen, Amsterdam, i brev till museet av den 28/1 1953.\nKemtvätt maj. 78. GS.\nCelebes: Mandar: Övre Binuang.",
+        "Jfr: J. H. Jager Gerlings: Spreekende weefsels. Amsterdam 1952. Pp. 106 ff. Se särsk.:pp 112, 113 o. 118 samt afb. 29.",
+        "Årsberättelse för 1952, Årstryck 1953-55, Etnografiska museet, Göteborg",
+        "1952.26.0002",
+        "A. G. Bergman, Zaandam, 1952",
+        "Central-Celebes: Mamasa",
+        "8029",
+        "Central-Celebes: Mamasa",
+        "foto",
+        "13.510",
+        "Toradja i Galumpang",
+        "Indonesia",
+        "Toradja",
+        "Torajafolket",
+        "Toraja people"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Vävnad av det slag som brukar användas som svepkläde. Hopsydd av fyra vävnadsstycken, så att varpen går från långsida till långsida på vävnaden. De båda mittstyckenas mönstring har erhållits med varpikat, Färger: rött, svart och blått. Genomgående mönster är en \nstiliserad människofigur. Vävnadens material: bomull från Celebes. Garnet z-spunnet och s-tvinnat.\nLängd: 270 cm. Bredd: 154 cm\nUppgifter om vävnadens material lämnad av Dr. J. H. Jager Gerlings, Koninklijk Instituut voor de Tropen, Amsterdam, i brev till museet av den 28/1 1953.\nKemtvätt maj. 78. GS.\nCelebes: Mandar: Övre Binuang.",
+          "Jfr: J. H. Jager Gerlings: Spreekende weefsels. Amsterdam 1952. Pp. 106 ff. Se särsk.:pp 112, 113 o. 118 samt afb. 29.",
+          "Årsberättelse för 1952, Årstryck 1953-55, Etnografiska museet, Göteborg"
+        ],
+        "def": [
+          "1952.26.0002",
+          "A. G. Bergman, Zaandam, 1952",
+          "Central-Celebes: Mamasa",
+          "8029",
+          "Central-Celebes: Mamasa",
+          "foto",
+          "13.510",
+          "Toradja i Galumpang",
+          "Indonesia",
+          "Toradja",
+          "Torajafolket",
+          "Toraja people"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "väv, fabric"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/46189"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1893899/image.jpg"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Indonesian tasavalta"
+        },
+        {
+          "def": "Республика Индонезия"
+        },
+        {
+          "def": "РИ"
+        },
+        {
+          "def": "Republiken Indonesien"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "República da Indonésia"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "Република Индонезия"
+        },
+        {
+          "def": "Repubblika tal-Indoneżja"
+        },
+        {
+          "def": "Republic of Indonesia"
+        },
+        {
+          "def": "id"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "INA"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "La République d’Indonésie"
+        },
+        {
+          "def": "Indonéz Köztársaság"
+        },
+        {
+          "def": "República de Indonesia"
+        },
+        {
+          "def": "Republica de Indonesia"
+        },
+        {
+          "def": "Indoneesia Vabariik"
+        },
+        {
+          "def": "Indonézska republika"
+        },
+        {
+          "def": "Republika Indonezji"
+        },
+        {
+          "def": "Indonesie"
+        },
+        {
+          "def": "Republik Indonesia"
+        },
+        {
+          "def": "ID"
+        },
+        {
+          "def": "IDN"
+        },
+        {
+          "def": "República d'Indonèsia"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "fi": [
+          "Indonesian tasavalta"
+        ],
+        "ru": [
+          "Республика Индонезия",
+          "РИ"
+        ],
+        "sv": [
+          "Republiken Indonesien",
+          "Indonesia",
+          "Republik Indonesia"
+        ],
+        "pt": [
+          "República da Indonésia",
+          "Republik Indonesia"
+        ],
+        "bg": [
+          "Република Индонезия"
+        ],
+        "mt": [
+          "Repubblika tal-Indoneżja"
+        ],
+        "en": [
+          "Republic of Indonesia",
+          "id",
+          "ID",
+          "INA",
+          "IDN"
+        ],
+        "fr": [
+          "ID",
+          "La République d’Indonésie"
+        ],
+        "hu": [
+          "Indonéz Köztársaság"
+        ],
+        "es": [
+          "República de Indonesia",
+          "Republica de Indonesia"
+        ],
+        "et": [
+          "Indoneesia Vabariik"
+        ],
+        "sk": [
+          "Indonézska republika"
+        ],
+        "pl": [
+          "Republika Indonezji"
+        ],
+        "nl": [
+          "Indonesie",
+          "Republik Indonesia",
+          "ID",
+          "IDN"
+        ],
+        "ca": [
+          "República d'Indonèsia"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésia"
+        },
+        {
+          "def": "Индонезия"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonēzija"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonézia"
+        },
+        {
+          "def": "Indonezija"
+        },
+        {
+          "def": "An Indinéis"
+        },
+        {
+          "def": "Indonèsia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indoneżja"
+        },
+        {
+          "def": "Ινδονησία"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indoneesia"
+        },
+        {
+          "def": "Indonesia"
+        },
+        {
+          "def": "Indonésie"
+        },
+        {
+          "def": "Indonezja"
+        },
+        {
+          "def": "Indonezia"
+        },
+        {
+          "def": "Indonesien"
+        },
+        {
+          "def": "Indonesië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Indonesien"
+        ],
+        "ru": [
+          "Индонезия"
+        ],
+        "fi": [
+          "Indonesia"
+        ],
+        "pt": [
+          "Indonésia"
+        ],
+        "bg": [
+          "Индонезия"
+        ],
+        "lt": [
+          "Indonezija"
+        ],
+        "lv": [
+          "Indonēzija"
+        ],
+        "hr": [
+          "Indonezija"
+        ],
+        "fr": [
+          "Indonésie"
+        ],
+        "hu": [
+          "Indonézia"
+        ],
+        "sk": [
+          "Indonézia"
+        ],
+        "sl": [
+          "Indonezija"
+        ],
+        "ga": [
+          "An Indinéis"
+        ],
+        "ca": [
+          "Indonèsia"
+        ],
+        "sv": [
+          "Indonesien"
+        ],
+        "mt": [
+          "Indoneżja"
+        ],
+        "el": [
+          "Ινδονησία"
+        ],
+        "en": [
+          "Indonesia"
+        ],
+        "it": [
+          "Indonesia"
+        ],
+        "es": [
+          "Indonesia"
+        ],
+        "et": [
+          "Indoneesia"
+        ],
+        "eu": [
+          "Indonesia"
+        ],
+        "cs": [
+          "Indonésie"
+        ],
+        "pl": [
+          "Indonezja"
+        ],
+        "ro": [
+          "Indonezia"
+        ],
+        "da": [
+          "Indonesien"
+        ],
+        "nl": [
+          "Indonesië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-2.0"
+      ],
+      "edmPlaceLongitude": [
+        "118.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1893899%2Fimage.jpg&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_46189?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_46189",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_46189.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 28.974756,
+      "timestamp": 1752047598203,
+      "timestamp_created": "2014-10-01T16:22:30.487Z",
+      "timestamp_created_epoch": 1412180550487,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "väv, fabric"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

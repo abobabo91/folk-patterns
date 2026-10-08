@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1993-02-149",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1993-02-149",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1993-02-149",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1993.02.149",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Ngbaka",
+      "tradition": "Ngbaka",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved wooden standing male figure with characteristic Ngbaka facial scarification (rows of dots), heart-shaped face, and squared limbs — a traditional wood sculpture type attributed to the Ngbaka of the Central African Republic.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A carved wooden standing male figure with hemispherical hair composed of seven to eight horizontal ridges divided into quarters crowned with a diamond shape; the facial features are simplified into grooves; beside eyes and down the centre of forehead are rows of dots (scarification?); one arm terminates in a flat triangle, the other appears broken off; legs, genitalia and feet are squared flattened forms, possibly through damage.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/14_13/5fe30bf6_de7e_43d6_8018_a69f00e2e979/preview_EAF63014.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "801d8f7d83d6669857ffc3df81bb789f15948721882852df53c6e67ecdc02d7d",
+        "bytes": 32891,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\ngbaka\\sculpture\\ngbaka\\images\\bm_E_Af1993_02_149.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:37:56.422138+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "A carved wooden standing male figure with hemispherical hair composed of seven to eight horizontal ridges divided into quarters crowned with a diamond shape; the facial features are simplified into grooves; beside eyes and down the centre of forehead are rows of dots (scarification?); one arm terminates in a flat triangle, the other appears broken off; legs, genitalia and feet are squared flattened forms, possibly through damage.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/14_13/5fe30bf6_de7e_43d6_8018_a69f00e2e979/preview_EAF63014.jpg",
+      "production_ethnic_groups": [
+        "Ngbaka"
+      ],
+      "production_ethnic_attribution": "Made by: Ngbaka"
+    }
+  }
+]

@@ -1,0 +1,4135 @@
+[
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266520",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266520",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266520?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of a Mbuti (Bambuti) woman wearing a printed cotton wrap skirt near a traditional dwelling, consistent with the claimed ethnicity and category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Polopostava ženy v zástěrce z bavlněné potištěné látky, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17869459&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8fef3e44c583c3a5a1ae5768b2051327fc1126cc080684e8f23e32a542580a1e",
+        "bytes": 32039,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266520.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:24.713841+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Polopostava ženy v zástěrce z bavlněné potištěné látky, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266520"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=17869459"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratická republika Kongo"
+        },
+        {
+          "def": "oblast Ituri, Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "Demokratická republika Kongo",
+          "oblast Ituri, Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17869459&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266520?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266520",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266520.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 89.08738,
+      "timestamp": 1752067723766,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Polopostava ženy v zástěrce z bavlněné potištěné látky, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266531",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266531",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266531?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The photo shows a Bambuti (Mbuti) child wearing a cloth wrap and a scarification mark, standing in front of traditional mud-and-thatch huts — a documentary photo of dress and daily life consistent with the claimed group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Dítě v plátěné zástěrce a skarifikací, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17645593&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eef35e3fe7165ef583d13f36a57710657029277b8b9954c9c3dc41f55e44decc",
+        "bytes": 36259,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266531.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:24.727874+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Dítě v plátěné zástěrce a skarifikací, Bambuti"
+        ],
+        "en": [
+          "Child in a canvas apron and scarification, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266531"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=17645593"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratická republika Kongo"
+        },
+        {
+          "def": "oblast Ituri, Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "Demokratická republika Kongo",
+          "oblast Ituri, Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17645593&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266531?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266531",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266531.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 98.93615,
+      "timestamp": 1752067723864,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Dítě v plátěné zástěrce a skarifikací, Bambuti",
+        "Child in a canvas apron and scarification, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266542",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266542",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266542?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of two Mbuti (Bambuti) girls wearing bark-cloth aprons in a village setting, matching the title \"Bambuti\" and depicting traditional dress and daily life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Starší a mladší dívka v zástěrkách z plátna, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266544&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "adf7ac15025e7f720302727f27aaae24b3ac98a8329b033a1b80918d2f9de9c0",
+        "bytes": 34402,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266542.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:24.763569+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Starší a mladší dívka v zástěrkách z plátna, Bambuti"
+        ],
+        "en": [
+          "Older and younger girl in the aprons of canvas, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266542"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266544"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratická republika Kongo"
+        },
+        {
+          "def": "oblast Ituri, Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "Demokratická republika Kongo",
+          "oblast Ituri, Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266544&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266542?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266542",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266542.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 91.65181,
+      "timestamp": 1752067724031,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Starší a mladší dívka v zástěrkách z plátna, Bambuti",
+        "Older and younger girl in the aprons of canvas, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266597",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266597",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266597?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photograph of two Bambuti (Mbuti) men, one holding a child, in traditional dress (bark-cloth loincloths) outside a woven hut wall, consistent with the Mbuti pygmy people of Central Africa.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Dva muži, jeden drží v náručí dítě, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17660934&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7595c9772a2eba6d6688f0a1150b96d3c7afdd7b525d6e80db9ea7aa15459d21",
+        "bytes": 25421,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266597.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:24.942171+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Dva muži, jeden drží v náručí dítě, Bambuti"
+        ],
+        "en": [
+          "Two men, one holding a child in their arms, Bamboo"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266597"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=17660934"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratická republika Kongo"
+        },
+        {
+          "def": "oblast Ituri, Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "Demokratická republika Kongo",
+          "oblast Ituri, Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17660934&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266597?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266597",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266597.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 68.07747,
+      "timestamp": 1752067724690,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Dva muži, jeden drží v náručí dítě, Bambuti",
+        "Two men, one holding a child in their arms, Bamboo"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266608",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266608",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266608?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of two Mbuti (Bambuti) children/youths in traditional bark-cloth and raffia skirts, consistent with the claimed ethnicity and location.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Woman with larger children, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266610&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "45bc496f667aec628acc97a9c1251104131ba81e3e3097209f3732990be699cc",
+        "bytes": 56993,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266608.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:24.973288+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Žena s většími dětmi, Bambuti"
+        ],
+        "en": [
+          "Woman with larger children, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266608"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266610"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266610&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266608?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266608",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266608.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 111.92751,
+      "timestamp": 1752067724829,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Woman with larger children, Bambuti",
+        "Žena s většími dětmi, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266619",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266619",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266619?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photograph of a Bambuti (Mbuti) woman, boy, and young child wearing traditional bark-cloth/grass waist coverings, consistent with the claimed ethnicity and location (Ituri forest region, though filed under CAR).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "A woman with a boy and a young child, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266621&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "16b1142ccbb5fab8b9e22973c38320b90c0581d817f0d5e3edbabaf0f1de9cbe",
+        "bytes": 51439,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266619.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.001880+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Žena s chlapcem a malým dítětem, Bambuti"
+        ],
+        "en": [
+          "A woman with a boy and a young child, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266619"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266621"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266621&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266619?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266619",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266619.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 96.89137,
+      "timestamp": 1752067724927,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "A woman with a boy and a young child, Bambuti",
+        "Žena s chlapcem a malým dítětem, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266652",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266652",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266652?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photograph of men with bows and arrows standing before a thatched hut, captioned \"Bambuti\" — a classic ethnographic image of Mbuti daily life and material culture (dwelling, weapons, dress).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Muži s luky a šípy před chatou, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17809440&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "13c9d13d114e5bbdffbbe9db2c9de4ca28718b09442b85ddf9272d8f53cfe7ad",
+        "bytes": 62285,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266652.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.092179+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Muži s luky a šípy před chatou, Bambuti"
+        ],
+        "en": [
+          "Men with bows and arrows in front of the cottage, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266652"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=17809440"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratická republika Kongo"
+        },
+        {
+          "def": "oblast Ituri, Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "Demokratická republika Kongo",
+          "oblast Ituri, Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17809440&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266652?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266652",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266652.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 89.63471,
+      "timestamp": 1752067725188,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Muži s luky a šípy před chatou, Bambuti",
+        "Men with bows and arrows in front of the cottage, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266729",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266729",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266729?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of a Bambuti (Mbuti) man crouched with a bow and arrows beside a hut and child, consistent with Mbuti forest life and material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Sitting man with bow and arrows in his hand, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17918153&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "90602e1a0ca00fd338457a974720c7a0e9c0f6ae6fc3991f5b21acac5fd4f297",
+        "bytes": 58325,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266729.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.305979+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Sedící muž s lukem a šípy v ruce, Bambuti"
+        ],
+        "en": [
+          "Sitting man with bow and arrows in his hand, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266729"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=17918153"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17918153&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266729?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266729",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266729.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 89.63471,
+      "timestamp": 1752067725947,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Sitting man with bow and arrows in his hand, Bambuti",
+        "Sedící muž s lukem a šípy v ruce, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266806",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266806",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266806?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of two young Bambuti (Mbuti) girls with barkcloth wraps and shell/bead anklets, consistent with Mbuti forest-dweller dress and daily life.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Two girls standing side by side, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17691321&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5bf75909545c76a0fcc54c541720b6e1fd5baf3bd88ba59413b66ad6777e50d8",
+        "bytes": 66042,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266806.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.526244+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Dvě dívky stojící vedle sebe, Bambuti"
+        ],
+        "en": [
+          "Two girls standing side by side, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266806"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=17691321"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D17691321&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266806?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266806",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266806.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 100.573616,
+      "timestamp": 1752067726593,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Two girls standing side by side, Bambuti",
+        "Dvě dívky stojící vedle sebe, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266839",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266839",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266839?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photograph of three young Mbuti (Bambuti) women/girls in a forest setting, consistent with the claimed group and location (Central African Republic/DRC region).",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "photo",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Three standing girls, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266841&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4c42a932a8171ab8175cea75e546bed1703cd77ce75dd28633d97d39f2459e54",
+        "bytes": 29353,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266839.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.632506+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Tři stojící dívky, Bambuti"
+        ],
+        "en": [
+          "Three standing girls, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266839"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266841"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266841&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266839?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266839",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266839.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 117.197464,
+      "timestamp": 1752067726895,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Three standing girls, Bambuti",
+        "Tři stojící dívky, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266916",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266916",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266916?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photograph of a woman with body scarification, wearing a rear string/fiber apron, in a forest setting consistent with Central African forest peoples such as the Mbuti or neighboring groups; this is a plausible ethnographic photo of dress/body art for the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Standing woman from profile, scarification on the shoulder, Bamboo",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266918&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ed2e4b5e1571ab15794d75ad64ac2f922e4261a949f9ca4edb66a1456a7aa1d9",
+        "bytes": 71647,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266916.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.890902+00:00",
+    "raw": {
+      "completeness": 6,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Stojící žena z profilu, skarifikace na rameni, Bambuti"
+        ],
+        "en": [
+          "Standing woman from profile, scarification on the shoulder, Bamboo"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266916"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266918"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266918&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 6,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266916?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266916",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266916.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 69.68117,
+      "timestamp": 1752067727828,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Standing woman from profile, scarification on the shoulder, Bamboo",
+        "Stojící žena z profilu, skarifikace na rameni, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266927",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266927",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266927?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of a group of men with bows, arrows, and drums, consistent with Mbuti/Central African forest peoples' daily life and material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Men’s group with bows, arrows and drums, Bamboo",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266929&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "78a3d07b46fc141fd74d5dbb6c4a89efc7c24c95378754140778e9250f3cbcd5",
+        "bytes": 26546,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266927.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.922523+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Skupina mužů s luky, šípy a bubny, Bambuti"
+        ],
+        "en": [
+          "Men’s group with bows, arrows and drums, Bamboo"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266927"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266929"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266929&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266927?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266927",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266927.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 71.04322,
+      "timestamp": 1752067727994,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Men’s group with bows, arrows and drums, Bamboo",
+        "Skupina mužů s luky, šípy a bubny, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-488_https___www_esbirky_cz_detail_266938",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Náprstek Museum of Asian, African and American Cultures",
+      "object_id": "488_https___www_esbirky_cz_detail_266938",
+      "object_url": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266938?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Central African Republic",
+      "ethnicity": "Mbuti",
+      "tradition": "Mbuti barkcloth",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Documentary photo of Mbuti (Bambuti) adults and children with a traditional leaf-thatched hut in the forest, showing daily/village life, which matches the claimed ethnicity and region.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Group of adults and children, in the background of the hut, Bambuti",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1901-01-01"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Náprstek Museum of Asian, African and American Cultures",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266940&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eec9ab5dd5960de0eb3604075dd2e804051460e0be2220189649d8d501b28e7f",
+        "bytes": 40230,
+        "local_path": "library\\sub-saharan-africa\\central-african-republic\\mbuti\\unclassified\\mbuti-barkcloth\\images\\eu_488_https___www_esbirky_cz_detail_266938.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:25.951660+00:00",
+    "raw": {
+      "completeness": 5,
+      "country": [
+        "Czech Republic"
+      ],
+      "dataProvider": [
+        "Náprstek Museum of Asian, African and American Cultures"
+      ],
+      "dcTitleLangAware": {
+        "cs": [
+          "Skupinka dospělých a dětí, v pozadí chýše, Bambuti"
+        ],
+        "en": [
+          "Group of adults and children, in the background of the hut, Bambuti"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1665",
+        "#TypSbirky:315196",
+        "#Material:7691695",
+        "#Technika:17411"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negatiivi"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negativfilm"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Негатив"
+        },
+        {
+          "def": "Negatyvas"
+        },
+        {
+          "def": "Negative"
+        },
+        {
+          "def": "Negatīvs"
+        },
+        {
+          "def": "Pellicola per negativi"
+        },
+        {
+          "def": "Film négatif"
+        },
+        {
+          "def": "Negativo"
+        },
+        {
+          "def": "Fotonegatiiv"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Etnografická fotografie"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Fotografický proces"
+        },
+        {
+          "def": "Negativ"
+        },
+        {
+          "def": "Claonchló"
+        },
+        {
+          "def": "Negatyw"
+        },
+        {
+          "def": "Negatiu"
+        },
+        {
+          "def": "Negatief"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Negativfilm"
+        ],
+        "fi": [
+          "Negatiivi"
+        ],
+        "ru": [
+          "Негатив"
+        ],
+        "sv": [
+          "Negativfilm"
+        ],
+        "pt": [
+          "Negativo"
+        ],
+        "bg": [
+          "Негатив"
+        ],
+        "lt": [
+          "Negatyvas"
+        ],
+        "en": [
+          "Negative"
+        ],
+        "lv": [
+          "Negatīvs"
+        ],
+        "it": [
+          "Pellicola per negativi"
+        ],
+        "fr": [
+          "Film négatif"
+        ],
+        "es": [
+          "Negativo"
+        ],
+        "et": [
+          "Fotonegatiiv"
+        ],
+        "cs": [
+          "Fotografický proces",
+          "Negativ",
+          "Etnografická fotografie"
+        ],
+        "sl": [
+          "Negativ"
+        ],
+        "ga": [
+          "Claonchló"
+        ],
+        "pl": [
+          "Negatyw"
+        ],
+        "ca": [
+          "Negatiu"
+        ],
+        "nl": [
+          "Negatief"
+        ]
+      },
+      "edmDatasetName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "edmIsShownAt": [
+        "https://www.esbirky.cz/detail/266938"
+      ],
+      "edmIsShownBy": [
+        "https://www.esbirky.cz/img.php?id=266940"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "oblast Ituri, Kongo"
+        },
+        {
+          "def": "Demokratická republika Kongo"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "cs": [
+          "oblast Ituri, Kongo",
+          "Demokratická republika Kongo"
+        ]
+      },
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.esbirky.cz%2Fimg.php%3Fid%3D266940&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1901-01-01"
+        },
+        {
+          "def": "20. století"
+        },
+        {
+          "def": "1930-33"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "cs": [
+          "20. století",
+          "1930-33"
+        ],
+        "zxx": [
+          "1901-01-01"
+        ]
+      },
+      "europeanaCollectionName": [
+        "488_NM_NM_Narodni_muzeum_Naprstkovo_muzeum"
+      ],
+      "europeanaCompleteness": 5,
+      "guid": "https://www.europeana.eu/item/488/https___www_esbirky_cz_detail_266938?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/488/https___www_esbirky_cz_detail_266938",
+      "index": 0,
+      "language": [
+        "cs"
+      ],
+      "link": "https://api.europeana.eu/record/488/https___www_esbirky_cz_detail_266938.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "ESbírky"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "score": 88.10937,
+      "timestamp": 1752067728285,
+      "timestamp_created": "2021-03-24T11:14:22.229Z",
+      "timestamp_created_epoch": 1616584462229,
+      "timestamp_update": "2021-03-24T11:14:22.229Z",
+      "timestamp_update_epoch": 1616584462229,
+      "title": [
+        "Group of adults and children, in the background of the hut, Bambuti",
+        "Skupinka dospělých a dětí, v pozadí chýše, Bambuti"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

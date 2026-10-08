@@ -1,0 +1,809 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_16799",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_16799",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16799?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Lakota",
+      "tradition": "Lakota",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a hide war shirt with quillwork/beaded strips, hair-lock fringe, and characteristic V-neck bib design typical of Plains Sioux (Lakota/Oceti Sakowin) warrior regalia, matching the museum's attribution and provenance (taken at Yellowstone River, Montana/Wyoming).",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "skjorta, tunic, shirt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2365181/0000.00.0284_alt.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b2b7d18a7d2d6c59b8dbbf6fbf66e6535b47ad9ce99d4740a2c6e0bb4addb672",
+        "bytes": 100449,
+        "local_path": "library\\north-america\\united-states\\lakota\\garment\\lakota\\images\\eu_91608_SMVK_VKM_objekt_16799.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2365181%2F0000.00.0284_alt.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:24:22.131362+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_16799",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16799?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "skjorta, tunic, shirt"
+      ],
+      "dcDescription": [
+        "0000.00.0284 Yellowstone River, Montana Wyoming, U.S.A. Yellowstone River, Montana/Wyoming, USA skiss Sioux. rulle North America En krigares skjorta A warrior’s shirt United States Oceti Sakowin Sioux Sioux people blandade material Kan ha tagits i strid. Plagg taget från en hövding av Sioux-stammen vid Yellowstone-river underkriget 1867.\nGåva av lantbrukaren Carl A. Olsson, Bogeman City, Gallatine County, Montana Territory.\nSkall sannolikt vara Bozeman City (i folkmun \nMissouri), Gallatin Co.    Magnus Dahlbring Jan. 1995 Indianernas Vilda Västern 1975 i Kronhuset. Indianernas Vilda Västern, s"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2365181%2F0000.00.0284_alt.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2365181/0000.00.0284_alt.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1068277",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1068277",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1068277?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Lakota",
+      "tradition": "Lakota",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A pair of beaded hide moccasins with typical Lakota/Sioux-style geometric beadwork in lazy-stitch, collected as part of the 1893 Retzius expedition to North America and catalogued as Lakota/Sioux — consistent with Plains Lakota footwear.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "sko, mockasin, skodon, shoe, moccasins",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2061221/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "046c929b3e16cf287a9f108768bf6ac1484c3e68a154e807bcbba770af3504f3",
+        "bytes": 83476,
+        "local_path": "library\\north-america\\united-states\\lakota\\garment\\lakota\\images\\eu_91619_SMVK_EM_objekt_1068277.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2061221%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:24:22.967772+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1068277",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1068277?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "sko, mockasin, skodon, shoe, moccasins",
+        "Shoe, suede, footwear, sko, moccasins",
+        "sko, mockasin, skodon, shoe, moccasins"
+      ],
+      "dcDescription": [
+        "1904.19.0469 siouxindianer Skolprogram: Forna kulturer Forna kulturer: Nordamerika United States Forna kulturer: Nordamerika - Lakota/Sioux Brand Etnografiska museet (2012) Anna och Gustaf Retzius resa till Nordamerika (1893) Mockasiner ett par, broderade med pärlor (generalkatalogen).\n\nOrdet mockasin kommer från algonkinspråkfamiljen. I stort sett alla indianer i Nordamerika norr om Mexico använde mockasiner, med undantag från området utmed gränsen till Mexico och Stilla Havskusten.\n\nPrärieindianerna hade vanligtvis en hård, kraftigare råhudssula med en mjukare behandlad överdel av \"buckskin\""
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2061221%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/2061221/image.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "british_museum-E_2009-2004-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_2009-2004-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_2009-2004-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,2009.2004.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Lakota",
+      "tradition": "Lakota",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A quilled and beaded pouch with galloping-horse motif, fringed tassels with metal cones, matches Plains Lakota beadwork/quillwork craft traditions.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "pouch",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "pouch",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Quilled pouch of yellow quills edged with blue, brown and yellow beadwork and sequins. Pouch depicts four horses moving at full gallop, while the back is made from brown leather. Pouch has four leather tassels decorated with metal cones.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/25ff3de4_5960_4f4f_ba4a_a3c00189722a/preview_00575941_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eeba331d9013bf9a3a2e84bc6d9fcd67b55cde641be02acfcead078543b79429",
+        "bytes": 41211,
+        "local_path": "library\\north-america\\united-states\\lakota\\garment\\lakota\\images\\bm_E_2009_2004_10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:24:23.915071+00:00",
+    "raw": {
+      "title": "pouch",
+      "description": "Quilled pouch of yellow quills edged with blue, brown and yellow beadwork and sequins. Pouch depicts four horses moving at full gallop, while the back is made from brown leather. Pouch has four leather tassels decorated with metal cones.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/10_23/25ff3de4_5960_4f4f_ba4a_a3c00189722a/preview_00575941_001.jpg",
+      "production_ethnic_groups": [
+        "Lakota"
+      ],
+      "production_ethnic_attribution": "Made by: Lakota"
+    }
+  },
+  {
+    "id": "europeana-2021009__5FB45AB1FA97CA4808CA2A54FA8DE799",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Finnish Heritage Agency",
+      "object_id": "2021009__5FB45AB1FA97CA4808CA2A54FA8DE799",
+      "object_url": "https://www.europeana.eu/item/2021009/_5FB45AB1FA97CA4808CA2A54FA8DE799?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://creativecommons.org/licenses/by/4.0/",
+      "license_url": "http://creativecommons.org/licenses/by/4.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Lakota",
+      "tradition": "Lakota",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A tanned hide war-shirt (poncho-style men's shirt) with quilled shoulder/arm strips, fringe, and feather at the neck — a classic Plains war-shirt form consistent with Lakota dress.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vaate",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Finnish Heritage Agency",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=612067&size=extra_large&org=43094",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "850867df237e51f67014857b7b8e751b872d001922e95a533e824a2b3f8f6666",
+        "bytes": 154468,
+        "local_path": "library\\north-america\\united-states\\lakota\\garment\\lakota\\images\\eu_2021009_5FB45AB1FA97CA4808CA2A54FA8DE799.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D612067%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:24:24.065902+00:00",
+    "raw": {
+      "id": "/2021009/_5FB45AB1FA97CA4808CA2A54FA8DE799",
+      "guid": "https://www.europeana.eu/item/2021009/_5FB45AB1FA97CA4808CA2A54FA8DE799?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "vaate",
+        "miehen paita, henkitanssi?",
+        "man's shirt"
+      ],
+      "dcDescription": [
+        "fyysinen kuvaus: Pääluettelo: Mekko, valkeaa, säämisköityä kauriin (deer) nahkaa. Kupeet avonaiset. Käsivarret, ryntäät ja selkä koristettu aniliinivärjätyillä piikkisianpiikeillä (värit: vaaleanpunainen, sinivioletti ja keltainen). Helma leikattu pykälälaitaiseksi. Hartioiden väliin kiinnitetty valkea höyhen; kiinnityskohtaa ympäröi punavärillä töherretty kehä. Hihoissa hyvin pitkät ripsukoristeet.  (Denver Art Museumin nro VS-43-P).\n  \n\n  \nMiehen tunikamallinen paita. Paita on aivoparkittua kauriinnahkaa. Paita noudattelee perinteisen ns. sotapaidan ponchomallia, mutta on 1880-luvun jälkeise"
+      ],
+      "dataProvider": [
+        "Finnish Heritage Agency"
+      ],
+      "rights": [
+        "http://creativecommons.org/licenses/by/4.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fmpfinlandrepox.zetcom.app%2Fimagehelper%2Fdownload%3Fid%3D612067%26size%3Dextra_large%26org%3D43094&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://mpfinlandrepox.zetcom.app/imagehelper/download?id=612067&size=extra_large&org=43094"
+      ],
+      "country": [
+        "Finland"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1068311",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1068311",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1068311?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Lakota",
+      "tradition": "Lakota",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "An eagle-feather war bonnet with a beaded browband, a classic Plains/Lakota-type headdress, plausible for the claimed Lakota (Sioux) attribution and well within the known material culture of the region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "huvudprydnad, huvudbonad, feather headdress",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1369353/1910.12.0027_alt3.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b1fb01843403f59409e4d0f7ea112e4e10cedc3e6ef3b47a6e4ba598ec9eec8a",
+        "bytes": 39075,
+        "local_path": "library\\north-america\\united-states\\lakota\\garment\\lakota\\images\\eu_91619_SMVK_EM_objekt_1068311.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1369353%2F1910.12.0027_alt3.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:24:25.587467+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1068311",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1068311?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "huvudprydnad, huvudbonad, feather headdress",
+        "huvudprydnad, huvudbonad, feather headdress"
+      ],
+      "dcDescription": [
+        "Avian allies United States Avian allies - War - America Eagle feather bonnets are among the best-known objects representing Native American culture today. Diferent types of theses exist. They originated probably in the Plains and Great Lakes area and became known to a european and euro-american audience during the 19th century and within a few decades turned into an integral part of the stereotypical image of \"the\" Native American. 1910.12.0027 siouxindianer Skolprogram: Forna kulturer Forna kulturer: Nordamerika Forna kulturer: Nordamerika - Lakota/Sioux Amerika Huvudsmycke av fjäder. Fjädrar"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1369353%2F1910.12.0027_alt3.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1369353/1910.12.0027_alt3.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

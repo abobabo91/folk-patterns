@@ -1,0 +1,793 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1000436",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1000436",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1000436?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Yaqui",
+      "tradition": "Yaqui",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A leather belt fitted with metal bells, documented in the museum's own citation to Montell's 1938 study \"Yaqui dances\" — this is a type of bell belt worn by Yaqui ceremonial dancers, a garment/accessory made and used by the Yaqui.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bälte, belt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3629078/1937.19.0117_alt02.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c8aaff1c096d71e6ad7d4db80de27226317771fdc5c8adc7a5f11ad7d517238d",
+        "bytes": 155587,
+        "local_path": "library\\latin-america\\mexico\\yaqui\\garment\\yaqui\\images\\eu_91619_SMVK_EM_objekt_1000436.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3629078%2F1937.19.0117_alt02.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:48:25.256124+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1000436",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1000436?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "bälte, belt",
+        "belt"
+      ],
+      "dcDescription": [
+        "1937.19.0117 Mellanamerika Mexico Amerika Centralamerika Mexico America Montell, Gösta (1938) Yaqui dances. Ethnos Vol. 6, no. 3 Samlingsbesök. 2017-09.  Mexiko, Yaqui Besök från Yaqui Nation, Göteborg (2019-09-02 - 2019-09-06) Amerika America Mexico Mexico 1937.19.0117"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3629078%2F1937.19.0117_alt02.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3629078/1937.19.0117_alt02.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Мексика"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Мексико"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "Mexique"
+        },
+        {
+          "def": "Mexikó"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mehika"
+        },
+        {
+          "def": "Meicsiceo"
+        },
+        {
+          "def": "Mèxic"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Messiku"
+        },
+        {
+          "def": "Μεξικό"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Messico"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Mehhiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Meksyk"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Mexic"
+        },
+        {
+          "def": "Mexico"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_18304",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_18304",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_18304?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Yaqui",
+      "tradition": "Yaqui",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A long black woven scarf/shawl with ribbed weave, braided warp bands, and fringed tassel ends, collected in Sonora, Mexico and attributed to the Yaqui (Yoeme). This is a plausible traditional woven garment accessory for this people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "sjal, Chal",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/15358556/1984.14.0106_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e3454e40384ed716f93d09995364fa573872620af58e9229c8f6ad96e36f8e85",
+        "bytes": 96536,
+        "local_path": "library\\latin-america\\mexico\\yaqui\\garment\\yaqui\\images\\eu_91608_SMVK_VKM_objekt_18304.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F15358556%2F1984.14.0106_001.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:48:25.560057+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_18304",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_18304?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "sjal, Chal"
+      ],
+      "dcDescription": [
+        "1984.14.0106 Sonora, México Sonora, Mexico. [[Haga]] Sonora, México Yaqui Mellanamerika Amerika Mexico Mexico Yaqui Yoeme Schal av väv i material som ej kunnat bestämmas. Färgen är svart med vita stänk. Ribbmönstrad. Varptrådarna är i båda ändar tätt flätade i ett brett fält som avslutas med långa fransar i tofsar.\nL: ca 292 cm,  B: ca 80 cm. köp av Josef Lagergren"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F15358556%2F1984.14.0106_001.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/15358556/1984.14.0106_001.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Мексика"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Мексико"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "Mexique"
+        },
+        {
+          "def": "Mexikó"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mehika"
+        },
+        {
+          "def": "Meicsiceo"
+        },
+        {
+          "def": "Mèxic"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Messiku"
+        },
+        {
+          "def": "Μεξικό"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Messico"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Mehhiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Meksyk"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Mexic"
+        },
+        {
+          "def": "Mexico"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1015211",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1015211",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1015211?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Yaqui",
+      "tradition": "Yaqui",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A woven wool belt with banded geometric designs and long fringe, documented by the Swedish Mexico Expedition as worn by Yaqui matachines dancers during the Matachines dance ritual. This is a specific, well-attributed garment made and worn by the Yaqui.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Belt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1157714/1935.47.0013.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "10dd4a9854cb5c46e35cf212f7284124c0ae3d03adc47347c099f5d95d4d5a38",
+        "bytes": 31931,
+        "local_path": "library\\latin-america\\mexico\\yaqui\\garment\\yaqui\\images\\eu_91619_SMVK_EM_objekt_1015211.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1157714%2F1935.47.0013.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:48:26.223044+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1015211",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1015211?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Belt",
+        "bälte, belt, faja"
+      ],
+      "dcDescription": [
+        "Mexico Mexico 1935.47.0013 Amerika America Andra svenska mexikoexpeditionen (1934-1935) Bältet av ullgarn bäres av alla matachines vid dansen Matachines. Bältena tillverkas av männen.\n\nSe Montell Yaqui dances, Ethnos no 6, 1938 s. 159 ff. för detaljerad beskrivning av denna dans som på spanska heter matachines. Männen som dansar tillhör, enligt Montell, gruppen på livstid. Dansen uppförs vanligtvis inne i kyrkorna. Den accompanjeras av skallror gjorda av kalebasser samt fioler.  Enligt Montell har dansen stark europeisk påverkan. Ordet matachin betyder översittare, tyrann. Ledaren för dansen k"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1157714%2F1935.47.0013.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1157714/1935.47.0013.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Мексика"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Мексико"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "Mexique"
+        },
+        {
+          "def": "Mexikó"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mehika"
+        },
+        {
+          "def": "Meicsiceo"
+        },
+        {
+          "def": "Mèxic"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Messiku"
+        },
+        {
+          "def": "Μεξικό"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Messico"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Mehhiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Meksyk"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Mexic"
+        },
+        {
+          "def": "Mexico"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1022223",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1022223",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1022223?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Yaqui",
+      "tradition": "Yaqui",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a leather belt with fringe and dangling cocoon/shell rattles, a type of dance belt associated with Yaqui ritual dance regalia (e.g., deer dancer or pascola attire); it matches documented Yaqui material culture from the 1934-35 Swedish Mexico expedition collection.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bälte, belt",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1157669/1935.47.0009.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "68063e8be9d021935fa88d2dcf7af0b2ce3d36172a8285a8104cc2786ed513d8",
+        "bytes": 27549,
+        "local_path": "library\\latin-america\\mexico\\yaqui\\garment\\yaqui\\images\\eu_91619_SMVK_EM_objekt_1022223.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1157669%2F1935.47.0009.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:48:26.724078+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1022223",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1022223?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "bälte, belt",
+        "belt"
+      ],
+      "dcDescription": [
+        "1935.47.0009 Daun, Christian (2017) Ett historiskt huvudbry, Filter nr 59 Mellanamerika Mexico Mexico America Amerika Centralamerika Andra svenska mexikoexpeditionen (1934-1935) Samlingsbesök. 2017-09.  Mexiko, Yaqui Besök från Yaqui Nation, Göteborg (2019-09-02 - 2019-09-06) Daun, Christian (2017) Ett historiskt huvudbry, Filter nr 59 America Amerika Andra svenska mexikoexpeditionen (1934-1935) Mexico 1935.47.0009"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1157669%2F1935.47.0009.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1157669/1935.47.0009.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Мексика"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Мексико"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksika"
+        },
+        {
+          "def": "Meksiko"
+        },
+        {
+          "def": "Mexique"
+        },
+        {
+          "def": "Mexikó"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mehika"
+        },
+        {
+          "def": "Meicsiceo"
+        },
+        {
+          "def": "Mèxic"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Messiku"
+        },
+        {
+          "def": "Μεξικό"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Messico"
+        },
+        {
+          "def": "México"
+        },
+        {
+          "def": "Mehhiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Mexiko"
+        },
+        {
+          "def": "Meksyk"
+        },
+        {
+          "def": "Mexico"
+        },
+        {
+          "def": "Mexic"
+        },
+        {
+          "def": "Mexico"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

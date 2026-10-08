@@ -1,0 +1,409 @@
+[
+  {
+    "id": "europeana-106__Resource_79208115",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "National Library of Scotland",
+      "object_id": "106__Resource_79208115",
+      "object_url": "https://www.europeana.eu/item/106/_Resource_79208115?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Sotho",
+      "tradition": "Basotho",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows only a plain leather book cover/binding with no visible text or content; this is a scanned journal binding, not an image of Sotho-made or worn material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Folk-lore journal",
+      "titles_alt": [],
+      "date_text": "1879",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "National Library of Scotland",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fderiv.nls.uk%2Fdcn30%2F7920%2F79208122.30.jpg&type=TEXT",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8cb19ec7589028581c4f5e5a2e4daf78f2ecf981d27d0563e56dbc19479a8084",
+        "bytes": 61080,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\painting-mss\\basotho\\images\\eu_106__Resource_79208115.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:46.182294+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "United Kingdom"
+      ],
+      "dataProvider": [
+        "National Library of Scotland"
+      ],
+      "dcDescription": [
+        "Edited by the Working Committee of the South African Folk-Lore Society. Text in English, Herero, Iwi, Khoikhoi, Malagasy, Southern Sotho, Swahili, Tswana, Xhosa, and Zulu. Vol. 1, pt. 1 (Jan. 1879)-v. 2, pt. 6 (Nov. 1880)."
+      ],
+      "dcDescriptionLangAware": {
+        "def": [
+          "Edited by the Working Committee of the South African Folk-Lore Society. Text in English, Herero, Iwi, Khoikhoi, Malagasy, Southern Sotho, Swahili, Tswana, Xhosa, and Zulu. Vol. 1, pt. 1 (Jan. 1879)-v. 2, pt. 6 (Nov. 1880)."
+        ]
+      },
+      "dcLanguage": [
+        "eng",
+        "eng"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "eng",
+          "eng"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "Folk-lore journal"
+        ]
+      },
+      "edmConcept": [
+        "#Keyword:3072",
+        "http://data.europeana.eu/concept/21",
+        "#Keyword:5550",
+        "#Keyword:5551"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "South African"
+        },
+        {
+          "def": "Periodical"
+        },
+        {
+          "def": "Folklore (culture-related concept)"
+        },
+        {
+          "def": "Folk tales"
+        },
+        {
+          "def": "Periodikum"
+        },
+        {
+          "def": "Периодическое издание"
+        },
+        {
+          "def": "Kausijulkaisu"
+        },
+        {
+          "def": "Publicação periódica"
+        },
+        {
+          "def": "Периодично издание"
+        },
+        {
+          "def": "Periodične publikacije"
+        },
+        {
+          "def": "Periodiskais izdevums"
+        },
+        {
+          "def": "Périodique"
+        },
+        {
+          "def": "Periodika"
+        },
+        {
+          "def": "Periodikum"
+        },
+        {
+          "def": "Periodika"
+        },
+        {
+          "def": "Tréimhseachán"
+        },
+        {
+          "def": "Publicació periòdica"
+        },
+        {
+          "def": "Periodisk skrift"
+        },
+        {
+          "def": "Περιοδική έκδοση"
+        },
+        {
+          "def": "Periodico"
+        },
+        {
+          "def": "Publicación periódica"
+        },
+        {
+          "def": "Perioodikaväljaanne"
+        },
+        {
+          "def": "Periodikum"
+        },
+        {
+          "def": "Aldizkako argitalpen"
+        },
+        {
+          "def": "Periodyk"
+        },
+        {
+          "def": "Periodikum"
+        },
+        {
+          "def": "Periodic (publicație)"
+        },
+        {
+          "def": "Periodiek"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Periodikum"
+        ],
+        "ru": [
+          "Периодическое издание"
+        ],
+        "fi": [
+          "Kausijulkaisu"
+        ],
+        "pt": [
+          "Publicação periódica"
+        ],
+        "bg": [
+          "Периодично издание"
+        ],
+        "hr": [
+          "Periodične publikacije"
+        ],
+        "lv": [
+          "Periodiskais izdevums"
+        ],
+        "fr": [
+          "Périodique"
+        ],
+        "hu": [
+          "Periodika"
+        ],
+        "sk": [
+          "Periodikum"
+        ],
+        "sl": [
+          "Periodika"
+        ],
+        "ga": [
+          "Tréimhseachán"
+        ],
+        "ca": [
+          "Publicació periòdica"
+        ],
+        "sv": [
+          "Periodisk skrift"
+        ],
+        "el": [
+          "Περιοδική έκδοση"
+        ],
+        "en": [
+          "Folklore (culture-related concept)",
+          "Folk tales",
+          "Periodical",
+          "South African"
+        ],
+        "it": [
+          "Periodico"
+        ],
+        "es": [
+          "Publicación periódica"
+        ],
+        "et": [
+          "Perioodikaväljaanne"
+        ],
+        "cs": [
+          "Periodikum"
+        ],
+        "eu": [
+          "Aldizkako argitalpen"
+        ],
+        "pl": [
+          "Periodyk"
+        ],
+        "da": [
+          "Periodikum"
+        ],
+        "ro": [
+          "Periodic (publicație)"
+        ],
+        "nl": [
+          "Periodiek"
+        ]
+      },
+      "edmDatasetName": [
+        "106_RoL_NLScotland_EarlyGaelicBooks"
+      ],
+      "edmIsShownAt": [
+        "https://digital.nls.uk/79208115"
+      ],
+      "edmIsShownBy": [
+        "https://deriv.nls.uk/dcn23/7920/79208118.23.pdf"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Africa, South Africa, Western Cape, Province of the, Cape Town (inhabited place)"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "en": [
+          "Africa, South Africa, Western Cape, Province of the, Cape Town (inhabited place)"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-33.9333"
+      ],
+      "edmPlaceLongitude": [
+        "18.4667"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fderiv.nls.uk%2Fdcn30%2F7920%2F79208122.30.jpg&type=TEXT"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1879"
+        },
+        {
+          "def": "19й век"
+        },
+        {
+          "def": "19.."
+        },
+        {
+          "def": "19??"
+        },
+        {
+          "def": "19e"
+        },
+        {
+          "def": "19-th"
+        },
+        {
+          "def": "19th"
+        },
+        {
+          "def": "19th century"
+        },
+        {
+          "def": "19e siècle"
+        },
+        {
+          "def": "19de eeuw"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "ru": [
+          "19й век"
+        ],
+        "def": [
+          "19..",
+          "19??",
+          "19e"
+        ],
+        "en": [
+          "19-th",
+          "19th",
+          "19th century"
+        ],
+        "zxx": [
+          "1879"
+        ],
+        "fr": [
+          "19e siècle"
+        ],
+        "nl": [
+          "19de eeuw"
+        ]
+      },
+      "europeanaCollectionName": [
+        "106_RoL_NLScotland_EarlyGaelicBooks"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/106/_Resource_79208115?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/106/_Resource_79208115",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/106/_Resource_79208115.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "National Library of Scotland"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/mark/1.0/"
+      ],
+      "score": 27.611904,
+      "timestamp": 1752071789050,
+      "timestamp_created": "2019-09-04T16:53:59.236Z",
+      "timestamp_created_epoch": 1567616039236,
+      "timestamp_update": "2019-09-04T16:53:59.236Z",
+      "timestamp_update_epoch": 1567616039236,
+      "title": [
+        "Folk-lore journal"
+      ],
+      "type": "TEXT",
+      "ugc": [
+        false
+      ],
+      "year": [
+        "1879"
+      ]
+    }
+  }
+]

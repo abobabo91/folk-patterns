@@ -1,0 +1,2699 @@
+[
+  {
+    "id": "cleveland-115157",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "115157",
+      "object_url": "https://clevelandart.org/art/1935.304",
+      "iiif_manifest": null,
+      "credit_line": "James Albert Ford Memorial Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1935.304",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a classic Bwoom mask, a well-documented ceremonial mask type used in Kuba royal and initiation rituals, matching both the claimed ethnicity and the museum's own attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "Mask (Bwoom)",
+      "titles_alt": [],
+      "date_text": "mid- to late 1800s",
+      "date_earliest": 1850,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood and paint",
+      "classification": "Mask",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Among the Bushoong, the central Kuba group, the mask known as <em>bwoom</em>—most typically identified as the head of a hunter-gatherer—forms a triad with a female mask and another male mask. All three are protagonists in the reenactment of the foundation of the Kuba kingdom. Outside the capital, however, bwoom appears in different non-royal contexts, such as the men’s initiation society.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Central Africa, Democratic Republic of Congo, Kuba-style carver",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "79f61c6b3960989fc340ada68cabf564823ac967e2214ddd97df286f4b65a052",
+        "bytes": 347263,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\cle_115157.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:32.608345+00:00",
+    "raw": {
+      "id": 115157,
+      "accession_number": "1935.304",
+      "share_license_status": "CC0",
+      "tombstone": "Mask (Bwoom), mid- to late 1800s. Africa, Central Africa, Democratic Republic of Congo, Kuba-style carver. Wood and paint; overall: 43.3 x 31.2 x 28.3 cm (17 1/16 x 12 5/16 x 11 1/8 in.). The Cleveland Museum of Art, James Albert Ford Memorial Fund, 1935.304",
+      "current_location": "108A African",
+      "title": "Mask (Bwoom)",
+      "creation_date": "mid- to late 1800s",
+      "creation_date_earliest": 1850,
+      "creation_date_latest": 1900,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Central Africa, Democratic Republic of Congo, Kuba-style carver"
+      ],
+      "technique": "Wood and paint",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Mask",
+      "measurements": "Overall: 43.3 x 31.2 x 28.3 cm (17 1/16 x 12 5/16 x 11 1/8 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.433,
+          "height_inch": 17,
+          "height_inch_fraction": 0.0625,
+          "width": 0.312,
+          "width_inch": 12,
+          "width_inch_fraction": 0.3125,
+          "depth": 0.283,
+          "depth_inch": 11,
+          "depth_inch_fraction": 0.125
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312341,
+            "title": "The Silver Jubilee Exhibition",
+            "description": "<i>The Silver Jubilee Exhibition</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 23-September 28, 1941).",
+            "opening_date": "1941-06-23T04:00:00"
+          },
+          {
+            "id": 355637,
+            "title": "The Mask",
+            "description": "<i>The Mask</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (October 27, 1951-January 14, 1952).",
+            "opening_date": "1951-10-27T05:00:00"
+          },
+          {
+            "id": 519209,
+            "title": "The Imagination of Primitive Man",
+            "description": "<i>The Imagination of Primitive Man</i>. The Nelson-Atkins Museum of Art, Kansas City, MO (organizer) (January 18-February 25, 1962).",
+            "opening_date": "1962-01-18T05:00:00"
+          },
+          {
+            "id": 207289,
+            "title": "Perfect Documents: Walker Evans and African Art",
+            "description": "<i>Perfect Documents: Walker Evans and African Art</i>. The Metropolitan Museum of Art, New York, NY (organizer) (February 1-September 3, 2000).",
+            "opening_date": "2000-02-01T00:00:00"
+          },
+          {
+            "id": 181802,
+            "title": "The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art",
+            "description": "<i>The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art</i>. Museum of Contemporary Art Cleveland (MOCA), Cleveland, OH (June 9-August 20, 2006).",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "New York, Museum of Modern Art, 1935: \"African Negro Art,\" cat. no. 463, not reproduced",
+            "opening_date": "1935-01-01T00:00:00"
+          },
+          {
+            "description": "(also to CMA 9/27 - 10/27, 1935),",
+            "opening_date": "1927-09-01T00:00:00"
+          },
+          {
+            "description": "Toledo, OH, Toledo Museum of Art, February 1 - 22, 1959: \"The African Image,\"cat. no. 164, repr. p. 30.",
+            "opening_date": "1959-02-01T00:00:00"
+          },
+          {
+            "description": "Kansas City, MO, William Rockhill Nelson Gallery of Art, 1/18 - 2/25/1962: \"The Imagination of Primitive Man, no. 83.\"",
+            "opening_date": "1962-02-25T00:00:00"
+          },
+          {
+            "description": "NY: The Metropolitan Museum of Art. \"Perfect Documents: Walker Evans and African Art\" 2/1/00 - 9/3/00",
+            "opening_date": "2000-02-01T00:00:00"
+          },
+          {
+            "description": "MOCA Cleveland (6/9/2006 - 8/20/2006):  \"The Persistence of Geometry: Form, Content and Culture in the Collection of the Cleveland Museum of Art\", no. 44, p. 118, color repr. p. 55.",
+            "opening_date": "2006-06-09T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "(Charles Ratton Gallery, Paris, France, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1935",
+          "sortorder": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1935–",
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "2500.35"
+      ],
+      "did_you_know": "Imagine this mask topped with eagle feathers; they would have been added only on special occasions when it was performed.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Among the Bushoong, the central Kuba group, the mask known as <em>bwoom</em>—most typically identified as the head of a hunter-gatherer—forms a triad with a female mask and another male mask. All three are protagonists in the reenactment of the foundation of the Kuba kingdom. Outside the capital, however, bwoom appears in different non-royal contexts, such as the men’s initiation society.",
+      "external_resources": {
+        "wikidata": [],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1935.304-mask-bwoom"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Franklin, David and C. Griffith Mann. Treasures from the Cleveland Museum of Art. Cleveland: The Cleveland Museum of Art; London: Scala Publishers Ltd, 2012. pg. 238-9.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Museum of Modern Art (New York, N.Y.), and James Johnson Sweeney. <em>African Negro Art</em>. New York: Museum of Modern Art, 1935.",
+          "page_number": "Mentioned: p. 52, no. 463",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 387",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n72"
+        },
+        {
+          "citation": "Plass, Margaret. <em>The African Image: A New Selection of Tribal Art</em> :<em> the Toledo Museum of Art ... February 1 Through 22, 1959 : Introduction and Catalogue</em>. Toledo, Ohio: The Museum, 1959.",
+          "page_number": "Reproduced: p. 30, no. 164",
+          "url": null
+        },
+        {
+          "citation": "William Rockhill Nelson Gallery of Art and Mary Atkins Museum of Fine Arts, and Ralph T. Coe. <em>The Imagination of Primitive Man: A Survey of the Arts of the Non-Literate Peoples of the World.</em> Kansas City, Mo: The Museum, 1962.",
+          "page_number": "Mentioned: p. 11, 46, cat. no. 83",
+          "url": null
+        },
+        {
+          "citation": "Robbins, Warren M. <em>African Art in American Collections = L'art Africain Dans Les Collections Americaines.</em> New York : F. A. Praeger, 1966.",
+          "page_number": "Reproduced: p. 211, pl. 300",
+          "url": null
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 303",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n327"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 303",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n327"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 412",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n432"
+        },
+        {
+          "citation": "Connell, Timothy C., and Jackson J. Spielvogel. <em>World Art Transparencies.</em> Cincinnati: West Educational Pub., 1998.",
+          "page_number": "Mentioned: p. 34; Reproduced no. 42",
+          "url": null
+        },
+        {
+          "citation": "Webb, Virginia-Lee, and Walker Evans. <em>Perfect Documents: Walker Evans and African Art, 1935.</em> New York: Metropolitan Museum of Art, 2000.",
+          "page_number": "Reproduced: p. 24, fig. 15; Reproduced: p. 26, fig. 18",
+          "url": null
+        },
+        {
+          "citation": "Petridis, Constantijn. <em>South of the Sahara: selected works of African art. </em>Cleveland: Cleveland Museum of Art, 2003.",
+          "page_number": "Reproduced: cat. 35, p. 100 - 101",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantine, \"African Art Revisited\", Cleveland Museum of Art. <em>Cleveland Art: The Cleveland Museum of Art Members Magazine</em>. Vol. 43 no. 09, November 2003",
+          "page_number": "Mentioned & reproduced: p. 4-5",
+          "url": "https://archive.org/details/CMAMM2003-09/page/n3"
+        },
+        {
+          "citation": "Robbins, Warren M.. <em>African sculpture.</em> Atglen, PA: Schiffer Pub., 2005.",
+          "page_number": "Reproduced: p. 211, pl. 300",
+          "url": null
+        },
+        {
+          "citation": "Buser, Thomas. <em>Experiencing Art Around Us.</em> Australia: Thomson Wadsworth, 2006.",
+          "page_number": "Mentioned and Reproduced: p. 433, fig. 17-22",
+          "url": null
+        },
+        {
+          "citation": "Sims, Lowery Stokes. <em>The Persistence of Geometry: Form, Content, and Culture in the Collection of the Cleveland Museum of Art</em>. Cleveland: Cleveland Museum of Art, 2006.",
+          "page_number": "Mentioned and reproduced: P. 55, no. 44",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantine. \"A World of Great Art for Everyone.\" In <em>Representing Africa in American Art Museums: A Century of Collecting and Display</em>. Kathleen Bickford Berzock and Christa Clarke, 104-121. Seattle: University of Washington Press, 2011.",
+          "page_number": "Mentioned: p. 112; Reproduced: p. 113, fig. 5.7",
+          "url": null
+        }
+      ],
+      "url": "https://clevelandart.org/art/1935.304",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_web.jpg",
+          "width": "704",
+          "height": "893",
+          "filesize": "343848",
+          "filename": "1935.304_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_print.jpg",
+          "width": "2681",
+          "height": "3400",
+          "filesize": "5038254",
+          "filename": "1935.304_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_full.tif",
+          "width": "5926",
+          "height": "7515",
+          "filesize": "133622736",
+          "filename": "1935.304_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt0_web.jpg",
+            "width": "704",
+            "height": "893",
+            "filesize": "354657"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt0_print.jpg",
+            "width": "2681",
+            "height": "3400",
+            "filesize": "5024091"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt0_full.tif",
+            "width": "5793",
+            "height": "7347",
+            "filesize": "127704728"
+          },
+          "date_created": "2009-06-10T14:52:42",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt1_web.jpg",
+            "width": "721",
+            "height": "893",
+            "filesize": "360089"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt1_print.jpg",
+            "width": "2744",
+            "height": "3400",
+            "filesize": "5284025"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt1_full.tif",
+            "width": "5794",
+            "height": "7179",
+            "filesize": "124806464"
+          },
+          "date_created": "2009-06-10T15:01:57",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt2_web.jpg",
+            "width": "676",
+            "height": "893",
+            "filesize": "331389"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt2_print.jpg",
+            "width": "2572",
+            "height": "3400",
+            "filesize": "4812377"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt2_full.tif",
+            "width": "4096",
+            "height": "5414",
+            "filesize": "66549084"
+          },
+          "date_created": "2009-06-10T15:08:43",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt3_web.jpg",
+            "width": "704",
+            "height": "893",
+            "filesize": "339611"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt3_print.jpg",
+            "width": "2679",
+            "height": "3400",
+            "filesize": "4894566"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt3_full.tif",
+            "width": "4096",
+            "height": "5198",
+            "filesize": "63894112"
+          },
+          "date_created": "2009-06-10T15:04:43",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt4_web.jpg",
+            "width": "720",
+            "height": "893",
+            "filesize": "345339"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt4_print.jpg",
+            "width": "2742",
+            "height": "3400",
+            "filesize": "4981633"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1935.304/1935.304_alt4_full.tif",
+            "width": "4096",
+            "height": "5078",
+            "filesize": "62419552"
+          },
+          "date_created": "2009-06-10T15:11:28",
+          "annotation": ""
+        }
+      ],
+      "creditline": "James Albert Ford Memorial Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 115157,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1935-10-24T00:00:00",
+      "sortable_date": 1850,
+      "date_added_to_oa": null,
+      "date_text": "mid- to late 1800s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Headdress (bwoom)",
+        "Helmet Mask (Bwoom)"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:01:41.423000"
+    }
+  },
+  {
+    "id": "cleveland-157557",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "157557",
+      "object_url": "https://clevelandart.org/art/1994.89",
+      "iiif_manifest": null,
+      "credit_line": "John L. Severance Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1994.89",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A ceramic bowl with incised geometric interlace patterning typical of Kuba decorative arts, made to be hung as a container (likely for cosmetics); this is a genuine Kuba-attributed object.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic"
+    },
+    "physical": {
+      "title": "Bowl",
+      "titles_alt": [],
+      "date_text": "early 1900s",
+      "date_earliest": 1900,
+      "date_latest": 1925,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Earthenware",
+      "classification": "Vessels",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This bowl probably once held cosmetics and was hung up when not in use. The Kuba are widely known for finely crafted luxury goods decorated with geometric, linear patterning. Although made of pottery, this bowl closely resembles carved wood. Visual puns of this sort, in which one kind of material is made to look like another, are much appreciated by the Kuba.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bac1009f7b8cc0b2ea2afc199e0af2cd7a1f977bfa111fb37d3e520e0b67e21b",
+        "bytes": 621859,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\cle_157557.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:32.742395+00:00",
+    "raw": {
+      "id": 157557,
+      "accession_number": "1994.89",
+      "share_license_status": "CC0",
+      "tombstone": "Bowl, early 1900s. Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker. Earthenware; diameter: 26.4 cm (10 3/8 in.); overall: 8.4 cm (3 5/16 in.). The Cleveland Museum of Art, John L. Severance Fund, 1994.89",
+      "current_location": null,
+      "title": "Bowl",
+      "creation_date": "early 1900s",
+      "creation_date_earliest": 1900,
+      "creation_date_latest": 1925,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker"
+      ],
+      "technique": "Earthenware",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Vessels",
+      "measurements": "Diameter: 26.4 cm (10 3/8 in.); Overall: 8.4 cm (3 5/16 in.)",
+      "dimensions": {
+        "diameter": {
+          "width": 0.264,
+          "width_inch": 10,
+          "width_inch_fraction": 0.375
+        },
+        "overall": {
+          "height": 0.084,
+          "height_inch": 3,
+          "height_inch_fraction": 0.3125
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "(Jacques Hautelet, La Jolla, CA)",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This bowl probably once held cosmetics and was hung up when not in use. The Kuba are widely known for finely crafted luxury goods decorated with geometric, linear patterning. Although made of pottery, this bowl closely resembles carved wood. Visual puns of this sort, in which one kind of material is made to look like another, are much appreciated by the Kuba.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79974029"
+        ],
+        "internet_archive": []
+      },
+      "citations": [
+        {
+          "citation": "Cleveland Museum of Art, “Recent Acquisitions to the Cleveland Museum of Art Collection,” August 26, 1994, Cleveland Museum of Art Archives.",
+          "page_number": null,
+          "url": "https://archive.org/details/cmapr3900/page/n1"
+        }
+      ],
+      "url": "https://clevelandart.org/art/1994.89",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_web.jpg",
+          "width": "1263",
+          "height": "773",
+          "filesize": "618447",
+          "filename": "1994.89_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_print.jpg",
+          "width": "3400",
+          "height": "2082",
+          "filesize": "4322248",
+          "filename": "1994.89_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_full.tif",
+          "width": "4521",
+          "height": "2769",
+          "filesize": "37588420",
+          "filename": "1994.89_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_alt0_web.jpg",
+            "width": "1172",
+            "height": "893",
+            "filesize": "701159"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_alt0_print.jpg",
+            "width": "3400",
+            "height": "2591",
+            "filesize": "5764936"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1994.89/1994.89_alt0_full.tif",
+            "width": "4323",
+            "height": "3295",
+            "filesize": "42765896"
+          },
+          "date_created": "2009-07-15T18:40:39",
+          "annotation": ""
+        }
+      ],
+      "creditline": "John L. Severance Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 157557,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1994-05-24T00:00:00",
+      "sortable_date": 1900,
+      "date_added_to_oa": null,
+      "date_text": "early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Carved Bowl"
+      ],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:11:50.203000"
+    }
+  },
+  {
+    "id": "cleveland-144770",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "144770",
+      "object_url": "https://clevelandart.org/art/1969.550",
+      "iiif_manifest": null,
+      "credit_line": "Gift of various donors by exchange",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1969.550",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The object is a wooden itombwa \"friction oracle\" divination implement with two carved human heads, a recognized Kuba ritual/divination form used in daily social life. It matches the claimed Kuba ethnicity and sculptural/ritual category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual"
+    },
+    "physical": {
+      "title": "Divination Implement (itombwa)",
+      "titles_alt": [],
+      "date_text": "1890–1910",
+      "date_earliest": 1890,
+      "date_latest": 1910,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood and plant fiber",
+      "classification": "Sculpture",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Divination Implement (itombwa), 1890–1910. Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker. Wood and plant fiber; overall: 8.9 cm (3 1/2 in.). The Cleveland Museum of Art, Gift of various donors by exchange, 1969.550",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "13b5bec81ae581a84ec9e3793f0247b45e82ef0ad6fe43ce5a0eb86419e94301",
+        "bytes": 79351,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\cle_144770.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:33.072642+00:00",
+    "raw": {
+      "id": 144770,
+      "accession_number": "1969.550",
+      "share_license_status": "CC0",
+      "tombstone": "Divination Implement (itombwa), 1890–1910. Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker. Wood and plant fiber; overall: 8.9 cm (3 1/2 in.). The Cleveland Museum of Art, Gift of various donors by exchange, 1969.550",
+      "current_location": null,
+      "title": "Divination Implement (itombwa)",
+      "creation_date": "1890–1910",
+      "creation_date_earliest": 1890,
+      "creation_date_latest": 1910,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker"
+      ],
+      "technique": "Wood and plant fiber",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Sculpture",
+      "measurements": "Overall: 8.9 cm (3 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.089,
+          "height_inch": 3,
+          "height_inch_fraction": 0.5,
+          "length": 0.292,
+          "length_inch": 11,
+          "length_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Purchased through sale of weapons from Rodgrigues.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1969–",
+          "sortorder": 2
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": null,
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79922303"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1969.550",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_web.jpg",
+          "width": "900",
+          "height": "577",
+          "filesize": "89318",
+          "filename": "1969.550_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_print.jpg",
+          "width": "3400",
+          "height": "2181",
+          "filesize": "832739",
+          "filename": "1969.550_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_full.tif",
+          "width": "7796",
+          "height": "5001",
+          "filesize": "116990448",
+          "filename": "1969.550_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt0_web.jpg",
+            "width": "900",
+            "height": "455",
+            "filesize": "82061"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt0_print.jpg",
+            "width": "3400",
+            "height": "1717",
+            "filesize": "803040"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt0_full.tif",
+            "width": "7934",
+            "height": "4006",
+            "filesize": "95377744"
+          },
+          "date_created": "2014-05-06T08:32:47",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt1_web.jpg",
+            "width": "900",
+            "height": "500",
+            "filesize": "80256"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt1_print.jpg",
+            "width": "3400",
+            "height": "1890",
+            "filesize": "808032"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt1_full.tif",
+            "width": "7834",
+            "height": "4354",
+            "filesize": "102354524"
+          },
+          "date_created": "2014-05-06T08:47:32",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt2_web.jpg",
+            "width": "900",
+            "height": "519",
+            "filesize": "84125"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt2_print.jpg",
+            "width": "3400",
+            "height": "1959",
+            "filesize": "796502"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1969.550/1969.550_alt2_full.tif",
+            "width": "7772",
+            "height": "4479",
+            "filesize": "104459340"
+          },
+          "date_created": "2014-05-05T13:32:53",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of various donors by exchange",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 144770,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1969-12-13T00:00:00",
+      "sortable_date": 1890,
+      "date_added_to_oa": null,
+      "date_text": "1890–1910",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 07:26:24.586000"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1947-18-87",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1947-18-87",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1947-18-87",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1947.18.87",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "A buffalo horn carved with geometric relief patterns (concentric circles, interlace, hatching) matches Kuba decorative tradition, consistent with regional carved-horn vessels used as containers.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "drinking-horn (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drinking-horn (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1947:\r\nBuffalo horn carved in geometric patterns in high relief.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_10/12_13/51e7ab55_86d9_49ce_bfe3_a52f00dbbff8/preview_EAF48704.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a4f0d80ec0d914f105c7877ae2b75d61001b183c5059e02b3b53f3d010dd792d",
+        "bytes": 56679,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1947-18-87.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:40:50.930020+00:00",
+    "raw": {
+      "title": "drinking-horn (?)",
+      "description": "Register 1947:\r\nBuffalo horn carved in geometric patterns in high relief.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_10/12_13/51e7ab55_86d9_49ce_bfe3_a52f00dbbff8/preview_EAF48704.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1951-12-297-a",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1951-12-297-a",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1951-12-297-a",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1951.12.297.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a long wooden box with a carved handle and incised geometric interlace patterns, a style consistent with Kuba decorative woodwork from the DRC; it is a made object plausible for the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "box",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "box",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1951:\r\nWooden carved box with carved patterns.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/7_12/844d32be_eb3a_4099_a469_a9ce00c9fee1/preview_EAF50329.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3eb9b3cd56edc36953859a881356b9bf6bb783c6a3759ab0a0948cf54768a306",
+        "bytes": 66491,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1951-12-297-a.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:40:58.750959+00:00",
+    "raw": {
+      "title": "box",
+      "description": "Register 1951:\r\nWooden carved box with carved patterns.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/7_12/844d32be_eb3a_4099_a469_a9ce00c9fee1/preview_EAF50329.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-2068",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-2068",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-2068",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.2068",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a raffia palm fiber textile with fringed edges, decorated with figures rendered in brown dye — a form consistent with Kuba raffia cloth production, though the museum record misidentifies the category as sculpture rather than textile.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "textile; currency (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "textile; currency (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Textile, ? currency; made of natural-coloured raffia palm fibre; two pieces sewn together. Decorated with images of male figure holding spear and two female figures wearing skirts sewn in brown-dyed raffia thread. Fringed all round.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_11/b6990d75_00e9_4b7e_a8b3_a3bf00b5bc5f/preview_00505716_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ca3068bccfbca80e678a4419d0e9866c9ad4d8671e15641425f7d5bf34adb568",
+        "bytes": 51254,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1954-23-2068.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:04.530163+00:00",
+    "raw": {
+      "title": "textile; currency (?)",
+      "description": "Textile, ? currency; made of natural-coloured raffia palm fibre; two pieces sewn together. Decorated with images of male figure holding spear and two female figures wearing skirts sewn in brown-dyed raffia thread. Fringed all round.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_11/b6990d75_00e9_4b7e_a8b3_a3bf00b5bc5f/preview_00505716_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1902-0516-13",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1902-0516-13",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1902-0516-13",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1902.0516.13",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a scanned museum ledger/catalogue page with handwritten notes and a sketch of a wooden headrest/stool, not a photograph of the actual object; the record also notes \"Bushongo\" (Kuba) as plausible Congo attribution, but the image itself is documentation, not the artifact.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "head-rest; back-rest",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "head-rest; back-rest",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Back and head-rest, carved from brown wood, with two legs; on the top is a strip of iron and another of copper.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/08a242dd_9a78_476e_bc1d_a3b900737204/preview_00347595_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a5ee758076c36eacfe43d2279bff2d938dddecff91ee00115d314179ff3c72d0",
+        "bytes": 102903,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1902-0516-13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:08.265263+00:00",
+    "raw": {
+      "title": "head-rest; back-rest",
+      "description": "Back and head-rest, carved from brown wood, with two legs; on the top is a strip of iron and another of copper.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_7/08a242dd_9a78_476e_bc1d_a3b900737204/preview_00347595_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-299",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-299",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-299",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.299",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "A carved wooden human figure with an elongated peg-like lower body, consistent with Kuba-region dolls/figures used as children's toys or fertility objects; plausible Central African Kuba craft.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "doll; figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "doll; figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Child&#039;s doll, human figure made of wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/22_11/caf1f1af_e598_4df0_a86d_a68900bc2ba2/preview_EAF37524.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "305a05b79d4815d446cabce2c79aa06a2aef2ee14081541f2b112ec7d2765e6b",
+        "bytes": 26847,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1909-0513-299.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:19.642685+00:00",
+    "raw": {
+      "title": "doll; figure",
+      "description": "Child&#039;s doll, human figure made of wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/22_11/caf1f1af_e598_4df0_a86d_a68900bc2ba2/preview_EAF37524.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1979-01-1828",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1979-01-1828",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1979-01-1828",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1979.01.1828",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a carved wooden block with the characteristic interlace/geometric pattern used to stamp or apply camwood (tukula) pigment, a craft object closely associated with Kuba culture and their decorative arts. It is a carved, made object plausible for the Kuba region rather than a natural specimen alone.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "block; pigment sample",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "block; pigment sample",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Carved block, body? pigment made of wood (camwood).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/16_8/bba92e62_5e77_4d78_ab9e_a6830088f473/preview_EAF55996.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "903b8d04ad8760d3fa244411e4307c9d0efa04b8b9762d7b64b8afcb4f25dbcd",
+        "bytes": 104878,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1979-01-1828.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:24.273591+00:00",
+    "raw": {
+      "title": "block; pigment sample",
+      "description": "Carved block, body? pigment made of wood (camwood).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/16_8/bba92e62_5e77_4d78_ab9e_a6830088f473/preview_EAF55996.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-279",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-279",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-279",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.279",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden side-blown trumpet with fiber binding and a side mouthpiece hole, consistent with Kuba/Central African wind instruments. Though the claimed category is \"sculpture,\" the object itself is clearly a musical instrument, plausible for the Kuba region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments"
+    },
+    "physical": {
+      "title": "trumpet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "trumpet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Side-blown trumpet carved in wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/23_8/c42362d2_f698_4628_afe0_a68a008432d0/preview_EAF37505.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "291ecf14d08d9b5f90cae53daca2e4af1b86026257077f54af0cdc255c88985b",
+        "bytes": 63824,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1909-0513-279.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:31.889614+00:00",
+    "raw": {
+      "title": "trumpet",
+      "description": "Side-blown trumpet carved in wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/23_8/c42362d2_f698_4628_afe0_a68a008432d0/preview_EAF37505.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1949-46-401",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1949-46-401",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-401",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1949.46.401",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a wooden anthropomorphic palm-wine cup carved as a human head with a raised coiffure and pierced earlobes, a well-documented Kuba court art form (mbwoong ntey type cups), consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "cup",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "cup",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Cup with human head and horns carved in wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/16_13/a9aa249f_2499_4752_acfe_a68300e28e59/preview_EAF49615.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0ba3e977df10b07a3803574e6e969eea6f82ce1d86baa0046790751100f3199a",
+        "bytes": 34344,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1949-46-401.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:36.856228+00:00",
+    "raw": {
+      "title": "cup",
+      "description": "Cup with human head and horns carved in wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/16_13/a9aa249f_2499_4752_acfe_a68300e28e59/preview_EAF49615.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1951-12-290-a",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1951-12-290-a",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1951-12-290-a",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1951.12.290.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "A wooden double box with finely carved interlace/geometric patterning and knob handles, consistent with Kuba carved wooden boxes used to hold razors or personal items; this decorative style is characteristic of Kuba craft traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "box; razor-case",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "box; razor-case",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1951:\r\nWooden carved double box, each half differently patterned; used for razors.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/14_13/22505ac3_a4c4_4f87_97e4_a69f00e2b556/preview_EAF50315.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ceb25ab0d9a7d8a1386803170e226eca681d416f91354a7433d7b689dc42d7f5",
+        "bytes": 65752,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1951-12-290-a.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:37.777117+00:00",
+    "raw": {
+      "title": "box; razor-case",
+      "description": "Register 1951:\r\nWooden carved double box, each half differently patterned; used for razors.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/14_13/22505ac3_a4c4_4f87_97e4_a69f00e2b556/preview_EAF50315.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1949-46-514",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1949-46-514",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-514",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1949.46.514",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden cylindrical drum with geometric interlace bands and a lizard/figure in relief, topped with a skin membrane — a form consistent with Kuba carving traditions of the DRC, which are known for finely carved wooden drums with incised geometric patterning.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments"
+    },
+    "physical": {
+      "title": "drum",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drum",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Cylindrical drum carved in wood, with a lizard in relief on the outside, and with a skin membrane.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/16_8/746f6f83_d33e_457b_8c61_a68300899423/preview_EAF49719.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9fe9ce9454098ab45f3e35241fd9fefca93eec2a9b24d90fe669155d317f9631",
+        "bytes": 34048,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1949-46-514.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:41.533557+00:00",
+    "raw": {
+      "title": "drum",
+      "description": "Cylindrical drum carved in wood, with a lizard in relief on the outside, and with a skin membrane.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/16_8/746f6f83_d33e_457b_8c61_a68300899423/preview_EAF49719.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1951-12-301",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1951-12-301",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1951-12-301",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1951.12.301",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "A carved wooden oil bowl with characteristic interlace and cross-hatch shoulder patterning, consistent with Kuba carved vessel traditions of the DRC; the category \"sculpture\" is misapplied but the object itself belongs.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "bowl; oil-vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bowl; oil-vessel",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1951:\r\nTwo wooden carved oil bowls, one [301] carinated, with patterns on shoulder; one [302] with flat reeded rim and carved design on sides.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_3/8_14/d1323319_faf0_4f17_a1b8_a5c300efbeca/preview_EAF50337.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "483297024fc49237083215050d3e3f78e29abb5a20db3e624753af61822e7503",
+        "bytes": 80127,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1951-12-301.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:47.290843+00:00",
+    "raw": {
+      "title": "bowl; oil-vessel",
+      "description": "Register 1951:\r\nTwo wooden carved oil bowls, one [301] carinated, with patterns on shoulder; one [302] with flat reeded rim and carved design on sides.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_3/8_14/d1323319_faf0_4f17_a1b8_a5c300efbeca/preview_EAF50337.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-1976-a-b",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-1976-a-b",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-1976-a-b",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.1976.a.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a carved wooden box with lid, decorated with the interlace and geometric patterning characteristic of Kuba decorative arts; such carved boxes (cosmetic or container boxes) are a well-known Kuba craft form. The object is plausibly made and used by the Kuba people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "box; lid",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "box; lid",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Square carved box [a] on circular base, made of wood; together with separate carved lid [b] of wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/14_14/024084ad_8b1e_4f0d_a2f4_a69f00e6c8f0/preview_EAF51180.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a8a175639a0fdf3de34c90c5d4f47ea0db039070dcd75d62758bb3c327569e0f",
+        "bytes": 41981,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1954-23-1976-a-b.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:50.199029+00:00",
+    "raw": {
+      "title": "box; lid",
+      "description": "Square carved box [a] on circular base, made of wood; together with separate carved lid [b] of wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/14_14/024084ad_8b1e_4f0d_a2f4_a69f00e6c8f0/preview_EAF51180.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1913-0520-5",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1913-0520-5",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1913-0520-5",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1913.0520.5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden standing female figure with a coiffure/headdress, consistent with Central African wood sculpture traditions such as those made and used by the Kuba people. The style and pose fit plausibly with Kuba figurative sculpture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Standing female figure carved from wood, with hair coloured black.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/854d530d_af37_45ca_8e23_a50700e2df76/preview_EAF39602.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8d05a87203d24c8c97ea1fef61a2d140a6f448ffb28de79c18d2fe9533945b02",
+        "bytes": 31688,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1913-0520-5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:52.142948+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Standing female figure carved from wood, with hair coloured black.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_9/2_13/854d530d_af37_45ca_8e23_a50700e2df76/preview_EAF39602.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-314",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-314",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-314",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.314",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden female figure with hands resting on the abdomen, a seated/columnar posture, and coiffure typical of Central African figural sculpture; this is consistent with Kuba (or closely related Congo Basin) wood carving traditions, and such standing/seated ancestor or power figures are plausible Kuba-made objects.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Female figure carved in wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/22_11/1dda4abb_4730_426e_b622_a68900bc3771/preview_EAF37538.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4b312a201dda6df17014b26b729f4a3134b28bc6a5f2b8452a387dfe2ce84fea",
+        "bytes": 29980,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1909-0513-314.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:57.141927+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Female figure carved in wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/22_11/1dda4abb_4730_426e_b622_a68900bc3771/preview_EAF37538.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-290",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-290",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-290",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.290",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden drum with hourglass form, geometric incised patterns, twisted central column, and hide membrane visible at top — consistent with Kuba (or closely related Central African) carved drums used ceremonially. The category is mislabeled as \"sculpture\" but the object itself fits the claimed culture's material tradition.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments"
+    },
+    "physical": {
+      "title": "drum",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drum",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Drum carved from wood, with hide membrane.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/0a9bd461_e4aa_4382_848e_a3dd017db637/preview_01421113_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "150fa07a35ddc5876e8d649d05a3b7df46610435aa0caa0a80804c3043d1af41",
+        "bytes": 28350,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1909-0513-290.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:42:07.517663+00:00",
+    "raw": {
+      "title": "drum",
+      "description": "Drum carved from wood, with hide membrane.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/0a9bd461_e4aa_4382_848e_a3dd017db637/preview_01421113_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1948-32-20",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1948-32-20",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1948-32-20",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1948.32.20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "A wooden standing female figure with facial and body scarification, consistent with Central African (Kuba-region) figurative sculpture traditions; such carved ancestor/power figures are typical objects made and used by Kuba and neighboring peoples.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Wooden figuree of a woman, with scarification on face and body.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/23_15/9816f92f_7f55_401c_a035_a68a00fa4843/preview_EAF49311.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d059b632bb191ac800040effacbd87eb019c61edef011611ba98f79b65beca23",
+        "bytes": 34910,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1948-32-20.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:42:12.235434+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Wooden figuree of a woman, with scarification on face and body.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/23_15/9816f92f_7f55_401c_a035_a68a00fa4843/preview_EAF49311.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1908-Ty-167",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1908-Ty-167",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-Ty-167",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1908.Ty.167",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a small carved wooden female figure with a stylized elongated body and head, consistent with Kuba figurative carving traditions from the DRC. The form and material are plausible for Kuba sculptural work such as figures used in ritual or prestige contexts.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Female figure made of wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/4_8/f6083e36_9a16_4b94_b664_a69500880a5e/preview_EAF36993.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "64f6c9c6e03a6a5d27c5e796e4010dc9ddde9b761b8b08ba2c65cbc609c3fea6",
+        "bytes": 25288,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1908-Ty-167.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:42:17.063109+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Female figure made of wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_10/4_8/f6083e36_9a16_4b94_b664_a69500880a5e/preview_EAF36993.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-80",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-80",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-80",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.80",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a carved wooden drinking cup in the form of a human head with a raised neck rim and incised hairline patterning, a classic Kuba (and related Mangbetu-region) prestige vessel form used in ceremonial palm-wine drinking. The style and function are consistent with Kuba court/ritual material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "drinking-cup",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drinking-cup",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Drinking cup in the form of a human head, carved in wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_11/80ce5a28_8b9d_486e_831c_a3c400c562f0/preview_00852398_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "265de9662c596770416e500789fb0268e994cddfb22fe08a3b2048aac6670abd",
+        "bytes": 82668,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1909-0513-80.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:42:21.925658+00:00",
+    "raw": {
+      "title": "drinking-cup",
+      "description": "Drinking cup in the form of a human head, carved in wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_11/80ce5a28_8b9d_486e_831c_a3c400c562f0/preview_00852398_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-283",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-283",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-283",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.283",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The object is a carved ivory whistle with human figures, a type of instrument known from Central African cultures including the Kuba region of the DRC; the material and figural carving style are consistent with the claimed attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments"
+    },
+    "physical": {
+      "title": "whistle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "whistle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Whistle with human figure carved in ivory.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/b02bcbf7_c269_4f1d_b9e8_a3c7009eeae4/preview_01028956_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9fb2b67cfebb9d47efa03f4178e0c861963be040e4411372569b5247665b7969",
+        "bytes": 45788,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\sculpture\\kuba\\images\\bm_E_Af1909-0513-283.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:42:24.782900+00:00",
+    "raw": {
+      "title": "whistle",
+      "description": "Whistle with human figure carved in ivory.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/b02bcbf7_c269_4f1d_b9e8_a3c7009eeae4/preview_01028956_001.jpg"
+    }
+  }
+]

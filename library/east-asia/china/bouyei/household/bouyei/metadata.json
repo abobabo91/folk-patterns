@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1982-24-25",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1982-24-25",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1982-24-25",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1982.24.25",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "China",
+      "ethnicity": "Bouyei",
+      "tradition": "Bouyei",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "An embroidered black cloth baby-carrier with geometric and floral motifs, attributed by the museum to Bouyei makers — a traditional textile item consistent with the claimed ethnic group's craft.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "baby-carrier",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "baby-carrier",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Embroidered baby-carrier made of cloth (cotton), cloth (?, silk?).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2022_1/13_14/9cf78e9d_a5e6_4621_a203_ae1c00ecb36d/preview_AS1982_24_25front.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6cdd691d21d8c1bcfad0b94ec7b96a0b969e76b04fdf3194d91387eb51b4bd3a",
+        "bytes": 56727,
+        "local_path": "library\\east-asia\\china\\bouyei\\household\\bouyei\\images\\bm_A_As1982_24_25.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:21:34.062423+00:00",
+    "raw": {
+      "title": "baby-carrier",
+      "description": "Embroidered baby-carrier made of cloth (cotton), cloth (?, silk?).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2022_1/13_14/9cf78e9d_a5e6_4621_a203_ae1c00ecb36d/preview_AS1982_24_25front.jpg",
+      "production_ethnic_groups": [
+        "Bouyei"
+      ],
+      "production_ethnic_attribution": "Made by: Bouyei"
+    }
+  }
+]

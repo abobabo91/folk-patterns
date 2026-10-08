@@ -1,0 +1,631 @@
+[
+  {
+    "id": "cleveland-168425",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "168425",
+      "object_url": "https://clevelandart.org/art/2010.204",
+      "iiif_manifest": null,
+      "credit_line": "Leonard C. Hanna Jr. Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2010.204",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mozambique",
+      "ethnicity": "Tsonga",
+      "tradition": "Tsonga",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden staff with a figural finial (animal over human figure) — a type of prestige/ceremonial staff consistent with Nguni/Tsonga carving traditions of southern Mozambique/South Africa; the museum's attribution names the Tsonga people specifically (with \"probably\"), which counts as independent evidence rather than a vague multi-people style label.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Staff",
+      "titles_alt": [],
+      "date_text": "1800s–1900s",
+      "date_earliest": 1800,
+      "date_latest": 1999,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood",
+      "classification": "Sculpture",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Arguably the finest surviving carving of the Baboon Master in a Western collection, this staff features exceptionally sophisticated articulation and detailing. The circular pokerwork motif on one side—which echoes the treatment of the ears on the male heads supporting the baboon—may represent a shield or a leaf. The heads feature the characteristic ornament that signifies maturity and marriage; covered with a mixture of gum, charcoal, and oil, this hairdo, called <em>isicoco,</em> employed a fiber or sinew ring into which the wearer’s hair was woven.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, South Africa, South Africa or Mozambique, probably Tsonga peoples",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "The Baboon Master (probably Tsonga peoples)",
+          "role": "artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "baebd4100b387561b39f27cf11e03f90564791d36cba7c1d39eea8dbd47c9eec",
+        "bytes": 142944,
+        "local_path": "library\\sub-saharan-africa\\mozambique\\tsonga\\sculpture\\tsonga\\images\\cle_168425.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:22:34.273465+00:00",
+    "raw": {
+      "id": 168425,
+      "accession_number": "2010.204",
+      "share_license_status": "CC0",
+      "tombstone": "Staff, 1800s–1900s. The Baboon Master (probably Tsonga peoples). Wood; overall: 120.7 cm (47 1/2 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2010.204",
+      "current_location": null,
+      "title": "Staff",
+      "creation_date": "1800s–1900s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1999,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Africa, South Africa, South Africa or Mozambique, probably Tsonga peoples"
+      ],
+      "technique": "Wood",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Sculpture",
+      "measurements": "Overall: 120.7 cm (47 1/2 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.207,
+          "height_inch": 47,
+          "height_inch_fraction": 0.5
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197333,
+            "title": "The Art of Daily Life: Portable Objects From Southeast Africa",
+            "description": "<i>The Art of Daily Life: Portable Objects From Southeast Africa</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 17, 2011-February 26, 2012).",
+            "opening_date": "2011-04-17T00:00:00"
+          },
+          {
+            "id": 287107,
+            "title": "African Master Carvers: Known and Famous",
+            "description": "<i>African Master Carvers: Known and Famous</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (March 26-July 16, 2017).",
+            "opening_date": "2017-03-26T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, (4/16/11-2/26/12); \"The Art of Daily Life:  Portable Objects from Southeast Africa\" cat. no. 55",
+            "opening_date": "2011-04-16T00:00:00"
+          },
+          {
+            "description": "The Cleveland Museum of Art (3/26/2017-7/16/2017); “African Master Carvers: Known and Famous”.",
+            "opening_date": "2017-03-26T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Private collection, United Kingdom",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2005 latest",
+          "sortorder": null
+        },
+        {
+          "description": "(Sotheby's New York, NY, November 11, 2005, lot 161)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 2
+        },
+        {
+          "description": "(Jacaranda Tribal Art Gallery, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Artists working on the African continent often moved from place to place; the artist nicknamed The Baboon Master was of the Tsonga culture and worked in the Zulu kingdom.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Arguably the finest surviving carving of the Baboon Master in a Western collection, this staff features exceptionally sophisticated articulation and detailing. The circular pokerwork motif on one side—which echoes the treatment of the ears on the male heads supporting the baboon—may represent a shield or a leaf. The heads feature the characteristic ornament that signifies maturity and marriage; covered with a mixture of gum, charcoal, and oil, this hairdo, called <em>isicoco,</em> employed a fiber or sinew ring into which the wearer’s hair was woven.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80074285"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2010.204-staff"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Sotheby's. \"African and Oceanic Art.\" New York, Nov. 11, 2005, lot 161 and frontispiece.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Franklin, David and C. Griffith Mann. Treasures from the Cleveland Museum of Art. Cleveland: The Cleveland Museum of Art; London: Scala Publishers Ltd, 2012. Pg 246-7.",
+          "page_number": "",
+          "url": ""
+        },
+        {
+          "citation": "Petridis, Constantine. \"African Master Carvers.\" <em>Cleveland Art: Cleveland Museum of Art Members Magazine </em>57, no. 2 (March/April 2017): 32-33.",
+          "page_number": "Mentioned and reproduced: p. 32-33",
+          "url": "https://archive.org/details/CMAMM2017-02/page/n15/mode/2up"
+        }
+      ],
+      "url": "https://clevelandart.org/art/2010.204",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_web.jpg",
+          "width": "522",
+          "height": "893",
+          "filesize": "139529",
+          "filename": "2010.204_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_print.jpg",
+          "width": "1987",
+          "height": "3400",
+          "filesize": "3052245",
+          "filename": "2010.204_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_full.tif",
+          "width": "3839",
+          "height": "6567",
+          "filesize": "75656608",
+          "filename": "2010.204_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt0_web.jpg",
+            "width": "510",
+            "height": "893",
+            "filesize": "137724"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt0_print.jpg",
+            "width": "1942",
+            "height": "3400",
+            "filesize": "2997793"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt0_full.tif",
+            "width": "3718",
+            "height": "6507",
+            "filesize": "72603172"
+          },
+          "date_created": "2010-08-20T12:40:07",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt1_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "192519"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt1_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4054061"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt1_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99885064"
+          },
+          "date_created": "2010-08-20T13:59:58",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt2_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "197548"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt2_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4059044"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt2_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99885368"
+          },
+          "date_created": "2010-08-20T14:12:52",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt3_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "233641"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt3_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4594831"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt3_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99886012"
+          },
+          "date_created": "2010-08-20T14:39:17",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt4_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "231256"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt4_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4444699"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt4_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99885656"
+          },
+          "date_created": "2010-08-20T14:50:41",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt5_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "240448"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt5_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4572777"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt5_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99886060"
+          },
+          "date_created": "2010-08-20T14:59:09",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt6_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "201117"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt6_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4194793"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.204/2010.204_alt6_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99885064"
+          },
+          "date_created": "2010-08-20T15:33:44",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168425,
+      "creators": [
+        {
+          "id": 60267,
+          "description": "The Baboon Master (probably Tsonga peoples)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "2010-09-07T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s–1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:39:55.433000"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-3554",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-3554",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-3554",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.3554",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mozambique",
+      "ethnicity": "Tsonga",
+      "tradition": "Tsonga",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved wooden standing human figure, museum-attributed to Tsonga makers; such ancestor/guardian figures are consistent with Tsonga sculptural traditions of southern Mozambique/South Africa.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Figure carved in wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/e923d664_1d1f_402b_8073_a3de0138342a/preview_01462068_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c3ec5179b02ab2a6926e1583e7a7b32dc81e6e059a31ca2b088214debe6c80b2",
+        "bytes": 43197,
+        "local_path": "library\\sub-saharan-africa\\mozambique\\tsonga\\sculpture\\tsonga\\images\\bm_E_Af1954_23_3554.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:22:35.406525+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Figure carved in wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_18/e923d664_1d1f_402b_8073_a3de0138342a/preview_01462068_001.jpg",
+      "production_ethnic_groups": [
+        "Tsonga"
+      ],
+      "production_ethnic_attribution": "Made by: Tsonga"
+    }
+  },
+  {
+    "id": "british_museum-E_Af-5308-a",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af-5308-a",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af-5308-a",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af.5308.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mozambique",
+      "ethnicity": "Tsonga",
+      "tradition": "Tsonga",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden standing male figure attributed by the museum to the Tsonga people, a plausible ritual/ancestor figure type for this group in Mozambique/Southern Africa.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "figure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Male figure (standing) carved from wood; together with length of cotton textile used as waist-cloth.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_20/101954c3_8d6b_41ce_8ba0_a3c5014e9e01/preview_00962904_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cb6d5b31adcf170e9f52d39b5b03ee475f075d78c426441ef7cf6a653645addd",
+        "bytes": 23917,
+        "local_path": "library\\sub-saharan-africa\\mozambique\\tsonga\\sculpture\\tsonga\\images\\bm_E_Af_5308_a.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:22:35.997230+00:00",
+    "raw": {
+      "title": "figure",
+      "description": "Male figure (standing) carved from wood; together with length of cotton textile used as waist-cloth.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/15_20/101954c3_8d6b_41ce_8ba0_a3c5014e9e01/preview_00962904_001.jpg",
+      "production_ethnic_groups": [
+        "Tsonga"
+      ],
+      "production_ethnic_attribution": "Made by: Tsonga"
+    }
+  }
+]

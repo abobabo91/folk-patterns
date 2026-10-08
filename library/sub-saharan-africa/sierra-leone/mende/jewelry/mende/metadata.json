@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1949-46-9-a-b",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1949-46-9-a-b",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1949-46-9-a-b",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1949.46.9.a.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Sierra Leone",
+      "ethnicity": "Mende",
+      "tradition": "Mende",
+      "art_form": "jewelry",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A solid worn ring-shaped armlet, made of hide inlaid with wire, matching the museum's attribution to a Mende chief's regalia; this fits documented Mende chiefly adornment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "armlet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "armlet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Chief&#039;s armlets (a pair), made of elephant hide inlaid with wire.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_18/194455d8_019c_4d51_b965_a3bf0133e35f/preview_00537442_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dfda61e25813e068fdef0ca9d6e8344324d676dc8a3669d973c01160221fd53f",
+        "bytes": 80294,
+        "local_path": "library\\sub-saharan-africa\\sierra-leone\\mende\\jewelry\\mende\\images\\bm_E_Af1949_46_9_a_b.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:00:03.812174+00:00",
+    "raw": {
+      "title": "armlet",
+      "description": "Chief&#039;s armlets (a pair), made of elephant hide inlaid with wire.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_18/194455d8_019c_4d51_b965_a3bf0133e35f/preview_00537442_001.jpg",
+      "production_ethnic_groups": [
+        "Mende"
+      ],
+      "production_ethnic_attribution": "Made by: Mende"
+    }
+  }
+]

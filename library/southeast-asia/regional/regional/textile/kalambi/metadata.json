@@ -1,0 +1,288 @@
+[
+  {
+    "id": "va-O481825",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O481825",
+      "object_url": "https://collections.vam.ac.uk/item/O481825",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.43-1966",
+      "accession_year": 1966
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "_regional",
+      "ethnicity": "_regional",
+      "tradition": "kalambi",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The image shows a bright red woven cotton jacket with geometric bands and fringed edges, matching the Iban (Bornean) Kalambi jacket described in the museum's own metadata; this is a genuine garment of the region.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "before 1966",
+      "date_earliest": 1966,
+      "date_latest": 1966,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "cotton (textile)"
+      ],
+      "techniques": [
+        "embroidery"
+      ],
+      "medium_raw": "Embroidered cotton with cotton",
+      "classification": "Jacket",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Clothing",
+        "Embroidery"
+      ],
+      "physical_description": "Iban jacket (Kalambi) of bright red woven cotton with stripes. With a geometrical design embroidered in white, blue, yellow, black, green and mauve cotton. The back is fringed and the open front is fastened with tassellated cords in the same material and colours.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Borneo",
+      "made_in_place_alt": [],
+      "current_gallery": "010",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2021MY0646/full/1000,/0/default.jpg",
+        "iiif_id": "2021MY0646",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2021MY0646/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "a0f8f375dc6db96ba9c77f41a61e73780dafaccea33f8108218e63e335f79a86",
+        "bytes": 222105,
+        "local_path": "library\\southeast-asia\\regional\\regional\\textile\\kalambi\\images\\va_O481825.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:26:11.086876+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O481825",
+        "accessionNumber": "IS.43-1966",
+        "objectType": "Jacket",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES390080",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2021MY0646",
+        "_primaryDate": "before 1966",
+        "_primaryPlace": "Borneo",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2021MY0646/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2021MY0646/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O481825/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O481825",
+        "accessionNumber": "IS.43-1966",
+        "objectType": "Jacket",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Iban jacket (Kalambi) of bright red woven cotton with stripes. With a geometrical design embroidered in white, blue, yellow, black, green and mauve cotton. The back is fringed and the open front is fastened with tassellated cords in the same material and colours.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "cotton (textile)",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "embroidery",
+            "id": "x40351"
+          }
+        ],
+        "materialsAndTechniques": "Embroidered cotton with cotton",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          },
+          {
+            "text": "Embroidery",
+            "id": "THES48960"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2021MY0646"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "010",
+              "id": "THES390080"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Jacket",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Borneo",
+              "id": "x44401"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "west"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "before 1966",
+              "earliest": null,
+              "latest": "1965-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Iban jacket (Kalambi) of embroidered cotton with cotton, West Borneo, Indonesia, before 1966",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.43-1966"
+        ],
+        "accessionNumberNum": "43",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1966,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  }
+]

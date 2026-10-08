@@ -1,0 +1,196 @@
+[
+  {
+    "id": "british_museum-E_Am1988-08-344-b",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1988-08-344-b",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1988-08-344-b",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1988.08.344.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Huastec",
+      "tradition": "Huastec",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a leather machete sheath with decorative cutouts, rivets, tassel, and a carrying strap—an object explicitly attributed to Huastec makers in the museum record, consistent with the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "machete-sheath",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "machete-sheath",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sheath for machete (and matching machete); piece of leather folded and stitched to make tube; extra piece of leather sewn on at top and bottom; bottom piece has four cut-out areas revealing darker leather underneath; tassel attached at point of sheath; leather carrying strap with metal buckle inserted through slots cut in piece of leather at top; upper section decorated with rivets.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/6b6da3b0_a268_4e3e_be06_a3e100ed20d4/preview_00104922_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2e65bae9811212829c2fa6386d68d61c8860292645882fe1e90534305e493c87",
+        "bytes": 69263,
+        "local_path": "library\\latin-america\\mexico\\huastec\\arms\\huastec\\images\\bm_E_Am1988_08_344_b.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T01:55:44.032460+00:00",
+    "raw": {
+      "title": "machete-sheath",
+      "description": "Sheath for machete (and matching machete); piece of leather folded and stitched to make tube; extra piece of leather sewn on at top and bottom; bottom piece has four cut-out areas revealing darker leather underneath; tassel attached at point of sheath; leather carrying strap with metal buckle inserted through slots cut in piece of leather at top; upper section decorated with rivets.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_14/6b6da3b0_a268_4e3e_be06_a3e100ed20d4/preview_00104922_001.jpg",
+      "production_ethnic_groups": [
+        "Huastec"
+      ],
+      "production_ethnic_attribution": "Made by: Huastec"
+    }
+  },
+  {
+    "id": "british_museum-E_Am1988-08-340-a",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1988-08-340-a",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1988-08-340-a",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1988.08.340.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Huastec",
+      "tradition": "Huastec",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A machete with leather-wrapped handle and matching sheath, a tool/weapon type plausible for Huastec daily and agricultural use in Mexico, with the museum directly attributing production to the Huastec.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "machete",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "machete",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Machete (with matching sheath); metal blade, straight on one side, curved on sharp side; handle made of metal wrapped in leather.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/b6d69823_4213_44d7_931e_a3e1010cda12/00112331_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f7f1d5f9242dba3e3c6b8b980a58fdfef2be2e6195be12ca3914f36a16ca0fde",
+        "bytes": 104264,
+        "local_path": "library\\latin-america\\mexico\\huastec\\arms\\huastec\\images\\bm_E_Am1988_08_340_a.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T01:55:44.650620+00:00",
+    "raw": {
+      "title": "machete",
+      "description": "Machete (with matching sheath); metal blade, straight on one side, curved on sharp side; handle made of metal wrapped in leather.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_16/b6d69823_4213_44d7_931e_a3e1010cda12/00112331_001.jpg",
+      "production_ethnic_groups": [
+        "Huastec"
+      ],
+      "production_ethnic_attribution": "Made by: Huastec"
+    }
+  }
+]

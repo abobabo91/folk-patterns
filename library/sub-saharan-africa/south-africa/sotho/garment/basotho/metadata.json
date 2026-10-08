@@ -1,0 +1,436 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_47300",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_47300",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_47300?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Sotho",
+      "tradition": "Basotho",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a conical woven straw hat with a looped topknot finial, matching the classic Basotho mokorotlo hat described in the museum's own record as worn by Basotho herders in Lesotho/Drakensberg region.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "hatt, Stråhatt, hat",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200201%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ac5be0a1037f37c5d85746931d5cf5fa81302b796a3bcfb51c6551ecb315015e",
+        "bytes": 21214,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\sotho\\garment\\basotho\\images\\eu_91608_SMVK_VKM_objekt_47300.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:42.806372+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Strphatt, flätad i konisk form. Mått: 32 cm x 37 cm/max./ Med dekorativt flätad topp: 4 öglor omkring en bollformad topp. Dessa hattar användes som regn- och solhattar av de beridna herdarna i Baotholand/ nurvarande Lesotho/ - användes även utan för detta område numera av \nbasotho-stammens män. \nInsaml., av: Josef Lagergren, Gbg.    År: 1962\nKöp från:         \"               \"              \"        År: 1968",
+        "Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg",
+        "1968.13.0240",
+        "Trakten av Drakensbergen, mellan Durban - Pretoria, Sydafrika.",
+        "Trakten av Drakensbergen, mellan Durban- Pretoria, Sydafrika. [[Haga]]",
+        "Trakten av Drakensbergen, mellan Durban - Pretoria, Sydafrika",
+        "skiss",
+        "basotho"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Strphatt, flätad i konisk form. Mått: 32 cm x 37 cm/max./ Med dekorativt flätad topp: 4 öglor omkring en bollformad topp. Dessa hattar användes som regn- och solhattar av de beridna herdarna i Baotholand/ nurvarande Lesotho/ - användes även utan för detta område numera av \nbasotho-stammens män. \nInsaml., av: Josef Lagergren, Gbg.    År: 1962\nKöp från:         \"               \"              \"        År: 1968",
+          "Årsberättelse 1968, Årstryck 1967-68, Etnografiska museet, Göteborg"
+        ],
+        "def": [
+          "1968.13.0240",
+          "Trakten av Drakensbergen, mellan Durban - Pretoria, Sydafrika.",
+          "Trakten av Drakensbergen, mellan Durban- Pretoria, Sydafrika. [[Haga]]",
+          "Trakten av Drakensbergen, mellan Durban - Pretoria, Sydafrika",
+          "skiss",
+          "basotho"
+        ]
+      },
+      "dcLanguage": [
+        "swe",
+        "sv"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "swe",
+          "sv"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "hatt, Stråhatt, hat"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/2388",
+        "http://data.europeana.eu/concept/2397"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Hut"
+        },
+        {
+          "def": "Kopfbedeckung"
+        },
+        {
+          "def": "Шляпа"
+        },
+        {
+          "def": "Головной убор"
+        },
+        {
+          "def": "Hattu"
+        },
+        {
+          "def": "Päähine"
+        },
+        {
+          "def": "Chapéu"
+        },
+        {
+          "def": "Acessório de cabeça"
+        },
+        {
+          "def": "Шапка"
+        },
+        {
+          "def": "Skrybėlė"
+        },
+        {
+          "def": "Galvos apdangalas"
+        },
+        {
+          "def": "Šešir"
+        },
+        {
+          "def": "Pokrivalo za glavu"
+        },
+        {
+          "def": "Cepure"
+        },
+        {
+          "def": "Galvassega"
+        },
+        {
+          "def": "Chapeau"
+        },
+        {
+          "def": "Couvre-chef"
+        },
+        {
+          "def": "Kalap"
+        },
+        {
+          "def": "Fejfedő"
+        },
+        {
+          "def": "Klobúk"
+        },
+        {
+          "def": "Klobuk"
+        },
+        {
+          "def": "Pokrivalo"
+        },
+        {
+          "def": "Hata"
+        },
+        {
+          "def": "Ceannbheart"
+        },
+        {
+          "def": "Barret"
+        },
+        {
+          "def": "Lligadura"
+        },
+        {
+          "def": "Hatt"
+        },
+        {
+          "def": "Huvudbonad"
+        },
+        {
+          "def": "Καπέλο"
+        },
+        {
+          "def": "Hat"
+        },
+        {
+          "def": "Headgear"
+        },
+        {
+          "def": "Cappello"
+        },
+        {
+          "def": "Copricapo"
+        },
+        {
+          "def": "Sombrero"
+        },
+        {
+          "def": "Tocado"
+        },
+        {
+          "def": "Kübar"
+        },
+        {
+          "def": "Peakate"
+        },
+        {
+          "def": "Kapela"
+        },
+        {
+          "def": "Buruko osagarri"
+        },
+        {
+          "def": "Klobouk"
+        },
+        {
+          "def": "Pokrývka hlavy"
+        },
+        {
+          "def": "Kapelusz"
+        },
+        {
+          "def": "Nakrycie głowy"
+        },
+        {
+          "def": "Pălărie"
+        },
+        {
+          "def": "Coifură"
+        },
+        {
+          "def": "Hat"
+        },
+        {
+          "def": "Hovedbeklædning"
+        },
+        {
+          "def": "Hoed"
+        },
+        {
+          "def": "Hoofddeksel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Hut",
+          "Kopfbedeckung"
+        ],
+        "ru": [
+          "Шляпа",
+          "Головной убор"
+        ],
+        "fi": [
+          "Hattu",
+          "Päähine"
+        ],
+        "pt": [
+          "Acessório de cabeça",
+          "Chapéu"
+        ],
+        "bg": [
+          "Шапка"
+        ],
+        "lt": [
+          "Skrybėlė",
+          "Galvos apdangalas"
+        ],
+        "hr": [
+          "Šešir",
+          "Pokrivalo za glavu"
+        ],
+        "lv": [
+          "Cepure",
+          "Galvassega"
+        ],
+        "fr": [
+          "Chapeau",
+          "Couvre-chef"
+        ],
+        "hu": [
+          "Fejfedő",
+          "Kalap"
+        ],
+        "sk": [
+          "Klobúk"
+        ],
+        "sl": [
+          "Pokrivalo",
+          "Klobuk"
+        ],
+        "ga": [
+          "Hata",
+          "Ceannbheart"
+        ],
+        "ca": [
+          "Barret",
+          "Lligadura"
+        ],
+        "sv": [
+          "Hatt",
+          "Huvudbonad"
+        ],
+        "el": [
+          "Καπέλο"
+        ],
+        "en": [
+          "Hat",
+          "Headgear"
+        ],
+        "it": [
+          "Cappello",
+          "Copricapo"
+        ],
+        "es": [
+          "Tocado",
+          "Sombrero"
+        ],
+        "et": [
+          "Kübar",
+          "Peakate"
+        ],
+        "eu": [
+          "Kapela",
+          "Buruko osagarri"
+        ],
+        "cs": [
+          "Pokrývka hlavy",
+          "Klobouk"
+        ],
+        "pl": [
+          "Kapelusz",
+          "Nakrycie głowy"
+        ],
+        "ro": [
+          "Pălărie",
+          "Coifură"
+        ],
+        "da": [
+          "Hovedbeklædning",
+          "Hat"
+        ],
+        "nl": [
+          "Hoed",
+          "Hoofddeksel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/47300"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1200201/zoom"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1200201%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_47300?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_47300",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_47300.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 24.932234,
+      "timestamp": 1752047595364,
+      "timestamp_created": "2014-10-01T16:23:09.050Z",
+      "timestamp_created_epoch": 1412180589050,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "hatt, Stråhatt, hat"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

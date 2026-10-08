@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1900-0524-9",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1900-0524-9",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1900-0524-9",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1900.0524.9",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Madagascar",
+      "ethnicity": "Merina",
+      "tradition": "Merina",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A silver zebu-form amulet with a suspension hole, consistent with Merina metalwork amulets/charms; museum attributes production to the Merina.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "amulet",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "amulet",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Amulet, charm; made of silver. In form of a zebu (humped bull) with shortened legs and long tapering horns. Pierced through the shoulder with hole for suspension.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/a724d3a1_f5d8_4a5d_8972_a3c30143e6de/preview_00830120_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "652b09ed53d5be6cb4c40fc76caebec759738391b60910da69db52350547d78f",
+        "bytes": 35938,
+        "local_path": "library\\sub-saharan-africa\\madagascar\\merina\\masks-ritual\\merina\\images\\bm_E_Af1900_0524_9.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T02:27:44.429524+00:00",
+    "raw": {
+      "title": "amulet",
+      "description": "Amulet, charm; made of silver. In form of a zebu (humped bull) with shortened legs and long tapering horns. Pierced through the shoulder with hole for suspension.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/13_19/a724d3a1_f5d8_4a5d_8972_a3c30143e6de/preview_00830120_001.jpg",
+      "production_ethnic_groups": [
+        "Merina"
+      ],
+      "production_ethnic_attribution": "Made by: Merina"
+    }
+  }
+]

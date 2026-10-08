@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1913-1231-27",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1913-1231-27",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1913-1231-27",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1913.1231.27",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Mexico",
+      "ethnicity": "Mazatec",
+      "tradition": "Mazatec",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a woven cotton bag with red geometric supplementary-weft brocading and striped bands, matching the museum's attribution to Mazatec weavers of Oaxaca, Mexico. This is a textile made and used by the claimed people.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bag",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bag",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Bag; woven of cotton; rectangle of white cotton with red and blue stripes and bands of red geometric supplementary weft brocading; folded in half and sewn up sides to make bag; white cotton braided loops sewn in each top corner.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/f99da874_5fc7_4b4d_ae40_a3bb006f2a80/preview_00310429_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f4485d271384dfd21fc1e170eb6bf27cfa8cd6b7bfa3841b4cf2d2e1d0765e2c",
+        "bytes": 87470,
+        "local_path": "library\\latin-america\\mexico\\mazatec\\textile\\mazatec\\images\\bm_E_Am1913_1231_27.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:38:37.438314+00:00",
+    "raw": {
+      "title": "bag",
+      "description": "Bag; woven of cotton; rectangle of white cotton with red and blue stripes and bands of red geometric supplementary weft brocading; folded in half and sewn up sides to make bag; white cotton braided loops sewn in each top corner.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/f99da874_5fc7_4b4d_ae40_a3bb006f2a80/preview_00310429_001.jpg",
+      "production_ethnic_groups": [
+        "Mazatec"
+      ],
+      "production_ethnic_attribution": "Made by: Mazatec"
+    }
+  }
+]

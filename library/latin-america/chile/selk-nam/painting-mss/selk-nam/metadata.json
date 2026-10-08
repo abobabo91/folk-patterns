@@ -1,0 +1,122 @@
+[
+  {
+    "id": "europeana-91609_SMVK_VKM_fotografi_112074",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91609_SMVK_VKM_fotografi_112074",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112074?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Chile",
+      "ethnicity": "Selk'nam",
+      "tradition": "Selk'nam",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The plate (from Gusinde's \"Die Feuerland-Indianer\") shows drawn documentation of Selk'nam body-paint patterns and the distinctive conical bark masks worn by spirit figures (Šoorte, Košmenk, Matan) in their secret Hain men's ceremonies — this is their own ritual costume/body art, not an outsider's artistic rendering of a foreign culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "body painting, drawing, masculinity, mask, demon making, drawing, drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1976948/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "de75c30324e32d56956cef165b4cccd5bebae960feb64357ec80943442975e09",
+        "bytes": 84595,
+        "local_path": "library\\latin-america\\chile\\selk-nam\\painting-mss\\selk-nam\\images\\eu_91609_SMVK_VKM_fotografi_112074.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1976948%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:02:07.330153+00:00",
+    "raw": {
+      "id": "/91609/SMVK_VKM_fotografi_112074",
+      "guid": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_112074?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "body painting, drawing, masculinity, mask, demon making, drawing, drawing",
+        "kroppsmålning, teckning, manbarhetsfest, mask, demonframställning, Teckning, drawing"
+      ],
+      "dcCreator": [
+        "Gusinde, Martin",
+        "Gusinde, Martin",
+        "Gusinde, Martin"
+      ],
+      "dcDescription": [
+        "Selk \"Nam Onawo Ona selk \"nam Argentina [?] Chile [?] Motif: Demon petitions at selk 'nam’s secret manhood parties.\nLocal: The Land of Fire.\nShame: Selk \"nam (Ona).\nThe sign. by: M. Gusinde. Dato: -\nErh.: gm. photo for skioptikon. Dato: omkr. 1930.\nNo. Neg.: 3580.\nSciopt.: 410.\nPubl. M. Gusinde: Die Feuerland Indians, I, Die Selk 'nam. Mödling bei Wien 1931. Image Atlas, Taf XLV: 110, 111, 112.\n(Catalogue card) Tierra del Fuego 008217 Selk'Nam Onawo Ona Amerika onawo selk´nam Argentina [?] Chile [?] Motiv: Demonframställningar vid selk'nams hemliga manbarhetsfester.\nLokal: Eldslandet.\nStam: Se"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1976948%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1976948/image.jpg"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

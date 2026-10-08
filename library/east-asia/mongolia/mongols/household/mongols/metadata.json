@@ -1,0 +1,796 @@
+[
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1009976",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1009976",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1009976?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Mongolia",
+      "ethnicity": "Mongols",
+      "tradition": "Mongols",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A silver snuff bottle with repoussé bird decoration and coral-studded lid, purchased directly from Mongols at Khadain-sume in Inner Mongolia in 1930 — a classic Mongol personal/household object.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bottle, snuff bottle, Kuchur",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3537717/1935.50.1072.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d577d4aad291e388a0254acff90a193741597437dec428f517038883550ac477",
+        "bytes": 107528,
+        "local_path": "library\\east-asia\\mongolia\\mongols\\household\\mongols\\images\\eu_91619_SMVK_EM_objekt_1009976.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3537717%2F1935.50.1072.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:36:00.107851+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1009976",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1009976?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "bottle, snuff bottle, Kuchur",
+        "flaska, snusflaska, Kuchur",
+        "flaska, snusflaska, Kuchur"
+      ],
+      "dcDescription": [
+        "1935.50.1072 China 1935.50.1072 China Snusflaska av silver, rund form, på fot och med lock. Flaskans fram och baksida är dekorerad med en fågel. Locket har varit dekorerat med fem koraller varav tre återstår. Locket är försett med en snusspade som stickes ned i flaskan. (AA)\n\n\"Kuchur\" (MLK) Inköpt i Hattin sume, 23 april 1930. (MLK)\nKhadain sume är ett annat namn för Hattin sume. (AA)\n\nMontell och Eriksson gjorde en exkursion till Inre Mongoliet i april 1930. Montell berättar: \"On april 23rd, we spent the whole day at Khadain-sume and I was besieged by Mongols offering all sorts of things for "
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3537717%2F1935.50.1072.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3537717/1935.50.1072.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Volksrepublik China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kiinan kansantasavalta"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kinijos Liaudies Respublika"
+        },
+        {
+          "def": "Narodna Republika Kina"
+        },
+        {
+          "def": "Ķīna"
+        },
+        {
+          "def": "République populaire de Chine"
+        },
+        {
+          "def": "Kína"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Ljudska republika Kitajska"
+        },
+        {
+          "def": "Daon-Phoblacht na Síne"
+        },
+        {
+          "def": "República Popular de la Xina"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία της Κίνας"
+        },
+        {
+          "def": "Repubblika tal-Poplu taċ-Ċina"
+        },
+        {
+          "def": "People's Republic of China"
+        },
+        {
+          "def": "Cina"
+        },
+        {
+          "def": "República Popular China"
+        },
+        {
+          "def": "Hiina"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Txinako Herri Errepublika"
+        },
+        {
+          "def": "Chińska Republika Ludowa"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Volksrepubliek China"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1017296",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1017296",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1017296?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Mongolia",
+      "ethnicity": "Mongols",
+      "tradition": "Mongols",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A carved and gilded wooden Lamaist altar table, documented as made by Mongol craftsmen (\"Sagetjin Baell Mongols\") for use in Mongolian/Tibetan ritual context — consistent with Mongol material culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "altarbord, Taxile´en sjirae",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/25431997/dia-1929.21.0039.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f97bed647b4e3a2c6e0a000137ee1a4be81c36208e815e9950e37e1ffdefd908",
+        "bytes": 511252,
+        "local_path": "library\\east-asia\\mongolia\\mongols\\household\\mongols\\images\\eu_91619_SMVK_EM_objekt_1017296.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25431997%2Fdia-1929.21.0039.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:36:00.978383+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1017296",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1017296?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "altarbord, Taxile´en sjirae",
+        "Altar table, Taxile",
+        "altarbord, Taxile´en sjirae"
+      ],
+      "dcDescription": [
+        "1929.21.0039 China Altarbord av trä. Ett större bord och ett mindre bord vilket placeras framför det större. Borden är ihopfällbara och är konstruerade utan spikar eller skruvar. Bordens sidor, ovansidor och framsidor är rödmålade. Framsidorna är försedda med förgyllda dekorationer. Baksidor och undersidor är omålade. (AA)\n\n\"Taxile´en sjirae, 2 carved wooden altar tables made by Sagetjin Baell Mongols. (2 st) c: Kr. 140.- (Priset inkluderar föremål märkt 40)\" (Originalförteckning till samlingen) Lamaistiska föremål från Mongoliet och Tibet 1929.21.0039 China"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F25431997%2Fdia-1929.21.0039.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/25431997/dia-1929.21.0039.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Volksrepublik China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kiinan kansantasavalta"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kinijos Liaudies Respublika"
+        },
+        {
+          "def": "Narodna Republika Kina"
+        },
+        {
+          "def": "Ķīna"
+        },
+        {
+          "def": "République populaire de Chine"
+        },
+        {
+          "def": "Kína"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Ljudska republika Kitajska"
+        },
+        {
+          "def": "Daon-Phoblacht na Síne"
+        },
+        {
+          "def": "República Popular de la Xina"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία της Κίνας"
+        },
+        {
+          "def": "Repubblika tal-Poplu taċ-Ċina"
+        },
+        {
+          "def": "People's Republic of China"
+        },
+        {
+          "def": "Cina"
+        },
+        {
+          "def": "República Popular China"
+        },
+        {
+          "def": "Hiina"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Txinako Herri Errepublika"
+        },
+        {
+          "def": "Chińska Republika Ludowa"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Volksrepubliek China"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1009443",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1009443",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1009443?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Mongolia",
+      "ethnicity": "Mongols",
+      "tradition": "Mongols",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A wooden pack frame with leather straps, carried on the back via hide-rope harness, collected directly from Mongols at Khadain-sume in Inner Mongolia in 1930 — a documented everyday carrying device used by this people.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bärmes, urck, urch",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3107304/bild-1935.50.1078-1.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "95a091ebc2fcb467bbc5e038fde546eb9759595d3744a55bcdd129bd0ddd6924",
+        "bytes": 140302,
+        "local_path": "library\\east-asia\\mongolia\\mongols\\household\\mongols\\images\\eu_91619_SMVK_EM_objekt_1009443.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3107304%2Fbild-1935.50.1078-1.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:36:01.956731+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1009443",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1009443?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "bärmes, urck, urch",
+        "bearers, bell, urch"
+      ],
+      "dcDescription": [
+        "1935.50.1078 China \"Består av två dubbla bågar av trä med tvärslåar. Bågarna äro nedtill förenade med remmar av läder. Bäres på ryggen medelst två hängslen av hopsydda nöthårsrep.\" (HBE)\n\nFoto HBE Köpt vid Hatuin sume 23 april 1930. (MLK)\nKöpt vid Khadain sume. (HBE)\nKhadain-sume är ett annat namn för Hattin sume. (AA)\n\nMontell och Eriksson gjorde en exkursion till Inre Mongoliet i april 1930. Montell berättar: \"On april 23rd, we spent the whole day at Khadain-sume and I was besieged by Mongols offering all sorts of things for sale, of which quite a lot finally ended up in our collections,...\""
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3107304%2Fbild-1935.50.1078-1.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3107304/bild-1935.50.1078-1.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Volksrepublik China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kiinan kansantasavalta"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kinijos Liaudies Respublika"
+        },
+        {
+          "def": "Narodna Republika Kina"
+        },
+        {
+          "def": "Ķīna"
+        },
+        {
+          "def": "République populaire de Chine"
+        },
+        {
+          "def": "Kína"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Ljudska republika Kitajska"
+        },
+        {
+          "def": "Daon-Phoblacht na Síne"
+        },
+        {
+          "def": "República Popular de la Xina"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία της Κίνας"
+        },
+        {
+          "def": "Repubblika tal-Poplu taċ-Ċina"
+        },
+        {
+          "def": "People's Republic of China"
+        },
+        {
+          "def": "Cina"
+        },
+        {
+          "def": "República Popular China"
+        },
+        {
+          "def": "Hiina"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Txinako Herri Errepublika"
+        },
+        {
+          "def": "Chińska Republika Ludowa"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Volksrepubliek China"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1011457",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1011457",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1011457?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Mongolia",
+      "ethnicity": "Mongols",
+      "tradition": "Mongols",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A birch-bark container with wooden base, lid and handle, purchased directly from Mongols at Khadain sume (Inner Mongolia) during Montell's 1930 expedition — a plausible everyday storage/milk vessel for the people it was bought from.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "svepask, källa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/1193128/1935.50.1089.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1cee92643eafe3e108c5ae1c3f81e43b6167944a76fa5bfb39e896d256eecc67",
+        "bytes": 27957,
+        "local_path": "library\\east-asia\\mongolia\\mongols\\household\\mongols\\images\\eu_91619_SMVK_EM_objekt_1011457.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1193128%2F1935.50.1089.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:36:02.519215+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1011457",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1011457?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "svepask, källa",
+        "sweep ash, source"
+      ],
+      "dcDescription": [
+        "1935.50.1089 China Svepask av näver, med botten och lock av trä. Locket är försett med handtag. Locket sitter i nuvarande skick fast. (AA)\n\n\"Mjölkbytta av näver. Med lock. Tibetansk.\" (MLK) Inköpt i Hattin sume 23 april1930. (MLK)\nKhadain sume är ett annat namn för Hattin sume. (AA)\n\nMontell och Eriksson gjorde en exkursion till Inre Mongoliet i april 1930. Montell berättar: \"On april 23rd, we spent the whole day at Khadain-sume and I was besieged by Mongols offering all sorts of things for sale, of which quite a lot finally ended up in our collections, ...\" (Montell.1945. s. 342)\n\nEndast dett"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F1193128%2F1935.50.1089.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/1193128/1935.50.1089.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Volksrepublik China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kiinan kansantasavalta"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Китай"
+        },
+        {
+          "def": "Kinijos Liaudies Respublika"
+        },
+        {
+          "def": "Narodna Republika Kina"
+        },
+        {
+          "def": "Ķīna"
+        },
+        {
+          "def": "République populaire de Chine"
+        },
+        {
+          "def": "Kína"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Ljudska republika Kitajska"
+        },
+        {
+          "def": "Daon-Phoblacht na Síne"
+        },
+        {
+          "def": "República Popular de la Xina"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία της Κίνας"
+        },
+        {
+          "def": "Repubblika tal-Poplu taċ-Ċina"
+        },
+        {
+          "def": "People's Republic of China"
+        },
+        {
+          "def": "Cina"
+        },
+        {
+          "def": "República Popular China"
+        },
+        {
+          "def": "Hiina"
+        },
+        {
+          "def": "Čína"
+        },
+        {
+          "def": "Txinako Herri Errepublika"
+        },
+        {
+          "def": "Chińska Republika Ludowa"
+        },
+        {
+          "def": "Kina"
+        },
+        {
+          "def": "China"
+        },
+        {
+          "def": "Volksrepubliek China"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

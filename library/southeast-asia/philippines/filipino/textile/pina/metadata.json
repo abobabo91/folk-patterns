@@ -1,0 +1,3562 @@
+[
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399921550-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399921550-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/103507",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Frances Morris",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1951-111-48",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A fine embroidered piña/organdy handkerchief with floral vine border and needle-lace edging, a hallmark of traditional Filipino embroidery textile work, consistent with the claimed Filipino origin.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Handkerchief",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: piña (pineapple) fiber, cotton Technique: appliqué, embroidery and drawnwork on plain weave",
+      "classification": "embroidery & stitching",
+      "styles": [],
+      "categories": [
+        "embroidery & stitching",
+        "Handkerchief"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 87 × 84.8 cm (34 1/4 × 33 3/8 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq43d79e475-9963-4fd6-895f-a7a1cc4d0b8c"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-B58AC262AC1B2_01-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6c2881e2b48e2aed92211c6396ce11a8c554c1542c24478687265ea600ad27f2",
+        "bytes": 5916071,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1951-111-48.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-B58AC262AC1B2-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1b8e71afd99da126c6f599f5b0c4c7d4f2fbdd101c38ed9a47f943730f165942",
+        "bytes": 5689109,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1951-111-48_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:08:26.093247+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399921550-0",
+      "title": "Handkerchief",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1951-111-48",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Handkerchief in piña cloth edged with a wide border, embroidered in cotton in drawnwork in large scale floral sprays."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Philippines"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Frances Morris"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1951-111-48"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "embroidery & stitching"
+            },
+            {
+              "label": "Type",
+              "content": "Handkerchief"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: piña (pineapple) fiber, cotton Technique: appliqué, embroidery and drawnwork on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 87 × 84.8 cm (34 1/4 × 33 3/8 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Philippines"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Philippines"
+              }
+            }
+          ],
+          "object_type": [
+            "Handkerchiefs",
+            "Embroidery (visual works)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq43d79e475-9963-4fd6-895f-a7a1cc4d0b8c",
+          "title": {
+            "label": "Title",
+            "content": "Handkerchief"
+          },
+          "record_ID": "chndm_1951-111-48",
+          "unit_code": "CHNDM",
+          "title_sort": "HANDKERCHIEF",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/103507",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-B58AC262AC1B2_01-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9bc3ca15f-4e70-4fed-9c53-3fb6d9375635",
+                "type": "Images",
+                "idsId": "CHSDM-B58AC262AC1B2_01-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-B58AC262AC1B2_01-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-B58AC262AC1B2_01-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Handkerchief in piña cloth edged with a wide border, embroidered in cotton in drawnwork in large scale floral sprays.",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2_01-000001.tif",
+                    "width": 6225,
+                    "height": 6494,
+                    "dimensions": "6225x6494"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2_01-000001.jpg",
+                    "width": 6225,
+                    "height": 6494,
+                    "dimensions": "6225x6494"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2_01-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2_01-000001_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-B58AC262AC1B2-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9b9660508-bfc7-4308-b710-5d5034ffce8e",
+                "type": "Images",
+                "idsId": "CHSDM-B58AC262AC1B2-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-B58AC262AC1B2-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-B58AC262AC1B2-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Handkerchief in piña cloth edged with a wide border, embroidered in cotton in drawnwork in large scale floral sprays.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2-000001.jpg",
+                    "width": 6483,
+                    "height": 6692,
+                    "dimensions": "6483x6692"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-B58AC262AC1B2-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "95b1cd7b54e652a7c766399148a53ab5b89dc766",
+      "docSignature": "c8e390c47e6b26dbedb5820b27f9ac4b",
+      "timestamp": "1663784057",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399921573-1",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399921573-1",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/103542",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Frances Morris",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1951-111-77",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a finely embroidered whitework handkerchief with scalloped edges and a monogram, a type of fine embroidered linen/piña handkerchief historically made in the Philippines (a noted Filipino craft export). It plausibly fits Filipino textile work.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Handkerchief",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: piña (pineapple) fiber, cotton Technique: embroidery and drawnwork on plain weave",
+      "classification": "embroidery & stitching",
+      "styles": [],
+      "categories": [
+        "embroidery & stitching",
+        "Handkerchief"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 38.1 × 39.2 cm (15 in. × 15 7/16 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq418776e6c-42cc-444f-8acc-cbf2a6f3f7ae"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1951-111-77MattFlynn",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6a4c5e341163273f593ac98368409862412a616dffb7fd13a8c35efd2e9e8c26",
+        "bytes": 1476717,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1951-111-77.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-F12BC3497B302-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "e3e235f0bdc3d84de7938240581d35758d3b09f6079671bfb9ba93ef8d0897b6",
+        "bytes": 3093917,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1951-111-77_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:09:04.224255+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399921573-1",
+      "title": "Handkerchief",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1951-111-77",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Handkerchief in piña cloth with scalloped edge, buttonholed and with border of flowering vine, embroidered in cotton, crossing circles of drawnwork. Corner in black and white with word: \"Recuerdo\" with bird above and small dog or cat below flowers."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Philippines"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Frances Morris"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1951-111-77"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "embroidery & stitching"
+            },
+            {
+              "label": "Type",
+              "content": "Handkerchief"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: piña (pineapple) fiber, cotton Technique: embroidery and drawnwork on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 38.1 × 39.2 cm (15 in. × 15 7/16 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1890s"
+          ],
+          "place": [
+            "Philippines"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Philippines"
+              }
+            }
+          ],
+          "object_type": [
+            "Handkerchiefs",
+            "Embroidery (visual works)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq418776e6c-42cc-444f-8acc-cbf2a6f3f7ae",
+          "title": {
+            "label": "Title",
+            "content": "Handkerchief"
+          },
+          "record_ID": "chndm_1951-111-77",
+          "unit_code": "CHNDM",
+          "title_sort": "HANDKERCHIEF",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/103542",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-1951-111-77MattFlynn",
+                "guid": "http://n2t.net/ark:/65665/vc912d0c4cd-e85c-4528-b988-d9d204b63194",
+                "type": "Images",
+                "idsId": "CHSDM-1951-111-77MattFlynn",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1951-111-77MattFlynn",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1951-111-77MattFlynn",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Handkerchief in piña cloth with scalloped edge, buttonholed and with border of flowering vine, embroidered in cotton, crossing circles of drawnwork. Corner in black and white with word: \"Recuerdo\" with bird above and small dog or cat below flowers.",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1951-111-77MattFlynn.tif",
+                    "width": 2804,
+                    "height": 3000,
+                    "dimensions": "2804x3000"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1951-111-77MattFlynn.jpg",
+                    "width": 2804,
+                    "height": 3000,
+                    "dimensions": "2804x3000"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1951-111-77MattFlynn_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1951-111-77MattFlynn_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-F12BC3497B302-000001",
+                "guid": "http://n2t.net/ark:/65665/vc988fde58c-c3c4-4548-b737-510b57fcaa55",
+                "type": "Images",
+                "idsId": "CHSDM-F12BC3497B302-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-F12BC3497B302-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-F12BC3497B302-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Handkerchief in piña cloth with scalloped edge, buttonholed and with border of flowering vine, embroidered in cotton, crossing circles of drawnwork. Corner in black and white with word: \"Recuerdo\" with bird above and small dog or cat below flowers.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-F12BC3497B302-000001.jpg",
+                    "width": 3730,
+                    "height": 3646,
+                    "dimensions": "3730x3646"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-F12BC3497B302-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-F12BC3497B302-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "9399085da5aa9f3e0ca95d54306cad1dd7be7167",
+      "docSignature": "ea617e5856f61c2eb18291e0f80ccda8",
+      "timestamp": "1663784057",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399918722-1",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399918722-1",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/96865",
+      "iiif_manifest": null,
+      "credit_line": "Given by the Misses Adeline F. and Caroline R. Wing in honor of The Needle and Bobbin Club",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1947-55-1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a fine embroidered piña/jusi textile scarf with floral and vase motifs and delicate lace-like scalloped borders, a style consistent with traditional Filipino embroidery/needlework textiles.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Scarf",
+      "titles_alt": [],
+      "date_text": "ca. 1770",
+      "date_earliest": 1770,
+      "date_latest": 1770,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: piña (pineapple) fiber, silk, cotton Technique: embroidered in satin stitch and drawn work on plain weave",
+      "classification": "embroidery & stitching",
+      "styles": [],
+      "categories": [
+        "embroidery & stitching",
+        "Scarf"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 230 x 71 cm (7 ft. 6 9/16 in. x 27 15/16 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq400cc0174-3e43-4287-b5ce-c9a75205fcc7"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-DAC4DE3318B92_01-000003",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b1f4741706bcbc20e916bd74582451a248b45894b4bb7a48c1a23e8058c2c1ff",
+        "bytes": 2369185,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1947-55-1.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-DAC4DE3318B92-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "005ae39c91de593e2a6d4b9e7b0f80952c550910ea94f41b6f74f1369940d887",
+        "bytes": 3184464,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1947-55-1_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:09:23.938243+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399918722-1",
+      "title": "Scarf",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1947-55-1",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "ca. 1770"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "A long, rectangular scarf in sheer piña and silk cloth with cotton embroidery in a design depicting a flowering tree in a bowl at each end, surrounded by a deep floral border on four sides. Edges are scalloped."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Philippines"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Given by the Misses Adeline F. and Caroline R. Wing in honor of The Needle and Bobbin Club"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1947-55-1"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "embroidery & stitching"
+            },
+            {
+              "label": "Type",
+              "content": "Scarf"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: piña (pineapple) fiber, silk, cotton Technique: embroidered in satin stitch and drawn work on plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 230 x 71 cm (7 ft. 6 9/16 in. x 27 15/16 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1770s",
+            "1760s"
+          ],
+          "place": [
+            "Philippines"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Philippines"
+              }
+            }
+          ],
+          "object_type": [
+            "Scarves (costume accessories)",
+            "Embroidery (visual works)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq400cc0174-3e43-4287-b5ce-c9a75205fcc7",
+          "title": {
+            "label": "Title",
+            "content": "Scarf"
+          },
+          "record_ID": "chndm_1947-55-1",
+          "unit_code": "CHNDM",
+          "title_sort": "SCARF",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/96865",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-DAC4DE3318B92_01-000003",
+                "guid": "http://n2t.net/ark:/65665/vc9450ea3b6-b7b3-4f3e-b953-3da1efedd0a7",
+                "type": "Images",
+                "idsId": "CHSDM-DAC4DE3318B92_01-000003",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-DAC4DE3318B92_01-000003",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-DAC4DE3318B92_01-000003",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "A long, rectangular scarf in sheer piña and silk cloth with cotton embroidery in a design depicting a flowering tree in a bowl at each end, surrounded by a deep floral border on four sides. Edges are scalloped.",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92_01-000003.tif",
+                    "width": 5357,
+                    "height": 15461,
+                    "dimensions": "5357x15461"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92_01-000003.jpg",
+                    "width": 5357,
+                    "height": 15461,
+                    "dimensions": "5357x15461"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92_01-000003_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92_01-000003_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-DAC4DE3318B92-000001",
+                "guid": "http://n2t.net/ark:/65665/vc91d2796fc-5a51-4766-bbb1-ece10b47a5af",
+                "type": "Images",
+                "idsId": "CHSDM-DAC4DE3318B92-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-DAC4DE3318B92-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-DAC4DE3318B92-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "A long, rectangular scarf in sheer piña and silk cloth with cotton embroidery in a design depicting a flowering tree in a bowl at each end, surrounded by a deep floral border on four sides. Edges are scalloped.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92-000001.jpg",
+                    "width": 5434,
+                    "height": 9940,
+                    "dimensions": "5434x9940"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-DAC4DE3318B92-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "733d63a3a6b4ae92af99cd4ebd71a94f20cf10cc",
+      "docSignature": "bc4b76159945da36ea67013563bfcc89",
+      "timestamp": "1663784056",
+      "lastTimeUpdated": "1776336432",
+      "version": "1776332796"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933945-1",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933945-1",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129917",
+      "iiif_manifest": null,
+      "credit_line": "Given by Miss Elizabeth Riley",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-181-2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A plain handwoven fabric with subtle checked texture, consistent with a Philippine handwoven textile (e.g., piña or abaca cloth); nothing contradicts the Filipino attribution.",
+      "vision_confidence": "LOW",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textile",
+      "titles_alt": [],
+      "date_text": "ca. 1880",
+      "date_earliest": 1880,
+      "date_latest": 1880,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: piña (pineapple) fiber, cotton Technique: plain weave",
+      "classification": "woven textiles",
+      "styles": [],
+      "categories": [
+        "woven textiles",
+        "Textile"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 406.4 × 43.8 cm (13 ft. 4 in. × 17 1/4 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq4f7304673-cbae-493b-bc47-9f325682aa56"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1398211BA1972-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f54a5e19b3d2ca637c4774530f1d9a0c7febbfed4144505cd97687a64159c3ac",
+        "bytes": 2215911,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1961-181-2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:07:12.840438+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933945-1",
+      "title": "Textile",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-181-2",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "ca. 1880"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Length of white piña cloth, fine white stripes."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Philippines"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Given by Miss Elizabeth Riley"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-181-2"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "woven textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Textile"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: piña (pineapple) fiber, cotton Technique: plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 406.4 × 43.8 cm (13 ft. 4 in. × 17 1/4 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1880s",
+            "1870s"
+          ],
+          "place": [
+            "Philippines"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Philippines"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq4f7304673-cbae-493b-bc47-9f325682aa56",
+          "title": {
+            "label": "Title",
+            "content": "Textile"
+          },
+          "record_ID": "chndm_1961-181-2",
+          "unit_code": "CHNDM",
+          "title_sort": "TEXTILE",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129917",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-1398211BA1972-000001",
+                "guid": "http://n2t.net/ark:/65665/vc97bd1d7ad-d65d-41d1-8481-12b41921646e",
+                "type": "Images",
+                "idsId": "CHSDM-1398211BA1972-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1398211BA1972-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1398211BA1972-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Length of white piña cloth, fine white stripes.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1398211BA1972-000001.jpg",
+                    "width": 4892,
+                    "height": 10316,
+                    "dimensions": "4892x10316"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1398211BA1972-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-1398211BA1972-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 1
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "88af5215e12dbbffc11e8001ab7c344dc2945fff",
+      "docSignature": "6461e6a797ca90c9eabbbaa985cad485",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1776336432",
+      "version": "1776332796"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399921520-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399921520-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/103469",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Frances Morris",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1951-111-17",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A finely woven square textile (likely piña or jusi) with floral brocade borders and blue silk ribbon bands, consistent with traditional Filipino handkerchief/pañuelo textiles.",
+      "vision_confidence": "MEDIUM",
+      "art_form_vision": "textile",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "Square",
+      "titles_alt": [],
+      "date_text": "late 19th century",
+      "date_earliest": 1866,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: piña (pineapple) fiber, silk, cotton Technique: plain weave with supplementary weft",
+      "classification": "woven textiles",
+      "styles": [],
+      "categories": [
+        "woven textiles",
+        "Square"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 71.1 × 73.5 cm (28 in. × 28 15/16 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq44b731fdd-4a37-48f1-a61d-beb50ea569e9"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-2374CBF814C12-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ce4bed4868be2a93d3a484ca4c7095106522e96b6fe3cf6254535c916b716690",
+        "bytes": 5533901,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1951-111-17.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CHT2741",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "14a5b5d82eee0ccb99e40045b1a099f09fc926b0409144e5c5159a10c8ed1e0a",
+        "bytes": 372649,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1951-111-17_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:07:23.862666+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399921520-0",
+      "title": "Square",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1951-111-17",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "late 19th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Square of piña cloth edged with wide border of floral motifs and a straight border in blue running along all four sides."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Philippines"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Frances Morris"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1951-111-17"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "woven textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Square"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: piña (pineapple) fiber, silk, cotton Technique: plain weave with supplementary weft"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 71.1 × 73.5 cm (28 in. × 28 15/16 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1900s",
+            "1870s"
+          ],
+          "place": [
+            "Philippines"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Philippines"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles",
+            "Squares (geometric figures)"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq44b731fdd-4a37-48f1-a61d-beb50ea569e9",
+          "title": {
+            "label": "Title",
+            "content": "Square"
+          },
+          "record_ID": "chndm_1951-111-17",
+          "unit_code": "CHNDM",
+          "title_sort": "SQUARE",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/103469",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-2374CBF814C12-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9e2062069-f063-4606-9951-7f1336c218bf",
+                "type": "Images",
+                "idsId": "CHSDM-2374CBF814C12-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-2374CBF814C12-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-2374CBF814C12-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Square of piña cloth edged with wide border of floral motifs and a straight border in blue running along all four sides.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-2374CBF814C12-000001.jpg",
+                    "width": 7791,
+                    "height": 7416,
+                    "dimensions": "7791x7416"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-2374CBF814C12-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-2374CBF814C12-000001_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-CHT2741",
+                "guid": "http://n2t.net/ark:/65665/vc9da14581b-9d16-4eab-957c-fa252f2f314f",
+                "type": "Images",
+                "idsId": "CHSDM-CHT2741",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CHT2741",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CHT2741",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Square of piña cloth edged with wide border of floral motifs and a straight border in blue running along all four sides.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CHT2741.jpg",
+                    "width": 1454,
+                    "height": 1500,
+                    "dimensions": "1454x1500"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CHT2741_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CHT2741_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "fdd2064d129b20d84cf2311025437472b53192a1",
+      "docSignature": "1adc96fdc0a4e496b5364033b673620f",
+      "timestamp": "1663784057",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399933945-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399933945-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/129916",
+      "iiif_manifest": null,
+      "credit_line": "Given by Miss Elizabeth Riley",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1961-181-1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A handwoven plaid/check textile in natural fiber tones, plausible as a traditional Filipino handwoven cloth (e.g., abaca or piña-blend); no conflicting cultural markers present.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textile",
+      "titles_alt": [],
+      "date_text": "ca. 1880",
+      "date_earliest": 1880,
+      "date_latest": 1880,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Medium: piña (pineapple) fiber, cotton Technique: plain weave",
+      "classification": "woven textiles",
+      "styles": [],
+      "categories": [
+        "woven textiles",
+        "Textile"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 355.6 × 49.5 cm (11 ft. 8 in. × 19 1/2 in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq45f36a895-52aa-4c8b-8758-e7eb4aa01ce8"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-A3AFCBFFE9292-000005",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3a7bd609d2223bbbc9baf7a0fa559a65b0e430f1951de3cc9378654bc2d37e2c",
+        "bytes": 1984037,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1961-181-1.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-A3AFCBFFE9292-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "771ed9361a2b1120110f82fa858019b875d1f275c03087cfa62738972107842c",
+        "bytes": 3446781,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\si_chndm_1961-181-1_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:07:46.986460+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399933945-0",
+      "title": "Textile",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1961-181-1",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "ca. 1880"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Length of peach-colored piña cloth, with white cross bars."
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Philippines"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Textiles Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Given by Miss Elizabeth Riley"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1961-181-1"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "woven textiles"
+            },
+            {
+              "label": "Type",
+              "content": "Textile"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Medium: piña (pineapple) fiber, cotton Technique: plain weave"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 355.6 × 49.5 cm (11 ft. 8 in. × 19 1/2 in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1880s",
+            "1870s"
+          ],
+          "place": [
+            "Philippines"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Philippines"
+              }
+            }
+          ],
+          "object_type": [
+            "Textiles"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq45f36a895-52aa-4c8b-8758-e7eb4aa01ce8",
+          "title": {
+            "label": "Title",
+            "content": "Textile"
+          },
+          "record_ID": "chndm_1961-181-1",
+          "unit_code": "CHNDM",
+          "title_sort": "TEXTILE",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/129916",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-A3AFCBFFE9292-000005",
+                "guid": "http://n2t.net/ark:/65665/vc9b2561357-fcb1-4159-8f1d-37b47b0f7c6a",
+                "type": "Images",
+                "idsId": "CHSDM-A3AFCBFFE9292-000005",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-A3AFCBFFE9292-000005",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-A3AFCBFFE9292-000005",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Length of peach-colored piña cloth, with white cross bars.",
+                "resources": [
+                  {
+                    "label": "High-resolution TIFF",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000005.tif",
+                    "width": 5210,
+                    "height": 8272,
+                    "dimensions": "5210x8272"
+                  },
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000005.jpg",
+                    "width": 5210,
+                    "height": 8272,
+                    "dimensions": "5210x8272"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000005_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000005_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-A3AFCBFFE9292-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9dccbb403-398f-41af-98db-22d87d64e953",
+                "type": "Images",
+                "idsId": "CHSDM-A3AFCBFFE9292-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-A3AFCBFFE9292-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-A3AFCBFFE9292-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Length of peach-colored piña cloth, with white cross bars.",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000001.jpg",
+                    "width": 5598,
+                    "height": 10298,
+                    "dimensions": "5598x10298"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-A3AFCBFFE9292-000001_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 2
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "472d1c1ef10299f7166e73fa8dc6b387781c4fed",
+      "docSignature": "fa5771198ab4beeb6e701d14377416a3",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1776336432",
+      "version": "1776332796"
+    }
+  },
+  {
+    "id": "va-O368363",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O368363",
+      "object_url": "https://collections.vam.ac.uk/item/O368363",
+      "iiif_manifest": null,
+      "credit_line": "Given by Mrs Denman",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "T.295-1910",
+      "accession_year": 1910
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The image shows a delicate triangular knitted/lace pañuelo fichu of fine vegetable fibre (piña), a traditional Filipino textile accessory used with the traditional mestiza dress. This matches the claimed Filipino ethnicity and textile category well.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Fichu",
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "pina",
+        "plant fibre"
+      ],
+      "techniques": [
+        "knitting"
+      ],
+      "medium_raw": "Vegetable fibre (possibly<i> piña</i>), loosely knitted",
+      "classification": "Fichu",
+      "styles": [],
+      "categories": [
+        "Accessories",
+        "Womenswear",
+        "Knitting"
+      ],
+      "physical_description": "Fichu, or <i>pañuelo</i>, of loosely knitted vegetable fibre, possibly <i>piña</i>, a textile derived from pineapple tree leaf fibres. Triangular in shape, with long pointed ends, the centre has a small overlapping pattern, arranged diagonally. The border is of a larger overlapping repeat pattern. 19th century. ",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "114",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "40",
+          "unit": "in",
+          "part": null
+        }
+      ],
+      "dimensions_note": "Measurements taken from historic record",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Philippines",
+      "made_in_place_alt": [
+        "Manila"
+      ],
+      "current_gallery": "014",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7748/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7748",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7748/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "99373d3c8318d78284a239beab05a68448978730ae419ee83e5b345f5e86ace7",
+        "bytes": 54533,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7751/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7751",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7751/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "ea98e645ed453acb3cbfa2eeec0e124410a13c057e49d4bd138af2bf7e45aa03",
+        "bytes": 78649,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7752/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7752",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7752/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "b6287092aa2aaa17c842467b9839fcf99cc9ef5c23b7974a8cf612739872ed74",
+        "bytes": 76342,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363_2.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7753/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7753",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7753/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "a2e94a0fa4360ad0c3e06cf7766b336467f44d9d540fa2053ac68deed39e5b35",
+        "bytes": 50162,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363_3.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7760/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7760",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7760/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "0a895c4f80e00569a5a48ad705fdc9635271d0cae13f50dda191416ba55da996",
+        "bytes": 79976,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363_4.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7765/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7765",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7765/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "01e5f27e364a64b75ae372c0d650405adff5d4db057ff2e30f8027e267052b6f",
+        "bytes": 80384,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363_5.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2019MD7767/full/1000,/0/default.jpg",
+        "iiif_id": "2019MD7767",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2019MD7767/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "588c3f121800c259dfa829cfddc094537ff427a87facd8f1021a367e46ed8b61",
+        "bytes": 51613,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O368363_6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:39:17.115716+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O368363",
+        "accessionNumber": "T.295-1910",
+        "objectType": "Fichu",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES305932",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "Fichu",
+        "_primaryMaker": {},
+        "_primaryImageId": "2019MD7748",
+        "_primaryDate": "19th century",
+        "_primaryPlace": "Philippines",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2019MD7748/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2019MD7748/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O368363/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O368363",
+        "accessionNumber": "T.295-1910",
+        "objectType": "Fichu",
+        "titles": [
+          {
+            "title": "Fichu",
+            "type": ""
+          }
+        ],
+        "summaryDescription": "",
+        "physicalDescription": "Fichu, or <i>pañuelo</i>, of loosely knitted vegetable fibre, possibly <i>piña</i>, a textile derived from pineapple tree leaf fibres. Triangular in shape, with long pointed ends, the centre has a small overlapping pattern, arranged diagonally. The border is of a larger overlapping repeat pattern. 19th century. ",
+        "artistMakerPerson": [],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "pina",
+            "id": "THES251990"
+          },
+          {
+            "text": "plant fibre",
+            "id": "AAT14031"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "knitting",
+            "id": "AAT53634"
+          }
+        ],
+        "materialsAndTechniques": "Vegetable fibre (possibly<i> piña</i>), loosely knitted",
+        "categories": [
+          {
+            "text": "Accessories",
+            "id": "THES48998"
+          },
+          {
+            "text": "Womenswear",
+            "id": "THES49044"
+          },
+          {
+            "text": "Knitting",
+            "id": "THES266024"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "T&F",
+          "id": "THES48601"
+        },
+        "images": [
+          "2019MD7748",
+          "2019MD7751",
+          "2019MD7752",
+          "2019MD7753",
+          "2019MD7760",
+          "2019MD7765",
+          "2019MD7767"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "014",
+              "id": "THES305932"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Shawl",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Philippines",
+              "id": "x30022"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          },
+          {
+            "place": {
+              "text": "Manila",
+              "id": "x35066"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "19th century",
+              "earliest": "1800-01-01",
+              "latest": "1899-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Given by Mrs Denman",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "114",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "40",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "Measurements taken from historic record",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Fichu or shawl <i>(pañuelo)</i>, knitted vegetable fibre, possibly <i>piña</i>, Manila, Philippines, 19th century",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "T.295-1910"
+        ],
+        "accessionNumberNum": "295",
+        "accessionNumberPrefix": "T",
+        "accessionYear": 1910,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-01-29",
+        "recordCreationDate": "2009-06-24",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O478037",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O478037",
+      "object_url": "https://collections.vam.ac.uk/item/O478037",
+      "iiif_manifest": null,
+      "credit_line": "Given by Miss B. E. Copeland",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.9-1970",
+      "accession_year": 1970
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "This is a piña (pineapple fiber) cloth stole with brocaded designs of nipa huts, palm trees, and carabao/animals — classic Filipino traditional motifs and textile technique associated with the Philippines, with location on file in Manila.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "ca. 1970",
+      "date_earliest": 1965,
+      "date_latest": 1970,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "pineapple fibre",
+        "silk thread"
+      ],
+      "techniques": [
+        "brocading"
+      ],
+      "medium_raw": "Pina (pineapple fibre) brocaded in silk",
+      "classification": "Stole",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Clothing"
+      ],
+      "physical_description": "Stole of white pina cloth with a brocaded design in white silk of houses, palm-trees and animals, and two bands of triple stripes, at each end; along each border are short brocaded lines in groups of two and three.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "179.5",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "58.7",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Manila",
+      "made_in_place_alt": [],
+      "current_gallery": "003",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "R",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "e",
+        "d",
+        " ",
+        "F",
+        "i",
+        "l",
+        "e",
+        " ",
+        "n",
+        "u",
+        "m",
+        "b",
+        "e",
+        "r",
+        " ",
+        "1",
+        "9",
+        "7",
+        "0",
+        "/",
+        "1",
+        "1",
+        "2",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP8085/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP8085",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8085/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "4ff41fc045b32790f98baca5b21cf8bc7789876cd4d163aa2c26e2cf29742347",
+        "bytes": 194785,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478037.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:39:37.851864+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O478037",
+        "accessionNumber": "IS.9-1970",
+        "objectType": "Stole",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312261",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2020MP8085",
+        "_primaryDate": "ca. 1970",
+        "_primaryPlace": "Manila",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP8085/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP8085/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O478037/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O478037",
+        "accessionNumber": "IS.9-1970",
+        "objectType": "Stole",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Stole of white pina cloth with a brocaded design in white silk of houses, palm-trees and animals, and two bands of triple stripes, at each end; along each border are short brocaded lines in groups of two and three.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "pineapple fibre",
+            "id": "x34181"
+          },
+          {
+            "text": "silk thread",
+            "id": "x30127"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "brocading",
+            "id": "AAT53648"
+          }
+        ],
+        "materialsAndTechniques": "Pina (pineapple fibre) brocaded in silk",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP8085"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "003",
+              "id": "THES312261"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Stole",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Manila",
+              "id": "x35066"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "ca. 1970",
+              "earliest": "1965-01-01",
+              "latest": "1970-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Given by Miss B. E. Copeland",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "179.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "58.7",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Registered File number 1970/112.",
+        "historicalContext": "",
+        "briefDescription": "Stole of pina (pineapple fibre) brocaded in silk, Manila, Philippines, ca. 1970",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [
+          {
+            "text": "stripes",
+            "id": "AAT10230"
+          },
+          {
+            "text": "houses",
+            "id": "AAT5433"
+          },
+          {
+            "text": "palm trees",
+            "id": "x31894"
+          },
+          {
+            "text": "animals",
+            "id": "x30274"
+          }
+        ],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.9-1970"
+        ],
+        "accessionNumberNum": "9",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1970,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-03-09",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O478951",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O478951",
+      "object_url": "https://collections.vam.ac.uk/item/O478951",
+      "iiif_manifest": null,
+      "credit_line": "Given by Mrs B. Starky",
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.14-1973",
+      "accession_year": 1973
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A fine white embroidered muslin tunic (baro-style garment) with whitework floral embroidery and lace edging, made in Manila — consistent with Filipino traditional dress/embroidery craft.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "19th century",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "cotton (textile)",
+        "cotton thread",
+        "muslin"
+      ],
+      "techniques": [
+        "woven",
+        "embroidered"
+      ],
+      "medium_raw": "Muslin, woven, embroidered with cotton",
+      "classification": "Tunic",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Embroidery",
+        "Clothing",
+        "Parasol Foundation Trust Indian Textiles Cataloguing Project"
+      ],
+      "physical_description": "Rectangular tunic of embroidered muslin or fine cotton with cotton embroidery; a border design of whitework embroidery in flower and leaf design, with a scalloped edging, machine made lace edging at collar, and openwork. Sleeveless, complete piece.",
+      "summary": null,
+      "historical_context": "Intended for use as clothing, garment.",
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "46.2",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Length",
+          "value": "126.5",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "30.5",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "83",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Length",
+          "value": "111",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "78",
+          "unit": "cm",
+          "part": "across shoulders"
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Manila",
+      "made_in_place_alt": [],
+      "current_gallery": "003",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "F",
+        "o",
+        "r",
+        "m",
+        "e",
+        "r",
+        "l",
+        "y",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "p",
+        "r",
+        "o",
+        "p",
+        "e",
+        "r",
+        "t",
+        "y",
+        " ",
+        "o",
+        "f",
+        " ",
+        "M",
+        "r",
+        " ",
+        "H",
+        ".",
+        " ",
+        "I",
+        ".",
+        " ",
+        "P",
+        "i",
+        "n",
+        "s",
+        "e",
+        "n",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "E",
+        ".",
+        "I",
+        ".",
+        "C",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FP8253/full/1000,/0/default.jpg",
+        "iiif_id": "2012FP8253",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FP8253/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "3fa9f6df42fdf3254e09e7540bb407cdcdb86ddc9c9985d0ab04f8c6fccdfa79",
+        "bytes": 274401,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FL3950/full/1000,/0/default.jpg",
+        "iiif_id": "2012FL3950",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3950/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "1934b33a7716c8762be06be58909a58e2cf8d669055afd58ab57e74bfc5a131d",
+        "bytes": 188024,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FL3951/full/1000,/0/default.jpg",
+        "iiif_id": "2012FL3951",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL3951/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "64ff293ff338a0c72653e601549dcd7ddee72636d4d0ae83b73660621ffc9928",
+        "bytes": 386299,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_2.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FL7872/full/1000,/0/default.jpg",
+        "iiif_id": "2012FL7872",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL7872/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "f670f59b712c77f5a466463c32251e1a8472b2323ff17d500c33bd2ce8aaa6e5",
+        "bytes": 107407,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_3.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FL7874/full/1000,/0/default.jpg",
+        "iiif_id": "2012FL7874",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FL7874/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "f50f109223bf668775d242271657d574063ea138034abcc28c55c414d59bdaaa",
+        "bytes": 191756,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O478951_4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:39:40.148006+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O478951",
+        "accessionNumber": "IS.14-1973",
+        "objectType": "Tunic",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312261",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2012FP8253",
+        "_primaryDate": "19th century",
+        "_primaryPlace": "Manila",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2012FP8253/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2012FP8253/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O478951/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O478951",
+        "accessionNumber": "IS.14-1973",
+        "objectType": "Tunic",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Rectangular tunic of embroidered muslin or fine cotton with cotton embroidery; a border design of whitework embroidery in flower and leaf design, with a scalloped edging, machine made lace edging at collar, and openwork. Sleeveless, complete piece.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "cotton (textile)",
+            "id": "AAT14067"
+          },
+          {
+            "text": "cotton thread",
+            "id": "x34841"
+          },
+          {
+            "text": "muslin",
+            "id": "AAT14087"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "woven",
+            "id": "AAT53643"
+          },
+          {
+            "text": "embroidered",
+            "id": "AAT53653"
+          }
+        ],
+        "materialsAndTechniques": "Muslin, woven, embroidered with cotton",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Embroidery",
+            "id": "THES48960"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          },
+          {
+            "text": "Parasol Foundation Trust Indian Textiles Cataloguing Project",
+            "id": "THES263147"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2012FP8253",
+          "2012FL3950",
+          "2012FL3951",
+          "2012FL7872",
+          "2012FL7874"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "003",
+              "id": "THES312261"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Tunic",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Manila",
+              "id": "x35066"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "19th century",
+              "earliest": "1800-01-01",
+              "latest": "1899-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "Given by Mrs B. Starky",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "46.2",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "126.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "30.5",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "83",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Length",
+            "value": "111",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "10/07/2012",
+              "earliest": "2012-07-10",
+              "latest": "2012-07-10"
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "78",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "10/07/2012",
+              "earliest": "2012-07-10",
+              "latest": "2012-07-10"
+            },
+            "part": "across shoulders",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "Formerly the property of Mr H. I. Pinsent of the E.I.C.",
+        "historicalContext": "Intended for use as clothing, garment.",
+        "briefDescription": "Textile, tunic of embroidered fine cotton or pineapple fibre (piña), with cotton embroidery, Manila, Philippines, 19th century.",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [
+          {
+            "text": "flowers",
+            "id": "AAT132399"
+          },
+          {
+            "text": "leaves",
+            "id": "AAT11892"
+          }
+        ],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.14-1973"
+        ],
+        "accessionNumberNum": "14",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1973,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-08-06",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O486997",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O486997",
+      "object_url": "https://collections.vam.ac.uk/item/O486997",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "945-1905",
+      "accession_year": 1905
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Philippines",
+      "ethnicity": "Filipino",
+      "tradition": "piña",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "The picture shows a square piña-fiber handkerchief with a fine scalloped border and hand-embroidered floral and palm-frond motifs, photographed flat and clearly on a neutral surface.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "textile",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1800-1899",
+      "date_earliest": 1800,
+      "date_latest": 1899,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [
+        "embroidering"
+      ],
+      "medium_raw": "Embroidered pineapple fibre",
+      "classification": "Handkerchief",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Embroidery"
+      ],
+      "physical_description": "Handkerchief of finely-woven pineapple fibre (<i>piña</i>), decorated with drawn work and embroidery in white cotton thread.\n\nIn each corner is a representation of the gathering of nuts from the coca palm, surrounded by a scrolling band of barely stems. There is a broad scalloped border, each scallop filled with a conventional flowering plant on a ground of square mesh <i>semé</i> with dots.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "38",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "38.5",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": "Measured by conservation",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Manila",
+      "made_in_place_alt": [],
+      "current_gallery": "P036",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "B",
+        "o",
+        "u",
+        "g",
+        "h",
+        "t",
+        " ",
+        "(",
+        "S",
+        "o",
+        "u",
+        "r",
+        "c",
+        "e",
+        " ",
+        "n",
+        "o",
+        "t",
+        " ",
+        "r",
+        "e",
+        "c",
+        "o",
+        "r",
+        "d",
+        "e",
+        "d",
+        ")",
+        ".",
+        " ",
+        "T",
+        "h",
+        "i",
+        "s",
+        " ",
+        "a",
+        "c",
+        "q",
+        "u",
+        "i",
+        "s",
+        "i",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "i",
+        "n",
+        "f",
+        "o",
+        "r",
+        "m",
+        "a",
+        "t",
+        "i",
+        "o",
+        "n",
+        " ",
+        "r",
+        "e",
+        "f",
+        "l",
+        "e",
+        "c",
+        "t",
+        "s",
+        " ",
+        "t",
+        "h",
+        "a",
+        "t",
+        " ",
+        "f",
+        "o",
+        "u",
+        "n",
+        "d",
+        " ",
+        "i",
+        "n",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "r",
+        "e",
+        "c",
+        "o",
+        "r",
+        "d",
+        "s",
+        " ",
+        "(",
+        "A",
+        "s",
+        "i",
+        "a",
+        " ",
+        "D",
+        "e",
+        "p",
+        "a",
+        "r",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t",
+        " ",
+        "r",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        "s",
+        " ",
+        "a",
+        "n",
+        "d",
+        "/",
+        "o",
+        "r",
+        " ",
+        "C",
+        "e",
+        "n",
+        "t",
+        "r",
+        "a",
+        "l",
+        " ",
+        "I",
+        "n",
+        "v",
+        "e",
+        "n",
+        "t",
+        "o",
+        "r",
+        "y",
+        ")",
+        " ",
+        "a",
+        "s",
+        " ",
+        "p",
+        "a",
+        "r",
+        "t",
+        " ",
+        "o",
+        "f",
+        " ",
+        "a",
+        " ",
+        "2",
+        "0",
+        "2",
+        "3",
+        " ",
+        "p",
+        "r",
+        "o",
+        "v",
+        "e",
+        "n",
+        "a",
+        "n",
+        "c",
+        "e",
+        " ",
+        "r",
+        "e",
+        "s",
+        "e",
+        "a",
+        "r",
+        "c",
+        "h",
+        " ",
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t",
+        "."
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MP8081/full/1000,/0/default.jpg",
+        "iiif_id": "2020MP8081",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MP8081/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "ca447b1ba6153380cf57cb70c3d4913cc9bb386a48ee35384536607d0f93cdf7",
+        "bytes": 153232,
+        "local_path": "library\\southeast-asia\\philippines\\filipino\\textile\\pina\\images\\va_O486997.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:39:35.543506+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O486997",
+        "accessionNumber": "945-1905",
+        "objectType": "Handkerchief",
+        "availableToBook": false,
+        "_currentLocation": {
+          "id": "THES344908",
+          "displayName": "Storage Displays, Level 0",
+          "type": "display",
+          "site": "ES",
+          "onDisplay": true,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {},
+        "_primaryImageId": "2020MP8081",
+        "_primaryDate": "1800-1899",
+        "_primaryPlace": "Manila",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MP8081/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MP8081/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O486997/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O486997",
+        "accessionNumber": "945-1905",
+        "objectType": "Handkerchief",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Handkerchief of finely-woven pineapple fibre (<i>piña</i>), decorated with drawn work and embroidery in white cotton thread.\n\nIn each corner is a representation of the gathering of nuts from the coca palm, surrounded by a scrolling band of barely stems. There is a broad scalloped border, each scallop filled with a conventional flowering plant on a ground of square mesh <i>semé</i> with dots.",
+        "artistMakerPerson": [],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [],
+        "techniques": [
+          {
+            "text": "embroidering",
+            "id": "AAT53653"
+          }
+        ],
+        "materialsAndTechniques": "Embroidered pineapple fibre",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Embroidery",
+            "id": "THES48960"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MP8081"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "P036",
+              "id": "THES344908"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Handkerchief",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Manila",
+              "id": "x35066"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1800-1899",
+              "earliest": "1800-01-01",
+              "latest": "1899-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "38",
+            "unit": "cm",
+            "qualifier": "Maximum",
+            "date": {
+              "text": "10/10/2023",
+              "earliest": "2023-10-10",
+              "latest": "2023-10-10"
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "38.5",
+            "unit": "cm",
+            "qualifier": "Maximum",
+            "date": {
+              "text": "10/10/2023",
+              "earliest": "2023-10-10",
+              "latest": "2023-10-10"
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "Measured by conservation",
+        "marksAndInscriptions": [],
+        "objectHistory": "Bought (Source not recorded). This acquisition information reflects that found in the Museum records (Asia Department registers and/or Central Inventory) as part of a 2023 provenance research project.",
+        "historicalContext": "",
+        "briefDescription": "Handkerchief, embroidered pineapple fibre (<i>piña</i>), from Manila, Philippines, 1800-1899",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "945-1905"
+        ],
+        "accessionNumberNum": "945",
+        "accessionNumberPrefix": "",
+        "accessionYear": 1905,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-05-22",
+        "recordCreationDate": "2009-06-25",
+        "availableToBook": false
+      }
+    }
+  }
+]

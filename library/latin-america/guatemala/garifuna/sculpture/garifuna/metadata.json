@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Am1994-13-86",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1994-13-86",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1994-13-86",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1994.13.86",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Guatemala",
+      "ethnicity": "Garifuna",
+      "tradition": "Garifuna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a handmade cloth doll dressed in Garifuna-style masquerade attire (mask, ribbons, feathered bandana, shell decoration) attributed by the museum to a Garifuna maker, consistent with known Garifuna dance/mask costume traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "doll",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "doll",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Doll; sewn from cloth; man made of brown stuffed synthetic; wears tunic and pants sewn from white cotton; pink silk ribbon crossed over chest; green silk ribbon around knees, with white cotton on top decorated with white shells; pink cotton scarf wrapped around head; fuchsia wire mesh mask over face, painted with white eyes outlined in black and black mouth; yellow, green and burgundy striped cotton bandana wrapped around top of head, decorated with red glass jewel and two silver foil circles; feathers glued to inside of bandana.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/218fd6af_6828_4046_9a52_a3ba012010a7/preview_00244938_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cd7b75d3e7e5531a47710433f70406809882c24840e9e8b8bf9f5a300f14cdbe",
+        "bytes": 27535,
+        "local_path": "library\\latin-america\\guatemala\\garifuna\\sculpture\\garifuna\\images\\bm_E_Am1994_13_86.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:56:07.688454+00:00",
+    "raw": {
+      "title": "doll",
+      "description": "Doll; sewn from cloth; man made of brown stuffed synthetic; wears tunic and pants sewn from white cotton; pink silk ribbon crossed over chest; green silk ribbon around knees, with white cotton on top decorated with white shells; pink cotton scarf wrapped around head; fuchsia wire mesh mask over face, painted with white eyes outlined in black and black mouth; yellow, green and burgundy striped cotton bandana wrapped around top of head, decorated with red glass jewel and two silver foil circles; feathers glued to inside of bandana.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/4_17/218fd6af_6828_4046_9a52_a3ba012010a7/preview_00244938_001.jpg",
+      "production_ethnic_groups": [
+        "Garifuna"
+      ],
+      "production_ethnic_attribution": "Made by: Garifuna"
+    }
+  }
+]

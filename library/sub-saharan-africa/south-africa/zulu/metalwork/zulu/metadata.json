@@ -1,0 +1,740 @@
+[
+  {
+    "id": "cleveland-168426",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "168426",
+      "object_url": "https://clevelandart.org/art/2010.205",
+      "iiif_manifest": null,
+      "credit_line": "Leonard C. Hanna Jr. Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2010.205",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Zulu",
+      "tradition": "Zulu",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A carved wooden prestige staff with spherical finial and chain-link/spiral shaft decoration, a form used by Nguni pastoralist men (Zulu or Tsonga) in southern Africa; the museum itself attributes it to a Tsonga- or Zulu-style maker, so it plausibly belongs to the claimed group. Material is wood, not metal, so the category is misassigned.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Prestige Staff",
+      "titles_alt": [],
+      "date_text": "1800s–1900s",
+      "date_earliest": 1800,
+      "date_latest": 1999,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood",
+      "classification": "Tools and Equipment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "The primary use of long staffs like this was purely practical; they served as walking companions when their pastoralist-owners covered long distances accompanying their cattle in search of new pastures. The tall height of this staff indicates the elevated status or special function of the man who owned it. Carved from one piece of wood, its spherical knob finial and the geometric designs incorporated into its shaft decoration—consisting of spiraling segments and chain links—demonstrate its maker’s superior skills.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Southern Africa, South Africa, Tsonga-style or Zulu-style maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6dc649c33b6c42730b7060cd2c550b45d3b706fbf459b480aee7ad58d1a7b715",
+        "bytes": 143533,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\metalwork\\zulu\\images\\cle_168426.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:33.730370+00:00",
+    "raw": {
+      "id": 168426,
+      "accession_number": "2010.205",
+      "share_license_status": "CC0",
+      "tombstone": "Prestige Staff, 1800s–1900s. Africa, Southern Africa, South Africa, Tsonga-style or Zulu-style maker. Wood; overall: 116.8 cm (46 in.). The Cleveland Museum of Art, Leonard C. Hanna Jr. Fund, 2010.205",
+      "current_location": null,
+      "title": "Prestige Staff",
+      "creation_date": "1800s–1900s",
+      "creation_date_earliest": 1800,
+      "creation_date_latest": 1999,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Southern Africa, South Africa, Tsonga-style or Zulu-style maker"
+      ],
+      "technique": "Wood",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Tools and Equipment",
+      "measurements": "Overall: 116.8 cm (46 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 1.168,
+          "height_inch": 46,
+          "height_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197333,
+            "title": "The Art of Daily Life: Portable Objects From Southeast Africa",
+            "description": "<i>The Art of Daily Life: Portable Objects From Southeast Africa</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 17, 2011-February 26, 2012).",
+            "opening_date": "2011-04-17T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, (4/16/11-2/26/12); \"The Art of Daily Life:  Portable Objects from Southeast Africa\" cat. no. 51",
+            "opening_date": "2011-04-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Colette Ghysels, Brussels, BE",
+          "citations": [],
+          "footnotes": null,
+          "date": "early 1990s",
+          "sortorder": null
+        },
+        {
+          "description": "Joel Cooner, Dallas, TX",
+          "citations": [],
+          "footnotes": null,
+          "date": "2005",
+          "sortorder": 2
+        },
+        {
+          "description": "(Jacaranda Tribal, New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "Tsonga and Zulu staffs all have strong symbolic associations and value. They visually connect the identity of their owners with that of their ancestors and with that of the community to which they belong.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "The primary use of long staffs like this was purely practical; they served as walking companions when their pastoralist-owners covered long distances accompanying their cattle in search of new pastures. The tall height of this staff indicates the elevated status or special function of the man who owned it. Carved from one piece of wood, its spherical knob finial and the geometric designs incorporated into its shaft decoration—consisting of spiraling segments and chain links—demonstrate its maker’s superior skills.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q80074287"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2010.205-prestige-staff"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Petridis, Constatine. \"The Art of Daily Life: Portable Objects from Southeast Africa. \" Tribal Art. (Summer 2011). Pg. 69, Fig. 5.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2010.205",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_web.jpg",
+          "width": "521",
+          "height": "893",
+          "filesize": "140118",
+          "filename": "2010.205_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_print.jpg",
+          "width": "1985",
+          "height": "3400",
+          "filesize": "3072405",
+          "filename": "2010.205_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_full.tif",
+          "width": "3500",
+          "height": "5992",
+          "filesize": "62940104",
+          "filename": "2010.205_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt0_web.jpg",
+            "width": "556",
+            "height": "893",
+            "filesize": "148087"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt0_print.jpg",
+            "width": "2116",
+            "height": "3400",
+            "filesize": "3263488"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt0_full.tif",
+            "width": "3764",
+            "height": "6046",
+            "filesize": "68295756"
+          },
+          "date_created": "2010-08-19T17:35:00",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt1_web.jpg",
+            "width": "671",
+            "height": "893",
+            "filesize": "175366"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt1_print.jpg",
+            "width": "2555",
+            "height": "3400",
+            "filesize": "4019486"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt1_full.tif",
+            "width": "4605",
+            "height": "6127",
+            "filesize": "84668996"
+          },
+          "date_created": "2010-08-19T18:18:16",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt2_web.jpg",
+            "width": "550",
+            "height": "893",
+            "filesize": "154205"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt2_print.jpg",
+            "width": "2093",
+            "height": "3400",
+            "filesize": "3245583"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt2_full.tif",
+            "width": "3841",
+            "height": "6237",
+            "filesize": "71893512"
+          },
+          "date_created": "2010-08-19T18:25:32",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt3_web.jpg",
+            "width": "562",
+            "height": "893",
+            "filesize": "155088"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt3_print.jpg",
+            "width": "2140",
+            "height": "3400",
+            "filesize": "3236692"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt3_full.tif",
+            "width": "4135",
+            "height": "6567",
+            "filesize": "81488196"
+          },
+          "date_created": "2010-08-19T18:27:28",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt4_web.jpg",
+            "width": "534",
+            "height": "893",
+            "filesize": "146120"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt4_print.jpg",
+            "width": "2033",
+            "height": "3400",
+            "filesize": "3015421"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.205/2010.205_alt4_full.tif",
+            "width": "3912",
+            "height": "6541",
+            "filesize": "76789560"
+          },
+          "date_created": "2010-08-19T18:39:55",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168426,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2010-09-07T00:00:00",
+      "sortable_date": 1800,
+      "date_added_to_oa": null,
+      "date_text": "1800s–1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:39:54.080000"
+    }
+  },
+  {
+    "id": "cleveland-168480",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "168480",
+      "object_url": "https://clevelandart.org/art/2010.232",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Dori and Daniel Rootenberg, Jacaranda Tribal, New York",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "2010.232",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "South Africa",
+      "ethnicity": "Zulu",
+      "tradition": "Zulu",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a carved wooden knobkerrie (club) with a rounded ribbed head, a traditional Zulu/Nguni personal weapon and status object; wood, not metal, so category should be arms rather than metalwork.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms"
+    },
+    "physical": {
+      "title": "Club (Knobkerrie)",
+      "titles_alt": [],
+      "date_text": "late 1800s or early 1900s",
+      "date_earliest": 1875,
+      "date_latest": 1925,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Wood",
+      "classification": "Arms and Armor",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Relatively short sticks historically used for hunting and fighting are customarily called knobkerries. A combination of Afrikaans and Shona words, the name refers to the characteristic spherical knob of wood (knop) or head atop a cylindrical shaft (<em>kirri</em>). The knobs on these were carved into a tight whorl and a compressed sphere with a central rib. Even though their basic shapes were derived from real weapons, many of these precious objects were rarely if ever used as such. Highly personal, they instead functioned as ceremonial display items or regalia, symbolizing the masculinity and prowess of their owner.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Southern Africa, South Africa, Northern Ngun-style or Zulu-style maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "21ad960876efcb6b00ec78ecd500eb667088da0340b088617dfbf0283d12cb58",
+        "bytes": 131052,
+        "local_path": "library\\sub-saharan-africa\\south-africa\\zulu\\metalwork\\zulu\\images\\cle_168480.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:33.735035+00:00",
+    "raw": {
+      "id": 168480,
+      "accession_number": "2010.232",
+      "share_license_status": "CC0",
+      "tombstone": "Club (Knobkerrie), late 1800s or early 1900s. Southern Africa, South Africa, Northern Ngun-style or Zulu-style maker. Wood; overall: 66 cm (26 in.). The Cleveland Museum of Art, Gift of Dori and Daniel Rootenberg, Jacaranda Tribal, New York, 2010.232",
+      "current_location": "108B Southern African",
+      "title": "Club (Knobkerrie)",
+      "creation_date": "late 1800s or early 1900s",
+      "creation_date_earliest": 1875,
+      "creation_date_latest": 1925,
+      "artists_tags": [],
+      "culture": [
+        "Southern Africa, South Africa, Northern Ngun-style or Zulu-style maker"
+      ],
+      "technique": "Wood",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Arms and Armor",
+      "measurements": "Overall: 66 cm (26 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.66,
+          "height_inch": 26,
+          "height_inch_fraction": 0.0
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 197333,
+            "title": "The Art of Daily Life: Portable Objects From Southeast Africa",
+            "description": "<i>The Art of Daily Life: Portable Objects From Southeast Africa</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (April 17, 2011-February 26, 2012).",
+            "opening_date": "2011-04-17T00:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "Cleveland Museum of Art, (4/16/11-2/26/12); \"The Art of Daily Life:  Portable Objects from Southeast Africa\" cat. no. 44",
+            "opening_date": "2011-04-16T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Merton Simpson, New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "1992",
+          "sortorder": null
+        },
+        {
+          "description": "Marc and Denyse Ginzberg, New York, NY",
+          "citations": [],
+          "footnotes": null,
+          "date": "1992–2005",
+          "sortorder": 2
+        },
+        {
+          "description": "Dori and Daniel Rootenberg, Jacaranda Tribal, New York, NY, given to the Cleveland Museum of Art",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–2010",
+          "sortorder": 3
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "2010–",
+          "sortorder": 4
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The term <em>knobkerrie</em> refers to a characteristic spherical knob of wood or head atop a cylindrical shaft.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "Relatively short sticks historically used for hunting and fighting are customarily called knobkerries. A combination of Afrikaans and Shona words, the name refers to the characteristic spherical knob of wood (knop) or head atop a cylindrical shaft (<em>kirri</em>). The knobs on these were carved into a tight whorl and a compressed sphere with a central rib. Even though their basic shapes were derived from real weapons, many of these precious objects were rarely if ever used as such. Highly personal, they instead functioned as ceremonial display items or regalia, symbolizing the masculinity and prowess of their owner.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q60778413"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-2010.232-club-knobkerrie"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "Ginzberg, Marc, and Lynton Gardiner. 2000. <em>African Forms</em>. 1st ed. Milano, Italy, New York: Skira ; Distributed in North America and Latin America by Abbeville Pub. Group, p. 203.",
+          "page_number": "",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/2010.232",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_web.jpg",
+          "width": "566",
+          "height": "893",
+          "filesize": "127637",
+          "filename": "2010.232_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_print.jpg",
+          "width": "2156",
+          "height": "3400",
+          "filesize": "3014983",
+          "filename": "2010.232_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_full.tif",
+          "width": "3782",
+          "height": "5964",
+          "filesize": "67693440",
+          "filename": "2010.232_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt0_web.jpg",
+            "width": "539",
+            "height": "893",
+            "filesize": "127377"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt0_print.jpg",
+            "width": "2051",
+            "height": "3400",
+            "filesize": "2947077"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt0_full.tif",
+            "width": "3587",
+            "height": "5944",
+            "filesize": "63987652"
+          },
+          "date_created": "2010-08-20T19:44:32",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt1_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "190530"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt1_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4028248"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt1_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99884824"
+          },
+          "date_created": "2010-08-20T18:33:35",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt2_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "198626"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt2_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4013993"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt2_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99884852"
+          },
+          "date_created": "2010-08-20T18:53:00",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt3_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "187595"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt3_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "3984429"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt3_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99884708"
+          },
+          "date_created": "2010-08-20T18:55:05",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt4_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "185382"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt4_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4019825"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt4_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99884744"
+          },
+          "date_created": "2010-08-20T19:01:01",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt5_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "186396"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt5_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "3960978"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt5_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99884780"
+          },
+          "date_created": "2010-08-20T19:03:35",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt6_web.jpg",
+            "width": "668",
+            "height": "893",
+            "filesize": "189234"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt6_print.jpg",
+            "width": "2545",
+            "height": "3400",
+            "filesize": "4052780"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/2010.232/2010.232_alt6_full.tif",
+            "width": "4992",
+            "height": "6668",
+            "filesize": "99884708"
+          },
+          "date_created": "2010-08-20T19:06:59",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Dori and Daniel Rootenberg, Jacaranda Tribal, New York",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 168480,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "2010-09-07T00:00:00",
+      "sortable_date": 1875,
+      "date_added_to_oa": null,
+      "date_text": "late 1800s or early 1900s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 08:40:03.667000"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1919-1220-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1919-1220-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1919-1220-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1919.1220.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ghana",
+      "ethnicity": "Gurunsi",
+      "tradition": "Gurunsi",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a raffia/fiber whisk with a painted wooden handle rather than a wooden whistle, but such woven fiber and painted-wood ceremonial whisks are plausible regalia items from the Gurunsi (Grusi) region of Ghana/Burkina Faso, so it still fits the claimed people even though the category label is wrong.",
+      "vision_confidence": "LOW",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "whistle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "whistle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Wooden whistle with terminal mouthpiece; strips of metal attached.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/29_16/8203cc07_2dae_4ff9_a710_a9e401096b21/preview_EAF2114.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b1858b9f7910f1dc6f2196449c24f1c7a7c1dd7bf8293da380e7456b9b8d3a04",
+        "bytes": 70852,
+        "local_path": "library\\sub-saharan-africa\\ghana\\gurunsi\\household\\gurunsi\\images\\bm_E_Af1919_1220_11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T03:03:29.504929+00:00",
+    "raw": {
+      "title": "whistle",
+      "description": "Wooden whistle with terminal mouthpiece; strips of metal attached.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/29_16/8203cc07_2dae_4ff9_a710_a9e401096b21/preview_EAF2114.jpg",
+      "production_ethnic_groups": [
+        "Grusi"
+      ],
+      "production_ethnic_attribution": "Made by: Grusi"
+    }
+  }
+]

@@ -1,0 +1,989 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36009",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36009",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36009?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a kwiti knife with bone handle and curved iron blade, collected among the Babembe people of the French Congo by missionary Efraim Andersson, matching the claimed ethnicity and metalwork category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kniv, knife, kwiti",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173817/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2efb6d265ec98ca50d49ee39813e997bf163d2818f9f0db8b1ae0f608cc7072e",
+        "bytes": 21728,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\metalwork\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36009.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173817%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:39.363297+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36009",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36009?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kniv, knife, kwiti"
+      ],
+      "dcDescription": [
+        "1938.23.0003 Mpandi Byn Mpandi II, Franska Kongo. skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Kwiti, kniv. L: 38 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av missionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Årsberättelse 1938, Årstryck 1939, Göteborgs museum"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173817%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173817/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91619_SMVK_EM_objekt_1012427",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91619_SMVK_EM_objekt_1012427",
+      "object_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1012427?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a hoe-shaped iron blade (hacka/klinga), a form used as bridewealth currency in the Congo region; the museum note explicitly compares it to a documented Bembe hoe-currency example (Laman 1953, p.117), supporting the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "hacka, klinga",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/3021693/bild-1994.11.0153.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "929f35c92b28cebfb4cccf069eff6f6a0eb6f8642acb96b4adb6db2c3b052a15",
+        "bytes": 111872,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\metalwork\\bembe\\images\\eu_91619_SMVK_EM_objekt_1012427.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3021693%2Fbild-1994.11.0153.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:39.957337+00:00",
+    "raw": {
+      "id": "/91619/SMVK_EM_objekt_1012427",
+      "guid": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1012427?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "hacka, klinga",
+        "chopping",
+        "hacka, klinga"
+      ],
+      "dcDescription": [
+        "1994.11.0153 Fristaten Kongo Zaire Kongofristaten Demokratiska Republiken Kongo Belgiska Kongo Kongostaten Democratic Republic of the Congo Kingoyi Klingan eller bladet till en hacka. Enligt listan till samlingen: \"Använd som pengar - äktenskapspant\". Jämför med hackan från bembe i Kolo (Kongo) som finns avbildad på s 117 i laman, 1953. Insamlad av Svenska Missionsförbundets missionärer i början av 1900-talet. Fristaten Kongo Zaire Kongofristaten Demokratiska Republiken Kongo Belgiska Kongo Kongostaten Kingoyi Democratic Republic of the Congo 1994.11.0153"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F3021693%2Fbild-1994.11.0153.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/3021693/bild-1994.11.0153.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Demokratische Republik Kongo"
+        },
+        {
+          "def": "Kongon demokraattinen tasavalta"
+        },
+        {
+          "def": "Демократическая Республика Конго"
+        },
+        {
+          "def": "República Democrática do Congo"
+        },
+        {
+          "def": "Демократична република Конго"
+        },
+        {
+          "def": "Kongo Demokratinė Respublika"
+        },
+        {
+          "def": "Demokratska Republika Kongo"
+        },
+        {
+          "def": "Kongo Demokrātiskā Republika"
+        },
+        {
+          "def": "République démocratique du Congo"
+        },
+        {
+          "def": "Kongói Demokratikus Köztársaság"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Vzhodni Kongo"
+        },
+        {
+          "def": "Poblacht Dhaonlathach an Chongó"
+        },
+        {
+          "def": "República Democràtica del Congo"
+        },
+        {
+          "def": "Kongo-Kinshasa"
+        },
+        {
+          "def": "Λαϊκή Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Repubblika Demokratika tal-Kongo"
+        },
+        {
+          "def": "Democratic Republic of the Congo"
+        },
+        {
+          "def": "Repubblica Democratica del Congo"
+        },
+        {
+          "def": "República Democrática del Congo"
+        },
+        {
+          "def": "Kongo Demokraatlik Vabariik"
+        },
+        {
+          "def": "Konžská demokratická republika"
+        },
+        {
+          "def": "Kongoko Errepublika Demokratikoa"
+        },
+        {
+          "def": "Demokratyczna Republika Konga"
+        },
+        {
+          "def": "Demokratiske Republik Congo"
+        },
+        {
+          "def": "Republica Democratică Congo"
+        },
+        {
+          "def": "Congo-Kinshasa"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36008",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36008",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36008?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a long iron-bladed knife with a simple wooden handle, collected among the Babembe people of French Congo by a missionary in 1938 — a plausible traditional tool/weapon of this ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kniv, Järnkniv, knife, Mbesi",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173813/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "627d739f4323dfc237d95390984a3a6b0e79b0274e65e4cf4ded48ecbf5c8885",
+        "bytes": 13009,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\metalwork\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36008.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173813%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:40.502406+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36008",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36008?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kniv, Järnkniv, knife, Mbesi"
+      ],
+      "dcDescription": [
+        "1938.23.0002 Byn Mpanga Byn Mpanga, Franska Kongo. skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Mbesi, lång järnkniv med nytt, enkelt träskaft. L: 29 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av missionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Årsberättelse 1938, Årstryck 1939, Göteborgs museum"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173813%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173813/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36011",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36011",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36011?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a wood-handled iron knife (mbesi) collected from the Babembe/Bembe people of French Congo, matching the claimed ethnicity and use as an everyday tool/weapon of this group.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Järnkniv, kniv, knife, mbesi",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173825/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9f4041ba5de37beeb9485c879786ee834f975264fef17a9c283d48e05bb4e11d",
+        "bytes": 18741,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\metalwork\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36011.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173825%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:41.054773+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36011",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36011?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Järnkniv, kniv, knife, mbesi"
+      ],
+      "dcDescription": [
+        "1938.23.0005 Kimpele Byn Kimpele, Franska Kongo. skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Mbesi, lång järnkniv med träskaft. L: 44 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av missionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 (Tidigare var \"Mpanga\" angivet som by vilket ej stämmer med katalogkort, därför borttaget). Årsberättelse 1938, Årstryck 1939, Göteborgs museum"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173825%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173825/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36231",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36231",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36231?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a wood-handled knife with a metal blade wrapped in brass and copper bands, matching the museum's description of a Bembe-area (Kolo/Mouyondzi, Congo Brazzaville) knife. This is a plausible utilitarian object of the Bembe people, though the museum's own attribution is \"Efterbestämning\" (post-identification, i.e. provisional).",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "kniv, Järnkniv, knife",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703477/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3d7a95536bafba4158438669e010b03be887606b8ad974177c700fbbcebb7913",
+        "bytes": 7102,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\metalwork\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36231.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703477%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:41.581521+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36231",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36231?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "kniv, Järnkniv, knife"
+      ],
+      "dcDescription": [
+        "1968.11.0020 skiss God kondition. Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Liten kniv med träskaft. Längd: 35 cm. Skafthalvan närmast klingan är lindad med mässing- och kopparband.\n                 11 ringar\nTräslag: \"Lubota?\", Milletia Demeusei el M. Versicolo. Gåva av J. Hammar 2/9-1967 Kongo (Efterbestämning) Kolo eller Mouyndzie. f.d. Franska Kongo. Kolo eller Mouyondzi-området, Kongo Brazzaville Kolo el. Mouyondzi-området, fd. Franska Kongo. (Efterbestämning.) [[Haga]] Utställt \"Former för måltiden\" 1974 Röhsska. Babembe (Efterbes"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F703477%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/703477/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

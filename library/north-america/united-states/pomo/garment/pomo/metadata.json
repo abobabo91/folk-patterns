@@ -1,0 +1,334 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_16229",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_16229",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16229?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Pomo",
+      "tradition": "Pomo",
+      "art_form": "garment",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a feather headdress/band with dark feather tips flanking a central band of quills or plant fiber, a type of regalia made by Pomo and other California peoples; museum record attributes it to Pomo (acquired via Nordenskiöld), consistent with a worn ceremonial headband.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "huvudprydnad, feather headdress",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155349/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "93039bef4ae2016aa7f9e5431fef3eb0b0ef1900438b7febade793d56c13b129",
+        "bytes": 47864,
+        "local_path": "library\\north-america\\united-states\\pomo\\garment\\pomo\\images\\eu_91608_SMVK_VKM_objekt_16229.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155349%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:09:54.619919+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_16229",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_16229?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "huvudprydnad, feather headdress"
+      ],
+      "dcDescription": [
+        "1927.04.0013 R (kolla) skiss Pomo. konservering: K82: 234 Amerika United States Huvudprydnad.\nGåva.\nInköpt genom E. Nordenskiöld.\n\nkonservering: K82: 234 Västra Nordamerika."
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1155349%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1155349/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Deutschland"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Vereinigte Staaten"
+        },
+        {
+          "def": "Tyskland"
+        },
+        {
+          "def": "Германия"
+        },
+        {
+          "def": "Шёнберг"
+        },
+        {
+          "def": "США"
+        },
+        {
+          "def": "Saksa"
+        },
+        {
+          "def": "Schönberg (Holstein)"
+        },
+        {
+          "def": "Yhdysvallat"
+        },
+        {
+          "def": "Alemanha"
+        },
+        {
+          "def": "Schönberg (Holstein)"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Германия"
+        },
+        {
+          "def": "САЩ"
+        },
+        {
+          "def": "Vokietija"
+        },
+        {
+          "def": "Jungtinės Amerikos Valstijos"
+        },
+        {
+          "def": "Vācija"
+        },
+        {
+          "def": "Amerikas Savienotās Valstis"
+        },
+        {
+          "def": "Njemačka"
+        },
+        {
+          "def": "Sjedinjene Američke Države"
+        },
+        {
+          "def": "Allemagne"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "États-Unis"
+        },
+        {
+          "def": "Németország"
+        },
+        {
+          "def": "Schönberg (Holstein)"
+        },
+        {
+          "def": "Amerikai Egyesült Államok"
+        },
+        {
+          "def": "Nemecko"
+        },
+        {
+          "def": "Spojené štáty americké"
+        },
+        {
+          "def": "Nemčija"
+        },
+        {
+          "def": "Združene države Amerike"
+        },
+        {
+          "def": "An Ghearmáin"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Stáit Aontaithe Mheiriceá"
+        },
+        {
+          "def": "Alemanya"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Estats Units"
+        },
+        {
+          "def": "Tyskland"
+        },
+        {
+          "def": "Schönberg (Holstein)"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Γερμανία"
+        },
+        {
+          "def": "Ηνωμένες Πολιτείες Αμερικής"
+        },
+        {
+          "def": "Ġermanja"
+        },
+        {
+          "def": "Stati Uniti tal-Amerka"
+        },
+        {
+          "def": "Germany"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "United States"
+        },
+        {
+          "def": "Germania"
+        },
+        {
+          "def": "Schönberg (Holstein)"
+        },
+        {
+          "def": "Stati Uniti"
+        },
+        {
+          "def": "Alemania"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Estados Unidos"
+        },
+        {
+          "def": "Saksamaa"
+        },
+        {
+          "def": "Ameerika Ühendriigid"
+        },
+        {
+          "def": "Alemania"
+        },
+        {
+          "def": "Schönberg (Holstein)"
+        },
+        {
+          "def": "Ameriketako Estatu Batuak"
+        },
+        {
+          "def": "Německo"
+        },
+        {
+          "def": "Spojené státy americké"
+        },
+        {
+          "def": "Niemcy"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Stany Zjednoczone"
+        },
+        {
+          "def": "Germania"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Statele Unite ale Americii"
+        },
+        {
+          "def": "Tyskland"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "USA"
+        },
+        {
+          "def": "Duitsland"
+        },
+        {
+          "def": "Schönberg"
+        },
+        {
+          "def": "Verenigde Staten"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

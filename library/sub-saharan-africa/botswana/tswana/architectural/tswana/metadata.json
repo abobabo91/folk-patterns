@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af-LMS-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af-LMS-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af-LMS-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af.LMS.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Botswana",
+      "ethnicity": "Tswana",
+      "tradition": "Tswana",
+      "art_form": "architectural",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A museum-made scale model of a Tswana thatched house with reed-fenced courtyard (lolwapa-style), representing traditional Tswana architecture and homestead form.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "architectural",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "model building/structure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "model building/structure",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Model house made of thatch, paper, board, straw. Sits on a marked up base board.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_22/40833289_de68_4470_b9ba_a3de01734471/preview_01482872_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "318dec928abba4153a0bc41c2e892c3822cd3f7c5fd16208e42fd1a7faf7ce0c",
+        "bytes": 65179,
+        "local_path": "library\\sub-saharan-africa\\botswana\\tswana\\architectural\\tswana\\images\\bm_E_Af_LMS_3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:29:41.712141+00:00",
+    "raw": {
+      "title": "model building/structure",
+      "description": "Model house made of thatch, paper, board, straw. Sits on a marked up base board.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_22/40833289_de68_4470_b9ba_a3de01734471/preview_01482872_001.jpg",
+      "production_ethnic_groups": [
+        "Tswana"
+      ],
+      "production_ethnic_attribution": "Made by: Tswana"
+    }
+  }
+]

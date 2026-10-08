@@ -1,0 +1,93 @@
+[
+  {
+    "id": "british_museum-P_1932-0312-100",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1932-0312-100",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1932-0312-100",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1932.0312.100",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Morocco",
+      "ethnicity": "Moroccan Arab",
+      "tradition": "Moroccan Arab",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European-made etching (signed by an artist) depicting two Moroccan men in Arab costume as an outsider's artistic subject, not an artifact or documentary photo of the culture itself.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Two Moroccans in arab costume holding a long sword between them. 1860s\nEtching on vellum",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_7/30_7/fa678314_0941_4f57_a2cb_a92d007a0bfb/preview_ppa198991.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dbfea29aee96549f8191b9aa98ad92074dec92543ba44d9ef622937632048fd1",
+        "bytes": 67823,
+        "local_path": "library\\middle-east-north-africa\\morocco\\moroccan-arab\\painting-mss\\moroccan-arab\\images\\bm_P_1932-0312-100.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:03:19.606991+00:00",
+    "raw": {
+      "title": "print",
+      "description": "Two Moroccans in arab costume holding a long sword between them. 1860s\nEtching on vellum",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_7/30_7/fa678314_0941_4f57_a2cb_a92d007a0bfb/preview_ppa198991.jpg"
+    }
+  }
+]

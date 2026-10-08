@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1922-1109-91",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1922-1109-91",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1922-1109-91",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1922.1109.91",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Ghana",
+      "ethnicity": "Tallensi",
+      "tradition": "Tallensi",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a handwoven raffia band with fringed ends and a geometric triangle/check pattern, consistent with a Tallensi-made woven textile as described in the museum record.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "textile",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "textile",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Raffia hand woven weft faced plain weave producing a band with a fringe. The band consists of original raphia colour, dark brown and pink. The band is bordered by alternating check and banding. There are also triangles of alternating colours running through the centre of the band.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_12/558b43ff_70a7_478e_979e_a3bc00d630f3/preview_00417085_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "242c496c9c0a952deda35484e8dffb0099d536f1e7dff5f8bb5b2e498f74db8e",
+        "bytes": 43779,
+        "local_path": "library\\sub-saharan-africa\\ghana\\tallensi\\textile\\tallensi\\images\\bm_E_Af1922_1109_91.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T08:29:12.810885+00:00",
+    "raw": {
+      "title": "textile",
+      "description": "Raffia hand woven weft faced plain weave producing a band with a fringe. The band consists of original raphia colour, dark brown and pink. The band is bordered by alternating check and banding. There are also triangles of alternating colours running through the centre of the band.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_12/558b43ff_70a7_478e_979e_a3bc00d630f3/preview_00417085_001.jpg",
+      "production_ethnic_groups": [
+        "Talensi"
+      ],
+      "production_ethnic_attribution": "Made by: Talensi"
+    }
+  }
+]

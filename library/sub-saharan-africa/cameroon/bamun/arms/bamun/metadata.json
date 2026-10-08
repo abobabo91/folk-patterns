@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1954-23-2641-a-b",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-2641-a-b",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-2641-a-b",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.2641.a.b",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Cameroon",
+      "ethnicity": "Bamun",
+      "tradition": "Bamun",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A knife/dagger with leather sheath explicitly attributed to the Bamum, a traditional edged weapon and accessory typical of Cameroon Grassfields peoples.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "arm-dagger; sheath",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "arm-dagger; sheath",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Dagger (a) with knife sheath (b) \r\nsmall knife with steel blade and wooden handle; handle wrapped with leather; leather sewn in place with cotton thread. \r\nKnife sheath made of leather; body of sheath in tanned leather with undyed strip of leather at centre; undyed strip embroidered with thin leather thong; sheath has small leather belt loop at top.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_14/b27ac1cd_ee28_47ea_9d59_a74d00ef3f7e/preview_EAF22847.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d05632f9b711d43ade7ee0d0ce2ffddf46a1e6dd1b24ad786d777fd11d14d561",
+        "bytes": 32784,
+        "local_path": "library\\sub-saharan-africa\\cameroon\\bamun\\arms\\bamun\\images\\bm_E_Af1954_23_2641_a_b.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:05:43.372786+00:00",
+    "raw": {
+      "title": "arm-dagger; sheath",
+      "description": "Dagger (a) with knife sheath (b) \r\nsmall knife with steel blade and wooden handle; handle wrapped with leather; leather sewn in place with cotton thread. \r\nKnife sheath made of leather; body of sheath in tanned leather with undyed strip of leather at centre; undyed strip embroidered with thin leather thong; sheath has small leather belt loop at top.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_4/6_14/b27ac1cd_ee28_47ea_9d59_a74d00ef3f7e/preview_EAF22847.jpg",
+      "production_ethnic_groups": [
+        "Bamum"
+      ],
+      "production_ethnic_attribution": "Made by: Bamum"
+    }
+  }
+]

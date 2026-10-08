@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_5018",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_5018",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5018?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a carved and painted balsa-wood figure (nuchu-type ritual doll) collected from Guillermo Hayans in Ustupo, San Blas, Panama, used in Guna snake-repelling ceremonies — a classic Guna ritual object.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figur, Balsaföremål., sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/15010645/1962.47.0029_003.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a309c2234a1d005bdeefec4c50728e10869398e1e7aafa7f05a524d7f9958dd0",
+        "bytes": 63223,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_5018.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F15010645%2F1962.47.0029_003.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:01.202486+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_5018",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5018?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "figur, Balsaföremål., sculpture, figurine"
+      ],
+      "dcDescription": [
+        "1962.47.0029 Guillermo Hayans Ustupo, San Blas, Panamá Ustúpu, San Blas, Panamá [[Haga]] skiss Cuna Mellanamerika Centralamerika Panamá Amerika Panama Guna People Guna Cuna 42 cm långt föremål av balsaträ, målad mansfigur, använts vid ormfördrivningsceremonierna i Ustupo i juli 1961. Jfr. med nr 4, m.fl. i denna samling. Hayans orginalkatalog: \"Una muñeca de palo balsa, tambien se defendió en pueblo Ustupo\". \nDen ljusa fyrkanten i målningen i figurens nacke förklaras av borttagen etikett som placerats före färgningen ägt rum. Årsberättelse 1962, Årstryck 1959-62, Etnografiska museet, Göteborg"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F15010645%2F1962.47.0029_003.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/15010645/1962.47.0029_003.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_5014",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_5014",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5014?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A carved and painted balsa-wood eagle figure made by Guillermo Hayans of Ustupo, San Blas, for use in a Guna ritual to ward off snakes — a documented traditional Guna ceremonial carving.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Örnfigur., figur, sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2546848/1962.47.0014_alt.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "907c6239aefd91ce6cc5f78ac38ca2d906705cdb5193f841b4177c48e16f2a9c",
+        "bytes": 76931,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_5014.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2546848%2F1962.47.0014_alt.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:01.652735+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_5014",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5014?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Örnfigur., figur, sculpture, figurine"
+      ],
+      "dcDescription": [
+        "1962.47.0014 Guillermo Hayans Ustupo, San Blas, Panamá Ustúpu, San Blas, Panamá [[Haga]] skiss Cuna Mellanamerika Centralamerika Panamá Amerika Panama Guna People Guna Cuna 28 cm hög örnfigur av balsaträ. Målad,den rektangulära ljusare färgen på bröstet förklaras av att där suttit en pappersetikett. Figuren tillverkad för samma ormfördrivningssyfte som nr. nr. 13. \nEnligt Hayans orig.katalog:\"Un águila de palo balsa - tambíen fue perseguidor de las culebras y se defendio el pueblo Ustúpu cuando hubo el peligro (jfr. nr. 4) Årsberättelse 1962, Årstryck 1959-62, Etnografiska museet, Göteborg"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2546848%2F1962.47.0014_alt.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2546848/1962.47.0014_alt.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_5038",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_5038",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5038?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A painted balsa-wood carved figure with an angel-like robed form, made by a named Guna carver from Ustupu, San Blas, Panama, and collected directly from the community — a genuine Guna carving tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "skulptur, Skuptur, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2320734/1973.25.0034.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "495a6b415711736360be8ddf1f8a6d9e6eb7ddcbf07d143ca62b2d4866ca59fe",
+        "bytes": 32389,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_5038.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2320734%2F1973.25.0034.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:02.131233+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_5038",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5038?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "skulptur, Skuptur, sculpture"
+      ],
+      "dcDescription": [
+        "1973.25.0034 Guillermo Hayans Ustúpu, San Blas, Panamá Ustupu, San Blas, Panama [[Haga]] skiss Cuna Mellanamerika Centralamerika Tillsammans Amerika Panamá Figur Figure Panama Guna People Guna Cuna 71 cm hög målad träskulptur av balsa. Figuren, som har typisk utformning á la cuna betr. speciellt näsan och övriga detaljer på huvudet, står på en rund platta av 20 cm diam. Figuren är målad i blått och gult, håret svart, samt har änglavingar. Den överlämnades i samband \nmed S. Henry Wasséns vistelse i Panamá 1962 för inköp av en cunasamling som personlig gåva till \"Sra. Karin\" av cunavännen Guille"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2320734%2F1973.25.0034.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2320734/1973.25.0034.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_4900",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_4900",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4900?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a carved wooden standing human figure (nuchu-type healing figure) collected from the Guna people of San Blas, Panama, consistent with documented Guna ritual carving practice.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Träfigur., figur, sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2425061/1927.27.1273_alt.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "294147e088fffc6b8c42b1cef23e6b2d71c845c39b9213abaa01ee8b96aa7b23",
+        "bytes": 34525,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_4900.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2425061%2F1927.27.1273_alt.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:02.625738+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_4900",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4900?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Träfigur., figur, sculpture, figurine"
+      ],
+      "dcDescription": [
+        "1927.27.1273 Cueptí, San Blas-kusten, Panamá Cuepti, San Blas, Panamá. [[Haga]] Bild Cuna Mellanamerika Centralamerika Stag 29 cm hylla 2 Panamá Amerika Expedition till Panama och Colombia (1927) Panama Guna People Guna Cuna Wooden ritual figure from Cuepti Island, made of rosewood from old-growth forests on the mainland. The figure was employed in healing rituals, accompanied by special songs. Once it had served its purpose, it was later used for play, as a doll. Some wooden sculptures were made solely for a specific event or situation. Once it was over, the sculpture would either be disposed"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2425061%2F1927.27.1273_alt.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2425061/1927.27.1273_alt.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_4902",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_4902",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4902?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a small wooden carved figure (nuchu-type healing figure) from Cuepti Island, San Blas, collected in 1927 among the Guna people, matching the documented ritual healing carving tradition of the Guna.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "figur, Träfigur, sculpture, figurine",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2425111/1927.27.1275.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "178a789c78d2caee4bfa9717cca95dbcafff029a1c20f437a4bdf3ebc48ac7a9",
+        "bytes": 42016,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_4902.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2425111%2F1927.27.1275.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:03.081391+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_4902",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4902?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "figur, Träfigur, sculpture, figurine"
+      ],
+      "dcDescription": [
+        "1927.27.1275 Cueptí, San Blas-kusten, Panamá Cuepti, San Blas, Panamá. [[Haga]] skiss Cuna Mellanamerika Centralamerika Stag 12 cm hylla 1 Panamá Amerika Expedition till Panama och Colombia (1927) Panama Guna People Guna Cuna Wooden ritual figure from Cuepti Island, made in the early 20th century. The figure was employed in healing rituals, accompanied by special songs. \nThese wooden figures were made of several different kinds of wood, depending on the specific illness or situation involved. Some were used preventively or for diagnosis, while others were used during the treatment itself. In t"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2425111%2F1927.27.1275.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2425111/1927.27.1275.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_19299",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_19299",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_19299?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A terracotta seated male figure wearing a European-style hat, seated on a stool typical of Cuna (Guna) figurines from San Blas, Panama, made by a Guna maker as described in the donor account. This is a made object of the claimed culture, so it belongs.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "mansfigur, Mansfigur., sculpture, figure",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2388642/1985.14.0002.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "e3e03e27dc8dbd141ef9c4a69b69b0d56774ecaf2be713d06b268b604b7886b0",
+        "bytes": 44289,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_19299.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2388642%2F1985.14.0002.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:03.630677+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_19299",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_19299?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "mansfigur, Mansfigur., sculpture, figure"
+      ],
+      "dcDescription": [
+        "1985.14.0002 san Blas, Panamá San Blas, Panamá Cuna Mellanamerika Centralamerika Tillsammans Panamá Amerika Figur Figure Panama Guna People Guna Cuna keramik Sittande mansfigur av lergods. Figuren sitter på en pall, typisk för cuna, och bär hatt av europeisk typ. Enligt donatorn tillverkades denna figur av en cuna-indian med infekterad benfraktur, vilken därför bröt av lerfigurens vänstra ben i helande syfte. Efter behandling av en am.\nsjuksköterska, uppmanades denna av patienten att slänga figuren i havet. Se även orig. kat. för 1985. \nFigurens höjd: 21 cm, bredd: 11,7 cm. Gåva:dr Leo Biese, "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2388642%2F1985.14.0002.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2388642/1985.14.0002.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_5508",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_5508",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5508?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Panama",
+      "ethnicity": "Guna",
+      "tradition": "Guna",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a wooden carved canoe-shaped object with a human figure in relief, collected in San Blas, Panama, matching documented Guna funerary/ritual wood carving traditions. This is a plausible traditional Guna-made sculptural object.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "träskultptur, skulptur, sculpture",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2396091/1935.15.0079.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1c2d545e381c135be5b74db3eb4388a83de19d68c766f91377dd32e03592af41",
+        "bytes": 30553,
+        "local_path": "library\\latin-america\\panama\\guna\\sculpture\\guna\\images\\eu_91608_SMVK_VKM_objekt_5508.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2396091%2F1935.15.0079.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-27T03:01:04.193015+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_5508",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_5508?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "träskultptur, skulptur, sculpture"
+      ],
+      "dcDescription": [
+        "1935.15.0079 Henry Wassén Ustúpu (?), San Blas, Panamá San Blas, Panama [[Haga]] Bild & Skiss Cuna Mellanamerika Centralamerika Tillsammans Amerika Panamá Henry Wasséns expedition till Colombia och Panama (1934-1935) Wooden sculpture of a man in a canoe Wooden sculpture Panama Guna People Guna Cuna Träskulptur. Kanot med mansfigur liggande utsträckt. Föreställer en död som bortföres. Gåva av Mrs. Prather, Balboa, och förvärvad av henne från Ruben Pérez, antagligen samlad i Ustúpu. står stabilt Resor kan skilja oss åt under kort eller lång tid.\nDe människor som tillverkat den här kanoten reser "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F2396091%2F1935.15.0079.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/2396091/1935.15.0079.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Панама"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamà"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Παναμάς"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panamá"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        },
+        {
+          "def": "Panama"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

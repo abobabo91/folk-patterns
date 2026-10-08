@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "rijks-200521036",
+    "source": {
+      "museum": "rijks",
+      "museum_name": "Rijksmuseum",
+      "object_id": "200521036",
+      "object_url": "https://id.rijksmuseum.nl/200521036",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "_regional",
+      "tradition": "batik",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is the printed cover of a Dutch colonial-service memory album (\"Ter herinnering aan mijn diensttijd overzee\"), decorated with a stylized wayang kulit (Javanese shadow-puppet) figure — Indonesian/Javanese imagery, not anything Burmese, and it is a modern printed booklet cover rather than a Myanmar ethnographic object.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Ter herinnering aan mijn diensttijd overzee",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Rijksmuseum, Amsterdam",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://iiif.micr.io/zSLCg/full/max/0/default.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fe5f1fa35dd7cef7a99103ef70f26515cdbdde943ef5499c4e1aebc540f963c1",
+        "bytes": 2677815,
+        "local_path": "library\\southeast-asia\\myanmar\\_regional\\unclassified\\batik\\images\\rijks_200521036.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T13:23:52.016417+00:00",
+    "raw": {
+      "@context": "https://linked.art/ns/v1/linked-art.json",
+      "id": "https://id.rijksmuseum.nl/200521036",
+      "type": "HumanMadeObject",
+      "produced_by": {
+        "type": "Production",
+        "technique": [
+          {
+            "id": "https://id.rijksmuseum.nl/2206970",
+            "type": "Type",
+            "identified_by": [
+              {
+                "type": "Identifier",
+                "assigned_by": [
+                  {
+                    "type": "AttributeAssignment",
+                    "assigned": [
+                      "https://id.rijksmuseum.nl/200521036"
+                    ],
+                    "assigned_property": "influenced_by"
+                  }
+                ],
+                "content": "1",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300456575",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "notation": [
+              {
+                "@language": "nl",
+                "@value": "ontwikkelgelatinezilverdruk"
+              },
+              {
+                "@language": "en",
+                "@value": "gelatin silver print"
+              }
+            ],
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300139114",
+                "type": "Type"
+              }
+            ]
+          }
+        ],
+        "timespan": {
+          "type": "TimeSpan",
+          "identified_by": [
+            {
+              "type": "Name",
+              "content": "1948 - 1949",
+              "language": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300388277",
+                  "type": "Language"
+                }
+              ]
+            },
+            {
+              "type": "Name",
+              "content": "1948 - 1949",
+              "language": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300388256",
+                  "type": "Language"
+                }
+              ]
+            }
+          ],
+          "begin_of_the_begin": "1948-01-01T00:00:00Z",
+          "end_of_the_end": "1949-12-31T23:59:59Z"
+        },
+        "referred_to_by": [
+          {
+            "type": "LinguisticObject",
+            "content": "anonymous, anonymous",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type"
+              }
+            ],
+            "language": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388277",
+                "type": "Language"
+              }
+            ]
+          },
+          {
+            "type": "LinguisticObject",
+            "content": "anoniem, anoniem",
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300435416",
+                "type": "Type"
+              }
+            ],
+            "language": [
+              {
+                "id": "http://vocab.getty.edu/aat/300388256",
+                "type": "Language"
+              }
+            ]
+          }
+        ],
+        "part": [
+          {
+            "type": "Production",
+            "carried_out_by": [
+              {
+                "id": "https://id.rijksmuseum.nl/210640",
+                "type": "Person",
+                "notation": [
+                  {
+                    "@language": "nl",
+                    "@value": "anoniem"
+                  },
+                  {
+                    "@language": "en",
+                    "@value": "anonymous"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/ulan/500397994",
+                    "type": "Person"
+                  },
+                  {
+                    "id": "http://www.wikidata.org/entity/Q4233718",
+                    "type": "Person"
+                  },
+                  {
+                    "id": "http://viaf.org/viaf/100627125",
+                    "type": "Person"
+                  },
+                  {
+                    "id": "https://rkd.nl/artists/1984",
+                    "type": "Person"
+                  }
+                ]
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Identifier",
+                "content": "1",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300456575",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404450",
+                "type": "Type"
+              }
+            ],
+            "technique": [
+              {
+                "id": "https://id.rijksmuseum.nl/2206893",
+                "type": "Type",
+                "notation": [
+                  {
+                    "@language": "nl",
+                    "@value": "samensteller"
+                  },
+                  {
+                    "@language": "en",
+                    "@value": "compiler (person in literature)"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300121766",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "referred_to_by": [
+              {
+                "type": "LinguisticObject",
+                "content": "samensteller: anoniem, Nederland",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388256",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "anoniem",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435417",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388256",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "compiler (person in literature): anonymous, Netherlands",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388277",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "anonymous",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435417",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388277",
+                    "type": "Language"
+                  }
+                ]
+              }
+            ],
+            "took_place_at": [
+              {
+                "id": "https://id.rijksmuseum.nl/2301",
+                "type": "Place",
+                "notation": [
+                  {
+                    "@language": "en",
+                    "@value": "Netherlands"
+                  },
+                  {
+                    "@language": "nl",
+                    "@value": "Nederland"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://www.wikidata.org/entity/Q55",
+                    "type": "Place"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/tgn/7016845",
+                    "type": "Place"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/2750405/",
+                    "type": "Place"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Production",
+            "assigned_by": [
+              {
+                "type": "AttributeAssignment",
+                "assigned": [
+                  {
+                    "id": "https://id.rijksmuseum.nl/210147187",
+                    "type": "Group"
+                  }
+                ],
+                "assigned_property": "carried_out_by",
+                "motivated_by": [
+                  {
+                    "type": "LinguisticObject",
+                    "carried_by": [
+                      "https://id.rijksmuseum.nl/200521036"
+                    ],
+                    "classified_as": [
+                      {
+                        "id": "http://vocab.getty.edu/aat/300028702",
+                        "type": "Type"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Identifier",
+                "content": "3",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300456575",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379012",
+                "type": "Type"
+              }
+            ],
+            "technique": [
+              {
+                "id": "https://id.rijksmuseum.nl/2205597",
+                "type": "Type",
+                "notation": [
+                  {
+                    "@language": "en",
+                    "@value": "maker"
+                  },
+                  {
+                    "@language": "nl",
+                    "@value": "vervaardiger"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://www.wikidata.org/entity/Q13235160",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "referred_to_by": [
+              {
+                "type": "LinguisticObject",
+                "content": "maker: Dienst Welzijnsverzorging (mentioned on object), Netherlands",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388277",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "vervaardiger: Dienst Welzijnsverzorging (vermeld op object), Nederland",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388256",
+                    "type": "Language"
+                  }
+                ]
+              }
+            ],
+            "took_place_at": [
+              {
+                "id": "https://id.rijksmuseum.nl/2301",
+                "type": "Place",
+                "notation": [
+                  {
+                    "@language": "en",
+                    "@value": "Netherlands"
+                  },
+                  {
+                    "@language": "nl",
+                    "@value": "Nederland"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://www.wikidata.org/entity/Q55",
+                    "type": "Place"
+                  },
+                  {
+                    "id": "http://vocab.getty.edu/tgn/7016845",
+                    "type": "Place"
+                  },
+                  {
+                    "id": "https://sws.geonames.org/2750405/",
+                    "type": "Place"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Production",
+            "assigned_by": [
+              {
+                "type": "AttributeAssignment",
+                "assigned": [
+                  {
+                    "id": "https://id.rijksmuseum.nl/21072044",
+                    "type": "Group"
+                  }
+                ],
+                "assigned_property": "carried_out_by",
+                "motivated_by": [
+                  {
+                    "type": "LinguisticObject",
+                    "carried_by": [
+                      "https://id.rijksmuseum.nl/200521036"
+                    ],
+                    "classified_as": [
+                      {
+                        "id": "http://vocab.getty.edu/aat/300028702",
+                        "type": "Type"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Identifier",
+                "content": "4",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300456575",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300379012",
+                "type": "Type"
+              }
+            ],
+            "technique": [
+              {
+                "id": "https://id.rijksmuseum.nl/2203016",
+                "type": "Type",
+                "notation": [
+                  {
+                    "@language": "nl",
+                    "@value": "drukker"
+                  },
+                  {
+                    "@language": "en",
+                    "@value": "printer (person)"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300025732",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "referred_to_by": [
+              {
+                "type": "LinguisticObject",
+                "content": "printer (person): Grenzenberg N.V. (mentioned on object), Batavia",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388277",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "drukker: Grenzenberg N.V. (vermeld op object), Batavia",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388256",
+                    "type": "Language"
+                  }
+                ]
+              }
+            ],
+            "took_place_at": [
+              {
+                "id": "https://id.rijksmuseum.nl/230655",
+                "type": "Place",
+                "notation": [
+                  {
+                    "@language": "nl",
+                    "@value": "Batavia"
+                  },
+                  {
+                    "@language": "en",
+                    "@value": "Batavia"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/tgn/7002854",
+                    "type": "Place"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "Production",
+            "carried_out_by": [
+              {
+                "id": "https://id.rijksmuseum.nl/210640",
+                "type": "Person",
+                "notation": [
+                  {
+                    "@language": "nl",
+                    "@value": "anoniem"
+                  },
+                  {
+                    "@language": "en",
+                    "@value": "anonymous"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/ulan/500397994",
+                    "type": "Person"
+                  },
+                  {
+                    "id": "http://www.wikidata.org/entity/Q4233718",
+                    "type": "Person"
+                  },
+                  {
+                    "id": "http://viaf.org/viaf/100627125",
+                    "type": "Person"
+                  },
+                  {
+                    "id": "https://rkd.nl/artists/1984",
+                    "type": "Person"
+                  }
+                ]
+              }
+            ],
+            "identified_by": [
+              {
+                "type": "Identifier",
+                "content": "2",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300456575",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "classified_as": [
+              {
+                "id": "http://vocab.getty.edu/aat/300404450",
+                "type": "Type"
+              }
+            ],
+            "technique": [
+              {
+                "id": "https://id.rijksmuseum.nl/2204764",
+                "type": "Type",
+                "notation": [
+                  {
+                    "@language": "en",
+                    "@value": "photographer"
+                  },
+                  {
+                    "@language": "nl",
+                    "@value": "fotograaf"
+                  }
+                ],
+                "equivalent": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300025687",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "referred_to_by": [
+              {
+                "type": "LinguisticObject",
+                "content": "anonymous",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435417",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388277",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "fotograaf: anoniem, Nederlands-Indië",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388256",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "photographer: anonymous, Dutch East Indies, The",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435416",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388277",
+                    "type": "Language"
+                  }
+                ]
+              },
+              {
+                "type": "LinguisticObject",
+                "content": "anoniem",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300435417",
+                    "type": "Type"
+                  }
+                ],
+                "language": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300388256",
+                    "type": "Language"
+                  }
+                ]
+              }
+            ],
+            "took_place_at": [
+              {
+                "id": "https://id.rijksmuseum.nl/230193",
+                "type": "Place",
+                "notation": [
+                  {
+                    "@language": "en",
+                    "@value": "Dutch East Indies, The"
+                  },
+                  {
+                    "@language": "nl",
+                    "@value": "Nederlands-Indië"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "subject_of": [
+        {
+          "id": "https://data.rijksmuseum.nl/200521036",
+          "type": "LinguisticObject",
+          "subject_to": [
+            {
+              "type": "Right",
+              "classified_as": [
+                {
+                  "id": "https://creativecommons.org/publicdomain/zero/1.0/",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300379475",
+              "type": "Type"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ],
+          "digitally_carried_by": [
+            {
+              "type": "DigitalObject",
+              "format": "text/html",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300264578",
+                  "type": "Type"
+                }
+              ],
+              "access_point": [
+                {
+                  "id": "https://www.rijksmuseum.nl/nl/collectie/object/NG-2010-42--fbf8002add38840e79690be38564cb2d",
+                  "type": "DigitalObject"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "carried_by": [
+            "https://id.rijksmuseum.nl/200521036"
+          ],
+          "content": "Ter herinnering aan mijn diensttijd overzee",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/22015525",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "en",
+                  "@value": "title on object"
+                },
+                {
+                  "@language": "nl",
+                  "@value": "titel op object"
+                }
+              ]
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300417200",
+              "type": "Type"
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "Identifier",
+          "content": "NG-2010-42",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/22015218",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "nl",
+                  "@value": "objectnummer"
+                },
+                {
+                  "@language": "en",
+                  "@value": "object number"
+                }
+              ]
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300312355",
+              "type": "Type"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://id.rijksmuseum.nl/2204250",
+          "type": "Type",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435443",
+              "type": "Type",
+              "_label": "Type of Work"
+            }
+          ],
+          "notation": [
+            {
+              "@language": "nl",
+              "@value": "fotoalbum"
+            },
+            {
+              "@language": "en",
+              "@value": "photograph album"
+            }
+          ],
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300026695",
+              "type": "Type"
+            }
+          ]
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/2203499",
+          "type": "Type",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435443",
+              "type": "Type",
+              "_label": "Type of Work"
+            }
+          ],
+          "notation": {
+            "@language": "nl",
+            "@value": "insteekalbum"
+          }
+        }
+      ],
+      "dimension": [
+        {
+          "type": "Dimension",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/220327",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "en",
+                  "@value": "thickness"
+                },
+                {
+                  "@language": "nl",
+                  "@value": "dikte"
+                }
+              ],
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300055646",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "value": "10",
+          "unit": {
+            "id": "http://vocab.getty.edu/aat/300379097",
+            "type": "MeasurementUnit"
+          }
+        },
+        {
+          "type": "Dimension",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/22011",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "en",
+                  "@value": "height"
+                },
+                {
+                  "@language": "nl",
+                  "@value": "hoogte"
+                }
+              ],
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300055644",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "value": "190",
+          "unit": {
+            "id": "http://vocab.getty.edu/aat/300379097",
+            "type": "MeasurementUnit"
+          }
+        },
+        {
+          "type": "Dimension",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/22012",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "nl",
+                  "@value": "breedte"
+                },
+                {
+                  "@language": "en",
+                  "@value": "width"
+                }
+              ],
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300055647",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "referred_to_by": [
+            {
+              "type": "LinguisticObject",
+              "content": "Opengeslagen.",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300435430",
+                  "type": "Type",
+                  "classified_as": [
+                    {
+                      "id": "http://vocab.getty.edu/aat/300418049",
+                      "type": "Type",
+                      "_label": "brief text"
+                    }
+                  ]
+                }
+              ],
+              "language": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300388256",
+                  "type": "Language"
+                }
+              ]
+            }
+          ],
+          "value": "540",
+          "unit": {
+            "id": "http://vocab.getty.edu/aat/300379097",
+            "type": "MeasurementUnit"
+          }
+        },
+        {
+          "type": "Dimension",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/22012",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "nl",
+                  "@value": "breedte"
+                },
+                {
+                  "@language": "en",
+                  "@value": "width"
+                }
+              ],
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300055647",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "value": "295",
+          "unit": {
+            "id": "http://vocab.getty.edu/aat/300379097",
+            "type": "MeasurementUnit"
+          }
+        }
+      ],
+      "made_of": [
+        {
+          "id": "https://id.rijksmuseum.nl/2202619",
+          "type": "Material",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "assigned_by": [
+                {
+                  "type": "AttributeAssignment",
+                  "assigned": [
+                    "https://id.rijksmuseum.nl/200521036"
+                  ],
+                  "assigned_property": "influenced_by"
+                }
+              ],
+              "content": "3",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "notation": [
+            {
+              "@language": "nl",
+              "@value": "fotodrager"
+            },
+            {
+              "@language": "en",
+              "@value": "photographic support"
+            }
+          ],
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300014190",
+              "type": "Material"
+            }
+          ]
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/220192",
+          "type": "Material",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "assigned_by": [
+                {
+                  "type": "AttributeAssignment",
+                  "assigned": [
+                    "https://id.rijksmuseum.nl/200521036"
+                  ],
+                  "assigned_property": "influenced_by"
+                }
+              ],
+              "content": "2",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "notation": [
+            {
+              "@language": "nl",
+              "@value": "karton"
+            },
+            {
+              "@language": "en",
+              "@value": "cardboard"
+            }
+          ],
+          "equivalent": [
+            {
+              "id": "http://www.wikidata.org/entity/Q389782",
+              "type": "Material"
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300014224",
+              "type": "Material"
+            }
+          ]
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/22020",
+          "type": "Material",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "assigned_by": [
+                {
+                  "type": "AttributeAssignment",
+                  "assigned": [
+                    "https://id.rijksmuseum.nl/200521036"
+                  ],
+                  "assigned_property": "influenced_by"
+                }
+              ],
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "notation": [
+            {
+              "@language": "en",
+              "@value": "paper"
+            },
+            {
+              "@language": "nl",
+              "@value": "papier (materiaal)"
+            }
+          ],
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300014109",
+              "type": "Material"
+            },
+            {
+              "id": "http://www.wikidata.org/entity/Q11472",
+              "type": "Material"
+            }
+          ]
+        }
+      ],
+      "shows": [
+        {
+          "id": "https://id.rijksmuseum.nl/202521036",
+          "type": "VisualItem"
+        }
+      ],
+      "referred_to_by": [
+        {
+          "type": "LinguisticObject",
+          "content": "height 190 mm x width 295 mm x width 540 mm x thickness 10 mm",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435430",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "Fotoalbum met 12 bladen met tussenvellen van satijnpapier en 120 foto's over de dienststijdvan een Nederlandse militair in Nederlands-Indië in de jaren 1948-1949. Het album is vermoedelijk uitgereikt aan de militairen door de Dienst Welzijnsverzorging. De versierde voorkant doet denken aan de batik techniek. In het midden een voorstelling van een Wajangpop, er omheen geometrische figuren met in een soort guirlande de tekst: Ter herinnering aan mijn diensttijd overzee. Aan de binnenkant van de kaft zit een kleine portretfoto, waarschijnlijk de - onbekende - eigenaar van het album op latere leeftijd. Op de foto's staan geen oorlogshandelingen, wel patrouilles, het dagelijks leven van de militair en de omgang met de lokale bevolking. Op veel foto's staat achterop iets geschreven en een datum, tussen juli 1948 en mei 1949.",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435452",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ],
+          "created_by": {
+            "type": "Creation",
+            "timespan": {
+              "type": "TimeSpan",
+              "identified_by": [
+                {
+                  "type": "Name",
+                  "content": "2010-01-21",
+                  "language": [
+                    {
+                      "id": "http://vocab.getty.edu/aat/300388277",
+                      "type": "Language"
+                    }
+                  ]
+                },
+                {
+                  "type": "Name",
+                  "content": "2010-01-21",
+                  "language": [
+                    {
+                      "id": "http://vocab.getty.edu/aat/300388256",
+                      "type": "Language"
+                    }
+                  ]
+                }
+              ],
+              "begin_of_the_begin": "2010-01-21T00:00:00Z",
+              "end_of_the_end": "2010-01-21T23:59:59Z"
+            }
+          }
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "ontwikkelgelatinezilverdruk",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435429",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "hoogte 190 mm x breedte 295 mm x breedte 540 mm (Opengeslagen.) x dikte 10 mm",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435430",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        }
+      ],
+      "equivalent": [
+        {
+          "id": "http://hdl.handle.net/10934/RM0001.COLLECT.485909",
+          "type": "HumanMadeObject"
+        }
+      ],
+      "member_of": [
+        {
+          "id": "https://id.rijksmuseum.nl/260211",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260239",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260210",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260251",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/26192",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260238",
+          "type": "Set"
+        }
+      ]
+    }
+  }
+]

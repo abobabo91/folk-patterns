@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af-7205",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af-7205",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af-7205",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af.7205",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Mozambique",
+      "ethnicity": "Makua",
+      "tradition": "Makua",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a small round earthenware lime box with incised geometric decoration, a household/utilitarian container attributed to the Makua of Mozambique, consistent with East African lime/snuff containers.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "box",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "box",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Slip catalogue:\r\nEarthenware lime box (black) in shape and size somewhat like a large chestnut. It is round at the bottom, but the top is slightly flatter and contains a small aperture. Round the aperture and radiating from it are five bands of incised lines terminating in a circular band of similar design. Each of the interspaces has two rows of small punctures.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/7d5484ef_e9a9_4687_b32c_a3df0170a6c8/preview_01556577_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b0442ebb41a69c0202b25b6cc740f388a98202b90ca3f48134fa7a01114dada2",
+        "bytes": 49302,
+        "local_path": "library\\sub-saharan-africa\\mozambique\\makua\\ceramic\\makua\\images\\bm_E_Af_7205.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:20:51.687710+00:00",
+    "raw": {
+      "title": "box",
+      "description": "Slip catalogue:\r\nEarthenware lime box (black) in shape and size somewhat like a large chestnut. It is round at the bottom, but the top is slightly flatter and contains a small aperture. Round the aperture and radiating from it are five bands of incised lines terminating in a circular band of similar design. Each of the interspaces has two rows of small punctures.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_22/7d5484ef_e9a9_4687_b32c_a3df0170a6c8/preview_01556577_001.jpg",
+      "production_ethnic_groups": [
+        "Makua"
+      ],
+      "production_ethnic_attribution": "Made by: Makua"
+    }
+  }
+]

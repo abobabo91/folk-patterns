@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1872-0318-8",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1872-0318-8",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1872-0318-8",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1872.0318.8",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "east-asia",
+      "country": "Russia",
+      "ethnicity": "Nanai",
+      "tradition": "Nanai",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A patchwork textile of small triangular pieces forming a geometric square pattern, made by Nanai makers per the museum's production record, consistent with Nanai/Amur region patchwork textile traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "cloth; embroidery sample",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "cloth; embroidery sample",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A cloth for domestic use (?), incomplete; an embroidery-sample.  Made from small, triangular pieces of cloth, patched together to form squares (10 x 10).  Made from mostly cream and dark blue tabby cotton cloth.  One triangle missing; no paper on reverse.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_22/5c47b3a1_ed63_45c3_9748_a3bb016c6613/preview_00382509_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0b719a69cce07e915a2acbaaefcb926041d2fabd6f4fccf496e99d28e6abe9a8",
+        "bytes": 51836,
+        "local_path": "library\\east-asia\\russia\\nanai\\textile\\nanai\\images\\bm_A_As1872_0318_8.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T07:01:03.025878+00:00",
+    "raw": {
+      "title": "cloth; embroidery sample",
+      "description": "A cloth for domestic use (?), incomplete; an embroidery-sample.  Made from small, triangular pieces of cloth, patched together to form squares (10 x 10).  Made from mostly cream and dark blue tabby cotton cloth.  One triangle missing; no paper on reverse.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_22/5c47b3a1_ed63_45c3_9748_a3bb016c6613/preview_00382509_001.jpg",
+      "production_ethnic_groups": [
+        "Nanai"
+      ],
+      "production_ethnic_attribution": "Made by: Nanai"
+    }
+  }
+]

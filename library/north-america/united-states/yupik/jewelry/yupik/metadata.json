@@ -1,0 +1,100 @@
+[
+  {
+    "id": "british_museum-E_Am-6832",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am-6832",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am-6832",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am.6832",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "north-america",
+      "country": "United States",
+      "ethnicity": "Yupik",
+      "tradition": "Yupik",
+      "art_form": "jewelry",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Carved ivory/bone ear ornaments (and beaded pendants) with engraved concentric-circle designs, a traditional Yupik/Eskimo-Aleut form of personal adornment, matching the claimed ethnicity and category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "ear-ornament",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "ear-ornament",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Ear ornament, flat circular, engraved with concentric circles, and an upper lug  (broken) for suspension, and a small circular  balene (?) inlay in the middle.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/48ac7752_c5ec_447d_bcb1_a3b8014f1d2e/preview_00330274_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8e9f0b3139debbcacd311fa8e895913c77bb1ba22cf952502526f93b9a285e3f",
+        "bytes": 30087,
+        "local_path": "library\\north-america\\united-states\\yupik\\jewelry\\yupik\\images\\bm_E_Am_6832.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T02:39:13.219383+00:00",
+    "raw": {
+      "title": "ear-ornament",
+      "description": "Ear ornament, flat circular, engraved with concentric circles, and an upper lug  (broken) for suspension, and a small circular  balene (?) inlay in the middle.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_20/48ac7752_c5ec_447d_bcb1_a3b8014f1d2e/preview_00330274_001.jpg",
+      "production_ethnic_groups": [
+        "Eskimo-Aleut",
+        "Yupik"
+      ],
+      "production_ethnic_attribution": "Made by: Eskimo-Aleut Made by: Yupik"
+    }
+  }
+]

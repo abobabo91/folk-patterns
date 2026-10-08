@@ -1,0 +1,3319 @@
+[
+  {
+    "id": "met-446636",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "446636",
+      "object_url": "https://www.metmuseum.org/art/collection/search/446636",
+      "iiif_manifest": null,
+      "credit_line": "Bequest of Benjamin Altman, 1913",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "14.40.715",
+      "accession_year": "1914"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A classic Persian medallion carpet with floral and animal motifs on a red ground, consistent with the Kashan/Safavid weaving tradition claimed.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Silk Kashan Carpet",
+      "titles_alt": [],
+      "date_text": "second half 16th century",
+      "date_earliest": 1550,
+      "date_latest": 1599,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk (warp",
+        "weft",
+        "and pile)",
+        "metal wrapped thread",
+        "asymmetrically knotted pile"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk (warp, weft, and pile), metal wrapped thread; asymmetrically knotted pile",
+      "classification": "Textiles-Rugs",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Mount Dimensions: L. 105 1/2 in. (268 cm)\r\n         W. 76 1/2 in. (194.3 cm)\r\nWeight in mount: 555 lbs (251.7 kg)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "probably Kashan, Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239788.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "452989aa542a0f850644cd650ddf6a8c8bf60b3277c899028028512a0bb25364",
+        "bytes": 4449169,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/133054.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "020e1af3e2ca447f0902a084a0085006017a6993908bf825492e11d9559628e3",
+        "bytes": 177449,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/24265.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "adc4b8306db6334cacf06c09935e3fd10603226dd284091b1e978b3f58e7d885",
+        "bytes": 2434630,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC150899.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "3d0b8553bd2bc569c33229d3e535f5ea0de0f47297394d86933f96ca50ea17fb",
+        "bytes": 171547,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC40543.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "db5bc297364a3f40567ae48194c0f5d112c6566ab3dfb7c43ab8a93f87f3934b",
+        "bytes": 184339,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.40.715.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "277c16faa58840fa7c88d84ec93322e788c47c6ad7568472bb40f7d5550dabea",
+        "bytes": 662530,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.40.715b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "69b976e7220555cf4ae006dd70e7bacdd58c8aa398ca2addab55ac537c5bd00c",
+        "bytes": 1000534,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.40.715c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "eb51b24c85c4ac92e919b969430a4d7af23d3fb6df9ed3f0197965a0403ef925",
+        "bytes": 852201,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DT5436.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "131854b544449cb00026571ac9d5ea1e28ba0c8950a0683b220630d8a61c7689",
+        "bytes": 4233956,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_8.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239783.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "ee54c649473b3b9317baf1d38894e38cf058ce98b8536f3531cd1c501adf8005",
+        "bytes": 4357620,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_9.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239784.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "ac02de80762d71999ba5c8290b635419e5728c1894431292d0d6692987586466",
+        "bytes": 3911934,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_10.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239781.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "41630e13f2d0e27867b7ac45499d84796bdd6f32cf8e6aa86cd1be99a53104ed",
+        "bytes": 3872013,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_11.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239785.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b22ed0e090c76f722da45abdb626adb58fe6e9e99cc63f7d76261d643e7a785c",
+        "bytes": 3972366,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_12.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239782.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f92708ef8596fe27c43030b3b41811abba17c1a2c5d182cc8cf0f60f523c8a28",
+        "bytes": 4472989,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_13.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239786.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d0a99927d84383a649b3529c50b662a6f16a498c9c4c2a44beac8a59fa6f4cf0",
+        "bytes": 5005536,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_14.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP239787.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d6b11a03f9206373b5018725924790d80066c61427a6ef9c09ff0623905c036e",
+        "bytes": 4870844,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_15.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-013.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "4628f4913a1ec84223c5f99116f38416705be4bdc3c19b34a745aecc4e9fd9d2",
+        "bytes": 4592754,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_16.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-012.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "2266bf550cfbd5b994e59ec784726fc38019342db4d0d31f267a7777c8b45042",
+        "bytes": 6944479,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_17.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-011.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1786db2ab0b6902e958aeeaed00450c6f375bab405929625ae4a7ef410c90233",
+        "bytes": 6891033,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_18.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-010.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "74a839fb9701c594b14f55b9ccfabbbb7703d92270e414fb6da9ef2a5b372031",
+        "bytes": 6698709,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_19.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-009.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "14334abd880425547d9d5685a0e7a98334f3cd6fe9c144e6f5712d627bf0a143",
+        "bytes": 6785386,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_20.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-008.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "579a22cf8e9e6ead41f30c08d895f71a5b49c875f8cc862723690e9ad7fc3f6a",
+        "bytes": 4457501,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_21.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-007.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d9b14233f874470ba766155d9be13d22f14aa2c17e2d110b39267e3a86bab055",
+        "bytes": 4310310,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_22.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-006.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b2a19456bf40954b5cd8ee80290c535869ed9a2ff89f074e608e322244c4364e",
+        "bytes": 6546178,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_23.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-005.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "7ffe3cebcc7c1f407f9e9bcd9e5481a82cb4241def0c3c83e254ecbb0aefc5cf",
+        "bytes": 6538345,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_24.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-004.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "61cfc77ad82fe2977bfa7e0a40116ea2a1e2280daf9b94dcf375952d11f52e88",
+        "bytes": 6670830,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_25.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-003.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b155f939358e6c22185ab959e2b1773dd127d4a430f8ec364d5ec08be2906fb7",
+        "bytes": 6632492,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_26.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-002.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "524c90026954232304cff21224e3621efdceb5952455dab675bdd2f198e7c340",
+        "bytes": 4573910,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_27.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP-41695-001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "3852c2cd241ad70f4d1eae2a94a75bdd1c7274216bc953826d63e3b273816ec6",
+        "bytes": 3729648,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446636_28.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:11:49.702921+00:00",
+    "raw": {
+      "objectID": 446636,
+      "isHighlight": false,
+      "accessionNumber": "14.40.715",
+      "accessionYear": "1914",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP239788.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP239788.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/133054.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/24265.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC150899.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC40543.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.40.715.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.40.715b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.40.715c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/DT5436.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239783.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239784.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239781.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239785.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239782.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239786.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP239787.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-013.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-012.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-011.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-010.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-009.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-008.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-007.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-006.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-005.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-004.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-003.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-002.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP-41695-001.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Carpet",
+      "title": "Silk Kashan Carpet",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "second half 16th century",
+      "objectBeginDate": 1550,
+      "objectEndDate": 1599,
+      "medium": "Silk (warp, weft, and pile), metal wrapped thread; asymmetrically knotted pile",
+      "dimensions": "Mount Dimensions: L. 105 1/2 in. (268 cm)\r\n         W. 76 1/2 in. (194.3 cm)\r\nWeight in mount: 555 lbs (251.7 kg)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Rug",
+          "elementMeasurements": {
+            "Height": 267.97055,
+            "Weight": 251.74635,
+            "Width": 194.3104
+          }
+        }
+      ],
+      "creditLine": "Bequest of Benjamin Altman, 1913",
+      "geographyType": "Made in",
+      "city": "probably Kashan",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles-Rugs",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-08-21T04:50:26.64Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/446636",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-446642",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "446642",
+      "object_url": "https://www.metmuseum.org/art/collection/search/446642",
+      "iiif_manifest": null,
+      "credit_line": "Bequest of Benjamin Altman, 1913",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "14.40.721",
+      "accession_year": "1914"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A fine silk carpet with animal, floral, and cloudband medallion-style borders in the classic Safavid Kashan idiom, consistent with Persian production; the imagery and technique match the claimed origin.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Silk Animal Carpet",
+      "titles_alt": [],
+      "date_text": "second half 16th century",
+      "date_earliest": 1650,
+      "date_latest": 1699,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk (warp",
+        "weft",
+        "and pile)",
+        "asymmetrically knotted pile"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk (warp, weft, and pile); asymmetrically knotted pile",
+      "classification": "Textiles-Rugs",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Rug: L. 94 7/8 in. (241 cm)\r\n         W. 70 1/16 in. (178 cm)\r\nMount: L. 103 1/4 in. (262.3 cm)\r\n             W. 78 in. (198.1 cm)\r\n             D. 3 in. (7.6 cm)\r\n             Wt. 206 lbs. (93.4 kg)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "probably Kashan, Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29385030",
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300249525",
+        "http://vocab.getty.edu/page/aat/300266506",
+        "http://vocab.getty.edu/page/aat/300375726",
+        "http://vocab.getty.edu/page/aat/300250308",
+        "http://vocab.getty.edu/page/aat/300310388",
+        "http://vocab.getty.edu/page/aat/300250287",
+        "http://vocab.getty.edu/page/aat/300249063",
+        "http://vocab.getty.edu/page/aat/300132399"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP229989.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0945c7763672f3ed643118a4ad4b353ddc921c8c11faa0869709cbf5bd82f2e1",
+        "bytes": 5616871,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/TP279A.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8fe4f5ea761d611f617df157197974c4d57ec5be23cdf7289b251fe50e08d431",
+        "bytes": 3333669,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC150775.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "db289f9deb9260fb0a293eb8273997fe29455132ca4ae04425f4b7fc7ed96988",
+        "bytes": 114357,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC40556.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "05276adeb388ae99445bdaf728785f2c535930e57ad348b237d596792503a1d2",
+        "bytes": 167614,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/TP279.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "59b8e3d4af90b1890829d74b6b7bb9033e364c7039bfff4873f31fc1dc0a70e8",
+        "bytes": 3087517,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC159823.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c72e3bd4bd50b0c09fd564fb7ceb5bcdea1929830fdf2f3e87d3e8f0c3441bd5",
+        "bytes": 136658,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC40552.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "603fda7dfa6990c34d281956d6480b9f2d43d73920a5e4150e3b8dbbd35f2dbf",
+        "bytes": 191574,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/SC150815.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "66c5a87b16c71b53c275db96187827578250f12d5cf076223e98b689626b204c",
+        "bytes": 158973,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP230721.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f136575f2953f080fdd29c69dda1ebcc2da8fac55e2bef5a6be17fd3cc6311b0",
+        "bytes": 6188547,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_8.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP230722.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "3f984a4b3cffe1053019399e88a56c4eddce1f828d139826e19cf8a274bb58ac",
+        "bytes": 5279742,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_9.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/is14.40.721.R.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1858db4b4eade176a2d106a3726ea34719f75405864d480e190d5a8e5dffb090",
+        "bytes": 1203235,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_10.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DT501.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1bedb8ea00a89e2235c92de213f68caf4856f02196f3c5b4e02e49427950f6a7",
+        "bytes": 4605279,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_11.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/14.40.721.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "74901dbbae16a895a4cb30bec45ffc4bee738256cb6fa6ff907dd168c3ca4401",
+        "bytes": 2506541,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_12.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/133349.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "34979df65159020a14ae3d2dc7f67c29113b0e64aedff92449072938aeaedb9f",
+        "bytes": 196281,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_13.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/24254.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d97442a7b5a1ab40ec991ffdd70739f531d7001f0790c5575f1e90abadb7ec53",
+        "bytes": 3157489,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446642_14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:13:33.713351+00:00",
+    "raw": {
+      "objectID": 446642,
+      "isHighlight": true,
+      "accessionNumber": "14.40.721",
+      "accessionYear": "1914",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP229989.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP229989.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/TP279A.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC150775.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC40556.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/TP279.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC159823.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC40552.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/SC150815.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP230721.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP230722.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/is14.40.721.R.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DT501.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/14.40.721.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/133349.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/24254.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Carpet",
+      "title": "Silk Animal Carpet",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "second half 16th century",
+      "objectBeginDate": 1650,
+      "objectEndDate": 1699,
+      "medium": "Silk (warp, weft, and pile); asymmetrically knotted pile",
+      "dimensions": "Rug: L. 94 7/8 in. (241 cm)\r\n         W. 70 1/16 in. (178 cm)\r\nMount: L. 103 1/4 in. (262.3 cm)\r\n             W. 78 in. (198.1 cm)\r\n             D. 3 in. (7.6 cm)\r\n             Wt. 206 lbs. (93.4 kg)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Rug",
+          "elementMeasurements": {
+            "Height": 241,
+            "Width": 178
+          }
+        },
+        {
+          "elementName": "Other",
+          "elementDescription": "Mount",
+          "elementMeasurements": {
+            "Height": 262.2555,
+            "Weight": 93.44099,
+            "Width": 198.1204
+          }
+        }
+      ],
+      "creditLine": "Bequest of Benjamin Altman, 1913",
+      "geographyType": "Made in",
+      "city": "probably Kashan",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles-Rugs",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-02-07T04:59:02.893Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/446642",
+      "tags": [
+        {
+          "term": "Animals",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+        },
+        {
+          "term": "Birds",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+        },
+        {
+          "term": "Dragons",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+        },
+        {
+          "term": "Deer",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250308",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q685795"
+        },
+        {
+          "term": "Lions",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300310388",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q140"
+        },
+        {
+          "term": "Rams",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250287",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q2929800"
+        },
+        {
+          "term": "Tigers",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300249063",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q19939"
+        },
+        {
+          "term": "Flowers",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+        }
+      ],
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29385030",
+      "isTimelineWork": true,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-446655",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "446655",
+      "object_url": "https://www.metmuseum.org/art/collection/search/446655",
+      "iiif_manifest": null,
+      "credit_line": "Rogers Fund, 1914",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "14.67",
+      "accession_year": "1914"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Safavid-period silk lampas cope, made from Persian silk textile (with figural bands typical of 16th-17th century Iranian weaving) but tailored into a European ecclesiastical vestment — the underlying fabric and floral/figural design are Persian-made, so the textile origin supports the claim even though the finished object was repurposed abroad.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Cope",
+      "titles_alt": [],
+      "date_text": "first half 17th century (velvet)",
+      "date_earliest": 1600,
+      "date_latest": 1650,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk",
+        "cotton",
+        "metal wrapped thread",
+        "cut and voided velvet",
+        "brocaded",
+        "embroidered",
+        "with engraved metal fittings"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk, cotton, metal wrapped thread; cut and voided velvet, brocaded, embroidered, with engraved metal fittings",
+      "classification": "Textiles",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Textile: Max. L. 44 1/2 in. (113 cm)\r\n             Max. W. 103 in. (261.6 cm)\r\n              D. 1/4 in. (0.6 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300132399"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218716.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "308e02e576ebc2e1946ffdcc2364ae3988a5cc3ce1ffbdb5d77443839fe638e9",
+        "bytes": 2864053,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/23050.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6dc02fa259a4f9bf2781cc5fa41801edc6ca481ba7ef0d76293b47b688fdac57",
+        "bytes": 139516,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/23073.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f6dad4fd8526cad54a0f84d3d00b94eb87d36f19fbcc3b1708b0d87f3205ed36",
+        "bytes": 2374428,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.67.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "46bae5eb9399b8abb272e9eae3742131649be25e665de4e1645c735b049fc8a3",
+        "bytes": 708546,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.67b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "71361f53b246c08a3e31217499e304d5a8575fafe49bfa261ecb12bb6e81bad2",
+        "bytes": 1082101,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.67c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "450f3c549ec77283b0225ed7183bd23a99c1e711b8a0aaa1584c758911522a0b",
+        "bytes": 1123599,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-14.67d.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c94d551808f9f4148760fa36d4f377a65bd72ab1899f91b3198a8f2ba4c5ae0b",
+        "bytes": 1283842,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218717.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "9e8018fbb41aef9501eb786505f30332dddb525fbad6935cfd871499e4c03733",
+        "bytes": 1393060,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218718.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "10234ae4558e6b448e6d16903f5011c79491f59a994813b2f56689e41217b92f",
+        "bytes": 3922403,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_8.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218719.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "ca15ff6f6186b017ec74935ce9f5223e962962b1c1931c72bddd881c48be95cf",
+        "bytes": 4966455,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_9.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218720.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d838a9d229ca47b4dc4c6fcf5fd9ef501a98507791f6aa15dc3424f00d45328b",
+        "bytes": 4052768,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_10.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218721.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "5907a2f47377edc221f1ed2109f9609906a0386cc81aa6ce5bc4eeaaeec8b66f",
+        "bytes": 2701033,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_11.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218722.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "142cb9a82c2b7482c52f0a30e81231ad4106c8491c2ac0e57bec6b52c809d9f4",
+        "bytes": 3505483,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_12.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP218723.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0c1baeb8a6e92a80eecea47b35d6cc26fa325af28a1a021905292b6b039d41b6",
+        "bytes": 2346339,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_446655_13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:14:03.480113+00:00",
+    "raw": {
+      "objectID": 446655,
+      "isHighlight": false,
+      "accessionNumber": "14.67",
+      "accessionYear": "1914",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP218716.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP218716.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/23050.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/23073.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.67.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.67b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.67c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-14.67d.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218717.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218718.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218719.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218720.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218721.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218722.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP218723.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Cope",
+      "title": "Cope",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "first half 17th century (velvet)",
+      "objectBeginDate": 1600,
+      "objectEndDate": 1650,
+      "medium": "Silk, cotton, metal wrapped thread; cut and voided velvet, brocaded, embroidered, with engraved metal fittings",
+      "dimensions": "Textile: Max. L. 44 1/2 in. (113 cm)\r\n             Max. W. 103 in. (261.6 cm)\r\n              D. 1/4 in. (0.6 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Textile",
+          "elementMeasurements": {
+            "Depth": 0.635,
+            "Height": 113.0302,
+            "Width": 261.6205
+          }
+        }
+      ],
+      "creditLine": "Rogers Fund, 1914",
+      "geographyType": "Attributed to",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-06-04T04:55:34.617Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/446655",
+      "tags": [
+        {
+          "term": "Flowers",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-447966",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "447966",
+      "object_url": "https://www.metmuseum.org/art/collection/search/447966",
+      "iiif_manifest": null,
+      "credit_line": "Gift of V. Everit Macy, 1927",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "27.51.1",
+      "accession_year": "1927"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A lobed silk textile fragment with figures, animals (lions/dragons), and floral scrollwork in a style consistent with Safavid Persian silk weaving. This matches the claimed Persian/Iranian origin.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textile Fragment",
+      "titles_alt": [],
+      "date_text": "ca. 1540",
+      "date_earliest": 1515,
+      "date_latest": 1565,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk",
+        "cut and voided velvet with continuous floats of flat metal thread"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk; cut and voided velvet with continuous floats of flat metal thread",
+      "classification": "Textiles",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Textile: L. 23 1/2 in. (59.7 cm)\r\n              W. 18 3/16 in. (46.2 cm)\r\nMount: L. 29 1/2 in. (74.9 cm)\r\n             W. 24 in. (61 cm)\r\n            Wt. 10 lbs. (4.5 kg)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": "462",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116280200",
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300266506",
+        "http://vocab.getty.edu/page/aat/300025928",
+        "http://vocab.getty.edu/page/aat/300375726"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP230006.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4fb8613081acc86accf9912092307d57420540a2e930510e2de52fc062b8b417",
+        "bytes": 6104435,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/66927.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c256522f98c01595ea1dcc15bb63c656be0a058d21353d0e1ddb8c3add10f19b",
+        "bytes": 138408,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT79A.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "9909c6faf064ee0b07ec1fbae0bcb15d1e3e3a33b673c242d2c9585a301d0f1e",
+        "bytes": 108738,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT79B.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "38b9ee139f23af4dcb6fb00b6a6738206fbcef6795a8d02ed4dce25a409167f4",
+        "bytes": 156845,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/66926.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6118cb34ac976d492d48c18d71cee3f9aea465d540c8373a3ee6eae981d434a9",
+        "bytes": 487586,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447966_4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:15:32.807424+00:00",
+    "raw": {
+      "objectID": 447966,
+      "isHighlight": false,
+      "accessionNumber": "27.51.1",
+      "accessionYear": "1927",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP230006.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP230006.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/66927.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT79A.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT79B.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/66926.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Fragment",
+      "title": "Textile Fragment",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1540",
+      "objectBeginDate": 1515,
+      "objectEndDate": 1565,
+      "medium": "Silk; cut and voided velvet with continuous floats of flat metal thread",
+      "dimensions": "Textile: L. 23 1/2 in. (59.7 cm)\r\n              W. 18 3/16 in. (46.2 cm)\r\nMount: L. 29 1/2 in. (74.9 cm)\r\n             W. 24 in. (61 cm)\r\n            Wt. 10 lbs. (4.5 kg)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Textile",
+          "elementMeasurements": {
+            "Height": 59.6901,
+            "Width": 46.1963
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": "Mount",
+          "elementMeasurements": {
+            "Height": 74.9301,
+            "Weight": 4.53597,
+            "Width": 60.9601
+          }
+        }
+      ],
+      "creditLine": "Gift of V. Everit Macy, 1927",
+      "geographyType": "Attributed to",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-02-04T04:58:06.107Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/447966",
+      "tags": [
+        {
+          "term": "Birds",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+        },
+        {
+          "term": "Men",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+        },
+        {
+          "term": "Dragons",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300375726",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q7559"
+        }
+      ],
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116280200",
+      "isTimelineWork": false,
+      "GalleryNumber": "462"
+    }
+  },
+  {
+    "id": "met-447967",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "447967",
+      "object_url": "https://www.metmuseum.org/art/collection/search/447967",
+      "iiif_manifest": null,
+      "credit_line": "Gift of V. Everit Macy, 1927",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "27.51.2",
+      "accession_year": "1927"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a fragmentary woven silk/velvet textile with a floral and lattice pattern in blue, cream, gold, and red, laid flat on a neutral background — consistent with Safavid-era Persian silk weaving, and the scalloped shaped bottom suggests it is a garment or vestment fragment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textile Fragment",
+      "titles_alt": [],
+      "date_text": "ca. 1540",
+      "date_earliest": 1515,
+      "date_latest": 1565,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk",
+        "cut and voided velvet with continuous floats of flat metal thread"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk; cut and voided velvet with continuous floats of flat metal thread",
+      "classification": "Textiles",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Textile: L. 40 in. (101.6 cm)\r\n             W. 17 in. (43.2 cm)\r\nMount:  H. 45 in. (114.3 cm)\r\n             W. 22 1/2 in. (57.2 cm)\r\n              D. 3/4 in. (1.9 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300132399"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP230007.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0fe803c77c56610dde25e68626dd05437242d158beed6a61a2cd09a54e5c63f5",
+        "bytes": 3066352,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/66943.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0459c7223587efb76d85ba8afae8e2a988f1c398b771c2ad4cdbfe457626995f",
+        "bytes": 85950,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/199198.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "61aeba97c8dd2542a728cd64deb9530a7f47616e798b1c5bd603aa1f7d30791c",
+        "bytes": 83882,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/66944.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "e0a7698afe49248cd87645cc6346ce7c469d79d478d575e48dca9e4b11a41deb",
+        "bytes": 72964,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.2.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b9c2f590c453221b9d19370e8d7a57bb5670cc55dac187b24119e019f8886113",
+        "bytes": 481348,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.3b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "523fa92e8cbcc1b69bc2a91aa48a9baf62b7cefcce240a26d2193c7d96a7492d",
+        "bytes": 1072624,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.3c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "9855339ab4b8a02cbdf4c47752b6b5fb03590b81a1ce2bf495569522640adfb7",
+        "bytes": 994713,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.2.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "381b7b5d73a928e9c404875f64d430b681a8704625305d3e24090b94d2f8ca47",
+        "bytes": 461135,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_447967_7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:15:41.360966+00:00",
+    "raw": {
+      "objectID": 447967,
+      "isHighlight": false,
+      "accessionNumber": "27.51.2",
+      "accessionYear": "1927",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP230007.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP230007.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/66943.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/199198.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/66944.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.2.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.3b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.3c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-27.51.2.JPG"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Fragment",
+      "title": "Textile Fragment",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "ca. 1540",
+      "objectBeginDate": 1515,
+      "objectEndDate": 1565,
+      "medium": "Silk; cut and voided velvet with continuous floats of flat metal thread",
+      "dimensions": "Textile: L. 40 in. (101.6 cm)\r\n             W. 17 in. (43.2 cm)\r\nMount:  H. 45 in. (114.3 cm)\r\n             W. 22 1/2 in. (57.2 cm)\r\n              D. 3/4 in. (1.9 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": "Mount",
+          "elementMeasurements": {
+            "Depth": 1.9050038,
+            "Height": 114.3002,
+            "Width": 57.150116
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": "Textile",
+          "elementMeasurements": {
+            "Height": 101.6,
+            "Width": 43.2
+          }
+        }
+      ],
+      "creditLine": "Gift of V. Everit Macy, 1927",
+      "geographyType": "Attributed to",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-01-23T04:52:29.993Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/447967",
+      "tags": [
+        {
+          "term": "Flowers",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-450722",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "450722",
+      "object_url": "https://www.metmuseum.org/art/collection/search/450722",
+      "iiif_manifest": null,
+      "credit_line": "Fletcher Fund, 1946",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "46.156.5",
+      "accession_year": "1946"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A woven silk textile fragment depicting a young Persian courtier holding a falcon, in classic Safavid-era figural weaving style — fully consistent with Persian textile production.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "A Young Man Attending to a Falcon",
+      "titles_alt": [],
+      "date_text": "early 17th century",
+      "date_earliest": 1600,
+      "date_latest": 1625,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk",
+        "metal wrapped thread",
+        "and continuous floats of flat metal thread",
+        "cut and voided velvet",
+        "bouclé"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk, metal wrapped thread, and continuous floats of flat metal thread; cut and voided velvet, bouclé",
+      "classification": "Textiles",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Textile: \r\n            L. 11 1/2 in. (29.2 cm)\r\n            W. 8 1/2 in. (21.6 cm)\r\nMount: \r\n            H. 16 1/8 in. (41 cm)\r\n            W. 13 1/4 in. (33.7 cm)\r\n            D. 1 1/2 in. (3.8 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": "462",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300250051",
+        "http://vocab.getty.edu/page/aat/300025928"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP230046.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "15f6aab84d4b141371ab006b8109d988246aaafe106821db238c7e4daa1d890d",
+        "bytes": 4351548,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/148131.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b85f4ee1f2c1cfe8c47df762bb8ae97cb16648398863d35362affbb97854a314",
+        "bytes": 142887,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/148132.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0b0679ddf981d3904d457e6b7dbf2d1d53ad1d89c68d2cef2fbf31f0d18aba92",
+        "bytes": 128379,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/137300.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "329e61160dd363e1bff566e41706f74a0be957cfe670768e97fff530850cdde8",
+        "bytes": 123838,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "452d6ba699b989e15f4c2dbcc2efd0c9d2ddf10a311c7655633280f21ee160cb",
+        "bytes": 556706,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "5ffd08a65650b9d4e246c4235a8b52022bbeda0f7f9c949167e38d897ee684dd",
+        "bytes": 974628,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c9b7c59ffe41e4ae09968b99a03a9142b899b39c5ae96f0501bcc77757189985",
+        "bytes": 632185,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5d.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f86eb9796ac1f1e0ff107cb7491e081e15fbdff65af7bcb0a191a85d425061bf",
+        "bytes": 574481,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5e.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d490e90f72a776fc43bd34c24b7032aec009b01602a7fdfa416def3946a3f7f7",
+        "bytes": 297480,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450722_8.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:17:24.089530+00:00",
+    "raw": {
+      "objectID": 450722,
+      "isHighlight": false,
+      "accessionNumber": "46.156.5",
+      "accessionYear": "1946",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP230046.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP230046.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/148131.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/148132.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/137300.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5d.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.5e.JPG"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Textile fragment",
+      "title": "A Young Man Attending to a Falcon",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "early 17th century",
+      "objectBeginDate": 1600,
+      "objectEndDate": 1625,
+      "medium": "Silk, metal wrapped thread, and continuous floats of flat metal thread; cut and voided velvet, bouclé",
+      "dimensions": "Textile: \r\n            L. 11 1/2 in. (29.2 cm)\r\n            W. 8 1/2 in. (21.6 cm)\r\nMount: \r\n            H. 16 1/8 in. (41 cm)\r\n            W. 13 1/4 in. (33.7 cm)\r\n            D. 1 1/2 in. (3.8 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Textile",
+          "elementMeasurements": {
+            "Height": 29.2,
+            "Width": 21.6
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": "Mount",
+          "elementMeasurements": {
+            "Depth": 3.8100076,
+            "Height": 40.95758,
+            "Width": 33.6551
+          }
+        }
+      ],
+      "creditLine": "Fletcher Fund, 1946",
+      "geographyType": "Attributed to",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-01-30T04:54:21.21Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/450722",
+      "tags": [
+        {
+          "term": "Falcons",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250051",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q43489"
+        },
+        {
+          "term": "Men",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": "462"
+    }
+  },
+  {
+    "id": "met-450724",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "450724",
+      "object_url": "https://www.metmuseum.org/art/collection/search/450724",
+      "iiif_manifest": null,
+      "credit_line": "Fletcher Fund, 1946",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "46.156.7",
+      "accession_year": "1946"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A red silk lampas-woven textile with repeating vertical bands of figural roundels, cypress trees, and cartouches with Persian/Arabic calligraphy — a classic Safavid-style Persian woven silk depicting a scene from Nizami's Khamsa, clearly shown against a neutral mount.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Textile Depicting a Scene from Nizami's Khamsa",
+      "titles_alt": [],
+      "date_text": "16th–17th century",
+      "date_earliest": 1500,
+      "date_latest": 1699,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk",
+        "metal wrapped thread",
+        "double-weave"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk, metal wrapped thread; double-weave",
+      "classification": "Textiles-Woven",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Textile: \r\n            L. 25 3/4 in. (65.4 cm)\r\n            W. 14 3/8 in. (36.5 cm)\r\nMount:\r\n             H. 29 1/2  in. (74.9 cm)\r\n             W. 18 in. (45.7 cm)\r\n             D. 2 1/4  in. (5.7 cm)\r\n            Wt. 8 lbs. (3.6 kg)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": "462",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Nizami",
+          "role": "Author",
+          "dates": "1141 – 1209",
+          "urls": [
+            "https://www.wikidata.org/wiki/Q234908",
+            "(not assigned)"
+          ]
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300404114",
+        "http://vocab.getty.edu/page/aat/300249525",
+        "http://vocab.getty.edu/page/aat/300250148"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP267487.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "095cc954f1250d338456cf33fd68ab189e8fe0752791c7ae0b1e012fd0cad0f2",
+        "bytes": 2874549,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450724.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/137260.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "1edcc383eb6e13f85d88a1e6561fc566fee6e087707e1128bcb0669e2a38ebfc",
+        "bytes": 171189,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450724_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.7a.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "4e22370051dfd69946673363c09916f71a2cebd5cbffb8c958b2e126734e044d",
+        "bytes": 482022,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450724_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.7b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8c0fbb4d4fba854094d8c5ba245e755f57132a735e4d459402c219db9e6289a9",
+        "bytes": 1176589,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450724_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.7c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f77df72d77d8e4a8844710e826fe7985325d77a0187567d4c858b85fa299c15a",
+        "bytes": 1243515,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450724_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP166020.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "afe05a90de2bfaf2eb4adad31073b1f2177a735c48c4122a0dfc10894b824aaa",
+        "bytes": 4745062,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_450724_5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:17:43.358972+00:00",
+    "raw": {
+      "objectID": 450724,
+      "isHighlight": false,
+      "accessionNumber": "46.156.7",
+      "accessionYear": "1946",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP267487.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP267487.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/137260.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.7a.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.7b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-46.156.7c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/DP166020.jpg"
+      ],
+      "constituents": [
+        {
+          "constituentID": 130653,
+          "role": "Author",
+          "name": "Nizami",
+          "constituentULAN_URL": "(not assigned)",
+          "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q234908",
+          "gender": ""
+        }
+      ],
+      "department": "Islamic Art",
+      "objectName": "Panel",
+      "title": "Textile Depicting a Scene from Nizami's Khamsa",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Author",
+      "artistPrefix": "",
+      "artistDisplayName": "Nizami",
+      "artistDisplayBio": "present-day Azerbaijan, Ganja 1141–1209 Ganja",
+      "artistSuffix": "",
+      "artistAlphaSort": "Nizami",
+      "artistNationality": "",
+      "artistBeginDate": "1141",
+      "artistEndDate": "1209",
+      "artistGender": "",
+      "artistWikidata_URL": "https://www.wikidata.org/wiki/Q234908",
+      "artistULAN_URL": "(not assigned)",
+      "objectDate": "16th–17th century",
+      "objectBeginDate": 1500,
+      "objectEndDate": 1699,
+      "medium": "Silk, metal wrapped thread; double-weave",
+      "dimensions": "Textile: \r\n            L. 25 3/4 in. (65.4 cm)\r\n            W. 14 3/8 in. (36.5 cm)\r\nMount:\r\n             H. 29 1/2  in. (74.9 cm)\r\n             W. 18 in. (45.7 cm)\r\n             D. 2 1/4  in. (5.7 cm)\r\n            Wt. 8 lbs. (3.6 kg)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Textile",
+          "elementMeasurements": {
+            "Height": 65.4051,
+            "Width": 36.5126
+          }
+        },
+        {
+          "elementName": "Other",
+          "elementDescription": "Mount",
+          "elementMeasurements": {
+            "Depth": 5.7150116,
+            "Height": 74.93015,
+            "Weight": 3.6287763,
+            "Width": 45.720093
+          }
+        }
+      ],
+      "creditLine": "Fletcher Fund, 1946",
+      "geographyType": "Attributed to",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles-Woven",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-04-16T19:34:26.79Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/450724",
+      "tags": [
+        {
+          "term": "Human Figures",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+        },
+        {
+          "term": "Animals",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+        },
+        {
+          "term": "Horses",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250148",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q726"
+        }
+      ],
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": "462"
+    }
+  },
+  {
+    "id": "met-451894",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "451894",
+      "object_url": "https://www.metmuseum.org/art/collection/search/451894",
+      "iiif_manifest": null,
+      "credit_line": "Gift of C. Ruxton Love Jr., 1967",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "67.2.2",
+      "accession_year": "1967"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A finely woven pictorial garden carpet with figures, animals, cranes, and floral panels in a classic Persian courtly design idiom, consistent with traditional Persian textile production.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Pictorial Carpet",
+      "titles_alt": [],
+      "date_text": "17th century",
+      "date_earliest": 1600,
+      "date_latest": 1699,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk (warp",
+        "weft",
+        "and pile)",
+        "metal wrapped thread",
+        "asymmetrically knotted pile",
+        "brocaded"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk (warp, weft, and pile), metal wrapped thread; asymmetrically knotted pile, brocaded",
+      "classification": "Textiles-Rugs",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Rug: L. 91 1/2 in. (232.4 cm)\r\n          W. 68 in. (172.7 cm)\r\nTube: Diam. 6 1/2 in. (16.5 cm)\r\n           W. 82 in. (208.3 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116243249",
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300249525",
+        "http://vocab.getty.edu/page/aat/300266506",
+        "http://vocab.getty.edu/page/aat/300025928",
+        "http://vocab.getty.edu/page/aat/300025943",
+        "http://vocab.getty.edu/page/aat/300250218"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169947.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "31eac00df4f416f255d29848ca2ba74cd0570e9367c232ee5151442c67d8445d",
+        "bytes": 4218127,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT172E.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "67a0894355cd7baa7d7f5cd84bb8a7b753eb99762253979ab61ff8bd89888341",
+        "bytes": 147675,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT172A.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6a716fceb549fe76e1927174b1119529645f9ce78355b46c1c5d040cb2299754",
+        "bytes": 155892,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT172B.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d76d32218df1b8fab54cf99520a47d3742ccedc7755522c795192418b646cef7",
+        "bytes": 158061,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT172C.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "79942f3a0dc91e43a12265792fdac43c10b55ffaef263be01fc07b2041b412fc",
+        "bytes": 149293,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT172D.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "3c314904a53ee25a6137c9581d46f3733849e378f1ac66d71755176005c1da3f",
+        "bytes": 144208,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT172F.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "cd7419649af6392c9ffc168ee72eeb603b80ec1dde043142fa1d8a6bfe12298c",
+        "bytes": 158546,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT200A.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "93da21a4a683a9dd042e82a3d9c2b5172dc02176182a11a0ed71a4489536aebf",
+        "bytes": 138028,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT200B.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0a6daf463c4493cf1535bd3029a05e5842a821d808fede17d164d8c4aaf0e7f0",
+        "bytes": 142999,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_8.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/RT200C.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "321a73d82f651cad5529dbbd18f1dd87a3b254e63e4ea4514dea015f5a8e9294",
+        "bytes": 133207,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_9.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/186360.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6e5b44f21f8bced823d57aae3971057395f45921446ec7e648f225eff9886958",
+        "bytes": 185788,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_10.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "eb955dbeb828a703b94561e1d4923305f7fd9ead64ce100a6ed93765ba91a363",
+        "bytes": 728456,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_11.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "304f861d133829e4ec1f09a90f34e231ac8764deaa0ba32fad72c0f3fa9c71bc",
+        "bytes": 729883,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_12.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f1d3a29f7a6ec4dd58ec4726676e7f16929d6c3d63a8c4f294181e7abb831157",
+        "bytes": 623718,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_13.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2d.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "68b7561eb0e208c1658ae8b8d96b7f781f80856ad1f3d8bae9a3cdcfdeb62f24",
+        "bytes": 721011,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_14.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2e.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c16b0fc73a5068fccb33387b28ccb68509c9d90b648056919176019ee6b5a342",
+        "bytes": 768104,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_15.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2f.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8a51bdf537fdb8bc92b9cb85a46da9e4cbc74001609401b3d2e7fe25f478003f",
+        "bytes": 779758,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_16.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2g.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "91f253791930762dda238cb1c556609a4e367e95dc3e7aa05a9d972aa8daf504",
+        "bytes": 742970,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_17.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2h.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "e29e692b0203c3a1c7e93638e4fbef65bea8e695786021014f8acb1145780332",
+        "bytes": 763798,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_18.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2i.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "4e80dd97b31fb234a3d356cb1a9f98a3a4426c86afcf6a09a0b0509683c3687b",
+        "bytes": 796768,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_19.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2j.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0c98414ee7294205869ad00fe10d53ee605b46a8ee86fbc90b8d7db4b0e9e26d",
+        "bytes": 756894,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_20.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2k.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b7c8cdd85808e544a637f2f2b82c7763689eac36984ddb5e61c457db7edefa3a",
+        "bytes": 735184,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_21.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2l.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "63bf5eb5b4a10d99735da6c320a162076096f418b783f89a84e81ee289486df4",
+        "bytes": 771514,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_22.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2m.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "e721ca54467147e63adf2f575ff08f8eb3b1e0ea5d93c69e5fd44980fc8d451a",
+        "bytes": 775224,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_23.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2n.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "a7281b4a4ac786b95e13340cb803596c1bb6140cd606ad02720e82b481ebe66d",
+        "bytes": 739432,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_24.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2o.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8d3e67d283485ac10d526037de73b00a7c1185355bbc1054248344c4f586c2c0",
+        "bytes": 788012,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_25.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2q.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "a95742a52d2d471888c3cd0d2b7ec6959d55240ef56dfd29534feac8b7b87d13",
+        "bytes": 857774,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_26.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2r.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "ba0c2b86f2df079d1e086ac2b5c79b6613b2f787113e96ba70c8cfd717d77ab9",
+        "bytes": 776104,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_27.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2s.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "669e4bec7c3109016d877b909a3f843e2516ab0456bd559c71e4697ca0518eb2",
+        "bytes": 709499,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_28.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169941.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "17eb18c77dd187cfb0c4db5c5555d8e2bd632921dcf275ac048ac52900cb7ba8",
+        "bytes": 2859435,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_29.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169942.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "55a9ed1b4e74b82fc8dbcc530314e590dd03a56d8a3ed78799671101d3763bb9",
+        "bytes": 2437909,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_30.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169943.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "605d2629ca0e814b2dbb7549d56741bf4d07d2861ed32e31ec035fadadecfd48",
+        "bytes": 3357009,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_31.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169944.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "e11d6f2a23c7b085a205dca86b7f696486f54e6a4e7aaf76c490bb9bbb8d94ed",
+        "bytes": 3277327,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_32.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169945.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "fca7b324434eb13e8e37f4b537972313a762366ae707c74980cf18c99e332c67",
+        "bytes": 3164987,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_33.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169946.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "9cdb14b6991503805659c1071faab65899c2d87bf002945a62c3273a32e47dc2",
+        "bytes": 2894608,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_34.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DT5452.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "a0f1a1f09a02540dc813d4ad8ca937d687ffd8d0979946c4f2b00a1768f3d4c5",
+        "bytes": 3748652,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_35.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169948.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8fec3771965c3851e97fd113a174796aa14f8cffde2d52010b86dd49c96cd7c0",
+        "bytes": 2703827,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_36.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169949.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "591965c5f49a36679b2000611751b854704a82eeb08d8fef94e0039031a7dcfb",
+        "bytes": 2688639,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_37.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169951.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "9387833b89c5443f160913fbd100b349ca71c08e43ac6fd283b4d34b1e77d42e",
+        "bytes": 2909754,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_38.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169952.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "7774cfeb743c99137cf6b141ef71af5eb84f99a86cfec43c2f2f297fbb7a9e2f",
+        "bytes": 1988060,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_39.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169954.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "fe6e286a3a8e8e80104423a132abdfdd4a6020538d42da1b665fd4bae942ed07",
+        "bytes": 2028581,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_40.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169955.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0962c6d7f854bebb79eac6b543e16ee9342a58a2ed07325066be6a423290b9e8",
+        "bytes": 2679029,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_41.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/TP337.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "6fc037cd308e44b1e24f0ece0d3b72caaf634d73d2a4c711109318a27f144d55",
+        "bytes": 3350177,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_42.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP169950.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "7803782b26a6616608080ea59c5947c0366b4ecb753f2ba06dbbed5fe9522d6e",
+        "bytes": 2777459,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_451894_43.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:19:31.396675+00:00",
+    "raw": {
+      "objectID": 451894,
+      "isHighlight": false,
+      "accessionNumber": "67.2.2",
+      "accessionYear": "1967",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP169947.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP169947.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/RT172E.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT172A.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT172B.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT172C.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT172D.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT172F.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT200A.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT200B.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/RT200C.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/186360.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2d.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2e.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2f.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2g.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2h.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2i.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2j.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2k.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2l.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2m.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2n.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2o.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2q.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2r.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-67.2.2s.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169941.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169942.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169943.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169944.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169945.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169946.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DT5452.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169948.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169949.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169951.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169952.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169954.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169955.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/TP337.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP169950.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Carpet",
+      "title": "Pictorial Carpet",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "17th century",
+      "objectBeginDate": 1600,
+      "objectEndDate": 1699,
+      "medium": "Silk (warp, weft, and pile), metal wrapped thread; asymmetrically knotted pile, brocaded",
+      "dimensions": "Rug: L. 91 1/2 in. (232.4 cm)\r\n          W. 68 in. (172.7 cm)\r\nTube: Diam. 6 1/2 in. (16.5 cm)\r\n           W. 82 in. (208.3 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Rug",
+          "elementMeasurements": {
+            "Height": 232.4105,
+            "Width": 172.72
+          }
+        },
+        {
+          "elementName": "Other",
+          "elementDescription": "Tube",
+          "elementMeasurements": {
+            "Diameter": 16.51,
+            "Width": 208.2804
+          }
+        }
+      ],
+      "creditLine": "Gift of C. Ruxton Love Jr., 1967",
+      "geographyType": "Made in",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles-Rugs",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/451894",
+      "tags": [
+        {
+          "term": "Animals",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300249525",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q729"
+        },
+        {
+          "term": "Birds",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+        },
+        {
+          "term": "Men",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+        },
+        {
+          "term": "Women",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+        },
+        {
+          "term": "Rabbits",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300250218",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q9394"
+        }
+      ],
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116243249",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-452188",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "452188",
+      "object_url": "https://www.metmuseum.org/art/collection/search/452188",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Joseph V. McMullan, 1970",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1970.302.3",
+      "accession_year": "1970"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A finely knotted floral medallion carpet fragment with classic Persian design elements (palmettes, vine scrolls, central medallion, cream ground) consistent with a traditional Persian carpet.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Carpet Fragment",
+      "titles_alt": [],
+      "date_text": "17th–18th century",
+      "date_earliest": 1600,
+      "date_latest": 1799,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Cotton (warp and weft)",
+        "silk (weft)",
+        "wool (pile)",
+        "asymmetrically knotted pile"
+      ],
+      "techniques": [],
+      "medium_raw": "Cotton (warp and weft), silk (weft), wool (pile); asymmetrically knotted pile",
+      "classification": "Textiles-Rugs",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "L. 107 in. (271.8 cm)\r\nW. 48 7/16 in. (123.1 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328877.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "53a24d1503e88a10f60eb3505aa878fe35804bbda98474be6c3923649ed5f42d",
+        "bytes": 3663301,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/195205.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "c7407ff64d5eb98496d2c0b0a8c874ffc9eb41d5c6b168a7df2818bc5ed111ba",
+        "bytes": 117869,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328872.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "2ca6bac72d8a04107bc524f7ca58dd20fb2fc34057b57c586dd41753795a645b",
+        "bytes": 5541409,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328876.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "4ed961bc7ffda75d0f3951a3385378e1a231edd3a65e8698857a50f8b3ad9ec8",
+        "bytes": 4201764,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328874.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "decadf4b4f6aa8400f3b9cd34e5b7f38d8ace219c0b22ba1398fa3ee95855def",
+        "bytes": 4644657,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328871.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "3d649171cd731a6cca695c04c4fc65596a43fc774fb590299f5ad81a675fbb19",
+        "bytes": 5992680,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328880.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "92d0f29c42b3a132707bd5d6738510a348b336181fcbf2cba5db72265be77c7c",
+        "bytes": 3919837,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_6.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328879.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "8852fe2b40a346d6a1700db06a9fc0a9015a240a8556073408bdd3372efe636f",
+        "bytes": 3931719,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_7.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328885.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "f6a3774f6c9893870d36f5271af1678466bbe10456d573dbe36e7fe433f96658",
+        "bytes": 2594626,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_8.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328868.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "71101eac8d791f7cf885c4acc87dddd840414b4bde1c326ea9614e0d9be0ef03",
+        "bytes": 5244083,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_9.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328870.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "39a63432048a273a386cadb0bbc84c1fbd33da417e528ba774351c38ea6f4a09",
+        "bytes": 5968079,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_10.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328875.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "b9d6810c2f44cc8b5432e1c40b644f3093f97c2b8052a6094f741f71a7310ec5",
+        "bytes": 4657902,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_11.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP325867.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "481eaa0402c32c7c88cbabfe2afa76f835598c270c9a605fc66f6dbaba7ef0c9",
+        "bytes": 3142979,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_12.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328878.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "3f844f354ad3acbf0b190b279947ebba5762a9331113b3e6de7597dadb4bb443",
+        "bytes": 3277488,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_13.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328873.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "ea71a098d383ac1a10cffa5e3d2923d1fb53e3fe1564e6e407d6baa493b6dfca",
+        "bytes": 4364009,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_14.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328883.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "d257168340038a1e58e73a0af4bc0d51989c388bc16261e6a2cb895ec99563e6",
+        "bytes": 3488380,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_15.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328881.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0892f57815f8cef7524410376fee41b4406735739b2cd3183366ba83b1ab47d3",
+        "bytes": 3194800,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_16.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328884.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "da89e3b1dfd4f88a2cc509c4a300a25cd5d23789be75ee3e06931a9411ce5bde",
+        "bytes": 3399309,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_17.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP328882.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "bd5d28e4ece3c92f8ebeaed51c4e6c81be9945e4c728802850ade2e5dde7ec84",
+        "bytes": 3366937,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452188_18.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:21:09.442081+00:00",
+    "raw": {
+      "objectID": 452188,
+      "isHighlight": false,
+      "accessionNumber": "1970.302.3",
+      "accessionYear": "1970",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP328877.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP328877.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/195205.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328872.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328876.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328874.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328871.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328880.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328879.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328885.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328868.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328870.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328875.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP325867.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328878.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328873.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328883.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328881.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328884.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/DP328882.jpg"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Carpet fragment",
+      "title": "Carpet Fragment",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "17th–18th century",
+      "objectBeginDate": 1600,
+      "objectEndDate": 1799,
+      "medium": "Cotton (warp and weft), silk (weft), wool (pile); asymmetrically knotted pile",
+      "dimensions": "L. 107 in. (271.8 cm)\r\nW. 48 7/16 in. (123.1 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Width": 123.1
+          }
+        },
+        {
+          "elementName": "Length",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Length": 271.78055
+          }
+        }
+      ],
+      "creditLine": "Gift of Joseph V. McMullan, 1970",
+      "geographyType": "Attributed to",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles-Rugs",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-01-30T04:54:21.21Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/452188",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "met-452365",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "452365",
+      "object_url": "https://www.metmuseum.org/art/collection/search/452365",
+      "iiif_manifest": null,
+      "credit_line": "Fletcher Fund, 1972",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1972.26",
+      "accession_year": "1972"
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Iran",
+      "ethnicity": "Persian",
+      "tradition": "general",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a Safavid-era silk/velvet fragment with a repeating bird-and-flower design, a classic Persian textile design from Kashan, consistent with the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile"
+    },
+    "physical": {
+      "title": "Velvet Fragment with Bird and Flower Design",
+      "titles_alt": [],
+      "date_text": "second half 16th century",
+      "date_earliest": 1550,
+      "date_latest": 1599,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Silk",
+        "cut and voided velvet",
+        "with continuous floats of flat metal thread"
+      ],
+      "techniques": [],
+      "medium_raw": "Silk; cut and voided velvet, with continuous floats of flat metal thread",
+      "classification": "Textiles",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "Textile: H. 21 7/16 in. (54.5 cm)\r\n            W. 13 3/8 in. (33.9 cm)\r\nMount: H. 26 1/2 in. (67.3 cm)\r\n            W. 18 in. (45.7 cm)\r\n            D. 1 in. (2.5 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Kashan, Iran",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116280998",
+      "aat_urls": [
+        "http://vocab.getty.edu/page/aat/300266506",
+        "http://vocab.getty.edu/page/aat/300132399"
+      ],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/DP229994.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4012474e4909c40c7081c056a0560ef4227b96a55b95cee93ed91ae22df23691",
+        "bytes": 3920805,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/197646.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "0dc701b8a652e0e568e06fe49f1ab47791dc72cd4bce20dec3adbec574159917",
+        "bytes": 166365,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365_1.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "7c5448d7b9bdd3b6d5a4cb8ecc57ec2820dcfab51394517e723d356c52c5bc0d",
+        "bytes": 244561,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365_2.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26b.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "034ed4b81bcd26753c46d84c282beccc076d22948dfb19ea444c9dc083fe7b4e",
+        "bytes": 812559,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365_3.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26c.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "e1ac37dec1fb7bf01475b9e951bce9e1ee8d24650f436fa741996b8c5cc5d60b",
+        "bytes": 660520,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365_4.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26d.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "515d3cb2b2f0f5accd134cd72318011ca5b69d578846487eb048c1833d7cbce2",
+        "bytes": 254775,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365_5.jpg"
+      },
+      {
+        "url": "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26e.JPG",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "cea84b25722dbb6e1a2845982988eb3435dc8458c13bae8a5bd4aa2a04ba2c53",
+        "bytes": 491873,
+        "local_path": "library\\middle-east-north-africa\\iran\\persian\\textile\\general\\images\\met_452365_6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-23T20:22:14.527173+00:00",
+    "raw": {
+      "objectID": 452365,
+      "isHighlight": false,
+      "accessionNumber": "1972.26",
+      "accessionYear": "1972",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP229994.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP229994.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/is/original/197646.jpg",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26b.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26c.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26d.JPG",
+        "https://images.metmuseum.org/CRDImages/is/original/wb-1972.26e.JPG"
+      ],
+      "constituents": null,
+      "department": "Islamic Art",
+      "objectName": "Textile fragment",
+      "title": "Velvet Fragment with Bird and Flower Design",
+      "culture": "",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "second half 16th century",
+      "objectBeginDate": 1550,
+      "objectEndDate": 1599,
+      "medium": "Silk; cut and voided velvet, with continuous floats of flat metal thread",
+      "dimensions": "Textile: H. 21 7/16 in. (54.5 cm)\r\n            W. 13 3/8 in. (33.9 cm)\r\nMount: H. 26 1/2 in. (67.3 cm)\r\n            W. 18 in. (45.7 cm)\r\n            D. 1 in. (2.5 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": "Textile",
+          "elementMeasurements": {
+            "Height": 54.5,
+            "Width": 33.9
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": "Mount",
+          "elementMeasurements": {
+            "Depth": 2.54,
+            "Height": 67.3101,
+            "Width": 45.7201
+          }
+        }
+      ],
+      "creditLine": "Fletcher Fund, 1972",
+      "geographyType": "Attributed to",
+      "city": "Kashan",
+      "state": "",
+      "county": "",
+      "country": "Iran",
+      "region": "",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Textiles",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-05-02T04:50:40.06Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/452365",
+      "tags": [
+        {
+          "term": "Birds",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+        },
+        {
+          "term": "Flowers",
+          "AAT_URL": "http://vocab.getty.edu/page/aat/300132399",
+          "Wikidata_URL": "https://www.wikidata.org/wiki/Q506"
+        }
+      ],
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q116280998",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  }
+]

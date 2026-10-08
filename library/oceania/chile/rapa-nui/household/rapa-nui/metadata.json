@@ -1,0 +1,678 @@
+[
+  {
+    "id": "met-312002",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "312002",
+      "object_url": "https://www.metmuseum.org/art/collection/search/312002",
+      "iiif_manifest": null,
+      "credit_line": "The Michael C. Rockefeller Memorial Collection, Gift of Mrs.Gertrud A. Mellon, 1972",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1978.412.1571",
+      "accession_year": "1978"
+    },
+    "cultural": {
+      "region": "oceania",
+      "country": "Chile",
+      "ethnicity": "Rapa Nui",
+      "tradition": "Rapa Nui",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This shows a wooden rapa (dance paddle) with a carved anthropomorphic head at the top, a classic Rapa Nui ceremonial dance implement used in traditional performance.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Rapa (dance paddle)",
+      "titles_alt": [],
+      "date_text": "early 19th century",
+      "date_earliest": 1800,
+      "date_latest": 1850,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Wood"
+      ],
+      "techniques": [],
+      "medium_raw": "Wood",
+      "classification": "Wood-Sculpture",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 28 1/4 × W. 6 1/4 × D. 5/8 in. (71.8 × 15.9 × 1.6 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Rapa Nui (Easter Island), Chile",
+      "made_in_place_alt": [],
+      "current_gallery": "352",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Rapa Nui artist",
+          "role": "Artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97384306",
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP-23826-001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ed8bbe3a5192f2de434a2905090d52ed188cb733f16cd50b5da2c7b968955867",
+        "bytes": 1019256,
+        "local_path": "library\\oceania\\chile\\rapa-nui\\household\\rapa-nui\\images\\met_312002.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:48:51.349417+00:00",
+    "raw": {
+      "objectID": 312002,
+      "isHighlight": false,
+      "accessionNumber": "1978.412.1571",
+      "accessionYear": "1978",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP-23826-001.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP-23826-001.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/ao/original/DP-23826-002.jpg"
+      ],
+      "constituents": [
+        {
+          "constituentID": 224354,
+          "role": "Artist",
+          "name": "Rapa Nui artist",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Paddle",
+      "title": "Rapa (dance paddle)",
+      "culture": "Rapa Nui people",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Rapa Nui artist",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "Rapa Nui artist",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "early 19th century",
+      "objectBeginDate": 1800,
+      "objectEndDate": 1850,
+      "medium": "Wood",
+      "dimensions": "H. 28 1/4 × W. 6 1/4 × D. 5/8 in. (71.8 × 15.9 × 1.6 cm)",
+      "measurements": [
+        {
+          "elementName": "Other",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 1.27
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 71.755,
+            "Width": 15.54
+          }
+        },
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 1.5875032,
+            "Height": 71.75514,
+            "Width": 15.875031
+          }
+        }
+      ],
+      "creditLine": "The Michael C. Rockefeller Memorial Collection, Gift of Mrs.Gertrud A. Mellon, 1972",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Chile",
+      "region": "Rapa Nui (Easter Island)",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Wood-Sculpture",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-03-27T04:56:00.513Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/312002",
+      "tags": null,
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q97384306",
+      "isTimelineWork": true,
+      "GalleryNumber": "352"
+    }
+  },
+  {
+    "id": "europeana-91627_SMVK_EM_fotografi_2869441",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of Ethnography",
+      "object_id": "91627_SMVK_EM_fotografi_2869441",
+      "object_url": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2869441?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "oceania",
+      "country": "Chile",
+      "ethnicity": "Rapa Nui",
+      "tradition": "Rapa Nui",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A museum studio photo of a set of carved wooden paddles/clubs with carved head finials (ao, rapa, and ua-type staffs), documented as collected on Easter Island during the Vanadis voyage of 1883-85 — these are classic Rapa Nui carved wooden implements.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "fotografi, photograph",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of Ethnography",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/2869445/7-395_bearb.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9735b06449cf3b570048e9d39bd3cfd70fcdbe03351dadbcf746f0a6ca286058",
+        "bytes": 149358,
+        "local_path": "library\\oceania\\chile\\rapa-nui\\household\\rapa-nui\\images\\eu_91627_SMVK_EM_fotografi_2869441.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2869445%2F7-395_bearb.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:48:51.882423+00:00",
+    "raw": {
+      "id": "/91627/SMVK_EM_fotografi_2869441",
+      "guid": "https://www.europeana.eu/item/91627/SMVK_EM_fotografi_2869441?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "fotografi, photograph"
+      ],
+      "dcCreator": [
+        "Ekholm, Oscar"
+      ],
+      "dcDescription": [
+        "7-395 1884-03 [?] Easter Island Rapanui Rapa Nui Isla de Pascua Vanadis - 03 Chile och Peru Easter Island Klubbor, stavar och paddlar (?). Från Påskön och Nya Zeeland? Vanadis världsomsegling (1883-1885)"
+      ],
+      "dataProvider": [
+        "Museum of Ethnography"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-em%2Fweb%2Fimage%2Fzoom%2F2869445%2F7-395_bearb.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-em/web/image/zoom/2869445/7-395_bearb.jpg"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Чили"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Чили"
+        },
+        {
+          "def": "Čilė"
+        },
+        {
+          "def": "Čīle"
+        },
+        {
+          "def": "Čile"
+        },
+        {
+          "def": "Chili"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Čile"
+        },
+        {
+          "def": "Čile"
+        },
+        {
+          "def": "An tSile"
+        },
+        {
+          "def": "Xile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Χιλή"
+        },
+        {
+          "def": "Ċilì"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Cile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Tšiili"
+        },
+        {
+          "def": "Txile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Chile"
+        },
+        {
+          "def": "Chili"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "met-320134",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "320134",
+      "object_url": "https://www.metmuseum.org/art/collection/search/320134",
+      "iiif_manifest": null,
+      "credit_line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1979.206.1452",
+      "accession_year": "1979"
+    },
+    "cultural": {
+      "region": "oceania",
+      "country": "Chile",
+      "ethnicity": "Rapa Nui",
+      "tradition": "Rapa Nui",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is a classic Rapa Nui carved wooden Rapa dance paddle, with the characteristic two-faced ovoid head and elongated handle—an object distinctive of Rapa Nui material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 5,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Dance Paddle (Rapa)",
+      "titles_alt": [],
+      "date_text": "early 19th century",
+      "date_earliest": 1800,
+      "date_latest": 2000,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Wood"
+      ],
+      "techniques": [],
+      "medium_raw": "Wood",
+      "classification": "Wood-Sculpture",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 32 7/8 x W. 6  in. (90 x 15.2 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Rapa Nui (Easter Island), Chile",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": false
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.1452_front.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "84eaa98664f32ca98154eb6bba2fbf31854e64785b68f25331f856c802f39af3",
+        "bytes": 207177,
+        "local_path": "library\\oceania\\chile\\rapa-nui\\household\\rapa-nui\\images\\met_320134.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:48:53.881830+00:00",
+    "raw": {
+      "objectID": 320134,
+      "isHighlight": false,
+      "accessionNumber": "1979.206.1452",
+      "accessionYear": "1979",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.1452_front.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/1979.206.1452_front.jpg",
+      "additionalImages": [
+        "https://images.metmuseum.org/CRDImages/ao/original/220292.jpg"
+      ],
+      "constituents": null,
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Dance paddle",
+      "title": "Dance Paddle (Rapa)",
+      "culture": "Rapa Nui people",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "",
+      "artistPrefix": "",
+      "artistDisplayName": "",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "early 19th century",
+      "objectBeginDate": 1800,
+      "objectEndDate": 2000,
+      "medium": "Wood",
+      "dimensions": "H. 32 7/8 x W. 6  in. (90 x 15.2 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Width": 7.5
+          }
+        }
+      ],
+      "creditLine": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Chile",
+      "region": "Rapa Nui (Easter Island)",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Wood-Sculpture",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2025-12-20T04:50:39.43Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/320134",
+      "tags": null,
+      "objectWikidata_URL": "",
+      "isTimelineWork": false,
+      "GalleryNumber": ""
+    }
+  },
+  {
+    "id": "europeana-91609_SMVK_VKM_fotografi_1315531",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91609_SMVK_VKM_fotografi_1315531",
+      "object_url": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1315531?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "oceania",
+      "country": "Chile",
+      "ethnicity": "Rapa Nui",
+      "tradition": "Rapa Nui",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a plaited bag made from Scirpus (sedge) fiber, documented as from Rapa Nui (Easter Island) and collected there, a plausible traditional craft object of the Rapa Nui people despite being labeled \"photo.\"",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "objects, plait bag, bag, photograph, ph",
+      "titles_alt": [],
+      "date_text": "1960",
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1316022/image.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ebcb02e9d9eda6dde90bab257888bbd01cd93a60be7987fb57cf6325634a0737",
+        "bytes": 81809,
+        "local_path": "library\\oceania\\chile\\rapa-nui\\household\\rapa-nui\\images\\eu_91609_SMVK_VKM_fotografi_1315531.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1316022%2Fimage.jpg&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:48:54.449643+00:00",
+    "raw": {
+      "id": "/91609/SMVK_VKM_fotografi_1315531",
+      "guid": "https://www.europeana.eu/item/91609/SMVK_VKM_fotografi_1315531?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "objects, plait bag, bag, photograph, ph",
+        "föremål, flätpåse, påse, fotografi, photograph"
+      ],
+      "dcCreator": [
+        "Fuel Current, Olof",
+        "Brändström, Olof"
+      ],
+      "dcDescription": [
+        "Rapa Nui Chile 018035 Amerika Rapa Nui Chile Motiv: Flätad påse av Scirpus ripar var. paschalis. (Kükenthal). Lokal: Påskön. Foto: J.Brändström, 60-talet. Erh: till arkivet, 3/12 1970. (katalogkort). 018035 Amerika Rapa Nui Chile"
+      ],
+      "year": [
+        "1960"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1316022%2Fimage.jpg&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1316022/image.jpg"
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

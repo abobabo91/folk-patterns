@@ -1,0 +1,1578 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36090",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36090",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36090?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A handmade earthenware pot with incised decoration, collected directly from the Babembe (Bembe) people in French Congo by missionary Efraim Andersson in 1938 — a clear match for the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "gryta, Lergryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082117/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9c58eff1b4b0060cb943d8975d0127c884ce590525288812d23c95efcd5fd6f0",
+        "bytes": 54709,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36090.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082117%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:45.013946+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36090",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36090?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "gryta, Lergryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0060 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 25,5 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Alla kort mellan 1938.23.0057-0072 har fel gen. nr. Numren börjar på 56 istället för 60, t.ex. samling nr. 1938.23.0057 har gen. 56000 på kortet istället för som i katalogen 60000 vidare har 1938.23.005"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082117%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082117/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36070",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36070",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36070?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a globular clay water/beer jug with incised geometric decoration, collected among the Babembe (Bembe) in the former French Congo by missionary Efraim Andersson in 1938 — a documented traditional-use vessel made by this people.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Lerkaraff, kärl: karaff, yuku",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082094/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8a324d50e52a373de303b9a0b1a4b1ec39aa47ad37e697c638f3b07a952e4a3b",
+        "bytes": 32617,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36070.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082094%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:45.486453+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36070",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36070?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lerkaraff, kärl: karaff, yuku"
+      ],
+      "dcDescription": [
+        "1938.23.0050 Byn Muleke Byn Muleke, Franska Kongo. skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Yku, lerkaraff. Höjd: 16 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Årsberättelse 1938, Årstryck 1939, Göteborgs museum"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082094%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082094/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36074",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36074",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36074?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "Handmade dark clay pot with incised crosshatch decoration around the shoulder, collected among the Bembe (Babembe) of French Congo by missionary Efraim Andersson in 1938 — a clear example of traditional Bembe pottery.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "gryta, Lergryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082105/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c3a27ffdbb7aae977189fc4628be28809ff24576a13b58a72a491a2141b068ac",
+        "bytes": 58606,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36074.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082105%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:46.084566+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36074",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36074?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "gryta, Lergryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0056 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 23 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Årsberättelse 1938, Årstryck 1939, Göteborgs museum"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082105%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082105/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36092",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36092",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36092?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A large handmade clay storage pot with incised decorative bands, collected directly from the Babembe (Bembe) people in the former French Congo by missionary Efraim Andersson — a clear, well-documented example of their pottery.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "gryta, Lergryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082121/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "10756696e64bc1133d76be3fd9e6706654c075ae98a143a5600dddfcc542d74a",
+        "bytes": 56556,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36092.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082121%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:46.656676+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36092",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36092?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "gryta, Lergryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0061 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 26 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Alla kort mellan 1938.23.0057-0072 har fel gen. nr. Numren börjar på 56 istället för 60, t.ex. samling nr. 1938.23.0057 har gen. 56000 på kortet istället för som i katalogen 60000 vidare har 1938.23.0058 "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082121%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082121/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36093",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36093",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36093?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a handmade earthenware cooking pot with incised triangular/hatched decoration around the rim, collected by missionary Efraim Andersson from the Babembe (Bembe) people of French Congo, matching the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Lergryta, gryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082125/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "058087a6bd2bbceb3a32b65d41e034316b5c20f22c24e9b5e347448ad1a09532",
+        "bytes": 48325,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36093.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082125%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:47.204489+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36093",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36093?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lergryta, gryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0062 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 21 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Alla kort mellan 1938.23.0057-0072 har fel gen. nr. Numren börjar på 56 istället för 60, t.ex. samling nr. 1938.23.0057 har gen. 56000 på kortet istället för som i katalogen 60000 vidare har 1938.23.0058 "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082125%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082125/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36075",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36075",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36075?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A handmade earthenware cooking pot collected among the Babembe (Bembe) people of the former French Congo by missionary Efraim Andersson in 1938; this is exactly the kind of traditional utilitarian ceramic plausibly attributed to this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "Lergryta, gryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082110/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b393ab4637c51f4883cfa755336b6528b865b697b9dfb66de63e2fe37c83e0df",
+        "bytes": 21136,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36075.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082110%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:47.750024+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36075",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36075?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lergryta, gryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0057 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Folkrep. Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 21 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Utställt \"Former för måltiden\" 1974 Röhsska. Alla kort mellan 1938.23.0057-0072 har fel gen. nr. Numren börjar på 56 istället för 60, t.ex. samling nr. 1938.23.0057 har gen. 56000 på kortet"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082110%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082110/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36087",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36087",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36087?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A traditional handmade round-bottomed clay pot with incised decorative band, collected from the Babembe people in French Congo by a missionary in 1938 — a plausible Bembe-made ceramic vessel.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "Lergryta, gryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173986/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2b459c3fa6d99a60cafd1f55ff2d498f038045f8f77c78e9d87f2421291b59e1",
+        "bytes": 31529,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36087.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173986%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:48.240308+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36087",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36087?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "Lergryta, gryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0058 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 20 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Alla kort mellan 1938.23.0057-0072 har fel gen. nr. Numren börjar på 56 istället för 60, t.ex. samling nr. 1938.23.0057 har gen. 56000 på kortet istället för som i katalogen 60000 vidare har 1938.23.0058 "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1173986%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1173986/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_36088",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_36088",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36088?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Bembe",
+      "tradition": "Bembe",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The image shows a handmade clay cooking/storage pot with incised decoration around the shoulder, collected from the Babembe people of French Congo by a missionary in 1938 — a plausible traditional ceramic vessel made and used by this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": false
+    },
+    "physical": {
+      "title": "gryta, Lergryta, Bisa",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082113/zoom",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "89bf43a988c147f2b758c5f2b4bf7a9d398a38e6129cefcc97ddd171c86f96f8",
+        "bytes": 50320,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\bembe\\ceramic\\bembe\\images\\eu_91608_SMVK_VKM_objekt_36088.jpg",
+        "fallback_url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082113%2Fzoom&type=IMAGE"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:21:48.762174+00:00",
+    "raw": {
+      "id": "/91608/SMVK_VKM_objekt_36088",
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_36088?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "title": [
+        "gryta, Lergryta, Bisa"
+      ],
+      "dcDescription": [
+        "1938.23.0059 Byn Kolo Byn Kolo, Franska Kongo skiss babembe, Franska Kongo Franska Kongo Republic of the Congo Babembe Bembe People (Congo (Brazzaville)) Bembe (Kongo) Beembe Bisa, lergryta el. -kruka.  Höjd: 22 cm.\n\nFrån Babembe i Franska Kongo, Västafrika. Insamlad av \nmissionären Efraim Andersson, Lund, och i augusti 1938 av honom överlämnad till museet. Gåva av Efraim Andersson, Lund 1938 Alla kort mellan 1938.23.0057-0072 har fel gen. nr. Numren börjar på 56 istället för 60, t.ex. samling nr. 1938.23.0057 har gen. 56000 på kortet istället för som i katalogen 60000 vidare har 1938.23.0058 "
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1082113%2Fzoom&type=IMAGE"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1082113/zoom"
+      ],
+      "edmPlaceLabel": [
+        {
+          "def": "Republik Kongo"
+        },
+        {
+          "def": "Республика Конго"
+        },
+        {
+          "def": "Kongon tasavalta"
+        },
+        {
+          "def": "República do Congo"
+        },
+        {
+          "def": "Република Конго"
+        },
+        {
+          "def": "Kongo Respublika"
+        },
+        {
+          "def": "Republika Kongo"
+        },
+        {
+          "def": "Kongo Republika"
+        },
+        {
+          "def": "République du Congo"
+        },
+        {
+          "def": "Kongói Köztársaság"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Zahodni Kongo"
+        },
+        {
+          "def": "Poblacht an Chongó"
+        },
+        {
+          "def": "República del Congo"
+        },
+        {
+          "def": "Kongo-Brazzaville"
+        },
+        {
+          "def": "Δημοκρατία του Κονγκό"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republic of the Congo"
+        },
+        {
+          "def": "Repubblica del Congo"
+        },
+        {
+          "def": "Congo"
+        },
+        {
+          "def": "Kongo Vabariik"
+        },
+        {
+          "def": "Konžská republika"
+        },
+        {
+          "def": "Kongoko Errepublika"
+        },
+        {
+          "def": "Kongo"
+        },
+        {
+          "def": "Republikken Congo"
+        },
+        {
+          "def": "Republica Congo"
+        },
+        {
+          "def": "Congo-Brazzaville"
+        }
+      ],
+      "country": [
+        "Sweden"
+      ]
+    }
+  }
+]

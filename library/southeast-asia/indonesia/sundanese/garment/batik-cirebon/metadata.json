@@ -1,0 +1,1961 @@
+[
+  {
+    "id": "va-O96456",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O96456",
+      "object_url": "https://collections.vam.ac.uk/item/O96456",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.90-1993",
+      "accession_year": 1993
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Sundanese",
+      "tradition": "batik Cirebon",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "art_form_vision": "garment",
+      "vision_reason": "The picture clearly shows a long batik hip-cloth (kain panjang) with a head panel of triangular lines, a densely patterned red-brown ground field with floral and phoenix-like motifs, and a dark tumpal border — a plausible traditional Javanese/Sundanese batik garment.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "20th century",
+      "date_earliest": 1900,
+      "date_latest": 1999,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "cotton (textile)"
+      ],
+      "techniques": [
+        "batik"
+      ],
+      "medium_raw": "Cotton batik",
+      "classification": "Hip-cloth or kain panjang",
+      "styles": [],
+      "categories": [
+        "Textiles"
+      ],
+      "physical_description": "Cotton hip-cloth or kain panjang decorated with floral and animal motifs in batik",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Java",
+      "made_in_place_alt": [],
+      "current_gallery": "012",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AT8356/full/1000,/0/default.jpg",
+        "iiif_id": "2006AT8356",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8356/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "7268cf5b5e8dc82fc902f9da7dbce17fec105ef7fa02fe0f563fba73f20598a4",
+        "bytes": 217423,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96456.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006AT8355/full/1000,/0/default.jpg",
+        "iiif_id": "2006AT8355",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006AT8355/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "3eba4270df5259f313dcfb437b5a47e63b7c7fe2b71c774dc0fa065c4e7029a3",
+        "bytes": 212987,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96456_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:23.255879+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O96456",
+        "accessionNumber": "IS.90-1993",
+        "objectType": "Hip-cloth or kain panjang",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312097",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": "maker"
+        },
+        "_primaryImageId": "2006AT8356",
+        "_primaryDate": "20th century",
+        "_primaryPlace": "Java",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006AT8356/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006AT8356/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O96456/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O96456",
+        "accessionNumber": "IS.90-1993",
+        "objectType": "Hip-cloth or kain panjang",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Cotton hip-cloth or kain panjang decorated with floral and animal motifs in batik",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "maker",
+              "id": "x40240"
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "cotton (textile)",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "batik",
+            "id": "AAT53050"
+          }
+        ],
+        "materialsAndTechniques": "Cotton batik",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2006AT8356",
+          "2006AT8355"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "012",
+              "id": "THES312097"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Kratonan-style batik",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Java",
+              "id": "x30310"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "20th century",
+              "earliest": "1900-01-01",
+              "latest": "1999-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Textile, cotton batik, Cirebon, Java, Indonesia, 20th century",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.90-1993"
+        ],
+        "accessionNumberNum": "90",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1993,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-30",
+        "recordCreationDate": "2004-03-09",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O96364",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O96364",
+      "object_url": "https://collections.vam.ac.uk/item/O96364",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.29-1960",
+      "accession_year": 1960
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Sundanese",
+      "tradition": "batik Cirebon",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "art_form_vision": "garment",
+      "vision_reason": "A batik cotton sarong with kepala and floral/animal motifs from Cirebon, a well-known Javanese batik centre; batik sarongs are worn across West/Central Java and this is consistent with Sundanese (West Java) dress, though it is not exclusively Sundanese versus other Javanese groups.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "20th century",
+      "date_earliest": 1900,
+      "date_latest": 2000,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "cotton textile"
+      ],
+      "techniques": [
+        "batik"
+      ],
+      "medium_raw": "Waxed and dyed cotton batik",
+      "classification": "Sarong",
+      "styles": [],
+      "categories": [
+        "Clothing",
+        "Textiles"
+      ],
+      "physical_description": "Sarong of waxed and dyed cotton batik. The field is patterned with stylised peacocks, plants, fish and other motifs, repeated on a background of undulating lines. The head (kepala) depicts conventional plant motifs. The cotton field is waxed with the tjanting and dyed indigo and brown on a white ground. The head and borders are waxed with copper blocks and dyed red with white reserved.",
+      "summary": "The field of this cotton batik sarong from Cheribon in northern Java is patterned with stylized birds, plants, fish and other motifs, repeated on a background of undulating lines. The 'head' (kepala) depicts conventional plant motifs.\r\n\r\nBatik is the name given in Indonesia to the process of applying wax resist-dyed patterns to cloth. The origins of batik in Indonesia are still obscure, and it is possible that methods of wax resist have a long history in Indonesia, but the method using the tjanting - a small copper vessel with one or more spouts and a handle of reed or bamboo- to apply the wax to the cloth presupposes the availability of very finely woven cottons, which during the last 150 years have mainly been introduced from Europe and Japan. Cheribon is the second most important centre of batik production in Java after Central Java.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "72.5",
+          "unit": "in",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "44",
+          "unit": "in",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Cirebon",
+      "made_in_place_alt": [],
+      "current_gallery": "020",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2021NA3589/full/1000,/0/default.jpg",
+        "iiif_id": "2021NA3589",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2021NA3589/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "c548ab2d7854353298d4e7c2395e7940fe89617528e1bff53d01113fb4533746",
+        "bytes": 211936,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96364.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2012FM9516/full/1000,/0/default.jpg",
+        "iiif_id": "2012FM9516",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2012FM9516/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "82e35cf36b656d199d950b1cf3d150aba46e1e27f2435b422ac1c8b541a9bdec",
+        "bytes": 469621,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96364_1.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2018KY9272/full/1000,/0/default.jpg",
+        "iiif_id": "2018KY9272",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2018KY9272/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "b956c2efb0567a530467f450fd39979e7d8f2bbfa9588b127c0e00707620cb9b",
+        "bytes": 251303,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96364_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:19.066737+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O96364",
+        "accessionNumber": "IS.29-1960",
+        "objectType": "Sarong",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312105",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2021NA3589",
+        "_primaryDate": "20th century",
+        "_primaryPlace": "Cirebon",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2021NA3589/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2021NA3589/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O96364/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O96364",
+        "accessionNumber": "IS.29-1960",
+        "objectType": "Sarong",
+        "titles": [],
+        "summaryDescription": "The field of this cotton batik sarong from Cheribon in northern Java is patterned with stylized birds, plants, fish and other motifs, repeated on a background of undulating lines. The 'head' (kepala) depicts conventional plant motifs.\r\n\r\nBatik is the name given in Indonesia to the process of applying wax resist-dyed patterns to cloth. The origins of batik in Indonesia are still obscure, and it is possible that methods of wax resist have a long history in Indonesia, but the method using the tjanting - a small copper vessel with one or more spouts and a handle of reed or bamboo- to apply the wax to the cloth presupposes the availability of very finely woven cottons, which during the last 150 years have mainly been introduced from Europe and Japan. Cheribon is the second most important centre of batik production in Java after Central Java.",
+        "physicalDescription": "Sarong of waxed and dyed cotton batik. The field is patterned with stylised peacocks, plants, fish and other motifs, repeated on a background of undulating lines. The head (kepala) depicts conventional plant motifs. The cotton field is waxed with the tjanting and dyed indigo and brown on a white ground. The head and borders are waxed with copper blocks and dyed red with white reserved.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "cotton textile",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "batik",
+            "id": "AAT53050"
+          }
+        ],
+        "materialsAndTechniques": "Waxed and dyed cotton batik",
+        "categories": [
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          },
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2021NA3589",
+          "2012FM9516",
+          "2018KY9272"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "020",
+              "id": "THES312105"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Shoulder cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Cirebon",
+              "id": "THES251140"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "20th century",
+              "earliest": "1900-01-01",
+              "latest": "2000-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "72.5",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "44",
+            "unit": "in",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Sarong of waxed and dyed cotton batik, Cirebon, North Java, 20th century",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.29-1960"
+        ],
+        "accessionNumberNum": "29",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1960,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-06-22",
+        "recordCreationDate": "2004-03-07",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O96703",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O96703",
+      "object_url": "https://collections.vam.ac.uk/item/O96703",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.144-1984",
+      "accession_year": 1984
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Sundanese",
+      "tradition": "batik Cirebon",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "art_form_vision": "garment",
+      "vision_reason": "A classic batik kain panjang from Cirebon with tumpal borders and floral/bird motifs showing Chinese and Indian influence — a traditional Javanese-coast batik garment; Cirebon is a coastal Sundanese/Javanese cultural area where such batik is made and worn, consistent with the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "late 19th century",
+      "date_earliest": 1850,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Cotton"
+      ],
+      "techniques": [
+        "batik"
+      ],
+      "medium_raw": "Cotton batik",
+      "classification": "Skirt cloth",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Clothing"
+      ],
+      "physical_description": "Skirt cloth (Kain panjang) of cotton with a batik design. The field or body (badan) of the cloth has a cream ground with a design in blue and red which consists of a nearly symmetrical design of flowering trees with birds, butterflies and dancing imps, both showing Indian and Chinese influences. The borders at each end are in contrasting colours: one has a panel with a blue ground with birds and flowers and the end section with a tumpal (triangle) design against a red ground; and the other end has a panel with a cream ground with end section with a tumpal against an indigo ground. The borders at the bottom (which has a narrow band and a wavy band) and the top (which has a narrow band only) change ground colour half way through the cloth. Machine-made tabby weave cotton.",
+      "summary": "The design of this batik skirt cloth, probably made in Cirebon on the north coast of Java, reflects the multiple influences on this centre of batik production. Cirebon was a centre of the Islamic faith from the 16th century onwards. Art forms produced in Cirebon exhibited motifs with Muslim Middle Eastern or Mughal Indian origins blended with early designs drawn from Hindu and pre-Hindu traditions. After the town came under the control of the Dutch East India Company and then the Dutch government from the late 18th century onwards, other influences came into play. The Dutch encouraged a Chinese entrepreneurial and bureaucratic class to develop, and as they adopted the local style of dress their own patterns and colour preferences began to influence the design of batik. This batik reflects both Indian and Chinese influence in its colours and design structure.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "245",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "106",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Cirebon",
+      "made_in_place_alt": [],
+      "current_gallery": "019",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BG5482/full/1000,/0/default.jpg",
+        "iiif_id": "2006BG5482",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BG5482/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "60a7973490ed4f99aa1596e32869bde70112ec9d3d210d9cc55b19c525d277a8",
+        "bytes": 527075,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96703.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BF9455/full/1000,/0/default.jpg",
+        "iiif_id": "2006BF9455",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9455/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "363717c0b6640f32d5bd1716c7a1895a6bd5b291c74e7c2ab05912e952b7bb08",
+        "bytes": 381131,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96703_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:04.901834+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O96703",
+        "accessionNumber": "IS.144-1984",
+        "objectType": "Skirt cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312104",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006BG5482",
+        "_primaryDate": "late 19th century",
+        "_primaryPlace": "Cirebon",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BG5482/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BG5482/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O96703/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O96703",
+        "accessionNumber": "IS.144-1984",
+        "objectType": "Skirt cloth",
+        "titles": [],
+        "summaryDescription": "The design of this batik skirt cloth, probably made in Cirebon on the north coast of Java, reflects the multiple influences on this centre of batik production. Cirebon was a centre of the Islamic faith from the 16th century onwards. Art forms produced in Cirebon exhibited motifs with Muslim Middle Eastern or Mughal Indian origins blended with early designs drawn from Hindu and pre-Hindu traditions. After the town came under the control of the Dutch East India Company and then the Dutch government from the late 18th century onwards, other influences came into play. The Dutch encouraged a Chinese entrepreneurial and bureaucratic class to develop, and as they adopted the local style of dress their own patterns and colour preferences began to influence the design of batik. This batik reflects both Indian and Chinese influence in its colours and design structure.",
+        "physicalDescription": "Skirt cloth (Kain panjang) of cotton with a batik design. The field or body (badan) of the cloth has a cream ground with a design in blue and red which consists of a nearly symmetrical design of flowering trees with birds, butterflies and dancing imps, both showing Indian and Chinese influences. The borders at each end are in contrasting colours: one has a panel with a blue ground with birds and flowers and the end section with a tumpal (triangle) design against a red ground; and the other end has a panel with a cream ground with end section with a tumpal against an indigo ground. The borders at the bottom (which has a narrow band and a wavy band) and the top (which has a narrow band only) change ground colour half way through the cloth. Machine-made tabby weave cotton.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "Cotton",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "batik",
+            "id": "AAT53050"
+          }
+        ],
+        "materialsAndTechniques": "Cotton batik",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2006BG5482",
+          "2006BF9455"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "019",
+              "id": "THES312104"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Skirt cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Cirebon",
+              "id": "THES251140"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "probably"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "late 19th century",
+              "earliest": "1850-01-01",
+              "latest": "1900-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "245",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "106",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Skirt cloth (Kain panjang) of cotton batik, probably made in Cirebon for export to Sumatra, Java, late 19th century",
+        "bibliographicReferences": [
+          {
+            "reference": {
+              "text": "The V&A Album, 5, London: 1986 Number: ISBN 1851770771",
+              "id": "AUTH353750"
+            },
+            "details": "Swallow, Deborah, A Singular Substitute, pps.  156-164 ",
+            "free": ""
+          }
+        ],
+        "production": "Probably to have been made in Cirebon on the north coast of Java, Indonesia",
+        "productionType": {
+          "text": "Unique",
+          "id": "THES48864"
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.144-1984"
+        ],
+        "accessionNumberNum": "144",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1984,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-06-22",
+        "recordCreationDate": "2004-03-12",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O96458",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O96458",
+      "object_url": "https://collections.vam.ac.uk/item/O96458",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.117-1983",
+      "accession_year": 1983
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Sundanese",
+      "tradition": "batik Cirebon",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "art_form_vision": "garment",
+      "vision_reason": "The picture shows a full cream-ground batik cloth densely covered with an all-over vine, floral and mythological-bird motif in maroon tones, a typical Cirebon-style kain panjang; nothing contradicts the Sundanese/Java attribution.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "1875-1900",
+      "date_earliest": 1875,
+      "date_latest": 1900,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Cotton"
+      ],
+      "techniques": [
+        "Batik"
+      ],
+      "medium_raw": "Cotton batik",
+      "classification": "Skirt cloth",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Womenswear"
+      ],
+      "physical_description": "Skirt cloth (<i>kain panjang</i>) of cotton batik. Batik on a cotton mill cloth with a cream ground and an overall pattern of mythological birds amongst flowering vines and tendrils, in maroon and deep maroon. The pattern is framed with a single line 0.5 inch thick within the outer edge of cloth.",
+      "summary": "This batik skirt cloth or <i>kain panjang</i> is of cotton mill cloth and has a cream ground with an overall pattern of mythological birds among flowering vines and tendrils. It was made in Cirebon on the north coast of Java in the late 19th century.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "246.4",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "104.1",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Cirebon",
+      "made_in_place_alt": [],
+      "current_gallery": "019",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BF9269/full/1000,/0/default.jpg",
+        "iiif_id": "2006BF9269",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9269/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "99ef8438fd6fd80843b866a72568882555d07c185f5488efbefc4e00d064c4a4",
+        "bytes": 315605,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96458.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2017JX7705/full/1000,/0/default.jpg",
+        "iiif_id": "2017JX7705",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2017JX7705/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "0014a5b2a1dcdcb83c449d42601f48786eb84a84d9d4e2324c58c70343248745",
+        "bytes": 407438,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96458_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:10.414430+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O96458",
+        "accessionNumber": "IS.117-1983",
+        "objectType": "Skirt cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312104",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006BF9269",
+        "_primaryDate": "1875-1900",
+        "_primaryPlace": "Cirebon",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BF9269/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BF9269/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O96458/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O96458",
+        "accessionNumber": "IS.117-1983",
+        "objectType": "Skirt cloth",
+        "titles": [],
+        "summaryDescription": "This batik skirt cloth or <i>kain panjang</i> is of cotton mill cloth and has a cream ground with an overall pattern of mythological birds among flowering vines and tendrils. It was made in Cirebon on the north coast of Java in the late 19th century.",
+        "physicalDescription": "Skirt cloth (<i>kain panjang</i>) of cotton batik. Batik on a cotton mill cloth with a cream ground and an overall pattern of mythological birds amongst flowering vines and tendrils, in maroon and deep maroon. The pattern is framed with a single line 0.5 inch thick within the outer edge of cloth.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "Cotton",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "Batik",
+            "id": "AAT53050"
+          }
+        ],
+        "materialsAndTechniques": "Cotton batik",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Womenswear",
+            "id": "THES49044"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2006BF9269",
+          "2017JX7705"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "019",
+              "id": "THES312104"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Skirt cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Cirebon",
+              "id": "THES251140"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "1875-1900",
+              "earliest": "1875-01-01",
+              "latest": "1900-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "246.4",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "104.1",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Skirt cloth (<i>kain panjang</i>) of cotton batik, Cirebon, Java, 1875-1900",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.117-1983"
+        ],
+        "accessionNumberNum": "117",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1983,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2026-06-10",
+        "recordCreationDate": "2004-03-09",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O96700",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O96700",
+      "object_url": "https://collections.vam.ac.uk/item/O96700",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.147-1984",
+      "accession_year": 1984
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Sundanese",
+      "tradition": "batik Cirebon",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "art_form_vision": "garment",
+      "vision_reason": "This is a batik kain panjang (skirt cloth) from Cirebon, a well-known Javanese batik center; the fine dense floral, tumpal, and animal motifs are typical coastal Javanese batik. Cirebon is not a Sundanese cultural center in the batik tradition sense but a Javanese-Sundanese coastal port; batik of this refined type is generally attributed to Javanese/coastal batik culture, though Sundanese communities in West Java also produced and used such cloths, so it remains plausible for the claimed group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "early 20th century",
+      "date_earliest": 1900,
+      "date_latest": 1950,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Cotton"
+      ],
+      "techniques": [
+        "Batik"
+      ],
+      "medium_raw": "Cotton batik",
+      "classification": "Skirt cloth",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Clothing"
+      ],
+      "physical_description": "Skirt cloth (Kain panjang) of batik on machine made tabby weave cotton cloth. With a design in the main field which consists of alternate rows of blue and cream diamonds, each with an individualised bird or crayfish design. The body of the cloth is flanked by two end panels with contrasting grounds of blue, red and white, including a rectangular section with bird and crayfish designs, rows of tumpal or triangle designs and, at the end, scattered floral motifs.",
+      "summary": "Batik is the name given in Indonesia to the process of applying resist-dyed patterns to cloth. Batik patterned cloths are worn by both men and women in Java, the <i>kain panjang</i> being the skirt or waist cloth worn by men.   \r\n\r\nThe main centres of production were the areas around the Sultanates of Surakarta and Jogyakarta or Yogyakarta in central Java, and the coastal areas of Cirebon, Indramayu, Pekalongan and Lasem in the north and the area around Garut in western Java. Colour combinations of blue and white, red and white, and red and blue, as found in this example,  which was probably made in Cirebon, were common in batik cloths from the northern coastal area which had always been subject to considerable influence from external trade, both from the east (China) and the west (India).",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "164",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "104",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Cirebon",
+      "made_in_place_alt": [],
+      "current_gallery": "022",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BF9451/full/1000,/0/default.jpg",
+        "iiif_id": "2006BF9451",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9451/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "1f10e393a22daea58e8aeb21da3f06aa5966483d4644bc879476a7286a7361b7",
+        "bytes": 144797,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96700.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:12.763713+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O96700",
+        "accessionNumber": "IS.147-1984",
+        "objectType": "Skirt cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312107",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006BF9451",
+        "_primaryDate": "early 20th century",
+        "_primaryPlace": "Cirebon",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BF9451/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BF9451/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O96700/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O96700",
+        "accessionNumber": "IS.147-1984",
+        "objectType": "Skirt cloth",
+        "titles": [],
+        "summaryDescription": "Batik is the name given in Indonesia to the process of applying resist-dyed patterns to cloth. Batik patterned cloths are worn by both men and women in Java, the <i>kain panjang</i> being the skirt or waist cloth worn by men.   \r\n\r\nThe main centres of production were the areas around the Sultanates of Surakarta and Jogyakarta or Yogyakarta in central Java, and the coastal areas of Cirebon, Indramayu, Pekalongan and Lasem in the north and the area around Garut in western Java. Colour combinations of blue and white, red and white, and red and blue, as found in this example,  which was probably made in Cirebon, were common in batik cloths from the northern coastal area which had always been subject to considerable influence from external trade, both from the east (China) and the west (India).",
+        "physicalDescription": "Skirt cloth (Kain panjang) of batik on machine made tabby weave cotton cloth. With a design in the main field which consists of alternate rows of blue and cream diamonds, each with an individualised bird or crayfish design. The body of the cloth is flanked by two end panels with contrasting grounds of blue, red and white, including a rectangular section with bird and crayfish designs, rows of tumpal or triangle designs and, at the end, scattered floral motifs.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "Cotton",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "Batik",
+            "id": "AAT53050"
+          }
+        ],
+        "materialsAndTechniques": "Cotton batik",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2006BF9451"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "022",
+              "id": "THES312107"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Skirt cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Cirebon",
+              "id": "THES251140"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "possibly"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "early 20th century",
+              "earliest": "1900-01-01",
+              "latest": "1950-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "164",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "104",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Skirt cloth (Kain panjang) of cotton batik, possibly made in Cirebon, Java, early 20th century",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "Unique",
+          "id": "THES48864"
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.147-1984"
+        ],
+        "accessionNumberNum": "147",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1984,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2004-03-12",
+        "availableToBook": true
+      }
+    }
+  },
+  {
+    "id": "va-O96701",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O96701",
+      "object_url": "https://collections.vam.ac.uk/item/O96701",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "IS.146-1984",
+      "accession_year": 1984
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Indonesia",
+      "ethnicity": "Sundanese",
+      "tradition": "batik Cirebon",
+      "art_form": "garment",
+      "pattern_density": 2,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": false,
+      "art_form_vision": "garment",
+      "vision_reason": "This is a classic central Javanese-style batik kain panjang (pagi-sore, kebun binatang design) from Surakarta, a Central Javanese (not Sundanese) tradition; it is misattributed to the Sundanese ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "southeast-asia__indonesia__javanese",
+        "people": "Javanese",
+        "belongs": true,
+        "art_form": "garment",
+        "image": "good",
+        "era": "traditional",
+        "reason": "The image shows a batik kain panjang with classic central Javanese motifs (tumpal borders, kawung-like diamond lattice with animal garden figures, pagi-sore layout), matching the claimed Javanese batik tradition of Surakarta."
+      }
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "first half 20th century",
+      "date_earliest": 1900,
+      "date_latest": 1950,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Cotton"
+      ],
+      "techniques": [
+        "Batik"
+      ],
+      "medium_raw": "Cotton batik",
+      "classification": "Skirt cloth",
+      "styles": [],
+      "categories": [
+        "Textiles",
+        "Clothing"
+      ],
+      "physical_description": "Skirt cloth (Kain panjang) with a batik pattern on machine made tabby weave cotton cloth. The basic structure of the design consists of a ground with a loose  patchwork of traditional central Javanese designs. Superimposed on that background is a menagerie of wild animals and birds (elephants, leopards or tigers, deer, swan-like birds), a type of design known as kebun binatang or animal garden. The whole design direction is reversed half way through the cloth, making it technically a cloth of the type known as pagi-sore or morning-evening cloth.",
+      "summary": "Batik is the Indonesian name for the process of applying resist-dyed patterns to cloth. The principal places of manufacture are the areas around the Sultanates of Surakarta and Yogyakarta in central Java, some of the coastal towns of the north, such as Cirebon, Lasem, Pekalongan and Indramayu, and the area around Garut in western Java. The traditional batiks from the manufacturing centres in central Java are distinct from those in the other areas and typically show a restrained range of colours--rich browns, indigo blue, cream, white and black being the main elements of the palette. \r\n\r\nThis batik, which is in the form of a <i>kain panjang</i>, or man's skirt cloth, has all the hallmarks of a central Javanese example, including a loose patchwork background of traditional central Javanese designs. Superimposed on that is a menagerie of wild animals and birds (elephants, leopards or tigers, deer, swanlike birds)--a type of design known as <i>kebun binatang</i> or animal garden. Further, the whole design direction is reversed half way through the cloth, making it technically a cloth of the type known as <i>pagi-sore</i>--a cloth that can be reversed for wearing either in the morning or the evening.",
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "246",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "106",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Surakarta",
+      "made_in_place_alt": [],
+      "current_gallery": "019",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BG5481/full/1000,/0/default.jpg",
+        "iiif_id": "2006BG5481",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BG5481/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "1ae27bb20e2bae585eec9078ba201fc798bee52596bca66088447281c8d647f9",
+        "bytes": 574287,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96701.jpg"
+      },
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2006BF9452/full/1000,/0/default.jpg",
+        "iiif_id": "2006BF9452",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2006BF9452/full/{size}/0/default.jpg",
+        "role": "alt",
+        "sha256": "366419b4d7b655dd2acb0ce4971c858f505e218c4f5396698da242e380527d10",
+        "bytes": 494474,
+        "local_path": "library\\southeast-asia\\indonesia\\sundanese\\garment\\batik-cirebon\\images\\va_O96701_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:24:25.225790+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O96701",
+        "accessionNumber": "IS.146-1984",
+        "objectType": "Skirt cloth",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES312104",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {
+          "name": "Unknown",
+          "association": ""
+        },
+        "_primaryImageId": "2006BG5481",
+        "_primaryDate": "first half 20th century",
+        "_primaryPlace": "Surakarta",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2006BG5481/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2006BG5481/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O96701/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O96701",
+        "accessionNumber": "IS.146-1984",
+        "objectType": "Skirt cloth",
+        "titles": [],
+        "summaryDescription": "Batik is the Indonesian name for the process of applying resist-dyed patterns to cloth. The principal places of manufacture are the areas around the Sultanates of Surakarta and Yogyakarta in central Java, some of the coastal towns of the north, such as Cirebon, Lasem, Pekalongan and Indramayu, and the area around Garut in western Java. The traditional batiks from the manufacturing centres in central Java are distinct from those in the other areas and typically show a restrained range of colours--rich browns, indigo blue, cream, white and black being the main elements of the palette. \r\n\r\nThis batik, which is in the form of a <i>kain panjang</i>, or man's skirt cloth, has all the hallmarks of a central Javanese example, including a loose patchwork background of traditional central Javanese designs. Superimposed on that is a menagerie of wild animals and birds (elephants, leopards or tigers, deer, swanlike birds)--a type of design known as <i>kebun binatang</i> or animal garden. Further, the whole design direction is reversed half way through the cloth, making it technically a cloth of the type known as <i>pagi-sore</i>--a cloth that can be reversed for wearing either in the morning or the evening.",
+        "physicalDescription": "Skirt cloth (Kain panjang) with a batik pattern on machine made tabby weave cotton cloth. The basic structure of the design consists of a ground with a loose  patchwork of traditional central Javanese designs. Superimposed on that background is a menagerie of wild animals and birds (elephants, leopards or tigers, deer, swan-like birds), a type of design known as kebun binatang or animal garden. The whole design direction is reversed half way through the cloth, making it technically a cloth of the type known as pagi-sore or morning-evening cloth.",
+        "artistMakerPerson": [
+          {
+            "name": {
+              "text": "Unknown",
+              "id": "A1848"
+            },
+            "association": {
+              "text": "",
+              "id": ""
+            },
+            "note": ""
+          }
+        ],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "Cotton",
+            "id": "AAT14067"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "Batik",
+            "id": "AAT53050"
+          }
+        ],
+        "materialsAndTechniques": "Cotton batik",
+        "categories": [
+          {
+            "text": "Textiles",
+            "id": "THES48885"
+          },
+          {
+            "text": "Clothing",
+            "id": "THES48975"
+          }
+        ],
+        "styles": [],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2006BG5481",
+          "2006BF9452"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "019",
+              "id": "THES312104"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Skirt cloth",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Surakarta",
+              "id": "THES250481"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": "probably"
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "first half 20th century",
+              "earliest": "1900-01-01",
+              "latest": "1950-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "246",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "106",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "",
+        "historicalContext": "",
+        "briefDescription": "Skirt cloth (Kain panjang) of batik cotton, probably made in Surakarta, Java, first half of 20th century",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "Unique",
+          "id": "THES48864"
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "IS.146-1984"
+        ],
+        "accessionNumberNum": "146",
+        "accessionNumberPrefix": "IS",
+        "accessionYear": 1984,
+        "otherNumbers": [],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-12",
+        "recordCreationDate": "2004-03-12",
+        "availableToBook": true
+      }
+    }
+  }
+]

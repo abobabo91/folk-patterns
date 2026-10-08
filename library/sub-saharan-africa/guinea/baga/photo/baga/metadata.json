@@ -1,0 +1,97 @@
+[
+  {
+    "id": "british_museum-EA_Af-B84-37",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B84-37",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B84-37",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B84.37",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Baga",
+      "tradition": "Baga",
+      "art_form": "photo",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "The photo documents a carved wooden Baga figure (likely a Nimba/D'mba-related or ancestor figure) with a distinctive bird-like carved headdress, wearing a loin-cloth — this is a studio documentary photo of an object made and used by the Baga people of Guinea, consistent with the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Study of Bage carved wooden figure, side view. Wearing loin-cloth. Plain backdrop.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/3a409504_5c61_42e4_a5c0_a3b700d19e85/preview_00062619_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "dceb8e3c0deba1195f5c877a95c7c319490ac7df59d8b88ee97479a81858049e",
+        "bytes": 22209,
+        "local_path": "library\\sub-saharan-africa\\guinea\\baga\\photo\\baga\\images\\bm_EA_Af_B84_37.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:50:10.835006+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Study of Bage carved wooden figure, side view. Wearing loin-cloth. Plain backdrop.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/1_12/3a409504_5c61_42e4_a5c0_a3b700d19e85/preview_00062619_001.jpg",
+      "production_ethnic_groups": [],
+      "production_ethnic_attribution": ""
+    }
+  }
+]

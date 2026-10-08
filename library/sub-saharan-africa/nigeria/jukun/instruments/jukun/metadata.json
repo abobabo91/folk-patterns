@@ -1,0 +1,97 @@
+[
+  {
+    "id": "british_museum-E_Af1980-23-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1980-23-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1980-23-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1980.23.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Nigeria",
+      "ethnicity": "Jukun",
+      "tradition": "Jukun",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "An ankle dance-rattle made of woven palm leaf segments strung together, a plausible musical/percussion accessory worn for dance by Jukun or neighboring Nigerian peoples; no evidence against the attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "dance-rattle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "dance-rattle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Dance rattle worm on the ankle, made of palm leaf and fibre.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/c768afa9_bc7f_4542_ada6_a93400d8ec03/preview_EAF26070.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1c0b67312e840c7be747e93acdabd9b1edd01095113727dd65fcfe04563e5776",
+        "bytes": 31202,
+        "local_path": "library\\sub-saharan-africa\\nigeria\\jukun\\instruments\\jukun\\images\\bm_E_Af1980_23_4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T06:34:01.667761+00:00",
+    "raw": {
+      "title": "dance-rattle",
+      "description": "Dance rattle worm on the ankle, made of palm leaf and fibre.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_8/6_13/c768afa9_bc7f_4542_ada6_a93400d8ec03/preview_EAF26070.jpg",
+      "production_ethnic_groups": [],
+      "production_ethnic_attribution": ""
+    }
+  }
+]

@@ -1,0 +1,829 @@
+[
+  {
+    "id": "cleveland-96833",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "96833",
+      "object_url": "https://clevelandart.org/art/1916.538",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Mr. and Mrs. J. H. Wade",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1916.538",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "An ivory bracelet with incised circle-dot patterning and a wire repair attributed to a Kuba artisan; this is a personal adornment consistent with Kuba craft traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "Bracelet",
+      "titles_alt": [],
+      "date_text": "c. 1900",
+      "date_earliest": 1895,
+      "date_latest": 1905,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Ivory and wire",
+      "classification": "Jewelry",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This ivory bracelet is simple, yet elegant. Note how the delicate wire repair by a Kuba artisan adds a counterpoint pattern to the original design.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "db5073adc36918d242b7c472ce453f307cc2e231967a7b512c7b6b4564fcbccd",
+        "bytes": 476281,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\cle_96833.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:32.867747+00:00",
+    "raw": {
+      "id": 96833,
+      "accession_number": "1916.538",
+      "share_license_status": "CC0",
+      "tombstone": "Bracelet, c. 1900. Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker. Ivory and wire; diameter: 5.3 cm (2 1/16 in.); overall: 5.3 cm (2 1/16 in.). The Cleveland Museum of Art, Gift of Mr. and Mrs. J. H. Wade, 1916.538",
+      "current_location": null,
+      "title": "Bracelet",
+      "creation_date": "c. 1900",
+      "creation_date_earliest": 1895,
+      "creation_date_latest": 1905,
+      "artists_tags": [],
+      "culture": [
+        "Africa, Central Africa, Democratic Republic of the Congo, Kuba-style maker"
+      ],
+      "technique": "Ivory and wire",
+      "support_materials": [],
+      "department": "African Art",
+      "collection": "African Art",
+      "type": "Jewelry",
+      "measurements": "Diameter: 5.3 cm (2 1/16 in.); Overall: 5.3 cm (2 1/16 in.)",
+      "dimensions": {
+        "diameter": {
+          "height": 0.053,
+          "height_inch": 2,
+          "height_inch_fraction": 0.0625
+        },
+        "overall": {
+          "height": 0.053,
+          "height_inch": 2,
+          "height_inch_fraction": 0.0625
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [],
+      "exhibitions": {
+        "current": [],
+        "legacy": []
+      },
+      "provenance": [],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "This ivory bracelet is simple, yet elegant. Note how the delicate wire repair by a Kuba artisan adds a counterpoint pattern to the original design.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79480444"
+        ],
+        "internet_archive": []
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1916.538",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_web.jpg",
+          "width": "1132",
+          "height": "893",
+          "filesize": "472868",
+          "filename": "1916.538_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_print.jpg",
+          "width": "3400",
+          "height": "2682",
+          "filesize": "4040747",
+          "filename": "1916.538_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_full.tif",
+          "width": "3792",
+          "height": "2991",
+          "filesize": "34057948",
+          "filename": "1916.538_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt0_web.jpg",
+            "width": "1195",
+            "height": "893",
+            "filesize": "507586"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt0_print.jpg",
+            "width": "3400",
+            "height": "2540",
+            "filesize": "3934667"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt0_full.tif",
+            "width": "3858",
+            "height": "2882",
+            "filesize": "33388668"
+          },
+          "date_created": "2009-07-09T15:12:14",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt1_web.jpg",
+            "width": "1182",
+            "height": "893",
+            "filesize": "493305"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt1_print.jpg",
+            "width": "3400",
+            "height": "2568",
+            "filesize": "3894474"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt1_full.tif",
+            "width": "3876",
+            "height": "2928",
+            "filesize": "34079096"
+          },
+          "date_created": "2009-07-09T15:17:40",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt2_web.jpg",
+            "width": "958",
+            "height": "893",
+            "filesize": "378125"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt2_print.jpg",
+            "width": "3400",
+            "height": "3168",
+            "filesize": "4616883"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt2_full.tif",
+            "width": "3866",
+            "height": "3602",
+            "filesize": "41808952"
+          },
+          "date_created": "2009-07-09T15:24:34",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt3_web.jpg",
+            "width": "961",
+            "height": "893",
+            "filesize": "375934"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt3_print.jpg",
+            "width": "3400",
+            "height": "3158",
+            "filesize": "4565824"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1916.538/1916.538_alt3_full.tif",
+            "width": "3873",
+            "height": "3597",
+            "filesize": "41826368"
+          },
+          "date_created": "2009-07-09T15:33:21",
+          "annotation": ""
+        }
+      ],
+      "creditline": "Gift of Mr. and Mrs. J. H. Wade",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 96833,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1916-05-26T00:00:00",
+      "sortable_date": 1895,
+      "date_added_to_oa": null,
+      "date_text": "c. 1900",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 05:13:00.442000"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1908-Ty-273",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1908-Ty-273",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-Ty-273",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1908.Ty.273",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a woven rattan ball with hide/leather attachment, described as a man's belt ornament — a plausible personal adornment item consistent with Kuba material culture from the DRC region.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "personal ornament (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "personal ornament (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Ball (for man&#039;s belt), personal ornament (?) made of rattan, hide.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/27_11/a920d641_9dc2_4ff3_9f7c_a68e00b9d8a3/preview_EAF37094.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "967c8f672f8ac8d51bb938a0bb284b55649488297d334a3616a5c411bf0e6b86",
+        "bytes": 48164,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\bm_E_Af1908-Ty-273.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:12.059450+00:00",
+    "raw": {
+      "title": "personal ornament (?)",
+      "description": "Ball (for man&#039;s belt), personal ornament (?) made of rattan, hide.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/27_11/a920d641_9dc2_4ff3_9f7c_a68e00b9d8a3/preview_EAF37094.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1908-Ty-257",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1908-Ty-257",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1908-Ty-257",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1908.Ty.257",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a fringed cord cap/head-ornament made of plant fiber, consistent with Kuba prestige caps and headwear known from the region. This is a garment/headwear item, not jewelry.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "garment"
+    },
+    "physical": {
+      "title": "cap; head-ornament",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "cap; head-ornament",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Cap, head ornament made of cord (vegetable fibre).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_21/c2d6a697_02b5_4fb1_9509_a3b5016637f8/preview_00172647_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "43ec804fa39e8f643ad4da2fa4806486f886bbf11921b2a02ff6d86fa3a67764",
+        "bytes": 40622,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\bm_E_Af1908-Ty-257.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:20.566591+00:00",
+    "raw": {
+      "title": "cap; head-ornament",
+      "description": "Cap, head ornament made of cord (vegetable fibre).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_21/c2d6a697_02b5_4fb1_9509_a3b5016637f8/preview_00172647_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-273",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-273",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-273",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.273",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a carved horn rattle with incised concentric-circle decoration and iron/copper rings at the rim, a form consistent with Central African (Kuba-region) dance regalia; it is a musical/ritual implement rather than jewelry, but plausibly Kuba-made.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments"
+    },
+    "physical": {
+      "title": "rattle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "rattle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Dancing rattle in the form of a horn, the rim set with iron and copper rings.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/22_11/042da172_d7f4_42a7_bd2c_a68900bc1812/preview_EAF37499.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bd18df66717b369f249ebe75e91a3f588860490ac9f59a18a72935e28c4f3325",
+        "bytes": 34502,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\bm_E_Af1909-0513-273.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:30.940562+00:00",
+    "raw": {
+      "title": "rattle",
+      "description": "Dancing rattle in the form of a horn, the rim set with iron and copper rings.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_9/22_11/042da172_d7f4_42a7_bd2c_a68900bc1812/preview_EAF37499.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1954-23-2037_1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-23-2037_1",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-23-2037_1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.23.2037_1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a raffia-cloth headband densely covered with cowrie shells and blue/white beads on a cane frame, a personal ornament style consistent with Kuba (and broader Central African) regalia and prestige adornment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "jewelry"
+    },
+    "physical": {
+      "title": "head-band (?); personal ornament",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "head-band (?); personal ornament",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1954\r\nComposite band, a circle of raphia cloth, covered with cowries. On visible cane frame with two rows of blue and white beads amongst the cowrie decoration.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/24_11/269bc567_ec01_4a6c_835b_a4c100c1f9f4/preview_EAF51241.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d5c30b0778b95ec493a6dfa1311d946e97ee71679d53201a2febfad7ef81aaa8",
+        "bytes": 76241,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\bm_E_Af1954-23-2037_1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:33.799136+00:00",
+    "raw": {
+      "title": "head-band (?); personal ornament",
+      "description": "Register 1954\r\nComposite band, a circle of raphia cloth, covered with cowries. On visible cane frame with two rows of blue and white beads amongst the cowrie decoration.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_6/24_11/269bc567_ec01_4a6c_835b_a4c100c1f9f4/preview_EAF51241.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1909-0513-347",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1909-0513-347",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1909-0513-347",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1909.0513.347",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "The image shows a wooden paddle with carved relief ornament on the blade, consistent with Kuba craftsmanship, but it is not jewelry, and paddles are a household/utilitarian object rather than adornment.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "paddle",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "paddle",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Paddle carved in wood with relief ornament on the blade.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_6/5_13/00cd5b35_4a4c_452d_9c8d_aa6300e2d357/preview_EAF37563.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "baba890d5d7c92a95f9dbc7eda5ca63350c4a224a4047f2fdc48f6e745e2eca7",
+        "bytes": 74596,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\bm_E_Af1909-0513-347.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:41:48.239957+00:00",
+    "raw": {
+      "title": "paddle",
+      "description": "Paddle carved in wood with relief ornament on the blade.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_6/5_13/00cd5b35_4a4c_452d_9c8d_aa6300e2d357/preview_EAF37563.jpg"
+    }
+  },
+  {
+    "id": "british_museum-E_Af1951-12-300-a",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1951-12-300-a",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1951-12-300-a",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1951.12.300.a",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Kuba",
+      "tradition": "Kuba",
+      "art_form": "jewelry",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "claude-sonnet-5",
+      "vision_reason": "This is a wooden carved lidded box with incised geometric interlace patterning highly characteristic of Kuba carving traditions (used for cosmetics/tukula powder or personal items), not jewelry itself but a Kuba-made object of daily/ritual use.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": "box",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "box",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1951:\r\nWooden carved box in form of a basket, with four bosses on corners of base, and carved ornament on sides.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2016_3/8_14/4f170d59_dc46_4362_85bc_a5c300efbc77/preview_EAF50335.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "57b460ad5d4a12737d83f7b499ec349d5e9ca7b4565964417c21f08ee38fbf37",
+        "bytes": 40284,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\kuba\\jewelry\\kuba\\images\\bm_E_Af1951-12-300-a.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-25T13:42:21.002426+00:00",
+    "raw": {
+      "title": "box",
+      "description": "Register 1951:\r\nWooden carved box in form of a basket, with four bosses on corners of base, and carved ornament on sides.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2016_3/8_14/4f170d59_dc46_4362_85bc_a5c300efbc77/preview_EAF50335.jpg"
+    }
+  }
+]

@@ -1,0 +1,4040 @@
+[
+  {
+    "id": "europeana-08602_VedoIL0000000596_gen0",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Cinecittà - Luce",
+      "object_id": "08602_VedoIL0000000596_gen0",
+      "object_url": "https://www.europeana.eu/item/08602/VedoIL0000000596_gen0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A documentary photograph of a Somali police delegation posing with an Italian officer; this is a photo of Somali people, not a painting or manuscript, though it fits the ethnicity claim.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Group photo of the delegation of Somali policemen; middle camp",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1954-01-25"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cinecittà - Luce",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00029%2FFV00006398.JPG&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0328f4a1a6b399ceee8de753fac437da411739685444a45eded20f0a78bd71c5",
+        "bytes": 26625,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\eu_08602_VedoIL0000000596_gen0.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:48:13.652344+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Cinecittà - Luce"
+      ],
+      "dcDescription": [
+        "silver bromide gelatin / foil (polyester)",
+        "gelatina bromuro d'argento/pellicola (poliestere)"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "silver bromide gelatin / foil (polyester)"
+        ],
+        "it": [
+          "gelatina bromuro d'argento/pellicola (poliestere)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Group photo of the delegation of Somali policemen; middle camp"
+        ],
+        "it": [
+          "Foto di gruppo della delegazione di poliziotti somali; campo medio"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1673",
+        "http://data.europeana.eu/concept/48",
+        "http://www.wikidata.org/entity/Q1459304",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Suchý želatinový proces"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "suchý želatinový proces"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Gelatina bromuro"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "gelatina bromuro"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Gelatin dry plate process"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "gelatin dry plate process"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Plaque sèche"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "plaque sèche"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Droge gelatineplaatprocedé"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "droge gelatineplaatprocedé"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Foto",
+          "Trockenes Gelatineverfahren"
+        ],
+        "ru": [
+          "Фотография",
+          "Желатиносеребряный фотопроцесс"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "pt": [
+          "Fotografia",
+          "Gelatina bromuro",
+          "fotografias (obras visuais)",
+          "gelatina bromuro"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "plaque sèche",
+          "Plaque sèche",
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Gelatina-bromur",
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "photographs",
+          "Gelatin dry plate process",
+          "Photograph",
+          "gelatin dry plate process"
+        ],
+        "it": [
+          "fotografie",
+          "Procedimento con lastre alla gelatina secca",
+          "Fotografia",
+          "procedimento con lastre alla gelatina secca"
+        ],
+        "es": [
+          "Proceso de gelatina sobre placa seca",
+          "fotografías (obra visual)",
+          "Fotografía",
+          "proceso de gelatina sobre placa seca"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "cs": [
+          "Suchý želatinový proces",
+          "Fotografie",
+          "suchý želatinový proces"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "pl": [
+          "Technika bromo-żelatynowa",
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Droge gelatineplaatprocedé",
+          "droge gelatineplaatprocedé",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "edmIsShownAt": [
+        "https://patrimonio.archivioluce.com/luce-web/detail/IL0000000596/11/"
+      ],
+      "edmIsShownBy": [
+        "http://image.archivioluce.com/foto/high/FV/NTH00029/FV00006398.JPG"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Südeuropa"
+        },
+        {
+          "def": "Europäische Union"
+        },
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Южная Европа"
+        },
+        {
+          "def": "Европейский союз"
+        },
+        {
+          "def": "Итальянская Республика"
+        },
+        {
+          "def": "Europa meridional"
+        },
+        {
+          "def": "União Europeia"
+        },
+        {
+          "def": "Pietų Europa"
+        },
+        {
+          "def": "Europos Sąjunga"
+        },
+        {
+          "def": "Europa meridionale"
+        },
+        {
+          "def": "Unione europea"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "Europe du Sud"
+        },
+        {
+          "def": "Union Européenne"
+        },
+        {
+          "def": "République Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La République italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Den europeiske union"
+        },
+        {
+          "def": "Euroopan unioni"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "Европейски съюз"
+        },
+        {
+          "def": "Република Италия"
+        },
+        {
+          "def": "Eiropas Savienība"
+        },
+        {
+          "def": "Europska unija"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "Európai Unió"
+        },
+        {
+          "def": "Európska únia"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Evropska unija"
+        },
+        {
+          "def": "An tAontas Eorpach"
+        },
+        {
+          "def": "Iodáil"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Unió Europea"
+        },
+        {
+          "def": "Estat Italià"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "Europeiska unionen"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "Unjoni Ewropea"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Ευρωπαϊκή Ένωση"
+        },
+        {
+          "def": "Ιταλική Δημοκρατία"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Unión Europea"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Euroopa Liit"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Evropská unie"
+        },
+        {
+          "def": "Unia Europejska"
+        },
+        {
+          "def": "Den Europæiske Union"
+        },
+        {
+          "def": "Uniunea Europeană"
+        },
+        {
+          "def": "Republica Italiană"
+        },
+        {
+          "def": "Europese Unie"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Italië"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Südeuropa",
+          "Europäische Union",
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "no": [
+          "Den europeiske union"
+        ],
+        "ru": [
+          "Южная Европа",
+          "Европейский союз",
+          "Итальянская Республика"
+        ],
+        "fi": [
+          "Euroopan unioni",
+          "Italian tasavalta"
+        ],
+        "pt": [
+          "Europa meridional",
+          "União Europeia"
+        ],
+        "bg": [
+          "Европейски съюз",
+          "Република Италия"
+        ],
+        "lt": [
+          "Pietų Europa",
+          "Europos Sąjunga"
+        ],
+        "lv": [
+          "Eiropas Savienība"
+        ],
+        "hr": [
+          "Europska unija",
+          "Republika Italija"
+        ],
+        "fr": [
+          "Europe du Sud",
+          "Union Européenne",
+          "République Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La République italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "hu": [
+          "Európai Unió"
+        ],
+        "sk": [
+          "Európska únia",
+          "Talianska republika"
+        ],
+        "sl": [
+          "Evropska unija"
+        ],
+        "ga": [
+          "An tAontas Eorpach",
+          "Iodáil",
+          "Italia"
+        ],
+        "ca": [
+          "Unió Europea",
+          "Estat Italià",
+          "República Italiana"
+        ],
+        "sv": [
+          "Europeiska unionen",
+          "Italia",
+          "Republiken Italien"
+        ],
+        "mt": [
+          "Unjoni Ewropea",
+          "Repubblika Taljana"
+        ],
+        "el": [
+          "Ευρωπαϊκή Ένωση",
+          "Ιταλική Δημοκρατία"
+        ],
+        "en": [
+          "European Union",
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "it": [
+          "Europa meridionale",
+          "Unione europea",
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "es": [
+          "Unión Europea",
+          "República Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Euroopa Liit",
+          "Itaalia Vabariik"
+        ],
+        "cs": [
+          "Evropská unie"
+        ],
+        "pl": [
+          "Unia Europejska"
+        ],
+        "da": [
+          "Den Europæiske Union"
+        ],
+        "ro": [
+          "Uniunea Europeană",
+          "Republica Italiană"
+        ],
+        "nl": [
+          "Europese Unie",
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Italië",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Southern Europe"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Mediterranean Basin"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itália"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Itālija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszország"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iodáil"
+        },
+        {
+          "def": "Itàlia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Ιταλία"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itálie"
+        },
+        {
+          "def": "Włochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "Италия"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "def": [
+          "Southern Europe",
+          "European Union",
+          "Mediterranean Basin"
+        ],
+        "pt": [
+          "Itália"
+        ],
+        "bg": [
+          "Италия"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "Itālija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszország"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iodáil"
+        ],
+        "ca": [
+          "Itàlia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "Ιταλία"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy",
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "Itálie"
+        ],
+        "pl": [
+          "Włochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Italië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.34382",
+        "50.83857",
+        "42.5",
+        "35.78"
+      ],
+      "edmPlaceLongitude": [
+        "-3.33984",
+        "4.37599",
+        "12.5",
+        "19.33"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00029%2FFV00006398.JPG&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1954-01-25"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1954-01-25"
+        ]
+      },
+      "europeanaCollectionName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/08602/VedoIL0000000596_gen0?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/08602/VedoIL0000000596_gen0",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/08602/VedoIL0000000596_gen0.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Film Gateway"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 69.56862,
+      "timestamp": 1751995898976,
+      "timestamp_created": "2020-11-22T21:25:10.106Z",
+      "timestamp_created_epoch": 1606080310106,
+      "timestamp_update": "2022-04-13T07:48:20.507Z",
+      "timestamp_update_epoch": 1649836100507,
+      "title": [
+        "Group photo of the delegation of Somali policemen; middle camp",
+        "Foto di gruppo della delegazione di poliziotti somali; campo medio"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-08602_VedoIL0000000596_gen1",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Cinecittà - Luce",
+      "object_id": "08602_VedoIL0000000596_gen1",
+      "object_url": "https://www.europeana.eu/item/08602/VedoIL0000000596_gen1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photograph of a Somali police delegation posing in a formal room, not a painting or manuscript; it depicts Somali people in uniform, a documentary daily-life/official photo, so it fits the ethnicity but not the claimed art form.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Foto di gruppo della delegazione di poliziotti somali; campo medio",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1954-01-25"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cinecittà - Luce",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00029%2FFV00006399.JPG&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1999ee778c04b4a9b8e1faf665db0beb9b429b087147cd33f8713f7737b6be8a",
+        "bytes": 26269,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\eu_08602_VedoIL0000000596_gen1.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:48:14.096870+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Cinecittà - Luce"
+      ],
+      "dcDescription": [
+        "gelatina bromuro d'argento/pellicola (poliestere)",
+        "silver bromide gelatin / foil (polyester)"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "silver bromide gelatin / foil (polyester)"
+        ],
+        "it": [
+          "gelatina bromuro d'argento/pellicola (poliestere)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Group photo of the delegation of Somali policemen; middle camp"
+        ],
+        "it": [
+          "Foto di gruppo della delegazione di poliziotti somali; campo medio"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1673",
+        "http://data.europeana.eu/concept/48",
+        "http://www.wikidata.org/entity/Q1459304",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Suchý želatinový proces"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "suchý želatinový proces"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Gelatina bromuro"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "gelatina bromuro"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Gelatin dry plate process"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "gelatin dry plate process"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Plaque sèche"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "plaque sèche"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Droge gelatineplaatprocedé"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "droge gelatineplaatprocedé"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Foto",
+          "Trockenes Gelatineverfahren"
+        ],
+        "ru": [
+          "Фотография",
+          "Желатиносеребряный фотопроцесс"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "pt": [
+          "Fotografia",
+          "Gelatina bromuro",
+          "fotografias (obras visuais)",
+          "gelatina bromuro"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "plaque sèche",
+          "Plaque sèche",
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Gelatina-bromur",
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "photographs",
+          "Gelatin dry plate process",
+          "Photograph",
+          "gelatin dry plate process"
+        ],
+        "it": [
+          "fotografie",
+          "Procedimento con lastre alla gelatina secca",
+          "Fotografia",
+          "procedimento con lastre alla gelatina secca"
+        ],
+        "es": [
+          "Proceso de gelatina sobre placa seca",
+          "fotografías (obra visual)",
+          "Fotografía",
+          "proceso de gelatina sobre placa seca"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "cs": [
+          "Suchý želatinový proces",
+          "Fotografie",
+          "suchý želatinový proces"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "pl": [
+          "Technika bromo-żelatynowa",
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Droge gelatineplaatprocedé",
+          "droge gelatineplaatprocedé",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "edmIsShownAt": [
+        "https://patrimonio.archivioluce.com/luce-web/detail/IL0000000596/11/"
+      ],
+      "edmIsShownBy": [
+        "http://image.archivioluce.com/foto/high/FV/NTH00029/FV00006399.JPG"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Südeuropa"
+        },
+        {
+          "def": "Europäische Union"
+        },
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Южная Европа"
+        },
+        {
+          "def": "Европейский союз"
+        },
+        {
+          "def": "Итальянская Республика"
+        },
+        {
+          "def": "Europa meridional"
+        },
+        {
+          "def": "União Europeia"
+        },
+        {
+          "def": "Pietų Europa"
+        },
+        {
+          "def": "Europos Sąjunga"
+        },
+        {
+          "def": "Europa meridionale"
+        },
+        {
+          "def": "Unione europea"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "Europe du Sud"
+        },
+        {
+          "def": "Union Européenne"
+        },
+        {
+          "def": "République Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La République italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Den europeiske union"
+        },
+        {
+          "def": "Euroopan unioni"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "Европейски съюз"
+        },
+        {
+          "def": "Република Италия"
+        },
+        {
+          "def": "Eiropas Savienība"
+        },
+        {
+          "def": "Europska unija"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "Európai Unió"
+        },
+        {
+          "def": "Európska únia"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Evropska unija"
+        },
+        {
+          "def": "An tAontas Eorpach"
+        },
+        {
+          "def": "Iodáil"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Unió Europea"
+        },
+        {
+          "def": "Estat Italià"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "Europeiska unionen"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "Unjoni Ewropea"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Ευρωπαϊκή Ένωση"
+        },
+        {
+          "def": "Ιταλική Δημοκρατία"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Unión Europea"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Euroopa Liit"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Evropská unie"
+        },
+        {
+          "def": "Unia Europejska"
+        },
+        {
+          "def": "Den Europæiske Union"
+        },
+        {
+          "def": "Uniunea Europeană"
+        },
+        {
+          "def": "Republica Italiană"
+        },
+        {
+          "def": "Europese Unie"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Italië"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Südeuropa",
+          "Europäische Union",
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "no": [
+          "Den europeiske union"
+        ],
+        "ru": [
+          "Южная Европа",
+          "Европейский союз",
+          "Итальянская Республика"
+        ],
+        "fi": [
+          "Euroopan unioni",
+          "Italian tasavalta"
+        ],
+        "pt": [
+          "Europa meridional",
+          "União Europeia"
+        ],
+        "bg": [
+          "Европейски съюз",
+          "Република Италия"
+        ],
+        "lt": [
+          "Pietų Europa",
+          "Europos Sąjunga"
+        ],
+        "lv": [
+          "Eiropas Savienība"
+        ],
+        "hr": [
+          "Europska unija",
+          "Republika Italija"
+        ],
+        "fr": [
+          "Europe du Sud",
+          "Union Européenne",
+          "République Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La République italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "hu": [
+          "Európai Unió"
+        ],
+        "sk": [
+          "Európska únia",
+          "Talianska republika"
+        ],
+        "sl": [
+          "Evropska unija"
+        ],
+        "ga": [
+          "An tAontas Eorpach",
+          "Iodáil",
+          "Italia"
+        ],
+        "ca": [
+          "Unió Europea",
+          "Estat Italià",
+          "República Italiana"
+        ],
+        "sv": [
+          "Europeiska unionen",
+          "Italia",
+          "Republiken Italien"
+        ],
+        "mt": [
+          "Unjoni Ewropea",
+          "Repubblika Taljana"
+        ],
+        "el": [
+          "Ευρωπαϊκή Ένωση",
+          "Ιταλική Δημοκρατία"
+        ],
+        "en": [
+          "European Union",
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "it": [
+          "Europa meridionale",
+          "Unione europea",
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "es": [
+          "Unión Europea",
+          "República Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Euroopa Liit",
+          "Itaalia Vabariik"
+        ],
+        "cs": [
+          "Evropská unie"
+        ],
+        "pl": [
+          "Unia Europejska"
+        ],
+        "da": [
+          "Den Europæiske Union"
+        ],
+        "ro": [
+          "Uniunea Europeană",
+          "Republica Italiană"
+        ],
+        "nl": [
+          "Europese Unie",
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Italië",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Southern Europe"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Mediterranean Basin"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itália"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Itālija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Olaszország"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iodáil"
+        },
+        {
+          "def": "Itàlia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Ιταλία"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itálie"
+        },
+        {
+          "def": "Włochy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien"
+        ],
+        "ru": [
+          "Италия"
+        ],
+        "fi": [
+          "Italia"
+        ],
+        "def": [
+          "Southern Europe",
+          "European Union",
+          "Mediterranean Basin"
+        ],
+        "pt": [
+          "Itália"
+        ],
+        "bg": [
+          "Италия"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "Itālija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie"
+        ],
+        "hu": [
+          "Olaszország"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iodáil"
+        ],
+        "ca": [
+          "Itàlia"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "Ιταλία"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy",
+          "Italy"
+        ],
+        "it": [
+          "Italia"
+        ],
+        "es": [
+          "Italia"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "Itálie"
+        ],
+        "pl": [
+          "Włochy"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Italië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.34382",
+        "50.83857",
+        "42.5",
+        "35.78"
+      ],
+      "edmPlaceLongitude": [
+        "-3.33984",
+        "4.37599",
+        "12.5",
+        "19.33"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00029%2FFV00006399.JPG&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1954-01-25"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1954-01-25"
+        ]
+      },
+      "europeanaCollectionName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/08602/VedoIL0000000596_gen1?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/08602/VedoIL0000000596_gen1",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/08602/VedoIL0000000596_gen1.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Film Gateway"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 69.19348,
+      "timestamp": 1751995899075,
+      "timestamp_created": "2020-11-22T21:25:10.106Z",
+      "timestamp_created_epoch": 1606080310106,
+      "timestamp_update": "2022-04-13T07:48:20.507Z",
+      "timestamp_update_epoch": 1649836100507,
+      "title": [
+        "Foto di gruppo della delegazione di poliziotti somali; campo medio",
+        "Group photo of the delegation of Somali policemen; middle camp"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-08602_VedoIL0000010894_gen7",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Cinecittà - Luce",
+      "object_id": "08602_VedoIL0000010894_gen7",
+      "object_url": "https://www.europeana.eu/item/08602/VedoIL0000010894_gen7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+      "license_url": "http://rightsstatements.org/vocab/InC/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A photograph of a Somali delegation in Western suits with traditional caps (kufi/koofiyad) meeting Italian officials indoors; this is a documentary photo of Somali dress/daily life, not a painting or manuscript.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "Foto di gruppo, Segni  e la delegazione somala in un interno. Campo medio",
+      "titles_alt": [],
+      "date_text": {
+        "def": "1960-11-14"
+      },
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cinecittà - Luce",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00507%2FFV00111253.JPG&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ee3c309b0403626c44d6fa432e9afb3b774c2cc132325331ea0a1bf0dba5f06a",
+        "bytes": 26067,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\eu_08602_VedoIL0000010894_gen7.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:48:30.297356+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Italy"
+      ],
+      "dataProvider": [
+        "Cinecittà - Luce"
+      ],
+      "dcDescription": [
+        "gelatina bromuro d'argento/pellicola (poliestere)",
+        "silver bromide gelatin / foil (polyester)"
+      ],
+      "dcDescriptionLangAware": {
+        "en": [
+          "silver bromide gelatin / foil (polyester)"
+        ],
+        "it": [
+          "gelatina bromuro d'argento/pellicola (poliestere)"
+        ]
+      },
+      "dcTitleLangAware": {
+        "en": [
+          "Group photos, signs and the Somali delegation in an interior. Middle camp"
+        ],
+        "it": [
+          "Foto di gruppo, Segni  e la delegazione somala in un interno. Campo medio"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1673",
+        "http://data.europeana.eu/concept/48",
+        "http://www.wikidata.org/entity/Q1459304",
+        "http://vocab.getty.edu/aat/300046300"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Suchý želatinový proces"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "suchý želatinový proces"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Trockenes Gelatineverfahren"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Фотография"
+        },
+        {
+          "def": "Желатиносеребряный фотопроцесс"
+        },
+        {
+          "def": "Gelatina bromuro"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "gelatina bromuro"
+        },
+        {
+          "def": "fotografias (obras visuais)"
+        },
+        {
+          "def": "Gelatin dry plate process"
+        },
+        {
+          "def": "Photograph"
+        },
+        {
+          "def": "gelatin dry plate process"
+        },
+        {
+          "def": "photographs"
+        },
+        {
+          "def": "Procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "procedimento con lastre alla gelatina secca"
+        },
+        {
+          "def": "fotografie"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Technika bromo-żelatynowa"
+        },
+        {
+          "def": "Plaque sèche"
+        },
+        {
+          "def": "Photographie"
+        },
+        {
+          "def": "plaque sèche"
+        },
+        {
+          "def": "photographies"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Gelatina-bromur"
+        },
+        {
+          "def": "Proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "Fotografía"
+        },
+        {
+          "def": "proceso de gelatina sobre placa seca"
+        },
+        {
+          "def": "fotografías (obra visual)"
+        },
+        {
+          "def": "Droge gelatineplaatprocedé"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "droge gelatineplaatprocedé"
+        },
+        {
+          "def": "foto's"
+        },
+        {
+          "def": "Valokuva"
+        },
+        {
+          "def": "Снимка"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fotoattēls"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Fénykép"
+        },
+        {
+          "def": "Fotografia"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Grianghraf"
+        },
+        {
+          "def": "Fotografi"
+        },
+        {
+          "def": "Φωτογραφία"
+        },
+        {
+          "def": "Fotografija"
+        },
+        {
+          "def": "Foto"
+        },
+        {
+          "def": "Argazki"
+        },
+        {
+          "def": "Fotografie"
+        },
+        {
+          "def": "Fotografi"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Fotografie",
+          "Foto",
+          "Trockenes Gelatineverfahren"
+        ],
+        "ru": [
+          "Фотография",
+          "Желатиносеребряный фотопроцесс"
+        ],
+        "fi": [
+          "Valokuva"
+        ],
+        "pt": [
+          "Fotografia",
+          "Gelatina bromuro",
+          "fotografias (obras visuais)",
+          "gelatina bromuro"
+        ],
+        "bg": [
+          "Снимка"
+        ],
+        "lt": [
+          "Fotografija"
+        ],
+        "lv": [
+          "Fotoattēls"
+        ],
+        "hr": [
+          "Fotografija"
+        ],
+        "fr": [
+          "photographies",
+          "plaque sèche",
+          "Plaque sèche",
+          "Photographie"
+        ],
+        "hu": [
+          "Fénykép"
+        ],
+        "sk": [
+          "Fotografia"
+        ],
+        "sl": [
+          "Fotografija"
+        ],
+        "ga": [
+          "Grianghraf"
+        ],
+        "ca": [
+          "Gelatina-bromur",
+          "Fotografia"
+        ],
+        "sv": [
+          "Fotografi"
+        ],
+        "el": [
+          "Φωτογραφία"
+        ],
+        "mt": [
+          "Fotografija"
+        ],
+        "en": [
+          "photographs",
+          "Gelatin dry plate process",
+          "Photograph",
+          "gelatin dry plate process"
+        ],
+        "it": [
+          "fotografie",
+          "Procedimento con lastre alla gelatina secca",
+          "Fotografia",
+          "procedimento con lastre alla gelatina secca"
+        ],
+        "es": [
+          "Proceso de gelatina sobre placa seca",
+          "fotografías (obra visual)",
+          "Fotografía",
+          "proceso de gelatina sobre placa seca"
+        ],
+        "et": [
+          "Foto"
+        ],
+        "cs": [
+          "Suchý želatinový proces",
+          "Fotografie",
+          "suchý želatinový proces"
+        ],
+        "eu": [
+          "Argazki"
+        ],
+        "pl": [
+          "Technika bromo-żelatynowa",
+          "Fotografia"
+        ],
+        "ro": [
+          "Fotografie"
+        ],
+        "da": [
+          "Fotografi"
+        ],
+        "nl": [
+          "foto's",
+          "Droge gelatineplaatprocedé",
+          "droge gelatineplaatprocedé",
+          "Foto"
+        ]
+      },
+      "edmDatasetName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "edmIsShownAt": [
+        "https://patrimonio.archivioluce.com/luce-web/detail/IL0000010894/11/"
+      ],
+      "edmIsShownBy": [
+        "http://image.archivioluce.com/foto/high/FV/NTH00507/FV00111253.JPG"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Südeuropa"
+        },
+        {
+          "def": "Europäische Union"
+        },
+        {
+          "def": "Italienische Republik"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Южная Европа"
+        },
+        {
+          "def": "Европейский союз"
+        },
+        {
+          "def": "Итальянская Республика"
+        },
+        {
+          "def": "Europa meridional"
+        },
+        {
+          "def": "União Europeia"
+        },
+        {
+          "def": "Pietų Europa"
+        },
+        {
+          "def": "Europos Sąjunga"
+        },
+        {
+          "def": "Europa meridionale"
+        },
+        {
+          "def": "Unione europea"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "Repubblica italiana"
+        },
+        {
+          "def": "it"
+        },
+        {
+          "def": "Bel Paese"
+        },
+        {
+          "def": "La penisola"
+        },
+        {
+          "def": "Europe du Sud"
+        },
+        {
+          "def": "Union Européenne"
+        },
+        {
+          "def": "République Italienne"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "La République italienne"
+        },
+        {
+          "def": "It."
+        },
+        {
+          "def": "Ital."
+        },
+        {
+          "def": "Ita."
+        },
+        {
+          "def": "Den europeiske union"
+        },
+        {
+          "def": "Euroopan unioni"
+        },
+        {
+          "def": "Italian tasavalta"
+        },
+        {
+          "def": "Европейски съюз"
+        },
+        {
+          "def": "Република Италия"
+        },
+        {
+          "def": "Eiropas Savienība"
+        },
+        {
+          "def": "Europska unija"
+        },
+        {
+          "def": "Republika Italija"
+        },
+        {
+          "def": "Európai Unió"
+        },
+        {
+          "def": "Európska únia"
+        },
+        {
+          "def": "Talianska republika"
+        },
+        {
+          "def": "Evropska unija"
+        },
+        {
+          "def": "An tAontas Eorpach"
+        },
+        {
+          "def": "Iodáil"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Unió Europea"
+        },
+        {
+          "def": "Estat Italià"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "Europeiska unionen"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Republiken Italien"
+        },
+        {
+          "def": "Unjoni Ewropea"
+        },
+        {
+          "def": "Repubblika Taljana"
+        },
+        {
+          "def": "Ευρωπαϊκή Ένωση"
+        },
+        {
+          "def": "Ιταλική Δημοκρατία"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italian Republic"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Republic of Italy"
+        },
+        {
+          "def": "Repubblica Italiana"
+        },
+        {
+          "def": "Unión Europea"
+        },
+        {
+          "def": "República Italiana"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        },
+        {
+          "def": "Euroopa Liit"
+        },
+        {
+          "def": "Itaalia Vabariik"
+        },
+        {
+          "def": "Evropská unie"
+        },
+        {
+          "def": "Unia Europejska"
+        },
+        {
+          "def": "Den Europæiske Union"
+        },
+        {
+          "def": "Uniunea Europeană"
+        },
+        {
+          "def": "Republica Italiană"
+        },
+        {
+          "def": "Europese Unie"
+        },
+        {
+          "def": "Italiaanse Republiek"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Republiek Italië"
+        },
+        {
+          "def": "IT"
+        },
+        {
+          "def": "ITA"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Südeuropa",
+          "Europäische Union",
+          "Italienische Republik",
+          "IT",
+          "ITA"
+        ],
+        "no": [
+          "Den europeiske union"
+        ],
+        "ru": [
+          "Южная Европа",
+          "Европейский союз",
+          "Итальянская Республика"
+        ],
+        "fi": [
+          "Euroopan unioni",
+          "Italian tasavalta"
+        ],
+        "pt": [
+          "Europa meridional",
+          "União Europeia"
+        ],
+        "bg": [
+          "Европейски съюз",
+          "Република Италия"
+        ],
+        "lt": [
+          "Pietų Europa",
+          "Europos Sąjunga"
+        ],
+        "lv": [
+          "Eiropas Savienība"
+        ],
+        "hr": [
+          "Europska unija",
+          "Republika Italija"
+        ],
+        "fr": [
+          "Europe du Sud",
+          "Union Européenne",
+          "République Italienne",
+          "Italia",
+          "IT",
+          "ITA",
+          "La République italienne",
+          "It.",
+          "Ital.",
+          "Ita."
+        ],
+        "hu": [
+          "Európai Unió"
+        ],
+        "sk": [
+          "Európska únia",
+          "Talianska republika"
+        ],
+        "sl": [
+          "Evropska unija"
+        ],
+        "ga": [
+          "An tAontas Eorpach",
+          "Iodáil",
+          "Italia"
+        ],
+        "ca": [
+          "Unió Europea",
+          "Estat Italià",
+          "República Italiana"
+        ],
+        "sv": [
+          "Europeiska unionen",
+          "Italia",
+          "Republiken Italien"
+        ],
+        "mt": [
+          "Unjoni Ewropea",
+          "Repubblika Taljana"
+        ],
+        "el": [
+          "Ευρωπαϊκή Ένωση",
+          "Ιταλική Δημοκρατία"
+        ],
+        "en": [
+          "European Union",
+          "Italia",
+          "Italian Republic",
+          "IT",
+          "ITA",
+          "Republic of Italy",
+          "Repubblica Italiana"
+        ],
+        "it": [
+          "Europa meridionale",
+          "Unione europea",
+          "ITA",
+          "IT",
+          "Repubblica italiana",
+          "it",
+          "Bel Paese",
+          "La penisola"
+        ],
+        "es": [
+          "Unión Europea",
+          "República Italiana",
+          "IT",
+          "ITA"
+        ],
+        "et": [
+          "Euroopa Liit",
+          "Itaalia Vabariik"
+        ],
+        "cs": [
+          "Evropská unie"
+        ],
+        "pl": [
+          "Unia Europejska"
+        ],
+        "da": [
+          "Den Europæiske Union"
+        ],
+        "ro": [
+          "Uniunea Europeană",
+          "Republica Italiană"
+        ],
+        "nl": [
+          "Europese Unie",
+          "Italiaanse Republiek",
+          "Italie",
+          "Republiek Italië",
+          "IT",
+          "ITA"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Southern Europe"
+        },
+        {
+          "def": "European Union"
+        },
+        {
+          "def": "Mediterranean Basin"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Кампо-де-Гибралтар"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Itália"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Италия"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Itālija"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "Italie"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Olaszország"
+        },
+        {
+          "def": "Taliansko"
+        },
+        {
+          "def": "Italija"
+        },
+        {
+          "def": "An Iodáil"
+        },
+        {
+          "def": "Itàlia"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Ιταλία"
+        },
+        {
+          "def": "Πεδιάδα του Γιβραλτάρ"
+        },
+        {
+          "def": "Italja"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Italy"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Campo di Gibilterra"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Itaalia"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Itálie"
+        },
+        {
+          "def": "Włochy"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        },
+        {
+          "def": "Italia"
+        },
+        {
+          "def": "Italien"
+        },
+        {
+          "def": "Italië"
+        },
+        {
+          "def": "Campo de Gibraltar"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Italien",
+          "Campo de Gibraltar"
+        ],
+        "ru": [
+          "Италия",
+          "Кампо-де-Гибралтар"
+        ],
+        "fi": [
+          "Italia",
+          "Campo de Gibraltar"
+        ],
+        "def": [
+          "Southern Europe",
+          "European Union",
+          "Mediterranean Basin"
+        ],
+        "pt": [
+          "Itália",
+          "Campo de Gibraltar"
+        ],
+        "bg": [
+          "Италия"
+        ],
+        "lt": [
+          "Italija"
+        ],
+        "lv": [
+          "Itālija"
+        ],
+        "hr": [
+          "Italija"
+        ],
+        "fr": [
+          "Italie",
+          "Campo de Gibraltar"
+        ],
+        "hu": [
+          "Olaszország"
+        ],
+        "sk": [
+          "Taliansko"
+        ],
+        "sl": [
+          "Italija"
+        ],
+        "ga": [
+          "An Iodáil"
+        ],
+        "ca": [
+          "Itàlia",
+          "Campo de Gibraltar"
+        ],
+        "sv": [
+          "Italien"
+        ],
+        "el": [
+          "Ιταλία",
+          "Πεδιάδα του Γιβραλτάρ"
+        ],
+        "mt": [
+          "Italja"
+        ],
+        "en": [
+          "Italy",
+          "Campo de Gibraltar",
+          "Italy"
+        ],
+        "it": [
+          "Italia",
+          "Campo di Gibilterra"
+        ],
+        "es": [
+          "Italia",
+          "Campo de Gibraltar"
+        ],
+        "et": [
+          "Itaalia"
+        ],
+        "eu": [
+          "Italia"
+        ],
+        "cs": [
+          "Itálie"
+        ],
+        "pl": [
+          "Włochy",
+          "Campo de Gibraltar"
+        ],
+        "ro": [
+          "Italia"
+        ],
+        "da": [
+          "Italien"
+        ],
+        "nl": [
+          "Italië",
+          "Campo de Gibraltar"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.34382",
+        "50.83857",
+        "42.5",
+        "36.133335",
+        "35.78"
+      ],
+      "edmPlaceLongitude": [
+        "-3.33984",
+        "4.37599",
+        "12.5",
+        "-5.45",
+        "19.33"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fimage.archivioluce.com%2Ffoto%2Fhigh%2FFV%2FNTH00507%2FFV00111253.JPG&type=IMAGE"
+      ],
+      "edmTimespanLabel": [
+        {
+          "def": "1960-11-14"
+        }
+      ],
+      "edmTimespanLabelLangAware": {
+        "zxx": [
+          "1960-11-14"
+        ]
+      },
+      "europeanaCollectionName": [
+        "08602_EFG_Instituto_Luce_Cinecitta"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/08602/VedoIL0000010894_gen7?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/08602/VedoIL0000010894_gen7",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/08602/VedoIL0000010894_gen7.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "The European Film Gateway"
+      ],
+      "rights": [
+        "http://rightsstatements.org/vocab/InC/1.0/"
+      ],
+      "score": 43.944923,
+      "timestamp": 1751996525988,
+      "timestamp_created": "2020-11-22T21:25:10.106Z",
+      "timestamp_created_epoch": 1606080310106,
+      "timestamp_update": "2022-04-13T07:48:20.507Z",
+      "timestamp_update_epoch": 1649836100507,
+      "title": [
+        "Foto di gruppo, Segni  e la delegazione somala in un interno. Campo medio",
+        "Group photos, signs and the Somali delegation in an interior. Middle camp"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-15",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-15",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-15",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.15",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a gelatin silver photograph of a Somaliland pastoral scene—people in traditional dress with goats and pack camels—documentary daily life of the Somali people, not a painting or manuscript.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Rural scene in Somaliland. Adult males and females and children wearing cloths, head-gear. Herd of goats in foreground. Camels carrying packs in background.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/998da45b_2c14_4a04_a969_a3c20125183c/preview_00745104_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a74d65674ca8e8ce7a4670249229ae66a80ed9834b15d036bb37a0c0139c7515",
+        "bytes": 58359,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-15.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:39.158511+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Rural scene in Somaliland. Adult males and females and children wearing cloths, head-gear. Herd of goats in foreground. Camels carrying packs in background.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/998da45b_2c14_4a04_a969_a3c20125183c/preview_00745104_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-17",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-17",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-17",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.17",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photograph of a Somali settlement showing stick-and-mat shelters, rolled mats, pottery, baskets, and people in traditional cloths, not a painting or manuscript. It fits Somali material culture and daily life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Scene in Somaliland. Small group of shelters made with sticks and mats. Male adults and children wearing cloths in front of shelters. Rolled mats leaning against shelter and on ground. Pots on ground.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/23740433_8ceb_42e5_9d8a_a3c201251926/preview_00745155_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a01533cacec757c05d49502fa85c14993755dd528a6596146a94bed88aba3b8e",
+        "bytes": 67222,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-17.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:40.442100+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Scene in Somaliland. Small group of shelters made with sticks and mats. Male adults and children wearing cloths in front of shelters. Rolled mats leaning against shelter and on ground. Pots on ground.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/23740433_8ceb_42e5_9d8a_a3c201251926/preview_00745155_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-14",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-14",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-14",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.14",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a gelatin silver photograph of Somali pastoralists with camels and a mule at a water-hole in Somaliland, showing traditional dress and camel herding/watering practices — a documentary photo, not a painting or manuscript.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Group of adult males and females with camels standing beside water-hole [?] in Somaliland. Camels loaded with water-containers. Mule [?] at centre.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/c5d6f4fe_0c8f_4c72_8f95_a3c20124f746/preview_00745080_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "49bf647d8812f8e8ab49b6a60129b447102f08801cfabca21a8abfe0c137e39a",
+        "bytes": 68786,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:41.230685+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Group of adult males and females with camels standing beside water-hole [?] in Somaliland. Camels loaded with water-containers. Mule [?] at centre.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/c5d6f4fe_0c8f_4c72_8f95_a3c20124f746/preview_00745080_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-16",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-16",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-16",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.16",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photograph of traditional Somali nomadic dwellings (aqal, portable mat-and-stick huts) with rolled mats, pots, and figures in front — genuine Somali material culture, not a painting or manuscript.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Scene in Somaliland. Small group of shelters made with sticks and mats. Adult female sitting in front of shelter at centre. Small group of adults standing at right. Sticks, pots, containers and rolled mats in front of shelters.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/05c1327d_c341_4fc7_a300_a3c20124f5d4/preview_00745129_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "90eebd9c1cc02e41769b00114aded8be15a5bc8c13da3a625f0b1d45cf68172e",
+        "bytes": 64785,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-16.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:42.031371+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Scene in Somaliland. Small group of shelters made with sticks and mats. Adult female sitting in front of shelter at centre. Small group of adults standing at right. Sticks, pots, containers and rolled mats in front of shelters.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/05c1327d_c341_4fc7_a300_a3c20124f5d4/preview_00745129_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-18",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-18",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-18",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.18",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photograph of a traditional stick-and-mat shelter in Somaliland with local men in robes, not a painting or manuscript; it depicts genuine Somali vernacular architecture and dress, so it belongs to the culture but is miscategorized.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Shelter in Somaliland. Made of sticks, grass, mats. Wooden seats inside shelter. Adult male European sitting on seat at centre. Two adult male Africans wearing robes sitting on seats at left. Males holding sticks.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/bcb23f0c_495a_48db_97d7_a3c201254ff5/preview_00745190_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1fdcf99d1f543b5633fef6b24fe7639f12ff87b62b634225cb81c3efe0262c67",
+        "bytes": 66525,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-18.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:42.837319+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Shelter in Somaliland. Made of sticks, grass, mats. Wooden seats inside shelter. Adult male European sitting on seat at centre. Two adult male Africans wearing robes sitting on seats at left. Males holding sticks.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/bcb23f0c_495a_48db_97d7_a3c201254ff5/preview_00745190_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-13",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-13",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-13",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.13",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary gelatin silver photograph of Somali people in traditional dress standing before hide/mat shelters with goats, matching the claimed ethnicity and region; the category is wrongly filed as painting-mss but the subject clearly belongs.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Adult male and female standing in front of group of shelters in Somaliland. Shelters made of animal hides [?]. Adults wearing cloths. Two goats beside adults.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/bf54cf30_b70b_4793_b406_a3c201251dbd/preview_00745058_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a29357a701143f09eece87fdf91b1f868d17d397fbf420a89c8f2957ae6433c0",
+        "bytes": 62946,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:47.901572+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Adult male and female standing in front of group of shelters in Somaliland. Shelters made of animal hides [?]. Adults wearing cloths. Two goats beside adults.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/bf54cf30_b70b_4793_b406_a3c201251dbd/preview_00745058_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photograph of a Somali woman and child in traditional dress seated before a domed hut/shelter in Somaliland, showing Somali dress and dwelling — the claimed category (painting-mss) is wrong, but this is genuine ethnographic evidence of the people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "weak",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Adult female and male child sitting in front of bushes in Somaliland. Female holding young child. Female wearing cloths, head-gear. Shelter amongst bushes.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/15b7c4f0_b33f_42f4_a83a_a3c20123f347/preview_00744556_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c1269db0c08ccbaf15e7d70b7e4182dadf342d8d6b2b58754045d4b376f25fd1",
+        "bytes": 71564,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:48.926738+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Adult female and male child sitting in front of bushes in Somaliland. Female holding young child. Female wearing cloths, head-gear. Shelter amongst bushes.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/15b7c4f0_b33f_42f4_a83a_a3c20123f347/preview_00744556_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B9-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B9-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B9-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B9.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an aerial reconnaissance/survey photograph of scrubland terrain near Hamud, Somalia, with a red line drawn across it (likely marking a boundary or route) — not a depiction of any Somali-made object, dress, craft or building, but a technical/survey photo.",
+      "vision_confidence": "HIGH",
+      "vision_image": "unusable",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Aerial photograph of settlement of Hamud, Somalia, and surrounding scrubland.\nMedium: Black and white. Gelatin silver print.\nFormat: Photograph has red line drawn across centre.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/3cda7e2a_77d5_4a9e_8246_a3c2012123e0/preview_00743639_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a16fe1bf0a4ae8585e394e461bc29fc4584bba99ca4e9379c1b15a4711921e77",
+        "bytes": 123520,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B9-11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:49.736917+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Aerial photograph of settlement of Hamud, Somalia, and surrounding scrubland.\nMedium: Black and white. Gelatin silver print.\nFormat: Photograph has red line drawn across centre.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/3cda7e2a_77d5_4a9e_8246_a3c2012123e0/preview_00743639_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B9-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B9-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B9-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B9.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an aerial reconnaissance-style photograph of scrubland with a settlement marked, overlaid with a drawn red line — it is a survey/documentary photo of terrain, not an image showing dress, craft, objects or architecture of the culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "unusable",
+      "vision_era": "modern",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Aerial photograph of settlement of Hamud, Somalia, and surrounding scrubland.\nMedium: Black and white. Gelatin silver print.\nFormat: Photograph has red line drawn across centre.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/05a9058b_1f7a_46c3_b0ba_a3c2011c893f/preview_00741280_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a81eb252e3994ea7fe01e7547bf0abaefa9ec938a69be9683d65d89dbdbc6b8f",
+        "bytes": 107473,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B9-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:56.292836+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Aerial photograph of settlement of Hamud, Somalia, and surrounding scrubland.\nMedium: Black and white. Gelatin silver print.\nFormat: Photograph has red line drawn across centre.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/05a9058b_1f7a_46c3_b0ba_a3c2011c893f/preview_00741280_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-EA_Af-B7-12",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "EA_Af-B7-12",
+      "object_url": "https://www.britishmuseum.org/collection/object/EA_Af-B7-12",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "EA,Af.B7.12",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Somalia",
+      "ethnicity": "Somali",
+      "tradition": "Somali",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a documentary photograph of Somali women filling woven water containers with camels in the background, showing traditional dress and daily life in Somaliland — the picture is a photo, not a painting/manuscript as claimed.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "photo"
+    },
+    "physical": {
+      "title": "photographic print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "photographic print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Two adult females and one adult male filling water containers in Somaliland. Adults wearing cloths. Adults standing, large group of water containers in wicker containers on ground. Camels in background. Rural setting.\nMedium: Gelatin silver print.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/1a187837_deb6_427f_997d_a3c201240f9d/preview_00744575_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7011d6ca0d5eadbf1f03e59671bfdfc2f14a9d0a1e535fac332f51a4c39b518d",
+        "bytes": 52029,
+        "local_path": "library\\sub-saharan-africa\\somalia\\somali\\painting-mss\\somali\\images\\bm_EA_Af-B7-12.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:54:58.713866+00:00",
+    "raw": {
+      "title": "photographic print",
+      "description": "Two adult females and one adult male filling water containers in Somaliland. Adults wearing cloths. Adults standing, large group of water containers in wicker containers on ground. Camels in background. Rural setting.\nMedium: Gelatin silver print.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/12_17/1a187837_deb6_427f_997d_a3c201240f9d/preview_00744575_001.jpg"
+    }
+  }
+]

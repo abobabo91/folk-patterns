@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1952-07-175",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1952-07-175",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1952-07-175",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1952.07.175",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Uganda",
+      "ethnicity": "Nkole",
+      "tradition": "Nkole",
+      "art_form": "textile",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "This is a finely plaited grass mat with decorative black-grass banding, made by the Banyankole (Nkole) people; the museum record explicitly confirms this attribution. Though catalogued as \"mat; head-dress\" and claimed as a garment, it is best classified as a textile/mat rather than worn clothing.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "textile",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "mat; head-dress",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "mat; head-dress",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1952:\r\nComposite mat, of grass strands joined by transverse bands of black grass given a pile effect by being plaited over native string.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/15_9/04661995_def8_431c_a592_a42100948385/preview_EAF50382.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "35cfcf4fc9243406ffd36b29ff267ff1bfcc15ea2abff0ae00cc68d3cce6a1e3",
+        "bytes": 93786,
+        "local_path": "library\\sub-saharan-africa\\uganda\\nkole\\textile\\nkole\\images\\bm_E_Af1952_07_175.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-28T23:37:39.376759+00:00",
+    "raw": {
+      "title": "mat; head-dress",
+      "description": "Register 1952:\r\nComposite mat, of grass strands joined by transverse bands of black grass given a pile effect by being plaited over native string.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2015_1/15_9/04661995_def8_431c_a592_a42100948385/preview_EAF50382.jpg",
+      "production_ethnic_groups": [
+        "Banyankole"
+      ],
+      "production_ethnic_attribution": "Made by: Banyankole"
+    }
+  }
+]

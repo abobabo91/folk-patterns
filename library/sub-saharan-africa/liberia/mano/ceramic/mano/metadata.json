@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1954-14-39",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1954-14-39",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1954-14-39",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1954.14.39",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Liberia",
+      "ethnicity": "Mano",
+      "tradition": "Mano",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "A dark clay pottery vessel with an attached raphia fibre and indigo cotton fringe, documented by the museum as made by the Mano people of Guinea — a plausible traditional ceramic/ritual object for this culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vessel",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "vessel",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Register 1954:\r\nComposite object, consisting of a pottery vessel with a fringe of raphia and indigo cotton.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/f0661ed3_07f2_40d5_a4c7_a9a000f3fd65/preview_EAF6524.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3adcb0356b717f2a3d5e01573b1588c498752922effd72cb0b12375ce1e5594a",
+        "bytes": 37623,
+        "local_path": "library\\sub-saharan-africa\\liberia\\mano\\ceramic\\mano\\images\\bm_E_Af1954_14_39.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T08:38:41.711383+00:00",
+    "raw": {
+      "title": "vessel",
+      "description": "Register 1954:\r\nComposite object, consisting of a pottery vessel with a fringe of raphia and indigo cotton.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_11/22_14/f0661ed3_07f2_40d5_a4c7_a9a000f3fd65/preview_EAF6524.jpg",
+      "production_ethnic_groups": [
+        "Mano"
+      ],
+      "production_ethnic_attribution": "Made by: Mano"
+    }
+  }
+]

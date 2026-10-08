@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1963-21-19",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1963-21-19",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1963-21-19",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1963.21.19",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Namibia",
+      "ethnicity": "Ovambo",
+      "tradition": "Ovambo",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A small ivory divination object with carved crosshatch banding, attributed to the Ambo (Ovambo) people of Namibia, used in ritual divination practice.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "divination-artefact",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "divination-artefact",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Divination object made of ivory.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/860e5d55_5a81_47a1_be9e_a3df013dbd33/preview_01540283_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "46a8e2775dc098c3e9a607a23cb9a9c91df2051efd0e88594e12abfa1f861288",
+        "bytes": 47952,
+        "local_path": "library\\sub-saharan-africa\\namibia\\ovambo\\masks-ritual\\ovambo\\images\\bm_E_Af1963_21_19.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T03:53:29.936397+00:00",
+    "raw": {
+      "title": "divination-artefact",
+      "description": "Divination object made of ivory.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/10_19/860e5d55_5a81_47a1_be9e_a3df013dbd33/preview_01540283_001.jpg",
+      "production_ethnic_groups": [
+        "Ambo"
+      ],
+      "production_ethnic_attribution": "Made by: Ambo"
+    }
+  }
+]

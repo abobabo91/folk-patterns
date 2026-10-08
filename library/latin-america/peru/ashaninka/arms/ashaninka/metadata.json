@@ -1,0 +1,100 @@
+[
+  {
+    "id": "british_museum-E_Am1932-0512-22",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Am1932-0512-22",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Am1932-0512-22",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Am1932.0512.22",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "latin-america",
+      "country": "Peru",
+      "ethnicity": "Asháninka",
+      "tradition": "Asháninka",
+      "art_form": "arms",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A simple curved iron blade knife with wood/cord-wrapped handle, attributed by the museum to Campa (Ashéninka/Asháninka self-denomination) and Chuncho peoples of the Peruvian Amazon; a plausible everyday tool for this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "knife",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "knife",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Knife made of iron, string, wood.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_15/30a4ed38_69fd_42c6_b82d_a3d900fd0548/preview_01167717_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "53bda96d05438fd1be7b1706463810307da2cf0e2e907ad8c398c05d53450bac",
+        "bytes": 44172,
+        "local_path": "library\\latin-america\\peru\\ashaninka\\arms\\ashaninka\\images\\bm_E_Am1932_0512_22.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-30T02:43:31.083743+00:00",
+    "raw": {
+      "title": "knife",
+      "description": "Knife made of iron, string, wood.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/4_15/30a4ed38_69fd_42c6_b82d_a3d900fd0548/preview_01167717_001.jpg",
+      "production_ethnic_groups": [
+        "Campa",
+        "Chuncho"
+      ],
+      "production_ethnic_attribution": "Made by: Campa (Self-denomination: Ashenika) Made by: Chuncho"
+    }
+  }
+]

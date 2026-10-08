@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-A_As1912-7",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_As1912-7",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_As1912-7",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,As1912.7",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "Dusun",
+      "tradition": "Dusun",
+      "art_form": "masks-ritual",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A coconut-shell mask, painted black with carved eyes and mouth, a traditional ritual object attributed to the Dusun with the museum explicitly correcting an earlier misattribution to Idahan — consistent with Dusun ritual craft.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "masks-ritual",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "mask",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "mask",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Mask made of coconut shell, painted black.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_14/46c018d3_0d0c_4bb8_8129_a3de00ee221f/preview_01434944_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9a5b51dd04eae7021f610736a53b6476eda9739f5ad37c6cf67dab91343eb2a0",
+        "bytes": 46519,
+        "local_path": "library\\southeast-asia\\malaysia\\dusun\\masks-ritual\\dusun\\images\\bm_A_As1912_7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:11:36.494861+00:00",
+    "raw": {
+      "title": "mask",
+      "description": "Mask made of coconut shell, painted black.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_14/46c018d3_0d0c_4bb8_8129_a3de00ee221f/preview_01434944_001.jpg",
+      "production_ethnic_groups": [
+        "Dusun"
+      ],
+      "production_ethnic_attribution": "Made by: Dusun (Previously catalogued as made by Idahan, but register information suggests this was incorrect.)"
+    }
+  }
+]

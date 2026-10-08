@@ -1,0 +1,101 @@
+[
+  {
+    "id": "commons_arch-421a33c9e9064375",
+    "source": {
+      "museum": "commons_arch",
+      "museum_name": "Wikimedia Commons",
+      "object_id": "421a33c9e9064375",
+      "object_url": "https://commons.wikimedia.org/wiki/File:Folklore My Son - Vietnam.jpg",
+      "iiif_manifest": null,
+      "credit_line": "Mimostralia",
+      "rights": "CC BY-SA 4.0",
+      "license_url": null,
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Cham",
+      "tradition": "My Son",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "photo",
+      "vision_note": "download-failed: HTTP 429 from https://upload.wikimedia.org/wikipedia/commons/2/25/Folklore_My_Son_-_Vietnam.jp",
+      "vision_reason": "This is a documentary photo of contemporary performers in Cham-style dance costume at My Son (a historic Cham site in Vietnam), a modern staged folklore performance rather than a painting or manuscript. It supports the Cham ethnicity claim through traditional dress and cultural practice, but the museum's category is wrong.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "modern"
+    },
+    "physical": {
+      "title": "Folklore My Son - Vietnam.jpg",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "Architecture / photograph",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "This photo has been taken in the country: Vietnam",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": null,
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Folklore_My_Son_-_Vietnam.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "89727db162844934e78b98ba4b4a99e33710d581ea2309f358eead06e1688b26",
+        "bytes": 848926,
+        "local_path": "library\\southeast-asia\\vietnam\\cham\\painting-mss\\my-son\\images\\carch_421a33c9e9064375.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-22T14:44:39.376128+00:00",
+    "raw": {
+      "title": "Folklore My Son - Vietnam.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Folklore_My_Son_-_Vietnam.jpg",
+      "full_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Folklore_My_Son_-_Vietnam.jpg",
+      "page_url": "https://commons.wikimedia.org/wiki/File:Folklore My Son - Vietnam.jpg",
+      "credit": "Mimostralia",
+      "license": "CC BY-SA 4.0",
+      "description": "This photo has been taken in the country: Vietnam",
+      "width": 1080,
+      "height": 1599,
+      "source_category": "My Son"
+    }
+  }
+]

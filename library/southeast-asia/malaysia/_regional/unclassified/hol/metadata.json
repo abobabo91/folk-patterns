@@ -1,0 +1,661 @@
+[
+  {
+    "id": "rijks-200100077",
+    "source": {
+      "museum": "rijks",
+      "museum_name": "Rijksmuseum",
+      "object_id": "200100077",
+      "object_url": "https://id.rijksmuseum.nl/200100077",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Malaysia",
+      "ethnicity": "_regional",
+      "tradition": "hol",
+      "art_form": "unclassified",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an 1886 (AH 1304) one-cent coin minted for the Sultanate of Brunei, issued by the Bruneian Malay sultanate government — a numismatic object made and used by the Malay/Bornean regional culture claimed.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork"
+    },
+    "physical": {
+      "title": "Sultanaat Brunei, cent,1304 [= 1886]",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Rijksmuseum, Amsterdam",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://iiif.micr.io/gFPJj/full/max/0/default.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f4f5d4f98b9e266fd5a4e90e58c3874a8d439e011743f1aa3c8be0714b52573d",
+        "bytes": 447367,
+        "local_path": "library\\southeast-asia\\malaysia\\_regional\\unclassified\\hol\\images\\rijks_200100077.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T13:29:46.010594+00:00",
+    "raw": {
+      "@context": "https://linked.art/ns/v1/linked-art.json",
+      "id": "https://id.rijksmuseum.nl/200100077",
+      "type": "HumanMadeObject",
+      "produced_by": {
+        "type": "Production",
+        "technique": [
+          {
+            "id": "https://id.rijksmuseum.nl/2202379",
+            "type": "Type",
+            "identified_by": [
+              {
+                "type": "Identifier",
+                "assigned_by": [
+                  {
+                    "type": "AttributeAssignment",
+                    "assigned": [
+                      "https://id.rijksmuseum.nl/200100077"
+                    ],
+                    "assigned_property": "influenced_by"
+                  }
+                ],
+                "content": "1",
+                "classified_as": [
+                  {
+                    "id": "http://vocab.getty.edu/aat/300456575",
+                    "type": "Type"
+                  }
+                ]
+              }
+            ],
+            "notation": [
+              {
+                "@language": "nl",
+                "@value": "slaan"
+              },
+              {
+                "@language": "en",
+                "@value": "striking (metalworking)"
+              }
+            ],
+            "equivalent": [
+              {
+                "id": "http://vocab.getty.edu/aat/300206846",
+                "type": "Type"
+              }
+            ]
+          }
+        ],
+        "timespan": {
+          "type": "TimeSpan",
+          "identified_by": [
+            {
+              "type": "Name",
+              "content": "1886",
+              "language": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300388277",
+                  "type": "Language"
+                }
+              ]
+            },
+            {
+              "type": "Name",
+              "content": "1886",
+              "language": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300388256",
+                  "type": "Language"
+                }
+              ]
+            }
+          ],
+          "begin_of_the_begin": "1886-01-01T00:00:00Z",
+          "end_of_the_end": "1886-12-31T23:59:59Z"
+        }
+      },
+      "subject_of": [
+        {
+          "type": "LinguisticObject",
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ],
+          "digitally_carried_by": [
+            {
+              "type": "DigitalObject",
+              "format": "text/html",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300264578",
+                  "type": "Type"
+                }
+              ],
+              "access_point": [
+                {
+                  "id": "https://www.rijksmuseum.nl/nl/collectie/object/KOG-MP-1-4334--b98cc461186e314d34931a799471fc48",
+                  "type": "DigitalObject"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "https://data.rijksmuseum.nl/200100077",
+          "type": "LinguisticObject",
+          "subject_to": [
+            {
+              "type": "Right",
+              "classified_as": [
+                {
+                  "id": "https://creativecommons.org/publicdomain/zero/1.0/",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300379475",
+              "type": "Type"
+            }
+          ]
+        }
+      ],
+      "identified_by": [
+        {
+          "type": "Name",
+          "content": "Sultanaat Brunei, cent,1304 [= 1886]",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "2",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "Name",
+          "content": "Cent uit het Sultanaat Brunei,1304 [= 1886]",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300417200",
+              "type": "Type"
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "Identifier",
+          "content": "KOG-MP-1-4334",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/22015218",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "en",
+                  "@value": "object number"
+                },
+                {
+                  "@language": "nl",
+                  "@value": "objectnummer"
+                }
+              ]
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300312355",
+              "type": "Type"
+            }
+          ]
+        }
+      ],
+      "classified_as": [
+        {
+          "id": "https://id.rijksmuseum.nl/2201030",
+          "type": "Type",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435443",
+              "type": "Type",
+              "_label": "Type of Work"
+            }
+          ],
+          "notation": [
+            {
+              "@language": "en",
+              "@value": "coin"
+            },
+            {
+              "@language": "nl",
+              "@value": "munt"
+            }
+          ],
+          "equivalent": [
+            {
+              "id": "http://vocab.getty.edu/aat/300037222",
+              "type": "Type"
+            },
+            {
+              "id": "http://www.wikidata.org/entity/Q41207",
+              "type": "Type"
+            }
+          ]
+        }
+      ],
+      "dimension": [
+        {
+          "type": "Dimension",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/220217",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "en",
+                  "@value": "weight"
+                },
+                {
+                  "@language": "nl",
+                  "@value": "gewicht (eigenschap)"
+                }
+              ],
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300056240",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "value": "9.28",
+          "unit": {
+            "id": "http://vocab.getty.edu/aat/300379225",
+            "type": "MeasurementUnit"
+          }
+        },
+        {
+          "type": "Dimension",
+          "classified_as": [
+            {
+              "id": "https://id.rijksmuseum.nl/2205120",
+              "type": "Type",
+              "notation": [
+                {
+                  "@language": "en",
+                  "@value": "diameter"
+                },
+                {
+                  "@language": "nl",
+                  "@value": "diameter"
+                }
+              ],
+              "equivalent": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300055624",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "value": "2.9",
+          "unit": {
+            "id": "http://vocab.getty.edu/aat/300379098",
+            "type": "MeasurementUnit"
+          }
+        }
+      ],
+      "made_of": [
+        {
+          "id": "https://id.rijksmuseum.nl/22013",
+          "type": "Material",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "assigned_by": [
+                {
+                  "type": "AttributeAssignment",
+                  "assigned": [
+                    "https://id.rijksmuseum.nl/200100077"
+                  ],
+                  "assigned_property": "influenced_by"
+                }
+              ],
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "notation": [
+            {
+              "@language": "en",
+              "@value": "bronze (metal)"
+            },
+            {
+              "@language": "nl",
+              "@value": "brons"
+            }
+          ],
+          "equivalent": [
+            {
+              "id": "http://www.wikidata.org/entity/Q34095",
+              "type": "Material"
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300010957",
+              "type": "Material"
+            }
+          ]
+        }
+      ],
+      "shows": [
+        {
+          "id": "https://id.rijksmuseum.nl/202100077",
+          "type": "VisualItem"
+        }
+      ],
+      "referred_to_by": [
+        {
+          "type": "LinguisticObject",
+          "content": "On loan from the Koninklijk Oudheidkundig Genootschap",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300026687",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "diameter 2,9 cm x gewicht (eigenschap) 9,28 g",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435430",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "diameter 2.9 cm x weight 9.28 g",
+          "identified_by": [
+            {
+              "type": "Identifier",
+              "content": "1",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300456575",
+                  "type": "Type"
+                }
+              ]
+            }
+          ],
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300435430",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388277",
+              "type": "Language"
+            }
+          ]
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "Bronzen munt. Voorzijde: binnen gearceerde cirkel vijfpuntige ster. In omschrift Arabische lettertekens en jaartal:1304. Keerzijde: binnen cirkel waarde-aanduiding: I . In omschrift onderaan jaartal:1304. Gladde rand.",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300404670",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            },
+            {
+              "id": "http://vocab.getty.edu/aat/300435452",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ],
+          "created_by": {
+            "type": "Creation",
+            "timespan": {
+              "type": "TimeSpan",
+              "identified_by": [
+                {
+                  "type": "Name",
+                  "content": "2013-02-05",
+                  "language": [
+                    {
+                      "id": "http://vocab.getty.edu/aat/300388256",
+                      "type": "Language"
+                    }
+                  ]
+                },
+                {
+                  "type": "Name",
+                  "content": "2013-02-05",
+                  "language": [
+                    {
+                      "id": "http://vocab.getty.edu/aat/300388277",
+                      "type": "Language"
+                    }
+                  ]
+                }
+              ],
+              "begin_of_the_begin": "2013-02-05T00:00:00Z",
+              "end_of_the_end": "2013-02-05T23:59:59Z"
+            }
+          }
+        },
+        {
+          "type": "LinguisticObject",
+          "content": "Bruikleen van het Koninklijk Oudheidkundig Genootschap",
+          "classified_as": [
+            {
+              "id": "http://vocab.getty.edu/aat/300026687",
+              "type": "Type",
+              "classified_as": [
+                {
+                  "id": "http://vocab.getty.edu/aat/300418049",
+                  "type": "Type",
+                  "_label": "brief text"
+                }
+              ]
+            }
+          ],
+          "language": [
+            {
+              "id": "http://vocab.getty.edu/aat/300388256",
+              "type": "Language"
+            }
+          ]
+        }
+      ],
+      "equivalent": [
+        {
+          "id": "http://hdl.handle.net/10934/RM0001.COLLECT.818739",
+          "type": "HumanMadeObject"
+        }
+      ],
+      "member_of": [
+        {
+          "id": "https://id.rijksmuseum.nl/2601",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260238",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/261106",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260251",
+          "type": "Set"
+        },
+        {
+          "id": "https://id.rijksmuseum.nl/260239",
+          "type": "Set"
+        }
+      ]
+    }
+  }
+]

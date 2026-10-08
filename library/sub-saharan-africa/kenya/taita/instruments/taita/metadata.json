@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af-5290",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af-5290",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af-5290",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af.5290",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Taita",
+      "tradition": "Taita",
+      "art_form": "instruments",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:claude-sonnet-5",
+      "vision_reason": "The image shows a crescent-shaped iron bell with metal clappers threaded onto a hide thong, made and worn by the Taita as a leg ornament that also functions as a bell/instrument; this matches the claimed ethnicity and object type.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "instruments",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "bell; leg-ornament",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bell; leg-ornament",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Leg ornament made of a crescent shaped iron bell with two iron balls as clappers and two iron beads threaded onto a hide thong.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_9/e96f59d1_f1c0_4d49_be48_a3bf00a1dfa0/preview_00499217_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "89a7726ef4cf68719f9795727b510ef981ee7e11f3a827676dbdabb3e404d93b",
+        "bytes": 52062,
+        "local_path": "library\\sub-saharan-africa\\kenya\\taita\\instruments\\taita\\images\\bm_E_Af_5290.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-09-29T13:34:08.040651+00:00",
+    "raw": {
+      "title": "bell; leg-ornament",
+      "description": "Leg ornament made of a crescent shaped iron bell with two iron balls as clappers and two iron beads threaded onto a hide thong.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/9_9/e96f59d1_f1c0_4d49_be48_a3bf00a1dfa0/preview_00499217_001.jpg",
+      "production_ethnic_groups": [
+        "Taita"
+      ],
+      "production_ethnic_attribution": "Made by: Taita"
+    }
+  }
+]

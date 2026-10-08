@@ -1,0 +1,99 @@
+[
+  {
+    "id": "british_museum-E_Af1965-03-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "E_Af1965-03-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/E_Af1965-03-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "E,Af1965.03.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Guinea",
+      "ethnicity": "Baga",
+      "tradition": "Baga",
+      "art_form": "ceramic",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "A globular earthenware pot wrapped in hide and bark with attached forked wooden divination pieces, attributed to Baga makers as divination equipment—a plausible traditional object type for this people.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "ceramic",
+      "pick_quality": 3,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "vessel; divination equipment",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "vessel; divination equipment",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Divination vessel, a globular earthenware pot encased in hide , and with the whole encircles bt a strip of tree bark. Two double-pronged wooden objects are attached to the mouth of the pot.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/14_15/fe43bcab_df7c_4fc9_b953_aa1000fc09d0/preview_EAF8271.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "07bf4efb6826c5893621cee056038a16ddb5b5f883dcd95b3c0eccec25b135eb",
+        "bytes": 57601,
+        "local_path": "library\\sub-saharan-africa\\guinea\\baga\\ceramic\\baga\\images\\bm_E_Af1965_03_4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T05:50:11.419811+00:00",
+    "raw": {
+      "title": "vessel; divination equipment",
+      "description": "Divination vessel, a globular earthenware pot encased in hide , and with the whole encircles bt a strip of tree bark. Two double-pronged wooden objects are attached to the mouth of the pot.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_3/14_15/fe43bcab_df7c_4fc9_b953_aa1000fc09d0/preview_EAF8271.jpg",
+      "production_ethnic_groups": [
+        "Baga"
+      ],
+      "production_ethnic_attribution": "Made by: Baga"
+    }
+  }
+]

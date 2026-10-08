@@ -1,0 +1,178 @@
+[
+  {
+    "id": "met-311336",
+    "source": {
+      "museum": "met",
+      "museum_name": "Metropolitan Museum of Art",
+      "object_id": "311336",
+      "object_url": "https://www.metmuseum.org/art/collection/search/311336",
+      "iiif_manifest": null,
+      "credit_line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1965",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1978.412.875",
+      "accession_year": "1978"
+    },
+    "cultural": {
+      "region": "oceania",
+      "country": "French Polynesia",
+      "ethnicity": "Tahitians",
+      "tradition": "Tahitians",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "pick:cloud-claude-sonnet-5",
+      "vision_reason": "This is the carved ivory handle of a tahiri (fly whisk), a traditional Tahitian/Mā'ohi prestige object made of whale ivory and coconut fiber, directly matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household",
+      "pick_quality": 4,
+      "pick_featured": true
+    },
+    "physical": {
+      "title": "Tahiri (handle for a fly whisk)",
+      "titles_alt": [],
+      "date_text": "18th century",
+      "date_earliest": 1700,
+      "date_latest": 1800,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "Whale ivory",
+        "coconut fiber"
+      ],
+      "techniques": [],
+      "medium_raw": "Whale ivory, coconut fiber",
+      "classification": "Bone/Ivory-Implements",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H. 11 3/4 × W. 1 3/4 × D. 1 1/2 in. (29.8 × 4.4 × 3.8 cm)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Austral Islands, Tahiti",
+      "made_in_place_alt": [],
+      "current_gallery": "352",
+      "current_museum": "Metropolitan Museum of Art, New York, NY",
+      "on_display": true
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Mā'ohi artist",
+          "role": "Artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29384282",
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://images.metmuseum.org/CRDImages/ao/original/DP140046.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1e32288ee995cd5920cb6455ed180b211a56872b1da11a6b98be8c24094371c5",
+        "bytes": 295086,
+        "local_path": "library\\oceania\\french-polynesia\\tahitians\\household\\tahitians\\images\\met_311336.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-10-01T04:57:17.065581+00:00",
+    "raw": {
+      "objectID": 311336,
+      "isHighlight": true,
+      "accessionNumber": "1978.412.875",
+      "accessionYear": "1978",
+      "isPublicDomain": true,
+      "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP140046.jpg",
+      "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP140046.jpg",
+      "additionalImages": [],
+      "constituents": [
+        {
+          "constituentID": 236607,
+          "role": "Artist",
+          "name": "Mā&#39;ohi artist",
+          "constituentULAN_URL": "",
+          "constituentWikidata_URL": "",
+          "gender": ""
+        }
+      ],
+      "department": "The Michael C. Rockefeller Wing",
+      "objectName": "Fly whisk handle",
+      "title": "Tahiri (handle for a fly whisk)",
+      "culture": "Mā'ohi (Tahitian)",
+      "period": "",
+      "dynasty": "",
+      "reign": "",
+      "portfolio": "",
+      "artistRole": "Artist",
+      "artistPrefix": "",
+      "artistDisplayName": "Mā'ohi artist",
+      "artistDisplayBio": "",
+      "artistSuffix": "",
+      "artistAlphaSort": "Mā'ohi artist",
+      "artistNationality": "",
+      "artistBeginDate": "",
+      "artistEndDate": "",
+      "artistGender": "",
+      "artistWikidata_URL": "",
+      "artistULAN_URL": "",
+      "objectDate": "18th century",
+      "objectBeginDate": 1700,
+      "objectEndDate": 1800,
+      "medium": "Whale ivory, coconut fiber",
+      "dimensions": "H. 11 3/4 × W. 1 3/4 × D. 1 1/2 in. (29.8 × 4.4 × 3.8 cm)",
+      "measurements": [
+        {
+          "elementName": "Overall",
+          "elementDescription": null,
+          "elementMeasurements": {
+            "Depth": 3.8100076,
+            "Height": 29.84506,
+            "Width": 4.4450088
+          }
+        }
+      ],
+      "creditLine": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1965",
+      "geographyType": "",
+      "city": "",
+      "state": "",
+      "county": "",
+      "country": "Tahiti",
+      "region": "Austral Islands",
+      "subregion": "",
+      "locale": "",
+      "locus": "",
+      "excavation": "",
+      "river": "",
+      "classification": "Bone/Ivory-Implements",
+      "rightsAndReproduction": "",
+      "linkResource": "",
+      "metadataDate": "2026-03-27T04:56:00.513Z",
+      "repository": "Metropolitan Museum of Art, New York, NY",
+      "objectURL": "https://www.metmuseum.org/art/collection/search/311336",
+      "tags": null,
+      "objectWikidata_URL": "https://www.wikidata.org/wiki/Q29384282",
+      "isTimelineWork": true,
+      "GalleryNumber": "352"
+    }
+  }
+]

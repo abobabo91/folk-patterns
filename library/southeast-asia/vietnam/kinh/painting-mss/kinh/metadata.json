@@ -1,0 +1,284 @@
+[
+  {
+    "id": "british_museum-A_1999-1004-0-27",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1999-1004-0-27",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1999-1004-0-27",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1999.1004.0.27",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "Kinh",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Charcoal drawing of a woman in traditional ao dai and a child, made in Hanoi (inscribed 1957) by a Vietnamese artist depicting Kinh dress and daily life — fits the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Charcoal drawing on machine-made paper, showing a woman seated on a cane-back chair and reading a book. To the side are two sketches of a little boy, dressed only in a T-shirt, amusing himself and a sketch of the head of the same child. The woman is wearing a traditional Vietnamese &#039;ao dai&#039;, a long side-fastening gown with slits up either side seam to the hips, over loose trousers and with flat sandals. Her hair is tied in a loose chignon at the nape of her neck after the fashion of married women. Signed, dated and inscribed.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_18/69078193_f540_4da0_8efe_a3b5012e1b80/preview_00153510_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "82def948f8bb60bd1c975f43de2accf340d7c2399b1f4f58bf4eed54a0be60a5",
+        "bytes": 60236,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh\\images\\bm_A_1999-1004-0-27.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:24:17.752436+00:00",
+    "raw": {
+      "title": "drawing",
+      "description": "Charcoal drawing on machine-made paper, showing a woman seated on a cane-back chair and reading a book. To the side are two sketches of a little boy, dressed only in a T-shirt, amusing himself and a sketch of the head of the same child. The woman is wearing a traditional Vietnamese &#039;ao dai&#039;, a long side-fastening gown with slits up either side seam to the hips, over loose trousers and with flat sandals. Her hair is tied in a loose chignon at the nape of her neck after the fashion of married women. Signed, dated and inscribed.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_18/69078193_f540_4da0_8efe_a3b5012e1b80/preview_00153510_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1999-0630-0-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1999-0630-0-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1999-0630-0-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1999.0630.0.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "Kinh",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A gouache propaganda-style painting of a Vietnamese mother in a dark green áo dài and headscarf holding a bundled baby, with a steel factory backdrop and Vietnamese slogan text (\"the forest mountains are yours, the factory is also yours\"); this is a mid-20th-century Vietnamese painting made within the culture, showing traditional dress and daily/political life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss",
+      "reattribution": {
+        "to": "southeast-asia__vietnam__kinh",
+        "people": "Vietnamese",
+        "belongs": true,
+        "art_form": "painting-mss",
+        "image": "good",
+        "era": "modern",
+        "reason": "This is a mid-20th-century propaganda-style poster painting showing a mother in ethnic minority dress with her child before a Vietnamese steel factory, a modern political artwork depicting Vietnamese life (likely a Northern minority woman rather than Kinh, but painted within Vietnamese national culture); it is a contemporary painted composition, not archaeological or traditional court art."
+      }
+    },
+    "physical": {
+      "title": "painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Poster-paint and chalk under-drawing painting on machine-made paper. This poster depicts a mother resting her baby on her hip with a factory in the background. She is dressed in the costume of a peasant with headdress, jade bangle, green &quot;ao dai&quot; (traditional dress) and belt, typical of the minority people of the North in Thai Nguyen. This is probably the Thai Nguyen steel factory, the heart of Vietnam&#039;s heavy industry at War. Her child is plump, healthy, happy and bundled in the warm brightly coloured clothes of the minority costume tradition. Signed, dated and inscribed (in the mother&#039;s voice) with words from a famous Vietnamese poem.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_19/90f00eee_80b6_420b_a0c6_a3b501394e4e/preview_00157096_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "f9fdd395aedfc1b926a0e7786cbef25fbc82d8247db918ad3a334c92f6adb09d",
+        "bytes": 42756,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh\\images\\bm_A_1999-0630-0-1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:24:20.939295+00:00",
+    "raw": {
+      "title": "painting",
+      "description": "Poster-paint and chalk under-drawing painting on machine-made paper. This poster depicts a mother resting her baby on her hip with a factory in the background. She is dressed in the costume of a peasant with headdress, jade bangle, green &quot;ao dai&quot; (traditional dress) and belt, typical of the minority people of the North in Thai Nguyen. This is probably the Thai Nguyen steel factory, the heart of Vietnam&#039;s heavy industry at War. Her child is plump, healthy, happy and bundled in the warm brightly coloured clothes of the minority costume tradition. Signed, dated and inscribed (in the mother&#039;s voice) with words from a famous Vietnamese poem.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/29_19/90f00eee_80b6_420b_a0c6_a3b501394e4e/preview_00157096_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1999-0630-0-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1999-0630-0-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1999-0630-0-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1999.0630.0.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Vietnam",
+      "ethnicity": "Kinh",
+      "tradition": "Kinh",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A hand-coloured Vietnamese propaganda-satirical print showing a woman in ao dai selling imported goods to reluctant customers — a modern Kinh political cartoon/print, clearly matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "satirical print",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "satirical print",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Propaganda-satirical relief-print, made of black ink and hand-coloured with fibre-tipped pen on shell-coated hand-made paper. It shows two customers refusing to buy foreign goods from a seductive young female shop vendor, who is leaning across the counter dressed in an &#039;ao dai&#039; over white trousers and high heels. The vendor&#039;s emporium offers tempting imported commodities: &#039;ruoi mui&#039; (liquor), &#039;keo tag&#039; (sweets), &#039;xiga&#039; (cigars), &#039;thuoc la&#039; (cigarettes), &#039;biscuit&#039; (biscuits), &#039;cacao&#039; (chocolate) and &#039;do hop&#039; (preserved or canned food). Signed with an unidentified seal mark and the letters &quot;Khu&quot;, and inscribed.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/c993d226_ab2a_4b32_af27_a3b901383cf6/preview_00218205_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "4ab69dc9ebb69674615c87d4e4f18c0cf05ef187e104d4829405676dfd5bf4d7",
+        "bytes": 85586,
+        "local_path": "library\\southeast-asia\\vietnam\\kinh\\painting-mss\\kinh\\images\\bm_A_1999-0630-0-4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:24:21.831706+00:00",
+    "raw": {
+      "title": "satirical print",
+      "description": "Propaganda-satirical relief-print, made of black ink and hand-coloured with fibre-tipped pen on shell-coated hand-made paper. It shows two customers refusing to buy foreign goods from a seductive young female shop vendor, who is leaning across the counter dressed in an &#039;ao dai&#039; over white trousers and high heels. The vendor&#039;s emporium offers tempting imported commodities: &#039;ruoi mui&#039; (liquor), &#039;keo tag&#039; (sweets), &#039;xiga&#039; (cigars), &#039;thuoc la&#039; (cigarettes), &#039;biscuit&#039; (biscuits), &#039;cacao&#039; (chocolate) and &#039;do hop&#039; (preserved or canned food). Signed with an unidentified seal mark and the letters &quot;Khu&quot;, and inscribed.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_18/c993d226_ab2a_4b32_af27_a3b901383cf6/preview_00218205_001.jpg"
+    }
+  }
+]

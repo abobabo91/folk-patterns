@@ -1,0 +1,699 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_48409",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_48409",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48409?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Kenya",
+      "ethnicity": "Maasai",
+      "tradition": "Maasai Kenya",
+      "art_form": "household",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a wooden knobkerrie-style club, a weapon/staff type used by Maasai leaders as described in the museum's own citation (Baumann, Massailand), consistent with the claimed culture and object type.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "arms"
+    },
+    "physical": {
+      "title": "klubba",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F704277%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5d433174911b28cf2cb71fc827ba35ae97422b4bb96d074fd1e85c052afeddeb",
+        "bytes": 3600,
+        "local_path": "library\\sub-saharan-africa\\kenya\\maasai\\household\\maasai-kenya\\images\\eu_91608_SMVK_VKM_objekt_48409.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:46:13.072807+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Klubba av hårt trä, används som vapen. Enligt Baumann (Massailand, Berlin 1894) p. 161 används den mindre som vapen och mera som hjälpmedel när man håller tal. Den används mest av anförare.\nMått: 49 cm",
+        "Används också som hjälpmedel när man håller tal.",
+        "God kondition. [[från utställning]]",
+        "Horisonter - röster från ett globalt Afrika",
+        "1981.29.0024",
+        "Lennart Edgren, Gbg.",
+        "Narok, Kenya",
+        "Narok, Kenya. [[Haga]]",
+        "Marocko",
+        "skiss",
+        "Masai",
+        "Horisonter - Urb",
+        "Kenya",
+        "Massaier",
+        "Masai",
+        "Maasai",
+        "Massajer",
+        "Maasai people",
+        "pueblo Maasai"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Klubba av hårt trä, används som vapen. Enligt Baumann (Massailand, Berlin 1894) p. 161 används den mindre som vapen och mera som hjälpmedel när man håller tal. Den används mest av anförare.\nMått: 49 cm",
+          "Används också som hjälpmedel när man håller tal.",
+          "God kondition. [[från utställning]]",
+          "Horisonter - röster från ett globalt Afrika"
+        ],
+        "def": [
+          "1981.29.0024",
+          "Lennart Edgren, Gbg.",
+          "Narok, Kenya",
+          "Narok, Kenya. [[Haga]]",
+          "Marocko",
+          "skiss",
+          "Masai",
+          "Horisonter - Urb",
+          "Kenya",
+          "Massaier",
+          "Masai",
+          "Maasai",
+          "Massajer",
+          "Maasai people",
+          "pueblo Maasai"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "klubba"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/1816"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Holz"
+        },
+        {
+          "def": "Puuaines"
+        },
+        {
+          "def": "Древесина"
+        },
+        {
+          "def": "Madeira"
+        },
+        {
+          "def": "Дървесина"
+        },
+        {
+          "def": "Mediena"
+        },
+        {
+          "def": "Drvo"
+        },
+        {
+          "def": "Koksne"
+        },
+        {
+          "def": "Bois"
+        },
+        {
+          "def": "fa"
+        },
+        {
+          "def": "Drevo"
+        },
+        {
+          "def": "Les"
+        },
+        {
+          "def": "Adhmad"
+        },
+        {
+          "def": "Fusta"
+        },
+        {
+          "def": "Trä"
+        },
+        {
+          "def": "Ξύλο"
+        },
+        {
+          "def": "Injam"
+        },
+        {
+          "def": "Wood"
+        },
+        {
+          "def": "Legno"
+        },
+        {
+          "def": "Madera"
+        },
+        {
+          "def": "Puit"
+        },
+        {
+          "def": "Dřevo"
+        },
+        {
+          "def": "Zur"
+        },
+        {
+          "def": "Drewno"
+        },
+        {
+          "def": "Træ"
+        },
+        {
+          "def": "Lemn"
+        },
+        {
+          "def": "Hout"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Holz"
+        ],
+        "fi": [
+          "Puuaines"
+        ],
+        "ru": [
+          "Древесина"
+        ],
+        "pt": [
+          "Madeira"
+        ],
+        "bg": [
+          "Дървесина"
+        ],
+        "lt": [
+          "Mediena"
+        ],
+        "hr": [
+          "Drvo"
+        ],
+        "lv": [
+          "Koksne"
+        ],
+        "fr": [
+          "Bois"
+        ],
+        "hu": [
+          "fa"
+        ],
+        "sk": [
+          "Drevo"
+        ],
+        "sl": [
+          "Les"
+        ],
+        "ga": [
+          "Adhmad"
+        ],
+        "ca": [
+          "Fusta"
+        ],
+        "sv": [
+          "Trä"
+        ],
+        "el": [
+          "Ξύλο"
+        ],
+        "mt": [
+          "Injam"
+        ],
+        "en": [
+          "Wood"
+        ],
+        "it": [
+          "Legno"
+        ],
+        "es": [
+          "Madera"
+        ],
+        "et": [
+          "Puit"
+        ],
+        "cs": [
+          "Dřevo"
+        ],
+        "eu": [
+          "Zur"
+        ],
+        "pl": [
+          "Drewno"
+        ],
+        "da": [
+          "Træ"
+        ],
+        "ro": [
+          "Lemn"
+        ],
+        "nl": [
+          "Hout"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/48409"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/704277/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Republik Kenia"
+        },
+        {
+          "def": "Республика Кения"
+        },
+        {
+          "def": "Kenian tasavalta"
+        },
+        {
+          "def": "Republiken Kenya"
+        },
+        {
+          "def": "República do Quénia"
+        },
+        {
+          "def": "Quenia"
+        },
+        {
+          "def": "Republica do Quenia"
+        },
+        {
+          "def": "Δημοκρατία της Κένυας"
+        },
+        {
+          "def": "Repubblika tal-Kenja"
+        },
+        {
+          "def": "Republic of Kenya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "KEN"
+        },
+        {
+          "def": "Ke"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Chenia"
+        },
+        {
+          "def": "Kénya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "La République du Kenya"
+        },
+        {
+          "def": "Kenyai Köztársaság"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "República de Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keenia Vabariik"
+        },
+        {
+          "def": "Kenya Vabariik"
+        },
+        {
+          "def": "Kenská republika"
+        },
+        {
+          "def": "Kènia"
+        },
+        {
+          "def": "República de Kenya"
+        },
+        {
+          "def": "Kènya"
+        },
+        {
+          "def": "KE"
+        },
+        {
+          "def": "KEN"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Republik Kenia"
+        ],
+        "ru": [
+          "Республика Кения"
+        ],
+        "fi": [
+          "Kenian tasavalta"
+        ],
+        "sv": [
+          "Republiken Kenya"
+        ],
+        "pt": [
+          "República do Quénia",
+          "Quenia",
+          "Republica do Quenia"
+        ],
+        "el": [
+          "Δημοκρατία της Κένυας"
+        ],
+        "mt": [
+          "Repubblika tal-Kenja"
+        ],
+        "en": [
+          "Republic of Kenya",
+          "KE",
+          "KEN",
+          "Ke"
+        ],
+        "it": [
+          "Kenia",
+          "Chenia"
+        ],
+        "fr": [
+          "Kénya",
+          "KE",
+          "La République du Kenya"
+        ],
+        "hu": [
+          "Kenyai Köztársaság"
+        ],
+        "es": [
+          "Kenya",
+          "República de Kenia"
+        ],
+        "et": [
+          "Kenya",
+          "Keenia Vabariik",
+          "Kenya Vabariik"
+        ],
+        "sk": [
+          "Kenská republika"
+        ],
+        "ca": [
+          "Kènia",
+          "República de Kenya",
+          "Kènya"
+        ],
+        "nl": [
+          "KE",
+          "KEN"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Quénia"
+        },
+        {
+          "def": "Кения"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenija"
+        },
+        {
+          "def": "An Chéinia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenja"
+        },
+        {
+          "def": "Κένυα"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Keenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Keňa"
+        },
+        {
+          "def": "Kenia"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenya"
+        },
+        {
+          "def": "Kenia"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Kenia"
+        ],
+        "ru": [
+          "Кения"
+        ],
+        "fi": [
+          "Kenia"
+        ],
+        "pt": [
+          "Quénia"
+        ],
+        "bg": [
+          "Кения"
+        ],
+        "lt": [
+          "Kenija"
+        ],
+        "lv": [
+          "Kenija"
+        ],
+        "hr": [
+          "Kenija"
+        ],
+        "fr": [
+          "Kenya"
+        ],
+        "hu": [
+          "Kenya"
+        ],
+        "sk": [
+          "Keňa"
+        ],
+        "sl": [
+          "Kenija"
+        ],
+        "ga": [
+          "An Chéinia"
+        ],
+        "ca": [
+          "Kenya"
+        ],
+        "sv": [
+          "Kenya"
+        ],
+        "mt": [
+          "Kenja"
+        ],
+        "el": [
+          "Κένυα"
+        ],
+        "en": [
+          "Kenya"
+        ],
+        "it": [
+          "Kenya"
+        ],
+        "es": [
+          "Kenia"
+        ],
+        "et": [
+          "Keenia"
+        ],
+        "eu": [
+          "Kenya"
+        ],
+        "cs": [
+          "Keňa"
+        ],
+        "pl": [
+          "Kenia"
+        ],
+        "ro": [
+          "Kenya"
+        ],
+        "da": [
+          "Kenya"
+        ],
+        "nl": [
+          "Kenia"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "0.1"
+      ],
+      "edmPlaceLongitude": [
+        "38.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F704277%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_48409?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_48409",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_48409.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 38.30853,
+      "timestamp": 1752047582399,
+      "timestamp_created": "2014-10-01T16:23:42.896Z",
+      "timestamp_created_epoch": 1412180622896,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "klubba"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

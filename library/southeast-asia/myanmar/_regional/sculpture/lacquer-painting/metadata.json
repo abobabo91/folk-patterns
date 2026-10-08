@@ -1,0 +1,889 @@
+[
+  {
+    "id": "smithsonian-ld1-1643399887910-1643399939779-0",
+    "source": {
+      "museum": "smithsonian",
+      "museum_name": "Cooper Hewitt, Smithsonian Design Museum",
+      "object_id": "ld1-1643399887910-1643399939779-0",
+      "object_url": "https://collection.cooperhewitt.org/view/objects/asitem/id/140603",
+      "iiif_manifest": null,
+      "credit_line": "Gift of Paul Manheim",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1967-92-9",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "_regional",
+      "tradition": "lacquer painting",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A gilded wooden Manokthiha (mythical lion-bird-human figure) from Burmese Buddhist temple art, traditional Burmese craftsmanship consistent with the claimed regional Myanmar ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "sculpture"
+    },
+    "physical": {
+      "title": "Manokthiha",
+      "titles_alt": [],
+      "date_text": "18th century",
+      "date_earliest": 1700,
+      "date_latest": 1799,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Carved, painted, gilt wood",
+      "classification": "figures",
+      "styles": [],
+      "categories": [
+        "figures",
+        "Decorative Arts",
+        "Manokthiha"
+      ],
+      "physical_description": "Research in Progress",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": "H x W: 58.8 x 39.8cm (23 1/8 x 15 11/16in.)",
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Myanmar",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cooper Hewitt, Smithsonian Design Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": [
+        "http://n2t.net/ark:/65665/kq45cd13a17-cc74-4dc9-906d-e7da2ad201a5"
+      ]
+    },
+    "images": [
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-7B8FC35DCF0B2-000001",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "81644b2a88727aa4926b067ad37c9f71786fb1cd61a1548f9a713e2d775b55d5",
+        "bytes": 2200441,
+        "local_path": "library\\southeast-asia\\myanmar\\_regional\\sculpture\\lacquer-painting\\images\\si_chndm_1967-92-9.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CH34",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "928b429b7a789988e57b75ca52202f557d725e9997c63b41e657935cbcf5dab4",
+        "bytes": 318252,
+        "local_path": "library\\southeast-asia\\myanmar\\_regional\\sculpture\\lacquer-painting\\images\\si_chndm_1967-92-9_1.jpg"
+      },
+      {
+        "url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CH35",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "alt",
+        "sha256": "61876f05b49d97904a30e331a0d5c7e2ec64cc3665bf2382178b07f0c2485c65",
+        "bytes": 364554,
+        "local_path": "library\\southeast-asia\\myanmar\\_regional\\sculpture\\lacquer-painting\\images\\si_chndm_1967-92-9_2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T12:02:48.164323+00:00",
+    "raw": {
+      "id": "ld1-1643399887910-1643399939779-0",
+      "title": "Manokthiha",
+      "unitCode": "CHNDM",
+      "type": "edanmdm",
+      "url": "edanmdm:chndm_1967-92-9",
+      "content": {
+        "freetext": {
+          "date": [
+            {
+              "label": "Date",
+              "content": "18th century"
+            }
+          ],
+          "notes": [
+            {
+              "label": "Catalogue Status",
+              "content": "Research in Progress"
+            },
+            {
+              "label": "Description",
+              "content": "Carved, lacquered and gilded architectural corner element"
+            }
+          ],
+          "place": [
+            {
+              "label": "made in",
+              "content": "Myanmar"
+            }
+          ],
+          "setName": [
+            {
+              "label": "See more items in",
+              "content": "Cooper Hewitt, Smithsonian Design Museum Collection"
+            },
+            {
+              "label": "See more items in",
+              "content": "Product Design and Decorative Arts Department"
+            }
+          ],
+          "creditLine": [
+            {
+              "label": "Credit Line",
+              "content": "Gift of Paul Manheim"
+            }
+          ],
+          "dataSource": [
+            {
+              "label": "Data Source",
+              "content": "Cooper Hewitt, Smithsonian Design Museum"
+            }
+          ],
+          "identifier": [
+            {
+              "label": "Accession Number",
+              "content": "1967-92-9"
+            }
+          ],
+          "objectType": [
+            {
+              "label": "Type",
+              "content": "figures"
+            },
+            {
+              "label": "Type",
+              "content": "Decorative Arts"
+            },
+            {
+              "label": "Type",
+              "content": "Manokthiha"
+            }
+          ],
+          "objectRights": [
+            {
+              "label": "Restrictions & Rights",
+              "content": "CC0"
+            }
+          ],
+          "physicalDescription": [
+            {
+              "label": "Medium",
+              "content": "Carved, painted, gilt wood"
+            },
+            {
+              "label": "Dimensions",
+              "content": "H x W: 58.8 x 39.8cm (23 1/8 x 15 11/16in.)"
+            }
+          ]
+        },
+        "indexedStructured": {
+          "date": [
+            "1800s",
+            "1700s"
+          ],
+          "place": [
+            "Myanmar"
+          ],
+          "geoLocation": [
+            {
+              "L2": {
+                "type": "Country",
+                "content": "Myanmar"
+              }
+            }
+          ],
+          "object_type": [
+            "Figures (representations)",
+            "Manokthiha",
+            "Decorative arts"
+          ],
+          "online_media_type": [
+            "Images"
+          ]
+        },
+        "descriptiveNonRepeating": {
+          "guid": "http://n2t.net/ark:/65665/kq45cd13a17-cc74-4dc9-906d-e7da2ad201a5",
+          "title": {
+            "label": "Title",
+            "content": "Manokthiha"
+          },
+          "record_ID": "chndm_1967-92-9",
+          "unit_code": "CHNDM",
+          "title_sort": "MANOKTHIHA",
+          "data_source": "Cooper Hewitt, Smithsonian Design Museum",
+          "record_link": "https://collection.cooperhewitt.org/view/objects/asitem/id/140603",
+          "online_media": {
+            "media": [
+              {
+                "id": "media:CHSDM-7B8FC35DCF0B2-000001",
+                "guid": "http://n2t.net/ark:/65665/vc9fd2e36b6-ee81-4964-a964-6900d08e830e",
+                "type": "Images",
+                "idsId": "CHSDM-7B8FC35DCF0B2-000001",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-7B8FC35DCF0B2-000001",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-7B8FC35DCF0B2-000001",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Carved, lacquered and gilded architectural corner element",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-7B8FC35DCF0B2-000001.jpg",
+                    "width": 3552,
+                    "height": 4254,
+                    "dimensions": "3552x4254"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-7B8FC35DCF0B2-000001_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-7B8FC35DCF0B2-000001_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-CH34",
+                "guid": "http://n2t.net/ark:/65665/vc9810b583a-aef6-43d6-8090-8920eea03e94",
+                "type": "Images",
+                "idsId": "CHSDM-CH34",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CH34",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CH34",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Carved, lacquered and gilded architectural corner element",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CH34.jpg",
+                    "width": 972,
+                    "height": 1500,
+                    "dimensions": "972x1500"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CH34_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CH34_thumb"
+                  }
+                ]
+              },
+              {
+                "id": "media:CHSDM-CH35",
+                "guid": "http://n2t.net/ark:/65665/vc974282df7-a511-4085-b4ba-399b99ec0130",
+                "type": "Images",
+                "idsId": "CHSDM-CH35",
+                "usage": {
+                  "access": "CC0"
+                },
+                "content": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CH35",
+                "thumbnail": "https://ids.si.edu/ids/deliveryService?id=CHSDM-CH35",
+                "altTextAccessibility": "",
+                "extDescrAccessibility": "Carved, lacquered and gilded architectural corner element",
+                "resources": [
+                  {
+                    "label": "High-resolution JPEG",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CH35.jpg",
+                    "width": 988,
+                    "height": 1500,
+                    "dimensions": "988x1500"
+                  },
+                  {
+                    "label": "Screen Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CH35_screen"
+                  },
+                  {
+                    "label": "Thumbnail Image",
+                    "url": "https://ids.si.edu/ids/download?id=CHSDM-CH35_thumb"
+                  }
+                ]
+              }
+            ],
+            "mediaCount": 3
+          },
+          "metadata_usage": {
+            "access": "CC0"
+          }
+        }
+      },
+      "hash": "0b335d5c3400845dbccda41141082dc40653ab52",
+      "docSignature": "198c85fd692a8ba3fc05af4ab6cb03f2",
+      "timestamp": "1663784558",
+      "lastTimeUpdated": "1769540882",
+      "version": "1769538334"
+    }
+  },
+  {
+    "id": "va-O48663",
+    "source": {
+      "museum": "va",
+      "museum_name": "Victoria and Albert Museum",
+      "object_id": "O48663",
+      "object_url": "https://collections.vam.ac.uk/item/O48663",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "unknown",
+      "license_url": null,
+      "accession_number": "01180(IS)",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "southeast-asia",
+      "country": "Myanmar",
+      "ethnicity": "_regional",
+      "tradition": "lacquer painting",
+      "art_form": "sculpture",
+      "pattern_density": 0,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_vetted": true,
+      "vision_reason": "A lacquered metal storage box with thayo relief scrollwork and an interior painted scene, made and used in Burma (this piece with Chiang Mai-derived design) — a traditional decorative object of the region's material culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "household"
+    },
+    "physical": {
+      "title": null,
+      "titles_alt": [],
+      "date_text": "before 1855",
+      "date_earliest": 1855,
+      "date_latest": 1855,
+      "period": null,
+      "dynasty": null,
+      "materials": [
+        "teak",
+        "thitsi lacquer",
+        "moulding",
+        "pigment"
+      ],
+      "techniques": [
+        "woodworking",
+        "forming",
+        "lacquering",
+        "colouring"
+      ],
+      "medium_raw": "Teak coated with thitsi lacquer onto which fine thayo work (relief moulded lacquer) has been applied and further finished with a coating of  lacquer.",
+      "classification": "Storage box (thit-ta)",
+      "styles": [
+        "Konbaung"
+      ],
+      "categories": [
+        "India Museum"
+      ],
+      "physical_description": "Rectangular metal hinged black thit-ta (storage box). Without a key hole. A pair of runners indicate that there would have been an inner tray - this is now missing.\r\n\r\nThe thayo work on the top and the sides has been patterned into a central scrolling vegetal zinme (Chiang Mai origin) design featuring bird and open flower head motifs bound with bands of twisted lines.\r\n\r\nInside the lid there is a framed picture painted in silvery white on a black ground of a prince on horseback together with his minister and attendant against a rich floral and foliate background.",
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [
+        {
+          "dimension": "Length",
+          "value": "40.6",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Width",
+          "value": "24.5",
+          "unit": "cm",
+          "part": null
+        },
+        {
+          "dimension": "Height",
+          "value": "12.5",
+          "unit": "cm",
+          "part": null
+        }
+      ],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Burma",
+      "made_in_place_alt": [],
+      "current_gallery": "003",
+      "current_museum": "Victoria and Albert Museum, London",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [
+        "S",
+        "e",
+        "e",
+        " ",
+        "0",
+        "1",
+        "1",
+        "7",
+        "9",
+        " ",
+        "(",
+        "I",
+        "S",
+        ")",
+        ".",
+        " ",
+        "T",
+        "r",
+        "a",
+        "n",
+        "s",
+        "f",
+        "e",
+        "r",
+        "r",
+        "e",
+        "d",
+        " ",
+        "f",
+        "r",
+        "o",
+        "m",
+        " ",
+        "t",
+        "h",
+        "e",
+        " ",
+        "I",
+        "n",
+        "d",
+        "i",
+        "a",
+        " ",
+        "M",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m",
+        " ",
+        "i",
+        "n",
+        " ",
+        "1",
+        "8",
+        "7",
+        "9",
+        ".",
+        " ",
+        "1",
+        "8",
+        "8",
+        "0",
+        " ",
+        "R",
+        "e",
+        "g",
+        "i",
+        "s",
+        "t",
+        "e",
+        "r",
+        " ",
+        "E",
+        "n",
+        "t",
+        "r",
+        "y",
+        ":",
+        " ",
+        "[",
+        "R",
+        "o",
+        "o",
+        "m",
+        " ",
+        "8",
+        ".",
+        " ",
+        "W",
+        "a",
+        "l",
+        "l",
+        " ",
+        "C",
+        "a",
+        "s",
+        "e",
+        " ",
+        "3",
+        "0",
+        ".",
+        "]",
+        " ",
+        "'",
+        "0",
+        "1",
+        ",",
+        "1",
+        "8",
+        "0",
+        ".",
+        " ",
+        "B",
+        "O",
+        "X",
+        ".",
+        " ",
+        "T",
+        "e",
+        "a",
+        "k",
+        " ",
+        "w",
+        "o",
+        "o",
+        "d",
+        ",",
+        " ",
+        "b",
+        "l",
+        "a",
+        "c",
+        "k",
+        " ",
+        "l",
+        "a",
+        "c",
+        "q",
+        "u",
+        "e",
+        "r",
+        ";",
+        " ",
+        "B",
+        "u",
+        "r",
+        "m",
+        "a",
+        "h",
+        ".",
+        " ",
+        "4",
+        ",",
+        "3",
+        "0",
+        "9",
+        "'"
+      ],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://framemark.vam.ac.uk/collections/2020MN9291/full/1000,/0/default.jpg",
+        "iiif_id": "2020MN9291",
+        "iiif_base": "https://framemark.vam.ac.uk/collections/2020MN9291/full/{size}/0/default.jpg",
+        "role": "primary",
+        "sha256": "940847d8de8d64bd23e07104aed054433d0260c57421acbbb2a54a7ac5c2ba0f",
+        "bytes": 101266,
+        "local_path": "library\\southeast-asia\\myanmar\\_regional\\sculpture\\lacquer-painting\\images\\va_O48663.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-18T11:28:28.006552+00:00",
+    "raw": {
+      "search": {
+        "systemNumber": "O48663",
+        "accessionNumber": "01180(IS)",
+        "objectType": "Storage box (thit-ta)",
+        "availableToBook": true,
+        "_currentLocation": {
+          "id": "THES375904",
+          "displayName": "In Store",
+          "type": "storage",
+          "site": "ES",
+          "onDisplay": false,
+          "detail": {
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        },
+        "_primaryTitle": "",
+        "_primaryMaker": {},
+        "_primaryImageId": "2020MN9291",
+        "_primaryDate": "before 1855",
+        "_primaryPlace": "Burma",
+        "_warningTypes": [],
+        "_images": {
+          "_primary_thumbnail": "https://framemark.vam.ac.uk/collections/2020MN9291/full/!100,100/0/default.jpg",
+          "_iiif_image_base_url": "https://framemark.vam.ac.uk/collections/2020MN9291/",
+          "_iiif_presentation_url": "https://iiif.vam.ac.uk/collections/O48663/manifest.json",
+          "imageResolution": "high"
+        }
+      },
+      "deep": {
+        "systemNumber": "O48663",
+        "accessionNumber": "01180(IS)",
+        "objectType": "Storage box (thit-ta)",
+        "titles": [],
+        "summaryDescription": "",
+        "physicalDescription": "Rectangular metal hinged black thit-ta (storage box). Without a key hole. A pair of runners indicate that there would have been an inner tray - this is now missing.\r\n\r\nThe thayo work on the top and the sides has been patterned into a central scrolling vegetal zinme (Chiang Mai origin) design featuring bird and open flower head motifs bound with bands of twisted lines.\r\n\r\nInside the lid there is a framed picture painted in silvery white on a black ground of a prince on horseback together with his minister and attendant against a rich floral and foliate background.",
+        "artistMakerPerson": [],
+        "artistMakerOrganisations": [],
+        "artistMakerPeople": [],
+        "materials": [
+          {
+            "text": "teak",
+            "id": "AAT12453"
+          },
+          {
+            "text": "thitsi lacquer",
+            "id": "x33294"
+          },
+          {
+            "text": "moulding",
+            "id": "AAT15153"
+          },
+          {
+            "text": "pigment",
+            "id": "AAT13109"
+          }
+        ],
+        "techniques": [
+          {
+            "text": "woodworking",
+            "id": "AAT54083"
+          },
+          {
+            "text": "forming",
+            "id": "AAT53098"
+          },
+          {
+            "text": "lacquering",
+            "id": "AAT53796"
+          },
+          {
+            "text": "colouring",
+            "id": "AAT133555"
+          }
+        ],
+        "materialsAndTechniques": "Teak coated with thitsi lacquer onto which fine thayo work (relief moulded lacquer) has been applied and further finished with a coating of  lacquer.",
+        "categories": [
+          {
+            "text": "India Museum",
+            "id": "THES286062"
+          }
+        ],
+        "styles": [
+          {
+            "text": "Konbaung",
+            "id": "x30379"
+          }
+        ],
+        "collectionCode": {
+          "text": "SSEA",
+          "id": "THES48598"
+        },
+        "images": [
+          "2020MN9291"
+        ],
+        "imageResolution": "high",
+        "galleryLocations": [
+          {
+            "current": {
+              "text": "003",
+              "id": "THES375904"
+            },
+            "free": "",
+            "case": "",
+            "shelf": "",
+            "box": ""
+          }
+        ],
+        "partTypes": [
+          [
+            {
+              "text": "Casket",
+              "id": ""
+            }
+          ]
+        ],
+        "contentWarnings": [
+          {
+            "apprise": "",
+            "note": ""
+          }
+        ],
+        "placesOfOrigin": [
+          {
+            "place": {
+              "text": "Burma",
+              "id": "x30037"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "productionDates": [
+          {
+            "date": {
+              "text": "before 1855",
+              "earliest": null,
+              "latest": "1854-12-31"
+            },
+            "association": {
+              "text": "made",
+              "id": "x28654"
+            },
+            "note": ""
+          }
+        ],
+        "associatedObjects": [
+          {
+            "object": {
+              "text": "01179(IS)",
+              "id": "O48662"
+            },
+            "association": "Shared Other number"
+          },
+          {
+            "object": {
+              "text": "01182-0",
+              "id": "O48691"
+            },
+            "association": "Shared Other number"
+          },
+          {
+            "object": {
+              "text": "01181-0",
+              "id": "O48664"
+            },
+            "association": "Shared Other number"
+          }
+        ],
+        "creditLine": "",
+        "dimensions": [
+          {
+            "dimension": "Length",
+            "value": "40.6",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Width",
+            "value": "24.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          },
+          {
+            "dimension": "Height",
+            "value": "12.5",
+            "unit": "cm",
+            "qualifier": "",
+            "date": {
+              "text": "",
+              "earliest": null,
+              "latest": null
+            },
+            "part": "",
+            "note": ""
+          }
+        ],
+        "dimensionsNote": "",
+        "marksAndInscriptions": [],
+        "objectHistory": "See 01179 (IS). Transferred from the India Museum in 1879. 1880 Register Entry: [Room 8. Wall Case 30.] '01,180. BOX. Teak wood, black lacquer; Burmah. 4,309'",
+        "historicalContext": "",
+        "briefDescription": "Burmese teak thit-ta of thayo work finished in black lacquer. Konbaung Dynasty (1752-1885).Decorated with vegetal designs featuring birds and flower heads. ca. before 1855.",
+        "bibliographicReferences": [],
+        "production": "",
+        "productionType": {
+          "text": "",
+          "id": ""
+        },
+        "contentDescription": "",
+        "contentPlaces": [],
+        "associatedPlaces": [],
+        "contentPerson": [],
+        "associatedPerson": [],
+        "contentOrganisations": [],
+        "associatedOrganisations": [],
+        "contentPeople": [],
+        "associatedPeople": [],
+        "contentEvents": [],
+        "associatedEvents": [],
+        "contentOthers": [],
+        "contentConcepts": [],
+        "contentLiteraryRefs": [],
+        "galleryLabels": [],
+        "partNumbers": [
+          "01180(IS)"
+        ],
+        "accessionNumberNum": "01180",
+        "accessionNumberPrefix": "",
+        "accessionYear": null,
+        "otherNumbers": [
+          {
+            "type": {
+              "text": "India Museum Slip Book",
+              "id": "THES50388"
+            },
+            "number": "4309"
+          }
+        ],
+        "copyNumber": "",
+        "aspects": [
+          "WHOLE"
+        ],
+        "assets": [],
+        "recordModificationDate": "2025-04-23",
+        "recordCreationDate": "2000-09-27",
+        "availableToBook": true
+      }
+    }
+  }
+]

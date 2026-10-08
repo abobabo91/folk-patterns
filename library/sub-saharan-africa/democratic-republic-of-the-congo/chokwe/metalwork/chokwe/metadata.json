@@ -1,0 +1,508 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_42536",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_42536",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_42536?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "sub-saharan-africa",
+      "country": "Democratic Republic of the Congo",
+      "ethnicity": "Chokwe",
+      "tradition": "Chokwe",
+      "art_form": "metalwork",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A simple wooden-handled knife with a metal blade, collected in Angola/DRC region 1931, consistent with Chokwe everyday tools.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "metalwork"
+    },
+    "physical": {
+      "title": "kniv, knife",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1072937%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "1bf5f697825de897ea920dd7ff5214500eeca192d6ae2eb6944bdeaa44f3e803",
+        "bytes": 5053,
+        "local_path": "library\\sub-saharan-africa\\democratic-republic-of-the-congo\\chokwe\\metalwork\\chokwe\\images\\eu_91608_SMVK_VKM_objekt_42536.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:47:06.964191+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Årsberättelse 1931, Göteborgs museum, Årstryck 1932",
+        "Kniv.",
+        "1931.38.0076",
+        "Clarence Lyon",
+        "Angola, Sv-Afrika",
+        "skiss",
+        "Chokwe (Tiokwe)) Batshioko",
+        "1:30",
+        "Angola",
+        "Kibokwe",
+        "Kioko",
+        "Ciokwe",
+        "Cokwe",
+        "Batshioko",
+        "Badjok",
+        "Tchokwe",
+        "Chokwe People",
+        "Quioco"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Årsberättelse 1931, Göteborgs museum, Årstryck 1932"
+        ],
+        "def": [
+          "Kniv.",
+          "1931.38.0076",
+          "Clarence Lyon",
+          "Angola, Sv-Afrika",
+          "skiss",
+          "Chokwe (Tiokwe)) Batshioko",
+          "1:30",
+          "Angola",
+          "Kibokwe",
+          "Kioko",
+          "Ciokwe",
+          "Cokwe",
+          "Batshioko",
+          "Badjok",
+          "Tchokwe",
+          "Chokwe People",
+          "Quioco"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "kniv, knife"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/42536"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/1072937/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "Republik Angola"
+        },
+        {
+          "def": "Angolan tasavalta"
+        },
+        {
+          "def": "Республика Ангола"
+        },
+        {
+          "def": "Republiken Angola"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Δημοκρατία της Ανγκόλας"
+        },
+        {
+          "def": "Repubblika tal-Angola"
+        },
+        {
+          "def": "ANG"
+        },
+        {
+          "def": "Republic of Angola"
+        },
+        {
+          "def": "Ao"
+        },
+        {
+          "def": "Ngola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "République d’Angola"
+        },
+        {
+          "def": "Angolai Köztársaság"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "Republica de Angola"
+        },
+        {
+          "def": "Angola Vabariik"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Angolská republika"
+        },
+        {
+          "def": "Republikken Angola"
+        },
+        {
+          "def": "República de Angola"
+        },
+        {
+          "def": "AO"
+        },
+        {
+          "def": "AGO"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Ngola",
+          "Republik Angola"
+        ],
+        "fi": [
+          "Angolan tasavalta"
+        ],
+        "ru": [
+          "Республика Ангола"
+        ],
+        "sv": [
+          "Republiken Angola",
+          "Ngola"
+        ],
+        "pt": [
+          "ANG"
+        ],
+        "el": [
+          "Δημοκρατία της Ανγκόλας"
+        ],
+        "mt": [
+          "Repubblika tal-Angola"
+        ],
+        "en": [
+          "ANG",
+          "Republic of Angola",
+          "Ao",
+          "Ngola"
+        ],
+        "fr": [
+          "AO",
+          "République d’Angola"
+        ],
+        "hu": [
+          "Angolai Köztársaság"
+        ],
+        "es": [
+          "República de Angola",
+          "Republica de Angola"
+        ],
+        "et": [
+          "Angola Vabariik"
+        ],
+        "cs": [
+          "Angolská republika"
+        ],
+        "sk": [
+          "Angolská republika"
+        ],
+        "da": [
+          "Republikken Angola",
+          "República de Angola"
+        ],
+        "nl": [
+          "AO",
+          "AGO"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ангола"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angóla"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Ανγκόλα"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        },
+        {
+          "def": "Angola"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Angola"
+        ],
+        "ru": [
+          "Ангола"
+        ],
+        "fi": [
+          "Angola"
+        ],
+        "pt": [
+          "Angola"
+        ],
+        "bg": [
+          "Ангола"
+        ],
+        "lt": [
+          "Angola"
+        ],
+        "lv": [
+          "Angola"
+        ],
+        "hr": [
+          "Angola"
+        ],
+        "fr": [
+          "Angola"
+        ],
+        "hu": [
+          "Angola"
+        ],
+        "sk": [
+          "Angola"
+        ],
+        "sl": [
+          "Angola"
+        ],
+        "ga": [
+          "Angóla"
+        ],
+        "ca": [
+          "Angola"
+        ],
+        "sv": [
+          "Angola"
+        ],
+        "mt": [
+          "Angola"
+        ],
+        "el": [
+          "Ανγκόλα"
+        ],
+        "en": [
+          "Angola"
+        ],
+        "it": [
+          "Angola"
+        ],
+        "es": [
+          "Angola"
+        ],
+        "et": [
+          "Angola"
+        ],
+        "eu": [
+          "Angola"
+        ],
+        "cs": [
+          "Angola"
+        ],
+        "pl": [
+          "Angola"
+        ],
+        "ro": [
+          "Angola"
+        ],
+        "da": [
+          "Angola"
+        ],
+        "nl": [
+          "Angola"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "-12.35"
+      ],
+      "edmPlaceLongitude": [
+        "17.35"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F1072937%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_42536?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_42536",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_42536.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 34.264397,
+      "timestamp": 1752047583265,
+      "timestamp_created": "2014-10-01T16:20:44.995Z",
+      "timestamp_created_epoch": 1412180444995,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "kniv, knife"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  }
+]

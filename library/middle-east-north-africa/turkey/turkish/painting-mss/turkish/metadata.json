@@ -1,0 +1,4565 @@
+[
+  {
+    "id": "cleveland-124005",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "124005",
+      "object_url": "https://clevelandart.org/art/1944.492",
+      "iiif_manifest": null,
+      "credit_line": "Purchase from the J. H. Wade Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1944.492",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A finely drawn dragon-and-phoenix scroll design by Şahkulu, head of the Ottoman imperial painting atelier in Istanbul — a documented Ottoman Turkish court drawing tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Dragon in foliage with lion and phoenix heads",
+      "titles_alt": [],
+      "date_text": "mid-1500s",
+      "date_earliest": 1526,
+      "date_latest": 1556,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "Ink, gum tempera, and gold on paper",
+      "classification": "Drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A dragon lunges toward a pearl in the form of a seal inscribed with a verse from the Koran: “And I commit my case unto God” (40:44). In his front claw, the dragon grasps two flowering branches that magically produce a variety of blooms, including a lion that bites the dragon’s neck and a phoenix, who competes for the pearl.<br> <br>Sahkulu was trained by Persian artists, as were many artists of Mughal India during the 1500s. He joined the Ottoman imperial painting atelier in Istanbul in 1526 and became the head in 1545.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Ottoman Turkey, Istanbul",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [
+        {
+          "name": "Sahkulu (Turkish, active 1526–56)",
+          "role": "artist",
+          "dates": null,
+          "urls": []
+        }
+      ],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "271796990fce52b967b89c3e882362ca9073fd75612e99ee6d05894fe2d32631",
+        "bytes": 241812,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\cle_124005.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:17.961728+00:00",
+    "raw": {
+      "id": 124005,
+      "accession_number": "1944.492",
+      "share_license_status": "CC0",
+      "tombstone": "Dragon in foliage with lion and phoenix heads, mid-1500s. Attributed to Sahkulu (Turkish, active 1526–56). Ink, gum tempera, and gold on paper; sheet: 17.3 x 40.2 cm (6 13/16 x 15 13/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1944.492",
+      "current_location": null,
+      "title": "Dragon in foliage with lion and phoenix heads",
+      "creation_date": "mid-1500s",
+      "creation_date_earliest": 1526,
+      "creation_date_latest": 1556,
+      "artists_tags": [
+        "male"
+      ],
+      "culture": [
+        "Ottoman Turkey, Istanbul"
+      ],
+      "technique": "Ink, gum tempera, and gold on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Drawing",
+      "measurements": "Sheet: 17.3 x 40.2 cm (6 13/16 x 15 13/16 in.)",
+      "dimensions": {
+        "sheet": {
+          "height": 0.173,
+          "height_inch": 6,
+          "height_inch_fraction": 0.8125,
+          "width": 0.402,
+          "width_inch": 15,
+          "width_inch_fraction": 0.8125
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "[stamp between dragon and phoenix, in Naskh script] And I commit my case unto God. [Qur’an 40:44]",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": 1
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 312146,
+            "title": "Islamic Art",
+            "description": "<i>Islamic Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (November 3, 1944-February 2, 1945).",
+            "opening_date": "1944-11-03T04:00:00"
+          },
+          {
+            "id": 355529,
+            "title": "Exhibition of the Month: Components of Art: The Line",
+            "description": "<i>Exhibition of the Month: Components of Art: The Line</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (February 12-April 12, 1948).",
+            "opening_date": "1948-02-12T05:00:00"
+          },
+          {
+            "id": 355703,
+            "title": "Persian Decorative Art",
+            "description": "<i>Persian Decorative Art</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (January 15-March 16, 1952).",
+            "opening_date": "1952-01-15T05:00:00"
+          },
+          {
+            "id": 700743,
+            "title": "Islamic and Indian Miniature Paintings and Manuscripts",
+            "description": "<i>Islamic and Indian Miniature Paintings and Manuscripts</i>. The Metropolitan Museum of Art, New York, NY (organizer) (December 19, 1955-February 19, 1956).",
+            "opening_date": "1955-12-15T05:00:00"
+          },
+          {
+            "id": 701409,
+            "title": "Exhibition of Persian Art",
+            "description": "<i>Exhibition of Persian Art</i>. Italian Institute for the Middle and Far East, Rome, Italy (organizer) (May 31-September 30, 1956).",
+            "opening_date": "1956-05-31T04:00:00"
+          },
+          {
+            "id": 519268,
+            "title": "Muslim Miniature Paintings",
+            "description": "<i>Muslim Miniature Paintings</i>. Fondazione Giorgio Cini, Venice, Italy, Venezia, Italy (organizer) (September 1-October 31, 1962); The Asia Society Museum, New York, NY (December 4, 1962-February 3, 1963).",
+            "opening_date": "1962-09-01T04:00:00"
+          },
+          {
+            "id": 445110,
+            "title": "Turkish Art: An Exhibition Commemorating the 50th Anniversary of the Founding of the Turkish Republic",
+            "description": "<i>Turkish Art: An Exhibition Commemorating the 50th Anniversary of the Founding of the Turkish Republic</i>. Fogg Art Museum/Harvard University, Cambridge, MA (organizer) (May 8-June 10, 1973).",
+            "opening_date": "1973-05-08T04:00:00"
+          },
+          {
+            "id": 442106,
+            "title": "Turkische Kunst und Kultur aus osmanischer Zeit (Turkish Art and Culture of the Ottoman Period)",
+            "description": "<i>Turkische Kunst und Kultur aus osmanischer Zeit (Turkish Art and Culture of the Ottoman Period)</i>. Museum fur Kunsthandwerk, Frankfurt, Germany (organizer) (April 25-June 30, 1985); Villa Hügel, Essen, Germany (August 7-October 27, 1985).",
+            "opening_date": "1985-04-25T05:00:00"
+          },
+          {
+            "id": 311444,
+            "title": "Object Lessons: Cleveland Creates an Art Museum",
+            "description": "<i>Object Lessons: Cleveland Creates an Art Museum</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (June 7-September 8, 1991).",
+            "opening_date": "1991-06-07T04:00:00"
+          },
+          {
+            "id": 380793,
+            "title": "Islamic art rotation",
+            "description": "<i>Islamic art rotation</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (December 3, 2012-December 9, 2013).",
+            "opening_date": "2012-12-03T05:00:00"
+          },
+          {
+            "id": 535998,
+            "title": "Nature Supernatural",
+            "description": "<i>Nature Supernatural</i>. The Cleveland Museum of Art, Cleveland, OH (organizer) (September 22, 2023-March 3, 2024).",
+            "opening_date": "2023-09-22T04:00:00"
+          }
+        ],
+        "legacy": [
+          {
+            "description": "<em>Islamic Gallery 116 rotation</em>. The Cleveland Museum of Art, Cleveland, OH (June 19–December 4, 2017).",
+            "opening_date": "2017-12-04T00:00:00"
+          }
+        ]
+      },
+      "provenance": [
+        {
+          "description": "Charles Ricketts and Charles Shannon, R.A.",
+          "citations": [],
+          "footnotes": [],
+          "date": null,
+          "sortorder": 1
+        },
+        {
+          "description": "(Philip Hofer, Cleveland, OH and New York, NY, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": [],
+          "date": "?–1944",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": [],
+          "date": "1944–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [],
+      "did_you_know": "The lion head and phoenix head are part of the foliage, like fantastical blossoms.",
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "A dragon lunges toward a pearl in the form of a seal inscribed with a verse from the Koran: “And I commit my case unto God” (40:44). In his front claw, the dragon grasps two flowering branches that magically produce a variety of blooms, including a lion that bites the dragon’s neck and a phoenix, who competes for the pearl.<br> <br>Sahkulu was trained by Persian artists, as were many artists of Mughal India during the 1500s. He joined the Ottoman imperial painting atelier in Istanbul in 1526 and became the head in 1545.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79901580"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1944.492-dragon-in-foliage-wi"
+        ]
+      },
+      "citations": [
+        {
+          "citation": "<em>Islamic Art: Selected Examples from the Loan Exhibition of Islamic Art at the Cleveland Museum of Art.</em> [Cleveland]: The Cleveland Museum of Art, 1944.",
+          "page_number": "Reproduced: p. 16.",
+          "url": "https://archive.org/details/IslamicArtCMA/page/n26"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>The Cleveland Museum of Art Handbook.</em> Cleveland, OH: The Cleveland Museum of Art, 1958.",
+          "page_number": "Mentioned and Reproduced: cat. no. 718.",
+          "url": "https://archive.org/details/CMAHandbook1958/page/n131"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1966</em>. Cleveland, OH: The Cleveland Museum of Art, 1966.",
+          "page_number": "Reproduced: p. 224.",
+          "url": "https://archive.org/details/CMAHandbook1966/page/n248"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1969</em>. Cleveland, OH: The Cleveland Museum of Art, 1969.",
+          "page_number": "Reproduced: p. 224.",
+          "url": "https://archive.org/details/CMAHandbook1969/page/n248"
+        },
+        {
+          "citation": "The Cleveland Museum of Art. <em>Handbook of the Cleveland Museum of Art/1978</em>. Cleveland, OH: The Cleveland Museum of Art, 1978.",
+          "page_number": "Reproduced: p. 282.",
+          "url": "https://archive.org/details/CMAHandbook1978/page/n302"
+        },
+        {
+          "citation": "Atıl, Esin. <em>Traditional Ottoman Designs: Their Origin and Application</em>. Istanbul: Mepa, Medya Pazarlama San. ve Tic. A.Ş, 1999.",
+          "page_number": "Reproduced: p. 13.",
+          "url": null
+        },
+        {
+          "citation": "Roxburgh, David J. <em>Turks: A Journey of a Thousand Years, 600-1600</em>. London: Royal Academy of Arts, 2005.",
+          "page_number": "Reproduced: Fig. 37, p. 152.",
+          "url": null
+        },
+        {
+          "citation": "Franklin, David and C. Griffith Mann. <em>Treasures from the Cleveland Museum of Art</em>. Cleveland, OH: Cleveland Museum of Art, 2012.",
+          "page_number": "Reproduced: pp. 170-171.",
+          "url": null
+        },
+        {
+          "citation": "Mackie, Louise W. <em>Symbols of Power: Luxury Textiles from Islamic Lands, 7th-21st Century</em>. Cleveland; New Haven: Cleveland Museum of Art; Yale University Press, 2015.",
+          "page_number": "Reproduced: P. 306, fig. 8.21; Mentioned: P. 305.",
+          "url": ""
+        }
+      ],
+      "url": "https://clevelandart.org/art/1944.492",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_web.jpg",
+          "width": "900",
+          "height": "407",
+          "filesize": "252982",
+          "filename": "1944.492_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_print.jpg",
+          "width": "3400",
+          "height": "1536",
+          "filesize": "2473228",
+          "filename": "1944.492_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_full.tif",
+          "width": "13076",
+          "height": "5909",
+          "filesize": "231828253",
+          "filename": "1944.492_full.tif"
+        }
+      },
+      "alternate_images": [
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt0_web.jpg",
+            "width": "900",
+            "height": "407",
+            "filesize": "159658"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt0_print.jpg",
+            "width": "3400",
+            "height": "1536",
+            "filesize": "1438941"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt0_full.tif",
+            "width": "13076",
+            "height": "5909",
+            "filesize": "231825793"
+          },
+          "date_created": "2023-08-16T17:10:35",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt1_web.jpg",
+            "width": "1263",
+            "height": "557",
+            "filesize": "653190"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt1_print.jpg",
+            "width": "3400",
+            "height": "1499",
+            "filesize": "4640747"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt1_full.tif",
+            "width": "6668",
+            "height": "2939",
+            "filesize": "58824992"
+          },
+          "date_created": "2009-11-20T19:57:30",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt2_web.jpg",
+            "width": "1262",
+            "height": "893",
+            "filesize": "1058219"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt2_print.jpg",
+            "width": "3400",
+            "height": "2406",
+            "filesize": "7384100"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt2_full.tif",
+            "width": "6587",
+            "height": "4661",
+            "filesize": "92141716"
+          },
+          "date_created": "2009-11-20T20:10:54",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt3_web.jpg",
+            "width": "1263",
+            "height": "886",
+            "filesize": "1025385"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt3_print.jpg",
+            "width": "3400",
+            "height": "2386",
+            "filesize": "7250455"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt3_full.tif",
+            "width": "6609",
+            "height": "4638",
+            "filesize": "91985564"
+          },
+          "date_created": "2009-11-20T20:07:10",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt4_web.jpg",
+            "width": "1263",
+            "height": "547",
+            "filesize": "648142"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt4_print.jpg",
+            "width": "3400",
+            "height": "1472",
+            "filesize": "4614177"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt4_full.tif",
+            "width": "10804",
+            "height": "4677",
+            "filesize": "151627176"
+          },
+          "date_created": "2009-11-20T20:22:51",
+          "annotation": ""
+        },
+        {
+          "web": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt5_web.jpg",
+            "width": "1263",
+            "height": "552",
+            "filesize": "664969"
+          },
+          "print": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt5_print.jpg",
+            "width": "2048",
+            "height": "895",
+            "filesize": "1790904"
+          },
+          "full": {
+            "url": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_alt5_full.tif",
+            "width": "2048",
+            "height": "895",
+            "filesize": "5500852"
+          },
+          "annotation": ""
+        }
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 124005,
+      "creators": [
+        {
+          "id": 63200,
+          "description": "Sahkulu (Turkish, active 1526–56)",
+          "extent": null,
+          "qualifier": "attributed to",
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "legal_status": "accessioned",
+      "accession_date": "1944-12-15T00:00:00",
+      "sortable_date": 1526,
+      "date_added_to_oa": null,
+      "date_text": "mid-1500s",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [
+        "Dragons in Foliage; Single Page Illustration and Inscription Stamp (Arabic)",
+        "Dragon Combat"
+      ],
+      "is_highlight": true,
+      "updated_at": "2026-05-29 06:23:31.260000"
+    }
+  },
+  {
+    "id": "cleveland-124041",
+    "source": {
+      "museum": "cleveland",
+      "museum_name": "Cleveland Museum of Art",
+      "object_id": "124041",
+      "object_url": "https://clevelandart.org/art/1944.525",
+      "iiif_manifest": null,
+      "credit_line": "Purchase from the J. H. Wade Fund",
+      "rights": "public-domain",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": "1944.525",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is an official Ottoman sultan's tughra (calligraphic monogram) of Mehmed IV, a genuine Ottoman Turkish court art form used on imperial decrees, matching the claimed Turkish ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "Tughra:  Shah Muhammad bin Ibrahim Khan, al-muzaffar daima (Sultan Mehmed, son of Ibrahim Khan, the eternally victorious; Calligraphy (Ottoman Turkish Signature), Single Page Manuscript",
+      "titles_alt": [],
+      "date_text": "1648–87",
+      "date_earliest": 1648,
+      "date_latest": 1687,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": "opaque watercolor, gold, and silver on paper",
+      "classification": "Manuscript",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A <em>tughra</em> is a formalized ornate signature or monogram at the top of a royal edict. This tughra has been cut off from the vertical scroll on which a proclamation of the Ottoman Sultan Mehmed IV was written. Mehmed IV ruled during a time when the empire began to decline in power due to internal rivalries and the catastrophic military defeat at the Battle of Vienna in 1683. <br><br>In bold gold lettering, “Mehmed, son of Ibrahim Khan, the Eternally Victorious” has been calligraphed in Turkish. These words form the structure of the design, which has been filled with colors, floral patterns, and topped with an architectural crown. A foliated sunburst in turquoise, gold, and silver augments the luxury of the monogram.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": "Turkey, Ottoman period, reign of Sultan Mehmed IV, 1648–87)",
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Cleveland Museum of Art",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://openaccess-cdn.clevelandart.org/1944.525/1944.525_web.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8b445f2be2306b8ba9c8ab12a3cb7dfadc95ddd0cc3e5569fb41e8a7ef0fe400",
+        "bytes": 873301,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\cle_124041.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:41:17.986110+00:00",
+    "raw": {
+      "id": 124041,
+      "accession_number": "1944.525",
+      "share_license_status": "CC0",
+      "tombstone": "Tughra:  Shah Muhammad bin Ibrahim Khan, al-muzaffar daima (Sultan Mehmed, son of Ibrahim Khan, the eternally victorious; Calligraphy (Ottoman Turkish Signature), Single Page Manuscript, 1648–87. Turkey, Ottoman period, reign of Sultan Mehmed IV, 1648–87). Opaque watercolor, gold, and silver on paper; overall: 24.5 x 45.6 cm (9 5/8 x 17 15/16 in.). The Cleveland Museum of Art, Purchase from the J. H. Wade Fund, 1944.525",
+      "current_location": null,
+      "title": "Tughra:  Shah Muhammad bin Ibrahim Khan, al-muzaffar daima (Sultan Mehmed, son of Ibrahim Khan, the eternally victorious; Calligraphy (Ottoman Turkish Signature), Single Page Manuscript",
+      "creation_date": "1648–87",
+      "creation_date_earliest": 1648,
+      "creation_date_latest": 1687,
+      "artists_tags": [],
+      "culture": [
+        "Turkey, Ottoman period, reign of Sultan Mehmed IV, 1648–87)"
+      ],
+      "technique": "opaque watercolor, gold, and silver on paper",
+      "support_materials": [],
+      "department": "Islamic Art",
+      "collection": "Islamic Art",
+      "type": "Manuscript",
+      "measurements": "Overall: 24.5 x 45.6 cm (9 5/8 x 17 15/16 in.)",
+      "dimensions": {
+        "overall": {
+          "height": 0.245,
+          "height_inch": 9,
+          "height_inch_fraction": 0.625,
+          "width": 0.456,
+          "width_inch": 17,
+          "width_inch_fraction": 0.9375
+        }
+      },
+      "state_of_the_work": null,
+      "edition_of_the_work": null,
+      "copyright": null,
+      "inscriptions": [
+        {
+          "inscription": "Tughra script reads:  \"Mehmed, son of Ibrahim Khan, the eternally victorious\"",
+          "inscription_translation": null,
+          "inscription_remark": null,
+          "sortorder": null
+        }
+      ],
+      "exhibitions": {
+        "current": [
+          {
+            "id": 442106,
+            "title": "Turkische Kunst und Kultur aus osmanischer Zeit (Turkish Art and Culture of the Ottoman Period)",
+            "description": "<i>Turkische Kunst und Kultur aus osmanischer Zeit (Turkish Art and Culture of the Ottoman Period)</i>. Museum fur Kunsthandwerk, Frankfurt, Germany (organizer) (April 25-June 30, 1985); Villa Hügel, Essen, Germany (August 7-October 27, 1985).",
+            "opening_date": "1985-04-25T05:00:00"
+          },
+          {
+            "id": 289554,
+            "title": "Islamic art rotation",
+            "description": "<i>Islamic art rotation</i>. The Cleveland Museum of Art (organizer) (December 21, 2016-December 4, 2017).",
+            "opening_date": "2016-12-21T05:00:00"
+          }
+        ],
+        "legacy": []
+      },
+      "provenance": [
+        {
+          "description": "Charles Ricketts and Charles Shannon, R.A.",
+          "citations": [],
+          "footnotes": null,
+          "date": null,
+          "sortorder": null
+        },
+        {
+          "description": "(Philip Hofer, sold to the Cleveland Museum of Art)",
+          "citations": [],
+          "footnotes": null,
+          "date": "?–1944",
+          "sortorder": 2
+        },
+        {
+          "description": "The Cleveland Museum of Art, Cleveland, OH",
+          "citations": [],
+          "footnotes": null,
+          "date": "1944–",
+          "sortorder": 3
+        }
+      ],
+      "find_spot": null,
+      "related_works": [],
+      "former_accession_numbers": [
+        "1944.492a"
+      ],
+      "did_you_know": null,
+      "early_education_description": null,
+      "artlens_description": null,
+      "description": "A <em>tughra</em> is a formalized ornate signature or monogram at the top of a royal edict. This tughra has been cut off from the vertical scroll on which a proclamation of the Ottoman Sultan Mehmed IV was written. Mehmed IV ruled during a time when the empire began to decline in power due to internal rivalries and the catastrophic military defeat at the Battle of Vienna in 1683. <br><br>In bold gold lettering, “Mehmed, son of Ibrahim Khan, the Eternally Victorious” has been calligraphed in Turkish. These words form the structure of the design, which has been filled with colors, floral patterns, and topped with an architectural crown. A foliated sunburst in turquoise, gold, and silver augments the luxury of the monogram.",
+      "external_resources": {
+        "wikidata": [
+          "https://www.wikidata.org/wiki/Q79901661"
+        ],
+        "internet_archive": [
+          "https://archive.org/details/clevelandart-1944.525-tughra-shah-muhammad"
+        ]
+      },
+      "citations": [],
+      "url": "https://clevelandart.org/art/1944.525",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.525/1944.525_web.jpg",
+          "width": "1263",
+          "height": "770",
+          "filesize": "869886",
+          "filename": "1944.525_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.525/1944.525_print.jpg",
+          "width": "3400",
+          "height": "2072",
+          "filesize": "6361556",
+          "filename": "1944.525_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.525/1944.525_full.tif",
+          "width": "6248",
+          "height": "3808",
+          "filesize": "71406264",
+          "filename": "1944.525_full.tif"
+        }
+      },
+      "alternate_images": [],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "image_credit": null,
+      "sketchfab_id": null,
+      "sketchfab_url": null,
+      "gallery_donor_text": null,
+      "athena_id": 124041,
+      "creators": [],
+      "legal_status": "accessioned",
+      "accession_date": "1944-12-15T00:00:00",
+      "sortable_date": 1648,
+      "date_added_to_oa": null,
+      "date_text": "1648–87",
+      "collapse_artists": false,
+      "on_loan": false,
+      "recently_acquired": false,
+      "record_type": "object",
+      "conservation_statement": null,
+      "has_conservation_images": false,
+      "cover_accession_number": null,
+      "is_nazi_era_provenance": false,
+      "impression": null,
+      "alternate_titles": [],
+      "is_highlight": false,
+      "updated_at": "2026-05-29 06:23:34.982000"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-68",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-68",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-68",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.68",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European costume-book watercolour depicting a \"Turk\" in pilgrimage dress for Mecca, an outsider's illustration of Turkish costume rather than art made within the culture, but it does document the ethnicity's dress and is a standard costume-album type; the French caption and stylized painting technique indicate a European (likely 18th-century French) artist's rendering. It still depicts genuine Turkish attire accurately, so it counts as documentary depiction of the culture's dress.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 68 from an album showing Turkish costume.   A Turkish man in the costume worn when travelling to Mecca.  Bare legs, blue knee-length trousers, red slippers, brown sleeveless kaftan, white blouse with blue stripes and a white turban with green stripes.  Holding a staff.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/b71e84c3_92ea_4869_b308_a3c7009cb89d/preview_01028239_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c69ad19937e39fa279dcecbf0eb3fd68993a1db501006424afabafc5f7311687",
+        "bytes": 43186,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-68.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:34.653029+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 68 from an album showing Turkish costume.   A Turkish man in the costume worn when travelling to Mecca.  Bare legs, blue knee-length trousers, red slippers, brown sleeveless kaftan, white blouse with blue stripes and a white turban with green stripes.  Holding a staff.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/b71e84c3_92ea_4869_b308_a3c7009cb89d/preview_01028239_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1862-1217-133",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1862-1217-133",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1862-1217-133",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1862.1217.133",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a 19th-century British lottery advertisement (Sivewright's) depicting a European artist's fanciful \"Turkish lady\" (Roxalana) in stylized Eastern costume — it is a Western depiction/commercial print, not Turkish-made art or documentary imagery of Turkish dress or life.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print; lottery ticket; advertisement",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print; lottery ticket; advertisement",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A Turkish lady, in Eastern costume, a crescent moon in her turban, her arms spread and facing to the left; a lottery puff or handbill (1821)\r\nWoodcut",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_0/ce2e602b_8861_4a69_af9f_a3de000dce79/preview_01431573_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "325c23c15021275f866239445705c863072d7f49fdfba10edb0f4b6833ff863f",
+        "bytes": 47801,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1862-1217-133.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:40.454254+00:00",
+    "raw": {
+      "title": "print; lottery ticket; advertisement",
+      "description": "A Turkish lady, in Eastern costume, a crescent moon in her turban, her arms spread and facing to the left; a lottery puff or handbill (1821)\r\nWoodcut",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/9_0/ce2e602b_8861_4a69_af9f_a3de000dce79/preview_01431573_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1928-0323-0-46",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1928-0323-0-46",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1928-0323-0-46",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1928.0323.0.46",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows blank album pages with only a faint ghost impression of a building bleeding through from the facing leaf; no painting of sultans or court officials is visible on this opening, though it is part of a documented album of Ottoman Turkish court portraits.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "unusable",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "An album of 124 paintings showing Turkish sultans and court officials.  Bound in green leather. According to inscription, done on Persian paper. Page edges gilted with gold.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_1/46101747_d50b_4c9e_ac39_a3d60019d022/preview_01041288_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "73896a49d1195c818dac2036e0d2676fb5cd3492b51a886fe1b83385b959ce94",
+        "bytes": 74429,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1928-0323-0-46.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:42.974366+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "An album of 124 paintings showing Turkish sultans and court officials.  Bound in green leather. According to inscription, done on Persian paper. Page edges gilted with gold.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/1_1/46101747_d50b_4c9e_ac39_a3d60019d022/preview_01041288_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-21",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-21",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-21",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.21",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A costume-album watercolour depicting a Turkish female dancer (çengi) in traditional dress with castanets, an illustration of Ottoman Turkish costume and daily/professional life, consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 21 from an album showing Turkish costume.  Turkish female dancer, çengi.  Holding castanets (şakşak).  She has bare feet and is wearing a round red hat and a blue robe.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/f7be156b_88e4_4820_a51d_a3b9006ef0ed/preview_00346356_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "992b064a53dcfcf4008143a7c39e86293fefde78b5302822cc6af94d48bd9b2a",
+        "bytes": 44187,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-21.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:43.478880+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 21 from an album showing Turkish costume.  Turkish female dancer, çengi.  Holding castanets (şakşak).  She has bare feet and is wearing a round red hat and a blue robe.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/f7be156b_88e4_4820_a51d_a3b9006ef0ed/preview_00346356_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-18",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-18",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-18",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.18",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European-style topographical watercolour of Roman/Greek ruins at Ephesus, made by a Western artist as part of a travel album (as an outsider's depiction); the Turkish figures are incidental staffage, not the subject of the record.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXIV: View of the ruined tribune of the Temple of Diana at Ephesus; Turkish men and men wearing Western clothes seen next to the ruins.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/85a101bc_23f3_442d_ba5c_a3c4012dd9be/preview_00885418_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "13e4d42984663ff107e1792a0dfc6178834addce26660c96f943dca5a8e4c3f2",
+        "bytes": 77020,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-18.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:44.007118+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXIV: View of the ruined tribune of the Temple of Diana at Ephesus; Turkish men and men wearing Western clothes seen next to the ruins.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/85a101bc_23f3_442d_ba5c_a3c4012dd9be/preview_00885418_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-22",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-22",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-22",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.22",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A hand-colored costume-album illustration depicting a Turkish çengi (dancing girl) in traditional dress with finger cymbals, matching the claimed Turkish ethnicity and documenting authentic dress/performance practice.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 22 from an album showing Turkish costume.  Another Turkish female dancer, a çengi.  Wearing finger cymbals (parmak zili) on her thumb and first finger of each hand.  Head shaw, green bodice, yellow skirt.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/e9aee830_c52a_44ed_a9c1_a3b9006f1d6c/preview_00346370_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "06de0ef64effcc37d54b668adda6bd5451acdaf69753d325a478a342284481fe",
+        "bytes": 42899,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-22.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:44.511895+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 22 from an album showing Turkish costume.  Another Turkish female dancer, a çengi.  Wearing finger cymbals (parmak zili) on her thumb and first finger of each hand.  Head shaw, green bodice, yellow skirt.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/e9aee830_c52a_44ed_a9c1_a3b9006f1d6c/preview_00346370_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European costume-album watercolour (\"Turquesse au bain\") depicting a Turkish woman in bath attire (nalın clogs, sarık headdress, kuşak sash), documenting Ottoman Turkish dress rather than an outsider's imaginative artwork of a foreign scene.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 11 from an album showing Turkish costume. Turkish woman at the hammam or baths.  Wearing high brown bath clogs (nalın), green trousers, white blouse (gömlek) and wide sash (kuşak).  High head-dress (sarık).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/26_13/fed1d101_e3cd_4207_b7de_a77f00e4e9d1/preview_RFM37460.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "600794f823ff09bc6dcf39d095f3e81fbbbf92f7a0137b5169e42e07c98b9d33",
+        "bytes": 43677,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:45.018828+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 11 from an album showing Turkish costume. Turkish woman at the hammam or baths.  Wearing high brown bath clogs (nalın), green trousers, white blouse (gömlek) and wide sash (kuşak).  High head-dress (sarık).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/26_13/fed1d101_e3cd_4207_b7de_a77f00e4e9d1/preview_RFM37460.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-21",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-21",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-21",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.21",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European (Italian, signed \"Luigi Mayer\") watercolour view of the ruins of Ephesus with local Turkish figures included as staffage — an outsider's depiction of the landscape, not an object made, worn or used by Turkish people themselves.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXVII: View of the ruins of the ancient city of Ephesus; Turkish men seen to left and ruins overgrown by plants seen behind. \nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/f696beba_2b2a_4c67_a2a3_a3c4012d5859/preview_00885435_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "8d6a70588d7f754d8635b5aa3ddc32ce6a67bca34588d056e7d776f05d39a30d",
+        "bytes": 69917,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-21.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:45.524074+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXVII: View of the ruins of the ancient city of Ephesus; Turkish men seen to left and ruins overgrown by plants seen behind. \nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/f696beba_2b2a_4c67_a2a3_a3c4012d5859/preview_00885435_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-16",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-16",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-16",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.16",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European traveler's watercolor (signed \"Luigi Mayer fec.\") depicting the ruins of the Temple of Diana at Ephesus, with small Turkish figures resting in the foreground — a landscape view made by an outsider artist, not an object of Turkish material culture or an image made within the culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXII: View of the ruins of the Temple of Diana at Ephesus; Turkish men seen resting in the foreground; the ruins seen in the background.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/9524d8f8_aed7_42ec_883f_a3c4012dc661/preview_00885412_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "684bd9ceb95e335f054e9db19943dd60a20566dd72c80015797317d5bbaca297",
+        "bytes": 66596,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-16.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:46.037475+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXII: View of the ruins of the Temple of Diana at Ephesus; Turkish men seen resting in the foreground; the ruins seen in the background.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/9524d8f8_aed7_42ec_883f_a3c4012dc661/preview_00885412_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-20",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-20",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-20",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European-style topographical watercolour of the ruins at Ephesus by a Western artist (depicted in the scene in western attire), a travel/antiquarian view rather than something Turkish people made, wore, built or used culturally — the depicted figures are incidental staffage, not the subject.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXVI: View of the ruins of the ancient theatre at Ephesus with the original arched entrance seen in the foreground; Turkish men seen to right and an artist wearing western attire seen with them, holding an album; behind them, the ruins. \nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/bea70e0d_6959_4a61_8d9f_a3c4012d50da/preview_00885432_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "68a679f8e87e5beeabe75d02d82ac845bf1dd6ef0dc92f666a638c093b2f49ce",
+        "bytes": 79698,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-20.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:46.562335+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXVI: View of the ruins of the ancient theatre at Ephesus with the original arched entrance seen in the foreground; Turkish men seen to right and an artist wearing western attire seen with them, holding an album; behind them, the ruins. \nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/bea70e0d_6959_4a61_8d9f_a3c4012d50da/preview_00885432_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-22",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-22",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-22",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.22",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European (Italian, signed \"Luigi Mayer\") watercolor of Roman ruins at Ephesus, depicting local Turkish figures incidentally within an outsider's picturesque view — outsider depiction of the culture, not an object made, worn, or used by Turks, nor Turkish court/temple art.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXVIII: View of the ruins of the ancient city of Ephesus, some may be pertaining to the Temple of Diana; Turkish men seen seated by an arch, to right; more ruins overgrown by plants, seen behind. \nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/015b6883_8944_405e_8233_a3c4012d5fef/preview_00885438_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b4d9def4c8f016d69c592d79c7ce3b4342058175b58060fefa0bff4211769d81",
+        "bytes": 74189,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-22.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:47.552864+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXVIII: View of the ruins of the ancient city of Ephesus, some may be pertaining to the Temple of Diana; Turkish men seen seated by an arch, to right; more ruins overgrown by plants, seen behind. \nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/015b6883_8944_405e_8233_a3c4012d5fef/preview_00885438_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-19",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-19",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-19",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.19",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image is a picturesque watercolour of the ruined theatre at Ephesus with horsemen and a shepherd as staffage, numbered as a plate in an album — the composition and technique are those of a European Grand Tour antiquarian's record of ruins, not a work made within Ottoman/Turkish court or artisan tradition.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXV: View of the ruins of the ancient theatre at Ephesus; Turkish men on a horseback seen in the foreground, and a shepherd seen to left; the ruins seen in the background. \nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/e1f211db_bf64_4213_85fd_a3c4012df3a0/preview_00885424_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "af6fec76924ad799bfe375bf955bec6a1999ac00454ad18c67201e907ed5827c",
+        "bytes": 73588,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-19.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:48.057118+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXV: View of the ruins of the ancient theatre at Ephesus; Turkish men on a horseback seen in the foreground, and a shepherd seen to left; the ruins seen in the background. \nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/e1f211db_bf64_4213_85fd_a3c4012df3a0/preview_00885424_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1928-0323-0-46-5",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1928-0323-0-46-5",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1928-0323-0-46-5",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1928.0323.0.46.5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a court portrait of Ottoman Sultan Osman II in ceremonial kaftan and plumed turban, from an album of Turkish sultans and officials — clearly Turkish court dress and painting tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sultan Osman II; single-page painting mounted on album folio. Osman II wearing a brown kaftan with ermine lining over a silver robe with a blue design. Tall white turban with two aigrettes, one drooping. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk, opaque watercolour and gold on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/1b713178_80c9_4033_970d_a3b9006af955/preview_00345113_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "bcfee0b56ff88973526c15e0a32f2e35727e8af9db3a8f36b78be8af90dad8a7",
+        "bytes": 44922,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1928-0323-0-46-5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:49.096094+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Sultan Osman II; single-page painting mounted on album folio. Osman II wearing a brown kaftan with ermine lining over a silver robe with a blue design. Tall white turban with two aigrettes, one drooping. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk, opaque watercolour and gold on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/1b713178_80c9_4033_970d_a3b9006af955/preview_00345113_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1928-0323-0-46-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1928-0323-0-46-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1928-0323-0-46-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1928.0323.0.46.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A single-page Ottoman court album painting depicting Sultan Mustafa I in traditional kaftan and turban, part of a series of Ottoman sultan portraits — this is court art made within Turkish (Ottoman) culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Sultan Mustafa I; single-page painting mounted on album folio. Mustafa wearing a brown kaftan with ermine lining over a silver robe with a blue design. Tall white turban with two aigrettes. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk, opaque watercolour and gold on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/f574205d_987c_493e_819f_a3b9006af702/preview_00345112_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "890e8757eca832488538b40692e777269520c0cea3b6144ba2e06bbbf1e28b0f",
+        "bytes": 44878,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1928-0323-0-46-4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:49.603356+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Sultan Mustafa I; single-page painting mounted on album folio. Mustafa wearing a brown kaftan with ermine lining over a silver robe with a blue design. Tall white turban with two aigrettes. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk, opaque watercolour and gold on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/f574205d_987c_493e_819f_a3b9006af702/preview_00345112_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-69",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-69",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-69",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.69",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A watercolour costume-album illustration of a Turkish man in ihram-style pilgrimage dress worn entering the Mosque at Mecca, with sword and pouch — a European-made costume study depicting Turkish dress, consistent with the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 69 from an album showing Turkish costume.  A Turkish man in the costume worn when going to the Mosque at Mecca.  Pale brown garment wrapped round his shoulders, knee-length with a fringed hem.  Bare shaven head and bare legs.  Scabbarded sword on a cord round one shoulder, a pouch hung on the other.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/1a7aac97_a3f2_4f59_b931_a3c7009cb456/preview_01028238_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "34e96afad1fab3d6ab07ccece09b5832d9611f15b72410706e046d9a87003007",
+        "bytes": 41722,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-69.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:50.107607+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 69 from an album showing Turkish costume.  A Turkish man in the costume worn when going to the Mosque at Mecca.  Pale brown garment wrapped round his shoulders, knee-length with a fringed hem.  Bare shaven head and bare legs.  Scabbarded sword on a cord round one shoulder, a pouch hung on the other.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/1a7aac97_a3f2_4f59_b931_a3c7009cb456/preview_01028238_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-75",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-75",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-75",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.75",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A costume-album watercolour depicting a Turkish boy in traditional dress (kaftan, turban, robe) on his way to school, labeled \"Enfant turc allant à l'École\" — a European-made costume study but depicting authentic Turkish attire.",
+      "vision_confidence": "HIGH",
+      "art_form_vision": "painting-mss",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 75 from an album showing Turkish costume.  A Turkish child (boy) going to school.  Wearing a pink kaftan with grey fur collar and edging and elbow-length sleeves.  Orange ankle-length trousers, green robe with flower pattern.  He has a tight turban with a red cap and is carrying a satchel slung over his shoulder.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/26_13/1f327bd2_9ea0_42c8_b3e7_a77f00e54ae3/preview_RFM37535.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "45def75418fc33e6b28b960894ebee4bbab4d2765e86b2c5a63e95edf21f4742",
+        "bytes": 37486,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-75.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:50.607547+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 75 from an album showing Turkish costume.  A Turkish child (boy) going to school.  Wearing a pink kaftan with grey fur collar and edging and elbow-length sleeves.  Orange ankle-length trousers, green robe with flower pattern.  He has a tight turban with a red cap and is carrying a satchel slung over his shoulder.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2017_5/26_13/1f327bd2_9ea0_42c8_b3e7_a77f00e54ae3/preview_RFM37535.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-8",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-8",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-8",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.8",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European topographical watercolour (Italian caption \"Veduta del secondo Cortile del Serraglio...\") depicting Topkapi Palace from an outsider's Grand Tour perspective, not a Turkish-made work — it is the Ottoman culture pictured by a European artist rather than art produced within the culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XI: View of the second courtyard of the Serraglio in Topkapi Palace, Constantinople; Turkish men, seen walking in the courtyard; small domes seen emerging from behind; the sea behind and with a view of the city.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/aeeed3d2_d94f_4024_8fc7_a3c4012d8399/preview_00885395_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6780615c13926fe75b4c33e53c6d9981614e3d1ef7a3e41d2747f9119ae538c5",
+        "bytes": 71330,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-8.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:51.108899+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XI: View of the second courtyard of the Serraglio in Topkapi Palace, Constantinople; Turkish men, seen walking in the courtyard; small domes seen emerging from behind; the sea behind and with a view of the city.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/aeeed3d2_d94f_4024_8fc7_a3c4012d8399/preview_00885395_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-122",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-122",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-122",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.122",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The painting depicts an Ottoman groom in traditional dress leading a richly caparisoned state horse, part of an album illustrating Turkish costume — a documentary/costume-album depiction of Ottoman Turkish court life and attire.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 122 from an album showing Turkish costume.  Black horse led (yedek) in state harness.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/8f2e4dcf_3899_42ed_9707_a3bb0061f72d/preview_00306445_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fd3849402998208e5c6cbd0e8640b87b1d7c48a02640138bce1ead46c6c1efc5",
+        "bytes": 71862,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-122.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:51.617398+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 122 from an album showing Turkish costume.  Black horse led (yedek) in state harness.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/8f2e4dcf_3899_42ed_9707_a3bb0061f72d/preview_00306445_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-26",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-26",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-26",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.26",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European Grand Tour watercolour (signed \"Luigi Mayer\") depicting the ruins of Ephesus with a Turkish local and a Western sketcher, made by a named European artist for a European album — outsider art documenting the region, not an object or work made within Turkish culture.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXXII: View of the ruins of the ancient city of Ephesus; in the foreground, to left, a Turkish man seen pointing towards large sculpted friezes lying on the ground; a man wearing western clothes seated next to him sketching, the remains of a defensive wall seen in the background.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_12/f7ddc978_b664_4a48_b32b_a3bc00d454b9/preview_00416672_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "18626f0a6fd3dee1e1acb3b1def454343deaa2c857363abd0f18cf4f167d4902",
+        "bytes": 75776,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-26.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:52.130906+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXXII: View of the ruins of the ancient city of Ephesus; in the foreground, to left, a Turkish man seen pointing towards large sculpted friezes lying on the ground; a man wearing western clothes seated next to him sketching, the remains of a defensive wall seen in the background.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_12/f7ddc978_b664_4a48_b32b_a3bc00d454b9/preview_00416672_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-A_1920-0917-0-11-56",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "A_1920-0917-0-11-56",
+      "object_url": "https://www.britishmuseum.org/collection/object/A_1920-0917-0-11-56",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "A,1920.0917.0.11.56",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The drawing depicts a Turkish mavlavi (Mevlevi) figure with a distinctive large turban and robe, a portrait type consistent with Ottoman Turkish court/religious dress, even though the album itself is Indian-produced with European paper.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; drawing",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; drawing",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Portrait of Mír Mauláná Jalál al-Dín; single-page tinted drawing mounted in an album. Depiction is likely that of Mír Mauláná Jalál al-Dín, a Turkish mavlavi, based upon the likeness of facial features and the figure&#039;s distinctively large turban and sleeves of the robe. Inscribed. Album contains 60 Indian drawings and paintings.\r\nInk and wash on paper. Album bound in black leather with pages of European paper, watermarked 1799.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_18/41fb4172_c0dc_4db3_94bb_a3b80135115e/preview_00323488_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "20fd92837431cee0b3ab16d294432b1c469597d21d250e02e3d31119e963f88f",
+        "bytes": 64783,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_A_1920-0917-0-11-56.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:52.637804+00:00",
+    "raw": {
+      "title": "album; drawing",
+      "description": "Portrait of Mír Mauláná Jalál al-Dín; single-page tinted drawing mounted in an album. Depiction is likely that of Mír Mauláná Jalál al-Dín, a Turkish mavlavi, based upon the likeness of facial features and the figure&#039;s distinctively large turban and sleeves of the robe. Inscribed. Album contains 60 Indian drawings and paintings.\r\nInk and wash on paper. Album bound in black leather with pages of European paper, watermarked 1799.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_18/41fb4172_c0dc_4db3_94bb_a3b80135115e/preview_00323488_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-24",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-24",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-24",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.24",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a signed European Grand Tour watercolour (\"Louis Mayer\") depicting the ruins of ancient Ephesus with two Turkish figures and a horse in the foreground; it is a named European artist's landscape drawing, not art made within Turkish culture itself.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXX: View of the ruins of the ancient city Ephesus, including what is believed to be the Forum; two Turkish men, one with a horse seen in the foreground, to left; ruins of an arched gallery seen behind. \nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/baa08fd0_cd0d_4c9f_9a50_a3c4012d6bb5/preview_00885441_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "57589ea5921dcd135aff5f5f50b5d8db0d55d490ffc545fd94bc7bec80c3b4d3",
+        "bytes": 69232,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-24.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:53.149390+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXX: View of the ruins of the ancient city Ephesus, including what is believed to be the Forum; two Turkish men, one with a horse seen in the foreground, to left; ruins of an arched gallery seen behind. \nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/baa08fd0_cd0d_4c9f_9a50_a3c4012d6bb5/preview_00885441_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-29",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-29",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-29",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.29",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European travel-art watercolour by Luigi Mayer depicting Greek ruins on Samos, with Ottoman-attired figures included only incidentally as staffage; it is an outsider's depiction rather than Turkish-made art or documentation of Turkish craft/dress as its subject.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "modern",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXXV: View of the ruins of the Temple of Juno in the Island of Samos; most pillars of the temple now ruined, except one standing in the background; several men wearing Turkish attire seen examining the plinths of the pillars.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/59495978_7dd2_4baf_8e76_a3c4012db209/preview_00885467_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0451b97e17ec4d75d9efc436435555e4882b37376e693dc1f61527de6587ca22",
+        "bytes": 66923,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-29.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:53.665931+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXXV: View of the ruins of the Temple of Juno in the Island of Samos; most pillars of the temple now ruined, except one standing in the background; several men wearing Turkish attire seen examining the plinths of the pillars.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/59495978_7dd2_4baf_8e76_a3c4012db209/preview_00885467_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-7",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-7",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-7",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.7",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European artist's (Luigi Mayer) topographical watercolour view of the Bosphorus/Scutari, made for Western travelers depicting the landscape with small figures on horseback; it is outsider art depicting the culture rather than an object made or used by Turks themselves.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number VII: View of the Channel of Constantinople including the city of Scutari, seen from the South; in the foreground, men in western dress seen on horseback, accompanied by Turkish men, also on horseback; the sea behind and the channel seen in the background.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/a6365302_33ab_40cf_8e6d_a3c4012d790d/preview_00885393_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "5244fc287c9a38aaf92d782c4911797735037c7b8d6fdde8087b90a6d3db82f4",
+        "bytes": 64634,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:54.670786+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number VII: View of the Channel of Constantinople including the city of Scutari, seen from the South; in the foreground, men in western dress seen on horseback, accompanied by Turkish men, also on horseback; the sea behind and the channel seen in the background.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/a6365302_33ab_40cf_8e6d_a3c4012d790d/preview_00885393_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1917-1208-63-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1917-1208-63-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1917-1208-63-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1917.1208.63.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European (French) commemorative print depicting a Habsburg/Christian victory over the Ottomans at the Battle of Saint Gotthard, made by an outside culture as war propaganda/art, not an object made or used by Turks themselves — the Turkish weapons/figures appear only as defeated subjects and trophies.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Battle of St. Gotthard (1 August 1664): on the right-hand side bottom corner a charge of cavalrymen led by Charles de Lorraine with his banner, against the Turks fleeing on the left hand side; above the main image, a pedestal is flanked by a pair of captives and a trophy of Turkish weapons; beneath the main image is an oval cartouche against Turkish trophies of war with the title: LA BATAILLE / DE / ST. GODARD\r\nEtching",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2025_10/30_18/f9dfa030_a282_45b6_8c53_b3860128fd07/preview_PPA289804.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "06381a3717c9c7a85db92f235aa54a533a93b0b0523a408c85e88ff0193a70ac",
+        "bytes": 53322,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1917-1208-63-3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:55.176996+00:00",
+    "raw": {
+      "title": "print; album",
+      "description": "Battle of St. Gotthard (1 August 1664): on the right-hand side bottom corner a charge of cavalrymen led by Charles de Lorraine with his banner, against the Turks fleeing on the left hand side; above the main image, a pedestal is flanked by a pair of captives and a trophy of Turkish weapons; beneath the main image is an oval cartouche against Turkish trophies of war with the title: LA BATAILLE / DE / ST. GODARD\r\nEtching",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_10/30_18/f9dfa030_a282_45b6_8c53_b3860128fd07/preview_PPA289804.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1841-1211-8-32",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1841-1211-8-32",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1841-1211-8-32",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1841.1211.8.32",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European artist's costume-study drawing from Rubens' Costume Book depicting a Turkish woman's dress as observed/imagined by an outsider, not an object made or a documentary image produced by the Turkish culture itself — it is the culture pictured by a named European artist.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A Turkish woman, full-length portrait, with part of a head at right; from Rubens&#039; Costume Book\r\nPen and brown ink",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_13/6ff922ea_1e63_4419_8c97_a3c600dae845/preview_01012097_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "66ef413b4fa5d700b74cba0621c39491a0102cdb9ae5607b6fc9127b4f398926",
+        "bytes": 38612,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1841-1211-8-32.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:55.680002+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "A Turkish woman, full-length portrait, with part of a head at right; from Rubens&#039; Costume Book\r\nPen and brown ink",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/16_13/6ff922ea_1e63_4419_8c97_a3c600dae845/preview_01012097_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-25",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-25",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-25",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.25",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European-style topographical watercolour view of the ancient ruins at Ephesus, depicting Western travelers sketching and on horseback with local figures incidental to the scene; it is a European artist's travel depiction of a place, not an object made, worn, or used by Turkish people, nor a documentary work of Turkish craft or dress.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number XXXI: View of the ruins of the ancient amphitheatre at Ephesus; two Turkish men, and two men wearing western clothes seen at centre; one man seen sketching while seated, another on a horseback; the steps of the amphitheatre seen behind and a large ruined arch before them.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/9b227cc8_abdf_413b_85c3_a3c4012d7bb8/preview_00885448_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d335d89fe3213aab7a9d1731cbfa19b63f3179b610b7920bd37a2e6014a6ef5b",
+        "bytes": 71756,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-25.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:56.223000+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number XXXI: View of the ruins of the ancient amphitheatre at Ephesus; two Turkish men, and two men wearing western clothes seen at centre; one man seen sketching while seated, another on a horseback; the steps of the amphitheatre seen behind and a large ruined arch before them.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/9b227cc8_abdf_413b_85c3_a3c4012d7bb8/preview_00885448_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-121",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-121",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-121",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.121",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a watercolour costume-album painting depicting a ceremonial led horse (yedek) in Ottoman court harness with gold cloth saddle cover, matching an album of Turkish costume/ceremonial subjects — a traditional painting genre of Ottoman Turkey.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 121 from an album showing Turkish costume.  A ceremonial led horse (yedek) in state harness.  Feathers on bridle, dun horse with brown mane and tail.  Gold cloth over the saddle.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/b452df5f_c229_4649_8798_a3bb0061ec97/preview_00306440_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "443454c87d69a6e3ebabcf1f245265ce666803b1c0cf4dd6dd0a23ff0e71ea78",
+        "bytes": 45058,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-121.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:57.217414+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 121 from an album showing Turkish costume.  A ceremonial led horse (yedek) in state harness.  Feathers on bridle, dun horse with brown mane and tail.  Gold cloth over the saddle.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/b452df5f_c229_4649_8798_a3bb0061ec97/preview_00306440_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-70",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-70",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-70",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.70",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a costume-album watercolour of an \"Arnaut\" (Albanian) figure within a series of Turkish/Ottoman costume types; the museum's own description identifies the subject as Albanian dress, not Turkish, so it does not belong under the Turkish ethnicity claim despite being part of an Ottoman-context album.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 70 from an album showing Turkish costume.  Arnavut or Albanian.  An Albanian dancer wearing a round, close-fitting red with tassles, red sleeveless jerkin with silver fasteners and a white skirt.  Brown purse.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/ede33563_9d73_4ad8_a949_a3b9006f12b6/preview_00346366_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "20997a74c97ce47e5aa694ec7c6406fb82cf4685895c36451d665f6f65623782",
+        "bytes": 40154,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-70.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:08:57.730375+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 70 from an album showing Turkish costume.  Arnavut or Albanian.  An Albanian dancer wearing a round, close-fitting red with tassles, red sleeveless jerkin with silver fasteners and a white skirt.  Brown purse.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/ede33563_9d73_4ad8_a949_a3b9006f12b6/preview_00346366_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1928-0323-0-46-104",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1928-0323-0-46-104",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1928-0323-0-46-104",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1928.0323.0.46.104",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The painting depicts a kul oğlan (son of a Janissary) in Ottoman court dress from an album of Turkish sultans and court officials, matching the claimed Turkish ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "A kul oğlan; single-page painting mounted on album folio. The son of a Janissary wearing a dark blue kaftan, light blue tunic, white sash, red trousers, blue shoes and white turban with red cap. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk, opaque watercolour and gold on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/953adce5_bace_42a4_b738_a3c7009e5774/preview_01028754_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ab9e4a446feed0355da6e47985a733269a8e71c34aeab654e761c58a022158e3",
+        "bytes": 33332,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1928-0323-0-46-104.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:01.107938+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "A kul oğlan; single-page painting mounted on album folio. The son of a Janissary wearing a dark blue kaftan, light blue tunic, white sash, red trousers, blue shoes and white turban with red cap. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk, opaque watercolour and gold on paper. Album bound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/953adce5_bace_42a4_b738_a3c7009e5774/preview_01028754_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1931-0413-185",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1931-0413-185",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1931-0413-185",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1931.0413.185",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European (British/French) satirical engraving mocking Ottoman soldiers being drilled by French officers, depicting the Turkish culture from an outsider's satirical viewpoint rather than showing something the Turks themselves made, wore, or used.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "print; satirical print; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "print; satirical print; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Turkish soldiers, scattered over a wide parade-ground, are being instructed in squads, groups, and as individuals, by French officers.\r\nIn the foreground a Turkish potentate, the Sultan or perhaps the Grand Vizier, leans against the stump of a tree, turning his head in profile to the left to watch the soldiers. At his feet (left) kneels a black slave who is filling a long pipe; beside him a fire burns on a tiny tripod. On the right a Frenchman pulls the long moustache of a Turk, striking him with his cane. Next, three awkward Turks are being taught musket drill. On the left a Turk threatens an officer, drawing his sabre. In the middle distance a Frenchman puts his hand on the projecting stomach of an obese Turk, to make his attitude more soldierly. In the background are a marching squad (left) and a firing squad (right) and, beyond, an officer is attacked by three Turks with sabres raised to strike. Behind (left) is a Turkish fort. The officers are not caricatured nor is their dress exaggerated. The Turks wear baggy trousers with either a fez or a turban; all have long moustaches. 1787?\r\nEtching",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2025_9/30_8/500d900a_841d_4376_b5bd_b368008805bf/preview_PPA174590.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9dd2d10b743eab6d3c4772930958dd1e9bb0b7bba69a9b06feca94dc16bbc7a2",
+        "bytes": 84570,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1931-0413-185.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:01.616894+00:00",
+    "raw": {
+      "title": "print; satirical print; album",
+      "description": "Turkish soldiers, scattered over a wide parade-ground, are being instructed in squads, groups, and as individuals, by French officers.\r\nIn the foreground a Turkish potentate, the Sultan or perhaps the Grand Vizier, leans against the stump of a tree, turning his head in profile to the left to watch the soldiers. At his feet (left) kneels a black slave who is filling a long pipe; beside him a fire burns on a tiny tripod. On the right a Frenchman pulls the long moustache of a Turk, striking him with his cane. Next, three awkward Turks are being taught musket drill. On the left a Turk threatens an officer, drawing his sabre. In the middle distance a Frenchman puts his hand on the projecting stomach of an obese Turk, to make his attitude more soldierly. In the background are a marching squad (left) and a firing squad (right) and, beyond, an officer is attacked by three Turks with sabres raised to strike. Behind (left) is a Turkish fort. The officers are not caricatured nor is their dress exaggerated. The Turks wear baggy trousers with either a fez or a turban; all have long moustaches. 1787?\r\nEtching",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2025_9/30_8/500d900a_841d_4376_b5bd_b368008805bf/preview_PPA174590.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-20",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-20",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-20",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a costume-album watercolour depicting \"Femme du Caire\" (a woman of Cairo) and her attendant in Ottoman-Egyptian dress, part of a European-made album illustrating \"Turkish costume\" (i.e., dress of the Ottoman lands). The figure is explicitly Egyptian, not Turkish, so it does not depict something made, worn, or used by the Turkish ethnic group itself.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss",
+      "reattribution": {
+        "to": "middle-east-north-africa__egypt__egyptian",
+        "people": "Egyptian",
+        "belongs": true,
+        "art_form": "painting-mss",
+        "image": "good",
+        "era": "traditional",
+        "reason": "This is a watercolour costume-album folio labeled \"Femme du Caire,\" depicting a veiled woman of Cairo riding a mule attended by a servant — documentary costume art of Egyptian dress from an Ottoman-era costume album, plausible for the claimed ethnicity."
+      }
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 20 from an album showing Turkish costume.  A woman of Cairo, riding a brown mule followed by a man carrying a staff.  She has a white shawl (kuşak) over her head and shoulders.  The saddle cloth has a star design.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/53f2b44b_2809_4bab_a8f1_a3b9006ef56d/preview_00346265_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0534b48a0b4d4947c03d2f2420d7202c2c3f697ce450d6ff3f0452e9e4b19410",
+        "bytes": 40999,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-20.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:04.501452+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 20 from an album showing Turkish costume.  A woman of Cairo, riding a brown mule followed by a man carrying a staff.  She has a white shawl (kuşak) over her head and shoulders.  The saddle cloth has a star design.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/3_6/53f2b44b_2809_4bab_a8f1_a3b9006ef56d/preview_00346265_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-89",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-89",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-89",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.89",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows a watercolour costume-album figure labeled \"Chorbadgi en cérémonie\" (a corbacı, Ottoman janissary officer) in ceremonial dress with a tall plumed headdress and scarlet cloak, part of an album depicting Ottoman/Turkish costume types — this fits the claimed Turkish ethnicity as a documentary costume study.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 89 from an album showing Turkish costume.  Zurnacı, a shawm (zurna) player of the Mehterhane.  The shawm has a large mouthpiece.  Wearing the square turban, kâtibî kavuk, maroon kaftan, high scarlet boots, red, white and blue striped robe.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/27_12/3669ea5b_6435_4586_8981_a90c00c5f05e/preview_RFM37550.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "87399cbd81af621029fa23a071799fddd871b2f93b14cd6a8f6f57498be4d027",
+        "bytes": 43850,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-89.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:05.007463+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 89 from an album showing Turkish costume.  Zurnacı, a shawm (zurna) player of the Mehterhane.  The shawm has a large mouthpiece.  Wearing the square turban, kâtibî kavuk, maroon kaftan, high scarlet boots, red, white and blue striped robe.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2018_6/27_12/3669ea5b_6435_4586_8981_a90c00c5f05e/preview_RFM37550.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1928-0323-0-46-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1928-0323-0-46-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1928-0323-0-46-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1928.0323.0.46.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The image shows an Ottoman miniature painting of a seated official (the kadi of Istanbul) in green kaftan and white turban, from an album of Turkish sultans and court officials — a classic Ottoman costume-album folio made within the culture's own court tradition.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Istanbul kadisi; single-page painting mounted on album folio. The Istanbul kadisi, the canon law judge of Istanbul, wearing a green kaftan, white robe and white turban with green cap. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk and opaque watercolour on paper. Album cound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/1332ae1e_cb38_4ff5_b78b_a3dd0182c724/preview_01423256_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "36d5d70397d3117b552143a583711b7af0736ce35eaffa6649d17b2f9e8e5a49",
+        "bytes": 38275,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1928-0323-0-46-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:05.505468+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Istanbul kadisi; single-page painting mounted on album folio. The Istanbul kadisi, the canon law judge of Istanbul, wearing a green kaftan, white robe and white turban with green cap. Inscribed. Album contains 124 paintings of Turkish sultans and court officials.\r\nInk and opaque watercolour on paper. Album cound in green leather with pages of Persian paper, according to inscription. Page edges gilded with gold.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/8_23/1332ae1e_cb38_4ff5_b78b_a3dd0182c724/preview_01423256_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-1-22",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-1-22",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-1-22",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.1.22",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "The painting depicts an Ottoman court official (Kahveci başı, the Sultan's chief coffee-maker) in ceremonial costume, a documentary costume-album illustration of Turkish/Ottoman court dress, matching the claimed Turkish ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 22 from an album showing Turkish costume.  Kahveci başı, chief of the coffee-makers whose task it was to make coffee for the Sultan and who was in charge of all the coffee-making equipment.  Carrying a vessel under a gold and red cloth, he is wearing a kâtibî kavuk with a dark blue cap.  Pink kaftan and red şalvar.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_19/4d15b405_b235_4543_91f9_a3b8013ccca5/preview_00325504_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0dda76505e4df1f117df42c0174a0aaabc4236aece8cfdc8addbb66f2e2abd2f",
+        "bytes": 41472,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-1-22.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:06.031547+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 22 from an album showing Turkish costume.  Kahveci başı, chief of the coffee-makers whose task it was to make coffee for the Sultan and who was in charge of all the coffee-making equipment.  Carrying a vessel under a gold and red cloth, he is wearing a kâtibî kavuk with a dark blue cap.  Pink kaftan and red şalvar.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/2_19/4d15b405_b235_4543_91f9_a3b8013ccca5/preview_00325504_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-41",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-41",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-41",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.41",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A European-style costume-album watercolour depicting \"Femme de Kaisarie\" (a woman from Kayseri, Turkey) in traditional dress — this is exactly the kind of documentary costume illustration of the culture's own dress that qualifies as belonging.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 41 from an album showing Turkish costume.  A woman of Kayserie.  Wearing a round red &#039;pill-box&#039; hat (takke) with a huge circular red disk on top.  Cerise entari with ermine collar, short sleeves and edging.  Yellow tunic, red slippers, red and white socks.  White baggy trousers (şalvar), white robe with flower pattern round the hem.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/418aceeb_1bde_48f7_a7ca_a3bb0061e712/preview_00306437_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0c9957702975c3ad50b77f1c2f8450c71e863a56604e10a0b43eb038cd9db809",
+        "bytes": 38918,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-41.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:06.544758+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 41 from an album showing Turkish costume.  A woman of Kayserie.  Wearing a round red &#039;pill-box&#039; hat (takke) with a huge circular red disk on top.  Cerise entari with ermine collar, short sleeves and edging.  Yellow tunic, red slippers, red and white socks.  White baggy trousers (şalvar), white robe with flower pattern round the hem.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/418aceeb_1bde_48f7_a7ca_a3bb0061e712/preview_00306437_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1921-0614-29-58",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1921-0614-29-58",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1921-0614-29-58",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1921.0614.29.58",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "Watercolor drawing from a costume album of Constantinople depicting a veiled Turkish woman in a checked ferace with a child, part of a series documenting local dress including Turkish figures—this plate matches the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Album bound in green leather with gold tooling containing 30 numbered leaves with drawings on the recto, alternating with 30 unnumbered leaves with inscriptions on the verso (facing the drawings) including the titlepage, and 3 further blank leaves (including a fly-leaf), with costumes of Constantinople; the figures usually set against simple backgrounds, and including Kurd, Albanian, Georgian, Armenian, Jewish, Bedouin and Turkish men or women, and specifically an Egyptian groom, Greek sailor, Nubian slave, Turkish police, merchant, soldier, courier and boatman, Bulgarian shepherd, Persian dealer, dervishes, and two portraits of Mde Guido, Lady Canning&#039;s Genoese maid. 1844\nWatercolour, with pen and brown ink outlines, often touched with bodycolour, white or gold, sometimes over graphite, mostly on thick buff paper (pasted in on inside edge)",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/17_11/6ed7eb16_6f7c_4ef6_bdf2_a9d800bb50a0/preview_PDO6127.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "3e0d7c4af828042e920571e7a0b5bfb553f9c1999bc65b98cf6dc588870b912f",
+        "bytes": 37466,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1921-0614-29-58.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:07.067113+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Album bound in green leather with gold tooling containing 30 numbered leaves with drawings on the recto, alternating with 30 unnumbered leaves with inscriptions on the verso (facing the drawings) including the titlepage, and 3 further blank leaves (including a fly-leaf), with costumes of Constantinople; the figures usually set against simple backgrounds, and including Kurd, Albanian, Georgian, Armenian, Jewish, Bedouin and Turkish men or women, and specifically an Egyptian groom, Greek sailor, Nubian slave, Turkish police, merchant, soldier, courier and boatman, Bulgarian shepherd, Persian dealer, dervishes, and two portraits of Mde Guido, Lady Canning&#039;s Genoese maid. 1844\nWatercolour, with pen and brown ink outlines, often touched with bodycolour, white or gold, sometimes over graphite, mostly on thick buff paper (pasted in on inside edge)",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2019_1/17_11/6ed7eb16_6f7c_4ef6_bdf2_a9d800bb50a0/preview_PDO6127.jpg"
+    }
+  },
+  {
+    "id": "british_museum-P_1960-0212-1-6",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "P_1960-0212-1-6",
+      "object_url": "https://www.britishmuseum.org/collection/object/P_1960-0212-1-6",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "P,1960.0212.1.6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European traveler's topographical watercolor view of a village on the Bosphorus near Istanbul, made by an outside artist (Italian caption \"Veduta del Villaggio...\") depicting the landscape and distant buildings; it is a European's depiction of the place rather than Turkish-made art, craft, or dress shown in any detail.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "drawing; album",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "drawing; album",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Number VI: View of the village of Defterdar in Burnu, Turkey; in the foreground, western soldiers seen in conversation with a Turkish man; the sea seen beneath and various buildings in the background.\nWatercolour",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/ed98e319_2779_4dc2_a77e_a3c4012d6e7c/preview_00885391_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "9a928d8acb7dc7272d2a899140b94a877792dc73b97c1d49e9848b2eb664baab",
+        "bytes": 70239,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_P_1960-0212-1-6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:07.613957+00:00",
+    "raw": {
+      "title": "drawing; album",
+      "description": "Number VI: View of the village of Defterdar in Burnu, Turkey; in the foreground, western soldiers seen in conversation with a Turkish man; the sea seen beneath and various buildings in the background.\nWatercolour",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/14_18/ed98e319_2779_4dc2_a77e_a3c4012d6e7c/preview_00885391_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-1-20",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-1-20",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-1-20",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.1.20",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A hand-coloured costume plate depicting an Ottoman court official (\"İç Ağa\") in kaftan, şalvar and külâh-i peyk, labeled \"Drogeman d'une mission\" — this is a European-made costume album illustration of Turkish dress, but it depicts the actual Turkish/Ottoman garment type accurately, consistent with the ethnicity claim.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 20 from an album showing Turkish costume.  The İç Ağa who was the third officer of the Inner Palace.  Wearing the külâh-i peyk with one &#039;horn&#039;.  Pale green kaftan and red şalvar. &#039;Love-locks&#039;.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_18/63bdd939_c7c9_45db_b9c1_a3be01361fc1/preview_00457058_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "fd9608a9c6d8623ad32d213bf8fe568f00c23beafd3d185f21326d3360108ef2",
+        "bytes": 44501,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-1-20.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:08.595484+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 20 from an album showing Turkish costume.  The İç Ağa who was the third officer of the Inner Palace.  Wearing the külâh-i peyk with one &#039;horn&#039;.  Pale green kaftan and red şalvar. &#039;Love-locks&#039;.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/8_18/63bdd939_c7c9_45db_b9c1_a3be01361fc1/preview_00457058_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-31",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-31",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-31",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.31",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a costume-album watercolour depicting a Jewish woman's dress in Ottoman Turkey (\"Femme Juive\"), part of a series documenting Turkish costume of various communities; it reflects local dress observed within the Ottoman/Turkish milieu rather than a foreign culture's imagery, so it fits an ethnographic Turkish-costume record.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 31 from an album showing Turkish costume.  Jewish woman wearing a black entari and a white kuşak round her head and shoulders.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_14/751eed42_b930_42cc_b902_a3e000ed0f90/preview_01596207_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eb8271f37afe91d7dd156ad6b5b3736a3068d7a72c849ed726f04c1c37360bad",
+        "bytes": 38202,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-31.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:10.827484+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 31 from an album showing Turkish costume.  Jewish woman wearing a black entari and a white kuşak round her head and shoulders.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_11/11_14/751eed42_b930_42cc_b902_a3e000ed0f90/preview_01596207_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-1-17",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-1-17",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-1-17",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.1.17",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 1,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This Ottoman costume-album page depicts a Turkish woman (right figure) in traditional dress alongside a Zoroastrian woman, matching the claimed Turkish ethnicity for the right-hand figure; such dual-figure costume albums are a documentary painting tradition of Ottoman Turkey.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Double portrait of a Zoroastrian woman and a Turkish woman; single-page painting on an album folio. Turkish woman, right, holds a small bowl in one hand, while gently clasping a cloth in the other. She wears a small feathered cap, with a sash wrapped underneath, with a jacket, skirt, pants, and sash tied around her waist. Opposite stands the Zoroastrian woman dressed in long jacket, covering her skirt and pants, with a printed shawl wrapped around her hair, shoulders, and extending down her back. She wears a large nose-ring and fitted cap. Inscribed. Album contains 44 paintings and drawings, mostly of Persian costumes and animals with some drawings by Kaempfer.\r\nInk and opaque watercolour on paper. Album is bound in brown leather with gold gilt decoration. Inside covers have marbled paper.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/a1b6f165_8ad4_4bee_b374_a3c7009f730d/preview_01029168_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d6e12b71389bc2ff5eac9f4ca35621dca498e901190a82bcb3361da4f6306ac1",
+        "bytes": 57952,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-1-17.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:12.338384+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Double portrait of a Zoroastrian woman and a Turkish woman; single-page painting on an album folio. Turkish woman, right, holds a small bowl in one hand, while gently clasping a cloth in the other. She wears a small feathered cap, with a sash wrapped underneath, with a jacket, skirt, pants, and sash tied around her waist. Opposite stands the Zoroastrian woman dressed in long jacket, covering her skirt and pants, with a printed shawl wrapped around her hair, shoulders, and extending down her back. She wears a large nose-ring and fitted cap. Inscribed. Album contains 44 paintings and drawings, mostly of Persian costumes and animals with some drawings by Kaempfer.\r\nInk and opaque watercolour on paper. Album is bound in brown leather with gold gilt decoration. Inside covers have marbled paper.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/17_9/a1b6f165_8ad4_4bee_b374_a3c7009f730d/preview_01029168_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-2-110",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-2-110",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-2-110",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.2.110",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "A costume-album watercolour depicting an Ottoman \"Drogman\" (interpreter/dragoman) of a diplomatic mission in Turkish court dress (yellow kaftan, fur cap, patterned robe) — a documentary-style costume study of Ottoman Turkish dress, matching the claimed ethnicity.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 110 from an album showing Turkish costume.  Tercüman, the interpreter of a diplomatic mission.  Yellow kaftan with a white collar and edging, elbow-length sleeves.  White robe with a flower pattern, red ankle-length trousers.  Yellow boots, blue tunic, brown fur cap.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/9a577f01_89d7_4e0d_8446_a3bb0062407b/preview_00306474_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c66dc2275b428841ddf25fe8fe55311632299274f16b19aedc6591a87c453551",
+        "bytes": 44636,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-2-110.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:13.187364+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 110 from an album showing Turkish costume.  Tercüman, the interpreter of a diplomatic mission.  Yellow kaftan with a white collar and edging, elbow-length sleeves.  White robe with a flower pattern, red ankle-length trousers.  Yellow boots, blue tunic, brown fur cap.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/9a577f01_89d7_4e0d_8446_a3bb0062407b/preview_00306474_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_1974-0617-0-12-1-85",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_1974-0617-0-12-1-85",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_1974-0617-0-12-1-85",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,1974.0617.0.12.1.85",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "middle-east-north-africa",
+      "country": "Turkey",
+      "ethnicity": "Turkish",
+      "tradition": "Turkish",
+      "art_form": "painting-mss",
+      "pattern_density": 0,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "vision_reason": "This is a European costume-album watercolour depicting an Ottoman Janissary colonel (Çorbacı) in ceremonial dress, illustrating Ottoman/Turkish court costume from within the region's tradition, so it fits the claimed Turkish ethnicity as a documentary costume study.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "art_form_vision": "painting-mss"
+    },
+    "physical": {
+      "title": "album; painting",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "album; painting",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Painting (watercolour).  Folio 85 from an album showing Turkish costume.  Çorbaçı, colonel of the Janissaries, in ceremonial costume.  Wearing a red kaftan with short sleeves, long flaps and a snow leopard (?) fur lining (white with black spots) and edging over a blue robe.  White cap (kuka) which tapers to a rounded end and had a broad gold brim  with a huge ostrich feather aigrette (süpürge sorguçlu) and a smaller black feather aigrette in gold holders.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/a772e621_c0c5_49ff_9508_a3bb00625039/preview_00306480_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "44b5c0911e127d66eadb6f2e32414dccaafd0af28ba7a58d51e6fa72f49486e2",
+        "bytes": 47580,
+        "local_path": "library\\middle-east-north-africa\\turkey\\turkish\\painting-mss\\turkish\\images\\bm_W_1974-0617-0-12-1-85.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T19:09:14.000464+00:00",
+    "raw": {
+      "title": "album; painting",
+      "description": "Painting (watercolour).  Folio 85 from an album showing Turkish costume.  Çorbaçı, colonel of the Janissaries, in ceremonial costume.  Wearing a red kaftan with short sleeves, long flaps and a snow leopard (?) fur lining (white with black spots) and edging over a blue robe.  White cap (kuka) which tapers to a rounded end and had a broad gold brim  with a huge ostrich feather aigrette (süpürge sorguçlu) and a smaller black feather aigrette in gold holders.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_5/a772e621_c0c5_49ff_9508_a3bb00625039/preview_00306480_001.jpg"
+    }
+  }
+]

@@ -1,0 +1,4378 @@
+[
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_17072",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_17072",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17072?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh Xinjiang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felt appliqué (shyrdak-technique) rug with bold geometric diamond motifs, a textile form long used by Central Asian nomadic Turkic peoples including Kazakhs; such felt work is plausible for the claimed culture even if the shyrdak name is more strongly associated with neighboring Kyrgyz tradition.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "matta, filt, Shyrdak",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F613033%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "0aaab39e4734b858a85d021493a44548592d78d592c7b5592068afb7f834d233",
+        "bytes": 51916,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\eu_91608_SMVK_VKM_objekt_17072.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:02.554344+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Filtmatta i teknik som kallas shyrdak vilket betyder att den sytts i så kallad intarsia.\nDenna matta är mönstermässigt gjord på samma sätt som de kvadratiska sittdynorna. I det här fallet destår mattan av 3 stycken likadana kvadratiska delar i grönt och ciris och med en kant av svart och vit taggade kant, den har oranga konturtrådar.\nEmellan dessa former är \"halva sittdynor\" infogade, de är mönstrade med mörk röd-brun botten och med lila figurer och med ljust gröna konturtrådar.\nRunt hela mattan finns en svart och vit tagg-kant bård med röda konturtrådar.\nMattans baksida består av ofärgad svart filt.\nHela mattan är kantad med 1 ljust grön tvinnad och 1 gul tvinnade tråd som är fast sydda om kanten.",
+        "1999.02.0077",
+        "digitalfoto",
+        "1999-02-0077",
+        "Kirgizistan",
+        "Kyrgyzstan"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Filtmatta i teknik som kallas shyrdak vilket betyder att den sytts i så kallad intarsia.\nDenna matta är mönstermässigt gjord på samma sätt som de kvadratiska sittdynorna. I det här fallet destår mattan av 3 stycken likadana kvadratiska delar i grönt och ciris och med en kant av svart och vit taggade kant, den har oranga konturtrådar.\nEmellan dessa former är \"halva sittdynor\" infogade, de är mönstrade med mörk röd-brun botten och med lila figurer och med ljust gröna konturtrådar.\nRunt hela mattan finns en svart och vit tagg-kant bård med röda konturtrådar.\nMattans baksida består av ofärgad svart filt.\nHela mattan är kantad med 1 ljust grön tvinnad och 1 gul tvinnade tråd som är fast sydda om kanten."
+        ],
+        "def": [
+          "1999.02.0077",
+          "digitalfoto",
+          "1999-02-0077",
+          "Kirgizistan",
+          "Kyrgyzstan"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "def": [
+          "matta, filt, Shyrdak"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/17072"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/613033/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kirgisien"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Киргизская Республика"
+        },
+        {
+          "def": "Кыргызская Республика"
+        },
+        {
+          "def": "Кыргызстан"
+        },
+        {
+          "def": "Киргизстан"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgisian tasavalta"
+        },
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kirgisistanin tasavalta"
+        },
+        {
+          "def": "Republiken Kirgizistan"
+        },
+        {
+          "def": "Quirguizistão"
+        },
+        {
+          "def": "Quirguízia"
+        },
+        {
+          "def": "Киргизия"
+        },
+        {
+          "def": "Repubblika Kirgiża"
+        },
+        {
+          "def": "Kyrgyz Republic"
+        },
+        {
+          "def": "kg"
+        },
+        {
+          "def": "Kirgizia"
+        },
+        {
+          "def": "KGZ"
+        },
+        {
+          "def": "Chirghisia"
+        },
+        {
+          "def": "Kirghizie"
+        },
+        {
+          "def": "Kirghizstan"
+        },
+        {
+          "def": "KG"
+        },
+        {
+          "def": "La République kirghize"
+        },
+        {
+          "def": "Kirgiz Köztársaság"
+        },
+        {
+          "def": "República Kirguisa"
+        },
+        {
+          "def": "Kirguizistán"
+        },
+        {
+          "def": "Kirguisia"
+        },
+        {
+          "def": "Kirguistan"
+        },
+        {
+          "def": "Republica Kirguisa"
+        },
+        {
+          "def": "Kirguizistan"
+        },
+        {
+          "def": "Kirgiisi Vabariik"
+        },
+        {
+          "def": "Kirgizská republika"
+        },
+        {
+          "def": "Kirgizija"
+        },
+        {
+          "def": "Kirgistanie"
+        },
+        {
+          "def": "Kîrgîzstan"
+        },
+        {
+          "def": "Kirghizstan"
+        },
+        {
+          "def": "Kirguizistan"
+        },
+        {
+          "def": "Kirgizstan"
+        },
+        {
+          "def": "KG"
+        },
+        {
+          "def": "KGZ"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgizistan"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Kirgisien",
+          "Kirgistan"
+        ],
+        "ru": [
+          "Киргизская Республика",
+          "Кыргызская Республика",
+          "Кыргызстан",
+          "Киргизстан"
+        ],
+        "fi": [
+          "Kirgistan",
+          "Kirgisian tasavalta",
+          "Kirgisistan",
+          "Kirgisistanin tasavalta"
+        ],
+        "sv": [
+          "Republiken Kirgizistan"
+        ],
+        "pt": [
+          "Quirguizistão",
+          "Quirguízia"
+        ],
+        "bg": [
+          "Киргизия"
+        ],
+        "mt": [
+          "Repubblika Kirgiża"
+        ],
+        "en": [
+          "Kyrgyz Republic",
+          "kg",
+          "Kirgizia",
+          "KGZ"
+        ],
+        "it": [
+          "Chirghisia"
+        ],
+        "fr": [
+          "Kirghizie",
+          "Kirghizstan",
+          "KG",
+          "La République kirghize"
+        ],
+        "hu": [
+          "Kirgiz Köztársaság"
+        ],
+        "es": [
+          "República Kirguisa",
+          "Kirguizistán",
+          "Kirguisia",
+          "Kirguistan",
+          "Republica Kirguisa",
+          "Kirguizistan"
+        ],
+        "et": [
+          "Kirgiisi Vabariik"
+        ],
+        "sk": [
+          "Kirgizská republika"
+        ],
+        "sl": [
+          "Kirgizija"
+        ],
+        "pl": [
+          "Kirgistanie"
+        ],
+        "ro": [
+          "Kîrgîzstan",
+          "Kirghizstan"
+        ],
+        "ca": [
+          "Kirguizistan"
+        ],
+        "nl": [
+          "Kirgizstan",
+          "KG",
+          "KGZ",
+          "Kirgistan",
+          "Kirgizistan"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kirgisia"
+        },
+        {
+          "def": "Киргизия"
+        },
+        {
+          "def": "Quirguistão"
+        },
+        {
+          "def": "Киргизстан"
+        },
+        {
+          "def": "Kirgizija"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgizstāna"
+        },
+        {
+          "def": "Kirghizistan"
+        },
+        {
+          "def": "Kirgizisztán"
+        },
+        {
+          "def": "Kirgizsko"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "An Chirgeastáin"
+        },
+        {
+          "def": "Kirguizstan"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "Κιργιζία"
+        },
+        {
+          "def": "Kirgiżistan"
+        },
+        {
+          "def": "Kyrgyzstan"
+        },
+        {
+          "def": "Kirghizistan"
+        },
+        {
+          "def": "Kirguistán"
+        },
+        {
+          "def": "Kõrgõzstan"
+        },
+        {
+          "def": "Kyrgyzstán"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kârgâzstan"
+        },
+        {
+          "def": "Kirgizië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Kirgisistan"
+        ],
+        "fi": [
+          "Kirgisia"
+        ],
+        "ru": [
+          "Киргизия"
+        ],
+        "pt": [
+          "Quirguistão"
+        ],
+        "bg": [
+          "Киргизстан"
+        ],
+        "lt": [
+          "Kirgizija"
+        ],
+        "hr": [
+          "Kirgistan"
+        ],
+        "lv": [
+          "Kirgizstāna"
+        ],
+        "fr": [
+          "Kirghizistan"
+        ],
+        "hu": [
+          "Kirgizisztán"
+        ],
+        "sk": [
+          "Kirgizsko"
+        ],
+        "sl": [
+          "Kirgizistan"
+        ],
+        "ga": [
+          "An Chirgeastáin"
+        ],
+        "ca": [
+          "Kirguizstan"
+        ],
+        "sv": [
+          "Kirgizistan"
+        ],
+        "el": [
+          "Κιργιζία"
+        ],
+        "mt": [
+          "Kirgiżistan"
+        ],
+        "en": [
+          "Kyrgyzstan"
+        ],
+        "it": [
+          "Kirghizistan"
+        ],
+        "es": [
+          "Kirguistán"
+        ],
+        "et": [
+          "Kõrgõzstan"
+        ],
+        "cs": [
+          "Kyrgyzstán"
+        ],
+        "eu": [
+          "Kirgizistan"
+        ],
+        "pl": [
+          "Kirgistan"
+        ],
+        "da": [
+          "Kirgisistan"
+        ],
+        "ro": [
+          "Kârgâzstan"
+        ],
+        "nl": [
+          "Kirgizië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.0"
+      ],
+      "edmPlaceLongitude": [
+        "75.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F613033%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_17072?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_17072",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_17072.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 117.8401,
+      "timestamp": 1752047508587,
+      "timestamp_created": "2014-10-01T16:12:07.187Z",
+      "timestamp_created_epoch": 1412179927187,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "matta, filt, Shyrdak"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_4699",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_4699",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4699?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh Xinjiang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felt shyrdak-style mat made with intarsia technique and scroll/ram's-horn motifs typical of Central Asian nomadic (Kazakh/Kyrgyz) felt work, consistent with Kazakh craft traditions.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "mönstrad filtmatta, intarsia, Shyrdak",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612797%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "14d175477aa32f9a869cba97fc74633f265f07e563f2bae6383018e4b3d3f6b0",
+        "bytes": 60360,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\eu_91608_SMVK_VKM_objekt_4699.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:03.138481+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fryst hösten 1999, efter att ett par ullföremål i samlingen angripits av klädesmal.",
+        "Mönstrad matta tillverkad av filt i en teknik som kallas intarsia.\nMittpartiet har en orange botten och en röd form. Mönstret består av 2 hjärtformer och emellan dem 2 hjorthorns former\nMittpartiets konturlinjer är sydda med 2 oranga trådar, en S och en Z tvinnad, ytter formerna med lila konturtrådar. \nMattan har en yttre bård, ett zik-zak mönster i svart och vitt, det sägs symbolisera vatten = evigheten, eller vissa personer säger att det är en bild av bergen med snö på.\nHela mattans ytterkant är kantad med en snodd gjord av en tvinnad röd och en tvinnad grå tråd så att det bildar ett viggmönster. Snodden är fastsydd om mattans kant som förstärkning.",
+        "1999.02.0017",
+        "digitalfoto",
+        "del av inredning i jurta",
+        "1999.02.0017",
+        "Rudolfo Schreiter",
+        "norra Kirgizistan",
+        "Kyrgyzstan"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fryst hösten 1999, efter att ett par ullföremål i samlingen angripits av klädesmal.",
+          "Mönstrad matta tillverkad av filt i en teknik som kallas intarsia.\nMittpartiet har en orange botten och en röd form. Mönstret består av 2 hjärtformer och emellan dem 2 hjorthorns former\nMittpartiets konturlinjer är sydda med 2 oranga trådar, en S och en Z tvinnad, ytter formerna med lila konturtrådar. \nMattan har en yttre bård, ett zik-zak mönster i svart och vitt, det sägs symbolisera vatten = evigheten, eller vissa personer säger att det är en bild av bergen med snö på.\nHela mattans ytterkant är kantad med en snodd gjord av en tvinnad röd och en tvinnad grå tråd så att det bildar ett viggmönster. Snodden är fastsydd om mattans kant som förstärkning."
+        ],
+        "def": [
+          "1999.02.0017",
+          "digitalfoto",
+          "del av inredning i jurta",
+          "1999.02.0017",
+          "Rudolfo Schreiter",
+          "norra Kirgizistan",
+          "Kyrgyzstan"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "mönstrad filtmatta, intarsia, Shyrdak"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/4699"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612797/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kirgisien"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Киргизская Республика"
+        },
+        {
+          "def": "Кыргызская Республика"
+        },
+        {
+          "def": "Кыргызстан"
+        },
+        {
+          "def": "Киргизстан"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgisian tasavalta"
+        },
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kirgisistanin tasavalta"
+        },
+        {
+          "def": "Republiken Kirgizistan"
+        },
+        {
+          "def": "Quirguizistão"
+        },
+        {
+          "def": "Quirguízia"
+        },
+        {
+          "def": "Киргизия"
+        },
+        {
+          "def": "Repubblika Kirgiża"
+        },
+        {
+          "def": "Kyrgyz Republic"
+        },
+        {
+          "def": "kg"
+        },
+        {
+          "def": "Kirgizia"
+        },
+        {
+          "def": "KGZ"
+        },
+        {
+          "def": "Chirghisia"
+        },
+        {
+          "def": "Kirghizie"
+        },
+        {
+          "def": "Kirghizstan"
+        },
+        {
+          "def": "KG"
+        },
+        {
+          "def": "La République kirghize"
+        },
+        {
+          "def": "Kirgiz Köztársaság"
+        },
+        {
+          "def": "República Kirguisa"
+        },
+        {
+          "def": "Kirguizistán"
+        },
+        {
+          "def": "Kirguisia"
+        },
+        {
+          "def": "Kirguistan"
+        },
+        {
+          "def": "Republica Kirguisa"
+        },
+        {
+          "def": "Kirguizistan"
+        },
+        {
+          "def": "Kirgiisi Vabariik"
+        },
+        {
+          "def": "Kirgizská republika"
+        },
+        {
+          "def": "Kirgizija"
+        },
+        {
+          "def": "Kirgistanie"
+        },
+        {
+          "def": "Kîrgîzstan"
+        },
+        {
+          "def": "Kirghizstan"
+        },
+        {
+          "def": "Kirguizistan"
+        },
+        {
+          "def": "Kirgizstan"
+        },
+        {
+          "def": "KG"
+        },
+        {
+          "def": "KGZ"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgizistan"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Kirgisien",
+          "Kirgistan"
+        ],
+        "ru": [
+          "Киргизская Республика",
+          "Кыргызская Республика",
+          "Кыргызстан",
+          "Киргизстан"
+        ],
+        "fi": [
+          "Kirgistan",
+          "Kirgisian tasavalta",
+          "Kirgisistan",
+          "Kirgisistanin tasavalta"
+        ],
+        "sv": [
+          "Republiken Kirgizistan"
+        ],
+        "pt": [
+          "Quirguizistão",
+          "Quirguízia"
+        ],
+        "bg": [
+          "Киргизия"
+        ],
+        "mt": [
+          "Repubblika Kirgiża"
+        ],
+        "en": [
+          "Kyrgyz Republic",
+          "kg",
+          "Kirgizia",
+          "KGZ"
+        ],
+        "it": [
+          "Chirghisia"
+        ],
+        "fr": [
+          "Kirghizie",
+          "Kirghizstan",
+          "KG",
+          "La République kirghize"
+        ],
+        "hu": [
+          "Kirgiz Köztársaság"
+        ],
+        "es": [
+          "República Kirguisa",
+          "Kirguizistán",
+          "Kirguisia",
+          "Kirguistan",
+          "Republica Kirguisa",
+          "Kirguizistan"
+        ],
+        "et": [
+          "Kirgiisi Vabariik"
+        ],
+        "sk": [
+          "Kirgizská republika"
+        ],
+        "sl": [
+          "Kirgizija"
+        ],
+        "pl": [
+          "Kirgistanie"
+        ],
+        "ro": [
+          "Kîrgîzstan",
+          "Kirghizstan"
+        ],
+        "ca": [
+          "Kirguizistan"
+        ],
+        "nl": [
+          "Kirgizstan",
+          "KG",
+          "KGZ",
+          "Kirgistan",
+          "Kirgizistan"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kirgisia"
+        },
+        {
+          "def": "Киргизия"
+        },
+        {
+          "def": "Quirguistão"
+        },
+        {
+          "def": "Киргизстан"
+        },
+        {
+          "def": "Kirgizija"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgizstāna"
+        },
+        {
+          "def": "Kirghizistan"
+        },
+        {
+          "def": "Kirgizisztán"
+        },
+        {
+          "def": "Kirgizsko"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "An Chirgeastáin"
+        },
+        {
+          "def": "Kirguizstan"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "Κιργιζία"
+        },
+        {
+          "def": "Kirgiżistan"
+        },
+        {
+          "def": "Kyrgyzstan"
+        },
+        {
+          "def": "Kirghizistan"
+        },
+        {
+          "def": "Kirguistán"
+        },
+        {
+          "def": "Kõrgõzstan"
+        },
+        {
+          "def": "Kyrgyzstán"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kârgâzstan"
+        },
+        {
+          "def": "Kirgizië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Kirgisistan"
+        ],
+        "fi": [
+          "Kirgisia"
+        ],
+        "ru": [
+          "Киргизия"
+        ],
+        "pt": [
+          "Quirguistão"
+        ],
+        "bg": [
+          "Киргизстан"
+        ],
+        "lt": [
+          "Kirgizija"
+        ],
+        "hr": [
+          "Kirgistan"
+        ],
+        "lv": [
+          "Kirgizstāna"
+        ],
+        "fr": [
+          "Kirghizistan"
+        ],
+        "hu": [
+          "Kirgizisztán"
+        ],
+        "sk": [
+          "Kirgizsko"
+        ],
+        "sl": [
+          "Kirgizistan"
+        ],
+        "ga": [
+          "An Chirgeastáin"
+        ],
+        "ca": [
+          "Kirguizstan"
+        ],
+        "sv": [
+          "Kirgizistan"
+        ],
+        "el": [
+          "Κιργιζία"
+        ],
+        "mt": [
+          "Kirgiżistan"
+        ],
+        "en": [
+          "Kyrgyzstan"
+        ],
+        "it": [
+          "Kirghizistan"
+        ],
+        "es": [
+          "Kirguistán"
+        ],
+        "et": [
+          "Kõrgõzstan"
+        ],
+        "cs": [
+          "Kyrgyzstán"
+        ],
+        "eu": [
+          "Kirgizistan"
+        ],
+        "pl": [
+          "Kirgistan"
+        ],
+        "da": [
+          "Kirgisistan"
+        ],
+        "ro": [
+          "Kârgâzstan"
+        ],
+        "nl": [
+          "Kirgizië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.0"
+      ],
+      "edmPlaceLongitude": [
+        "75.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612797%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4699?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_4699",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_4699.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 110.72242,
+      "timestamp": 1752047571575,
+      "timestamp_created": "2014-10-01T16:23:04.493Z",
+      "timestamp_created_epoch": 1412180584493,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "mönstrad filtmatta, intarsia, Shyrdak"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "europeana-91608_SMVK_VKM_objekt_4698",
+    "source": {
+      "museum": "europeana",
+      "museum_name": "Museum of World Culture",
+      "object_id": "91608_SMVK_VKM_objekt_4698",
+      "object_url": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4698?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "iiif_manifest": null,
+      "credit_line": null,
+      "rights": "public-domain",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+      "accession_number": null,
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh Xinjiang",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felted shyrdak-style rug with mirrored scroll patterns made by intarsia technique, a craft characteristic of Central Asian Turkic nomadic peoples including Kazakhs, consistent with the claimed ethnicity and category.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "mönstrad filtmatta, intarsia, shyrdak",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": null,
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": null,
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "Museum of World Culture",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612793%2Fzoom&type=IMAGE",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "42f1681cfcbdee55adf6fcc45158a047db59de0bf1dae31d478710200d5446cf",
+        "bytes": 70938,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\eu_91608_SMVK_VKM_objekt_4698.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:42:03.774475+00:00",
+    "raw": {
+      "completeness": 10,
+      "country": [
+        "Sweden"
+      ],
+      "dataProvider": [
+        "Museum of World Culture"
+      ],
+      "dcDescription": [
+        "Fryst hösten 1999, efter att ett par ullföremål i samlingen angripits av klädesmal.",
+        "Mönstrad matta tillverkad av filt i en teknik som kallas intarsia.\nFärger: rött, grönt, blåt och svart och vitt .\nKonturlinjer sydda med 2 trådar, en S och en Z tvinnad. Dessa knturer är en del av knstruktionen då de två färgdelarna sys samman.\nMattor av denna typ är tillverkade av 2 lager filt. Överst det mönstrade i olika färger, då detta är sytt kviltas de samman med en hel filt av svart eller brun ull för att stabilisera hela mattan.\nKanter: Denna typ av mattor är tillskurna och därför kantade med i detta fallet 2 snodder av blått och rött garn de är fastsydda om de två filtlagren.\n\nMattan har ett traditionellt mönster med ett mittmönster och en bred bård. Ytterst en smal svart - vit bård och en likadan till mellan den stora ytter bården och mittpartiet. Dessa smala  bårder sägs symbolisera vatten = evigheten, vissa personer säger att det är en bild av bergen med snö på, typiskt för Kirgizistan. Andra säger att dessa smal svart - vita bårder skyddar dem som sitter innanför bården - här skall man kunna var trygg, inget ont kan hända där.",
+        "1999.02.0016",
+        "digitalfoto",
+        "del av inredning i jurta",
+        "1999-02-0016",
+        "Rudolfo Schreiter",
+        "norra Kirgizistan",
+        "Kirgizistan [[Haga]]",
+        "dammsuggning 070119 /AST",
+        "Kyrgyzstan"
+      ],
+      "dcDescriptionLangAware": {
+        "sv": [
+          "Fryst hösten 1999, efter att ett par ullföremål i samlingen angripits av klädesmal.",
+          "Mönstrad matta tillverkad av filt i en teknik som kallas intarsia.\nFärger: rött, grönt, blåt och svart och vitt .\nKonturlinjer sydda med 2 trådar, en S och en Z tvinnad. Dessa knturer är en del av knstruktionen då de två färgdelarna sys samman.\nMattor av denna typ är tillverkade av 2 lager filt. Överst det mönstrade i olika färger, då detta är sytt kviltas de samman med en hel filt av svart eller brun ull för att stabilisera hela mattan.\nKanter: Denna typ av mattor är tillskurna och därför kantade med i detta fallet 2 snodder av blått och rött garn de är fastsydda om de två filtlagren.\n\nMattan har ett traditionellt mönster med ett mittmönster och en bred bård. Ytterst en smal svart - vit bård och en likadan till mellan den stora ytter bården och mittpartiet. Dessa smala  bårder sägs symbolisera vatten = evigheten, vissa personer säger att det är en bild av bergen med snö på, typiskt för Kirgizistan. Andra säger att dessa smal svart - vita bårder skyddar dem som sitter innanför bården - här skall man kunna var trygg, inget ont kan hända där."
+        ],
+        "def": [
+          "1999.02.0016",
+          "digitalfoto",
+          "del av inredning i jurta",
+          "1999-02-0016",
+          "Rudolfo Schreiter",
+          "norra Kirgizistan",
+          "Kirgizistan [[Haga]]",
+          "dammsuggning 070119 /AST",
+          "Kyrgyzstan"
+        ]
+      },
+      "dcLanguage": [
+        "sv",
+        "swe"
+      ],
+      "dcLanguageLangAware": {
+        "def": [
+          "sv",
+          "swe"
+        ]
+      },
+      "dcTitleLangAware": {
+        "sv": [
+          "mönstrad filtmatta, intarsia, shyrdak"
+        ]
+      },
+      "edmConcept": [
+        "http://data.europeana.eu/concept/55"
+      ],
+      "edmConceptLabel": [
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Tekstiili"
+        },
+        {
+          "def": "Текстиль"
+        },
+        {
+          "def": "Têxtil"
+        },
+        {
+          "def": "Текстил"
+        },
+        {
+          "def": "Tekstilė"
+        },
+        {
+          "def": "Tkanina"
+        },
+        {
+          "def": "Audums"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Szövet"
+        },
+        {
+          "def": "Textilia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Teicstíl"
+        },
+        {
+          "def": "Tèxtil"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Ύφασμα"
+        },
+        {
+          "def": "Textile"
+        },
+        {
+          "def": "Tessuto"
+        },
+        {
+          "def": "Textil"
+        },
+        {
+          "def": "Tekstiil"
+        },
+        {
+          "def": "Textilie"
+        },
+        {
+          "def": "Ehun"
+        },
+        {
+          "def": "Tekstylia"
+        },
+        {
+          "def": "Tekstil"
+        },
+        {
+          "def": "Material textil"
+        },
+        {
+          "def": "Textiel"
+        }
+      ],
+      "edmConceptPrefLabelLangAware": {
+        "de": [
+          "Textilie"
+        ],
+        "fi": [
+          "Tekstiili"
+        ],
+        "ru": [
+          "Текстиль"
+        ],
+        "pt": [
+          "Têxtil"
+        ],
+        "bg": [
+          "Текстил"
+        ],
+        "lt": [
+          "Tekstilė"
+        ],
+        "hr": [
+          "Tkanina"
+        ],
+        "lv": [
+          "Audums"
+        ],
+        "fr": [
+          "Textile"
+        ],
+        "hu": [
+          "Szövet"
+        ],
+        "sk": [
+          "Textilia"
+        ],
+        "sl": [
+          "Tekstil"
+        ],
+        "ga": [
+          "Teicstíl"
+        ],
+        "ca": [
+          "Tèxtil"
+        ],
+        "sv": [
+          "Textil"
+        ],
+        "el": [
+          "Ύφασμα"
+        ],
+        "en": [
+          "Textile"
+        ],
+        "it": [
+          "Tessuto"
+        ],
+        "es": [
+          "Textil"
+        ],
+        "et": [
+          "Tekstiil"
+        ],
+        "cs": [
+          "Textilie"
+        ],
+        "eu": [
+          "Ehun"
+        ],
+        "pl": [
+          "Tekstylia"
+        ],
+        "da": [
+          "Tekstil"
+        ],
+        "ro": [
+          "Material textil"
+        ],
+        "nl": [
+          "Textiel"
+        ]
+      },
+      "edmDatasetName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "edmIsShownAt": [
+        "https://collections.smvk.se/carlotta-vkm/web/object/4698"
+      ],
+      "edmIsShownBy": [
+        "https://collections.smvk.se/carlotta-vkm/web/image/zoom/612793/zoom"
+      ],
+      "edmPlaceAltLabel": [
+        {
+          "def": "Kirgisien"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Киргизская Республика"
+        },
+        {
+          "def": "Кыргызская Республика"
+        },
+        {
+          "def": "Кыргызстан"
+        },
+        {
+          "def": "Киргизстан"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgisian tasavalta"
+        },
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kirgisistanin tasavalta"
+        },
+        {
+          "def": "Republiken Kirgizistan"
+        },
+        {
+          "def": "Quirguizistão"
+        },
+        {
+          "def": "Quirguízia"
+        },
+        {
+          "def": "Киргизия"
+        },
+        {
+          "def": "Repubblika Kirgiża"
+        },
+        {
+          "def": "Kyrgyz Republic"
+        },
+        {
+          "def": "kg"
+        },
+        {
+          "def": "Kirgizia"
+        },
+        {
+          "def": "KGZ"
+        },
+        {
+          "def": "Chirghisia"
+        },
+        {
+          "def": "Kirghizie"
+        },
+        {
+          "def": "Kirghizstan"
+        },
+        {
+          "def": "KG"
+        },
+        {
+          "def": "La République kirghize"
+        },
+        {
+          "def": "Kirgiz Köztársaság"
+        },
+        {
+          "def": "República Kirguisa"
+        },
+        {
+          "def": "Kirguizistán"
+        },
+        {
+          "def": "Kirguisia"
+        },
+        {
+          "def": "Kirguistan"
+        },
+        {
+          "def": "Republica Kirguisa"
+        },
+        {
+          "def": "Kirguizistan"
+        },
+        {
+          "def": "Kirgiisi Vabariik"
+        },
+        {
+          "def": "Kirgizská republika"
+        },
+        {
+          "def": "Kirgizija"
+        },
+        {
+          "def": "Kirgistanie"
+        },
+        {
+          "def": "Kîrgîzstan"
+        },
+        {
+          "def": "Kirghizstan"
+        },
+        {
+          "def": "Kirguizistan"
+        },
+        {
+          "def": "Kirgizstan"
+        },
+        {
+          "def": "KG"
+        },
+        {
+          "def": "KGZ"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgizistan"
+        }
+      ],
+      "edmPlaceAltLabelLangAware": {
+        "de": [
+          "Kirgisien",
+          "Kirgistan"
+        ],
+        "ru": [
+          "Киргизская Республика",
+          "Кыргызская Республика",
+          "Кыргызстан",
+          "Киргизстан"
+        ],
+        "fi": [
+          "Kirgistan",
+          "Kirgisian tasavalta",
+          "Kirgisistan",
+          "Kirgisistanin tasavalta"
+        ],
+        "sv": [
+          "Republiken Kirgizistan"
+        ],
+        "pt": [
+          "Quirguizistão",
+          "Quirguízia"
+        ],
+        "bg": [
+          "Киргизия"
+        ],
+        "mt": [
+          "Repubblika Kirgiża"
+        ],
+        "en": [
+          "Kyrgyz Republic",
+          "kg",
+          "Kirgizia",
+          "KGZ"
+        ],
+        "it": [
+          "Chirghisia"
+        ],
+        "fr": [
+          "Kirghizie",
+          "Kirghizstan",
+          "KG",
+          "La République kirghize"
+        ],
+        "hu": [
+          "Kirgiz Köztársaság"
+        ],
+        "es": [
+          "República Kirguisa",
+          "Kirguizistán",
+          "Kirguisia",
+          "Kirguistan",
+          "Republica Kirguisa",
+          "Kirguizistan"
+        ],
+        "et": [
+          "Kirgiisi Vabariik"
+        ],
+        "sk": [
+          "Kirgizská republika"
+        ],
+        "sl": [
+          "Kirgizija"
+        ],
+        "pl": [
+          "Kirgistanie"
+        ],
+        "ro": [
+          "Kîrgîzstan",
+          "Kirghizstan"
+        ],
+        "ca": [
+          "Kirguizistan"
+        ],
+        "nl": [
+          "Kirgizstan",
+          "KG",
+          "KGZ",
+          "Kirgistan",
+          "Kirgizistan"
+        ]
+      },
+      "edmPlaceLabel": [
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kirgisia"
+        },
+        {
+          "def": "Киргизия"
+        },
+        {
+          "def": "Quirguistão"
+        },
+        {
+          "def": "Киргизстан"
+        },
+        {
+          "def": "Kirgizija"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgizstāna"
+        },
+        {
+          "def": "Kirghizistan"
+        },
+        {
+          "def": "Kirgizisztán"
+        },
+        {
+          "def": "Kirgizsko"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "An Chirgeastáin"
+        },
+        {
+          "def": "Kirguizstan"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "Κιργιζία"
+        },
+        {
+          "def": "Kirgiżistan"
+        },
+        {
+          "def": "Kyrgyzstan"
+        },
+        {
+          "def": "Kirghizistan"
+        },
+        {
+          "def": "Kirguistán"
+        },
+        {
+          "def": "Kõrgõzstan"
+        },
+        {
+          "def": "Kyrgyzstán"
+        },
+        {
+          "def": "Kirgizistan"
+        },
+        {
+          "def": "Kirgistan"
+        },
+        {
+          "def": "Kirgisistan"
+        },
+        {
+          "def": "Kârgâzstan"
+        },
+        {
+          "def": "Kirgizië"
+        }
+      ],
+      "edmPlaceLabelLangAware": {
+        "de": [
+          "Kirgisistan"
+        ],
+        "fi": [
+          "Kirgisia"
+        ],
+        "ru": [
+          "Киргизия"
+        ],
+        "pt": [
+          "Quirguistão"
+        ],
+        "bg": [
+          "Киргизстан"
+        ],
+        "lt": [
+          "Kirgizija"
+        ],
+        "hr": [
+          "Kirgistan"
+        ],
+        "lv": [
+          "Kirgizstāna"
+        ],
+        "fr": [
+          "Kirghizistan"
+        ],
+        "hu": [
+          "Kirgizisztán"
+        ],
+        "sk": [
+          "Kirgizsko"
+        ],
+        "sl": [
+          "Kirgizistan"
+        ],
+        "ga": [
+          "An Chirgeastáin"
+        ],
+        "ca": [
+          "Kirguizstan"
+        ],
+        "sv": [
+          "Kirgizistan"
+        ],
+        "el": [
+          "Κιργιζία"
+        ],
+        "mt": [
+          "Kirgiżistan"
+        ],
+        "en": [
+          "Kyrgyzstan"
+        ],
+        "it": [
+          "Kirghizistan"
+        ],
+        "es": [
+          "Kirguistán"
+        ],
+        "et": [
+          "Kõrgõzstan"
+        ],
+        "cs": [
+          "Kyrgyzstán"
+        ],
+        "eu": [
+          "Kirgizistan"
+        ],
+        "pl": [
+          "Kirgistan"
+        ],
+        "da": [
+          "Kirgisistan"
+        ],
+        "ro": [
+          "Kârgâzstan"
+        ],
+        "nl": [
+          "Kirgizië"
+        ]
+      },
+      "edmPlaceLatitude": [
+        "41.0"
+      ],
+      "edmPlaceLongitude": [
+        "75.0"
+      ],
+      "edmPreview": [
+        "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fcollections.smvk.se%2Fcarlotta-vkm%2Fweb%2Fimage%2Fzoom%2F612793%2Fzoom&type=IMAGE"
+      ],
+      "europeanaCollectionName": [
+        "91608_SwedishNationalHeritage_smvk_vkm"
+      ],
+      "europeanaCompleteness": 10,
+      "guid": "https://www.europeana.eu/item/91608/SMVK_VKM_objekt_4698?utm_source=api&utm_medium=api&utm_campaign=weizzlypang",
+      "id": "/91608/SMVK_VKM_objekt_4698",
+      "index": 0,
+      "language": [
+        "mul"
+      ],
+      "link": "https://api.europeana.eu/record/91608/SMVK_VKM_objekt_4698.json?wskey=weizzlypang",
+      "previewNoDistribute": false,
+      "provider": [
+        "Swedish Open Cultural Heritage"
+      ],
+      "rights": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "score": 113.99965,
+      "timestamp": 1752047570538,
+      "timestamp_created": "2014-10-01T16:23:04.384Z",
+      "timestamp_created_epoch": 1412180584384,
+      "timestamp_update": "2022-02-21T11:07:27.703Z",
+      "timestamp_update_epoch": 1645441647703,
+      "title": [
+        "mönstrad filtmatta, intarsia, shyrdak"
+      ],
+      "type": "IMAGE",
+      "ugc": [
+        false
+      ]
+    }
+  },
+  {
+    "id": "british_museum-W_As2003-22-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As2003-22-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As2003.22.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "Felted wool hearth-rug with curvilinear applied/embroidered scroll motifs, a traditional Central Asian nomadic felt technique consistent with Kazakh craft (felt-making and scroll patterning are widely used by Kazakh and related steppe groups in Xinjiang).",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "rug",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "rug",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Hearth-rug (one of two); made of felted wool; four-sided piece of light brown felt wider at one end than the other for back; front one half covered with white felt with brown curvilinear design outlined with pink stitching, yellow curvilinear design embroidered across thinnest end.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_3/72791449_6242_4ea6_b745_a3bb00318aa2/preview_00292399_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "d1ae9fae788001d8ad20823afbb428f224765a658e318fc393fa9d194024ebf7",
+        "bytes": 83367,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As2003-22-2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.242001+00:00",
+    "raw": {
+      "title": "rug",
+      "description": "Hearth-rug (one of two); made of felted wool; four-sided piece of light brown felt wider at one end than the other for back; front one half covered with white felt with brown curvilinear design outlined with pink stitching, yellow curvilinear design embroidered across thinnest end.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_3/72791449_6242_4ea6_b745_a3bb00318aa2/preview_00292399_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As2003-22-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As2003-22-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As2003.22.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "Felted wool hearth-rug with curvilinear appliqué scrollwork combined with patchwork plaid panels — this style of felt appliqué is characteristic of Central Asian nomadic textile traditions including Kazakh work, and felt rugs are a plausible, well-documented Kazakh craft.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "rug",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "rug",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Hearth-rug (one of two); made of felted wool; four-sided piece of light brown felt wider at one end than the other for back; front one half beige felt with brown curvilinear design stitched with pink thread; other half covered with patchwork of stripes of blue and beige plaid alternating with blue corduroy.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/67dd9070_7a01_4774_876c_a3bb00316b80/preview_00292422_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "eba3949c89fa5c9bb5067d593cd1608def8d33b0ded73fff33fd35277e84552d",
+        "bytes": 77493,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As2003-22-3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.277740+00:00",
+    "raw": {
+      "title": "rug",
+      "description": "Hearth-rug (one of two); made of felted wool; four-sided piece of light brown felt wider at one end than the other for back; front one half beige felt with brown curvilinear design stitched with pink thread; other half covered with patchwork of stripes of blue and beige plaid alternating with blue corduroy.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/67dd9070_7a01_4774_876c_a3bb00316b80/preview_00292422_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As2003-22-4",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As2003-22-4",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-4",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As2003.22.4",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "A felted wool rug with appliquéd curvilinear scrollwork in red and beige, edged with corduroy triangles and zigzag embroidery — this technique and style is characteristic of Central Asian nomadic (Kazakh/Kyrgyz) felted textile production, consistent with the claimed Kazakh (Xinjiang) attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "rug",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "rug",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Rug; made of felted wool; rectangle of beige felt for back; front beige velvet appliquéd with red curvilinear designs stitched with yellow thread; band of brown corduroy and red cotton triangles at either short side; border of brown cotton embroidered with orange zigzag lines around edge.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_3/c543c596_2428_4eff_9d90_a3bb003176ed/preview_00292427_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "155471312403b1312ddebac369cc4ceae8d7f7459471eca1410916a957231a9f",
+        "bytes": 121987,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As2003-22-4.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.315098+00:00",
+    "raw": {
+      "title": "rug",
+      "description": "Rug; made of felted wool; rectangle of beige felt for back; front beige velvet appliquéd with red curvilinear designs stitched with yellow thread; band of brown corduroy and red cotton triangles at either short side; border of brown cotton embroidered with orange zigzag lines around edge.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_3/c543c596_2428_4eff_9d90_a3bb003176ed/preview_00292427_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As2003-22-1",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As2003-22-1",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As2003-22-1",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As2003.22.1",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image clearly shows a felted wool rug corner with appliquéd velvet curvilinear diamond and cross motifs bordered by gold brocade scrollwork, consistent with Kazakh \"tuskiiz\"-style felt/appliqué wall or floor hangings from Xinjiang/Central Asia.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "rug",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "rug",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Rug (&quot;tugki&#039;iz&quot;); made of felted wool; rectangle of beige felt for back; front at centre alternating diamonds of red velvet curvilinear design or red velvet outline of curvilinear appliquéd design stitched on with green thread surrounded by grid of blue velvet diamond wave design stitched on with pink thread; gold brocade triangles along three sides appliquéd with red velvet curvilinear design in green thread; around that red velvet three sides with yellow design with green thread; border of gold brocade on three sides with red velvet design with green thread.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/f327eb5a_3a69_41c8_b611_a3bb00630e2f/preview_00306865_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "be7832a62cb9c0d6d344935073ae1221df27591789894fb315a6f0b7bbbd8590",
+        "bytes": 124838,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As2003-22-1.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.362815+00:00",
+    "raw": {
+      "title": "rug",
+      "description": "Rug (&quot;tugki&#039;iz&quot;); made of felted wool; rectangle of beige felt for back; front at centre alternating diamonds of red velvet curvilinear design or red velvet outline of curvilinear appliquéd design stitched on with green thread surrounded by grid of blue velvet diamond wave design stitched on with pink thread; gold brocade triangles along three sides appliquéd with red velvet curvilinear design in green thread; around that red velvet three sides with yellow design with green thread; border of gold brocade on three sides with red velvet design with green thread.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_6/f327eb5a_3a69_41c8_b611_a3bb00630e2f/preview_00306865_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-5",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-5",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-5",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felt appliqué storage bag with scrolling floral/horn motifs and red wool fringe, a classic Central Asian nomadic felt-craft technique consistent with Kazakh material culture; this matches the described shyrdak-style felt bag.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "bag",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "bag",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Felt tent storage bag made of wool (shyrdak); appliquéd sections of orange and blue on grey backing, with red piping and quilting; tassels of red wool thread.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/5f58fbf7_752c_4a7f_bdd3_a3bb0124d49f/preview_00359788_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "93e1d9f3218e71893b69ef5ac055445213b54f78069b115eddc0b9cc5671174a",
+        "bytes": 78870,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.404004+00:00",
+    "raw": {
+      "title": "bag",
+      "description": "Felt tent storage bag made of wool (shyrdak); appliquéd sections of orange and blue on grey backing, with red piping and quilting; tassels of red wool thread.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/5f58fbf7_752c_4a7f_bdd3_a3bb0124d49f/preview_00359788_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1997-04-6",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1997-04-6",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1997-04-6",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1997.04.6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a shyrdak-style felt floor rug with mosaic curvilinear ram's-horn motifs, a craft form typical of Central Asian Turkic pastoralist peoples including Kazakhs; the technique and motifs are plausible for the claimed group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Floor-cover; made of &quot;shyrdak&quot; felt; rectangle of felt, from outside in: band of orange and brown waves (dog&#039;s tail [it koyruk]), band of red, orange and blue waves, burgundy line, central panel blue on red curvilinear design (ram&#039;s horn [kochkor muyuz]) inside diamonds separated by white and brown zigzags (iyrek).",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/935c37b6_6098_4cd1_af40_a3bc0069db63/preview_00389617_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "184ce84a85af9feb1e2d72ecdbe68b0a2cbeef8ce3ddfc43fb0d783799bcb222",
+        "bytes": 111032,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1997-04-6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.443489+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Floor-cover; made of &quot;shyrdak&quot; felt; rectangle of felt, from outside in: band of orange and brown waves (dog&#039;s tail [it koyruk]), band of red, orange and blue waves, burgundy line, central panel blue on red curvilinear design (ram&#039;s horn [kochkor muyuz]) inside diamonds separated by white and brown zigzags (iyrek).",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/6_6/935c37b6_6098_4cd1_af40_a3bc0069db63/preview_00389617_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-12",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-12",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-12",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.12",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a patchworked felt runner with appliquéd multicolored geometric squares (shyrdak-style), consistent with Central Asian nomadic textile traditions including Kazakh felt work used as tent/floor coverings.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of patchworked wool pieces (shyrdak) or (kurak doroja); central field made up of equal-sized appliqued multi-coloured squares making geometric patterns, with quilting; outer border made up of white appliqued pattern on brown backing; red and blue braid edging. Intended for use as a kitchen runner.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/4cffd0ac_ecd3_4cbe_912c_a3b60077c49d/preview_00175615_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "b580355a7c9cc05387207b1b1e381a08be65b074c2333e1429df6178223f0128",
+        "bytes": 29619,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-12.jpg",
+        "low_quality": true
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.486062+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of patchworked wool pieces (shyrdak) or (kurak doroja); central field made up of equal-sized appliqued multi-coloured squares making geometric patterns, with quilting; outer border made up of white appliqued pattern on brown backing; red and blue braid edging. Intended for use as a kitchen runner.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/4cffd0ac_ecd3_4cbe_912c_a3b60077c49d/preview_00175615_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This shows a felt appliqué shyrdak-style rug with floral motifs, a type of felt floor covering traditionally made by Central Asian nomadic peoples including Kazakhs; such work is plausible for a Kazakh household and cannot be reliably distinguished from neighbouring groups' felt work.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); central field and outer border made up of multi-coloured appliqued floral motifs with yellow, red, green and pale blue wool thread piping, with quilting, on brown backing. Intended for use as a floor cover.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/2aee3bff_ed12_4aa7_ba8e_a3b600783f85/preview_00175774_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "105e2780d56c7d840e919af5eefe70dedfb7eef2fcc399cf0722761d37ec7c66",
+        "bytes": 40542,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.526336+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); central field and outer border made up of multi-coloured appliqued floral motifs with yellow, red, green and pale blue wool thread piping, with quilting, on brown backing. Intended for use as a floor cover.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/2aee3bff_ed12_4aa7_ba8e_a3b600783f85/preview_00175774_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-8",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-8",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-8",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.8",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué shyrdak-type textile with the scrolling ram's-horn motifs and diamond medallions typical of Central Asian Turkic nomadic groups (Kazakh/Kyrgyz); such felt work is a well-attested Kazakh craft, so it plausibly belongs to the claimed culture even though the museum notes a \"shyrdak\" term more associated with Kyrgyz naming.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (topchu shyrdak); combination of traditional motifs in appliqued yellow and pink/grey, pink and green, and red, on brown backing, with pale green/blue wool thread piping and quilting, interspersed with white appliqued curvy zig-zag motifs and multi-coloured appliqued dots, with red and white braid edging. Intended for use as a kitchen runner.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/6d9a1594_792f_4084_b9ca_a3bb0123479c/preview_00359341_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "c223e56ad78bd7eb67586fda316d42eea75646a69d17a7b2bf19a7f37c8d5370",
+        "bytes": 172843,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-8.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.561307+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (topchu shyrdak); combination of traditional motifs in appliqued yellow and pink/grey, pink and green, and red, on brown backing, with pale green/blue wool thread piping and quilting, interspersed with white appliqued curvy zig-zag motifs and multi-coloured appliqued dots, with red and white braid edging. Intended for use as a kitchen runner.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/6d9a1594_792f_4084_b9ca_a3bb0123479c/preview_00359341_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué rug (shyrdak-type) with curling ram's-horn scroll motifs typical of Central Asian nomadic peoples including Kazakhs; it matches a tent floor covering used and made by this group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); appliquéd sections of white, red and pale blue, on brown backing, with decorative stitching and red piping. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/f7224685_5654_412f_98d4_a3bb0120ef37/preview_00358609_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "ade2da0622503b0e83c92acd7d3ff2c088891821cd1b92644caf798c4ac42b5a",
+        "bytes": 148191,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.603514+00:00",
+    "raw": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); appliquéd sections of white, red and pale blue, on brown backing, with decorative stitching and red piping. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/f7224685_5654_412f_98d4_a3bb0120ef37/preview_00358609_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-11",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-11",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-11",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.11",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felt appliqué rug with repeated diamond motifs in wool, a traditional nomadic floor-covering technique used across Central Asian groups including Kazakhs, consistent with the claimed ethnicity and textile category.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); appliquéd sections of white, pale and dark green, black, yellow and blue, on brown backing, with decorative stitching, and yellow, white and red/white piping. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/d18cc2dd_4665_4153_a157_a3b60077e439/preview_00175628_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "133fc22d74a591e2d3c42437378a6d93a82314b018cd86ecc745013737da40ab",
+        "bytes": 43400,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-11.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.644271+00:00",
+    "raw": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); appliquéd sections of white, pale and dark green, black, yellow and blue, on brown backing, with decorative stitching, and yellow, white and red/white piping. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/d18cc2dd_4665_4153_a157_a3b60077e439/preview_00175628_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-7",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-7",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-7",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.7",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué rug (shyrdak-style) with symmetrical floral/geometric motifs, a form of felted floor covering traditional among Central Asian nomadic peoples including Kazakhs; plausible for the claimed culture even if the museum uses Kyrgyz terminology.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); central field made up of multi-coloured appliqued floral and geometric motifs, with quilting and some yellow and blue wool thread piping; outer border made up of white appliqued curvy zig-zag pattern and multi-coloured appliqued traditional and floral motifs, with quilting, on brown backing; white and blue braid edging. Intended for use as a floor cover.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/72e6eacf_fc7e_4e7a_a62e_a3b6007823d3/preview_00175763_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2cba9a6551cbb40be136b4bb8523ad199376991688f87c2b32e54b3a96076d0f",
+        "bytes": 42833,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.687988+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); central field made up of multi-coloured appliqued floral and geometric motifs, with quilting and some yellow and blue wool thread piping; outer border made up of white appliqued curvy zig-zag pattern and multi-coloured appliqued traditional and floral motifs, with quilting, on brown backing; white and blue braid edging. Intended for use as a floor cover.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_9/30_7/72e6eacf_fc7e_4e7a_a62e_a3b6007823d3/preview_00175763_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-14",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-14",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-14",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.14",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows appliquéd felt sections with red and cream scroll motifs and a sawtooth border, consistent with a shyrdak-type felt textile used by Central Asian nomadic groups including Kazakhs; the craft and motif style plausibly fit the claimed ethnicity.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); made up of four appliquéd sections of red, white and brown, on brown backing, with decorative stitching and orange piping, sewn together. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/3a5637b7_c37d_4fa3_8125_a3bb01238874/preview_00359308_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "7e5f6f1737f03e2b13d6b81b3003269afefe418736efc40a8911b297acc76cd2",
+        "bytes": 84610,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.737665+00:00",
+    "raw": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); made up of four appliquéd sections of red, white and brown, on brown backing, with decorative stitching and orange piping, sewn together. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/3a5637b7_c37d_4fa3_8125_a3bb01238874/preview_00359308_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-6",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-6",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-6",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.6",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué shyrdak-style tent rug/floor covering with bold scrolling motifs and diamond medallions, a form of textile made and used across Central Asian Turkic pastoral groups including Kazakhs; plausible for the claimed culture.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); appliquéd sections of red, yellow, green, pale blue and black, on black backing, with decorative stitching and white/red piping. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/95e9fa91_695a_4d97_b70d_a3bb012547af/preview_00359928_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "644a630208c5a5685c97eecf3f8f910e2eca550b2d0a48d4a9ebe92747586d91",
+        "bytes": 138027,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-6.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.778111+00:00",
+    "raw": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); appliquéd sections of red, yellow, green, pale blue and black, on black backing, with decorative stitching and white/red piping. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/95e9fa91_695a_4d97_b70d_a3bb012547af/preview_00359928_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-5",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-5",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-5",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.5",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué shyrdak-style tent/floor covering with typical Central Asian scroll motifs, a craft strongly associated with Kazakh and Kyrgyz nomadic groups; plausible as a Kazakh-made textile.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); appliquéd sections of orange, white and brown, on brown backing, with decorative stitching and white, white/orange piping; white and brown sections only in two of the four corners. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/1f318759_9f67_44c6_bd90_a3bb0126deaa/preview_00360340_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "086d7ef48a391f613131478a90053f813889c00487c8b15911f83c1e65869db3",
+        "bytes": 136726,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-5.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.825136+00:00",
+    "raw": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); appliquéd sections of orange, white and brown, on brown backing, with decorative stitching and white, white/orange piping; white and brown sections only in two of the four corners. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/1f318759_9f67_44c6_bd90_a3bb0126deaa/preview_00360340_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-7",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-7",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-7",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.7",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt shyrdak-style appliqué floor rug with scrolling ram's-horn motifs, a technique and design tradition shared by Kazakh and other Central Asian pastoral groups, consistent with a Kazakh household textile.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); appliquéd sections of red, orange, green and dark brown, on dark brown backing, with decorative stitching and white and white/red piping; small area in one corner of just white and brown. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/dfaec331_5c8d_457b_b731_a3bb01253e3c/preview_00359923_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "123507629bcb1f2be71df8ee11026256d1dcdb70135d84c97ed9332068384a97",
+        "bytes": 132669,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-7.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.869935+00:00",
+    "raw": {
+      "title": "tent-cloth; carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); appliquéd sections of red, orange, green and dark brown, on dark brown backing, with decorative stitching and white and white/red piping; small area in one corner of just white and brown. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/dfaec331_5c8d_457b_b731_a3bb01253e3c/preview_00359923_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-13",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-13",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-13",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.13",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué carpet (shyrdak-style) with colorful geometric/scroll motifs, a craft form shared by Central Asian nomadic peoples including Kazakhs; nothing indicates it belongs to a distant, unrelated tradition.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak) in the form of a sampler (doroja); central field made up of ten appliqued sections with coloured piping and quilting, of differing motifs in many colours; outer border predominantly made up of white appliqued zig-zag motifs and multi-coloured appliqued dots all on brown backing. Intended for use as a kitchen runner.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/745e0e11_725a_44fe_babf_a3bb01252d49/preview_00359915_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a8628cc8c48e31c940be24c2f978d875416b616a013ec5da8eabc97296006d24",
+        "bytes": 168906,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-13.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.911455+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak) in the form of a sampler (doroja); central field made up of ten appliqued sections with coloured piping and quilting, of differing motifs in many colours; outer border predominantly made up of white appliqued zig-zag motifs and multi-coloured appliqued dots all on brown backing. Intended for use as a kitchen runner.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/745e0e11_725a_44fe_babf_a3bb01252d49/preview_00359915_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt appliqué shyrdak-type mat with symmetrical scroll motifs and braided edging, a traditional Central Asian nomadic craft consistent with Kazakh (or closely related Kyrgyz/Central Asian) felt-work; plausible for the claimed group.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "carpet (?); mat (?); rug (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); beige and grey appliqued sections on brown backing, with white piping and quilting; two felt wool thread spirals sewn to the centre of the two main motifs; brown and white wool braid border.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/f3176b03_c31c_493d_8f95_a3bb0123238f/preview_00359324_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "99014684a8040aa99da3ea58c9ceae87b8c71704014de198bb3b4f23f3db503b",
+        "bytes": 67823,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:51.970165+00:00",
+    "raw": {
+      "title": "carpet (?); mat (?); rug (?)",
+      "description": "Tent felt made of wool (shyrdak); beige and grey appliqued sections on brown backing, with white piping and quilting; two felt wool thread spirals sewn to the centre of the two main motifs; brown and white wool braid border.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/f3176b03_c31c_493d_8f95_a3bb0123238f/preview_00359324_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-3",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-3",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-3",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.3",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "A round appliquéd felt shyrdak (mat/tent-cloth) with scrolling ram's-horn motifs, a technique and style characteristic of Central Asian Kazakh/Kyrgyz felt-work; plausible as Kazakh craft.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "door-mat; tent-cloth (?)",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "door-mat; tent-cloth (?)",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Round tent felt made of wool (shyrdak); appliquéd sections of orange and red on green backing, with red and brown piping. Intended for use as a door mat.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/9d55dcc9_ad47_4e2c_bd7e_a3bb01231c6e/preview_00359320_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "2663e1fc69e908243d92c6e50eb11a412807af90347b883f26ccee853e1c4fd9",
+        "bytes": 72335,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-3.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:52.009690+00:00",
+    "raw": {
+      "title": "door-mat; tent-cloth (?)",
+      "description": "Round tent felt made of wool (shyrdak); appliquéd sections of orange and red on green backing, with red and brown piping. Intended for use as a door mat.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/9d55dcc9_ad47_4e2c_bd7e_a3bb01231c6e/preview_00359320_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-14",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-14",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-14",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.14",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt tent-band/cloth with applied felt zigzag and curvilinear scrollwork borders (shyrdak-style technique), a nomadic Central Asian craft consistent with Kazakh material culture; the design is plausible for the claimed group even though neighboring Kyrgyz/other steppe groups use similar patterns.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of light brown felt for back; front from inside out: brown rectangle at centre, orange and fuchsia zigzag (&quot;iyrek&quot;) band, red and turquoise curvilinear band, purple and fuchsia zigzag band, red and white braided trim",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/5372f501_00f5_46bd_8092_a3bb012335d2/preview_00359332_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "34db6facdcd5efe837a2e1beded6a53e117fdf520c742bf777b1cfe74ede9cb6",
+        "bytes": 114722,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-14.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:52.056279+00:00",
+    "raw": {
+      "title": "tent-cloth",
+      "description": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of light brown felt for back; front from inside out: brown rectangle at centre, orange and fuchsia zigzag (&quot;iyrek&quot;) band, red and turquoise curvilinear band, purple and fuchsia zigzag band, red and white braided trim",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/5372f501_00f5_46bd_8092_a3bb012335d2/preview_00359332_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-9",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-9",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-9",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.9",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a felt textile (tent-cloth) with bold appliqué geometric floral motifs in a style typical of Central Asian nomadic felt-work; such tent felts are shared craft among neighboring Kazakh and Kyrgyz herding groups, so this is plausible for the claimed Kazakh (Xinjiang) attribution.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of brown felt for back; fuchsia border, main pattern alternating squares of red flower on orange background, green on fuchsia, orange on fuchsia and fuchsia on green divided by brown and white wavy lines.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/e2bc4f22_796c_4656_ae17_a3bb0123a3e0/preview_00359371_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "a1642f9f5cc0036e4d14b6b5f5fdf9889073bba10e776a9ed9833669382a06f2",
+        "bytes": 122530,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-9.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:52.102423+00:00",
+    "raw": {
+      "title": "tent-cloth",
+      "description": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of brown felt for back; fuchsia border, main pattern alternating squares of red flower on orange background, green on fuchsia, orange on fuchsia and fuchsia on green divided by brown and white wavy lines.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/e2bc4f22_796c_4656_ae17_a3bb0123a3e0/preview_00359371_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-10",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-10",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-10",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.10",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felt tent-cloth with appliquéd/embroidered diamond patterns typical of Central Asian nomadic (shyrdak-style) work, consistent with Kazakh material culture in Xinjiang.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of brown felt for back; front from outside in: green edging, red border, brown and white zigzag (&quot;iyrek&quot;) band, diamond panels of orange flower on green background, green on orange, fuchsia on green, red on blue, separated with brown and white zigzag lines.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/049850ac_28b8_4462_adca_a3bb0126d6c9/preview_00360336_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "6c0994653747b727d00cfa3120b0e2387dc8744bdc44318400bf2da5c2ffb5de",
+        "bytes": 150819,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-10.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:52.148381+00:00",
+    "raw": {
+      "title": "tent-cloth",
+      "description": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of brown felt for back; front from outside in: green edging, red border, brown and white zigzag (&quot;iyrek&quot;) band, diamond panels of orange flower on green background, green on orange, fuchsia on green, red on blue, separated with brown and white zigzag lines.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/049850ac_28b8_4462_adca_a3bb0126d6c9/preview_00360336_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1996-13-35",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1996-13-35",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1996-13-35",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1996.13.35",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": false,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "This is a shyrdak felt tent-cloth with an embroidered inscription naming At-Bashy district, a place in Naryn, Kyrgyzstan — shyrdak felt appliqué is a distinctively Kyrgyz craft tradition, not Kazakh, so the object belongs to a different named people despite the Kazakh (Xinjiang) claim.",
+      "vision_confidence": "MEDIUM",
+      "vision_image": "good",
+      "vision_era": "traditional",
+      "reattribution": {
+        "to": "central-asia__kyrgyzstan__kyrgyz",
+        "people": "Kyrgyz",
+        "belongs": true,
+        "art_form": "textile",
+        "image": "good",
+        "era": "traditional",
+        "reason": "This is a shyrdak-style felt tent-cloth with typical ram's-horn (kochkor muyuz) border motifs, appliquéd floral and butterfly designs, matching the described Kyrgyz felt textile tradition (with Kyrgyz-language embroidery reference to Ат-Башы)."
+      }
+    },
+    "physical": {
+      "title": "tent-cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of black felt for back; front red with black border around edge with alternating multicoloured W shapes (ram&#039;s horn [kochkor muyuz]) and white circles with multicoloured centres; two multicoloured butterflies and flower on blue background at centre, multicoloured flowers in each corner; &quot;АТ БАШЫ РАИРНҮ 08 АҮА-КАИЫНДЫ АИЫЛЫ АПЫБЕКОВА ЊАНЫП 1938 - ЊЫА&quot; embroidered in black along one border.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/b7bba3b2_f8ac_495d_9dd5_a3bb01236e7a/preview_00359357_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "65551e4731d9067267e41415ba0ab387b4d3fa739e948734e170be1eaa55d3b1",
+        "bytes": 125489,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1996-13-35.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:52.190007+00:00",
+    "raw": {
+      "title": "tent-cloth",
+      "description": "Tent-cloth; made of &quot;shyrdak&quot; felt; rectangle of black felt for back; front red with black border around edge with alternating multicoloured W shapes (ram&#039;s horn [kochkor muyuz]) and white circles with multicoloured centres; two multicoloured butterflies and flower on blue background at centre, multicoloured flowers in each corner; &quot;АТ БАШЫ РАИРНҮ 08 АҮА-КАИЫНДЫ АИЫЛЫ АПЫБЕКОВА ЊАНЫП 1938 - ЊЫА&quot; embroidered in black along one border.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/b7bba3b2_f8ac_495d_9dd5_a3bb01236e7a/preview_00359357_001.jpg"
+    }
+  },
+  {
+    "id": "british_museum-W_As1995-20-2",
+    "source": {
+      "museum": "british_museum",
+      "museum_name": "British Museum",
+      "object_id": "W_As1995-20-2",
+      "object_url": "https://www.britishmuseum.org/collection/object/W_As1995-20-2",
+      "iiif_manifest": null,
+      "credit_line": "© The Trustees of the British Museum",
+      "rights": "CC BY-NC-SA 4.0",
+      "license_url": null,
+      "accession_number": "W,As1995.20.2",
+      "accession_year": null
+    },
+    "cultural": {
+      "region": "central-asia",
+      "country": "China (Xinjiang)",
+      "ethnicity": "Kazakh (Xinjiang)",
+      "tradition": "Kazakh (Xinjiang)",
+      "art_form": "textile",
+      "pattern_density": 3,
+      "vision_vetted": true,
+      "vision_by": "cloud-subagent:sonnet",
+      "art_form_vision": "textile",
+      "vision_reason": "The image shows a felt rug (shyrdak-style) with bold red ground and appliquéd grey/white scroll and vine motifs, bordered by a zigzag pattern — a classic Central Asian/Kazakh-Kyrgyz felt floor covering, consistent with the described tent-cloth use.",
+      "vision_confidence": "HIGH",
+      "vision_image": "good",
+      "vision_era": "traditional"
+    },
+    "physical": {
+      "title": "tent-cloth",
+      "titles_alt": [],
+      "date_text": null,
+      "date_earliest": null,
+      "date_latest": null,
+      "period": null,
+      "dynasty": null,
+      "materials": [],
+      "techniques": [],
+      "medium_raw": null,
+      "classification": "tent-cloth",
+      "styles": [],
+      "categories": [],
+      "physical_description": null,
+      "summary": "Tent felt made of wool (shyrdak); appliquéd sections of red, grey, white and brown on brown backing, with decorative stitching and red and red/brown piping. Intended for use as floor covering.",
+      "historical_context": null,
+      "dimensions": [],
+      "dimensions_note": null,
+      "marks_inscriptions": null
+    },
+    "location": {
+      "made_in_place": null,
+      "made_in_place_alt": [],
+      "current_gallery": null,
+      "current_museum": "British Museum",
+      "on_display": null
+    },
+    "attribution": {
+      "makers": [],
+      "acquisition_history": [],
+      "excavation": null
+    },
+    "linked_data": {
+      "wikidata_url": null,
+      "aat_urls": [],
+      "wikipedia": null,
+      "other_urls": []
+    },
+    "images": [
+      {
+        "url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/28d4d437_d4c6_44a1_b2d5_a3bb01230eb3/preview_00359311_001.jpg",
+        "iiif_id": null,
+        "iiif_base": null,
+        "role": "primary",
+        "sha256": "cdd719e92052b562d3aa6ab5bc0364d83479651e5d3befbceb52c93867242af5",
+        "bytes": 148073,
+        "local_path": "library\\central-asia\\china-xinjiang\\kazakh-xinjiang\\textile\\kazakh-xinjiang\\images\\bm_W_As1995-20-2.jpg"
+      }
+    ],
+    "map": {
+      "lat": null,
+      "lon": null,
+      "geocoded_from": null
+    },
+    "processed_at": "2026-07-28T18:58:52.236226+00:00",
+    "raw": {
+      "title": "tent-cloth",
+      "description": "Tent felt made of wool (shyrdak); appliquéd sections of red, grey, white and brown on brown backing, with decorative stitching and red and red/brown piping. Intended for use as floor covering.",
+      "image_url": "https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_17/28d4d437_d4c6_44a1_b2d5_a3bb01230eb3/preview_00359311_001.jpg"
+    }
+  }
+]
