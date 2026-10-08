@@ -619,9 +619,10 @@ _COUNTRY_REGION = {
                      "Yemen", "Oman", "United Arab Emirates", "Kuwait", "Qatar", "Bahrain"), "middle-east-north-africa"),
     "Cyprus": "europe",
 }
-# Per-people exceptions to the country rule: Denmark's seeded cultures are
-# Greenlandic, which would put the Danes in North America.
-_STUB_REGION = {"Q164714": "europe"}
+# Per-people exceptions to the country rule. Denmark holds both the Danes and
+# the Kalaallit of Greenland, and its majority region comes from the shards of
+# the last build, so it flips between builds unless both are pinned.
+_STUB_REGION = {"Q164714": "europe", "Q888553": "north-america"}
 
 
 def _screened_keep() -> set[str]:
