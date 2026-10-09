@@ -3,7 +3,7 @@ import type { GlobePoint, EthnicityShard } from '../lib/types';
 import { MapLibreGlobe } from './MapLibreGlobe';
 import { ThreeGlobe, type EarthMode } from './ThreeGlobe';
 import { EthnicityPanel } from './EthnicityPanel';
-import { SearchOverlay } from './SearchOverlay';
+import { SearchBox } from './SearchBox';
 import { ThemeToggle } from './ThemeToggle';
 import { getTheme, type Theme } from '../lib/theme';
 
@@ -130,8 +130,8 @@ export function GlobeSwitcher({ points }: Props) {
       {/* Side panel */}
       <EthnicityPanel point={activePoint} shard={shard} onClose={() => setActiveKey(null)} />
 
-      {/* ⌘K / Ctrl+K search overlay */}
-      <SearchOverlay points={points} onSelect={setActiveKey} />
+      {/* Bottom-left search: cultures or images; "/" or ⌘K / Ctrl+K focuses it */}
+      <SearchBox points={points} onSelect={setActiveKey} panelOpen={!!activeKey} />
 
       {/* Legend footer */}
       {/* Sits clear of the map's corner controls (compact attribution at

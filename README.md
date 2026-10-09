@@ -65,6 +65,9 @@ data/ethnicities/*.json                # per-ethnicity page shards
 data/objects/*.json                    # per-object detail shards
   │
 site/                                  # Astro static site consumes the shards
+                                       # bottom-left search box: Cultures (click goes to the culture) / Images (click opens the
+                                       # picture, "Go to culture" jumps); Images reads public/data/search-images.json,
+                                       # written by site/scripts/sync-public.mjs from data/ethnicities/ (run `npm run prepare-data`)
   │
   ▼
 Vercel project folk-patterns           # vercel --prod from site/; images from the museums, the rest on R2

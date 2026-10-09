@@ -211,6 +211,10 @@ export function MapLibreGlobe({ points, onSelect, activeKey, theme = 'dark' }: P
   // records the key, and the load handler draws it.
   useEffect(() => {
     showTerritory('terr-active', activeKey);
+    // A culture picked from the search box is not under the pointer: fly to it too.
+    const p = activeKey ? points.find((x) => x.key === activeKey) : null;
+    const map = mapRef.current;
+    if (p && map) map.flyTo({ center: [p.lon, p.lat], zoom: Math.max(map.getZoom(), 5), speed: 0.8 });
   }, [activeKey]);
 
   return <div ref={containerRef} style={{ position: 'absolute', inset: 0, width: '100%', height: '100%' }} />;

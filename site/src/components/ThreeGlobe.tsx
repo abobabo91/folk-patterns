@@ -1,5 +1,5 @@
 import { Suspense, useEffect, useMemo, useRef, useState } from 'react';
-import { Canvas, useFrame, useLoader } from '@react-three/fiber';
+import { Canvas, useFrame, useLoader, useThree } from '@react-three/fiber';
 import { Html, Line, OrbitControls, Stars } from '@react-three/drei';
 import * as THREE from 'three';
 import type { GlobePoint } from '../lib/types';
@@ -377,6 +377,24 @@ function Markers({
   );
 }
 
+// Turns the globe towards the selected culture (a marker click or the search box).
+function FlyToActive({ points, activeKey }: { points: GlobePoint[]; activeKey: string | null }) {
+  const { camera } = useThree();
+  const target = useRef<THREE.Vector3 | null>(null);
+  useEffect(() => {
+    const p = points.find((x) => x.key === activeKey);
+    target.current = p ? latLonToVec3(p.lat, p.lon, 1).normalize() : null;
+  }, [points, activeKey]);
+  useFrame(() => {
+    if (!target.current) return;
+    const dist = camera.position.length();
+    const want = target.current.clone().multiplyScalar(dist);
+    camera.position.lerp(want, 0.08).setLength(dist);
+    if (camera.position.distanceTo(want) < 0.01) target.current = null;
+  });
+  return null;
+}
+
 export function ThreeGlobe({ points, onSelect, activeKey, theme = 'dark', earthMode = 'satellite' }: Props) {
   // Set of country names we have data for — used to filter the country labels
   // to only the ones that are meaningful. Uses the seed country name after
@@ -412,6 +430,7 @@ export function ThreeGlobe({ points, onSelect, activeKey, theme = 'dark', earthM
         <CountryBorders theme={theme} earthMode={earthMode} />
         <CountryLabels theme={theme} seedCountries={seedCountrySet} />
         <Markers points={points} onSelect={onSelect} activeKey={activeKey} />
+        <FlyToActive points={points} activeKey={activeKey} />
         {theme === 'dark' && earthMode === 'satellite' && (
           <Stars radius={100} depth={50} count={4000} factor={2.5} fade speed={0.4} />
         )}
