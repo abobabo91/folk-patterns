@@ -44,6 +44,7 @@ const imageSrc = (image: string) =>
 // type and a click goes straight to the culture. Images: every match shows as
 // you type; a click opens the picture large, and "Go to culture" jumps from there.
 export function SearchBox({ points, onSelect, panelOpen }: Props) {
+  const [open, setOpen] = useState(false);
   const [mode, setMode] = useState<Mode>('cultures');
   const [q, setQ] = useState('');
   const [rows, setRows] = useState<ImageRow[] | null>(null);
@@ -60,18 +61,22 @@ export function SearchBox({ points, onSelect, panelOpen }: Props) {
       const typing = ['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName ?? '');
       if (((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') || (e.key === '/' && !typing)) {
         e.preventDefault();
-        inputRef.current?.focus();
+        setOpen(true);
       } else if (e.key === 'Escape') {
         if (picked) setPicked(null);
-        else if (document.activeElement === inputRef.current) {
+        else if (open) {
           if (q) setQ('');
-          else inputRef.current?.blur();
+          else setOpen(false);
         }
       }
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [picked, q]);
+  }, [picked, q, open]);
+
+  useEffect(() => {
+    if (open) inputRef.current?.focus();
+  }, [open]);
 
   // The image index is about a megabyte compressed: fetched the first time Images is used.
   useEffect(() => {
@@ -137,7 +142,18 @@ export function SearchBox({ points, onSelect, panelOpen }: Props) {
 
   return (
     <>
-      <div
+      {!open && (
+        <button
+          onClick={() => setOpen(true)}
+          aria-label="Search"
+          title="Search (/)"
+          className={'sidebar-panel absolute bottom-16 left-3 z-30 flex items-center gap-2 rounded-full border border-dusk px-4 py-2.5 text-parchment sm:bottom-20 ' + (panelOpen ? 'max-lg:hidden' : '')}
+        >
+          <svg width="16" height="16" viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><circle cx="8.5" cy="8.5" r="5.5" /><path d="M13 13l4.5 4.5" /></svg>
+          <span className="text-[11px] uppercase tracking-widest">Search</span>
+        </button>
+      )}
+      {open && <div
         className={'absolute bottom-16 left-3 z-30 w-[min(360px,calc(100vw-1.5rem))] sm:bottom-20 ' + (panelOpen ? 'max-lg:hidden' : '')}
       >
         <div className="sidebar-panel flex flex-col overflow-hidden rounded-md border border-dusk">
@@ -202,12 +218,13 @@ export function SearchBox({ points, onSelect, panelOpen }: Props) {
               value={q}
               onChange={(e) => setQ(e.target.value)}
               placeholder={mode === 'cultures' ? 'Search cultures…' : 'Search images…'}
-              className="min-w-0 flex-1 bg-transparent px-1 py-1.5 text-base outline-none placeholder:text-parchment/40"
+              className="search-input min-w-0 flex-1 bg-transparent px-1 py-1.5 text-base text-parchment outline-none"
             />
             {needle && <span className="sub-mono shrink-0 text-[10px] uppercase tracking-widest">{total}</span>}
+            <button onClick={() => { setQ(''); setOpen(false); }} aria-label="Close search" className="close-btn shrink-0 rounded-full border px-2.5 py-1 text-sm leading-none">×</button>
           </div>
         </div>
-      </div>
+      </div>}
 
       {picked && (
         <div

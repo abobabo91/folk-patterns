@@ -113,6 +113,8 @@
   html:not(.dark) .sub-mono { color: #7a7a7c; }
   .sub-meta { @apply text-parchment/60; }
   html:not(.dark) .sub-meta { color: #4a4a4c; }
+  .search-input::placeholder { @apply text-parchment/50; }
+  html:not(.dark) .search-input::placeholder { color: #7a7a7c; }
   .close-btn { @apply border-dusk text-parchment/60 hover:text-parchment; }
   html:not(.dark) .close-btn { border-color: #e5e0d3; color: #7a7a7c; background-color: #fff; }
   html:not(.dark) .close-btn:hover { color: #1a1a1c; }
