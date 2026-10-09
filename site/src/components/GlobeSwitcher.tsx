@@ -20,6 +20,12 @@ export function GlobeSwitcher({ points }: Props) {
   const [shard, setShard] = useState<EthnicityShard | null>(null);
   const [theme, setTheme] = useState<Theme>('light');
 
+  // /atlas?culture=<key> opens that culture (home page, catalog and search links).
+  useEffect(() => {
+    const key = new URLSearchParams(window.location.search).get('culture');
+    if (key && points.some((p) => p.key === key)) setActiveKey(key);
+  }, [points]);
+
   useEffect(() => {
     setTheme(getTheme());
     // Listen for theme changes via mutation observer on <html data-theme>.
@@ -71,7 +77,7 @@ export function GlobeSwitcher({ points }: Props) {
       {/* Header + toggle */}
       <div className="pointer-events-none absolute top-0 left-0 right-0 z-20 flex items-start justify-between p-6">
         <div className="pointer-events-auto">
-          <h1 className="font-serif text-2xl font-medium tracking-tight">folk-patterns</h1>
+          <h1 className="font-serif text-2xl font-medium tracking-tight"><a href="/">folk-patterns</a></h1>
           <p className="header-sub mt-1 font-mono text-[10px] uppercase tracking-widest">
             a visual atlas of world folk culture
           </p>
@@ -139,7 +145,7 @@ export function GlobeSwitcher({ points }: Props) {
       <div className="footer-legend pointer-events-none absolute bottom-0 left-12 right-14 z-20 flex items-center justify-between gap-4 py-4 sm:py-6 text-[10px] font-mono uppercase tracking-widest">
         <span>{points.length} cultures · {totalObjects} objects</span>
         <span className="hidden sm:inline">
-          press <kbd className="rounded border border-current px-1 py-0.5">/</kbd> or <kbd className="rounded border border-current px-1 py-0.5">⌘K</kbd> to search · click a marker · <a href="/contribute" className="pointer-events-auto hover:text-amber-400 transition">contribute</a>
+          press <kbd className="rounded border border-current px-1 py-0.5">/</kbd> or <kbd className="rounded border border-current px-1 py-0.5">⌘K</kbd> to search · click a marker · <a href="/" className="pointer-events-auto hover:text-amber-400 transition">home</a> · <a href="/catalog" className="pointer-events-auto hover:text-amber-400 transition">catalog</a> · <a href="/contribute" className="pointer-events-auto hover:text-amber-400 transition">contribute</a>
         </span>
       </div>
     </div>

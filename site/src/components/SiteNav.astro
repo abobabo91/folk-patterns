@@ -1,0 +1,25 @@
+---
+import { ThemeToggle } from './ThemeToggle';
+export interface Props { active?: 'home' | 'atlas' | 'catalog' | 'contribute' }
+const { active = 'home' } = Astro.props;
+const links = [
+  ['home', '/', 'Home'],
+  ['atlas', '/atlas', 'Atlas'],
+  ['catalog', '/catalog', 'Catalog'],
+  ['contribute', '/contribute', 'Contribute'],
+] as const;
+---
+<header class="border-b border-dusk">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-6 py-4">
+    <a href="/" class="font-serif text-2xl font-medium tracking-tight">folk-patterns</a>
+    <nav class="flex items-center gap-1 sm:gap-3">
+      {links.map(([k, href, label]) => (
+        <a
+          href={href}
+          class={'rounded-full px-3 py-1.5 text-[11px] uppercase tracking-widest transition ' + (active === k ? 'bg-amber-500 text-ink nav-active' : 'text-parchment/70 hover:text-parchment')}
+        >{label}</a>
+      ))}
+      <ThemeToggle client:load />
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteNav from '../components/SiteNav.astro';
+import { Catalog } from '../components/Catalog';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+const raw = JSON.parse(await fs.readFile(path.resolve('./public/data/globe.json'), 'utf-8'));
+const points = raw.points.map((p: any) => ({
+  key: p.key, ethnicity: p.ethnicity, country: p.country, region: p.region, top_image: p.top_image, object_count: p.object_count,
+}));
+---
+
+<Base title="Catalog · folk-patterns">
+  <SiteNav active="catalog" />
+  <Catalog client:load points={points} />
+</Base>

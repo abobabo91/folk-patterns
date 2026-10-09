@@ -65,6 +65,8 @@ data/ethnicities/*.json                # per-ethnicity page shards
 data/objects/*.json                    # per-object detail shards
   │
 site/                                  # Astro static site consumes the shards
+                                       # pages: / home (random people and picture, category and region tiles), /atlas (globe; ?culture=<key> opens a culture),
+                                       # /catalog (all pictures by category, all peoples by region; ?cat=, ?tab=peoples, ?region=)
                                        # bottom-left search box: Cultures (click goes to the culture) / Images (click opens the
                                        # picture, "Go to culture" jumps); Images reads public/data/search-images.json,
                                        # written by site/scripts/sync-public.mjs from data/ethnicities/ (run `npm run prepare-data`)

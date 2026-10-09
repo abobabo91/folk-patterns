@@ -1,15 +1,45 @@
 ---
 import Base from '../layouts/Base.astro';
-import { GlobeSwitcher } from '../components/GlobeSwitcher';
+import SiteNav from '../components/SiteNav.astro';
+import { Home } from '../components/Home';
+import { ART_FORMS, REGIONS, imageSrc, type ImageRow } from '../lib/catalog';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-// Load the pre-built globe payload at build time.
-const globePath = path.resolve('./public/data/globe.json');
-const raw = JSON.parse(await fs.readFile(globePath, 'utf-8'));
-const points = raw.points;
+const dataDir = path.resolve('./public/data');
+const points = JSON.parse(await fs.readFile(path.join(dataDir, 'globe.json'), 'utf-8')).points;
+const slim = points.map((p: any) => ({ key: p.key, ethnicity: p.ethnicity, country: p.country, region: p.region, top_image: p.top_image, object_count: p.object_count, seed_traditions: (p.seed_traditions || []).slice(0, 6) }));
+const rows: ImageRow[] = JSON.parse(await fs.readFile(path.join(dataDir, 'search-images.json'), 'utf-8'));
+
+// Per category: image count and a cover picture (the middle of the list, so it is not always the first record).
+const byForm = new Map<string, ImageRow[]>();
+for (const r of rows) (byForm.get(r[2]) ?? byForm.set(r[2], []).get(r[2])!).push(r);
+const categories = Object.keys(ART_FORMS)
+  .filter((k) => byForm.has(k))
+  .map((k) => {
+    const list = byForm.get(k)!;
+    return { key: k, label: ART_FORMS[k], count: list.length, cover: imageSrc(list[Math.floor(list.length / 2)][4]) };
+  });
+
+const regions = Object.keys(REGIONS).map((k) => {
+  const ps = points.filter((p: any) => p.region === k);
+  // Cover: a museum object (not a Commons photo) of the region's best-stocked culture.
+  const keys = new Set(ps.map((p: any) => p.key));
+  const best = [...ps].sort((a: any, b: any) => b.object_count - a.object_count).find((p: any) => rows.some((r) => r[1] === p.key && r[2] !== 'commons'));
+  const pool = best ? rows.filter((r) => r[1] === best.key && r[2] !== 'commons') : [];
+  const cover = pool.length ? pool[Math.floor(pool.length / 2)] : null;
+  void keys;
+  return { key: k, label: REGIONS[k], count: ps.length, cover: cover ? imageSrc(cover[4]) : null };
+});
+
+const stats = {
+  cultures: points.length,
+  images: rows.length,
+  countries: new Set(points.map((p: any) => p.country)).size,
+};
 ---
 
-<Base title="folk-patterns · visual atlas">
-  <GlobeSwitcher client:only="react" points={points} />
+<Base title="folk-patterns · an atlas of the world's peoples and what they made">
+  <SiteNav active="home" />
+  <Home client:load points={slim} categories={categories} regions={regions} stats={stats} />
 </Base>
